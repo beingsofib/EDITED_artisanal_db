@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../../css_js/5eadb.css">
+<title>Shadowdark Encounter Generator</title>
+</head>
+<body>
+<div><a href="../../../index.html">5e Artisanal Database</a> → Shadowdark Encounter Generator</div>
+
+<h1>Shadowdark Encounter Generator</h1>
+
+<button onclick="generateContent()">Roll</button>
+
+<div id="output">
+    <em>Click the button above to generate content...</em>
+</div>
+
+<!-- Load shared common data -->
+<script src="../../css_js/common_generator_data.js"></script>
+<script src="../../css_js/generator.js"></script>
+<script src="../../custom_css_js/homebrew_shadowdark.js"></script>
+
+<script>
+// Shadowdark shared data
+const shadowdarkDataText = `
+template
+    <p><strong> Distance </strong> {encounter_distance}  <br><strong>Activity</strong> {encounter_activity} <br><strong>Reaction</strong> {encounter_reaction} <br><strong>Treasure</strong> {treasure_generator} </p> <p><strong> Trap</strong> {trap_trap} <br><strong>Trap Trigger</strong> {trap_trigger} <br><strong>Trap Damage</strong> {trap_damage}<br></p> <p><strong> Hazard</strong> {hazards_movement} <br><strong>Hazard Damage</strong> {hazards_damage} <br><strong>Hazard </strong> {hazards_weaken} <br><br></p>
+
+
+`;
+
+// Combine location-specific data with shared common data
+const dataText = addCommonDataTo(shadowdarkDataText);
+</script>
+
+</body>
+</html>

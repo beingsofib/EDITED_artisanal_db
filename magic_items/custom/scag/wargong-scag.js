@@ -1,0 +1,9 @@
+window.magicItemMarkdown = `# Wargong
+
+- **Rarity**: Unknown
+- **Type**: Instrument
+- **Attunement**: No
+- **Source**: Sword Coast Adventurer's Guide
+
+A metal gong, traditionally made from a shield, particularly the shield of an enemy. Both goblins and dwarves make and play wargongs, their sound echoing through tunnels in the Underdark.
+`;

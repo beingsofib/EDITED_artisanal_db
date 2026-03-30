@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<title>NPC Generator</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → NPC Generator</div>
+
+<h1>NPC Generator</h1>
+
+<button onclick="generateContent()">Roll</button>
+
+<div id="output">
+    <em>Click the button above to generate content...</em>
+</div>
+
+<!-- Load shared common data -->
+<script src="../css_js/common_generator_data.js"></script>
+<script src="../css_js/generator.js"></script>
+<script src="../custom_css_js/homebrew_generator.js"></script>
+
+
+<script>
+// NPC shared data
+const npcDataText = `
+template
+    <p><strong>{name} {surname_first}{surname_last}</strong> — {species_trait} {npc_type}<br>{speech} voice, {hair} hair, {facial_features}, {visual_characteristics}, {trait}, {dress}, holding {simple_item} <br>Aims: {goal} {quest}</p>
+
+`;
+
+// Combine location-specific data with shared common data
+const dataText = addCommonDataTo(npcDataText);
+</script>
+
+</body>
+</html>

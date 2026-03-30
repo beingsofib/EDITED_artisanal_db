@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<title>Scroll Generator</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → Scroll Generator</div>
+
+<h1>Scroll Generator</h1>
+
+<div style="margin: 20px 0;">
+    <div style="margin-bottom: 15px;">
+        <label for="source">Spell Source:</label>
+        <select id="source" style="margin-left: 10px;">
+            <option value="srd-2024" selected>D&D 2024 (5.2 SRD)</option>
+            <option value="wotc-srd">D&D 2014 (5.1 SRD)</option>
+            <option value="dmag">Deep Magic 5e</option>
+            <option value="a5e">Level Up Advanced 5e</option>
+        </select>
+    </div>
+    
+    <div>
+        <label for="rarity">Spell Level/Rarity:</label>
+        <select id="rarity" style="margin-left: 10px;">
+            <option value="any" selected>Any (All spell levels)</option>
+            <option value="common">Common (Cantrips & 1st level)</option>
+            <option value="uncommon">Uncommon (2nd & 3rd level)</option>
+            <option value="rare">Rare (4th & 5th level)</option>
+            <option value="very-rare">Very Rare (6th, 7th & 8th level)</option>
+            <option value="legendary">Legendary (9th level)</option>
+        </select>
+    </div>
+</div>
+
+<button onclick="generateScrolls()">Generate 10 Scrolls</button>
+
+<div id="output">
+    <em>Click the button above to generate 10 spell scrolls...</em>
+</div>
+
+<script src="../../css_js/spell_index.js"></script>
+
+<script>
+// Simplified scroll generator using minimal spell index
+
+function getRandomElement(array) {
+    return array[Math.floor(Math.random() * array.length)];
+}
+
+function formatPrice(price) {
+    return price.toLocaleString() + " GP";
+}
+
+function getOrdinalSuffix(num) {
+    const j = num % 10;
+    const k = num % 100;
+    if (j == 1 && k != 11) return "st";
+    if (j == 2 && k != 12) return "nd";
+    if (j == 3 && k != 13) return "rd";
+    return "th";
+}
+
+function generateScrolls() {
+    const sourceSelect = document.getElementById('source');
+    const raritySelect = document.getElementById('rarity');
+    const output = document.getElementById('output');
+    const selectedSource = sourceSelect.value;
+    const selectedRarity = raritySelect.value;
+    const possibleLevels = rarityToLevels[selectedRarity];
+    
+    let html = '<ol>';
+    
+    // Generate 10 scrolls
+    for (let i = 0; i < 10; i++) {
+        // Pick a random spell level from the possible levels for this rarity
+        const spellLevel = getRandomElement(possibleLevels);
+        
+        // Get spells from the selected source
+        const availableSpells = getSpellsFromSource(selectedSource, spellLevel);
+        
+        // Pick a random spell
+        const spellName = getRandomElement(availableSpells);
+        
+        // Get stats for this spell level
+        const stats = scrollStats[spellLevel];
+        
+        // Create spell link
+        const spellLink = getSpellLink(spellName, selectedSource);
+        
+        const levelText = spellLevel === "0" ? "Cantrip" : `${spellLevel}${getOrdinalSuffix(spellLevel)} level`;
+        
+        html += '<li>Spell Scroll ';
+        html += `<em><a href="${spellLink}" target="_blank">${spellName}</a></em>, ${levelText}, ${stats.rarity}, `;
+        html += ` DC ${stats.dc}, +${stats.attack} Spell Attack, ${formatPrice(stats.price)}`;
+        html += '</li>';
+    }
+    
+    html += '</ol>';
+    
+    output.innerHTML = html;
+}
+</script>
+<script>
+// Auto-generate scrolls on page load
+document.addEventListener('DOMContentLoaded', function() {
+    generateScrolls();
+});
+</script>
+</body>
+</html>

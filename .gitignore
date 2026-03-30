@@ -1,0 +1,20 @@
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Large reference file — too big for git (85 MB); keep locally only
+forked_folders/forgotten_realms/forgotten.md
+
+# Backup files — use git tags for snapshots instead
+**/*BACKUP*.js
+**/*RETIRED*.js
+
+# Editor/OS artifacts
+*.swp
+*.swo
+*~
+Thumbs.db
+forked_folders/dyson_archive/maps/
+forked_folders/dyson_archive/thumbnails/
+forked_folders/dyson_archive/maps/
+forked_folders/dyson_archive/thumbnails/

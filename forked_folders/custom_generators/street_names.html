@@ -1,0 +1,2410 @@
+<!--
+GENERATOR TEMPLATE - Copy and modify this template to create new generators
+
+This template demonstrates the basic structure and features of a 5e Artisanal Database generator.
+
+To create a new generator:
+1. Copy this template directory
+2. Modify the dataText variable with your content
+3. Update the title and headings
+
+This code is released under a CC0 1.0 Universal license.
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+You can copy, modify, and distribute this tool, even for commercial purposes,
+all without asking permission.
+
+-->
+
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<title>Street Names</title>
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → Street Names</div>
+<style>
+body {
+    max-width: 800px;
+    margin: auto;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 10px;
+}
+
+p, li {
+    line-height: 1.5em;
+}
+
+button {
+    font-size: 18px;
+    min-height: 44px;
+    padding: 12px 16px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    cursor: pointer;
+    touch-action: manipulation;
+}
+
+button:hover {
+    background-color: #e9e9e9;
+}
+</style>
+
+<h1>Street Names</h1>
+
+
+<button onclick="generateContent()">Roll</button>
+
+<div id="output">
+    <em>Click the button above to generate content...</em>
+</div>
+
+<script>
+
+// Configuration object - modify these values to customize the generator
+
+const generatorConfig = {
+    numberOfResults: 20,        // How many results to generate
+    outputFormat: 'ordered'     // 'ordered' for <ol>, 'unordered' for <ul>, 'paragraphs' for <p>
+};
+
+// Modify the data below to change the content of the generator.
+// Use [[90-110]] for random rolls between numbers.
+// Use {table} to roll on a table. You can include one random roll in another.
+// Use item ^2 to double the probability of that item appearing.
+// Use {"option1"|"option2"} to randomly choose between options.
+// Use {{swords}|{blunt_weapons}} to randomly choose between table results.
+// Use {"option1"|"option2"|"option3" ^4} to make the last option more likely.
+
+const dataText = `
+template
+  {simple_item} {name}
+
+
+coin_type
+  copper ^3
+  silver ^3
+  gold
+  platinum
+
+simple_item
+  Abbeville
+  Abbot
+  Abercorn
+  Aberdour
+  Abernethy
+  Acacia
+  Ackroyd
+  Acorn
+  Acuba
+  Ada
+  Adam
+  Adderley
+  Addison
+  Adelaide
+  Adelina
+  Aden
+  Ado
+  Agne
+  Ainger
+  Ainsley
+  Airy
+  Aislibie
+  Aitken
+  Akerman
+  Akers
+  Albert
+  Alberta
+  Albion
+  Albury
+  Aldebert
+  Aldeburgh
+  Aldenham
+  Alderney
+  Aldford
+  Aldred
+  Aldworth
+  Alexander
+  Alfred
+  Alice
+  Allas
+  Allcroft
+  Alleyn
+  Allsop
+  Alma
+  Almeric
+  Alperton
+  Alsace
+  Alvar
+  Alwyne
+  Ambrose
+  Ame
+  Amelia
+  Ames
+  Amhurst
+  Amott
+  Ampton
+  Ancona
+  Andover
+  Anerley
+  Angle
+  Angrave
+  Ann
+  Annabel
+  Anning
+  Ansdell
+  Anthony
+  Antrim
+  Apsley
+  Arbour
+  Ardlui
+  Argon
+  Argyle
+  Ariel
+  Arlington
+  Armada
+  Armagh
+  Arneway
+  Arno
+  Arnside
+  Arpley
+  Arragon
+  Arthur
+  Arthurdon
+  Artizan
+  Arundel
+  Ascalon
+  Ash
+  Ashbrook
+  Ashburn
+  Ashford
+  Ashington
+  Ashland
+  Ashmole
+  Ashness
+  Ashwin
+  Aske
+  Askew
+  Asmara
+  Aspen
+  Assam
+  Aster
+  Astoria
+  Asylum
+  Atherford
+  Atlas
+  Aubert
+  Aubrey Walk
+  Audrey
+  Aulay
+  Aulton
+  Autumn
+  Avalon
+  Avery
+  Avonmore
+  Avonmouth
+  Aybrook
+  Aylesbury
+  Aylton
+  Ayrsome
+  Aysgarth
+  Azeby
+  Azenby
+  Bache's
+  Baggally
+  Bagshot
+  Baildon
+  Baird
+  Baker
+  Balcombe
+  Balcorne
+  Baldwin
+  Balfour
+  Balham
+  Balmore
+  Bamborough
+  Banister
+  Banner
+  Banning
+  Bar
+  Bar's
+  Barbel
+  Bardolph
+  Barfett
+  Baring
+  Barlow
+  Barnardo
+  Barnby
+  Barnsbury
+  Baroness
+  Barry
+  Barter
+  Bartholomew
+  Bartram
+  Basil
+  Basnett
+  Bastwick
+  Bate
+  Batley
+  Batson
+  Battersea
+  Battle
+  Bawtree
+  Bayer
+  Bayford
+  Bayham
+  Bayley
+  Baylin
+  Bazon
+  Beachcroft
+  Beacon
+  Beagle
+  Beauchamp
+  Beauclerc
+  Beaufort
+  Beccles
+  Becklow
+  Becmead
+  Becondale
+  Bective
+  Beddome
+  Bedford
+  Beech
+  Beechdale
+  Beehive
+  Beet
+  Belford
+  Belitha
+  Bellevue
+  Belmont
+  Belshaw
+  Belsize
+  Belvoir
+  Ben
+  Benbow
+  Bennet
+  Benworth
+  Beresford
+  Bermondsey
+  Bernays
+  Berner
+  Berners
+  Berry
+  Besson
+  Bessy
+  Bethel
+  Bethnal
+  Betterton
+  Bevan
+  Bevil
+  Bevington
+  Bewlys
+  Bhurst
+  Bidborough
+  Billington
+  Bingham
+  Bird-in-bush
+  Birkbeck
+  Biscay
+  Blackheath
+  Blackstock
+  Blackwall
+  Blagdon
+  Blakesley
+  Blandfield
+  Blanmerle
+  Blenheim
+  Bley
+  Blomfield
+  Blondin
+  Bloomfield
+  Bloomsbury
+  Blows
+  Blue Anchor
+  Boathouse walk
+  Bodney
+  Bognor
+  Bohn
+  Boleyn
+  Bolney
+  Bomore
+  Bomsey
+  Boniface
+  Bonner
+  Bonny
+  Boones
+  Boones
+  Borland
+  Boss
+  Bostall
+  Boston
+  Bothery
+  Bourdon
+  Bowland
+  Bowyer
+  Boxall
+  Boxmoor
+  Boyce
+  Boyton's
+  Bracey
+  Brackenbury
+  Bradbury
+  Braddyll
+  Brady
+  Braham
+  Bramerton
+  Bramford
+  Brampton
+  Bramshot
+  Brandreth
+  Branstone
+  Brasted
+  Bratley
+  Bratton
+  Bravington
+  Bray
+  Brecknock
+  Bremen
+  Brendon
+  Brewer
+  Brewery
+  Briardale
+  Bride
+  Bridgewater
+  Bridson
+  Brisbane
+  Bristol
+  Brixton
+  Brixton
+  Brockham
+  Brockley
+  Brodia
+  Bromley
+  Bronze
+  Brook
+  Brookdene
+  Brooklands
+  Brookmill
+  Brookside
+  Broomhouse
+  Brougham
+  Broughton
+  Bruce
+  Brunel
+  Brunswick
+  Bruton
+  Buckingham
+  Buckland
+  Buckler
+  Bucknall
+  Bude
+  Bullace
+  Bungay
+  Bunyan
+  Burdett
+  Burford
+  Burgon
+  Burlington
+  Burnard
+  Burns
+  Burnsall
+  Burnt ash
+  Burrell
+  Burrell
+  Burslem
+  Burton
+  Busby
+  Bush
+  Bushell
+  Busk
+  Buxton
+  Bywell
+  Cable
+  Cadell
+  Cadet
+  Cadogan
+  Caffyn
+  Cage
+  Caird
+  Caithness
+  Caldew
+  Cale
+  Caleb
+  Callow
+  Calmington
+  Calsen
+  Calthorpe
+  Calton
+  Calvert
+  Cambridge
+  Camden
+  Camilla
+  Campden
+  Campion
+  Camps
+  Canadian
+  Canal bank
+  Candahar
+  Cannon
+  Canonbury
+  Canrobert
+  Cantire
+  Capella
+  Capland
+  Carey
+  Carlisle
+  Carlos
+  Carlow
+  Carlsbad
+  Carlton
+  Carlyle
+  Carmen
+  Caroline
+  Carr
+  Carrol
+  Carroun
+  Carter
+  Carteret
+  Carton
+  Cartwright
+  Carville
+  Caslon
+  Caspian
+  Casslee
+  Castle
+  Castle
+  Castlemain
+  Catesby
+  Cathay
+  Cathedral
+  Catherine
+  Cator
+  Caulfield
+  Cavan
+  Caxton
+  Cayton
+  Cephas
+  Chadbourn
+  Chadwick
+  Chagford
+  Chalcot
+  Challoner
+  Chalmers
+  Chamberlain
+  Chambord
+  Champion
+  Chance
+  Chancel
+  Chancellors
+  Chancelot
+  Chandler
+  Chantrey
+  Chapel
+  Charing
+  Charlbert
+  Charlecote
+  Charles
+  Charleston
+  Charlesworth
+  Charleville circus
+  Charlton
+  Charlwood
+  Charsley
+  Charterhouse
+  Charteris
+  Chartfield
+  Chaston
+  Chatham
+  Chatto
+  Cheam
+  Chelmer
+  Chenies mews
+  Chepstow
+  Cherry
+  Chesham
+  Chesholm
+  Chesil
+  Chester
+  Chester gate
+  Chestnut
+  Chetwynd
+  Cheval
+  Cheyne
+  Chilcot
+  Childers
+  Chilton
+  Chilworth
+  Chitty
+  Choumert
+  Christabel
+  Christchurch
+  Christian
+  Christopher
+  Chryssel
+  Chubworthy
+  Church
+  Churchway
+  Circular
+  Circus
+  Clack
+  Clapham
+  Clare
+  Claremont mews
+  Clarence
+  Clarendon
+  Clarens
+  Clareville
+  Clarissa
+  Clark
+  Clarkson
+  Claude
+  Clave
+  Claybrook
+  Claylands
+  Cleghorn
+  Clenham
+  Clerkenwell
+  Clevedon
+  Cleveland
+  Clifden
+  Clifton
+  Clissold
+  Clitheroe
+  Clive
+  Clock
+  Clonbrook
+  Clorane
+  Clothier
+  Cloudesley
+  Clough
+  Clove
+  Cloyne
+  Club
+  Cluny
+  Clutton
+  Clyston
+  Cobb
+  Cobham
+  Cobourg
+  Cochrane mews
+  Coin
+  Coke
+  Cole
+  Coleman
+  Colestown
+  Colinette
+  Coliston
+  Colling
+  Collingbourne
+  Collyer
+  Colombo
+  Colonnade
+  Columbia
+  Colvestone
+  Colville
+  Colwick
+  Colyton
+  Comber
+  Comet
+  Compton
+  Concanon
+  Conder
+  Conewood
+  Congreve
+  Connaught
+  Connigham
+  Coomer
+  Cope
+  Copeland
+  Copleston
+  Coplestone
+  Copperas
+  Copthall
+  Corbet
+  Corbett's
+  Corea
+  Corliss
+  Cormont
+  Corn
+  Cornelia
+  Cornwall
+  Coronet
+  Corsham
+  Corston
+  Cortayne
+  Cory
+  Cosbycote
+  Cosmo
+  Cotall
+  Cotford
+  Cottesmore
+  Cottington
+  Cowan
+  Cowcross
+  Cowdry
+  Cox's
+  Coxson
+  Crab Tree
+  Crail
+  Crampton
+  Cranbourn
+  Cranbrook
+  Cranmore
+  Cranworth
+  Craven
+  Crawford
+  Crediton
+  Creechurch
+  Creeland
+  Crellin
+  Cresford
+  Cresswell
+  crest
+  Creswick
+  Crinan
+  Croft
+  Crombie
+  Cromer
+  Cromwell
+  Crondall
+  Cronin
+  Cross
+  Crossett
+  Crossfield
+  Crossford
+  Crosslet
+  Crossway
+  Croxted
+  Crumpsall
+  Cubitt
+  Cudworth
+  Culford
+  Culmore
+  Culmstock
+  Culross
+  Cumberland
+  Cumberland
+  Cumming
+  Cunard
+  Curwen
+  Curzon
+  Cusack
+  Cynthia
+  Cyrus
+  D'Arblay
+  Dagnall
+  Dahomey
+  Dalbiac
+  Daley
+  Dalkey
+  Dalling
+  Dalling
+  Dane
+  Danehurst
+  Dantzic
+  Darenth
+  Darien
+  Dartford
+  Dartmouth
+  Darwin
+  Datchelor
+  Daubeney
+  Davey
+  Davisville
+  Dawson
+  De Morgan
+  De Vere
+  Deacon
+  Dean
+  Dean Farrar
+  Dean Stanley
+  Deauville
+  Debnams
+  Dela
+  Deloraine
+  Delta
+  Delverton
+  Dempsey
+  Denbigh
+  Denyer
+  Deodar
+  Depot
+  Dereham
+  Dericote
+  Derry
+  Desmond
+  Devas
+  Diadem
+  Dibden
+  Dieppe
+  Digby
+  Digswell
+  Dinsmore
+  Diss
+  Distaff
+  Dixon
+  Dockhead
+  Doctor
+  Dolland
+  Donald
+  Donne
+  Doon
+  Dora
+  Dorncliffe
+  Dorset
+  Douglas
+  Down
+  Downes
+  Downs
+  Drakefell
+  Draper
+  Draycott
+  Dreadnought
+  Drewstead
+  Drewton
+  Drummond
+  Drysdale
+  Duckett
+  Dugald
+  Dugdale
+  Duncan
+  Dunkeld
+  Dunkirk
+  Dunloe
+  Dunlop
+  Dunlop
+  Dunmow
+  Dunn
+  Dunsley
+  Dunstable
+  Dupont
+  Durham
+  Durward
+  Dutton
+  Dyott
+  Dysart
+  Eamont
+  Eamont
+  Eastbrook
+  Eastcastle
+  Eastcheap
+  Eastfield
+  Eastney
+  Eaton
+  Ebenezer
+  Ebury
+  Ecclesbourne
+  Eden
+  Edenhurst
+  Edge
+  Edward
+  Effort
+  Egerton
+  Eglinton
+  Elaine
+  Eldon
+  Eldred
+  Electric
+  Elephant
+  Elgar
+  Ellerdale
+  Ellerslie
+  Ellington
+  Elm
+  Elmington
+  Elmore
+  Elsa
+  Elsted
+  Elthome
+  Elton
+  Elverton
+  Elwood
+  Elystan
+  Emmanuel
+  Empress
+  Empson
+  Endive
+  Engate
+  Ennismore
+  Entick
+  Epsom
+  Eric
+  Est
+  Esther
+  Ethelburga
+  Ethelm
+  Eton
+  Eugenia
+  Euston
+  Evandale
+  Eve's
+  Evelina
+  Evelyn
+  Everett
+  Evering
+  Everleigh
+  Eversleigh
+  Eversley
+  Everthorpe
+  Ewart
+  Ewell
+  Exton
+  Ezra
+  Fair
+  Fairclough
+  Fairfax
+  Fairfeld
+  Fairhazel
+  Fairiop
+  Fairlop
+  Fairmount
+  Falka
+  Falkirk
+  Falkland
+  Falmouth
+  Fane
+  Fann
+  Farm
+  Farmer's
+  Farncombe
+  Farndon
+  Farringdon
+  Faversham
+  Favonia
+  Fawe
+  Fawnbrake
+  Fellbrigg
+  Fellows
+  Felma
+  Fenchurch
+  Fenelon
+  Fenham
+  Fenham
+  Fenning
+  Fenwick
+  Ferncliff
+  Fernhead
+  Fernsbury
+  Fernshaw
+  field
+  Fieldgate
+  Fieldhouse
+  Filmer
+  Finchley
+  Finck
+  Finsbury
+  Fitzjohn
+  Fitzroy
+  Flaxman
+  Fleur-de-lis
+  Flodden
+  Flora
+  Florida
+  Floyd
+  Follett
+  Foote's
+  Footscray
+  Ford
+  Forester
+  Forset
+  Fortess
+  Forthbridge
+  Foubert's
+  Fournier
+  Foxlow
+  Free
+  Fritton
+  Frome
+  Fulford
+  Fulwood
+  Furlong
+  Furness
+  Furnival
+  Gage
+  Gairloch
+  Galen
+  Galena
+  Galley
+  Galway
+  Gambole
+  Ganton
+  Gard
+  Garden
+  Garlick
+  Garrett
+  Garrick
+  Gaskell
+  Gate
+  Gateforth
+  Gateshead
+  Gordon
+  Geoffrey
+  George
+  Gerald
+  Gerrard
+  Gerridge
+  Gibbon
+  Gildea
+  Gildersome
+  Gilham's
+  Gipsy
+  Gladstone
+  Glasgow
+  Glass
+  Glasshouse
+  Glebe
+  Glenton
+  Glentworth
+  Globe
+  Gloucester
+  Glyn
+  Glyndon
+  Goda
+  Godliman
+  Golbome
+  Golborne
+  Gold
+  Goldhawk
+  Goldie
+  Goldsmith
+  Gonson
+  Gooch
+  Goode
+  Goodge
+  Goodwood
+  Goodyear
+  Gordon
+  Goring
+  Gorleston
+  Goschen
+  Gossage
+  Gosset
+  Gotha
+  Govan
+  Grafton
+  Graham
+  Grainger
+  Granby
+  Grantbridge
+  Grantham
+  Gray
+  Grazebrook
+  Green
+  Greencoat
+  Greenlaw
+  Greenside
+  Greenwood
+  Gressenhall
+  Greville
+  Greycoat
+  Greyfriars
+  Grindal
+  Grosvenor
+  Grundy
+  Guilford
+  Gundulf
+  Hackney
+  Hadleigh
+  Hadrian
+  Halcomb
+  Haliday
+  Hallam
+  Hallam
+  Halley
+  Halpin
+  Halsmere
+  Halstead
+  Halton
+  Hamilton
+  Hamish
+  Hammersmith
+  Hampden
+  Gurney
+  Hampshire
+  Hanbury
+  Hankey
+  Hans
+  Hanway
+  Har
+  Hard
+  Harford
+  Harling
+  Harmood
+  Harmsworth
+  Harris
+  Hartington
+  Harton
+  Harvey
+  Hassard
+  Hatchard
+  Hatteraick
+  Hawker
+  Haycroft
+  Haymerle
+  Hayne
+  Healey
+  Hearn
+  Heatherley
+  Heavitree
+  Heckford
+  Hector
+  Heddon
+  Heiron
+  Helix
+  Hellings
+  Helmet
+  Hemans
+  Hemming
+  Hemp
+  Hendre
+  Henshall
+  Henson
+  Herbrand
+  Hercules
+  Hereford
+  Hermit
+  Heron
+  Hersee
+  Hervey
+  Hessel
+  Hessel
+  Hetherington
+  Hewling
+  Heygate
+  Hichisson
+  Highbury
+  Hil
+  Hilcot
+  Hilton
+  Hind
+  Hindrey
+  Hobbs'
+  Holbeck
+  Holcroft
+  Holker
+  Holland
+  Holmbrook
+  holme
+  Holmes
+  Holtham
+  Homerton
+  Hone parade
+  Honiton
+  Honor Oak
+  Hopewell
+  Hopton
+  Horatio
+  Hornby
+  Hornsey
+  Hornton
+  Horseferry
+  Horselydown
+  Horsman
+  Hoskins
+  Hothfield
+  house
+  Houston
+  Hove
+  Howards
+  Howick
+  Huguenot
+  Huntley
+  Hurlock
+  hurst
+  Hutchings
+  Hyde
+  Hyde
+  Ida
+  Idmiston
+  Iffley
+  Ifield
+  Ilbert
+  Ilminster
+  Ingestre
+  Ingleby
+  Ingleside
+  Innis
+  Instow
+  Inverness
+  Irongate wharf
+  Ironmonger
+  Irwell
+  Irwin
+  Isledon
+  Ivan
+  Ivy
+  Ixworth
+  Jackson
+  Jacobin
+  Jaffray
+  Jamaica
+  James
+  Janet
+  Janeway
+  Jardine
+  Jason
+  Jephtha
+  Jerdan
+  Jerdan
+  Jerome
+  Jerrold
+  Jersey
+  Jervis
+  Jewel
+  Johanna
+  John Penn
+  John's mew
+  Johnson
+  Judkin
+  Juniper
+  Juxon
+  Kambala
+  Karl
+  Kavenscroft
+  Keats
+  Keeley
+  Keith
+  Kell
+  Kellerton
+  Kelly
+  Kelross
+  Kelross
+  Kelsey
+  Kelvin
+  Kelvin
+  Kemble
+  Kenmure
+  Kennet
+  Kenning
+  Kenninghall
+  Kensington
+  Kenton
+  Kenway
+  Kenway
+  Kerfield
+  Kerrison
+  Key
+  Keystone
+  Keyworth
+  Khama
+  Kibworth
+  Kidbrooke
+  Kidd
+  Kidderpore
+  Kilburn
+  Kilgour
+  Killowen
+  Kilravock
+  Kimberley
+  Kimpton
+  Kinburn
+  Kinghorn
+  Kinglake
+  Kingly
+  Kingsbury
+  Kingscote
+  Kingsdown
+  Kingsgate
+  Kingsland
+  Kingsman
+  Kingston
+  Kipling
+  Kirby
+  Kirkwall
+  Kirkwood
+  Kitson
+  Knaresborough
+  Knightland
+  Knightrider
+  Knightsbridge
+  Knott
+  Knowles
+  Knox
+  Kynance mews
+  Kynaston
+  Laburnum
+  Lacy
+  Ladbroke
+  Ladywell
+  Lafone
+  Lagos
+  Lakedale
+  Lamb's
+  Lambert
+  Lambeth
+  Lamble
+  Lambolle
+  Lambton
+  Lamerton
+  Lamington
+  Lamlash
+  Lamont
+  Lamp Mead
+  Lamprell
+  Lancaster
+  Lancell
+  Landon
+  Landor
+  lands
+  Landseer
+  Lanfrey
+  Langdale
+  Langdon
+  Lansdowne
+  Lapford
+  Larden
+  Larnaca
+  Larpent
+  Lassell
+  Latchmere
+  Latimer
+  Laud
+  Launcelot
+  Lausanne
+  Lavender
+  Lavers
+  Law
+  Lawford
+  Lawrie
+  Laycock
+  Le May
+  Lea
+  Leader
+  Leage
+  Leamore
+  Leamouth
+  Leander
+  Lebanon
+  Ledbury
+  Lee
+  Leeke
+  Leigham
+  Leinster
+  Leitrim
+  Leman
+  Lennox
+  Lennox
+  Lenthall
+  Leo
+  Leonard
+  Leroy
+  Leroy
+  Lesly
+  Lettsom
+  Levant
+  Leverton
+  Lewisham
+  Lexham
+  Lexington
+  Leylang
+  Leyton
+  Library
+  Library
+  Lilac
+  Lillie
+  Lillieshall
+  Limburg
+  Lime
+  Limerston
+  Limes
+  Linda
+  Lindale
+  Linden
+  Lindley
+  Lindore
+  Lindsell
+  Linford
+  Lingham
+  Link
+  Linnet
+  Linton
+  Lisford
+  Lisson
+  Litlington
+  Livonia
+  Llama
+  Loampit
+  Loanda
+  Lochaber
+  Lockside
+  Locksley
+  Lockyer
+  Loder
+  Loftie
+  Lofting
+  Loftus
+  Loman
+  Lombard
+  Lomond
+  Long
+  Longbeach
+  Longford
+  Longhedge
+  Longton
+  Lordship
+  Lothrop
+  Lots
+  Lotus
+  Loudoun
+  Loudoun
+  Loughboroug
+  Lovat
+  Lovelace
+  Lowell
+  Lowther
+  Ludgate
+  Ludlow
+  Ludwick
+  Lufton
+  Luke
+  Lundy
+  Luttrell
+  Lydbrook
+  Lyford
+  Lyme
+  Lyme
+  Lyndhurst
+  Lynedoch
+  Lynn
+  Lynton
+  Lyon's
+  Lyric
+  Lysia
+  Lytton
+  Macclesfield
+  Mace
+  Mackay
+  Macklin
+  Macoma
+  Madrid
+  Magdalen
+  Maguire
+  Maida
+  Maidstone
+  Maismore
+  Major
+  Malabar
+  Malbrook
+  Maley
+  Malling
+  Mallow
+  Malmesbury
+  Malmsey
+  Maltby
+  Malvern
+  Malyons
+  Malyons
+  Mancroft
+  Mander
+  Manilla
+  Manisty
+  Manningtree
+  Manor
+  Manse
+  Mansell
+  Mansfield
+  Mansion
+  Manstone
+  Manthorp
+  Maple
+  Mapledene
+  Marchant
+  Mardale
+  Mare
+  Maresfield
+  Margate
+  Maria
+  Mark
+  Market
+  Marlow
+  Marmont
+  Marne
+  Marner
+  Marnock
+  Maroon
+  Marquis
+  Marryat
+  Marsden
+  Marsden
+  Mart
+  Martin
+  Martineau
+  Marvels
+  Marylebone
+  Masboro'
+  Massinger
+  Masters
+  Maundy
+  Maxey
+  May
+  Mayfleld
+  Mayola
+  Maze
+  Maze yard
+  McLeod
+  Meard's
+  Medland
+  Medlar
+  Meggs
+  Melon
+  Melrose
+  Mendora
+  Menotti
+  Mentone
+  Mepham
+  Mer
+  Mersey
+  Meymott
+  Midland
+  Milan
+  Milborne
+  Mildmay
+  Miles
+  Milford
+  Mill
+  Millbank
+  Millfields
+  Millman
+  Milman's
+  Milner
+  Milson
+  Milton
+  Milward
+  Mineral
+  Miniver
+  Minnow
+  Minor
+  Mintern
+  Miranda
+  Mitcham
+  Mitchell
+  Modbury
+  Monkton
+  Monmouth
+  Monson
+  Montagu
+  Montem
+  Montford
+  Montolieu
+  Montpelier
+  Monument
+  Moody
+  Moore
+  Moorfields
+  Moorflelds
+  Moorgate
+  Moray
+  Morecombe
+  Moreland
+  Moreton
+  Morgan
+  Mornington
+  Morris
+  Morshead
+  Mortimer
+  Morton
+  Moye
+  Moye
+  Moyser
+  Muirkirk
+  Mulgrave
+  Muriel
+  Muriel
+  Murphy
+  Murton
+  Muscatel
+  Musgrave
+  Myrtle
+  Namur
+  Nant
+  Nantes
+  Napier
+  Nassington
+  Natal
+  Naylor
+  Neal
+  Neate
+  Neath
+  Nebraska
+  Neckinger
+  Nell
+  Nelson
+  Nelson
+  Nepaul
+  Neptune
+  Netherhall
+  Nettlefold
+  Nevem
+  Nevern
+  Neville
+  New
+  Newburn
+  Newbury
+  Newcombe
+  Newcomen
+  Newlands
+  Newling
+  Newnham
+  Newton
+  Nightingale
+  Nile
+  Nile
+  Nimrod
+  Nolan
+  Norman
+  Norman
+  Normand
+  Normandy
+  Norris
+  Northall
+  Northam
+  Northampton
+  Northwold
+  Norval
+  Norwich
+  Norwood
+  Notley
+  Novello
+  Nuding
+  Nutbourne
+  Nutt
+  Nuttall
+  Oak
+  Oakbury
+  Oakley
+  Offord
+  Oglander
+  Oldbury
+  Oliphant
+  Onslow
+  Onslow houses
+  Ontario
+  Opal
+  Oran
+  Orange
+  Orange
+  Orb
+  Orleans
+  Orme
+  Ormiston
+  Ormond gat
+  Ormsby
+  Orsett
+  Oscar
+  Osnaburgh
+  Osprey
+  Ostend
+  Ostend
+  Oswin
+  Oswyth
+  Otto
+  Ovington
+  Oxford
+  Oxley
+  Padstow
+  Paignton
+  Palace
+  Palace
+  Palfrey
+  Palmer
+  Pancras
+  Paradise
+  Paragon
+  Parbury
+  Parnell
+  Parolles
+  Parsifal
+  Parton
+  Paternoster
+  Patmos
+  Patriot
+  Paul's
+  Paulin
+  Paultons
+  Pavilion
+  Paxton
+  Peach
+  Peary
+  Peckham
+  Pedley
+  Peerless
+  Pegwell
+  Pelham
+  Pelton
+  Pemberton
+  Pembridge
+  Penarth
+  Penberth
+  Penda
+  Pendennis
+  Penn
+  Penrose
+  Penryn
+  Penton
+  Pentonville
+  Penwith
+  Penzance
+  Pepys
+  Perceval
+  Percy
+  Perrers
+  Peto
+  Petworth
+  Philip
+  Phipp
+  Phipps
+  Phœbe
+  Phœnix
+  Pickworth
+  Picton
+  Pier
+  Piermont
+  Pilcher
+  Pilgrim
+  Pilgrimage
+  Pilkington
+  Pimore mews
+  Pine
+  Pinto
+  Pitman
+  Pitney
+  Pitsea
+  Pitt
+  Pixley
+  Plantain
+  Playford
+  Plimsoll
+  Plough
+  Plumstead High
+  Pond
+  Popham
+  Porchester
+  Porlock
+  Portland
+  Portman
+  Portsdown
+  Pottery
+  Pottery
+  Pound's
+  Powell
+  Powis
+  Poyser
+  Praed
+  Prebend
+  President
+  Prested
+  Preston's
+  Prima
+  Princelet
+  Princeton
+  Priory
+  Priscilla
+  Pritchard's
+  Prittlewell
+  Prospect
+  Provost
+  Prusom
+  Pulross
+  Purbrook
+  Purcell
+  Purnell
+  Purvis
+  Pym
+  Quaker
+  Queensbury
+  Quentin
+  Quill
+  Railton
+  Railton
+  Raine
+  Ralph
+  Ramillies
+  Ramsgate
+  Ranelagh
+  Ransom
+  Ranston
+  Ranulf
+  Ranwell
+  Ratcliff
+  Ravens
+  Ravens
+  Ravey
+  Rawlings
+  Rayner
+  Rectory
+  Red
+  Redan
+  Redcar
+  Redcar
+  Redman's
+  Redmead
+  Redriff
+  Reedham
+  Regency
+  Regent
+  Regent's
+  Regia
+  Reginald
+  Rephidim
+  Repton
+  Revesby
+  Rex
+  Reynolds
+  Rhodes
+  Rhodesia
+  Rhyl
+  Richmond
+  Ridgmount
+  Ridler
+  Rigden
+  Ripley
+  Ripple
+  Risborough
+  Risdon
+  Rising
+  Ritson
+  River
+  River way
+  Rivington
+  Roan
+  Robert Raikes
+  Robsart
+  Robson
+  Roby
+  Rochester
+  Rochford
+  Rockbourne
+  Rockingham
+  Rockley
+  Rodney
+  Rodsley
+  Roland
+  Rolfe
+  Rolls
+  Roman
+  Romer
+  Romer
+  Roney
+  Rook
+  Rookley
+  Ropley
+  Roscoe
+  Rosebery
+  Rosemary
+  Roseneath
+  Rosewell
+  Rosmead
+  Rossett
+  Rother
+  Rotherhithe
+  Rothery
+  Roxburgh
+  Ruby
+  Rudyard
+  Rufford
+  Rufus
+  Rupack
+  Rush
+  Rushcroft
+  Russell
+  Ruston
+  Rutland
+  Ryder
+  Rye
+  Rylston
+  Sage
+  Salisbury
+  Saltdean
+  Samuel
+  Sancroft
+  Sand
+  Sandall
+  Sander
+  Sandgate
+  Sandingham
+  Sandison
+  Sandland
+  Sandown
+  Sanford
+  Saul
+  Savoy
+  Sawyer
+  Saxby
+  Scandrett
+  Scarborough
+  Scawfell
+  Sceptre
+  Sclater
+  Scotswood
+  Scrutton
+  Scylla
+  Seaforth
+  Seaham
+  Sears
+  Secker
+  Senrab
+  Seth
+  Seville
+  Sevington
+  Seymour
+  Shadwell
+  Shand
+  Shandy
+  Shap
+  Shelbume
+  Shelton
+  Shenfield
+  Sheridan
+  Sherwin
+  Ship
+  Shipman
+  Shipton
+  Shirbutt
+  Shoreham
+  Sidcup
+  Siddons
+  Sidford
+  Sidford
+  Silver
+  Silver
+  Silvester
+  Simpson
+  Skidmore
+  sleigh
+  Slingsby
+  Sloane
+  Sly
+  Smedley
+  Smith
+  Smyrks
+  Snowdon
+  Soho
+  Solander
+  Somerford
+  Sonning
+  Southmead
+  Southwood
+  Sparta
+  Spearman
+  Speedwell
+  Spelman
+  Spenlow
+  Spenser
+  Splidts
+  Spring
+  Springbank
+  Springdale
+  Spurstowe
+  Stamp
+  Stanhope
+  Stanlake
+  Stannard
+  Stanton
+  Stanworth
+  Stewart
+  Stirling
+  Stockmar
+  Stockwell
+  Stokes
+  Stoney
+  Straightsmouth
+  Strath
+  Strathmore
+  Strathnairn
+  Streatfield
+  Streatley
+  Strewan
+  Studdridge
+  Sturt
+  Styman
+  Sugden
+  Summerstown
+  Sumner
+  Sumner
+  Sun
+  Sunfields
+  Sunningdale
+  Sunny
+  Sunwell
+  Surat
+  Surrendale
+  Sussex
+  Sutherland
+  Sutton
+  Swale
+  Swan
+  Swanley
+  Swedenborg
+  Swindon
+  Swinford
+  Sydenham
+  Sydenham
+  Sylvia
+  Symons
+  Synagogue
+  Tabard
+  Tagg
+  Tait
+  Talavera
+  Talbot
+  Talwin
+  Tamar
+  Tankerville
+  Tanner's
+  Tanswell
+  Taplow
+  Tarn
+  Tarver
+  Tasso
+  Tavistock
+  Taybridge
+  Tbridge
+  Teather
+  Temeraire
+  Theed
+  Theobalds
+  Thirza
+  Thornham
+  Thornville
+  Thorpe
+  Thrush
+  Thurlow
+  Tillman
+  Tindal
+  Tinman
+  Tintagel
+  Tisdall
+  Tobago
+  Tonbridge
+  Tooke
+  Tooting Bec
+  Tooting High
+  Topaz
+  Torbay
+  Torquay
+  Torrens
+  Torrington
+  Tot
+  Tottenham
+  Toulmin
+  Toulon
+  Townley
+  Trahorn
+  Tranby
+  Tranquil
+  Tranton
+  Treby
+  Tredegar
+  Tregenna
+  Tresham
+  Tress
+  Tressillian
+  Trevor
+  Tritton
+  Troon
+  Troughton
+  Truman's
+  Tryon
+  Tudor
+  Tufton
+  Tulip
+  Tulse
+  Tunnel
+  Turin
+  Turnill
+  Tuscan
+  Tuskar
+  Tustin
+  Tyers
+  Ufford
+  Ullin
+  Umberston
+  Underwood
+  Vallance
+  Vanbruch
+  Vanbrugh
+  Vancouver
+  Vandon
+  Vane
+  Vanguard
+  Vanston
+  Varden
+  Varden
+  Vauxhall
+  Venables
+  Venice
+  Ventnor
+  Vernon
+  Vesey
+  Viaduct
+  Vian
+  Vicarage
+  Viceroy
+  Victor
+  Victoria
+  Villette
+  Vine
+  Virginia
+  Vorley
+  Vyner
+  Wadeson
+  Wagner
+  Wake
+  Wakeham
+  Walbrook
+  Walden
+  Walerand
+  Waley
+  Wall
+  Walmer
+  Walsham
+  Walton
+  Walworth
+  Wanless
+  Wardle
+  Wardour
+  Warford
+  Warham
+  Warneford
+  Warner
+  Warner
+  Warren
+  Warwick
+  Wastdale
+  Watergate
+  Waterloo
+  Waterlow
+  Watney
+  Watts
+  Waverley
+  Wavertree
+  Wear
+  Weaver
+  Webber
+  Wedmore
+  Weedington
+  Weimar
+  Welbury
+  Welford
+  Welland
+  Wellesley
+  Wellington
+  Wells
+  Wells
+  Wenlock
+  Wentworth
+  Werter
+  Wescombe
+  Wesley
+  Wesson
+  Westboume
+  Westbourne
+  Westcombe
+  Westcott
+  Westdale
+  Westerdale
+  Westferry rood
+  Westmoreland
+  Westmount
+  Weston
+  Westville
+  Westwell
+  Westwick
+  Weybridge
+  Whidbourne
+  Whiston
+  Whitby strert
+  Whitcomb
+  White Horse
+  Whitecross
+  Whitfield
+  Whitfleld
+  Whitman
+  Whitmore
+  Whitstable
+  Whittlesey
+  Wick
+  Wickersley
+  Wickford
+  Wickham
+  Wicklow
+  Wigmore
+  Wigton
+  Wilfred
+  Wilkes
+  Willard
+  Willis
+  Wilmount
+  Wilna yard
+  Wilton
+  Wiltshire
+  Winchester
+  Wincott
+  Windus
+  Winforton
+  Wingham
+  Winslow
+  Winston
+  Winthrop
+  Wolcot
+  Wolfington
+  Wolseley
+  Wood
+  Woodfall
+  Woodfield
+  Woodland
+  Woodman
+  Wooler
+  Woolwich
+  Worlidge
+  Wormald
+  Worship
+  Wrotham
+  Wybert
+  Wythburn
+  Yalford
+  Yeovil
+  Yeovil
+  York
+  Zoar
+
+name
+  Street ^6
+  Road ^2
+  Terrace
+  Mews
+  Hill
+  Place
+  Lane
+  Gardens
+  Yard
+  Row
+  Passage ^2
+  Square
+  Avenue
+
+`;
+
+
+function parseInput(text) {
+    const lines = text.trim().split('\n');
+    const result = {};
+    let currentKey = null;
+    for (let line of lines) {
+        if (!line.trim()) continue;
+        if (!line.startsWith(' ')) {
+            currentKey = line.trim().replace(':', '');
+            result[currentKey] = [];
+        } else if (currentKey) {
+            const trimmed = line.trim();
+            // Handle weighted items like "item ^3" (appears 3 times)
+            const weightMatch = trimmed.match(/^(.+?)\s*\^(\d+)$/);
+            if (weightMatch) {
+                const item = weightMatch[1];
+                const weight = parseInt(weightMatch[2]);
+                for (let i = 0; i < weight; i++) {
+                    result[currentKey].push(item);
+                }
+            } else {
+                result[currentKey].push(trimmed);
+            }
+        }
+    }
+    return result;
+}
+
+function pick(list) {
+    return list[Math.floor(Math.random() * list.length)];
+}
+
+// Helper function to process quantity ranges like [[100-500]]
+function processQuantityRanges(text) {
+    return text.replace(/\[\[(\d+)-(\d+)\]\]/g, (match, min, max) => {
+        const value = Math.floor(Math.random() * (parseInt(max) - parseInt(min) + 1)) + parseInt(min);
+        return value.toString();
+    });
+}
+
+// Helper function to find matching closing braces
+function findMatchingCloseBrace(text, startIndex) {
+    let braceCount = 0;
+    for (let i = startIndex + 2; i < text.length - 1; i++) {
+        if (text.substr(i, 2) === '{{') {
+            braceCount++;
+            i++; // Skip next character
+        } else if (text.substr(i, 2) === '}}') {
+            if (braceCount === 0) {
+                return i;
+            } else {
+                braceCount--;
+                i++; // Skip next character
+            }
+        }
+    }
+    return -1;
+}
+
+// Helper function to extract weight from content string
+function extractWeight(content) {
+    const weightMatch = content.match(/\s*\^(\d+)$/);
+    const weight = weightMatch ? parseInt(weightMatch[1]) : 1;
+    const cleanContent = content.replace(/\s*\^\d+$/, '');
+    return { weight, cleanContent };
+}
+
+// Helper function to create weighted choices array
+function createWeightedChoices(options, data, weight) {
+    const choices = [];
+
+    // Add all options except the last one
+    for (let i = 0; i < options.length - 1; i++) {
+        const table = data[options[i]];
+        choices.push(table && table.length > 0 ? pick(table) : options[i]);
+    }
+
+    // Add the last option with weight
+    const lastOption = options[options.length - 1];
+    const lastTable = data[lastOption];
+    const lastResult = lastTable && lastTable.length > 0 ? pick(lastTable) : lastOption;
+
+    for (let i = 0; i < weight; i++) {
+        choices.push(lastResult);
+    }
+
+    return choices;
+}
+
+// Helper function to process double brace choices like {{table1|table2}}
+function processDoubleBraceChoices(text, data) {
+    let result = text;
+    let startIndex = 0;
+
+    while (true) {
+        const openIndex = result.indexOf('{{', startIndex);
+        if (openIndex === -1) break;
+
+        const closeIndex = findMatchingCloseBrace(result, openIndex);
+        if (closeIndex === -1) break;
+
+        const content = result.substring(openIndex + 2, closeIndex);
+        const { weight, cleanContent } = extractWeight(content);
+
+        // Split on | and clean up each option
+        const options = cleanContent.split('|').map(option => {
+            return option.replace(/^\{/, '').replace(/\}$/, '').trim();
+        }).filter(option => option !== '');
+
+        if (options.length > 1) {
+            const choices = createWeightedChoices(options, data, weight);
+            const selectedResult = choices[Math.floor(Math.random() * choices.length)];
+
+            // Replace the match with the result
+            result = result.substring(0, openIndex) + selectedResult + result.substring(closeIndex + 2);
+            startIndex = openIndex + selectedResult.length;
+        } else {
+            startIndex = closeIndex + 2;
+        }
+    }
+
+    return result;
+}
+
+// Helper function to process single brace choices like {"option1"|"option2"}
+function processSingleBraceChoices(text, data) {
+    return text.replace(/\{([^}]+)\}/g, (match, content) => {
+        // Check if this contains pipe separator (multiple options)
+        if (content.includes('|')) {
+            const { weight, cleanContent } = extractWeight(content);
+
+            // Split by pipes and handle both quoted and unquoted options
+            const options = cleanContent.split('|').map(opt => {
+                const trimmed = opt.trim();
+                // Check if it's quoted
+                const quoted = trimmed.match(/^"([^"]+)"$/);
+                if (quoted) {
+                    return quoted[1];
+                }
+                // Unquoted option - could be a table name or literal value
+                return trimmed;
+            });
+
+            if (options.length > 1) {
+                const choices = createWeightedChoices(options, data, weight);
+                return choices[Math.floor(Math.random() * choices.length)];
+            }
+        }
+        // If not a pipe choice, return original to be handled by table lookup
+        return match;
+    });
+}
+
+// Helper function to process simple table references like {tablename}
+function processTableReferences(text, data) {
+    return text.replace(/{(.*?)}/g, (_, key) => pick(data[key] || ['']));
+}
+
+// Main template filling function - now much cleaner!
+function fillTemplate(template, data) {
+    let result = template;
+
+    // Process template in multiple passes until no more changes
+    let iterations = 0;
+    const maxIterations = 10; // Safety limit to prevent infinite loops
+
+    while ((result.includes('{') || result.includes('[[')) && iterations < maxIterations) {
+        iterations++;
+
+        // Process each type of template syntax
+        result = processQuantityRanges(result);
+        result = processDoubleBraceChoices(result, data);
+        result = processSingleBraceChoices(result, data);
+        result = processTableReferences(result, data);
+    }
+
+    return result;
+}
+
+// Main generation function
+function generateContent() {
+    const parsed = parseInput(dataText);
+    const templates = parsed.template || [''];
+    delete parsed.template;
+
+    const output = document.getElementById('output');
+
+    // Generate the requested number of results
+    const results = [];
+    for (let i = 0; i < generatorConfig.numberOfResults; i++) {
+        const template = pick(templates);
+        let result = fillTemplate(template, parsed);
+
+        // Always capitalize the first letter
+        result = result.charAt(0).toUpperCase() + result.slice(1);
+
+        results.push(result);
+    }
+
+    // Format output based on configuration
+    const listItems = results.map(r => '<li>' + r + '</li>').join('');
+    const html = generatorConfig.outputFormat === 'unordered' ? '<ul>' + listItems + '</ul>' :
+                 generatorConfig.outputFormat === 'paragraphs' ? results.map(r => '<p>' + r + '</p>').join('') :
+                 '<ol>' + listItems + '</ol>';
+
+    output.innerHTML = html;
+}
+
+// Generate samples on page load to show functionality
+window.addEventListener('load', function() {
+    generateContent();
+});
+</script>
+
+</body>
+</html>

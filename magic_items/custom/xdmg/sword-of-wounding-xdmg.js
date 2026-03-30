@@ -1,0 +1,55 @@
+window.magicItemMarkdown = `# Sword of Wounding
+
+- **Rarity**: Rare
+- **Type**: Rare
+- **Attunement**: Yes
+- **Source**: Dungeon Master's Guide (2024)
+
+When you hit a creature with an attack using this magic weapon, the target takes an extra '2d6' Necrotic damage and must succeed on a DC 15 Constitution saving throw or be unable to regain Hit Points for 1 hour. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+
+**Variants**:
+- Glaive of Wounding
+- Greatsword of Wounding
+- Longsword of Wounding
+- Rapier of Wounding
+- Scimitar of Wounding
+- Shortsword of Wounding
+
+### Glaive of Wounding
+
+- **Damage**: 1d10 slashing
+- **Properties**: Heavy, Reach, Two-Handed
+- **Weight**: 6.0 lbs.
+
+### Greatsword of Wounding
+
+- **Damage**: 2d6 slashing
+- **Properties**: Heavy, Two-Handed
+- **Weight**: 6.0 lbs.
+
+### Longsword of Wounding
+
+- **Damage**:
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
+- **Properties**: Versatile
+- **Weight**: 3.0 lbs.
+
+### Rapier of Wounding
+
+- **Damage**: 1d8 piercing
+- **Properties**: Finesse
+- **Weight**: 2.0 lbs.
+
+### Scimitar of Wounding
+
+- **Damage**: 1d6 slashing
+- **Properties**: Finesse, Light
+- **Weight**: 3.0 lbs.
+
+### Shortsword of Wounding
+
+- **Damage**: 1d6 piercing
+- **Properties**: Finesse, Light
+- **Weight**: 2.0 lbs.
+`;

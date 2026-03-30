@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="user-scalable=yes, width=device-width">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<script type="text/javascript" src="../../css_js/showdown.min.js"></script>
+<script type="text/javascript" src="../../css_js/custom-content-loader.js"></script>
+<title>Custom Magic Items</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → <a href="../index.html">Magic Items</a> → Custom Magic Items</div>
+
+<div id="item-list">
+  <h1>Available Magic Items</h1>
+  <ul id="item-links"></ul>
+</div>
+
+<div id="item-content" style="display: none;">
+  <div id="item-display"></div>
+  <p>
+    <span id="markdown-link-container"></span>
+  </p>
+</div>
+
+<!-- Load custom magic items index -->
+<script type="text/javascript" src="custom_magic_items_index.js"></script>
+
+<script>
+// Initialize the custom content loader for magic items
+initializeCustomContentLoader('item');
+</script>
+
+</body>
+</html>

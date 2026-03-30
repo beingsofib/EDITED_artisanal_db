@@ -1,0 +1,48 @@
+window.monsterMarkdown = `
+# Ultroloth
+*Source: Monster Manual p. 314, Waterdeep: Dungeon of the Mad Mage*
+
+*Medium fiend (yugoloth), Neutral Evil*
+
+- **Armor Class** 19 (natural armor)
+- **Hit Points** 153 (18d8 + 72)
+- **Speed** 30 ft., fly 60 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|16 (+3)|16 (+3)|18 (+4)|18 (+4)|15 (+2)|19 (+4)|
+
+- **Proficiency Bonus** +5
+- **Saving Throws** ⏤
+- **Skills** Intimidation +9, Perception +7, Stealth +8
+- **Senses** truesight 120 ft., passive Perception 17
+- **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
+- **Damage Immunities** acid, poison
+- **Condition Immunities** charmed, frightened, poisoned
+- **Languages** Abyssal, Infernal, telepathy 120 ft.
+- **Challenge** 13
+
+## Traits
+
+***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
+
+**At will:** alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
+
+**3/day each:** dimension door, fear, wall of fire
+
+**1/day each:** fire storm, mass suggestion
+
+***Magic Resistance.*** The ultroloth has advantage on saving throws against spells and other magical effects.
+
+***Magic Weapons.*** The ultroloth's weapon attacks are magical.
+
+## Actions
+
+***Multiattack.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
+
+***Longsword.*** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+
+***Hypnotic Gaze.*** The ultroloth's eyes sparkle with opalescent light as it targets one creature it can see within 30 feet of it. If the target can see the ultroloth, the target must succeed on a DC 17 Wisdom saving throw against this magic or be charmed until the end of the ultroloth's next turn. The charmed target is stunned. If the target's saving throw is successful, the target is immune to the ultroloth's gaze for the next 24 hours.
+
+***Teleport.*** The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
+`;
