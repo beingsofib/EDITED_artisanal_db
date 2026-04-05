@@ -8258,6 +8258,123 @@ surname_last
   wind
   wing
 
+waterdeep_streets
+  City Guard, patrol of 6
+  Messenger in the livery of a noble house
+  Local merchant
+  Wagon unloading supplies
+  4-5 porters
+  6 laborers on a break
+  Two nobles in intense discussion
+  Innocent bystander
+  Barman or restauranteur buying supplies
+  City Watch, patrol of 4
+  Hard currency girls
+  Beggar (20% chance thief level 1-4)
+  Innocent bystander
+  Runner in the livery of Waterdeep
+  Wagon unloading supplies
+  Noble in portage chair
+  Street vendor
+  Concerned citizen
+  Noblewoman returning from shopping with 4 bearers
+  2-3 mercenaries arguing
+  Magic-User (level 1-6)
+  Group of mangy-looking thugs
+  Broken cart or wagon
+  Two guildsmen in casual discussion
+  Apprentice in the livery of a guild
+  Innocent bystander
+  Foreign merchant, lost
+  Empty wagon
+  Moneychanger with 3 guards
+  3-4 servants, gossiping
+  Cryer advertising am upcoming noble festivity
+  Street vendor
+  Merchant making a sale
+  Trotting cart with 1 passenger
+  Group of beggars
+  Concerned citizen
+  Runner in the livery of a noble house
+  Minor official of Waterdeep (scribe or clerk)
+  Non-human mercenary (dwarf, elf, halfling, gnome)
+  Children playing
+  Street vendor
+  Porters unloading a wagon
+  CollisionTwo wagons or carriages, owners are argu-
+  i n g
+  Cryer advertising a tavern or festhall
+  Servants engaged in gossip
+  Journeyman in the livery of a guild
+  Raggedy priest talking to himself
+  Street vendor
+  4-5 human porters carrying goods
+  Two nobles in heated discussion
+  Beggars (10% thief level 1-4)
+  Small children
+  Jongleur/Minstrel/Entertainer
+  Cryer for entertainer or theater
+  Innocent bystander (10% thief level 2-8)
+  Dancing bear or other animal with owner
+  Street musician
+  Laborers cleaning up a wall
+  Cleric (levels 1-6)
+  Foreign merchant
+  Concerned citizen
+  Detachment of the Guard12 soldiers
+  Fighter (level 1-8)
+  Porters unloading a wagon
+  Cryer in noble house-livery
+  Unremarkable messenger
+  Merchant making deliveries to noble house
+  Carriage with livery of noble house
+  Construction on nearby building
+  Dungsweepers
+  Artist doing portraits
+  Merchant fawning over a noble
+  Old coots
+  City Watch, patrol of 4
+  Lower-class Waterdhavians from Docks Ward
+  Innocent bystanders
+  Messenger wearing the device of a guild
+  Young couple oblivious to the world
+  Man buying a small item from another man
+  Wagon moving furniture
+  Bearers carrying large cloth burdens
+  Religious parade or procession
+  Minor; harried official
+  Noble woman with three bodyguards
+  Shady individual lurking near corner
+  Innocent bystander
+  Band of ruffians
+  Minor city official taking a nap
+  Horses tied up in front of building
+  Obvious tourists from the hinterlands
+  City Watch, patrol of 4
+  Flying creature (hippogriff, griffon, pegasus, flying
+  carpet, etc.)
+  Lamplighters
+  2-3 men dressed in black
+  Courtesans with escort
+  Ruffians
+  Innocent bystanders, out too late
+  Gang of low level (1-3) thieves
+  Runner for some noble house
+  Wizard (level 9-15)
+  Drunken rowdies
+  Party of tourists with guide
+  Monster encounter
+  Lamplighters
+  City Watch, patrol of 4
+  Party of tourists with guide
+  3-4 men in shadows
+  Lone horseman
+  Courting lovers
+  Carriage with drawn curtains
+  Lamplighters
+  Noble en route home, drunk
+  Lost, confused foreigner
+  Monster encounter
 
 
 waterdeep_encounter
