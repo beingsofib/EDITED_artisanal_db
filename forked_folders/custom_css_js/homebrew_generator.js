@@ -8258,7 +8258,7 @@ surname_last
   wind
   wing
 
-waterdeep_streets
+waterdeep_sights
   City Guard, patrol of 6
   Messenger in the livery of a noble house
   Local merchant
