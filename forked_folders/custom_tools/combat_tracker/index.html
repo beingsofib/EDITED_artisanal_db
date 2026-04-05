@@ -30,8 +30,8 @@ Learn about the licensing of the data of this tool in the license.html file loca
         }
     }
 </style>
-<script src="../../css_js/monster_combat_stats.js"></script>
-<script src="../../monsters/custom/custom_monster_index.js"></script>
+<script src="../../../css_js/monster_combat_stats.js"></script>
+<script src="../../../monsters/custom/custom_monster_index.js"></script>
 </head>
 <body class="combat-tracker">
 <div><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</div>
@@ -72,7 +72,7 @@ Learn about the licensing of the data of this tool in the license.html file loca
 <table id="combatTable">
     <thead>
         <tr>
-            <th class="init-col">Init</th>
+            <th class="init-col">Init <button onclick="rerollAllInitiatives()" class="hp-button" title="Reroll all initiatives"><svg width="14" height="14" viewBox="0 0 100 100" style="vertical-align:middle;display:inline-block;" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round"><polygon points="50,4 96,28 96,72 50,96 4,72 4,28"/><polygon points="50,4 4,72 96,72"/><line x1="4" y1="28" x2="50" y2="96"/><line x1="96" y1="28" x2="50" y2="96"/></svg></button></th>
             <th class="name-col">Name</th>
             <th class="ac-col">AC</th>
             <th class="tohit-col">Hit Mod</th>
@@ -92,6 +92,15 @@ let allMonsters = [];
 let monsters = [];
 let monsterSources = [];
 let selectedSource = '';
+
+function d20Svg() {
+    return `<svg width="14" height="14" viewBox="0 0 100 100" style="vertical-align:middle;display:inline-block;" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round">
+        <polygon points="50,4 96,28 96,72 50,96 4,72 4,28"/>
+        <polygon points="50,4 4,72 96,72"/>
+        <line x1="4" y1="28" x2="50" y2="96"/>
+        <line x1="96" y1="28" x2="50" y2="96"/>
+    </svg>`;
+}
 
 // Load monster data from included JavaScript
 function loadMonstersFromJS() {
@@ -256,7 +265,7 @@ function selectMonster(monster) {
     document.getElementById('nameInput').value = finalName;
     document.getElementById('acInput').value = monster.ac;
     document.getElementById('maxHpInput').value = monster.hp;
-    document.getElementById('initiativeInput').value = 10 + monster.init;
+    document.getElementById('initiativeInput').value = Math.floor(Math.random() * 20) + 1 + monster.init;
     document.getElementById('monsterResults').style.display = 'none';
     document.getElementById('quantityInput').focus();
     
@@ -264,7 +273,8 @@ function selectMonster(monster) {
     window.selectedMonsterInfo = {
         originalName: cleanName,
         source: monster.source,
-        slug: monster.slug // Store slug for direct linking
+        slug: monster.slug, // Store slug for direct linking
+        initMod: monster.init
     };
 }
 
@@ -356,6 +366,7 @@ function addCombatant() {
             id: Date.now() + i,
             name: finalName,
             initiative: initiative,
+            initMod: window.selectedMonsterInfo ? window.selectedMonsterInfo.initMod : 0,
             maxHp: maxHp,
             currentHp: maxHp,
             ac: ac,
@@ -380,6 +391,16 @@ function addCombatant() {
 
 function sortCombatantsByInitiative() {
     combatants.sort((a, b) => b.initiative - a.initiative);
+}
+
+function rerollAllInitiatives() {
+    combatants.forEach(combatant => {
+        const roll = Math.floor(Math.random() * 20) + 1;
+        combatant.initiative = roll + (combatant.initMod || 0);
+    });
+    sortCombatantsByInitiative();
+    currentTurnIndex = 0;
+    renderCombatTable();
 }
 
 function clearInputs() {
@@ -434,7 +455,7 @@ function renderCombatTable() {
             </td>
             <td>
                 <div style="display: flex; align-items: center; gap: 4px; justify-content: center;">
-                    <button onclick="rollD20(${combatant.id})" class="hp-button" title="Roll d20">🎲</button>
+                    <button onclick="rollD20(${combatant.id})" class="hp-button" title="Roll d20">${d20Svg()}</button>
                     <span style="font-weight: bold; min-width: 24px; text-align: center; ${combatant.lastD20Roll === 20 ? 'color: gold; text-shadow: 0 0 4px goldenrod;' : combatant.lastD20Roll === 1 ? 'color: #e55;' : ''}">${combatant.lastD20Roll !== null && combatant.lastD20Roll !== undefined ? combatant.lastD20Roll : '–'}</span>
                     ${combatant.lastD20Roll !== null && combatant.lastD20Roll !== undefined ? '<span style="color:#aaa;font-size:11px;margin:0 2px">=</span><span style="font-weight:bold;' + (combatant.lastD20Roll === 20 ? 'color:gold;text-shadow:0 0 4px goldenrod;' : combatant.lastD20Roll === 1 ? 'color:#e55;' : '') + '">' + (combatant.lastD20Roll + (combatant.toHitMod !== undefined ? combatant.toHitMod : 0)) + '</span>' : ''}
                 </div>
