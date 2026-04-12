@@ -144,7 +144,7 @@ shopping
   <p>{armour_interest}<br>{jewellery_interest}<br>{clothing_interest}<br>{art_interest}<br>{oddities_interest}<br>{weapon_interest} {potion_interest}</p>
 
 shop_npc
-    <strong>{name} {surname_first}{surname_last}</strong> — {species_trait} {npc_type}: {speech} voice, {hair} hair, {facial_features}, {visual_characteristics}, {trait}, {dress}, holding {simple_item}
+    <strong>{name} {surname_first}{surname_last}</strong> — {species_trait} {dress} with {hair} hair, {facial_features} who {visual_characteristics}. They are  {personality} with {speech} speech.  As well as being {world_view} they want to {goal} and are trying to {quest}. They are dressed either as a {npc_type} or a {npc_type}.
 
 
 
@@ -297,6 +297,30 @@ speech
   stutters
   whispery
   whiny
+
+
+world_view
+  Surly
+  Friendly
+  Brash
+  Elitist
+  Suspicious
+  Carefree
+  Loyal
+  Opportunistic
+  Wide-eyed
+  Humorous
+  Cautious
+  Roisterous
+  Optimistic
+  Ignorant
+  Selfless
+  Brazen
+  Loving
+  Ambitious
+  Greedy
+  Outgoing
+
 
 hair
   bald
@@ -688,51 +712,56 @@ quest
   dig up an artifact
 
 npc_type
-  bandit
-  cultist
-  scout
-  thug
-  spy
-  berserker
-  cult fanatic
-  druid
-  priest
-  knight
-  veteran
-  mage
+  acolyte
+  apothecary
+  artisan
   assassin
+  bandit
+  berserker
+  blacksmith
   caravanner
+  charlatan
   circusfolk
+  clerk
   collegiate
   cosmopolitan
-  imperial
-  itinerant
-  lone wanderer
-  nomad
-  settler
-  villager
-  wildling
-  acolyte
-  artisan
-  charlatan
   criminal
+  cult fanatic
+  cultist
+  druid
   entertainer
   exile
   farmer
   folk hero
   gambler
   guard
+  guide
   guildmember
   hermit
+  imperial
+  itinerant
+  knight
+  lone wanderer
+  mage
   marauder
+  mercenary
+  merchant
   noble
+  nomad
   outlander
+  priest
   sage
   sailor
+  scout
+  settler
   soldier
+  spy
+  thug
   trader
   urchin
-
+  veteran
+  villager
+  wildling
 
 
 
