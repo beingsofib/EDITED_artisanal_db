@@ -1,0 +1,591 @@
+# S. Unnatural Cruelty
+
+> Motif-Index of Folk-Literature · 533 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Cruel relative
+
+- **S0** — Cruel relative.
+- **S10** — Cruel parents.
+- **S11** — Cruel father.
+- **S11.1** — Father mutilates children.
+- **S11.2** — Jealous father sends son to upper world on stretching tree.
+- **S11.3** — Father kills child.
+- **S11.3.1** — Man who doubts his children's paternity kills them.
+  *Murders wife and paramour.*
+- **S11.3.2** — Father kills deformed children.
+- **S11.3.3** — Father kills son.
+- **S11.3.3.1** — Father kills son (for stealing).
+- **S11.3.3.2** — Father murders his two sons for whining.
+- **S11.3.4** — Cruel father, learning that he is to be killed by his son, puts to death all children born to him.
+- **S11.3.5** — Cruel king slays brother and brother's son.
+- **S11.3.6** — Father throws boy into river (sea).
+- **S11.3.7** — Father orders son assassinated.
+- **S11.3.8** — Father eats own children.
+- **S11.4** — Father plans child's death.
+- **S11.4.1** — Jealous father vows to kill daughter's suitors.
+- **S11.4.2** — Father kisses son while planning to kill him.
+- **S11.4.3** — Cruel fathers threaten to kill their children if they are of undesirable sex.
+- **S11.4.4** — Cruel father seeks to kill infant son.
+- **S11.5** — Father banishes son at request of fairy wife.
+- **S11.6** — Father flogs child.
+- **S12** — Cruel mother.
+- **S12.1** — Treacherous mother marries ogre and plots against son.
+- **S12.1.1** — Treacherous mother and paramour plan son's death.
+- **S12.2** — Cruel mother kills child.
+- **S12.2.1** — Mother feeds newly-born illegitimate child to dog.
+- **S12.2.2** — Mother throws children into fire.
+- **S12.2.3** — Mother forces child to break eating tabu: child dies.
+- **S12.3** — Mother orders son's death.
+- **S12.4** — Cruel mother blinds son.
+- **S12.5** — Cruel mother expels (drives away) child.
+- **S12.5.1** — Girl impregnated by god driven from home by mother.
+- **S12.6** — Cruel mother refuses children food.
+- **S12.7** — Mother tells healthy sons to wipe soiled hands on lame son.
+- **S20** — Cruel children and grandchildren.
+- **S20.1** — Children sell mother.
+- **S20.2** — Child hides food from starving parents.
+- **S21** — Cruel son.
+- **S21.1** — Son buries aged mother alive.
+- **S21.2** — Son blinds father.
+- **S21.3** — Son gives mother as hostage.
+- **S21.4** — King banishes mother to stables.
+- **S21.5** — Cruel son tries to sterilize father.
+- **S22** — Parricide.
+- **S22.1** — Parricide to obtain kingship.
+- **S22.1.1** — Adopted son plots death of parents.
+  *Usurps the throne.*
+- **S22.3** — Father learns that his son is planning to kill him.
+  *Gives his son a weapon to do so. Son repents.*
+- **S25** — Cruel grandson.
+- **S25.1** — Boy kills his grandfather.
+- **S30** — Cruel step- and foster relatives.
+- **S31** — Cruel stepmother.
+- **S31.1** — Adulteress and paramour plot against her stepson.
+  *They fear that he may betray them.*
+- **S31.2** — Children enchanted by stepmother.
+- **S31.3** — Cruel bird stepmother feeds young ones with thorns.
+- **S31.4** — Cruel stepmother feeds children with fish spines (thorns) to kill them.
+- **S31.5** — Girl persuades her father to marry a widow who has treated her kindly.
+- **S32** — Cruel stepfather.
+- **S33** — Cruel stepbrother.
+- **S34** — Cruel stepsister(s).
+- **S36** — Cruel foster father.
+- **S37** — Cruel foster son.
+- **S40** — Cruel grandparents.
+- **S41** — Cruel grandmother.
+- **S42** — Cruel grandfather.
+  *Kills his grandchildren.*
+- **S50** — Cruel relatives-in-law.
+- **S51** — Cruel mother-in-law.
+- **S51.1** — Cruel mother-in-law plans death of daughter-in-law.
+- **S52** — Cruel father-in-law.
+- **S54** — Cruel daughter-in-law.
+- **S54.1** — Burned and underbaked bread.
+  *Wishing to rid herself of her father-in-law, the daughter-in-law starts to feed him burned bread; but the old man begins to thrive on it. When she tries underbaked bread, he dies very soon.*
+- **S55** — Cruel sister-in-law.
+- **S56** — Cruel son-in-law.
+- **S56.1** — Lover asks girl to kill her father.
+- **S60** — Cruel spouse.
+- **S62** — Cruel husband.
+- **S62.1** — Bluebeard.
+  *Girl marries murderous husband.*
+- **S62.2** — Man has bride drowned so that he may marry another.
+- **S62.3** — Barren wife exposed by husband.
+- **S62.4** — Husband leaves wife to die of thirst.
+- **S63** — Spouse murder pact.
+  *Princess kills her husband. Prince kills his wife. Murderers marry and usurp the throne.*
+- **S70** — Other cruel relatives.
+- **S71** — Cruel uncle.
+- **S71.1** — Cruel uncle poisons nephew (king).
+- **S72** — Cruel aunt.
+- **S73.1** — Fratricide.
+- **S73.1.0.1** — Murder of stepbrother (foster brother).
+- **S73.1.1** — Fratricide in order to gain control of kingship.
+- **S73.1.2** — Brother kills and eats brother.
+- **S73.1.3** — Elder brother threatens to kill younger as soon as he is born.
+- **S73.1.4** — Fratricide motivated by love-jealousy.
+- **S73.2** — Person banishes brother (sister).
+- **S73.3** — Man blinds brother.
+- **S74** — Cruel nephew.
+- **S74.1** — Nephew (niece) kills uncle.
+
+## Revolting murders or mutilations
+
+- **S100** — Revolting murders or mutilations.
+- **S110** — Murders.
+- **S110.1** — Old people killed in famine.
+- **S110.1.1** — Child condemned to be killed in famine.
+- **S110.2** — Man kills all guests, hoping some day to kill rival.
+- **S110.3** — Princess builds tower of skulls of unsuccessful suitors.
+- **S110.3.1** — Princess makes necklace of heads of unsuccessful suitors.
+- **S110.4** — Prince resolves to drive relatives from his domain.
+  *Kills many.*
+- **S110.5** — Murderer kills all who come to certain spot.
+- **S111** — Murder by poisoning.
+- **S111.1** — Murder with poisoned bread.
+- **S111.2** — Murder with poisoned lace.
+- **S111.3** — Murder with poisoned comb.
+- **S111.4** — Murder with poisoned apple.
+- **S111.5** — Murder with poisoned book.
+  *King wets finger to turn leaves and falls dead.*
+- **S111.6** — Murder with poisoned robe.
+  *Consumes wearer.*
+- **S111.7** — Murder with poisoned slippers.
+- **S111.8** — Murder by feeding poisonous snake.
+- **S111.9** — Murder by placing a poisoned fingernail on step.
+- **S112** — Burning to death.
+- **S112.0.1** — City burned with all inhabitants.
+- **S112.0.2** — House (hostel) burned with all inside.
+- **S112.1** — Boiling to death.
+  *Often in pitch or oil.*
+- **S112.2** — Murder with hot iron.
+  *Bored through eye or nose.*
+- **S112.2.1** — Murder by hot iron through heart.
+- **S112.2.2** — Murder by driving red-hot iron spits through soles of feet and into shins.
+- **S112.3** — Murder by hot lead poured into ear.
+- **S112.4** — Attempted murder by live coals in garments.
+- **S112.5** — Murder by feeding on over-hot food.
+  *Person forced to eat.*
+- **S112.6** — Murder by roasting alive in oven furnace).
+- **S112.7** — Son takes mother to woods and tries to burn her up while she sleeps.
+- **S113** — Murder by strangling.
+- **S113.1** — Murder by hanging.
+- **S113.1.1** — Slaves killed by hanging.
+- **S113.1.2** — Prisoners taken in war (enemy's messengers) hanged.
+- **S113.2** — Murder by suffocation.
+- **S113.2.1** — Devil cuts off hand of woman and suffocates her.
+- **S113.2.2** — Suffocating in bathroom.
+- **S113.2.3** — Murder by luring to feast and suffocating.
+  *All holes are stopped and house set afire.*
+- **S114** — Murder by flaying.
+- **S114.1** — Skin of murdered person found in enemy's house.
+- **S115** — Murder by stabbing.
+- **S115.1** — Murder by stabbing in ear.
+- **S115.2** — Murder by sticking needle through head.
+- **S115.2.1** — Murder by driving nail through head.
+- **S115.3** — Murder by piercing with pins and needles.
+- **S116** — Murder by crushing.
+- **S116.1** — Murder by grinding in mill.
+- **S116.2** — Pregnant woman crushed beneath chariot.
+- **S116.3** — Murder by breaking back.
+- **S116.4** — Murder by crushing head.
+- **S116.5** — Murder by crushing beneath falling tree.
+- **S116.6** — Murder by trampling of horses (elephants).
+- **S117** — Death by dragging behind horse.
+- **S118** — Murder by cutting.
+- **S118.1** — Murder by cutting adversary in two.
+- **S118.2** — Murder by cutting throat.
+- **S121** — Murder by slamming down chest-lid.
+  *Done while victim is looking into the chest.*
+- **S122** — Flogging to death.
+- **S123** — Burial alive.
+- **S123.0.1** — Hostages buried alive.
+- **S123.1** — Burial alive of drugged person.
+- **S123.2** — Burial of living husband or wife with dead spouse.
+- **S123.2.1** — Burial of living man with dead blood brother.
+- **S123.3** — Living children buried with dead mother.
+- **S123.4** — Avenger plans to let king starve in mountain chamber.
+- **S123.5** — Burial alive of maiden to keep her safe from rival.
+- **S123.6** — Enemies buried alive up to their necks and exposed to jackals.
+- **S125** — Immolation.
+- **S125.1** — Self-immolation.
+- **S127** — Murder by throwing from height.
+- **S131** — Murder by drowning.
+- **S131.1** — River carrier (whale, crocodile) throws passenger off and drowns him.
+- **S132** — Murder by starvation.
+- **S133** — Murder by beheading.
+- **S135** — Murder by springing bent tree.
+  *Man bound to it is torn to pieces.*
+- **S139** — Miscellaneous cruel murders.
+- **S139.1** — Murder by twisting out intestines.
+- **S139.2** — Slain person dismembered.
+- **S139.2.1** — Head of murdered man displayed before his own house.
+- **S139.2.1.1** — Head of murdered man taken along as trophy.
+- **S139.2.2** — Other indignities to corpse.
+- **S139.2.2.1** — Heads of slain enemies impaled upon stakes.
+- **S139.2.2.1.1** — Heads (tongues) of slain enemies as trophies.
+- **S139.2.2.1.2** — Impaled head used as target.
+- **S139.2.2.1.3** — Custom: sitting upon head of slain enemy.
+- **S139.2.2.1.4** — Heads of defeated enemies hung on conqueror's saddle.
+- **S139.2.2.1.5** — Hand of slain enemy nailed to castle.
+- **S139.2.2.1.6** — Heads brandished to intimidate foe.
+- **S139.2.2.2** — Dead man gutted and filled with stones.
+- **S139.2.2.3** — Dead dog buried with enemy.
+- **S139.2.2.3.1** — Corpse buried face down as indignity.
+- **S139.2.2.4** — Parts of corpses used in sport.
+- **S139.2.2.4.1** — Head used as ball.
+- **S139.2.2.4.2** — Brains of enemies fashioned into balls (as trophies for play).
+- **S139.2.2.4.3** — Chess board and men made from bones of slain enemies.
+- **S139.2.2.5** — Corpses burned as fuel for cooking.
+- **S139.2.2.6** — Corpse drawn asunder.
+- **S139.2.2.7** — Ash (hazel) stakes thrust through bodies of slain warriors.
+- **S139.2.2.8** — Ashes of murdered person passed through sieve and remains put to manure heap.
+- **S139.3** — Captured women hanged and crucified.
+- **S139.4** — Murder by mangling with axe.
+- **S139.5** — Murder by cutting off uvula.
+- **S139.6** — Murder by tearing out heart.
+- **S139.7** — Murder by slicing person into small pieces.
+- **S139.8** — Murder by biting the throat.
+- **S140** — Cruel abandonments and exposures.
+- **S140.1** — Abandonment of aged.
+- **S141** — Exposure in boat.
+  *A person (usually woman or child) set adrift in a boat (chest, basket, cask).*
+- **S141.1** — Man springs ashore and pushes companion in boat out to sea.
+- **S141.2** — Father saves himself in storm and forgets his two children.
+  *They are abandoned in a boat.*
+- **S141.3** — Exposure astride a log of wood floated down river.
+- **S142** — Person thrown into the water and abandoned.
+- **S143** — Abandonment in forest.
+- **S143.1** — Child abandoned in hollow tree.
+- **S143.2** — Abandonment in tall tree.
+- **S143.2.1** — Tortoise placed in tall tree and left.
+- **S143.3** — Mutilated man on horseback chased into the forest.
+- **S143.4** — Husband abandons wife in childbirth in jungle.
+- **S144** — Abandonment in desert.
+- **S144.1** — Abandonment alone on foreign coast.
+- **S145** — Abandonment on an island.
+  *(Marooning.)*
+- **S146** — Abandonment in pit.
+- **S146.1** — Abandonment in well.
+- **S146.2** — Abandonment in cave.
+- **S147** — Abandonment on mountain.
+- **S147.1** — Abandonment on cliff.
+- **S147.1.1** — Abandonment on cliff near nest of a bird.
+- **S148** — Abandonment in bonds that cannot be loosed.
+- **S152** — Children abandoned in box in potter's kiln.
+- **S153** — Abandonment in stable.
+- **S160** — Mutilations.
+- **S160.1** — Self-mutilation.
+- **S160.2** — Jealous women mutilate her who is most attractive to men.
+- **S160.3** — Fairies mutilate mortals.
+- **S160.4** — Mutilation of envoys.
+- **S160.5** — Moon mutilates his earth mistress.
+- **S161** — Mutilation: cutting off hands (arms).
+- **S161.0.1** — Masons who build mausoleum of princess lose their right hands so they may never again construct so fine a building.
+- **S161.1** — Mutilation: cutting off fingers.
+- **S161.1.1** — Child's finger-ends cut off to give long life.
+- **S162** — Mutilation: cutting off legs (feet).
+- **S162.1** — Fighting on stumps of legs after they have been cut off at knee.
+- **S162.2** — Hamstringing.
+- **S162.3** — Mutilation: cutting off toes.
+- **S162.4** — Mutilation: cutting off heelbone.
+- **S162.5** — Mutilation: crushing feet and turning them backward.
+- **S163** — Mutilation: cutting (tearing) out tongue.
+  *Often to prevent revelation of secret.*
+- **S164** — Mutilation: knocking out teeth.
+- **S165** — Mutilation: putting out eyes.
+- **S165.1** — Eyes of beheaded person gouged out.
+- **S165.2** — Crane pecks out tiger's eyes.
+- **S165.3** — Blinding by thrusting needles into eyes.
+- **S165.4** — Eyes torn out and filled with sand.
+- **S165.5** — Necklace made of torn out human eyes.
+- **S165.6** — Human eyes used as fishbait.
+- **S165.7** — Artisan who has built palace blinded so he cannot build another like it.
+- **S166** — Mutilation: skin cut from back.
+- **S166.1** — Mutilation: beard torn off with the skin (and cheeks).
+- **S166.2** — Mutilation: cheek and chin cut off, but held together by biting the beard.
+- **S166.3** — Mutilation: shoulder-skin torn off in wrestling.
+- **S166.4** — Mutilation: cheeks cut off.
+- **S166.5** — Mutilation: chin and lips cut off.
+- **S166.6** — Blood-eagle cut on man's back by flaying and salting.
+- **S167** — Mutilation by crushing.
+- **S167.1** — Mutilation: crushing victim's limbs.
+- **S168** — Mutilation: tearing off ears.
+- **S172** — Mutilation: nose cut off or crushed.
+- **S172.1** — Angry paramour bites off his mistress's nose.
+- **S173** — Mutilation: breaking (two, three) ribs.
+- **S175** — Horses mutilated: tails cut off and manes torn off with the skin in order to humiliate their owner.
+- **S176** — Mutilation: sex organs cut off.
+- **S176.1** — Mutilation: emasculation.
+- **S180** — Wounding or torturing.
+- **S181** — Wounding by trapping with sharp knives (glass).
+- **S181.1** — Victim bound to a bladed wheel.
+- **S182** — Girl fastened by hair to rafter.
+- **S182.1** — Man hanged by hair to tree.
+- **S182.2** — Girl pulled about by her hair.
+- **S183** — Frightful meal.
+- **S183.0.1** — Person forced to eat red-hot meal.
+- **S183.1** — Person forced to eat hearts (flesh) of relatives (draw blood).
+- **S183.2** — Person forced to eat loathsome animal.
+- **S185** — Cruelty to pregnant woman.
+- **S185.1** — Co-wife forces pregnant woman to perform lowly tasks.
+- **S185.2** — King demands intercourse with woman in childbed.
+- **S186** — Torturing by beating.
+- **S187** — Torturing by scratching.
+- **S187.1** — Torture by tearing out the sides (of a person).
+- **S187.2** — Hair combed with iron combs.
+- **S191** — Driving insane by keeping awake.
+
+## Cruel sacrifices
+
+- **S222** — Prince plans to kill wicked father for cruelty.
+- **S200** — Cruel sacrifices.
+- **S210** — Children sold or promised.
+- **S210.1** — Child sold into slavery.
+- **S210.2** — Child sold to be killed.
+- **S211** — Child sold (promised) to devil (ogre).
+- **S211.1** — Child of woman and devil taken to his father.
+- **S212** — Child sold to magician.
+- **S213** — Child promised to wood-spirit.
+- **S214** — Child promised to mermaid.
+- **S215** — Child promised to animal.
+- **S215.1** — Girl promises herself to animal suitor.
+- **S216** — Mothers exchange children.
+- **S220** — Reasons for promise (sale) of child.
+- **S221** — Child sold (promised) for money.
+- **S221.1** — Bankrupt father sells his daughters in marriage to animals.
+- **S221.2** — Youth sells himself to an ogre in settlement of a gambling debt.
+- **S222** — Man promises (sells) child in order to save himself from danger or death.
+- **S222.1** — Woman promises her unborn child to appease offended witch.
+- **S222.2** — Woman promises unborn daughter to snake as wife for ferrying her across stream.
+- **S222.3** — Woman promises unborn child to tiger if he will spare her.
+- **S222.4** — Sultan's daughter demanded by giant ogre as price for letting his subjects alone.
+- **S223** — Childless couple promise child to the devil if they may only have one.
+- **S223.0.1** — Robert the Devil.
+  *Childless couple wish for a child even if he comes from the devil. He is diabolical.*
+- **S223.0.2** — Maid pledged to devil dresses conspicuously.
+- **S223.1** — Girl promises unborn child to devil if he will suffer the birth pangs.
+- **S223.2** — Mother curses her unborn child.
+- **S223.3** — An old maid promises the devil her first born.
+  *She wishes to get a husband.*
+- **S223.4** — Childless couple promise one of two children to devil if they may only have them.
+- **S224** — Child promised to devil for acting as godfather.
+- **S225** — Child promised to devil for help on road with broken wagon.
+- **S226** — Child promised to devil for directions out of woods when father is lost.
+- **S227** — Child promised to devil in exchange for a good catch of fish.
+- **S228** — Daughter promised to monster as bride to secure flower (bird) she has asked for.
+- **S232** — Daughter promised to tiger in marriage for help in carrying load.
+- **S233** — Children given in return for being taught magic.
+- **S234** — Children sold in exchange for food.
+- **S235** — Angry man gives away his daughter to a beggar.
+- **S240** — Children unwittingly promised (sold).
+- **S240.1** — Girl promised unwittingly by her parents to ogre.
+- **S241** — Child unwittingly promised: "first thing you meet."
+  *(Jephthah's vow.)*
+- **S241.1** — Unwitting bargain with devil evaded by driving dog over bridge first.
+  *The child has been unwittingly promised (the first thing that goes over the bridge).*
+- **S241.2** — Devil is to have last one who leaves "black school".
+- **S241.3** — Princess promised unwittingly to madman: "what you ask for."
+- **S242** — Child unwittingly promised: "what you have at home."
+  *The man thinks it is a cat (dog).*
+- **S242.1** — Child unwittingly promised: "What you wife has under her belt."
+- **S243** — Child unwittingly promised: Nix-Naught-Nothing.
+  *The child born while the father is away is named Nix-Naught-Nothing.*
+- **S245** — Child unwittingly promised: what is born on your farm.
+  *Two women agree that what is born on the farm of each belongs exclusively to the owner. The child of one is born on the farm of the other.*
+- **S247** — Daughter unwittingly promised to dog rescuer.
+- **S250** — Saving the promised child.
+- **S251** — Virgin Mary rescues child promised to the devil.
+- **S252** — Vain attempt to save promised child.
+- **S252.1** — Vain attempt to save promised child by use of substitute.
+- **S252.2** — Vain attempt to save promised child by evasions.
+- **S255** — Deity saves person about to be sacrificed.
+- **S255.1** — Deity promises deliverance of promised child to mother in dream.
+- **S255.2** — Child sacrificed to deity returned to mother alive and whole after the ablution and ceremonial rites in honor of her.
+- **S260** — Sacrifices.
+- **S260.1** — Human sacrifice.
+- **S260.1.1** — Child sacrifice as religious rite.
+- **S260.1.2** — Sacrifice of sister on advice of yogi.
+- **S260.1.3** — Prisoners sacrificed to goddess.
+- **S260.1.4** — Sacrifice of child to save life of another.
+- **S261** — Foundation sacrifice.
+  *A human being buried alive at base of the foundation of a building or bridge.*
+- **S261.0.1** — Human blood mixed with rice to make leaky tanks hold water.
+- **S261.1** — Child as foundation sacrifice smiles and wins freedom.
+  *The king asks him why he smiles. "One first expects mercy from the parents; if they have none, then from the king. Now only God will have mercy."*
+- **S262** — Periodic sacrifices to a monster.
+- **S262.0.1** — One man disappears each night.
+- **S262.1** — Woman given to devastating monster as wife to appease it.
+- **S262.2** — Tribute of youths regularly sent to foreign king.
+- **S262.2.1** — Youths and maidens as yearly tribute to monsters (Fomorians).
+- **S262.3** — Sacrificial victim chosen by lot.
+- **S262.4** — Girl offers to sacrifice herself to dragon in place of her parents.
+- **S263** — Sacrifice to appease spirits (gods).
+- **S263.1** — Highest ranking man in land to be sacrificed for good crops.
+- **S263.2** — Child sacrificed to gain favor of gods.
+- **S263.2.1** — Gods furnish substitute for child sacrifice.
+- **S263.2.2** — Daughters sacrificed to avert famine.
+- **S263.2.3** — Man shows himself willing to sacrifice his child to prove his desire to follow God.
+  *He is prevented by abbot.*
+- **S263.3** — Person sacrificed to water spirit to secure water supply.
+- **S263.3.1** — Human sacrifice to water serpent to secure tribal prosperity.
+- **S263.3.2** — Serpent in stream demands pair of human eyes for drink of water.
+- **S263.3.3** — Raja sacrifices his entire family so as to purify lake water.
+- **S263.4** — Sacrifice to river-god who has stopped boat in mid-stream.
+- **S263.4.1** — Sacrifice to offended gods, who hold ship back.
+- **S263.5** — Sacrificial suicide.
+- **S263.5.1** — Saints (monks) sacrifice themselves (to avert plague).
+- **S263.5.2** — Monks sacrifice themselves (to save king and princes from pestilence).
+- **S263.5.3** — Man leaps from vessel into jaws of sea-beast, so as to save remaining passengers.
+- **S263.6** — Man sacrifices his wife to procure wealth in jars.
+- **S264** — Sacrifice to rivers and seas.
+- **S264.1** — Man thrown overboard to placate storm.
+- **S264.1.1** — Man carried on top of mast ready to be sacrificed to storm spirit.
+- **S264.1.2** — Woman drowns herself as sacrifice to water-gods to save husband's boat from capsizing.
+- **S264.2** — Sacrifice to tank.
+- **S265** — Sacrifice of strangers.
+- **S265.1** — Hostages sacrificed.
+- **S266** — Burial of live girl to banish plague.
+- **S267** — Flood stopped by sacrifice of boy and girl.
+- **S268** — Child sacrificed to provide blood for cure of friend.
+- **S268.1** — Sacrifice of child demanded as cure for feigned sickness.
+- **S268.1.1** — Prince's life can only be prolonged if servant sacrifices his only son to goddess.
+- **S268.2** — Son sold for transfusion of blood to sick king.
+- **S271** — Sacrifice of child to remove barrenness.
+- **S272** — Sacrifice of brothers promised if girl is born.
+- **S272.1** — Flight of brothers from home to avoid being sacrificed.
+- **S273** — Child bought to serve as sacrifice to demon.
+- **S274** — Sacrifice as an agricultural rite.
+- **S276** — Sacrifice as protection against disease.
+
+## Abandoned or murdered children
+
+- **S300** — Abandoned or murdered children.
+- **S301** — Children abandoned (exposed).
+- **S302** — Children murdered.
+- **S302.1** — All new-born male children slaughtered.
+- **S303** — Son killed at instigation of lover.
+- **S303.1** — Woman asks suitor to kill the child of his first wife.
+- **S310** — Reasons for abandonment of children.
+- **S311** — Undesirable children exposed, desirable preserved.
+- **S311.1** — Parents successively bury alive their sons who mention something about smith's, potter's, washerman's, and tom-tom beater's trade, but keep fifth child who says something about being future king.
+- **S312** — Illegitimate child exposed.
+- **S312.1** — Child of incest exposed.
+- **S312.2** — Violated woman's child exposed.
+- **S312.3** — Posthumous child to be exposed.
+- **S312.4** — Woman abandons baby boy (of which she was artificially impregnated) in forest.
+- **S313** — Child of supernatural birth exposed.
+- **S314** — Twins (triplets) exposed.
+- **S321** — Destitute parents abandon children.
+- **S321.1** — Children abandoned in famine.
+- **S322** — Children abandoned (driven forth, exposed) by hostile relative.
+- **S322.0.1** — Orphaned boy deprived of his inheritance by relatives.
+- **S322.1** — Father casts daughter forth.
+- **S322.1.1** — Father who wanted son exposes (murders) daughter.
+- **S322.1.2** — Father casts daughter forth when she will not marry him.
+- **S322.1.2.1** — Exposure in jungle for refusing to marry according to father's wishes.
+- **S322.1.3** — Father condemns daughter to death because he believes her unchaste.
+- **S322.1.4** — Princess humiliated by father after she has married loathly bridegroom.
+- **S322.1.5** — Boy turned out of doors by father.
+- **S322.1.5.1** — King, jealous of son, banishes him and his wife.
+- **S322.2** — Jealous mother casts daughter forth.
+- **S322.2.1** — Mother exposes child (for fear of jealous co-wife).
+- **S322.3** — Jealous co-wife kills woman's children.
+- **S322.3.1** — Jealous co-wife demands murder of woman's children.
+- **S322.3.2** — Jealous concubine plots against real wife's daughter.
+- **S322.4** — Evil stepmother casts boy forth.
+- **S322.4.1** — Banishment (death) of stepchildren demanded as cure for feigned illness.
+- **S322.4.2** — Evil stepmother orders stepdaughter to be killed.
+- **S322.4.3** — Stepmother irritates two stepsons so that one kills the other.
+- **S322.5** — Repulsed lover kills woman's child.
+- **S322.6** — Jealous mother-in-law and sisters cast woman's children forth.
+- **S322.7** — Evil stepmother works stepdaughter to death in absence of merchant husband.
+- **S324** — Pregnant woman ordered by husband to kill child to be born.
+- **S325** — Diseased child exposed.
+- **S325.0.1** — Monstrous (deformed) child exposed.
+- **S325.0.1.1** — Child born with caul exposed.
+- **S326** — Disobedient children cast forth.
+- **S326.1** — Disobedient child burned.
+- **S327** — Child cast out because of his stupidity.
+- **S327.1** — Father wants to kill son because of foolish boasting.
+- **S327.2** — Baby ordered killed because it pulls beard of father (raja).
+- **S327.3** — Half-wit abandoned because of his tricks.
+- **S328** — Mother sells her child to heathen sailors.
+- **S329** — Reasons for abandonment of children miscellaneous.
+- **S329.1** — Child exposed so as to avoid death decree.
+- **S330** — Circumstances of murder or exposure of children.
+- **S331** — Exposure of child in boat (floating chest).
+- **S332** — Queen hides her child and accuses wolf of eating it.
+- **S333** — Child's ankles pierced before exposing him.
+- **S334** — Tokens of royalty (nobility) left with exposed child.
+- **S334.1** — Child exposed with twelve years' supply of food and attendants.
+- **S335** — Child exposed at palace gate.
+- **S336** — Abandoned child wrapped in straw.
+- **S337** — Children enticed into grain pot and imprisoned.
+- **S338** — Father abandons his daughter in forest and leaves axes tied so that they move in wind.
+  *Daughter thinks he is cutting wood.*
+- **S341** — Exposure prevented.
+- **S341.1** — Exposure given up on account of newborn son's protesting stanza.
+- **S342** — Mother induced by rival to kill her children.
+- **S345** — Parents trick children into going on hunt, and then abandon them in forest.
+- **S350** — Fate of abandoned child.
+- **S350.1** — Infant condemned to death saved by a smile.
+- **S350.2** — Child driven out (exposed) brought up in secret.
+- **S351** — Abandoned child cared for by mother secretly.
+- **S351.0.1** — Abandoned child made over to its own mother (sister) acting as wet nurse.
+- **S351.1** — Abandoned child cared for by grandmother (aunt, foster mother).
+- **S351.2** — Abandoned child reared by herdsman.
+- **S351.2.1** — Abandoned princess, brought up by herdsmen, becomes wife of king.
+- **S352** — Animal aids abandoned child(ren).
+- **S352.1** — Animal preserves fire for abandoned children in a clam shell.
+- **S353** — Abandoned child reared by supernatural beings.
+- **S353.1** — Deity nurtures and rears abandoned child.
+- **S353.2** — Exposed children miraculously fed by angels.
+- **S354** — Exposed infant reared at strange king's court (Joseph, Oedipus).
+- **S354.1** — Abandoned child adopted and found by queen.
+- **S354.2** — Travelers find exposed baby girl and take her to emperor's court.
+- **S354.3** — Prince (princess) adopts exposed child.
+- **S355** — Exposed child carried off by wild beast.
+- **S356** — Children left at home seek exposed brothers and sisters.
+- **S357** — Abandoned sister rescued by brothers.
+  *When she is refused entrance to house, she makes complaint in a song and brothers bring her clothes.*
+- **S361** — Bird carries food from deserted child to starving parents.
+- **S362** — Starving parents come to abandoned child for food.
+- **S365** — Maltreated children transformed.
+- **S365.1** — Maltreated children transformed to doves.
+- **S366** — Abandoned children return and kill parents.
+- **S371** — Abandoned daughter's son becomes hero.
+- **S375** — Old woman's maledictions inform abandoned hero of his parentage and future.
+  *He has knocked her over (broken pots).*
+- **S376** — Tree feeds abandoned children with its sap.
+- **S378** — Deserted children become Thunder.
+
+## Cruel persecutions
+
+- **S400** — Cruel persecutions.
+- **S401** — Unsuccessful attempts to kill person in successive reincarnations (transformations).
+- **S410** — Persecuted wife.
+- **S411** — Wife banished.
+- **S411.1** — Misunderstood wife banished by husband.
+  *She has decorated the house for his homecoming, but he thinks that she is expecting a paramour.*
+- **S411.2** — Wife banished for some small fault.
+- **S411.2.1** — Queen banished for saying that man's condition depends on what kind of wife he has.
+- **S411.3** — Barren wife sent away.
+- **S411.4** — Wife banished because she eats by stealth.
+- **S412** — Heroine taunted with her unknown past.
+- **S412.1** — Husband expels wife because her industry indicates her peasant origin.
+- **S413** — Unfaithful husband and his mistress persecute his wife.
+- **S413.1** — Ogress-wife orders raja to turn out his six wives.
+- **S413.2** — Second wife orders husband to persecute first.
+- **S414** — Woman abandoned when with child.
+- **S416** — Queen banished when she defeats king in argument.
+- **S430** — Disposal of cast-off wife.
+- **S431** — Cast-off wife exposed in boat.
+- **S431.1** — Cast-off wife and child exposed in boat.
+- **S432** — Cast-off wife thrown into water.
+- **S433** — Cast-off wife abandoned on island.
+- **S435** — Cast-off wife abandoned in pit.
+- **S436** — Cast-off wife's head shaven.
+- **S437** — Cast-off wife sent to herd cows.
+- **S438** — Abandoned queen blinded.
+- **S441** — Cast-off wife and child abandoned in forest.
+- **S442** — Outcast wife and her son live in poverty.
+- **S445** — Abandoned wife hidden under a tub.
+- **S446** — Rejected wife asks to take away only what she brought.
+- **S450** — Fate of outcast wife.
+- **S451** — Outcast wife at last united with husband and children.
+- **S452** — Outcast wife commits suicide when confronted with heads of relatives killed in revenge for her wrong-doing.
+- **S453** — Exposed woman helped by magician.
+- **S460** — Other cruel persecutions.
+- **S461** — Tale-bearer unjustly drowned for lack of proof of accusation.
+- **S463** — Jealous wife has merchant turn out queen and son, whom he had befriended and taken into his home.
+- **S464** — Deity appears before persecuted youngest brother and gives him a flock of sheep.
+- **S465** — Abandoned person in woods comforted by prophet and birds.
+- **S466** — Practice of one's religion forbidden.
+- **S471** — Persecuted sons of co-wife.
+- **S481** — Cruelty to animals.

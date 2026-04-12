@@ -1,0 +1,2883 @@
+# B. Animals
+
+> Motif-Index of Folk-Literature · 2672 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Mythical animals
+
+- **B0** — Mythical animals.
+- **B1** — Animal elders.
+  *Mythical ancestors of the present animals.*
+- **B1.1** — Angels of animals.
+  *Each kind of animal has its angel in heaven.*
+- **B2** — Animal totems.
+- **B2.1** — Dog as totem animal.
+- **B5** — Fantastic beasts, birds, etc., in art.
+- **B7** — Animals in the heavens.
+- **B7.1** — Animals rule celestial spheres.
+- **B7.2** — Mythical animals surround God's throne.
+- **B7.3** — Mythical bird running before the sun bears inscription of golden letters.
+- **B10** — Mythical beasts and hybrids.
+- **B11** — Dragon.
+- **B11.1** — Origin of dragon.
+- **B11.1.1** — Dragon from cock's egg.
+- **B11.1.2** — Dragon from transformed horse.
+  *White horse plunges into water and is changed into a dragon.*
+- **B11.1.3** — Dragon from transformed man lying on his treasures (Fbfnir).
+- **B11.1.3.0.1** — Transformed princess as dragon.
+- **B11.1.3.1** — Dragon from worm.
+- **B11.1.3.1.1** — Dragon develops from small worm placed on gold.
+  *It grows together with the gold.*
+- **B11.1.4** — Devil in form of dragon.
+- **B11.2** — Form of dragon.
+- **B11.2.0.1** — She-dragon.
+- **B11.2.1** — Dragon as compound animal.
+- **B11.2.1.1** — Dragon as modified serpent.
+- **B11.2.1.2** — Dragon as modified lizard.
+- **B11.2.1.3** — Dragon as modified fish.
+- **B11.2.1.4** — Dragon as modified shell-fish.
+- **B11.2.1.5** — Dragon as modified toad.
+- **B11.2.1.6** — Dragon as modified elephant.
+- **B11.2.1.7** — Dragon as modified horse.
+- **B11.2.1.9** — Dragon as modified ram.
+- **B11.2.1.10** — Dragon as modified deer.
+- **B11.2.1.11** — Dragon as modified eagle.
+- **B11.2.1.12** — Dragon as other modified animal.
+- **B11.2.2** — Color of dragon.
+- **B11.2.2.1** — Dragon with golden feathers.
+- **B11.2.3** — Many-headed dragon.
+- **B11.2.3.1** — Seven-headed dragon.
+- **B11.2.3.2** — Three-headed dragon.
+- **B11.2.3.3** — Six-headed dragon.
+- **B11.2.3.4** — Nine-headed dragon.
+- **B11.2.3.5** — Twelve-headed dragon.
+- **B11.2.3.6** — Two-headed dragon.
+- **B11.2.4** — Feet of dragon.
+- **B11.2.4.1** — Feet of dragon number.
+- **B11.2.4.2** — Feet of dragon nature.
+- **B11.2.5** — Horns of dragon.
+- **B11.2.6** — Wings of dragon.
+- **B11.2.7** — Snakes issue from dragon's shoulders.
+- **B11.2.8** — Tail of dragon.
+- **B11.2.8.1** — Dragon encircles city with its tail.
+- **B11.2.9** — Heart of dragon.
+- **B11.2.10** — Scales of dragon.
+- **B11.2.11** — Fire-breathing dragon.
+- **B11.2.11.1** — Dragon spews venom.
+- **B11.2.11.2** — Breath of dragon kills man.
+- **B11.2.12** — Dragon of enormous size.
+- **B11.2.13** — Blood of dragon.
+- **B11.2.13.1** — Blood of dragon venomous.
+- **B11.2.14** — Dragon with jewel in head.
+- **B11.3** — Habitat of dragon.
+- **B11.3.1** — Dragon's home in bottom of sea.
+- **B11.3.1.1** — Dragon lives in lake.
+- **B11.3.1.2** — Dragon's home beneath waterfall.
+- **B11.3.2** — Dragon's home at top of mountain.
+  *His breath forms clouds to hide the mountain.*
+- **B11.3.3** — Dragon's visit to sky.
+- **B11.3.4** — Dragons live beneath castle.
+- **B11.3.5** — Dragon lives under the ground.
+  *By his movements a building or village will be dislodged.*
+- **B11.3.6** — Dragons live in hell.
+- **B11.3.7** — Dragon lives beneath tree.
+- **B11.3.8** — Dragon lives in isolated island.
+- **B11.4** — Dragon's habits.
+- **B11.4.1** — Flying dragon.
+- **B11.4.2** — Dragon as giver of omens.
+- **B11.4.3** — Sleepless dragon.
+- **B11.4.4** — Dragon travels on sea or land.
+- **B11.4.5** — Talking dragon.
+- **B11.5** — Powers of dragon.
+- **B11.5.1** — Dragon's power of self-transformation.
+- **B11.5.2** — Dragon's power of magic invisibility.
+- **B11.5.3** — Dragon's miraculous vision.
+  *Can see a fly miles away.*
+- **B11.5.4** — Dragon's miraculous speed.
+- **B11.5.5** — Self-returning dragon's head.
+- **B11.6** — Deeds of dragons.
+- **B11.6.1** — Dragon helps hero out of gratitude.
+- **B11.6.1.2** — Grateful dragon saves hero and rescues him from prison.
+- **B11.6.2** — Dragon guards treasure.
+- **B11.6.2.1** — Dragon must give up treasure when steel is thrown on him.
+- **B11.6.2.2** — Serpents play with precious green stone.
+- **B11.6.2.3** — Dragon's pearl stolen.
+- **B11.6.3** — Dragon feeds on treasure.
+- **B11.6.4** — Dragon guards holy land.
+- **B11.6.5** — Dragon guards hermit's food, frightens off robbers.
+- **B11.6.6** — Dragon guards bridge to otherworld.
+- **B11.6.7** — Dragon eats an ox at every meal.
+- **B11.6.8** — Dragon flies to its nest with human being.
+- **B11.6.8.1** — Dragon flies away with lion.
+- **B11.6.9** — Dragon gnaws the roots of tree.
+- **B11.6.10** — Sandalwood tree is guarded by dragon with venomous breath.
+- **B11.7** — Dragon as rain-spirit.
+- **B11.7.1** — Dragon controls water-supply.
+- **B11.7.1.1** — Dragon causes deluge.
+- **B11.7.2** — Dragon guards lake.
+- **B11.8** — Dragon as power of good.
+- **B11.9** — Dragon as power of evil.
+  *So considered everywhere except in the East, where are also found beneficent dragons.*
+- **B11.10** — Sacrifice of human being to dragon.
+- **B11.10.0.1** — Sacrifice of animals to dragon.
+- **B11.10.1** — Dragon keeps maiden tied with golden chain.
+- **B11.10.2** — Dragon eats people for his rent.
+- **B11.10.3** — Dragon devours children.
+- **B11.11** — Fight with dragon.
+- **B11.11.1** — Dragon fight: respite granted and dragon returns with renewed strength.
+- **B11.11.2** — Hero's dogs (horse) prevent dragon's heads from rejoining body.
+- **B11.11.3** — Dragon combats attack with showers of fiery spines.
+- **B11.11.4** — Dragon fight in order to free princess.
+- **B11.11.5** — Dragon fight in order to free man.
+- **B11.11.6** — Dragon fight in order to free lion.
+- **B11.11.7** — Woman as dragon-slayer.
+- **B11.11.8** — Dragon doubles his demand after men's rebellion.
+- **B11.12** — Other traits of dragon.
+- **B11.12.1** — Dragon cannot be killed with weapons.
+- **B11.12.1.1** — Dragon which cannot be killed with weapons is kicked in vulnerable spot.
+- **B11.12.1.2** — Dragon dips wounded part in holy well, is healed immediately.
+- **B11.12.2** — Dragon's shriek makes land barren.
+- **B11.12.3** — Fiery dragon.
+- **B11.12.4** — Dragon is fond of milk.
+- **B11.12.4.1** — Dragon is fed great quantities of milk to keep him pacified.
+- **B11.12.5** — The dragon-king.
+- **B11.12.6** — Dragon can hear a child cry even at great distance.
+- **B11.12.7** — Human-dragon marriage.
+- **B12** — Basilisk.
+  *A mythical lizard or serpent whose hissing drives away all other serpents.*
+- **B12.1** — Basilisk hatched from cock's egg.
+  *Usually, a seven-year-old cock. Egg must lie in manure.*
+- **B12.2** — Basilisk's fatal glance.
+  *Renders powerless or kills.*
+- **B12.3** — Basilisk killed by seeing own image.
+- **B13** — Unicorn.
+- **B14** — Other hybrid animals.
+- **B14.1** — Chimera.
+  *Combination of lion, dragon, and goat. Breathes fire.*
+- **B14.2** — Animal with body of horse, legs of hound.
+- **B14.3** — Hybrid monster: calf-sheep.
+- **B15** — Animals with unusual limbs or members.
+- **B15.1** — Animal unusual as to his head.
+- **B15.1.1** — Headless animals.
+- **B15.1.1.1** — Headless dog.
+- **B15.1.2** — Many-headed animal.
+- **B15.1.2.1** — Two-headed animal.
+- **B15.1.2.1.1** — Two-headed serpent.
+  *One head in front and one at rear.*
+- **B15.1.2.1.2** — Two-headed tiger.
+- **B15.1.2.1.3** — Jaguar with two heads.
+- **B15.1.2.1.4** — Two-headed dog.
+- **B15.1.2.2** — Three-headed animal.
+- **B15.1.2.2.1** — Three-headed bird.
+- **B15.1.2.2.2** — Three-headed serpent.
+- **B15.1.2.3** — Four-headed animal.
+- **B15.1.2.3.1** — Four-headed monster.
+- **B15.1.2.4** — Five-headed animal.
+- **B15.1.2.5** — Six-headed animal.
+- **B15.1.2.6** — Seven-headed animal.
+- **B15.1.2.6.1** — Seven-headed serpent.
+- **B15.1.2.7** — Eight-headed animal.
+- **B15.1.2.8** — Nine-headed animal.
+- **B15.1.2.8.1** — Hydra: nine-headed monster.
+  *Middle head immortal.*
+- **B15.1.2.8.2** — Nine-headed serpent.
+- **B15.1.2.9** — Ten-headed serpent.
+- **B15.1.2.10** — Other many-headed animals.
+- **B15.1.2.10.1** — Twelve-headed serpent.
+- **B15.1.2.10.2** — Hundred-headed serpent (monster).
+- **B15.1.2.10.3** — Thousand-headed serpent.
+- **B15.1.3** — Animal with head of bone.
+- **B15.2** — Many-mouthed animal.
+- **B15.2.1** — Six-mouthed serpent.
+- **B15.3** — Animal unusual as to his horns.
+- **B15.3.0.1** — Hornless cow.
+- **B15.3.0.1.1** — Hornless bull.
+- **B15.3.0.2** — One-horned ox.
+- **B15.3.1** — Many-horned animal.
+- **B15.3.1.1** — Three-horned deer.
+- **B15.3.1.2** — Nine-horned sheep.
+- **B15.3.1.3** — Ox with three horns.
+- **B15.3.1.3.1** — Ox with four horns.
+- **B15.3.2** — Animal with a gold (silver) horn.
+- **B15.3.2.1** — Deer with a gold and a silver horn.
+- **B15.3.2.2** — Goat with a gold and a silver horn.
+- **B15.3.2.3** — Ox with golden horns.
+- **B15.3.2.3.1** — Cow with silver horns.
+- **B15.3.3** — Deer with giant antler.
+- **B15.3.4** — Animal usually harmless has horns.
+- **B15.3.4.1** — Hare with horns.
+- **B15.3.4.2** — Horned armadillo lives underground.
+- **B15.3.5** — Animal with horn on his head pointing to the sky.
+- **B15.4** — Animals with unusual eyes.
+- **B15.4.1** — Many-eyed animal.
+- **B15.4.1.1** — Many-eyed antelope.
+- **B15.4.1.2** — Four-eyed tiger.
+- **B15.4.1.3** — Four-eyed jaguar.
+- **B15.4.1.4** — Eight-eyed bat.
+- **B15.4.2** — Beasts with fiery eyes.
+- **B15.4.2.1** — Dog with fire in eyes.
+- **B15.4.3** — Dogs with eyes like plates, tea-cups, etc.
+- **B15.4.4** — Animal with human eyes (transformed man).
+- **B15.4.5** — One-eyed pig.
+- **B15.5** — Animal unusual as to his nose (snout).
+- **B15.5.1** — Horse with fire-breathing nostrils.
+- **B15.5.2** — Animal with snout of iron.
+- **B15.6** — Animals with unusual legs or feet.
+- **B15.6.0.1** — One-footed animal.
+- **B15.6.1** — Three-legged quadrupeds.
+- **B15.6.2** — Empousa.
+  *Monster with one foot of brass and another of an ass.*
+- **B15.6.3** — Animals with many legs.
+- **B15.6.3.1** — Six-legged quadruped.
+- **B15.6.3.1.1** — Six-legged horse.
+- **B15.6.3.2** — Twelve-legged bird.
+- **B15.6.3.3** — Seven-legged beast.
+- **B15.6.4** — Bull with human hands and feet.
+- **B15.7** — Other animals with unusual limbs or members.
+- **B15.7.1** — Cerberus.
+  *The hell hound with three heads, a serpent's tail, and a writhing tangle of snakes from his body.*
+- **B15.7.2** — Monster three-legged ass.
+  *Stands in the ocean. Has three feet, six eyes, nine mouths, two ears, one horn, a white body. Two eyes are in eye position, two on top of his head, two on his hump. He renders powerless by the sharpness of his eyes. He has three mouths in his head, three in his hump, and three in the inner parts of his flanks. Each mouth is the size of a cottage.*
+- **B15.7.3** — Bird with head of gold and wings of silver.
+- **B15.7.4** — Fox with eight-forked tail.
+- **B15.7.5** — Ghormuhas: men's bodies, horses' heads, one leg, cannibals.
+- **B15.7.6** — Three-tailed turtle.
+- **B15.7.7** — Leopard with nine tails.
+- **B15.7.7.1** — Nine-tailed fox.
+- **B15.7.8** — Boar with nine tusks in each jaw.
+- **B15.7.9** — Cow with tallow liver.
+- **B15.7.9.1** — Cow with two bags: one containing a one-legged bird; the other, a twelve-legged bird.
+- **B15.7.10** — Animal unusual as to skin.
+- **B15.7.10.1** — Animal with horny skin.
+- **B15.7.10.2** — Animal with hair of iron pins.
+- **B15.7.11** — Animal with one head, two bodies, six legs.
+- **B15.7.12** — Eel with fiery mane.
+- **B15.7.13** — Bird with fiery beak.
+- **B15.7.13.1** — Bird with beak of iron.
+- **B15.7.14** — Bird with tail of fire.
+- **B15.7.15** — Monster with 100 hands, 100 palms on each hand, and 100 nails on each palm.
+- **B15.7.16** — Eagle with twelve wings and three heads.
+- **B16** — Devastating animals.
+- **B16.0.1** — Beasts that destroy vineyards and steal fruit.
+- **B16.0.2** — Tormenting beast in man's stomach.
+- **B16.0.3** — Man-eating monster (in cave).
+- **B16.1** — Devastating domestic animals.
+- **B16.1.1** — Monster cat devastates country.
+- **B16.1.1.1** — Monster cat born of a pig.
+- **B16.1.1.2** — Cat leaps through man like arrow of fire and burns him to ashes.
+- **B16.1.1.3** — Cat devours flesh of man's legs.
+- **B16.1.2** — Devastating dog (hound).
+- **B16.1.2.1** — Giant devastating hound.
+- **B16.1.3** — Devastating horse.
+- **B16.1.3.1** — Man-eating mares.
+- **B16.1.4** — Devastating swine.
+- **B16.1.4.1** — Giant devastating boar.
+- **B16.1.4.2** — Giant devastating sow.
+- **B16.1.5** — Man-eating cattle.
+- **B16.1.5.1** — Monster ox (bull) killed.
+- **B16.1.5.2** — Destructive cow possessed by demons.
+- **B16.1.5.3** — Devastating bull.
+- **B16.1.6** — Destructive sheep.
+- **B16.1.6.1** — Devastating supernatural lamb.
+- **B16.2** — Devastating wild animals.
+- **B16.2.1** — Devastating fox.
+  *Monthly human sacrifice.*
+- **B16.2.2** — Devastating tiger.
+- **B16.2.2.1** — Hostile tiger killed.
+- **B16.2.3** — Giant lion overcome by hero.
+- **B16.2.4** — Giant devastating wolf overcome by hero.
+- **B16.2.5** — Devastating bear killed.
+- **B16.2.6** — Devastating elephant.
+- **B16.2.7** — Destructive deer.
+- **B16.2.8** — Giant man-eating mice.
+- **B16.2.9** — Devastating bison (buffalo).
+- **B16.3** — Devastating birds.
+- **B16.4** — Devastating fish carries off daily victim.
+- **B16.4.1** — Leviathan casts up gorge which spreads disease.
+- **B16.4.1.1** — Leviathan causes cataclysm by striking earth with tail.
+- **B16.4.1.1.2** — Sea-beast: when it belches landward, it causes disease; upward it kills birds; downward, fishes and sea animals.
+- **B16.5** — Devastating reptiles.
+- **B16.5.1** — Giant devastating serpent.
+- **B16.5.1.1** — Devastating serpent with fiery breath.
+- **B16.5.1.2** — Devastating (man-eating) sea-monster (serpent).
+- **B16.5.1.2.1** — Serpent sucks man's breath (blood).
+- **B16.5.2** — Devastating crocodile.
+- **B16.5.3** — Devastating shell-fish.
+- **B16.5.4** — Man-devouring turtle.
+- **B16.6** — Devastating insects.
+- **B16.6.1** — Giant man-eating ants.
+- **B16.6.2** — Blood-sucking chafer.
+- **B16.6.2.1** — Fierce black chafer.
+- **B16.6.3** — Destructive locusts (with wings of iron) eat wheat crop.
+- **B16.6.4** — Devastating spider.
+- **B16.6.5** — Devastating centipede.
+- **B17** — Hostile animals.
+- **B17.1** — Hostile beasts.
+- **B17.1.1** — Ferocious animals loosed against attackers.
+- **B17.1.2** — Hostile dog (hound).
+- **B17.1.2.1** — Bloodhounds decapitate victim.
+- **B17.1.2.2** — Hostile hound killed by reaching through hollow log in its jaws and tearing heart out.
+- **B17.1.2.2.1** — Hero kills hostile hound (monster) by tearing (forcing) out its entrails (heart).
+- **B17.1.2.3** — Transformed man as hostile dog.
+- **B17.1.3** — Hostile cattle.
+- **B17.1.4** — Hostile horse.
+- **B17.1.4.1** — Infuriated horses kill driver.
+- **B17.1.5** — Hostile cat.
+- **B17.2** — Other hostile animals.
+- **B17.2.1** — Hostile sea-beasts.
+- **B17.2.1.1** — Hostile sea-rat.
+- **B17.2.1.2** — Hostile eel attacks hero.
+- **B17.2.1.3** — Hostile sea-cat.
+- **B17.2.2** — Hostile griffin.
+- **B17.2.3** — Hostile raven.
+- **B17.2.3.1** — Raven plucks out men's eyes.
+- **B17.2.4** — Hostile scorpion.
+- **B17.2.4.1** — Scorpion scoops out men's eyes.
+- **B18** — Behemoth: mythical gigantic animal.
+- **B19** — Other mythical beasts.
+- **B19.1** — Brazen-footed, fire-breathing bulls.
+- **B19.2** — Nectar-yielding cow.
+- **B19.2.1** — The cow Audhumla.
+- **B19.3** — Horse born of egg.
+  *Mythical hero will come riding on such a horse.*
+- **B19.3.1** — Immortal horses.
+- **B19.3.2** — Mythical horse belonging to water-spirit.
+- **B19.4** — Glowing animals.
+  *Horses, swine, etc. which glow.*
+- **B19.4.1** — Burrowing swine heat ground.
+- **B19.4.2** — Fiery serpent.
+- **B19.4.3** — Sheep with fiery collar.
+- **B19.4.4** — Hound flame of fire by night.
+- **B19.5** — Horse with golden mane.
+- **B19.6** — Herd which came from heaven.
+- **B19.6.1** — Cows of the sun.
+- **B19.7** — The goat Heidrun.
+- **B19.8** — Mythical antelope.
+- **B19.9** — Eternal bats.
+- **B19.10** — Mythical tiger.
+- **B19.11** — Mythical donkey.
+- **B20** — Beast-men.
+  *Combinations of bestial and human form.*
+- **B20.1** — Army of half-animals, half-men.
+- **B20.2** — Beast-men in the lower world.
+- **B21** — Centaur: man-horse.
+  *Trunk and head of man, body of horse.*
+- **B21.1** — Norse man-horse: "fingalkn" or "fingalp".
+- **B21.2** — Body and hands human, head and ears those of a horse.
+- **B21.3** — Man with horse's mouth.
+- **B22** — Man-ass.
+  *Body of man, hoofs of ass.*
+- **B22.1** — Body of man, head of ass.
+- **B22.2** — Ass with human intelligence.
+- **B23** — Man-bull.
+- **B23.1** — Minotaur.
+  *Body of man, head of bull. Result of union of woman with bull.*
+- **B23.2** — Bull with man's head.
+- **B23.3** — Man with (two) horns on his head.
+- **B24** — Satyr.
+  *Combination of man and goat.*
+- **B24.1** — Satyr reveals woman's infidelity.
+- **B24.2** — Man with goat's head.
+- **B25** — Man-dog.
+- **B25.1** — Man with dog's head.
+- **B25.1.1** — Dog-headed man has mane of horse (cattle).
+- **B25.1.2** — Dog-headed people.
+  *Peasants persecuted by one-eyed and dog-headed savages.*
+- **B25.2** — Dog with human head.
+- **B26** — Man-tiger.
+- **B26.1** — Girl with tiger's legs and ears.
+- **B27** — Man-lion.
+  *Man with lion's head.*
+- **B28** — Man-elephant.
+  *Man with elephant's head.*
+- **B29** — Other combinations of beast and man.
+- **B29.1** — Lamia.
+  *Face of woman, body of serpent (or body of sow, and legs of horse).*
+- **B29.2** — Echidna.
+  *Half woman, half serpent.*
+- **B29.2.1** — Serpent with human head.
+- **B29.2.2** — Man with serpent's head.
+- **B29.2.3** — Snake body-woman's head.
+- **B29.3** — Man-hog.
+- **B29.4** — Man-cat.
+- **B29.4.1** — Man with cat's head.
+- **B29.4.1.1** — Man with head and tail of cat.
+- **B29.5** — Man-wolf.
+- **B29.6** — Man-elk.
+- **B29.7** — Man-bear.
+- **B29.8** — Man-hedgehog.
+  *Upper half of body like hedgehog.*
+- **B29.9** — Man-ape.
+- **B30** — Mythical birds.
+- **B30.1** — Mythical white albatross.
+- **B30.2** — Mythical cock.
+- **B31.1** — Roc.
+  *A giant bird which carries off men in its claws.*
+- **B31.1.0.1** — The bird Ziz, Hebrew counterpart of roc.
+- **B31.1.1** — Roc's egg.
+- **B31.1.2** — Roc drops rock on ship.
+  *Rock is so large that it destroys ship.*
+- **B31.2** — The Bird Gam.
+  *Throws sand in a stream and makes a lake. Appears at turn of century. Also carries men. Leaps into the sea and sleeps.*
+- **B31.3** — Giant ravens.
+  *They sit on mountain; when they fly, avalanche comes.*
+- **B31.3.1** — Giant swimming raven.
+- **B31.4** — Giant bat.
+- **B31.5** — Simorg: giant bird.
+- **B31.6** — Other giant birds.
+- **B31.6.1** — Giant blackbird.
+- **B31.6.2** — Giant bird pulls up oak tree by roots.
+- **B31.6.2.1** — Giant bird alighting on oak tree causes it to tremble.
+- **B32** — Phoenix.
+- **B32.1** — Phoenix renews youth.
+- **B32.1.1** — Phoenix renews youth when 1,000 years old.
+- **B33** — Man-eating birds.
+- **B33.1** — Other devastating birds.
+- **B33.1.1** — Devastating birds wither everything with their breath.
+- **B33.1.2** — Devastating birds destroy grass.
+- **B33.1.3** — Black birds destroy crops.
+- **B33.1.4** — Devastating birds with poisonous spells on their wings.
+- **B34** — Bird of dawn.
+  *Golden plumage; three feet.*
+- **B35** — Camrosh.
+  *Giant bird which collects seeds and sees that they are properly placed. Carries off the people's enemies.*
+- **B36** — Milk-producing bird.
+- **B37** — Immortal bird.
+- **B39** — Other mythical birds.
+- **B39.1** — Bird from paradise.
+- **B40** — Bird-beasts.
+- **B41** — Bird-horse.
+- **B41.1** — Pegasus.
+  *Winged horse.*
+- **B41.2** — Flying horse.
+  *Sometimes represented as having wings, sometimes as going through the air by magic.*
+- **B41.2.1** — Angel horse.
+  *Horse draws angels' chariot.*
+- **B42** — Griffin.
+  *Half lion, half eagle.*
+- **B42.1** — Hippogriff.
+  *Horse with fore-quarters of griffin.*
+- **B43** — Winged bull.
+- **B43.1** — Flying buffalo.
+- **B44** — Bird-bear.
+- **B45** — Air-going elephant.
+- **B46** — Vasa Mortis.
+  *Bird with four heads, middle like a whale, feathers and feet of a griffin.*
+- **B47** — Winged camel.
+- **B48** — Flying crustacean.
+- **B49** — Bird-beasts miscellaneous.
+- **B49.1** — Bird with crocodile head.
+- **B49.2** — Flying ape.
+- **B49.3** — Flying fox.
+- **B50** — Bird-men.
+- **B51** — Sphinx.
+  *Has face of woman, body and tail of lion, wings of bird.*
+- **B52** — Harpy.
+  *Bird with arms and breasts of woman.*
+- **B53** — Siren.
+  *Bird with woman's head.*
+- **B53.0.1** — Siren in mermaid form.
+- **B53.1** — Drowning man rescued by siren.
+- **B53.2** — Man suckled by siren.
+- **B53.3** — Gold thrown on shore by siren.
+- **B53.4** — Siren's song causes sleep.
+- **B55** — Man with bird's head.
+- **B56** — Garuda-bird.
+  *Lower part man, upper part bird.*
+- **B57** — " Finngblkn", bird with a man's head.
+- **B60** — Mythical fish.
+- **B60.1** — Parent of all fishes.
+- **B61** — Leviathan.
+  *Giant fish.*
+- **B62** — Flying fish.
+- **B63** — Mythical octopus.
+- **B64** — Mythical eel.
+- **B65** — Mythical shark.
+- **B68** — Horned water-monster.
+- **B70** — Fish-beasts.
+- **B71** — Sea horse.
+  *Horse living in sea.*
+- **B72** — Sea cow.
+  *Cow living in sea.*
+- **B72.1** — Three sea-cows: one red, one white, one black.
+- **B73** — Sea-cat.
+- **B80** — Fish-men.
+- **B80.1** — Seal-man.
+- **B80.2** — Monster half-man, half-fish.
+- **B81** — Mermaid.
+  *Woman with tail of fish. Lives in sea.*
+- **B81.0.1** — Mermaids are like fishes in the water, like men on land.
+- **B81.0.2** — Woman from water world.
+- **B81.1** — Mermaids from Pharoah's children.
+  *They were drowned in the Red Sea.*
+- **B81.2** — Mermaid marries man.
+- **B81.2.1** — Mermaid has son by human father.
+- **B81.2.2** — Mermaids tear their mortal lovers to pieces.
+- **B81.3** — Mermaid leads people astray.
+- **B81.3.1** — Mermaid appears at midnight, entices people into water.
+- **B81.3.2** — Mermaid appears once each year, sings in choir, entices young man to follow her.
+- **B81.4** — Mermaid captures a maiden.
+- **B81.5** — Mermaid sits on knight's bedpost.
+- **B81.6** — Mermaid has human midwife.
+- **B81.7** — Mermaid warns of bad weather.
+- **B81.7.1** — Mermaid prophesies.
+- **B81.8** — Mermaid cannot pass through ice.
+- **B81.9** — Appearance of mermaid.
+- **B81.9.1** — Mermaid's hair reaches her waist.
+- **B81.9.1.1** — Mermaid has wooly hair.
+- **B81.9.2** — Mermaid has large breasts.
+- **B81.9.3** — Mermaid half-beautiful, half-monstrous.
+- **B81.9.4** — Giant mermaid.
+- **B81.9.5** — Skin of mermaid.
+- **B81.9.5.1** — Mermaid has white skin.
+- **B81.9.5.2** — Mermaid has brown skin.
+- **B81.10** — Mermaid swallows man.
+- **B81.11** — Mermaid's singing causes sleep.
+  *Girl tumbles from boat and drowns.*
+- **B81.12** — When mermaid appears.
+- **B81.12.1** — Mermaid appears at midnight.
+- **B81.12.2** — Mermaid appears once each year.
+- **B81.13** — Miscellaneous actions of mermaid.
+- **B81.13.1** — Mermaid asks captain to move boat which blocks entrance to her dwelling.
+- **B81.13.2** — Mermaid is washed up on beach.
+- **B81.13.3** — Sight of mermaid bathing makes man immortal.
+- **B81.13.4** — Mermaid gives mortals gold from sea bottom.
+- **B81.13.5** — Giant mermaid (man) cast ashore.
+- **B81.13.6** — Mermaid sings divinely in church (before enticing man away).
+- **B81.13.7** — Mermaid appears as omen of catastrophe.
+- **B81.13.8** — Curse by mermaid.
+- **B81.13.9** — Mermaid ruins seducer of her adopted daughter.
+- **B81.13.10** — Mermaid prevents raising of sunken church bell.
+- **B81.13.11** — Mermaid captured.
+- **B81.13.11.1** — Mermaid caught by fishermen.
+- **B81.13.12** — Mermaid lives for three hundred years under lake.
+- **B82** — Merman.
+- **B82.1** — Merman marries maiden.
+- **B82.1.1** — Merman demands princess.
+- **B82.1.2** — Harp music makes merman restore stolen bride.
+- **B82.2** — Merman demands cattle as offering.
+- **B82.3** — Youth takes service with merman.
+- **B82.4** — Merman teaches music.
+- **B82.5** — Merman attacked by putting steel in the water.
+- **B82.6** — Merman caught by fisherman (released).
+- **B82.7** — Merman lays hands on side of canoe.
+- **B83** — Fish with human face.
+- **B90** — Other mythical animals.
+- **B91** — Mythical serpent.
+- **B91.1** — Naga.
+  *Serpent demon.*
+- **B91.2** — Plumed serpent.
+- **B91.3** — Horned snake.
+- **B91.4** — Sky-traveling snake.
+- **B91.5** — Sea-serpent.
+- **B91.5.1** — Sea-serpent dilates and contracts.
+- **B91.5.2** — Lake-serpent (monster).
+- **B91.5.2.1** — Lake-serpent (monster) in form of woman.
+- **B91.6** — Serpent causes flood.
+- **B91.7** — Serpent is immortal.
+- **B92** — Other mythical reptiles.
+- **B93** — Mythical spider.
+- **B94** — Mythical crustacean.
+- **B94.1** — Mythical crab.
+- **B95** — Vegetable lamb.
+  *Generated from ground. Umbilical cord is in the ground and the lambs will die if it is forcibly severed. They are frightened into severing it themselves and then live. Vertebrae of the neck planted to produce new ones.*
+- **B95.1** — Vegetable lamb born from melons (as from eggs).
+- **B95.2** — Marine lamb.
+  *Wool taken from sea lamb. (Really textiles from shell-fish pinna).*
+- **B96** — Beast with human head and shape of smith's bellows.
+- **B98** — Mythical frog.
+- **B99** — Mythical animals miscellaneous.
+- **B99.1** — Mythical salamander.
+- **B99.2** — Mythical worm.
+
+## Treasure animals
+
+- **B100** — Treasure animals.
+- **B100.1** — Treasure found in slain helpful animal.
+- **B100.2** — Magic animal supplies treasure.
+- **B101** — Animals with members of precious metal (jewels).
+- **B101.1** — Bird with golden head.
+- **B101.1.1** — Bird with wings of silver.
+- **B101.1.2** — Bird with golden feet.
+- **B101.2** — Treasure-hog.
+  *Alternate bristles of gold and silver; at each step a side of pork falls from him.*
+- **B101.2.1** — Boar with golden bristles.
+- **B101.3** — Ram with golden fleece.
+- **B101.4** — Hind with golden horns.
+- **B101.4.1** — Stag with golden antlers and silver feet.
+- **B101.4.2** — Stag with gold and silver on horns and neck, and a silver bell.
+- **B101.5** — Monster (whale) with golden teeth.
+- **B101.6** — Fish with gold and silver heads.
+- **B101.7** — Serpent with jewel in head.
+- **B101.8** — Cow with silver horns.
+- **B101.8.1** — Big ox with gold and silver in the horns.
+- **B101.9** — Mongoose with golden hair and silver ears.
+- **B102** — Animal of precious metal (jewels).
+- **B102.1** — Golden bird.
+  *Bird with golden feathers.*
+- **B102.1.1** — Golden hawk.
+- **B102.1.2** — Golden peacock.
+- **B102.1.3** — Golden goose.
+- **B102.2** — Golden horse.
+- **B102.3** — Golden deer.
+- **B102.4** — Golden fish.
+- **B102.4.1** — Fish of silver.
+- **B102.5** — Golden calf.
+- **B102.5.1** — Silver calf.
+- **B102.6** — Golden serpent.
+- **B102.7** — Golden dog.
+- **B102.8** — Golden crab.
+- **B103** — Treasure-producing animals.
+- **B103.0.1** — Treasure-producing turkey.
+- **B103.0.2** — Magic bird produces unlimited food.
+- **B103.0.3** — Gold-producing ram.
+- **B103.0.4** — Gold-producing serpent.
+- **B103.0.4.1** — Grateful snake gives gold piece daily.
+- **B103.0.5** — Treasure-giving goat.
+- **B103.0.6** — Gold-producing lion.
+- **B103.0.7** — Magic jewel obtained from elephant.
+- **B103.0.8** — Treasure received from tiger.
+- **B103.1** — Treasure-dropping animals.
+- **B103.1.1** — Gold-producing ass.
+  *Droppings of gold.*
+- **B103.1.2** — Cow drops gold dung.
+- **B103.1.2.1** — Pearl-dropping cow.
+- **B103.1.3** — Gold-producing dog.
+  *Droppings of gold.*
+- **B103.1.4** — Gold-making deer.
+- **B103.1.5** — Gold-making bird.
+- **B103.1.6** — Magic tortoise fed with salt gives pearls.
+- **B103.2** — Treasure-laying animals.
+- **B103.2.1** — Treasure-laying bird.
+  *Bird lays money or golden eggs or an egg at every step.*
+- **B103.3** — Animal giving treasure as milk.
+- **B103.3.1** — Goat giving coins instead of milk.
+- **B103.4** — Animal spitting (vomiting) treasure.
+- **B103.4.1** — Fish with coin in mouth.
+- **B103.4.1.1** — Silver and gold run from cod's mouth.
+- **B103.4.2** — Serpent with jewel in his mouth.
+- **B103.4.2.1** — Grateful snake spits out lump of gold for his rescuer.
+- **B103.4.2.2** — Snake vomits jewels.
+- **B103.4.3** — Dog vomits gold and silver.
+- **B103.5** — Animal laying treasure in water.
+- **B103.5.1** — Serpent lays treasure in lake.
+- **B103.6** — Animal producing treasure by bite.
+- **B103.6.1** — Serpent's bite produces ornaments and clothes.
+- **B103.7** — Animal producing treasure at death.
+- **B103.7.1** — When destructive bird is killed, barn is found full of gold.
+- **B105** — Animal bearing precious ornaments.
+- **B105.1** — Hind with gold chain on neck.
+- **B105.2** — Deer with string of pearls around its neck.
+- **B106** — Animal lying on treasure.
+  *Serpent with gold under him.*
+- **B107** — Animal with treasure inside it.
+- **B107.1** — Fish with ingot of gold inside it.
+- **B108** — Animal as patron of wealth.
+- **B108.1** — Serpent as patron of wealth.
+- **B109** — Treasure animals miscellaneous.
+- **B109.1** — Magic spider catches pearls.
+- **B109.2** — Centipede plays at night with pearl.
+- **B110** — Treasure-producing parts of animals.
+- **B112** — Treasure-producing serpent's crown.
+- **B113** — Treasure-producing parts of bird.
+- **B113.1** — Treasure-producing bird-heart.
+- **B113.2** — Treasure-producing bird-head.
+- **B113.3** — Treasure from bird's feathers.
+- **B114** — Treasure-producing part of sheep.
+- **B114.1** — Treasure-producing sheepskin.
+- **B115** — Animal with horn of plenty.
+- **B115.1** — Ear-cornucopia.
+  *Animal furnishes treasure or supplies from its ears.*
+- **B115.2** — Wing-cornucopia.
+- **B115.3** — Animal with tail of plenty.
+- **B119** — Treasure-producing parts of animals miscellaneous.
+- **B119.1** — Dog (whose skin) turns water to wine (mead).
+- **B119.2** — Treasure produced by goat's entrails.
+- **B119.3** — Armadillo with silver plate over its forehead.
+- **B120** — Wise animals.
+- **B120.0.1** — Animals have second sight.
+- **B121** — Beasts with magic wisdom.
+- **B121.1** — Dog with magic wisdom.
+- **B121.1.1** — Infallible hunting-dog.
+- **B121.2** — Fox as alchemist.
+- **B121.3** — Cat with magic wisdom.
+- **B121.4** — Ass (mule) with magic wisdom.
+- **B121.5** — Ox with magic wisdom.
+- **B121.6** — Lion with magic wisdom.
+- **B122** — Bird with magic wisdom.
+- **B122.0.1** — Wise magpie.
+- **B122.0.2** — Wise golden peacock.
+- **B122.0.3** — Wise owl.
+- **B122.0.4** — Prophesying parrot.
+- **B122.0.5** — Wise eagle (in Yggdrasil).
+- **B122.1** — Bird as adviser.
+- **B122.1.1** — Birds tell a secret.
+- **B122.1.2** — Bird reveals druidic secrets.
+- **B122.2** — Birds as reporters of sights and sounds.
+  *Sit on Odin's shoulder and report what they see and hear.*
+- **B122.3** — Bird can recite sacred writings.
+- **B122.4** — Bird announces time for sunrise and sunset.
+- **B122.5** — Wise mother eagle distinguishes between stupid and intelligent eaglets.
+- **B122.6** — Bird summarizes history.
+- **B122.7** — Cock helper advises of coming enemy.
+- **B122.8** — Parrot scout sent to enemy camp to ascertain strength.
+- **B123** — Wise reptile.
+- **B123.1** — Wise serpent.
+- **B123.1.1** — Serpent's wisdom from eating from tree of knowledge.
+- **B124** — Wise fish.
+- **B124.1** — Salmon as oldest and wisest of animals.
+- **B124.1.1** — Salmon of knowledge.
+- **B126** — Amphibian with magic knowledge.
+- **B126.1** — Frog with magic knowledge.
+- **B130** — Truth-telling animals.
+- **B131** — Bird of truth.
+  *A bird which reveals the truth.*
+- **B131.0.1** — Truth-telling owl.
+- **B131.1** — Bird reveals murder.
+- **B131.1.1** — Crows reveal the killing of mare.
+- **B131.2** — Bird reveals treachery.
+- **B131.3** — Bird betrays woman's infidelity.
+- **B131.4** — Bird reveals dead rider.
+  *Calls out in human voice at seeing living woman riding behind dead man.*
+- **B131.5** — Peacock's feathers ruffled in presence of poison.
+- **B131.6** — Bird betrays hiding-place of the Virgin.
+- **B131.7** — Birds reveal innocence of suspect.
+- **B131.8** — Bird warns to hurry.
+- **B132** — Truth-speaking cow.
+- **B133** — Truth-speaking horse.
+- **B133.0.1** — Truth-telling ass (mule).
+- **B133.0.1.1** — Ass alone knows where hidden wind can be found.
+- **B133.1** — Horse warns hero of danger.
+- **B133.2** — Horse reveals treachery.
+- **B133.3** — Speaking horse-head.
+  *The helpful magic horse (+B181) is killed (+B330). The head is preserved and placed on the wall. It speaks and reveals the treachery practiced against the heroine.*
+- **B133.4** — Horse refuses to carry one who speaks falsehood.
+- **B133.4.1** — Horses refuse to remain with owner who has been cursed by clerics.
+- **B134** — Truth-telling dog.
+- **B134.1** — Dog betrays woman's infidelity.
+- **B134.1.1** — Truth-telling dog tells of incest.
+- **B134.2** — Dog betrays murder.
+- **B134.3** — Dog as animal of warning.
+- **B134.3.1** — Dog warns of coming.
+- **B134.4** — Dog chooses between opposing tribes.
+- **B134.5** — Dog returns from dead to clear master of murder.
+- **B135** — Truth-telling cat.
+- **B136** — Truth-telling deer.
+- **B140** — Prophetic animals.
+- **B141** — Prophetic domestic beasts.
+- **B141.1** — Prophetic goat.
+- **B141.2** — Prophetic horse.
+- **B141.2.1** — Horse weeps for master's (saint's) approaching death.
+- **B141.3** — Ass's behavior predicts the weather.
+- **B141.4** — Dog with magic sight.
+- **B141.4.1** — Dog (transformed man) prophesies coming of enemy.
+- **B141.5** — Prophetic cow.
+- **B142** — Prophetic wild beasts.
+- **B142.1** — Prophetic fox.
+- **B142.2** — Prophetic jackal.
+- **B142.2.1** — Jackal gives warning.
+- **B142.3** — Prophetic hart.
+- **B142.4** — Prophetic lion.
+- **B143** — Prophetic bird.
+- **B143.0.1** — Swan as prophetic bird.
+- **B143.0.2** — Magpie as prophetic bird.
+- **B143.0.3** — Owl as prophetic bird.
+- **B143.0.4** — Raven as prophetic bird.
+- **B143.0.5** — Hen as prophetic bird.
+- **B143.0.6** — Dove as prophetic bird.
+- **B143.0.7** — Eagle as prophetic bird.
+- **B143.0.8** — Crow as prophetic bird.
+- **B143.0.8.1** — Crows announce coming of hero to otherworld.
+- **B143.1** — Bird gives warning.
+- **B143.1.1** — Warning crow.
+- **B143.1.2** — Warning peacock.
+- **B143.1.3** — Warning parrot.
+- **B143.1.4** — Falcon saves master from drinking poisoned water.
+- **B143.1.5** — Golden cock warns against attack.
+- **B143.1.6** — Captured goose warns tortoise: released in gratitude.
+- **B143.2** — Bird describes doomsday.
+- **B144** — Prophetic fish.
+- **B144.1** — King of fishes prophesies hero's birth.
+- **B145** — Prophetic reptile.
+- **B145.1** — Prophetic tortoise.
+- **B145.2** — Prophetic snake.
+- **B145.3** — Prophetic worm.
+- **B147** — Animals furnish omens.
+- **B147.1** — Beasts furnish omens.
+- **B147.1.1** — Beasts of good omen.
+- **B147.1.2** — Beasts of ill-omen.
+- **B147.1.2.1** — Fox as beast of ill-omen.
+- **B147.1.2.2** — Cat as beast of ill-omen.
+- **B147.1.2.3** — Mouse as beast of ill-omen.
+- **B147.1.2.4** — Jackal as beast of ill-omen.
+- **B147.2** — Birds furnish omens.
+- **B147.2.1** — Bird of good omen.
+- **B147.2.1.1** — Raven as bird of good omen.
+- **B147.2.1.2** — Eagle as omen of victory.
+- **B147.2.2** — Bird of ill-omen.
+- **B147.2.2.1** — Crow as bird of ill-omen.
+- **B147.2.2.2** — Gull as bird of ill-omen.
+- **B147.2.2.3** — Raven as bird of ill-omen.
+- **B147.2.2.4** — Owl as bird of ill-omen.
+- **B147.2.2.5** — Eagle as bird of ill-omen.
+- **B147.2.2.6** — Vulture as bird of ill-omen.
+- **B147.2.2.7** — Peacock as bird of ill-omen.
+- **B147.3** — Other animals furnish omens.
+- **B147.3.0.1** — Divination by fall of house-lizard.
+- **B147.3.1** — Other animals furnish good omens.
+- **B147.3.1.1** — Crickets as good omens.
+- **B147.3.1.2** — Bees (ants) leave honey on lips of infant to show future greatness.
+- **B147.3.2** — Other animals furnish bad omens.
+- **B147.3.2.1** — Crickets as bad omens.
+- **B150** — Oracular animals.
+- **B151** — Animal determines road to be taken.
+- **B151.1** — Beast determines road to be taken.
+- **B151.1.1** — Horses determine road to be taken.
+  *They are left to pick out the road themselves and to stop at the destination.*
+- **B151.1.1.0.1** — Horses travel between clerics without guidance.
+- **B151.1.1.0.2** — Horse stops where murder has occurred.
+- **B151.1.1.0.3** — Horse allowed to go as it pleases, finds unknown person.
+- **B151.1.1.1** — Mare with foal left behind finds road home.
+  *The foal is left so that the force of nature in the mare will discover the unknown road home.*
+- **B151.1.1.2** — Ass determines road to be taken.
+- **B151.1.1.2.1** — Ass carries usurer's body to the gallows instead of to the church.
+  *He has been denied burial in the church.*
+- **B151.1.1.2.2** — Baalam's ass.
+  *Advises master that angel is barring the way.*
+- **B151.1.2** — Bull determines road to be taken.
+- **B151.1.2.1** — Cow determines road to be taken.
+- **B151.1.3** — Fox determines road to be taken.
+- **B151.1.4** — Elephant determines road to be taken.
+- **B151.1.5** — Camel determines road to be taken.
+- **B151.1.6** — Dog indicates road to be taken.
+- **B151.2** — Bird determines road to be taken.
+- **B151.2.0.1** — Bird shows way by dropping feathers every seven steps.
+- **B151.2.0.2** — Birds show way to otherworld.
+- **B151.2.0.3** — Bird shows way by singing.
+- **B152** — Animal selects unknown person.
+- **B152.1** — Dog indicates pregnant woman, adulteress, etc.
+- **B152.2** — Fly indicates successful suitor.
+  *Girl to marry man on whom specially marked fly lights.*
+- **B152.3** — Hawk lighting on man points out criminal.
+- **B153** — Dog indicates hidden treasure.
+- **B153.1** — Dog indicates other hidden objects.
+- **B154** — Animal as soothsayer.
+- **B154.1** — Ox as soothsayer.
+  *All judgments referred to it.*
+- **B154.2** — Ant as soothsayer.
+- **B154.3** — Fish-eagle as soothsayer.
+- **B155** — Location determined by halting of an animal.
+- **B155.1** — Building site determined by halting of animal.
+  *Where the animal stops the building is erected.*
+- **B155.1.0.1** — Building site determined by other action of animal.
+- **B155.2** — City founded on spot where cow lies down.
+- **B155.2.1** — Village founded on spot when cock crows, dog barks, and mithian bellows.
+- **B155.2.2** — Location of settlement at place a cow stops and where milk flows by itself.
+- **B155.2.3** — Birds indicate the place where a town (castle) is to be built.
+- **B155.2.4** — Pursued animal indicates where city is to be built.
+- **B155.3** — Animal determines burial place of saint.
+- **B155.4** — Neighing of horse indicates important spot.
+- **B157** — Animal leads searchers.
+- **B157.1** — Whistling of bird leads searcher.
+- **B159** — Miscellaneous oracular animals.
+- **B159.1** — Birds drop quill when man requires pen.
+- **B159.2** — Horse lies down when grain of wheat falls from load.
+- **B159.3** — Cleric goes with saint whom his cow follows.
+- **B159.4** — Vulture's chicks will not eat dead hero's leg, since they know he has been treacherously murdered.
+- **B160** — Wisdom-giving animals.
+- **B161** — Wisdom from serpent.
+- **B161.1** — Power of soothsaying from serpents' licking ears.
+- **B161.2** — Fortune learned from serpent.
+- **B161.3** — Wisdom from eating serpent.
+- **B161.4** — Power of seeing whether the dead go to heaven or hell is gained from serpent.
+- **B162** — Wisdom from fish.
+- **B162.1** — Supernatural knowledge from eating magic fish.
+- **B163** — Wisdom from other animal.
+- **B163.1** — Wisdom from fox.
+- **B163.1.1** — Wisdom from eating fox's heart.
+- **B165** — Animal languages learned from animal.
+- **B165.1** — Animal languages learned from serpent (not eaten).
+- **B165.1.1** — Animal languages learned by having ears licked by serpent.
+- **B165.1.2** — Animal languages from stolen serpent's crown.
+- **B165.1.3** — Cobra writes letters on prince's tongue: "Having heard all kinds of creatures talk, you will understand them."
+- **B165.2** — Animal languages learned from frog.
+- **B170** — Magic birds, fish, reptiles, etc.
+- **B171** — Magic chicken (hen, cock).
+- **B171.1** — Demi-coq.
+  *A cock is cut in two and is made magic. Carries robbers, foxes, and stream of water under wings.*
+- **B171.1.0.1** — Magic cock carries great loads in his ear (load of grain, fox, tiger, bees, wasps, etc., also fire and water).
+- **B171.1.1** — Demi-coq crows in king's body, when the king eats him.
+- **B171.2** — Magic fighting cock.
+- **B172** — Magic bird.
+- **B172.1** — Magic bird petrifies those who approach.
+- **B172.2** — Magic bird's song.
+  *Brings joy and oblivion for many years. Wakes the dead.*
+- **B172.2.1** — Magic bird's song brings sleep.
+- **B172.2** — Magic bird's song dispels grief.
+- **B172.3** — Magic bird collects seeds.
+- **B172.4** — Bird with magic bones and feathers.
+- **B172.5** — Magic falcon gets water of life for hero.
+- **B172.6** — Magic birds lure hunters to certain places.
+- **B172.7** — Magic birds chained in couples.
+- **B172.8** — Magic osprey (transformed man) produces lightning.
+- **B172.9** — Magic birds cause hosts to sleep by shaking wings.
+- **B172.10** — Black birds.
+- **B172.10.1** — Innumerable birds (black birds) fly into and out of tower (steeple) of fire.
+- **B172.11** — Bird steals island.
+- **B175** — Magic fish.
+- **B175.1** — Magic salmon carries hero over water.
+- **B175.2** — Magic tunny (grateful); carries out hero's wish.
+  *Later he saves him from drowning and restores his sanity.*
+- **B176** — Magic reptile.
+- **B176.1** — Magic serpent.
+- **B176.1.1** — Serpent as deceiver in paradise.
+- **B176.1.2** — Magic snake can compress himself to minute size and expand to giant size.
+- **B177** — Magic amphibia.
+- **B177.1** — Magic toad.
+- **B177.1.1** — Magic toad under king's bed causes sickness.
+- **B177.2** — Magic frog.
+- **B177.3** — Magic sea-turtle sucks men to the bottom.
+- **B178** — Magic crustacean.
+- **B178.1** — Magic crab.
+- **B180** — Magic quadrupeds.
+- **B181** — Magic quadrupeds felidae.
+- **B181.1** — Magic cat.
+- **B181.1.1** — Cat with remarkable powers of sight.
+- **B181.3** — Magic tiger.
+- **B182** — Magic quadrupeds canidae.
+- **B182.1** — Magic dog.
+- **B182.1.0.1** — Toy (lap) dogs.
+- **B182.1.0.1.1** — Magic lap-dog.
+- **B182.1.0.2** — Magic dog transformed person.
+- **B182.1.0.3** — Magic dog transformed supernatural being.
+- **B182.1.1** — Magic dog vomits any liquor required of him.
+- **B182.1.2** — Magic hostile bitches issue from elf-mound.
+- **B182.1.3** — Dog sight of which renders game helpless.
+- **B182.1.3.1** — Magic whelp kills hound by springing down its throat.
+- **B182.1.4** — Dog that is hound by night and sheep by day.
+- **B182.1.5** — Dog that is hound by day and flame of fire by night.
+- **B182.1.6** — Magic dog fragrant.
+- **B182.1.7** — Magic bitches (in human form) enchanted by fairy music.
+- **B182.1.8** — Magic brazen dog.
+- **B182.2** — Magic bear.
+- **B183** — Magic quadrupeds rodentia.
+- **B183.1** — Magic mouse.
+- **B183.1.1** — Magic mouse to be flayed.
+  *Mouse orders hero to flay him and to use skin for magic purposes. Later the skin is returned to the mouse.*
+- **B183.1.2** — Magic mouse causes disease.
+- **B184** — Magic quadrupeds ungulata.
+- **B184.1** — Magic horse.
+- **B184.1.1** — Horse (mule) with magic speed.
+- **B184.1.1.1** — Horse so fast fly cannot light on him.
+- **B184.1.1.2** — Horse as swift as a bird.
+- **B184.1.1.3** — Swiftest horse on earth.
+- **B184.1.2** — Magic horse goes underground.
+- **B184.1.3** — Magic horse from water world.
+- **B184.1.4** — Magic horse travels on sea or land.
+- **B184.1.5** — Breath of magic horse blows off or sucks in those he pursues.
+- **B184.1.6** — Flight on magic horse.
+- **B184.1.6.1** — Flight on invisible horse.
+- **B184.1.7** — Magic horse avenges hero's death.
+- **B184.1.8** — Immortal horse.
+- **B184.1.9** — Magic horse mysteriously recognized by everyone.
+- **B184.1.10** — Magic horse makes prodigious jump.
+- **B184.1.11** — Magic invulnerable horse.
+- **B184.1.12** — Magic horse goes through fire.
+- **B184.2** — Magic cow (ox, bull).
+- **B184.2.0.1** — Magic white cow.
+- **B184.2.0.1.1** — Magic white cows with red ears.
+- **B184.2.1** — Magic cow.
+- **B184.2.1.1** — Magic cow gives extraordinary milk.
+- **B184.2.1.1.1** — Magic cow gives red milk.
+- **B184.2.1.1.2** — Magic cow gives impossible quantity of milk.
+- **B184.2.1.2** — Magic soldier-producing cow.
+- **B184.2.1.3** — Cow grants all desires.
+- **B184.2.2** — Magic ox.
+- **B184.2.2.1** — Magic ox from unusual sexual union of animals.
+- **B184.2.2.2** — Magic cow (ox, bull) from water world.
+- **B184.2.3** — Magic bull.
+- **B184.2.3.1** — Magic bull to be flayed.
+  *The bull orders the hero (heroine) to flay him and to use his skin for magic purposes.*
+- **B184.2.3.2** — Magic bull can be milked.
+- **B184.2.3.3** — Indra sends down buffalo whose milk is offered to the saints.
+- **B184.2.4** — Magic ox.
+- **B184.2.5** — Magic calf.
+- **B184.3** — Magic swine.
+- **B184.3.0.1** — Magic swine issue from elf-mound.
+- **B184.3.0.2** — Magic swine disappear underground.
+- **B184.3.0.3** — Magic red swine.
+- **B184.3.0.4** — Magic swine transformed person.
+- **B184.3.0.5** — Herd of magic swine that cannot be counted twice with the same result.
+- **B184.3.1** — Magic boar.
+- **B184.3.1.1** — Magic boar drowns houndpack.
+- **B184.3.2** — Magic pig.
+- **B184.3.2.1** — Magic invisible pig.
+- **B184.3.2.2** — Magic pig turns water into wine for nine days.
+- **B184.3.2.3** — Skin of magic pig heals wounds.
+- **B184.4** — Magic deer.
+- **B184.5** — Magic goat.
+- **B184.5.1** — Magic fighting goat.
+- **B184.6** — Magic sheep.
+- **B184.6.1** — Wethers leap from well; payment for saint's baptism.
+- **B190** — Magic animals: miscellaneous motifs.
+- **B191** — Animal as magician.
+- **B191.1** — Weasel as conjurer.
+- **B191.2** — Ox-demon as magician.
+- **B191.3** — Tiger as magician.
+- **B191.4** — Rat gives magic medicine.
+- **B191.5** — Hedgehog builds castle.
+- **B191.6** — Bird as magician.
+- **B191.7** — Serpent as magician.
+- **B192** — Magic animal killed.
+- **B192.0.1** — Magic birds die when owner is killed.
+- **B192.1** — Magic pig burned to prevent resuscitation.
+- **B192.2** — Rain-withholding deer killed: rain released.
+- **B192.3** — Treasure-producing bird killed to please a paramour.
+- **B193** — Otter carries flaming wood in mouth.
+- **B195** — Magic animal used by hero in contest grows bigger with every round.
+
+## Animals with human traits
+
+- **B200** — Animals with human traits.
+- **B210** — Speaking animals.
+- **B210.1** — Person frightened by animals successively replying to his remarks.
+  *Example: Man riding horse and followed by dog tells horse to jump over a hole. Horse says, "I will not." Man turns to dog and says, "Isn't that strange a horse talking!" The dog says, "Yes, isn't it." Often the man runs, meeting other animals which answer him, until he falls exhausted.*
+- **B210.2** — Talking animal or object refuses to talk on demand.
+  *Discoverer is unable to prove his claims: is beaten.*
+- **B210.3** — Formerly animals and man spoke the same language.
+  *God took the power of speech from the animals because men refused to kill speaking beasts.*
+- **B211** — Animal uses human speech.
+- **B211.0.1** — Animals speak, praising God, on the night of Christ's Nativity.
+- **B211.1** — Speaking beasts domestic.
+- **B211.1.1** — Speaking sheep.
+- **B211.1.1.1** — Speaking ram.
+- **B211.1.1.1.1** — Ram stung by hornet on Sabbath says, "Damn!"
+  *Pious owner resolves to sell it next day.*
+- **B211.1.2** — Speaking goat.
+- **B211.1.3** — Speaking horse.
+- **B211.1.3.1** — Speaking ass.
+- **B211.1.3.2** — Speaking mule.
+- **B211.1.4** — Speaking hog.
+- **B211.1.4.1** — Boar sings song.
+- **B211.1.5** — Speaking cow.
+- **B211.1.5.1** — Speaking ox.
+- **B211.1.5.2** — Speaking buffalo.
+- **B211.1.5.3** — Speaking bullock.
+- **B211.1.5.4** — Speaking yak.
+- **B211.1.5.5** — Speaking calf.
+- **B211.1.6** — Speaking camel.
+- **B211.1.7** — Speaking dog.
+- **B211.1.7.1** — Dog sings song.
+- **B211.1.8** — Speaking cat.
+- **B211.2** — Speaking beast wild.
+- **B211.2.1** — Speaking stag.
+- **B211.2.2** — Speaking lion.
+- **B211.2.2.1** — Speaking tiger.
+- **B211.2.2.2** — Speaking jaguar.
+- **B211.2.3** — Speaking bear.
+- **B211.2.4** — Speaking wolf.
+- **B211.2.5** — Speaking fox.
+- **B211.2.6** — Speaking hare (rabbit).
+- **B211.2.7** — Speaking sea-beast.
+- **B211.2.7.1** — Speaking seal.
+- **B211.2.8** — Speaking mouse.
+- **B211.2.9** — Speaking rat.
+- **B211.2.10** — Speaking monkey.
+- **B211.3** — Speaking bird.
+- **B211.3.1** — Speaking turkey.
+- **B211.3.2** — Speaking cock.
+- **B211.3.2.1** — Speaking chicken.
+- **B211.3.3** — Speaking goose.
+- **B211.3.4** — -Speaking parrot.
+- **B211.3.5** — Speaking dove.
+- **B211.3.6** — Speaking raven.
+- **B211.3.7** — Speaking sparrow.
+- **B211.3.8** — Speaking vulture.
+- **B211.3.9** — Speaking crow.
+- **B211.4** — Speaking insects.
+- **B211.4.1** — Speaking ant.
+- **B211.4.2** — Speaking bee.
+- **B211.5** — Speaking fish.
+- **B211.6** — Speaking reptile.
+- **B211.6.1** — Speaking snake (serpent).
+- **B211.7** — Speaking amphibia.
+- **B211.7.1** — Speaking frog.
+- **B211.7.2** — Speaking toad.
+- **B212** — Animal understands human speech.
+- **B212.0.1** — All kinds of animals understand the language of heaven.
+- **B212.0.2** — First animals knew human language.
+- **B212.1** — Fox understands human speech.
+- **B214** — Animal whistles (sings, etc.)  Chinese: Graham.
+- **B214.1** — Singing animal.
+- **B214.1.1** — Singing cow.
+- **B214.1.2** — Singing boar.
+- **B214.1.3** — Singing cat.
+- **B214.1.4** — Singing dog.
+- **B214.1.5** — Singing lion.
+- **B214.1.6** — Singing fox.
+- **B214.1.7** — Singing frog.
+- **B214.1.8** — Singing crab.
+- **B214.1.8.1** — Crab sings about his captivity.
+- **B214.1.9** — Singing mouse.
+- **B214.1.10** — Singing snake.
+- **B214.1.11** — Singing hippopotamus.
+- **B214.1.12** — Singing elephant.
+- **B214.2** — Whistling animals.
+- **B214.2.1** — Whistling toad.
+- **B214.3** — Laughing animal.
+- **B214.3.1** — Laughing toad.
+- **B214.4** — Weeping animal.
+- **B214.4.1** — Weeping toad.
+- **B215** — Animal languages.
+  *The various animals have languages of their own.*
+- **B215.0.1** — Animals taught one another's language.
+- **B215.1** — Bird language.
+- **B215.2** — Dog language.
+- **B215.2.1** — Dog language understood by fox.
+- **B215.3** — Fox language.
+- **B215.4** — Frog language.
+- **B215.5** — Serpent language.
+- **B215.5.1** — Lizard's language.
+- **B215.6** — Insects' language.
+- **B215.6.1** — Ant language.
+- **B216** — Knowledge of animal languages.
+  *Person understands them.*
+- **B217** — Animal language learned.
+- **B217.1** — Animal languages learned from eating animal.
+- **B217.1.1** — Animal languages learned from eating serpent.
+- **B217.1.2** — Animal languages learned from eating dragon's heart.
+- **B217.2** — Animal languages learned from eating plant.
+- **B217.3** — Animal languages learned from ghosts (spirits).
+- **B217.4** — Animal languages learned from carrying churchyard mould in hat.
+- **B217.5** — Bird language learned by having ears magically cleansed.
+- **B217.6** — Animal languages learned by exchanging tongues with helpful dragon.
+- **B217.7** — Stone deity (image of) confers upon man powers of understanding animal language.
+- **B217.8** — Language of animals learned by Adam from Eve.
+- **B220** — Animal kingdom (or community).
+- **B221** — Animal kingdom quadrupeds.
+- **B221.1** — Kingdom of monkeys.
+- **B221.2** — Kingdom of rats.
+- **B221.2.1** — Procurator of rats.
+  *Serpent has the office.*
+- **B221.3** — Land of lions.
+- **B221.4** — Land of elephants.
+- **B221.5** — Land of mice.
+- **B221.6** — Land of tigers.
+- **B221.6.1** — Village of wer-tigers.
+- **B222** — Kingdom (land) of birds.
+- **B222.1** — Land of pigeons.
+- **B222.2** — Land of peacocks.
+- **B222.3** — Land of parakeets.
+- **B222.4** — Land of parrots.
+- **B223** — Kingdom of fishes.
+- **B223.1** — Kingdom of sharks.
+- **B224** — Kingdom of insects.
+- **B224.1** — Kingdom of ants.
+- **B225** — Kingdom of reptiles.
+- **B225.1** — Kingdom of serpents.
+- **B225.1.1** — Snake kingdom under the sea.
+- **B226** — Kingdom of amphibia.
+- **B226.1** — Community of toads.
+- **B226.2** — Community of frogs.
+- **B230** — Parliament of animals.
+- **B232** — Parliament of birds.
+- **B232.1** — St. Valentine's Day for bird assembly.
+- **B233** — Parliament of fishes.
+- **B233.1** — Council of fishes decide to get rid of men (who eat fish).
+- **B234** — School of animals.
+- **B235** — Secrets discussed in animal meeting.
+- **B236** — Animal parliament elects king.
+- **B236.0.1** — Animal king chosen as result of a contest.
+- **B236.1** — Election of king of birds.
+- **B236.2** — Election of king of fishes.
+- **B237** — Drinking-bout assembly of animals.
+- **B238** — Animal council assigns place and work to all.
+- **B238.1** — Bird council assigns place and work to all.
+  *Eagle as judge.*
+- **B238.2** — Bird council assigns coats to different birds.
+- **B239** — Parliament of animals miscellaneous.
+- **B239.1** — Election of fox as mediator to appease angry lion.
+- **B240** — King of animals.
+- **B240.1** — Bear as king of animals.
+- **B240.2** — Rabbit as king of animals.
+- **B240.3** — Wild man as king of animals.
+- **B240.4** — Lion as king of animals.
+- **B240.4.1** — Minister of lion-king a crane.
+- **B240.5** — Tortoise as king of animals.
+- **B240.6** — Gazelle as king of animals.
+- **B240.7** — Buffalo as king of animals.
+- **B240.8** — Fox as king of animals.
+- **B240.9** — Dog as king of animals.
+- **B240.10** — Wolf as king of animals.
+- **B240.11** — Camel as king of animals.
+- **B240.12** — Monkey as king of animals.
+- **B240.13** — Tiger as king of animals.
+- **B240.14** — Elephant as king of animals.
+- **B240.15** — Crocodile as king of animals.
+- **B241** — King of beasts (quadrupeds).
+- **B241.1** — Various beasts as king of beasts.
+- **B241.2** — King of the various kinds of beasts.
+- **B241.2.1** — King of lions.
+- **B241.2.2** — King of monkeys.
+- **B241.2.3** — King of cats.
+- **B241.2.4** — King of rats.
+- **B241.2.5** — King of mice.
+- **B241.2.6** — King of hares.
+- **B241.2.7** — King of dogs.
+- **B241.2.8** — King of tigers.
+- **B241.2.8.1** — Newly-born divine twins cared for by mother-of-tigers.
+- **B241.2.9** — King of jackals.
+- **B241.2.10** — King of deer.
+- **B241.2.11** — King of elephants.
+- **B241.2.12** — King of the boars.
+- **B241.2.13** — King of antelopes.
+- **B241.2.14** — King of mongooses.
+- **B241.3** — Man transformed to beast becomes leader of herd.
+- **B242** — King of birds.
+- **B242.1** — Various birds as king of birds.
+- **B242.1.1** — Eagle king of birds.
+- **B242.1.2** — Wren king of birds.
+  *Wins contest for kingship.*
+- **B242.1.2.1** — Wren as "druid of the birds"  (drui in).
+- **B242.1.3** — Hornbill king of birds.
+- **B242.1.4** — Pelican as king of birds.
+- **B242.1.5** — Shrike as king of birds.
+- **B242.1.6** — Jackdaw king of birds.
+- **B242.1.7** — Peacock king of birds.
+- **B242.1.8** — Owl as king of birds.
+- **B242.1.9** — Swan as king of birds.
+- **B242.1.10** — Ziz as king of birds.
+- **B242.2** — King of the various kinds of birds.
+- **B242.2.1** — King of crows.
+- **B242.2.2** — King of doves.
+- **B242.2.3** — King of kites.
+- **B242.2.4** — King of pigeons.
+- **B242.2.5** — King of peacocks.
+- **B242.2.6** — King of quails.
+- **B242.2.7** — King of sparrows.
+- **B242.2.8** — King of parrots.
+- **B242.2.9** — King of geese.
+- **B242.2.10** — King of swans.
+- **B242.2.11** — King of vultures.
+- **B242.2.12** — King of larks.
+- **B243** — King of fishes.
+- **B243.1** — Various fishes as king of fishes.
+- **B243.1.1** — Herring as king of fishes.
+- **B243.1.2** — Eel as king of fishes.
+- **B243.1.3** — Shark as king of fishes.
+- **B243.2** — King of various kinds of fishes.
+- **B243.2.1** — King of salmon.
+- **B243.2.2** — King of eels.
+- **B244** — King of reptiles.
+- **B244.1** — King of serpents (snakes).
+- **B244.1.1** — Queen of watersnakes.
+- **B244.1.2** — Serpent king resides in lake.
+- **B244.1.3** — Gigantic hood of serpent king.
+- **B244.1.4** — Four royal families of snakes.
+- **B244.2** — Naga-king.
+- **B244.3** — King of lizards.
+- **B245** — King of amphibians.
+- **B245.1** — King of frogs.
+- **B245.2** — Turtle king.
+- **B246** — King of insects.
+- **B246.1** — King of ants.
+- **B246.2** — King (sultan) of flies.
+- **B246.3** — King of bees.
+- **B248** — King of dragons.
+- **B250** — Religious animals.
+- **B251** — Animals praise or worship.
+- **B251.1** — Animals rejoice at Christ's birth.
+- **B251.1.1** — Animals worship infant Jesus.
+- **B251.1.2** — Animals speak to one another at Christmas.
+- **B251.1.2.1** — Cock crows, "Christus natus est."  English: Child I 240ff., 505f., II 501, IV 451f.
+- **B251.1.2.2** — Cows speak to one another on Christmas.
+- **B251.1.2.3** — Cows kneel in stable at midnight of Eve of Old Christmas.
+- **B251.2** — Animals honor saint (cleric).
+- **B251.2.1** — Animals sing in honor of a saint.
+- **B251.2.2** — Fish perform races as welcome to saint.
+- **B251.2.3** — Wolves lick saint's shoes.
+- **B251.2.4** — Fly habitually buzzes when cleric returns from matins.
+- **B251.2.5** — Birds beat waters with wings as welcome to saint.
+- **B251.2.6** — Deer lick saint's tomb daily at noon.
+- **B251.2.6.1** — Water-monsters lick saint's feet.
+- **B251.2.6.2** — Cow licks saint's feet.
+- **B251.2.7** — Wild animals as saint's disciples.
+- **B251.2.7.1** — Fish come in great numbers to the bank of a stream in order to hear Anthony of Padua preach.
+- **B251.2.8** — Sea-monster honors saint above all others.
+- **B251.2.9** — Birds lament saint's departure.
+- **B251.2.10** — Cow gives twelve measures of milk for the twelve apostles of Ireland.
+- **B251.2.10.1** — Brilliantly white cow comes to be milked for infant saint.
+- **B251.2.11** — Lion lies down at feet of saint.
+- **B251.2.12** — Birds take part at saint's funeral.
+- **B251.3** — Animals sing songs of praise.
+- **B251.3.1** — Birds in otherworld sing religious songs.
+- **B251.4** — Animals pray.
+- **B251.4.1** — Beast invokes saint's protection.
+- **B251.4.1.1** — Wild beast seeks protection of saint against hunters.
+- **B251.5** — Animals fast.
+- **B251.6** — Animals keep religious precepts.
+- **B251.7** — Animal makes religious oath.
+- **B251.7.1** — Wolf swears by God.
+- **B251.8** — Animals observe sacred revelation.
+- **B251.8.1** — Singing of birds ceases at time of revelation.
+- **B251.9** — Animals make religious responses.
+- **B251.10** — Animals lick Christ-child.
+- **B252** — Animal churchmen.
+- **B252.1** — Animal monks.
+- **B252.2** — Birds (in otherworld) call at canonical hours.
+- **B252.3** — Priest of snakes.
+- **B253** — Animals perform offices of church.
+- **B253.1** — Snakes have mass.
+- **B253.2** — Wolves have annual (church) feast.
+- **B253.3** — Fox fasts as penance.
+- **B253.4** — Spider performs penance.
+- **B253.5** — The deer with a cross carried between their horns.
+- **B253.6** — Deer with candles on the tops of their antlers.
+- **B255** — Miracle wrought for animal.
+- **B256** — Animal as servant of saint.
+- **B256.0.1** — Animal deluded by saint.
+- **B256.1** — Birds nest in saint's hand (cowl).
+- **B256.1.1** — Birds perch on hands and head of saint.
+- **B256.2** — St. Anthony's pigs.
+  *Pigs dedicated to saint held sacred.*
+- **B256.3** — Deer makes its horns available as a bookholder to a saint.
+- **B256.3.1** — Deer furnish bier and bear saint's corpse to church.
+- **B256.4** — Domesticated wolves.
+- **B256.4.1** — Wolves guard saint's cattle like watchdogs when he is absent.
+- **B256.5** — Obedience of the feathered creatures to the commands of saint.
+- **B256.5.1** — Birds protect saint and serve him.
+- **B256.6** — Boar serves saint.
+- **B256.6.1** — Boar guards holy man's swine.
+- **B256.6.2** — Boar makes music for holy man.
+- **B256.6.3** — Boar acts as physician for holy man: licks his wounded feet.
+- **B256.7** — Tiger sweeps temple for saint.
+- **B256.8** — Saint's prayer causes wolf to bring back child.
+- **B256.9** — Stags plow for saint.
+- **B256.10** — Fly, wren, fox live with cleric.
+- **B256.11** — Wolf returns sheep stolen from saint.
+- **B256.12** — Whale raises back so that voyaging clerics can land to celebrate.
+  *Easter Irish myth: Cross.*
+- **B257** — Animal funeral.
+- **B259** — Miscellaneous religious animals.
+- **B259.1** — Ass insists upon payment of tithes.
+  *When stolen by thieves, the ass refuses to eat for three days because the thieves' provender has not been tithed.*
+- **B259.2** — Sabbath-keeping cow.
+  *Refuses to work on Sabbath.*
+- **B259.3** — Hog will not accept food from excommunicated men.
+- **B259.4** — Bees build church of wax to contain consecrated host.
+- **B259.4.1** — Animals refrain from spoiling consecrated food.
+- **B259.5** — Bird's wings drip blood when birds hear of Day of Judgment.
+- **B260** — Animal warfare.
+- **B260.1** — Two groups of animals make peace treaty.
+- **B261** — War of birds and quadrupeds.
+- **B261.1** — Bat in war of birds and quadrupeds.
+  *Because of ambiguous form joins first one side and then the other. Discredited.*
+- **B261.1.1** — Tame elephant not accepted by wild brethren.
+- **B262** — War between domestic and wild animals.
+- **B263** — War between other groups of animals.
+- **B263.1** — War between toads and frogs.
+- **B263.2** — War between elephants and ants.
+- **B263.3** — War between crows and owls.
+- **B263.4** — War between birds and reptiles.
+- **B263.5** — War between groups of birds.
+- **B263.5.1** — War between birds and eagle.
+- **B263.6** — War of monkeys and grasshoppers.
+- **B263.7** — War between serpents and storks.
+- **B263.8** — War between lion and other animals.
+- **B264** — Single combat between animals.
+- **B264.1** — Fight between animal and houndpack.
+- **B264.2** — Fight between eagle and fish.
+- **B264.3** — Duel of buffalo and tiger.
+  *Buffalo arms self.*
+- **B264.4** — Fight between snake and millipede.
+- **B264.5** — Fight between ape and tortoise.
+- **B265** — Animals continually rend each other.
+- **B266** — Animals fight.
+- **B266.1** — Thirsty cattle fight over well.
+- **B267** — Animal allies.
+- **B267.1** — Alliance of dog and wolf.
+- **B267.2** — Alliance of sheep and dog.
+- **B267.3** — Alliance of raven and crow.
+- **B267.4** — Alliance of cock and seafowl.
+- **B268** — Animal soldiers.
+- **B268.1** — Army of apes.
+- **B268.2** — Cavalry of dogs.
+- **B268.2.1** — War-dogs.
+- **B268.3** — War-elephants.
+- **B268.4** — Sorcerer's army of magic animals.
+- **B268.5** — Army of birds.
+- **B268.5.1** — Army of quails.
+- **B268.6** — Army of mice.
+- **B268.7** — Army of snakes.
+- **B268.7.1** — Army of snakes and scorpions.
+- **B268.8** — Insect army.
+- **B268.8.1** — Army of hornets.
+- **B268.8.2** — Army of locusts.
+- **B268.8.3** — Army of wasps.
+- **B268.9** — Army of tigers.
+- **B268.10** — Army of cows.
+- **B268.11** — Army of cats.
+- **B268.12** — Army of boars.
+- **B268.13** — Army of hyenas.
+- **B270** — Animals in legal relations.
+- **B270.1** — Lawsuit between the owl and kite.
+- **B270.2** — Lawsuit between owl and mouse.
+- **B271** — Animals as plaintiffs.
+- **B271.1** — Parrot and sparrow argue right to inherit property left by man.
+  *Sparrow says his interests are the same as man's; parrot says that he caused all man's wealth, since man sold his feathers. People's decision for parrot.*
+- **B271.2** — Grain as damages for injury to cat.
+- **B271.3** — Animals ring bell and demand justice.
+  *A king has a bell which petitioners for justice may ring and thus summon him. The bell is rung by a serpent which is being menaced by a turtle (or by an old horse who wishes to complain against a cruel master).*
+- **B272** — Animals as defendants in court.
+- **B272.1** — Lawsuit against animals.
+- **B272.2** — Animal tried for crime.
+- **B272.2.1** — Horse tried for crime.
+- **B274** — Animal as judge.
+- **B275** — Animal punished.
+- **B275.1** — Animal executed for crime.
+- **B275.1.1** — Horse executed for crime.
+- **B275.1.2** — Fox executed for thefts.
+- **B275.1.3** — Wolf executed for thefts.
+- **B275.1.3.1** — Man hangs wolf who has eaten sheep left in his charge.
+- **B275.1.3.2** — Wolves and wild pigs condemned to death in lion's court for killing and eating sheep.
+- **B275.2** — Excommunication of animal.
+- **B275.3** — Animals eating corpse of holy man die.
+- **B275.4** — Animal's revenge for being criticized by a bird: nest destroyed.
+- **B276** — Animal jury.
+- **B278** — Captured animal ransoms self.
+- **B279** — Covenant with animals.
+- **B279.1** — Saint makes covenant with wolves.
+- **B279.2** — Attitudes of animals toward oath.
+- **B280** — Animal weddings.
+- **B281** — Beast wedding.
+- **B281.1** — Wedding of fox and hyena.
+  *Fox refuses to marry hyena, since, according to belief, hyena yearly changes sex.*
+- **B281.2** — Wedding of mouse.
+- **B281.2.1** — Wedding of mouse and weasel.
+- **B281.2.2** — Wedding of mouse and cockroach.
+- **B281.3** — Wedding of wolf.
+- **B281.4** — Wedding of lynx.
+- **B281.5** — Wedding of marten.
+- **B281.6** — Wedding of pig.
+- **B281.7** — Wedding of ass.
+- **B281.8** — Wedding of squirrel.
+- **B281.9** — Wedding of cat.
+- **B281.9.1** — The cat as vixen's husband.
+  *Frightens the other wild animals invited by the vixen.*
+- **B281.10** — Wedding of monkey.
+- **B281.11** — Wedding of rat.
+- **B281.11.1** — Wedding of rat and cockroach.
+- **B282** — Bird wedding.
+- **B282.1** — Wedding of turkey and peacock.
+  *All birds invited except eagle. This omission starts great conflict.*
+- **B282.2** — Wedding of eagle with another bird.
+- **B282.2.1** — Wedding of eagle and kite.
+  *Kite promises to secure ostrich as attendant. Fails and is put to shame.*
+- **B282.3** — Wedding of lark and another bird.
+- **B282.3.1** — Wedding of lark and nightingale.
+- **B282.3.2** — Wedding of lark and cuckoo.
+- **B282.3.3** — Wedding of lark and sparrow.
+- **B282.3.4** — Wedding of lark and pigeon.
+- **B282.3.5** — Wedding of lark and spotted woodpecker.
+- **B282.3.6** — Wedding of lark and finch.
+- **B282.4** — Wedding of owl.
+- **B282.4.1** — Wedding of owl and another bird.
+- **B282.4.2** — Wedding of owl and cat.
+- **B282.5** — Wedding of finch with another bird.
+- **B282.6** — Wedding of goldfinch with another bird.
+- **B282.7** — Wedding of bullfinch with another bird.
+- **B282.8** — Wedding of titmouse with another bird.
+- **B282.9** — Wedding of wren with another bird.
+- **B282.10** — Wedding of sparrow and another bird.
+- **B282.11** — Wedding of blackbird with another bird.
+- **B282.12** — Wedding of thrush with another bird.
+- **B282.13** — Wedding of woodpecker with another bird.
+- **B282.14** — Wedding of magpie with another bird.
+- **B282.15** — Wedding of heathcock with another bird.
+- **B282.16** — Wedding of raven with another bird.
+- **B282.17** — Wedding of quail with another bird.
+- **B282.18** — Wedding of hoopoe with another bird.
+- **B282.19** — Wedding of cuckoo with another bird.
+- **B282.20** — Wedding of pigeon with another bird.
+- **B282.21** — Wedding of cock and hen.
+- **B282.22** — Wedding of crow and titmouse.
+- **B282.22.1** — Crow refuses to marry titmouse, since she is 100 years old.
+- **B282.23** — The courtship of the stork and the crane.
+  *Go a-courting one another across the marshes but never come to an understanding, as each time either one or the other changes his mind.*
+- **B283** — Wedding of fish.
+- **B283.1** — Wedding of crab.
+- **B283.2** — Wedding of carp.
+- **B284** — Wedding of amphibians.
+- **B284.1** — Wedding of frog.
+- **B284.1.1** — Wedding of frog and mouse.
+  *("Frog went a-courtin'").*
+- **B284.2** — Wedding of toad.
+- **B285** — Wedding of insects.
+- **B285.1** — Wedding of ant.
+- **B285.2** — Wedding of cricket.
+- **B285.3** — Wedding of grasshopper.
+- **B285.4** — Wedding of fly.
+- **B285.5** — Wedding of flea.
+- **B285.6** — Wedding of butterfly.
+- **B285.7** — Wedding of wasp.
+- **B285.8** — Wedding of cockroach and rat.
+- **B286** — Plant wedding.
+- **B286.1** — Wedding of garlic and onion.
+- **B290** — Other animals with human traits.
+- **B290.1** — Swine march like soldiers.
+- **B291** — Animal as messenger.
+- **B291.0.1** — Animal tried out as messenger.
+  *Hen (cock) the only one successful.*
+- **B291.0.2** — Unwelcome bird (insect) proves to be messenger.
+- **B291.1** — Bird as messenger.
+- **B291.1.0.1** — Bird as letter carrier.
+- **B291.1.1** — Raven as messenger.
+- **B291.1.1.1** — Ravens carry message to enemies.
+- **B291.1.1.2** — Raven as devil's messenger.
+- **B291.1.2** — Crow as messenger.
+- **B291.1.3** — Dove as messenger.
+- **B291.1.4** — Falcon as messenger.
+- **B291.1.5** — Goose as messenger.
+- **B291.1.6** — Parrot as messenger.
+- **B291.1.7** — Heron as messenger.
+- **B291.1.8** — Vulture as messenger.
+- **B291.1.9** — Eagle as messenger.
+- **B291.1.10** — Hawk as messenger.
+- **B291.1.11** — Swallow as messenger.
+- **B291.1.12** — Pigeon as messenger.
+- **B291.2** — Domestic beast as messenger.
+- **B291.2.1** — Horse as messenger.
+- **B291.2.2** — Dog as messenger.
+- **B291.3** — Wild beast as messenger.
+- **B291.3.1** — Fox as messenger.
+- **B291.3.2** — Hare (rabbit) as messenger.
+- **B291.3.2.1** — Hares carry taxes to court.
+- **B291.4** — Other animals as messenger.
+- **B291.4.1** — Bee as messenger from heaven to earth.
+- **B291.4.2** — Snake as messenger.
+- **B291.4.3** — Whale as messenger.
+- **B292** — Animal as servant to man.
+- **B292.0.1** — Animals with human child as slave.
+- **B292.0.2** — Animals leave wicked and go to pious master.
+- **B292.1** — Animal as shepherd for man.
+- **B292.1.1** — Baboon as shepherd for man.
+- **B292.1.2** — Dog as shepherd for man.
+- **B292.2** — Animal as domestic servant.
+- **B292.2.1** — Monkey as domestic servant.
+- **B292.2.2** — Bird as domestic servant.
+- **B292.2.2.1** — Bird servant to deity.
+- **B292.2.3** — Lion as domestic servant.
+- **B292.3** — Doe furnishes man milk.
+- **B292.4** — Stags plow for man.
+  *Also draw chariot, bear burdens, and allow saints to use their horns as a book rest Saints' legend (Irish): Plummer cxliii cxliv; Irish myth: Cross; English: Baughman.*
+- **B292.4.1** — Wild oxen plow for man.
+- **B292.4.1.1** — Oxen draw saint's plow around whole district in one day.
+- **B292.4.2** — Tiger plows for man.
+- **B292.4.3** — Dog plows for man.
+- **B292.5** — Bird sings to console man.
+- **B292.6** — Black cat as servant of giant.
+- **B292.6.1** — Thief lives alone with 20 cats that help him keep intruders away.
+- **B292.7** — Otters supply man with fish and burning wood daily.
+- **B292.8** — Dog as guardian of treasure.
+- **B292.9** — Animal as farm laborer.
+- **B292.9.1** — Frog works in fields for benefactor.
+- **B292.9.2** — Chicken as laborer.
+- **B292.9.3** — Rat servants cut jungle down, till soil for master.
+- **B292.10** — Dog made king.
+- **B292.11** — Tiger carries load of wood for saint.
+- **B292.12** — Serpent as saint's whip.
+- **B292.13** — Ass as tollkeeper.
+- **B293** — Animals dance.
+- **B293.0.1** — Animals dance for king.
+- **B293.1** — Dance of cats.
+- **B293.2** — Dance of frog(s).
+- **B293.3** — Dance of tigers.
+- **B293.4** — Dance of lions.
+- **B293.5** — Dance of nagas (snake men).
+- **B294** — Animals in business relations.
+- **B294.1** — Fox as divider of dying man's gifts.
+- **B294.2** — Animal handles money.
+- **B294.2.1** — Monkey's money stolen.
+- **B294.2.2** — Monkey buys liquor.
+- **B294.3** — Dog sells rotten peas on market: punished by other animals.
+- **B294.4** — Animals hold fairs.
+- **B294.5** — Parrot transacts business of trader.
+- **B294.6** — Rabbit and elephant partners on trading expedition.
+- **B294.7** — Tortoise and dog partners as thieves.
+- **B295** — Animal drives carriage.
+- **B295.1** — Mouse makes boat of bread-crust.
+  *Takes animals and birds into boat. It capsizes.*
+- **B296** — Animals go a-journeying.
+- **B296.1** — Animal journeys to Rome.
+  *Cock, geese, or dog go to Rome to become Pope.*
+- **B297** — Musical animals.
+- **B297.0.1** — Bull lows musically.
+- **B297.1** — Animal plays musical instrument.
+- **B297.1.1** — Bird plays timpan.
+- **B297.1.2** — Toad and chameleon play drum and xylophone.
+- **B297.2** — Transformed women enchanted by music.
+- **B297.2.1** — Women transformed to bitches enchanted by music.
+- **B298** — Animal plays game.
+- **B298.1** — Monkey plays chess.
+- **B299** — Other animals with human traits miscellaneous.
+- **B299.1** — Animal takes revenge on man.
+- **B299.1.1** — Eagle takes revenge on man.
+- **B299.2** — Animals dispute.
+- **B299.2.1** — Owls and crows dispute over merits of night or day vision.
+- **B299.3** — Animals discover liquor and get intoxicated.
+- **B299.4** — Bear asks boy to stay with her cubs.
+- **B299.5** — Sympathetic animals.
+- **B299.5.1** — Animal mutilates self to express sympathy.
+- **B299.5.2** — Animal fasts to express sympathy.
+- **B299.5.3** — Birds weep when man cuts off his hand.
+- **B299.6** — Animal physician.
+- **B299.7** — Festival of animals.
+- **B299.8** — Animals build bridge.
+- **B299.8.1** — Tigers build bridge.
+- **B299.9** — Animals cultivate crops.
+- **B299.10** — Animal christening.
+
+## Helpful animal
+
+- **B300** — Helpful animal.
+- **B301** — Faithful animal.
+- **B301.1** — Faithful animal at master's grave dies of hunger.
+- **B301.1.1** — Faithful dog follows master's dead body when cast into river.
+  *Supports body.*
+- **B301.1.2** — Faithful dog helps open mistress' grave dies on it.
+- **B301.1.3** — Faithful animal doesn't allow anybody to come near to master's corpse.
+- **B301.2** — Faithful animal at master's grave avenges his murder.
+- **B301.3** — Faithful animal plans suicide when it thinks master dead.
+- **B301.4** — Faithful horse follows dead master to grave.
+- **B301.4.1** — Faithful horse lays his head on slain master's breast.
+- **B301.4.1.1** — Faithful horse weeps for coming death of saint.
+- **B301.4.2** — Faithful horse weeps tears of blood for master.
+- **B301.4.3** — Faithful horse joins in keen at hero's death.
+- **B301.4.3.1** — Faithful horse lays his head in lap of dead master's wife.
+- **B301.4.4** — Faithful horse allows only its master to catch and ride it.
+- **B301.4.5** — Faithful horse lies down in order that its mutilated master can mount it.
+- **B301.4.6** — Faithful horse refuses to go before its master mounts it, even when already loaded with two chests with gold.
+- **B301.4.7** — Faithful horse dies together with its master.
+- **B301.4.8** — Faithful horse fights together with its master.
+- **B301.5** — Faithful animals resuscitate master.
+- **B301.6** — Faithful cattle fight at master's grave until they cast their horns.
+- **B301.6.1** — Faithful cattle shed horns in grief for death of man.
+- **B301.6.2** — Faithful cow refuses to move for grief at master's death.
+- **B301.6.3** — Faithful cows lose milk at king's death.
+- **B301.7** — Faithful lapdog dies when mistress dies.
+- **B301.7.1** — Faithful dog helps open mistress' grave and dies on it.
+- **B301.8** — Faithful lion follows man who saved him.
+- **B310** — Acquisition of helpful animal.
+- **B311** — Congenital helpful animal.
+  *Born at same time as master and (usually) by same magic means.*
+- **B311.1** — Helpful animal foster brother.
+  *Hero reared by animal's parents.*
+- **B312** — Helpful animals obtained by purchase or gift.
+- **B312.1** — Helpful animals a gift.
+- **B312.2** — Helpful animals obtained by exchange.
+- **B312.3** — Helpful animal(s) bequeathed to hero.
+- **B312.4** — Helpful animal purchased.
+- **B312.4.1** — Helpful dogs obtained by purchase.
+- **B312.5** — Helpful, strong horse caught.
+- **B313** — Helpful animal an enchanted person.
+- **B313.1** — Helpful animal reincarnation of parent.
+  *The dead mother appears to the heroine in the form of an animal.*
+- **B313.2** — Helpful animal reincarnation of murdered child.
+- **B314** — Helpful animal brothers-in-law.
+- **B315** — Animal helpful after being conquered.
+- **B316** — Abused and pampered horses.
+  *Hero is ordered by ogre to feed and care for certain horse and to neglect other horse. Hero disobeys and feeds neglected horse. Latter is enchanted prince and helps hero.*
+- **B317** — Helpful bird hatched by hero.
+  *Hero holds eagle's egg in hand and hatches it. Young eagle becomes his helper.*
+- **B318** — Helpful animals transformed from other animals.
+- **B319** — Helpful animal otherwise acquired.
+- **B319.1** — Helpful animal sent by God (or a god).
+- **B319.2** — Helpful animal acquired as reward for vigil.
+- **B320** — Reward of helpful animal.
+- **B322** — Helpful animal demands food.
+- **B322.1** — Hero feeds own flesh to helpful animal.
+  *The hero is carried on the back of an eagle who demands food. The hero finally feeds parts of his own flesh.*
+- **B322.2** — Helpful birds demand food.
+- **B325** — Animal bribed for help.
+- **B325.1** — Animal bribed with food.
+  *(Sop to Cerberus.)*
+- **B330** — Death of helpful animal.
+- **B331** — Helpful animal killed through misunderstanding.
+- **B331.1** — Faithful falcon killed through misunderstanding.
+  *Tries to warn the king against drinking water poisoned by snake.*
+- **B331.1.1** — Faithful horse killed through misunderstanding.
+  *Tries to warn king against drinking water poisoned by snake.*
+- **B331.2** — Llewellyn and his dog.
+  *Dog has saved child from serpent. Father sees bloody mouth, thinks the dog has eaten the child, and kills the dog.*
+- **B331.2.1** — Woman slays faithful mongoose which has saved her child.
+- **B331.2.2** — Faithful dog killed by overhasty master: thinks mistakenly he has returned home against orders.
+- **B331.3** — Faithful parrot killed by mistake.
+- **B332** — Too watchful dog killed.
+- **B335** — Helpful animal killed by hero's enemy.
+- **B335.1** — Man attempts to kill faithful serpent at wife's instigation.
+  *Loses everything.*
+- **B335.1.1** — Treacherous wife forces husband to kill helpful dog.
+- **B335.2** — Life of helpful animal demanded as cure for feigned sickness.
+- **B335.3** — Unsuccessful attempt by enemy to kill helpful animal.
+- **B335.4** — Wife demands magic parrot who has accused her.
+- **B335.5** — Faithful animal killed in battle.
+- **B335.6** — A small animal (hare, bitch) gives timely warnings to the hero about the trap prepared by his enemy.
+  *Animal warning about trap killed.*
+- **B335.7** — Helpful cow to be killed because of refusal to help stepdaughter.
+- **B336** — Helpful animal killed (threatened) by ungrateful hero.
+- **B338** — Weapons made from bones of helpful horse.
+- **B339** — Death of helpful animal miscellaneous.
+- **B339.1** — Truth-telling dog killed so as to hide murder.
+- **B340** — Treatment of helpful animals miscellaneous.
+- **B341** — Helpful animal's injunctions disobeyed.
+  *Disaster follows.*
+- **B342** — Cat leaves house when report is made of death of one of his companions.
+  *His master has been told to say "Robert is dead". As soon as this is said, the cat leaves.*
+- **B343** — Large reward given for return of helpful animal.
+- **B350** — Grateful animals.
+- **B360** — Animals grateful for rescue from peril of death.
+- **B361** — Animals grateful for rescue from pit.
+- **B362** — Animal grateful for rescue from drowning.
+- **B363** — Animal grateful for rescue from net.
+- **B363.1** — Lion is freed from net by mouse.
+  *Mouse asks that his son marry lion's daughter. Request granted. The mouse is trampled to death by his bride.*
+- **B364** — Animal grateful for other rescue.
+- **B364.1** — Animal grateful for rescue from trap.
+- **B364.2** — Animal grateful for rescue from fire.
+- **B364.3** — Insect having fallen on back grateful for being turned over.
+- **B364.4** — Bird grateful for being saved from attacking serpent.
+- **B364.5** — Animal grateful for rescue from mud.
+- **B365** — Animal grateful for rescue of its young.
+- **B365.0.1** — Bird grateful for rescue of its young.
+- **B365.1** — Animal grateful for rescue of its mate.
+- **B365.2** — Animal grateful to hero for preventing destruction of nest.
+- **B365.2.1** — Ant grateful for preventing destruction of nest.
+- **B365.3** — Animal grateful for release of relative.
+- **B366** — Animal grateful for ransom from captivity.
+- **B370** — Animal grateful to captor for release.
+- **B371** — Small animal released from jaws of large one: grateful.
+- **B371.1** — Lion spared mouse: mouse grateful.
+  *Later releases lion from net.*
+- **B371.2** — Lion spares fly: fly grateful.
+  *Later warns lion.*
+- **B374** — Other animals grateful for release.
+- **B374.1** — Lion rescued from snake: thankful.
+- **B375** — Release of animal by hunter (fisher).
+- **B375.1** — Fish returned to water: grateful.
+- **B375.1.1** — Grateful fish grants mad hero his wish: to impregnate a princess.
+  *Later the fish saves the hero and his family from death at sea.*
+- **B375.1.2** — Fish grateful for being transferred from tank to river.
+- **B375.2** — Frog returned to spring: grateful.
+  *Teaches hero animals' language (Cf. +B217).*
+- **B375.3** — Bird released: grateful.
+- **B375.3.1** — Eagle released: grateful.
+- **B375.4** — Squirrel released: grateful and helpful.
+- **B375.5** — Monkey released: grateful.
+- **B375.6** — Rat released: grateful.
+- **B375.7** — Leopard released: grateful.
+- **B375.8** — Turtle released: grateful.
+- **B375.9** — Serpent released: grateful.
+- **B375.10** — Jackal released: grateful.
+- **B376** — Wasp released from vase full of honey: grateful.
+- **B380** — Animal grateful for relief from pain.
+- **B380.1** — Grateful hyena leads lost hermit from wilderness as reward for his help.
+- **B381** — Thorn removed from lion's paw (Androcles and the Lion).
+  *In gratitude the lion later rewards the man.*
+- **B381.1** — Wolf fetches a man to remove thorn from his children's paws.
+  *Does not attack the man's livestock.*
+- **B381.2** — Thorn removed from monkey's tail.
+- **B382** — Animal grateful for removal of bone lodged in its throat.
+- **B383** — Man called by animal for help to his cubs in danger.
+- **B384** — Saint cures the blind young ones of a hyena or wolf by the sign of the cross and the application of his saliva.
+- **B385** — Serpent relieved from sand blown in eyes: grateful.
+- **B386** — Tigress grateful for opening of abscess.
+- **B387** — Tiger grateful for woman assisting tigress as midwife.
+- **B388** — Cobra grateful for cure of ulcer.
+- **B390** — Animals grateful for other kind acts.
+- **B391** — Animal grateful for food.
+- **B391.1** — Child feeds snake from its milk-bottle.
+- **B391.1.1** — Cobra grateful to prince for milk.
+- **B391.1.2** — Snake grateful because man feeds her young snakes milk.
+- **B391.1.3** — Snake grateful for pouring milk into its hole.
+- **B391.2** — Child shares food with toad.
+- **B391.3** — Hero kills horse to feed young ravens.
+- **B391.4** — Animals given water to drink: grateful.
+- **B392** — Hero divides spoil for animals.
+- **B392.1** — Animals grateful for being given appropriate food.
+  *Hero finds dog with hay and horse with meat. He changes it about.*
+- **B393** — Animals grateful for shelter.
+- **B394** — Cow grateful for being milked.
+- **B395** — Buffaloes grateful for care of their calves.
+- **B395.1** — Buffaloes grateful for being cleaned and combed.
+- **B396** — Cows grateful for hero's housekeeping for them.
+
+## Helpful domestic beasts
+
+- **B400** — Helpful domestic beasts.
+- **B401** — Helpful horse.
+- **B401.1** — Helpful water-horse.
+- **B402** — Helpful ass.
+- **B403** — Helpful mule.
+- **B405** — Helpful camel.
+- **B411** — Helpful cow.
+- **B411.1** — Helpful bull.
+- **B411.2** — Helpful ox.
+- **B411.3** — Helpful calf.
+- **B411.4** — Helpful buffalo.
+- **B411.4.1** — Helpful bison.
+- **B411.5** — Helpful bullock.
+- **B411.6** — Helpful steer.
+- **B412** — Helpful sheep.
+- **B413** — Helpful goat.
+- **B414** — Helpful hog.
+- **B414.1** — Helpful boar.
+- **B421** — Helpful dog.
+- **B422** — Helpful cat.
+- **B430** — Helpful wild beasts.
+- **B431** — Helpful wild beasts felidae.
+- **B431.1** — Helpful leopard.
+- **B431.2** — Helpful lion.
+- **B431.3** — Helpful tiger.
+- **B431.4** — Helpful panther.
+- **B433** — Helpful wild beasts mustelidae.
+- **B433.1** — Helpful otter.
+- **B433.2** — Helpful badger.
+- **B433.3** — Helpful ichneumon.
+- **B433.4** — Helpful mongoose.
+- **B435** — Helpful wild beasts canidae and other carnivora.
+- **B435.1** — Helpful fox.
+- **B435.2** — Helpful jackal.
+- **B435.3** — Helpful wolf.
+- **B435.4** — Helpful bear.
+- **B435.5** — Helpful seal.
+- **B435.6** — Helpful hyena.
+- **B437** — Helpful wild beasts rodentia.
+- **B437.1** — Helpful rat.
+- **B437.1.1** — Helpful bandicoot.
+- **B437.2** — Helpful mouse.
+- **B437.3** — Helpful squirrel.
+- **B437.4** — Helpful rabbit (hare).
+- **B441** — Helpful wild beasts primata.
+- **B441.1** — Helpful monkey.
+- **B441.1.1** — Helpful ape.
+- **B443** — Helpful wild beasts ungulata.
+- **B443.1** — Helpful deer (stag, doe).
+- **B443.2** — Helpful antelope.
+- **B443.3** — Helpful elephant.
+- **B443.4** — Helpful gazelle.
+- **B443.5** — Helpful wild hog (boar).
+- **B443.6** — Helpful hippopotamus.
+- **B443.7** — Helpful wild ox.
+- **B449** — Helpful wild beasts miscellaneous.
+- **B449.1** — Helpful hedgehog.
+- **B449.2** — Helpful mole.
+- **B449.3** — Helpful bat.
+- **B450** — Helpful birds.
+- **B451** — Helpful birds passeriformes.
+- **B451.1** — Helpful lark.
+- **B451.2** — Helpful nightingale.
+- **B451.3** — Helpful wren.
+- **B451.4** — Helpful crow.
+- **B451.5** — Helpful raven.
+- **B451.6** — Helpful magpie.
+- **B451.7** — Helpful sparrow.
+- **B455** — Helpful birds falconiformes.
+- **B455.1** — Helpful vulture.
+- **B455.2** — Helpful falcon.
+- **B455.3** — Helpful eagle.
+- **B455.4** — Helpful hawk.
+- **B455.5** — Helpful kite (bird).
+- **B457** — Helpful birds charidriiformes.
+- **B457.1** — Helpful dove.
+- **B457.2** — Helpful pigeon.
+- **B461** — Helpful birds coraciiformes.
+- **B461.1** — Helpful woodpecker.
+- **B461.2** — Helpful owl.
+- **B463** — Helpful birds ciconiiformes.
+- **B463.1** — Helpful sea-bird.
+- **B463.2** — Helpful heron.
+- **B463.3** — Helpful crane.
+- **B463.4** — Helpful stork.
+- **B469** — Helpful birds miscellaneous.
+- **B469.1** — Helpful grebe.
+- **B469.2** — Helpful swan.
+- **B469.3** — Helpful goose.
+- **B469.3.1** — Helpful wild goose.
+- **B469.4** — Helpful duck.
+- **B469.4.1** — Helpful wild duck.
+- **B469.5** — Helpful cock.
+- **B469.5.1** — Helpful chicken.
+- **B469.6** — Helpful guinea-fowl.
+- **B469.7** — Helpful turkey.
+- **B469.8** — Helpful cuckoo.
+- **B469.9** — Helpful parrot.
+- **B469.9.1** — Helpful paroquet.
+- **B469.10** — Helpful pheasant.
+- **B470** — Helpful fish.
+- **B470.1** — Small fish as helper.
+- **B471** — Helpful shark.
+- **B472** — Helpful whale.
+- **B473** — Helpful dolphin.
+- **B474** — Helpful salmon.
+- **B475** — Helpful pike.
+- **B476** — Helpful eel.
+- **B477** — Helpful octopus.
+- **B480** — Helpful insects.
+- **B481** — Helpful insects hymenoptera.
+- **B481.1** — Helpful ant.
+- **B481.2** — Helpful termite.
+- **B481.3** — Helpful bee.
+- **B481.3.1** — Helpful bumblebee.
+- **B481.4** — Helpful wasp.
+- **B481.5** — Helpful hornet.
+- **B482** — Helpful insects coleoptera.
+- **B482.1** — Helpful firefly.
+- **B482.2** — Helpful dungbeetle.
+- **B483** — Helpful insects diptera.
+- **B483.1** — Helpful fly.
+- **B483.1.0.1** — Fly warns saint against devil hidden in a cup with liquor.
+- **B483.2** — Helpful flea.
+- **B484** — Helpful insects lepidoptera.
+- **B484.1** — Helpful caterpillar.
+- **B485** — Helpful insects hemiptera.
+- **B486** — Helpful insects orthoptera.
+- **B486.1** — Helpful locusts.
+- **B486.2** — Helpful cricket.
+- **B489** — Helpful insects miscellaneous.
+- **B489.1** — Helpful spider.
+- **B490** — Other helpful animals.
+- **B491** — Helpful reptile.
+- **B491.1** — Helpful serpent.
+- **B491.2** — Helpful lizard.
+- **B491.3** — Helpful crocodile.
+- **B491.4** — Helpful worm.
+- **B491.4.1** — Helpful centipede.
+- **B491.4.2** — Helpful angleworm.
+- **B491.5** — Helpful turtle (tortoise).
+- **B493** — Helpful amphibian.
+- **B493.1** — Helpful frog.
+- **B493.2** — Helpful toad.
+- **B495** — Helpful crustacean.
+- **B495.1** — Helpful crab.
+- **B495.2** — Helpful lobster.
+- **B498** — Helpful mythical animal.
+- **B498.1** — Helpful dragon.
+
+## Magic power from animals
+
+- **B500** — Magic power from animals.
+- **B501** — Animal gives part of body as talisman for summoning its aid.
+- **B501.1** — Buffalo give hero horns for summoning them.
+- **B501.1.1** — Merry horn and angry horn for summoning buffalo.
+  *When all is well hero is to blow on merry-horn; when in trouble on angry-horn.*
+- **B501.2** — Kite teaches rhyme by which he may be summoned for help.
+- **B501.3** — Animal gives jewel for summoning him when in need of help.
+- **B501.4** — Birds give hero feather to burn if he is in difficulty.
+- **B505** — Magic object received from animal.
+- **B505.1** — Magic object received from animal brother-in-law.
+- **B505.2** — Animal tells hero where to find magic object.
+- **B505.3** — Magic song received from fish.
+- **B510** — Healing by animals.
+- **B511** — Animal as healer.
+- **B511.1** — Snake as healer.
+- **B511.1.1** — Snake creeps into man's mouth and heals him.
+- **B511.1.2** — Snake heals mutilated maiden with magic herbs.
+- **B511.1.3** — Helpful hedgehog forces snake to suck out poison from bitten raja.
+- **B511.2** — Pig as healer.
+- **B511.2.1** — Magic pig heals wound its skin touches.
+- **B511.2.2** — Magic pig heals wounds by licking.
+- **B511.3** — Faithful horse pushes sleep thorn out of its master's head, so that he awakes.
+- **B511.4** — Rat cures man of wound.
+- **B511.5** — Bird heals man.
+- **B511.5.1** — Vulture cures blindness.
+- **B512** — Medicine shown by animal.
+  *It heals another animal with a medicine (herb, water, etc.) and thus shows the man the remedy. Sometimes the medicine resuscitates the dead. (The animal is most frequently the serpent.*
+- **B513** — Remedy learned from overhearing animal meeting.
+  *The hero learns how to cure his own blindness and the sickness of the king (princess).*
+- **B514** — Animal fetches remedy for man.
+- **B514.1** — Grateful fox fetches fox liver as remedy.
+- **B514.2** — Bee fetches balm from heaven to restore hero's speech.
+- **B514.3** — Snake gives man antidote for poison.
+- **B515** — Resuscitation by animals.
+- **B516** — Sight restored by animal.
+- **B520** — Animals save person's life.
+- **B521** — Animal warns of fatal danger.
+- **B521.1** — Animal warns against poison.
+- **B521.1.1** — Horse advises hero not to wash in water (as his false wife told him to) or his eyes will pop out.
+- **B521.1.2** — Animal warns man against drinking.
+- **B521.2** — Animal warns against accident.
+- **B521.2.1** — Eagle saves man from falling wall.
+  *The grateful eagle swoops down and takes the man's hat, and thus gets him away from the wall that is about to fall.*
+- **B521.3** — Animals warn against attack.
+- **B521.3.1** — Dogs warn against witch.
+- **B521.3.2** — Cackling geese spread alarm.
+- **B521.3.3** — Flea's bite alarms king.
+  *Robber tells flea of plan to rob king. During the robbery the flea bites and awakens the king.*
+- **B521.3.3.1** — Prince awakened by fly on his nose in time to save himself from enemy.
+- **B521.3.4** — Dog warns of pursuit.
+- **B521.3.5** — Owl warns other birds from limed net.
+- **B521.4** — Animals warn wife of husband's danger.
+- **B521.5** — Owl saves man from plunging over cliff.
+  *Flaps wings and arrests man's attention.*
+- **B521.6** — Birds warn of enemy's approach.
+- **B522** — Animal saves man from death sentence.
+- **B522.1** — Serpent shows condemned man how to save prince's life.
+  *Bites the prince and then shows the man the proper remedy (cf. +B512). By thus ingratiating himself the man is freed from false accusation.*
+- **B522.2** — Kite steals jewels and thus saves condemned man.
+  *Innocent man in possession of stolen jewels, is about to be apprehended. Kite carries off the jewels and saves him.*
+- **B522.3** — Woman slandered as adulteress is thrown into lion pit.
+  *Lions do not harm her.*
+- **B522.4** — Eagle carries off condemned child.
+- **B522.4.1** — Circling cranes carry away girl.
+- **B523** — Animal saves man from pursuer.
+- **B523.1** — Spider-web over hole saves fugitive.
+- **B523.2** — Whale fights monster pursuing saint.
+- **B523.3** — Great clam fights hero's pursuer.
+- **B524** — Animal overcomes man's adversary.
+- **B524.1** — Animals overcome man's adversary by force.
+- **B524.1.1** — Dogs kill attacking cannibal (dragon).
+- **B524.1.2** — Dogs rescue fleeing master from tree refuge.
+- **B524.1.2.1** — Dogs break bonds and kill master's attacker.
+- **B524.1.3** — Cat kills attacking rat.
+- **B524.1.4** — Wolf defends master's child against serpent.
+- **B524.1.4.1** — Dog defends master's child against animal assailant.
+- **B524.1.5** — Helpful buffaloes tramp hero's enemies to death.
+- **B524.1.5.1** — Helpful buffaloes save hero from tiger.
+- **B524.1.6** — Helpful bird kills snake attacking master's wife and child.
+- **B524.1.7** — Horse kills master's attacking enemies.
+- **B524.1.8** — Shut in with elephants, blackbird orders ants to burrow themselves into the elephants' brains.
+- **B524.1.9** — Grateful hawk attacks hero's enemies.
+- **B524.1.10** — Helpful centipede kills ogre.
+- **B524.1.11** — Hero contests with demons, using fighting animals: cock, goat, bull, horse, wild bull, peacock.
+- **B524.1.12** — Hero saved from ravaging snake by crab companion.
+- **B524.2** — Animals overcome man's adversary by strategy.
+- **B524.2.1** — Helpful bees (hornets) sting opposing army.
+- **B524.2.1.1** — Saint sends swarm of bees or wasps against enemies.
+- **B524.3** — Helpful snake protects man from attack.
+- **B524.4** — Supernatural bird prevents mother from killing babe.
+- **B524.5** — Broom, transformed into porcupine, drives away would-be ravisher.
+- **B524.6** — Grateful hare raises animal army for hero.
+- **B524.7** — Faithful dog kills would-be murderer of sleeping master.
+- **B524.8** — Chicken picks out one of attacker's eyes.
+- **B525** — Animal spares man he is about to devour.
+- **B525.1** — Tiger hides woman from all other tigers.
+- **B526** — Animal saves man from death by burning.
+- **B526.1** — Helpful animals quench execution fire.
+  *Master is to be burned at stake.*
+- **B526.2** — Helpful mare cools boiling bath for master.
+  *Hero is made to bathe in boiling mare's milk. His mare blows on the milk and cools it.*
+- **B527** — Animal saves man from death by drowning.
+- **B527.1** — Fish promises to spare man in coming flood.
+- **B527.2** — Helpful animal stops leak in Noah's Ark.
+- **B527.3** — Owl saves man from drowning: flaps wings to call attention to direction of land.
+- **B529** — Animal saves person's life miscellaneous.
+- **B529.1** — Animals (sow, bitch, mare) hide boy in their belly to protect him.
+- **B529.2** — Dragon swallows arrow (thunderbolt) intended for hero.
+- **B530** — Animals nourish men.
+  *Provide food, shelter, or other necessities.*
+- **B530.1** — Mythical frog as host to woman.
+- **B530.2** — Elephants look after ascetic in jungle.
+- **B531** — Animals provide food for men.
+- **B531.1** — Infants fed by bees.
+- **B531.2** — Unusual milking animal.
+- **B531.2.1** — Does, tigresses, she-wolves milked into pond, which becomes a pond of milk.
+- **B531.3** — Helpful animal recovers magic food-producing skin from river bottom.
+- **B531.4** — Helpful animal drops magic food.
+- **B531.5** — Birds save man from hunger by pitching themselves to roast in fire he has made.
+- **B535** — Animal nurse.
+  *Animal nourishes abandoned child.*
+- **B535.0.1** — Cow as nurse cares for children.
+- **B535.0.1.1** — Bison as nurse for child.
+- **B535.0.2** — Bandicoot (large rat) as nurse.
+  *Cares for children.*
+- **B535.0.3** — Goat as nurse for child.
+- **B535.0.4** — Dog as nurse for child.
+- **B535.0.5** — Abandoned prince grows up in eagle's nest.
+- **B535.0.6** — Frog as nurse for child.
+- **B535.0.7** — Bird as nurse for child.
+- **B535.0.7.1** — Stork as nurse for child.
+- **B535.0.7.2** — Crane as nurse for child.
+- **B535.0.8** — Tiger as nurse for child.
+- **B535.0.9** — She-wolf as nurse for child.
+- **B535.0.10** — Sheep and oxen protect exposed child.
+- **B535.0.11** — She-wolf cares for baby exposed in the forest.
+- **B535.0.12** — Eagle cares for baby while mother works in field.
+- **B535.0.13** — Crab as nurse for child.
+- **B535.0.14** — Serpent as nurse for child.
+- **B535.1** — Goat feeds other animals from its body.
+  *Permits them to feed from it internally.*
+- **B535.2** — Animal nurses fight with real parent for children.
+- **B536** — Helpful animal cares for wounded (sick) master.
+- **B536.1** — Helpful bird cares for blinded master.
+- **B537** — Animals adopt mysterious housekeeper.
+- **B538** — Animals provide shelter.
+- **B538.1** — Bird gives shelter with wings.
+- **B538.2** — Wolf-tail blankets.
+  *Wolves shelter man with their tails.*
+- **B540** — Animal rescuer or retriever.
+  *Rescue person or retrieve lost object.*
+- **B540.1** — Birds throw some of their feathers to the hero in danger and he flies off.
+- **B540.2** — Helpful horse rescues children.
+- **B541** — Animal rescues man from sea.
+- **B541.1** — Escape from sea on fish's back.
+- **B541.1.1** — Fish swallows man to rescue him from sea.
+- **B541.2** — Fox rescues man from sea.
+- **B541.3** — Bird rescues man from sea.
+- **B541.4** — Dog rescues drowning man.
+- **B541.4.1** — Boat towed by dog.
+- **B541.5** — Fish rescues ship.
+- **B542** — Animal carries man through air to safety.
+- **B542.1** — Bird flies with man to safety.
+- **B542.1.1** — Eagle carries man to safety.
+- **B542.1.2** — Bat rescues man from height.
+  *Bat lets him down in a spider-web basket.*
+- **B542.1.3** — Measuring worm rescues from a height.
+- **B542.2** — Escape on flying horse.
+- **B542.2.1** — Transportation to fairyland on griffin's back.
+- **B543** — Animal finds stolen person.
+- **B543.0.1** — Animal helps on quest for vanished wife.
+- **B543.1** — Bottlefly finds stolen woman in sky.
+- **B543.2** — Animal finds stolen goods.
+- **B543.3** — Stolen child rescued by animal nurse.
+- **B543.3.1** — Elephant rescues stolen girl.
+- **B544** — Animal rescues captive.
+- **B544.1** — Animals help imprisoned master.
+- **B545** — Animal rescues from trap (net).
+- **B545.1** — Deer in net freed by friendly animals, a crow, a mouse and a tortoise.
+- **B545.2** — Rat (mouse) gnaws net.
+- **B546** — Animal searches for dead man.
+- **B547** — Animal rescues man from dangerous place.
+- **B547.1** — Animal rescues man from well.
+- **B547.2** — Raven rescues man from pit.
+- **B547.2.1** — Man falls in hole with horse; buzzards gather; he lassoes a number of buzzards, ties them together, frightens them; all fly at once, carry him from hole.
+  *(Tall tale.)*
+- **B547.3** — Centaur rescues man from beast-infested jungle.
+- **B547.4** — Frog rescues man from kingdom of the snakes.
+- **B548** — Animal retrieves lost object.
+- **B548.1** — Animals recover lost wishing ring.
+  *Grateful cat, dog, and snake compel mouse to steal it from thief.*
+- **B548.1.1** — Martens recover lost magic ring from kite.
+- **B548.1.2** — Otters recover lost magic ring from fish.
+- **B548.2** — Fish brings lost object from bottom of sea.
+- **B548.2.1** — Fish recovers ring from sea.
+- **B548.2.2** — Fish recovers key from sea.
+- **B548.2.2.1** — Frog recovers keys from sea.
+- **B548.2.2.2** — Duck recovers lost key from sea.
+- **B548.2.3** — Fish recovers lost fish-hook from sea.
+- **B548.2.4** — Fish recovers pen from sea.
+- **B548.2.5** — Fish recovers lost urn from sea.
+- **B548.3** — Otter retrieves lost magic object from bottom of lake.
+- **B548.4** — Ducks recover lost object from water.
+- **B548.5** — Frog recovers Sacred Host from water.
+- **B548.6** — Jewel recovered from sea by helpful parrot.
+- **B549** — Animal rescuer miscellaneous.
+- **B549.1** — Girl saved by lion from ravishment.
+- **B549.2** — Dragon makes bridge across stream for holy man.
+- **B549.3** — Abandoned child rescued by dog.
+- **B549.4** — Animal rescues from cave.
+- **B549.5** — Hero saved from ravaging snake by crab companion.
+- **B550** — Animals carry men.
+- **B551** — Animal carries man across water.
+- **B551.1** — Fish carries man across water.
+- **B551.1.0.1** — Fish carries man to upper world.
+- **B551.2** — Aquatic bird carries man across water.
+- **B551.2.1** — Parrots carry couple across the sea.
+- **B551.3** — Crocodile carries man across river (ocean).
+- **B551.4** — Water snake carries boy across river.
+- **B551.5** — Turtle (tortoise) carries person across river (ocean).
+- **B552** — Man carried by bird.
+- **B552.1** — Alexander carried by two birds with meat held in front of them.
+- **B552.2** — Man carried by peacock.
+- **B552.3** — Indra carried by cock.
+- **B555** — Animals serve as bridge across stream.
+- **B556** — Sea-beast allows voyager to land upon his back.
+- **B557** — Unusual animal as riding-horse.
+- **B557.1** — Man carried on goat's horns.
+  *(Goat is transformed man.)*
+- **B557.2** — Saint carried by wild oxen.
+- **B557.3** — Man carried by deer.
+- **B557.4** — Crocodile as means of transportation for a saint.
+- **B557.5** — Person carried by lion.
+- **B557.6** — Magic dog carries owner in his ear.
+- **B557.7** — Person carried by cat.
+- **B557.8** — Person carried by cobra.
+- **B557.9** — Person carried by locust.
+- **B557.10** — Person carried by tiger.
+- **B557.11** — Person (animal) carried by elephant.
+- **B557.11.1** — Hero rides on animated wax elephant.
+- **B557.11.2** — Hero rides on winged elephant.
+- **B557.11.3** — Hare rides on winged elephant.
+- **B557.12** — Person carried by peacock.
+- **B557.13** — Jackal rides on fox.
+- **B557.14** — Person carried by frog.
+- **B557.15** — Wolf carries man.
+- **B558** — Unusual draft-animal.
+- **B558.1** — Boat drawn by swans (geese).
+- **B558.2** — Swans harnessed to chariot.
+- **B558.3** — Hen hitched to wagon.
+- **B558.4** — Deer hitched to wagon.
+- **B558.5** — Mice hitched to wagon.
+- **B558.6** — Wild animals yoked by saint to his plough.
+- **B558.7** — Winged serpents pull chariot through sky.
+- **B559** — Animals carry men miscellaneous.
+- **B559.1** — Man carried by toad.
+- **B560** — Animals advise men.
+- **B560.1** — Grateful dragon king gives hero advice.
+- **B561** — Animals tell hero their secrets.
+  *Do so voluntarily.*
+- **B562** — Animals' advice leads man to wealth.
+- **B562.1** — Animal shows man treasure.
+- **B562.1.0.1** — Helpful animal discovers jewel.
+- **B562.1.1** — Hogs root up gold (treasure) for saint.
+- **B562.1.2** — Horse kicks up jewel.
+- **B562.1.3** — Birds show man treasure.
+  *Doves saved by monk from death show him where to dig for treasure.*
+- **B562.2** — Animal advises about investment.
+- **B563** — Animals direct man on journey.
+- **B563.1** — Lion leads lost king from forest.
+- **B563.1.1** — Horses carry lost riders to safety.
+- **B563.1.2** — Chimpanzee leads lost hunter home.
+- **B563.2** — Birds point out road to hero.
+- **B563.3** — Squirrel points out road.
+- **B563.4** — Animal leads cleric to holy place.
+- **B563.4.1** — Animal leads lost man home.
+- **B563.4.1.1** — Tiger guides lost man home; hence men do not eat tigers.
+- **B563.4.1.2** — Jackal leads lost men out of wilderness.
+- **B563.5** — Wild leopards guide Jesus and the Holy Family through wilderness in flight to Egypt.
+- **B563.6** — Birds as scouts.
+- **B563.7** — Bird conducts navigators to landing place.
+- **B565** — Parrot gives advice to queen playing chess, and she always wins.
+- **B569** — Animals advise men miscellaneous.
+- **B569.1** — Owl advises old man of projected visit by gods (in disguise).
+- **B569.2** — Owl advises old man where to plant his crops after listening in to council of gods concerning rainfall distribution for the year.
+- **B569.3** — Mosquito gives hero advice as to which choice to make.
+- **B570** — Animals serve men.
+- **B571** — Animals perform tasks for man.
+- **B571.1** — Animals help man overcome monster with external soul.
+  *Discover where he keeps his soul.*
+- **B571.2** — Animal who arrives late performs tasks for man.
+- **B571.3** — Animals fight together with their master.
+- **B571.4** — Bear husks millet for man.
+- **B572** — Animals as carpenter (builder).
+- **B572.1** — Animals build palace (house) for man.
+- **B572.2** — Birds build canoe for master.
+- **B574** — Animals as domestic servants.
+- **B575** — Animal as constant attendant of man.
+- **B575.1** — Wild animals kept as dogs.
+- **B575.2** — Bird rests on person's shoulders.
+- **B576** — Animal as guard.
+- **B576.1** — Animal as guard of person or house.
+- **B576.1.1** — Guardian animals evaded.
+- **B576.1.2** — Robbers frightened by grateful dog.
+- **B576.2** — Animals guard treasure.
+- **B576.3** — Animal as herdsman.
+- **B576.3.1** — Fish guards cow for master.
+- **B576.4** — Animal guards master's dead body.
+- **B576.5** — Animal as guard of shop.
+- **B578** — Dogs track down law-breakers.
+- **B579** — Animals serve man otherwise.
+- **B579.1** — Animal accompanies man on journey.
+- **B579.2** — Helpful cow strikes at flies, while boy eats.
+- **B579.3** — Animal corrects examination paper for his rescuer.
+- **B579.4** — Animals help repair leaky pot.
+- **B579.5** — Serpent acts as a rope to collect wood for man.
+- **B579.6** — Faithful dog is offered as security for a debt.
+- **B579.7** — Animal earns money for master.
+- **B580** — Animal helps men to wealth and greatness.
+- **B581** — Animal brings wealth to man.
+- **B582** — Animal helps person to success in love.
+- **B582.1** — Animal wooer.
+- **B582.1.1** — Animal wins wife for his master (Puss in Boots).
+- **B582.1.1.1** — Goose brings master sleeping princess.
+- **B582.1.2** — Animal wins husband for mistress.
+- **B582.2** — Animals help hero win princess.
+- **B582.2.1** — Hero carried by bird to mistress' chamber.
+- **B582.2.2** — Rat digs underground passage to girl's chamber for hero.
+- **B582.2.3** — Swan as matchmaker.
+- **B582.2.4** — Bee as matchmaker.
+- **B582.2.5** — Dove helps deity draw his wife into a net.
+- **B583** — Animal gives treasure to man.
+- **B583.1** — Grateful whales disgorge gold.
+- **B584** — Animal gives man other gifts.
+- **B584.1** — Fox holds in its mouth a beautiful flower which he gives to hero.
+- **B587** — Animal wins contest for man.
+- **B587.1** — Magic horse wins jumping contest for man.
+- **B587.2** — Fly helps loathly suitor pass suitor test.
+- **B587.3** — Grateful bull draws one hundred carts for wager for master.
+- **B589** — Animal helps man to wealth and greatness miscellaneous.
+- **B589.1** — Eagle regains throne for deposed king.
+- **B590** — Miscellaneous services of helpful animals.
+- **B591** — Animal avenges murder.
+- **B591.0.1** — Animals refuse to devour Cain to avenge murder of Abel.
+- **B591.1** — Lion kills wolf who has killed mistress' sheep.
+- **B591.2** — Horse kicks to death master's murderer.
+- **B592** — Animals bequeath characteristics to man.
+  *Horse gives him the characteristics of youth (fiery), cow of middle age (avaricious), and the dog of old age (fractious).*
+- **B593** — Animal as house-spirit.
+- **B593.1** — Snake as house-spirit.
+- **B594** — Animal rejuvenates person.
+- **B594.1** — Bird rejuvenates person.
+- **B596** — Animal helps saint by setting fire to neglected church.
+- **B597** — Cow gives marvelous supply of milk through virtue of saint.
+- **B598** — Animal as confederate of adulterous wife.
+- **B598.1** — Boar as confederate of adulterous wife.
+- **B598.2** — Deer as confederate of adulterous wife.
+- **B599** — Other services of helpful animals.
+- **B599.1** — Cock and hen build pyre for benefactor.
+- **B599.2** — Animal helps person pass test.
+- **B599.3** — Elephant draws plow to mark boundaries of empire.
+
+## Marriage of person to animal
+
+- **B600** — Marriage of person to animal.
+  *Extremely common. Only a few references are given.*
+- **B600.1** — Various animals tried out as wives.
+  *Only one accepted.*
+- **B600.1.1** — Various animals tried out as wives: none accepted.
+- **B600.2** — Animal husband provides characteristic animal food.
+- **B601** — Marriage of person to beast.
+- **B601.1** — Marriage to bear.
+- **B601.1.1** — Bear steals woman and makes her his wife.
+- **B601.2** — Marriage to dog.
+- **B601.3** — Marriage to rat.
+- **B601.3.1** — Marriage to mouse.
+- **B601.4** — Marriage to leopard.
+- **B601.5** — Marriage to elephant.
+- **B601.6** — Marriage to lemur.
+- **B601.7** — Marriage to monkey.
+- **B601.7.1** — Person plans to marry monkey.
+- **B601.8** — Marriage to swine.
+- **B601.9** — Marriage to tiger.
+- **B601.10** — Marriage to deer.
+- **B601.11** — Marriage to jackal.
+- **B601.12** — Marriage to cat.
+- **B601.13** — Marriage to hare.
+- **B601.14** — Marriage to fox.
+- **B601.15** — Marriage to jaguar.
+- **B601.16** — Marriage to wolf.
+- **B601.17** — Marriage to coati-puri.
+- **B601.18** — Marriage to seal.
+- **B602** — Marriage to bird.
+- **B602.1** — Marriage to eagle.
+- **B602.2** — Marriage to fulmar.
+- **B602.3** — Marriage to pigeon.
+- **B602.4** — Marriage to vulture.
+- **B602.5** — Marriage to crane.
+- **B602.6** — Marriage to goose.
+- **B602.7** — Marriage to parrot.
+- **B602.8** — Marriage to kingfisher.
+- **B603** — Marriage to fish (whale).
+- **B603.1** — Marriage to shrimp.
+- **B603.2** — Marriage to eel.
+- **B604** — Marriage to reptile.
+- **B604.1** — Marriage to snake.
+- **B604.2** — Marriage to tortoise.
+- **B604.2.1** — Marriage to turtle.
+- **B604.3** — Marriage to crocodile.
+- **B604.4** — Marriage to lizard.
+- **B604.5** — Marriage to frog.
+- **B605** — Marriage to dragon.
+- **B610** — Animal paramour.
+- **B610.1** — Girl's animal lover slain by spying relatives.
+- **B611** — Beast paramour.
+- **B611.1** — Bear paramour.
+- **B611.2** — Dog paramour.
+- **B611.3** — Horse paramour.
+- **B611.3.1** — Sea-horse paramour.
+- **B611.3.2** — Lake-horse paramour.
+- **B611.4** — Bull paramour.
+- **B611.5** — Deer paramour.
+- **B611.6** — Monkey paramour.
+- **B611.7** — Rat paramour.
+- **B611.8** — Tapir paramour.
+- **B612** — Fish paramour.
+- **B612.1** — Eel paramour.
+- **B612.2** — Dolphin as paramour.
+- **B613** — Reptile paramour.
+- **B613.1** — Snake paramour.
+- **B613.1.1** — Snake woman as paramour.
+- **B613.2** — Crocodile paramour.
+- **B613.3** — Lizard paramour.
+- **B614** — Bird paramour.
+- **B620** — Animal suitor.
+- **B620.1** — Daughter promised to animal suitor.
+- **B621** — Beast as suitor.
+- **B621.1** — Bear as suitor.
+- **B621.2** — Lion as suitor.
+- **B621.3** — Tiger as suitor.
+- **B621.4** — Rat as suitor.
+- **B621.5** — Leopard as suitor.
+- **B621.6** — Pig as suitor.
+- **B621.7** — Horse as suitor.
+- **B621.8** — Wolf and wolverine fight over girl.
+- **B622** — Reptile as wooer.
+- **B622.1** — Serpent as wooer.
+- **B622.2** — Crocodile as wooer.
+- **B622.3** — Tortoise as wooer.
+- **B623** — Bird as wooer.
+- **B623.1** — Crane as wooer.
+- **B623.2** — Owl as suitor.
+- **B623.3** — Magpie as suitor.
+- **B623.4** — Crow as suitor.
+- **B623.5** — Cock as suitor.
+- **B625** — Fish as wooer.
+- **B625.0.1** — Half-man, half-fish as wooer.
+- **B630** — Offspring of marriage to animal.
+- **B631** — Human offspring from marriage to animal.
+- **B631.0.1** — Son warns animal mother.
+- **B631.0.2** — Boy kills his animal father for reward.
+- **B631.1** — Animal mother of man helps him.
+- **B631.2** — Human beings descended from seals.
+- **B631.3** — Fish bears men-children.
+  *Has swallowed rinsings of man's mouth.*
+- **B631.4** — Lioness bears man child.
+- **B631.5** — Cow bears man child.
+- **B631.6** — Tigress bears men-children.
+- **B631.7** — Human offspring of marriage of person and jaguar.
+- **B631.8** — Human offspring of marriage of person and lion.
+- **B631.9** — Human offspring of marriage of person and snake.
+- **B632** — Animal offspring from marriage to animal.
+- **B633** — Human and animal offspring from marriage to animal.
+- **B634** — Monstrous offspring from animal marriage.
+- **B634.1** — Monstrous offspring of sea-horse and woman.
+- **B635** — Human foster-child with animal qualities.
+- **B635.1** — The Bear's Son.
+  *Human son of woman who marries a bear acquires bear characteristics.*
+- **B635.1.1** — Eaten meat of bear-lover causes unborn son to have bear characteristics.
+- **B635.1.2** — Bear's foster child not used to sun and light.
+- **B635.1.3** — Bear says he is boy's father; asks food.
+- **B635.2** — Wolf boy (girl) running around with wolf and cubs recovered by parents after six years: recognized by scar.
+- **B635.3** — Child of mortal and deer has deer's hair on temple.
+- **B635.3.1** — Culture hero licked by deer mother.
+- **B635.4** — Son of dog ("cu," person).
+- **B635.4.1** — Son of three dogs ("con," persons).
+- **B636** — Offspring of human and animal intercourse.
+- **B640** — Marriage to person in animal form.
+- **B640.1** — Marriage to beast by day and man by night.
+- **B641** — Marriage to person in beast form.
+- **B641.1** — Marriage to person in dog form.
+- **B641.2** — Marriage to woman in deer form.
+- **B641.2.1** — Marriage to man in deer form.
+- **B641.3** — Marriage to god in bull form.
+- **B641.4** — Marriage to person in ass form.
+- **B641.5** — Marriage to person in hedgehog form.
+- **B641.6** — Marriage to person in horse form.
+- **B641.7** — Marriage to person in monkey form.
+- **B641.8** — Marriage to person in opossum form.
+- **B642** — Marriage to person in bird form.
+- **B643** — Marriage to person in insect form.
+- **B643.3** — Marriage to person in caterpillar form.
+- **B644** — Marriage to person in fish form.
+- **B645** — Marriage to person in amphibian form.
+- **B645.1** — Marriage of person to transformed toad.
+- **B645.1.1** — Marriage to person in toad form.
+- **B645.1.2** — Marriage to person in frog form.
+- **B645.2** — Marriage to person in crocodile form.
+- **B646** — Marriage to person in reptile form.
+- **B646.1** — Marriage to person in snake form.
+- **B646.1.1** — Marriage to person in form of five-headed snake.
+- **B647** — Marriage to person in animal form miscellaneous.
+- **B647.1** — Marriage to person in crustacean form.
+- **B647.1.1** — Marriage to person in crab form.
+- **B648** — Man becomes deer and marries deer.
+- **B650** — Marriage to animal in human form.
+- **B650.1** — Animal transformed to man wants to marry woman.
+- **B651** — Marriage to beast in human form.
+- **B651.1** — Marriage to fox in human form.
+- **B651.2** — Marriage to buffalo in human form.
+- **B651.3** — Marriage to lion in human form.
+- **B651.4** — Marriage to dog in human form.
+- **B651.5** — Marriage to deer in human form.
+- **B651.6** — Marriage to wolf in human form.
+- **B651.7** — Marriage to bear in human form.
+- **B651.8** — Marriage to seal in human form.
+- **B651.9** — Marriage to tiger in human form.
+- **B651.10** — Marriage to squirrel in human form.
+- **B651.11** — Marriage to leopard in human form.
+- **B652** — Marriage to bird in human form.
+- **B652.1** — Marriage to swan-maiden.
+- **B652.2** — Man marries crane in human form.
+- **B652.3** — Marriage to dove-maiden.
+- **B652.4** — Marriage to woodpecker in human form.
+- **B653** — Marriage to insect in human form.
+- **B653.1** — Marriage to bee in human form.
+- **B654** — Marriage to fish in human form.
+- **B655** — Marriage to amphibia in human form.
+- **B656** — Marriage to reptile in human form.
+- **B656.1** — Marriage to python in human form.
+- **B656.2** — Marriage to serpent in human form.
+- **B659** — Marriage to other animals in human form.
+- **B670** — Unusual mating between animals.
+- **B671** — Goose mates with crow.
+- **B672** — Mythical tiger has family of jaguars.
+- **B690** — Marriage of person to animal miscellaneous.
+- **B691** — Relatives kill animal-husband but wife throws herself into pyre.
+
+## Fanciful traits of animals
+
+- **B700** — Fanciful traits of animals.
+- **B710** — Fanciful origin of animals.
+- **B710.1** — Fanciful origin of the jackal.
+- **B710.2** — Clever and swift horse of fanciful origin.
+- **B710.2.1** — Clever and swift horse fed with worms' milk on the gold mountain Tecklen in India.
+- **B710.2.2** — Clever and swift horse of dromedary-family.
+- **B712** — Barnacle goose.
+  *Goose born from barnacles.*
+- **B713** — Animal born from animal carcass.
+- **B713.1** — Bees born from carcass of ox.
+- **B713.2** — Animal born from putrification.
+- **B714** — Worm (monster) from caul born with child.
+- **B715** — The cow Audhumla sprang from the dripping rime of the creation of the universe.
+- **B716** — Animal born from human or animal bones.
+- **B717** — Animal born from earth.
+- **B720** — Fanciful bodily members of animals.
+- **B721** — Cat's luminous eye.
+- **B722** — Magic stone in animal's head.
+- **B722.1** — Magic love-working stone in swallow's head.
+- **B722.2** — Magic stone in dog's forehead.
+- **B722.3** — Luminous jewel in animal's head.
+- **B722.4** — Earthworm has light in its tail.
+- **B723** — Tortoise has no liver or teeth.
+- **B724** — Spider has no blood in body.
+- **B725** — Female bears have no breasts to nurse their young; suck paws.
+- **B726** — Double snake male and female.
+- **B730** — Fanciful color, smell, etc. of animals.
+- **B731** — Fanciful color of animal.
+- **B731.0.1** — Animals of strange and varied coloring.
+- **B731.1** — Green she-goat.
+- **B731.2** — Green horse.
+- **B731.2.1** — Horse with crimson mane and green legs.
+- **B731.2.2** — Artificially colored horses.
+- **B731.2.3** — Striped horse with purple mane and white feet.
+- **B731.3** — Multicolored llama.
+  *Wool red, blue, and yellow. No need to dye it for weaving.*
+- **B731.4** — Cow with changing colors.
+  *Changes every four hours: white, red, black.*
+- **B731.4.1** — Cow with white ears.
+- **B731.4.2** — Cow with red ears.
+- **B731.5** — Silver, gold, and diamond birds.
+- **B731.6** — Hound of every color.
+- **B731.6.0.1** — Polychromatic dogs.
+- **B731.6.1** — Hound half white, half green.
+- **B731.6.2** — Blue dogs and cats.
+- **B731.7** — Fancifully colored deer.
+- **B731.7.1** — Stag with stripe of every color.
+- **B731.7.2** — Fawn with golden lustre.
+- **B731.8** — Red (green) swine.
+- **B731.9** — Purple wether.
+- **B731.9.1** — Ram with green feet and horns.
+- **B731.10** — Multicolored worm (serpent).
+- **B731.11** — Blue serpent.
+- **B731.12** — Silver fish with gold fins.
+- **B731.13** — Bird with changing color.
+- **B731.14** — Hyena with three hundred sixty-five different colors.
+- **B732** — Panther's sweet smell protects him from other beasts.
+- **B733** — Animals are spirit-sighted.
+  *Scent danger.*
+- **B733.1** — Balaam's ass perceives angel.
+- **B733.2** — Dogs howling indicates death.
+- **B733.2.1** — Cock hears inaudible voice of dying man.
+- **B735** — Bird gives milk.
+- **B736** — Animal sheds tears.
+- **B736.1** — Bird sheds tears.
+- **B736.2** — Horse sheds tears (of blood).
+- **B736.3** — Dog sheds tears.
+- **B736.4** — Fox sheds tears.
+- **B736.5** — Stag sheds tears.
+- **B736.6** — Calf sheds tears.
+- **B737** — Fish with coat of wool.
+- **B738** — Animal's skin revolves while flesh and bones remain stationary.
+- **B739** — Fanciful color, smell etc.
+  *of animals miscellaneous.*
+- **B739.1** — Magic cock has elixir in his body which makes people light.
+- **B740** — Fanciful marvelous strength of animals.
+- **B741** — Lion's roar causes havoc at 300 miles.
+  *At 300 miles all women miscarry, at 200 teeth of all men drop out.*
+- **B741.1** — Cry of giant ox impregnates all fish.
+- **B741.2** — Neighing of stallion in Assyria impregnates mares in Egypt.
+- **B741.3** — Cow whose bellowing defeats army.
+- **B741.4** — Bellow of bull heard over entire land.
+- **B742** — Animal breathes fire.
+- **B742.1** — Lion breathes fire.
+- **B742.2** — Birds spit fire.
+- **B742.3** — Fire-breathing horses.
+- **B742.4** — Fire-breathing dogs.
+- **B743** — Blowing serpent.
+  *Can blow through seven church walls but not through a pair of hose.*
+- **B744** — Animal travels extraordinary distance.
+- **B745** — Indestructibility of leech.
+- **B746** — Bear could formerly lift mountain.
+- **B747** — Animal's strong teeth.
+- **B747.1** — Strong teeth of lion.
+- **B747.2** — Locusts with jaw teeth strong as lion's.  Jewish: Neuman.
+- **B747.3** — Mice gnaw through metal vessels.
+- **B748** — Snake shoots rapids of mighty river.
+- **B750** — Fanciful habits of animals.
+- **B751** — Animal's fanciful treatment of their young.
+- **B751.1** — Snake swallows young to protect them.
+- **B751.2** — Pelican kills young and revives them with own blood.
+- **B751.3** — Eagle tests eaglets by having them gaze at sun.
+- **B751.4** — The lion blows first life into its cubs three days after their birth.
+- **B751.5** — Animal neglects its young.
+- **B751.6** — Wolf strongly attracted to his own children.
+- **B752** — Fanciful behavior of animal at death.
+- **B752.1** — Swan song.
+  *Swan sings as she dies.*
+- **B752.2** — Snake does not die before sunset.
+- **B752.3** — Snake kills itself by biting part of body (when in danger or torture).
+- **B754** — Sexual habits of animals.
+- **B754.0.1** — Unusual sexual union of animals.
+- **B754.1** — Animal changes sex periodically.
+- **B754.1.1** — Hyena changes sex yearly.
+- **B754.1.2** — Hare changes sex periodically.
+- **B754.2** — Elephants have sexual desire only after eating mandrakes.
+- **B754.3** — Lions do not mate with their fellows, but prefer leopards.
+- **B754.3.1** — Female rattlesnakes mate with black snakes rather than with male rattlesnakes.
+- **B754.4** — Male rabbit bears young.
+  *Female rabbit escaped Noah on ark and drowned.*
+- **B754.5** — Cocks kept from intercourse with hens have tenderest meat.
+- **B754.6** — Peacock pregnant without intercourse.
+  *Male spits up semen and female eats it. This as a curse.*
+- **B754.6.1** — Unusual impregnation of animal.
+- **B754.6.1.1** — Animal impregnated through mouth (ears).
+- **B754.7** — Unusual parturition of animal.
+- **B754.7.1** — Crab's offspring born through its chest.
+- **B754.7.2** — Eagle catches gazelle's young as it is born.
+- **B755** — Animal calls the dawn.
+  *The sun rises as a result of the animal's call.*
+- **B756** — Gold-digging ants.
+- **B757** — Rats leave sinking ship.
+- **B758** — Eagle renews youth.
+  *Feathers fall off and regrow.*
+- **B761** — Turtle holds with jaws till it thunders.
+- **B762** — Monkeys attack by throwing coconuts.
+- **B762.1** — Animal attacks by throwing pebbles.
+- **B765** — Fanciful qualities of snakes.
+- **B765.1** — Snake takes tail in mouth and rolls like wheel.
+- **B765.2** — Snake lays aside his crown to bathe.
+- **B765.3** — Snake sucks poisonous dew from grass.
+- **B765.4** — Snake milks cows at night.
+- **B765.4.1** — Snake attaches itself to a woman's breast and draws away her milk while she sleeps.
+- **B765.5** — Snake crawls from sleeper's mouth.
+- **B765.6** — Snake eats milk and bread with child.
+- **B765.6.1** — Snake drinks milk.
+- **B765.7** — Jointed snake can join its segments when it is broken into pieces.
+- **B765.7.1** — Snakes may be killed, but do not die.
+- **B765.7.2** — Snake grows back together after it has been severed.
+- **B765.8** — Snake sucks poison from bite it has itself made.
+- **B765.9** — Poisonous snakes in certain region have no venom.
+- **B765.10** — Snake cracks self like coach whip and chases man.
+- **B765.11** — Snake's venom kills tree.
+- **B765.12** — Venomous snakes play with precious stones.
+- **B765.13** — Copperhead guides rattlesnake to its prey.
+- **B765.14** — Snake has hypnotic stare: person cannot move.
+- **B765.14.1** — Serpent reduces man to a heap of ashes by its fiery gaze.
+- **B765.15** — Snake stands up, whistles.
+- **B765.16** — Snake has stinger.
+- **B765.17** — Bullets have no effect on giant serpent; only stroke of lightning effective.
+- **B765.18** — Snake avoids object.
+- **B765.18.1** — Snake avoids white ash.
+- **B765.18.2** — Snakes will not cross rope made of hair.
+- **B765.18.3** — Snakes will not cross a ring made of Irish earth.
+- **B765.19** — Detached snake fang kills person or animal.
+- **B765.20** — Snake kills man who has killed snake's mate.
+- **B765.21** — Snake revives snakes which have been injured (the doctor snake).
+- **B765.22** — King snake: kills and eats any snake that does not accept his authority.
+- **B765.23** — Snake with legs.
+- **B765.24** — Dragon fly serves as snake's servant, feeds snake; it is called snake-feeder.
+- **B765.24.1** — Dragon fly acts as doctor to injured snakes.
+- **B765.25** — Female snake seven years pregnant.
+- **B765.26** — Palm tree grows on serpent's body.
+- **B766** — Fanciful dangers from animals.
+- **B766.1** — Cat mutilates corpses.
+- **B766.1.1** — Cat must be kept from dying person because it will catch the person's soul issuing (from mouth) in form of mouse.
+- **B766.2** — Cat sucks sleeping child's breath.
+- **B766.3** — Toads suck blood.
+- **B766.4** — Bite of white she-mule causes certain death.
+- **B767** — Animals attracted by music.
+- **B767.1** — Fish follow sound of music.
+- **B768** — Fancied nourishment of animals.
+- **B768.1** — Partridge subsists on moonbeams.
+- **B768.2** — Salamander subsists on fire.
+- **B768.3** — Swans live on pearls.
+- **B768.4** — Serpent subsists on dust.
+- **B770** — Other fanciful traits of animals.
+- **B771** — Wild animal miraculously tamed.
+- **B771.0.1** — Wild animal will not harm chaste woman.
+- **B771.1** — Animal tamed by maiden's beauty.
+- **B771.2** — Animal tamed by holiness of saint.
+- **B771.2.1** — Hungry lions do not harm saint.
+- **B771.2.2** — Animal tamed by saint's prayer.
+- **B771.2.3** — Lions made tame by Moses' rod.
+- **B771.3** — Wild animal will not attack royal person.
+- **B771.4** — Fish trained to answer person's call.
+- **B771.5** — Wild animal performs for king.
+- **B772** — Shipwrecked man repulsed by animals.
+  *As he floats to shore animals push him back into water.*
+- **B773** — Animals with human emotions.
+- **B773.1** — Animal feels agitation at sight of native land.
+- **B773.2** — Animal (lion) pines away with grief upon his friend's grave.
+- **B773.3** — Lion (wolf) protects the saint's body.
+- **B775** — Stork is man while hibernating in Egypt.
+- **B776** — Venomous animals.
+- **B776.0.1** — Garlic juice dangerous to poisonous animals.
+- **B776.1** — Venomous sheep destroy enemy.
+- **B776.2** — Toad considered venomous.
+- **B776.3** — Venomous hound.
+- **B776.3.1** — Venomous dog loosed against saint.
+- **B776.3.2** — Mud puppy considered poisonous.
+- **B776.4** — Venomous swine.
+- **B776.4.1** — Pig with venomous bristles.
+- **B776.4.2** — Venomous boar.
+- **B776.5** — Blood of animal considered venomous.
+- **B776.5.1** — Blood of toad venomous.
+- **B776.5.2** — Blood of lion venomous.
+- **B776.5.3** — Blood of snakes venomous.
+- **B776.5.4** — Blood of otter venomous.
+- **B776.5.5** — Blood of bear venomous.
+- **B776.6** — Venomous worm.
+- **B776.7** — Venomous serpent.
+- **B777** — Breath of bird withers.
+- **B781** — Animal "drinks apart" mixed liquids.
+  *Separates the parts while drinking.*
+- **B782** — Sheep sleeps if anyone ties shoe to its ear.
+- **B783** — Swine maddened by smell of oak forest.
+- **B784** — Animal lives in person's stomach.
+- **B784.0.1** — Frog living in person's stomach rises into throat, croaks every spring.
+- **B784.1** — How animal gets into person's stomach (or body) (various methods).
+- **B784.1.1** — Person drinking from brook swallows animal eggs (frog or newt).
+- **B784.1.2** — Person swallows pebble on beach; snake grows in stomach.
+- **B784.1.3** — Person swallows snake semen or egg while eating watercress.
+- **B784.1.4** — Girl swallows frog spawn; an octopus grows inside her with tentacles reaching to every part of her body.
+- **B784.1.5** — Swallowed blackbeetle reproduces inside person's body.
+- **B784.1.6** — Girl eats plums and maggots in them; maggots multiply inside her body.
+- **B784.1.7** — Scaly lizard jumps into person's mouth.
+- **B784.1.8** — Salamander gets into veins through cracks in feet when person goes barefoot.
+- **B784.2** — Means of ridding person of animal in stomach.
+- **B784.2.0.1** — No remedy possible.
+- **B784.2.1** — Patient fed salt: animal comes out for water.
+  *The patient is fed salt or heavily salted food and allowed no water for several days. He then stands with mouth open before a supply of fresh water, often a running brook. The thirsty animal emerges to get fresh water.*
+- **B784.2.1.1** — Snake (frog) in human body enticed out by milk (water).
+- **B784.2.1.2** — Husband ties a cock near wife's feet: snake-parasite in her stomach comes out to catch the cock and is killed by husband.
+- **B784.2.2** — Patient sits before tempting meal without eating; animal emerges.
+- **B784.2.3** — Frog is enticed from patient's mouth by offering it a piece of cheese.
+- **B784.2.4** — Physician removes animal from stomach of patient.
+- **B785** — Animal wards off spirits.
+- **B786** — Monkeys always copy men.
+- **B787** — Birds mock ascetic's devotions.
+- **B788** — Bats keep fireflies to light their houses.
+- **B791** — Elephants have power of bringing rain.
+- **B792** — Why certain animals are thought of as good or bad.
+
+## Miscellaneous animal motifs
+
+- **B800** — Miscellaneous animal motifs.
+- **B801** — Elephants in folktales.
+- **B802** — Horses in tales and legends.
+- **B811** — Sacred animals.
+- **B811.1** — Sacred horse.
+- **B811.1.1** — Helpful horses descended from heaven.
+- **B811.2** — Sacred armadillo.
+- **B811.3** — Sacred animal: cow.
+- **B811.3.1** — Sacred buffalo.
+- **B811.3.2** — Sacred bull.
+- **B811.3.3** — Sacred cattle of sun god.
+- **B811.4** — Sacred cat.
+- **B811.5** — Sacred swan.
+- **B811.6** — Sacred fox.
+- **B831** — Animals try in vain to repair sleigh.
+  *They get unsatisfactory materials.*
+- **B841** — Long-lived animals.
+- **B841.1** — Animals debate as to which is the elder.
+- **B841.2** — Ages of animals (birds, fish) compared with age of human beings.
+- **B841.2.1** — Crow lives nine generations of men, deer 36, raven 108, phoenix 972, nymphs 9720.
+- **B841.3** — Dog so old his head is skinless.
+- **B841.4** — Stags live one thousand years.
+- **B842** — Faithful old dog to be killed.
+- **B842.1** — Faithful old horse to be abandoned.
+- **B843** — Immortal animals.
+- **B843.1** — Immortal serpent.
+- **B843.2** — Immortal donkey.
+- **B845** — Wild animals herded.
+- **B845.1** — Wild pigs kept by demigod as if domesticated.
+- **B845.2** — Animals chained in couples.
+- **B846** — Monkeys construct a bridge across the ocean.
+- **B847** — Lions placed in city to prevent entrance.
+- **B848** — Man unharmed in den of animals.
+- **B848.1** — The musician in the wolf-trap: meets wolf already trapped, and saves himself by playing music.
+- **B848.2** — Girl removes dog from lion's claws without being harmed.
+- **B852** — When cow calls her calf, all cattle graze.
+- **B853** — Birds perch on ears of cows.
+- **B854** — Each of grazing herd of cows eats same amount.
+- **B855** — Man and bear in the rick of hay.
+  *The bear, persecuted by wolves, runs onto the hay-rick where the man was hidden, and defends himself from the wolves with bunches of hay.*
+- **B857** — Animal avenges injury.
+- **B870** — Giant animals.
+- **B870.1** — Animal extraordinarily heavy for size.
+- **B871** — Giant beasts.
+- **B871.1** — Giant domestic beasts.
+- **B871.1.1** — Giant cow.
+- **B871.1.1.1** — Giant ox.
+- **B871.1.1.1.1** — Gigantic ox-rib (in otherworld).
+- **B871.1.1.2** — Giant bull.
+- **B871.1.1.3** — Giant buffalo.
+- **B871.1.2** — Giant boar.
+- **B871.1.2.0.1** — Giant boar with hinder part as large as can be carried by nine men.
+- **B871.1.2.1** — Giant hog.
+- **B871.1.2.1.1** — Gigantic hog-rib (in otherworld).
+- **B871.1.3** — Giant sheep.
+- **B871.1.4** — Giant goat.
+- **B871.1.5** — Giant horse: hair from the tail is seven yards.
+- **B871.1.6** — Giant cat.
+- **B871.1.7** — Giant dog (hound).
+- **B871.2** — Giant wild beasts.
+- **B871.2.1** — Giant elephant.
+- **B871.2.2** — Giant tiger.
+- **B871.2.3** — Giant panther.
+- **B871.2.4** — Giant hippopotamus.
+- **B871.2.5** — Giant lion.
+- **B871.2.6** — Giant walrus.
+- **B871.2.7** — Giant mice.
+- **B871.2.8** — Giant hare.
+- **B871.2.9** — Giant armadillo.
+- **B872.1** — Giant eagle.
+- **B872.2** — Giant gull.
+- **B872.3** — Giant falcon.
+- **B872.4** — Giant auk.
+- **B873** — Giant insects.
+- **B873.1** — Giant louse.
+- **B873.2** — Giant scorpion.
+- **B873.3** — Giant spider.
+- **B873.4** — Giant ant.
+- **B874** — Giant fish.
+- **B874.1** — Giant river catfish.
+- **B874.2** — Giant eel.
+- **B874.3** — Giant whale.
+- **B874.3.1** — Whale cast ashore three golden teeth and five ounces in each of these teeth.
+- **B874.3.2** — Giant whale cast ashore on the night of Christ's Nativity: "fifty men were on the upper parts of its head, and (there was) the limit of vision between each two of them.
+  *Such was the amount of ground which the animal occupied.*
+- **B874.4** — Giant salmon.
+- **B874.5** — Giant shark.
+- **B874.6** — Giant clam.
+- **B875** — Giant reptiles.
+- **B875.1** — Giant serpent.
+- **B875.2** — Giant crocodile.
+- **B875.3** — Giant turtle.
+- **B875.4** — Giant tortoise.
+- **B876** — Giant amphibia and other animal forms.
+- **B876.1** — Giant frog.
+- **B876.2** — Giant crustacean.
+- **B876.2.1** — Giant crab.
+- **B877** — Giant mythical animals.
+- **B877.1** — Giant sea monster.
+- **B877.1.1** — Giant water monster attacks man.
+- **B877.1.2** — Giant sea monster overpowered by saint.
+- **B877.2** — Gigantic animal ("reem").
+- **B877.3** — Djun, gigantic and ferocious river animal.
+- **B878** — Giant flock of animals (birds.)
+- **B878.1** — Giant flock of birds.
+- **B878.1.1** — Flock of birds so numerous that it shakes trees upon which it perches.

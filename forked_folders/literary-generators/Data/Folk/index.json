@@ -1,0 +1,401 @@
+{
+  "collections": [
+    {
+      "id": "aesop",
+      "name": "Aesop's Fables",
+      "count": 57,
+      "works": [
+        {
+          "file": "androcles_and_the_lion.json",
+          "title": "Androcles and the Lion"
+        },
+        {
+          "file": "belling_the_cat.json",
+          "title": "Belling the Cat"
+        },
+        {
+          "file": "the_ant_and_the_grasshopper.json",
+          "title": "The Ant and the Grasshopper"
+        },
+        {
+          "file": "the_ass_and_the_grasshopper.json",
+          "title": "The Ass and the Grasshopper"
+        },
+        {
+          "file": "the_ass_in_the_lions_skin.json",
+          "title": "The Ass in the Lion's Skin"
+        },
+        {
+          "file": "the_astrologer_who_fell_into_a_well.json",
+          "title": "The Astrologer Who Fell into a Well"
+        },
+        {
+          "file": "the_bat_and_the_weasels.json",
+          "title": "The Bat and the Weasels"
+        },
+        {
+          "file": "the_bee_and_the_dove.json",
+          "title": "The Bee and the Dove"
+        },
+        {
+          "file": "the_blind_man_and_the_lame.json",
+          "title": "The Blind Man and the Lame"
+        },
+        {
+          "file": "the_boy_who_cried_wolf.json",
+          "title": "The Boy Who Cried Wolf"
+        },
+        {
+          "file": "the_bundle_of_sticks.json",
+          "title": "The Bundle of Sticks"
+        },
+        {
+          "file": "the_camel_and_the_arab.json",
+          "title": "The Camel and the Arab"
+        },
+        {
+          "file": "the_cock_and_the_fox.json",
+          "title": "The Cock and the Fox"
+        },
+        {
+          "file": "the_crow_and_the_pitcher.json",
+          "title": "The Crow and the Pitcher"
+        },
+        {
+          "file": "the_dog_and_its_reflection.json",
+          "title": "The Dog and Its Reflection"
+        },
+        {
+          "file": "the_dog_in_the_manger.json",
+          "title": "The Dog in the Manger"
+        },
+        {
+          "file": "the_farmer_and_his_sons.json",
+          "title": "The Farmer and His Sons"
+        },
+        {
+          "file": "the_farmer_and_the_stork.json",
+          "title": "The Farmer and the Stork"
+        },
+        {
+          "file": "the_fisherman_and_the_fish.json",
+          "title": "The Fisherman and the Fish"
+        },
+        {
+          "file": "the_four_oxen_and_the_lion.json",
+          "title": "The Four Oxen and the Lion"
+        },
+        {
+          "file": "the_fox_and_the_crow.json",
+          "title": "The Fox and the Crow"
+        },
+        {
+          "file": "the_fox_and_the_grapes.json",
+          "title": "The Fox and the Grapes"
+        },
+        {
+          "file": "the_fox_and_the_hedgehog.json",
+          "title": "The Fox and the Hedgehog"
+        },
+        {
+          "file": "the_fox_and_the_stork.json",
+          "title": "The Fox and the Stork"
+        },
+        {
+          "file": "the_fox_without_a_tail.json",
+          "title": "The Fox Without a Tail"
+        },
+        {
+          "file": "the_frog_and_the_ox.json",
+          "title": "The Frog and the Ox"
+        },
+        {
+          "file": "the_gnat_and_the_bull.json",
+          "title": "The Gnat and the Bull"
+        },
+        {
+          "file": "the_goose_that_laid_the_golden_eggs.json",
+          "title": "The Goose That Laid the Golden Eggs"
+        },
+        {
+          "file": "the_heron.json",
+          "title": "The Heron"
+        },
+        {
+          "file": "the_horse_and_the_stag.json",
+          "title": "The Horse and the Stag"
+        },
+        {
+          "file": "the_jackdaw_and_the_peacocks.json",
+          "title": "The Jackdaw and the Peacocks"
+        },
+        {
+          "file": "the_kid_and_the_wolf.json",
+          "title": "The Kid and the Wolf"
+        },
+        {
+          "file": "the_lark_and_her_young_ones.json",
+          "title": "The Lark and Her Young Ones"
+        },
+        {
+          "file": "the_lion_and_the_mouse.json",
+          "title": "The Lion and the Mouse"
+        },
+        {
+          "file": "the_lion_in_love.json",
+          "title": "The Lion in Love"
+        },
+        {
+          "file": "the_mice_in_council.json",
+          "title": "The Mice in Council"
+        },
+        {
+          "file": "the_milkmaid_and_her_pail.json",
+          "title": "The Milkmaid and Her Pail"
+        },
+        {
+          "file": "the_miser_and_his_gold.json",
+          "title": "The Miser and His Gold"
+        },
+        {
+          "file": "the_mountains_in_labour.json",
+          "title": "The Mountains in Labour"
+        },
+        {
+          "file": "the_north_wind_and_the_sun.json",
+          "title": "The North Wind and the Sun"
+        },
+        {
+          "file": "the_oak_and_the_reed.json",
+          "title": "The Oak and the Reed"
+        },
+        {
+          "file": "the_old_man_and_death.json",
+          "title": "The Old Man and Death"
+        },
+        {
+          "file": "the_peacock_and_the_crane.json",
+          "title": "The Peacock and the Crane"
+        },
+        {
+          "file": "the_porcupine_and_the_snakes.json",
+          "title": "The Porcupine and the Snakes"
+        },
+        {
+          "file": "the_shepherd_and_the_wolf.json",
+          "title": "The Shepherd and the Wolf"
+        },
+        {
+          "file": "the_stag_at_the_pool.json",
+          "title": "The Stag at the Pool"
+        },
+        {
+          "file": "the_swallow_and_the_crow.json",
+          "title": "The Swallow and the Crow"
+        },
+        {
+          "file": "the_thirsty_crow.json",
+          "title": "The Thirsty Crow"
+        },
+        {
+          "file": "the_tortoise_and_the_eagle.json",
+          "title": "The Tortoise and the Eagle"
+        },
+        {
+          "file": "the_tortoise_and_the_hare.json",
+          "title": "The Tortoise and the Hare"
+        },
+        {
+          "file": "the_town_mouse_and_the_country_mouse.json",
+          "title": "The Town Mouse and the Country Mouse"
+        },
+        {
+          "file": "the_travellers_and_the_bear.json",
+          "title": "The Travellers and the Bear"
+        },
+        {
+          "file": "the_two_pots.json",
+          "title": "The Two Pots"
+        },
+        {
+          "file": "the_wild_boar_and_the_fox.json",
+          "title": "The Wild Boar and the Fox"
+        },
+        {
+          "file": "the_wolf_and_the_crane.json",
+          "title": "The Wolf and the Crane"
+        },
+        {
+          "file": "the_wolf_and_the_lamb.json",
+          "title": "The Wolf and the Lamb"
+        },
+        {
+          "file": "the_wolf_in_sheeps_clothing.json",
+          "title": "The Wolf in Sheep's Clothing"
+        }
+      ]
+    },
+    {
+      "id": "grimm",
+      "name": "Grimm's Fairy Tales",
+      "count": 25,
+      "works": [
+        {
+          "file": "allerleirauh.json",
+          "title": "Allerleirauh"
+        },
+        {
+          "file": "briar_rose.json",
+          "title": "Briar Rose (Sleeping Beauty)"
+        },
+        {
+          "file": "cinderella.json",
+          "title": "Cinderella"
+        },
+        {
+          "file": "godfather_death.json",
+          "title": "Godfather Death"
+        },
+        {
+          "file": "hansel_and_gretel.json",
+          "title": "Hansel and Gretel"
+        },
+        {
+          "file": "iron_hans.json",
+          "title": "Iron Hans"
+        },
+        {
+          "file": "little_red_riding_hood.json",
+          "title": "Little Red Riding Hood"
+        },
+        {
+          "file": "rapunzel.json",
+          "title": "Rapunzel"
+        },
+        {
+          "file": "rumpelstiltskin.json",
+          "title": "Rumpelstiltskin"
+        },
+        {
+          "file": "snow_white.json",
+          "title": "Snow White"
+        },
+        {
+          "file": "the_blue_light.json",
+          "title": "The Blue Light"
+        },
+        {
+          "file": "the_bremen_town_musicians.json",
+          "title": "The Bremen Town Musicians"
+        },
+        {
+          "file": "the_clever_peasant_girl.json",
+          "title": "The Clever Peasant Girl"
+        },
+        {
+          "file": "the_devil_with_three_golden_hairs.json",
+          "title": "The Devil with the Three Golden Hairs"
+        },
+        {
+          "file": "the_fisherman_and_his_wife.json",
+          "title": "The Fisherman and His Wife"
+        },
+        {
+          "file": "the_frog_prince.json",
+          "title": "The Frog Prince"
+        },
+        {
+          "file": "the_golden_goose.json",
+          "title": "The Golden Goose"
+        },
+        {
+          "file": "the_goose_girl.json",
+          "title": "The Goose Girl"
+        },
+        {
+          "file": "the_nixie_of_the_mill_pond.json",
+          "title": "The Nixie of the Mill-Pond"
+        },
+        {
+          "file": "the_six_swans.json",
+          "title": "The Six Swans"
+        },
+        {
+          "file": "the_twelve_dancing_princesses.json",
+          "title": "The Twelve Dancing Princesses"
+        },
+        {
+          "file": "the_valiant_little_tailor.json",
+          "title": "The Valiant Little Tailor"
+        },
+        {
+          "file": "the_water_of_life.json",
+          "title": "The Water of Life"
+        },
+        {
+          "file": "the_worn_out_dancing_shoes.json",
+          "title": "The Worn-Out Dancing Shoes"
+        },
+        {
+          "file": "tom_thumb.json",
+          "title": "Tom Thumb"
+        }
+      ]
+    },
+    {
+      "id": "norse",
+      "name": "Poetic Edda",
+      "count": 12,
+      "works": [
+        {
+          "file": "baldrs_draumar.json",
+          "title": "Baldrs draumar"
+        },
+        {
+          "file": "grimnismal.json",
+          "title": "Gr\u00edmnism\u00e1l"
+        },
+        {
+          "file": "havamal.json",
+          "title": "H\u00e1vam\u00e1l"
+        },
+        {
+          "file": "hymiskvioa.json",
+          "title": "Hymiskvi\u00f0a"
+        },
+        {
+          "file": "lokasenna.json",
+          "title": "Lokasenna"
+        },
+        {
+          "file": "rigstula.json",
+          "title": "R\u00edgs\u00feula"
+        },
+        {
+          "file": "sigrdrifumal.json",
+          "title": "Sigrdr\u00edfum\u00e1l"
+        },
+        {
+          "file": "skirnismal.json",
+          "title": "Sk\u00edrnism\u00e1l"
+        },
+        {
+          "file": "thrymskvioa.json",
+          "title": "Thrymskvi\u00f0a"
+        },
+        {
+          "file": "vaftrudnismal.json",
+          "title": "Vaf\u00fer\u00fa\u00f0nism\u00e1l"
+        },
+        {
+          "file": "volundarkvioa.json",
+          "title": "V\u00f6lundarkvi\u00f0a"
+        },
+        {
+          "file": "voluspa.json",
+          "title": "V\u00f6lusp\u00e1"
+        }
+      ]
+    }
+  ]
+}

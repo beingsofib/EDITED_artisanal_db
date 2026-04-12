@@ -1,0 +1,1144 @@
+# V. Religion
+
+> Motif-Index of Folk-Literature · 1051 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Religious services
+
+- **V0** — Religious services.
+- **V1** — Objects of worship.
+- **V1.1** — Worship of particular gods and goddesses.
+- **V1.1.1** — Worship of one god.
+- **V1.2** — Worship of spirits.
+- **V1.2.1** — Worship of fairies.
+- **V1.2.2** — Worship of devil.
+- **V1.2.3** — Worship of "disar".
+- **V1.2.4** — Worship of angels.
+- **V1.3** — Worship of ancestors.
+- **V1.4** — Worship of heavenly bodies.
+- **V1.4.1** — Worship of the sky.
+- **V1.4.2** — Worship of the sun.
+- **V1.4.3** — Worship of moon.
+- **V1.4.4** — Worship of stars.
+- **V1.5** — Worship of manifestations in nature.
+- **V1.5.1** — Worship of clouds.
+- **V1.5.2** — Worship of thunder.
+- **V1.5.3** — Worship of wind.
+- **V1.5.4** — Worship of storm.
+- **V1.5.5** — Worship of dawn.
+- **V1.5.6** — Worship of light.
+- **V1.5.6.1** — Worship of rainbow.
+- **V1.5.7** — Worship of frost.
+- **V1.6** — Worship of elements of nature.
+- **V1.6.1** — Worship of earth.
+- **V1.6.1.1** — Worship of mountains and hills.
+- **V1.6.2** — Worship of water.
+- **V1.6.2.0.1** — Worship of water-goddess.
+- **V1.6.2.1** — Sacred rivers and lakes.
+- **V1.6.2.2** — Worship of sea.
+- **V1.6.3** — Worship of fire.
+- **V1.6.3.1** — Sacred fire.
+- **V1.6.3.1.1** — (Sacrificial) fire from which all others must be lighted.
+- **V1.6.4** — Worship of minerals and metals.
+- **V1.6.4.1** — Sacred stones.
+- **V1.6.4.2** — Sacred shells.
+- **V1.7** — Worship of trees and plants.
+- **V1.7.1** — Sacred tree.
+- **V1.7.1.1** — Sacred oak.
+- **V1.7.1.2** — Sacred ash.
+- **V1.7.1.3** — Sacred yew.
+- **V1.7.1.4** — Sacred bo-tree.
+- **V1.8** — Worship of animals.
+- **V1.8.1** — Cow worship.
+- **V1.8.1.1** — Bull worship.
+- **V1.8.2** — Horse worship.
+- **V1.8.3** — Dog worship.
+- **V1.8.4** — Swine worship.
+- **V1.8.5** — Wolf worship.
+- **V1.8.6** — Serpent worship.
+- **V1.8.7** — Bird worship.
+- **V1.8.8** — Dragon worship.
+- **V1.8.9** — Lion worship.
+- **V1.8.10** — Ass worship.
+- **V1.8.11** — Fish worship.
+- **V1.9** — Worship of tools and implements.
+- **V1.9.1** — Plow worship.
+- **V1.9.2** — Worship of weapons.
+- **V1.9.3** — Worship of hammer (axe).
+- **V1.10** — Worship of fetish.
+- **V1.10.1** — Man worships a cake which from time to time he eats.
+- **V1.10.2** — Cult of heads.
+- **V1.10.3** — Sacred feather.
+- **V1.11** — Worship of idols.
+- **V1.11.1** — Worship of golden calf.
+- **V1.11.2** — Worship of stone idols.
+- **V1.11.3** — Worship of wooden idol.
+- **V4** — Value of religious exercises.
+- **V4.1** — Religious exercises weighed in balance.
+  *A son doubts whether the words spoken by the priests to whom his father has willed a sum of money is worth so much. The words are put on paper and are found to outweigh the money.*
+- **V5** — Negligence in religious exercise.
+- **V5.1** — Virgin Mary reproves a monk who sleeps at altar.
+- **V5.2** — Negligent priests buried under bags filled with words omitted from service.
+- **V5.3** — Devils cause monk to perspire and stay away from church service.
+- **V10** — Religious sacrifices.
+- **V10.1** — Goddess prevents suicide of man despairing of ability to make sacrifice.
+- **V10.2** — God dislikes offerings beyond one's ability.
+- **V11** — Power to which sacrifice is made.
+- **V11.1** — Sacrifice to tree.
+- **V11.2** — Sacrifice to sea.
+- **V11.2.1** — Sacrifice to river.
+- **V11.3** — Sacrifice to stone.
+- **V11.4** — Sacrifices to Confucius.
+- **V11.5** — Sacrifice to wind.
+- **V11.6** — Sacrifice to the dead.
+- **V11.6.1** — Human sacrifice in connection with funeral.
+- **V11.6.2** — Animal sacrifice in connection with funeral.
+- **V11.7** — Sacrifice to animal.
+- **V11.7.1** — Sacrifice to serpent.
+- **V11.8** — Sacrifice to saint.
+- **V11.9** — Sacrifice to deity.
+- **V11.9.1** — Sacrifice to unknown god.
+- **V11.10** — Sacrifice to idols.
+- **V12** — Nature of sacrifice.
+- **V12.1** — Blood as sacrifice.
+- **V12.2** — Jewels as sacrifice to sea.
+- **V12.3** — Skulls as sacrifice to a god.
+- **V12.4** — Animals as sacrifice.
+- **V12.4.0.1** — Sacrifice of animals at the edification of a temple.
+- **V12.4.1** — Dog as sacrifice.
+- **V12.4.2** — Cat as sacrifice.
+- **V12.4.3** — Pig as sacrifice.
+- **V12.4.3.1** — Hog as sacrifice.
+- **V12.4.4** — Ox (bull) as sacrifice.
+- **V12.4.4.1** — Cow as sacrifice.
+- **V12.4.4.1.1** — Heifer as sacrifice.
+- **V12.4.4.2** — Calf as sacrifice.
+- **V12.4.5** — Goat as sacrifice.
+- **V12.4.6** — Sheep (ram) as sacrifice.
+- **V12.4.7** — Hare as sacrifice.
+- **V12.4.8** — Ass as sacrifice.
+- **V12.4.9** — Horse as sacrifice.
+- **V12.4.10** — Fish as sacrifice.
+- **V12.4.11** — Bird as sacrifice.
+- **V12.5** — Gold as sacrifice to false wooden god.
+- **V12.6** — Thrall as sacrifice.
+- **V12.7** — Eyes (human or animal) as sacrifice.
+- **V12.8** — Flowers as sacrifice.
+- **V12.9** — Libations.
+  *Drink poured out to the gods.*
+- **V12.10** — Incense as sacrifice.
+- **V13** — Sacrifice made when treasure is found.
+- **V14** — Sacrifice must be without blemish.
+- **V15** — Sacrifice: olive branch laid on altar of Mercy.
+- **V16** — Sacrifice at religious festivals.
+- **V16.1** — Sacrifices at Passover.
+- **V17** — Purpose of sacrifice.
+- **V17.0.1** — Sacrifice to deity in order to obtain favors.
+- **V17.1** — Sacrifice for a good year, crops.
+- **V17.2** — Sacrifice after committing a sin.
+- **V17.3** — Sacrifice to get help in danger.
+- **V17.4** — Sacrifice for good weather.
+- **V17.4.1** — Sacrifice to get snow and good conditions for skiing.
+- **V17.5** — Sacrifice to get knowledge.
+- **V17.5.1** — Sacrifice to find out where abducted daughter is.
+- **V17.6** — Sacrifice in order that king may live 300 years.
+- **V17.7** — Sacrifice to deity for return of abducted persons.
+- **V17.8** — Sacrifice at edification of temple.
+- **V17.9** — Sacrifice by women at childbirth.
+- **V18** — Ceremony of sacrifice.
+- **V19** — Religious sacrifices miscellaneous.
+- **V19.1** — Rising smoke as sign of acceptance of sacrifice.
+- **V20** — Confession of sins.
+- **V20.1** — Protection of sinners by confession.
+- **V20.1.1** — A man without a confessor is a body without a head.
+- **V20.1.2** — Confessor as "soul-friend".
+- **V21** — Confession brings forgiveness of sin.
+- **V21.1** — Sincere confession miraculously obliterated as sign of forgiveness.
+- **V21.2** — Woman confesses murder: unharmed by execution fire.
+- **V21.3** — Confession of monk who intended to rob monastery brings forgiveness.
+  *Eventually elected prior.*
+- **V21.4** — Prior pardons sinning friar who has confessed.
+- **V21.5** — Sinner confesses before sinning and thus is pardoned.
+- **V21.6** — Sinner's tearmarks on written confession cause bishop to pardon his sins.
+- **V22** — Condemnation because of death without confession.
+- **V23** — Miracle to permit confession.
+- **V23.1** — Unshriven man restored to life in order to confess.
+- **V23.2** — Dumb man recovers speech in order to confess.
+- **V24** — Miraculous manifestation at confession.
+- **V24.1** — Confession of sins of a pilgrim calms a great storm at sea.
+- **V25** — Easy confession not effective.
+- **V25.1** — Man returns from dead to protest against priest who has been too easy with him at confession.
+- **V25.2** — Confession without giving up sin punished.
+- **V27** — Penance magically concluded by confession.
+- **V29** — Confession miscellaneous motifs.
+- **V29.1** — Search for confessor.
+  *Great sinner sent from one confessor to another. All say that his sins are too great for forgiveness. Finally he succeeds.*
+- **V29.2** — Monks shrive selves clean under threat of complete exposure of their sins by brother possessed of fiend.
+- **V29.3** — Miracle attests fact that man does not need to confess.
+  *He hangs his sack on a sunbeam.*
+- **V29.4** — Sodomist makes sport of confession.
+- **V29.5** — Unnecessary for husband to confess as his wife has already done it for him.
+- **V29.6** — Penitent brings manuscript of sins to confession.
+- **V29.6.1** — List of sins: schedule is returned miraculously cleansed of all his sins.
+- **V29.7** — Confessor and penitent exchange confidences.
+  *Balance sins and cancel wrongs.*
+- **V29.8** — The devil goes to confession.
+  *Performs very severe penance, but cannot bear to humble himself and to stoop before the altar.*
+- **V29.9** — Extortionate confessor demands golden statue.
+- **V30** — Sacrament.
+- **V30.1** — The eaten god.
+- **V30.1.1** — Flesh of Artemis eaten as quail or bear.
+- **V31** — Unconsecrated host.
+- **V31.1** — Host taken away from sinful priest.
+- **V31.2** — Unconsecrated host ineffective.
+- **V31.3** — Unconsecrated host refused.
+- **V31.4** — Altar casts away host with louse baked in it.
+- **V31.5** — Devil eats unblessed bread.
+- **V32** — Host miraculously given when it is refused a man by the priest.
+- **V33** — Incredulity as to sacredness of host punished.
+- **V33.1** — Incredulity as to sacredness of host confounded by miraculous appearance.
+- **V33.1.1** — Incredulity of true transformation of host banished by actual appearance of Jesus's body and blood.
+- **V34** — Miraculous working of the host.
+- **V34.1** — Host cures disease.
+- **V34.2** — Princess sick because toad has swallowed her consecrated wafer.
+- **V34.3** — Man who has received sacrament overcomes enemy, a blasphemer.
+- **V34.4** — Clothes of knight who kneels in mud before host as it passes miraculously kept clean.
+- **V35** — The stolen sacrament.
+- **V35.1** — Jews bribe woman to steal host for them: miraculous manifestations.
+- **V35.1.1** — Horse kneels before stolen sacrament.
+- **V35.1.2** — Sacred image miraculously appears on stolen sacrament.
+- **V35.2** — Stolen sacred hosts put into coffin.
+  *Before death, a woman asks to put a bag into coffin. It is filled with hosts.*
+- **V39** — Sacrament miscellaneous motifs.
+- **V39.1** — Man considering self unworthy to receive host given it by God himself.
+- **V39.2** — Wicked woman unable to endure presence of host at mass.
+- **V39.3** — Sacrament effective even from unworthy priest.
+  *Man who has refused such a sacrament shown a vision of a leper giving men good water without harm.*
+- **V39.4** — Vision of sacrament in form of young child.
+- **V39.5** — Sacred image appears on host.
+  *Woman who has vowed not to use make-up or ornaments thus rewarded.*
+- **V39.6** — Host given as pledge to keep one's word.
+- **V39.7** — Voice from grave asks that it be opened.
+  *Corpse spits out host because he has missed confession.*
+- **V39.8** — Sick men die and go to hell because they hesitate to take sacrament.
+- **V39.9** — Woman who eats before communion cannot swallow the wafer.
+- **V40** — Mass.
+- **V41** — Masses work miracles.
+- **V41.1** — Imprisoned miner kept alive by masses performed by his wife.
+- **V41.2** — Hearing masses causes triumph in tournament.
+  *Angel takes absent knight's place. He is delayed by going to mass.*
+- **V42** — Masses release souls from hell (purgatory).
+- **V43** — Holy man has his own mass.
+- **V44** — Faithful attendance at mass outweighs evil deeds.
+- **V45** — Mass said for dead; they arise and say "Amen".
+- **V46** — Pebble put in box each time mass is heard.
+- **V48** — The canonical hours.
+- **V49** — Mass miscellaneous motifs.
+- **V49.1** — Werwolves hold mass.
+- **V49.2** — Angel holds mass in church on the day that the king absents himself for sake of hunting trip.
+- **V50** — Prayer.
+- **V51** — Learning to pray.
+- **V51.1** — Man who does not know how to pray so holy that he walks on water.
+- **V51.2** — Worldly-minded learn to pray by thinking of their usual business.
+- **V51.3** — Woman shows that the Lord's Prayer is the best.
+- **V51.4** — Woman taught that it is better to pray before Christ's image than before a saint's.
+- **V51.5** — "Beatus" best prayer for saving condemned souls.
+- **V52** — Miraculous power of prayer.
+- **V52.1** — Man saved from lechery through prayer.
+- **V52.2** — Continuous prayer sustains man through frightful vigil.
+- **V52.3** — Prayer before battle brings victory.
+- **V52.4** — Objects supplied through prayer.
+- **V52.5** — Prayer restores shattered vessel.
+- **V52.6** — Mariners saved from maelstrom through prayer.
+- **V52.7** — Prayer at saint's flagstone averts trouble.
+- **V52.8** — Prayer brings death to enemy.
+- **V52.9** — Prayer for protection on journey to land of dead.
+- **V52.10** — Prayers of devout woman free husband from death and imprisonment.
+- **V52.11** — Prayer of sinner changes his color from black into white.
+- **V52.12** — The clever brothers work, the foolish brother only prays; finally he acquires all the property.
+- **V52.13** — Saint's Paternoster outweighs ox.
+- **V52.14** — Reciting martyrology will prevent decomposition of body of one who recites it.
+- **V52.15** — Prayer said by saint into his right hand restores displaced eye of opponent.
+- **V53** — Prayers of family comfort prisoner.
+- **V53.1** — Prayer unfastens boy's fetters.
+- **V55** — Man worships devil's image in order to secure advancement.
+- **V57** — Purpose of prayer.
+- **V57.1** — Prayer for good harvest.
+- **V57.2** — Prayer for shower of gold.
+- **V57.3** — Prayer on special occasions.
+- **V58** — Prayer as ceremony.
+- **V58.1** — Prayers at sunrise and sunset.
+- **V58.2** — Prayer with face toward east.
+- **V58.3** — Repeated circumambulations with prayer.
+- **V58.4** — Handwashing before prayer.
+- **V58.5** — Prayer shawl.
+- **V59** — Prayers answered miscellaneous.
+- **V59.1** — Skill in theft granted as answer to prayer.
+- **V60** — Funeral rites.
+- **V60.1** — Stones sold at funeral wakes.
+- **V60.2** — Funeral rites by druids.
+- **V61** — Various ways of disposing of dead.
+- **V61.1** — Dead placed on boat.
+- **V61.2** — Dead burned on pyre.
+  *(Cremation.)*
+- **V61.3** — Coffin buried upright.
+- **V61.3.0.1** — Hero buried in armor, standing with face toward land of enemies.
+- **V61.3.0.2** — Person buried in standing position with friends about him.
+- **V61.3.0.3** — Man buried upright beneath kitchen stairway in order that he may watch his family.
+- **V61.4** — Head buried one place, body another.
+- **V61.4.1** — Corpse buried face down.
+- **V61.4.2** — Dismemberment before burial.
+- **V61.5** — King buried in his war car.
+- **V61.6** — Christian buried in stone coffin.
+- **V61.7** — Christian buried in wooden coffin.
+- **V61.8** — Burial in grave-mound.
+- **V61.8.1** — Chiefs buried in hidden caves.
+- **V61.9** — Lion buried in stone cave with gold letters.
+- **V61.10** — Corpses exposed in tree.
+- **V61.11** — Aversion to burial in "strange city".
+- **V62** — Restrictions on burial.
+- **V62.1** — Funeral rites forbidden.
+- **V62.2** — Only usurers to carry body of usurer to grave.
+- **V63** — Bones of dismembered person assembled and buried.
+- **V64** — Money tied on corpse thrown overboard from ship in order to secure burial.
+- **V64.1** — Shipwrecked each get a piece of the chief's gold ring in order to have gold with them in death.
+- **V65** — Commemoration of death.
+- **V65.1** — Calves kept separate from cows in commemoration of hero's death.
+- **V65.2** — Drinking festival in memory of the dead.
+- **V65.3** — Wedding and funeral festival on same time.
+- **V65.4** — Professional mourning.
+- **V65.4.1** — Funeral song sung over dead.
+- **V65.5** — Funeral games.
+- **V66** — Funeral sermon.
+- **V66.1** — Witty funeral sermon.
+  *Priest having nothing good to say about man damns him with faint praise or gives anecdotes with unfavorable implications.*
+- **V67** — Accompaniments of burial.
+- **V67.1** — Ornaments (arms, chariots) buried with hero.
+- **V67.2** — Shoes buried with the dead.
+- **V67.3** — Treasure buried with the dead.
+- **V67.3.1** — King buried with immense treasure in the ground of an artificially dried river ; later the normal course of the river is restored.
+- **V67.4** — Men buried with dead chief.
+- **V67.4.1** — Captain buried with his crew.
+- **V67.5** — Animals buried with the dead.
+- **V68** — Preparations for burial.
+- **V68.1** — Dead washed (in river).
+- **V68.2** — Dead washed and hair combed.
+- **V68.3** — Dying hero wants to be buried in the clothes of his brother who killed him.
+- **V68.4** — Dead is undressed.
+- **V68.4.1** — Dead not to be buried naked.
+- **V68.5** — Dead rubbed with red paint.
+- **V69** — Funeral rites-miscellaneous.
+- **V69.1** — All dead are buried after battle.
+- **V69.2** — Hero buried as unknown merchant in foreign country.
+- **V70** — Religious feasts and fasts.
+- **V70.1** — The first day of summer.
+- **V70.1.1** — Festival of Beltane (== May Day).
+- **V70.2** — Whitsuntide.
+- **V70.3** — Midsummer.
+- **V70.3.1** — Feast of Saint John the Baptist.
+- **V70.4** — Harvest-festival.
+- **V70.5** — Festival of Samhain (Hallowe'en, Tara [Temair]).
+- **V70.6** — Festival of Imbolg (Brigit, Candlemas).
+- **V70.7** — Feast of the new moon.
+- **V70.8** — Festival of Cenn (Crom) Cruaich.
+- **V71** — Sabbath.
+- **V71.1** — Jewish automaton will not work on Saturday.
+- **V71.1.1** — Manna does not descend on Sabbath.
+- **V71.2** — Misfortune ascribed to breaking Sabbath.
+- **V71.3** — Various events, from creation to Resurrection, that occurred on Sabbath.
+- **V72** — Christmas.
+- **V72.1** — Little Christmas.
+- **V73** — Fasts.
+- **V73.0.1** — Christ in the desert overcomes devil by fasting.
+- **V73.1** — Fast to prevent pestilence.
+- **V73.2** — Fast improves health.
+- **V73.3** — Saint causes two youths to be fed with the best food, says one is doomed to go to hell, the other will practice austerity in his old age.
+- **V73.4** — Fasting to secure a prosperous journey.
+- **V73.5** — Fasting on "Golden Fridays" as charm against certain misfortunes.
+- **V73.6** — Lent.
+- **V73.6.1** — Christ's forty-days' fast called "His Lent".
+- **V73.6.2** — Saint remains silent during Lent by holding stone in mouth.
+- **V73.6.3** — Holy man eats pork and beef in Lent because pig is raised on milk, ox on grass; but refuses to eat cake because it contains weevils (live meat).
+- **V75** — Easter.
+- **V75.1** — Passover.
+- **V80** — Religious services miscellaneous.
+- **V81** — Baptism.
+- **V81.1** — Girl having been stolen by mountain-folk must be baptized anew.
+- **V81.2** — Tails fall off mountain spirits when they are baptized.
+- **V81.3** — Metamorphosis brought about by baptism.
+  *Monster born of union of heathen ruler and Christian maiden becomes a handsome boy on being baptized.*
+- **V81.4** — Baptism of infants.
+- **V81.5** — Sea bath as purificatory rite.
+- **V82** — Circumcision.
+- **V83** — Hymns.
+- **V84** — Excommunication.
+- **V84.1** — Lightning strikes excommunicated person who enters church.
+- **V84.2** — Priest shows power of excommunication over host.
+  *It turns black.*
+- **V84.3** — Pirate excommunicated, goes on pilgrimage as penance.
+- **V85** — Religious pilgrimages.
+- **V86** — Sign of the Cross.
+- **V86.1** — Sign of cross protects from injury.
+- **V86.1.1** — Sign of cross prevents child from being stolen from cradle.
+- **V86.1.2** — Sign of cross prevents garment from burning.
+- **V86.1.3** — Man dies because he has killed a man with the sign of the cross on his forehead.
+- **V86.2** — Martyr with sign of cross on his heart.
+- **V86.3** — Punishment for profane use of the cross.
+  *Drunkard kisses cross, thinking it is a bottle of wine.*
+- **V86.4** — Miraculous manifestations to scoffers of the cross.
+  *Alphabet.*
+- **V86.5** — Praying with arms extended so as to form a cross.
+- **V86.6** — Loaf bursts in oven because sign of cross has not been made over it.
+- **V86.7** — The seven significances of the sign of the cross.
+- **V87** — Christening.
+- **V88** — Ceremony of the proclamation of a Buddha.
+- **V91** — Accidental calling on god's name held to outweigh a life of wickedness.
+- **V92** — "Our Lady's Tumbler."
+  *A tumbler, turned monk, dances while others chant psalms. He is praising God in the only way he knows.*
+- **V93** — Religious dancing.
+- **V96** — Ritual bathing.
+- **V96.1** — Taking bath in a sacred river (Ganges).
+- **V97** — Study of Tora as religious service.
+
+## Religious edifices and objects
+
+- **V100** — Religious edifices and objects.
+- **V110** — Religious buildings.
+- **V111** — Churches.
+- **V111.1** — Visit to certain church protects from drowning on pilgrimage.
+- **V111.2** — Stones for building church (chapel) miraculously supplied.
+- **V111.3** — Place where a church must be built miraculously indicated.
+- **V111.3.1** — Birds indicate the site where a church is to be built by making a model of the structure on the spot.
+- **V111.3.2** — Divine person points out site for church.
+- **V112** — Temples.
+- **V112.0.1** — Ark of the temple.
+- **V112.1** — Spirit huts.
+- **V112.2** — Mosques.
+- **V112.3** — Synagogues.
+- **V113** — Shrines.
+- **V113.0.1** — Miracles at shrine.
+- **V113.0.2** — Vow to visit shrine.
+- **V113.1** — Cripples at shrine frightened and run away without crutches.
+- **V113.2** — Robbers promise to make offerings to the shrine of a hermit if successful.
+- **V114** — Sacred groves.
+- **V114.1** — Sacred groves of druids.
+- **V115** — Church bells.
+- **V115.1** — Church bell sunk in river (sea).
+- **V115.1.1** — Sunken bell travels on sea bottom.
+- **V115.1.2** — Raising sunken church bell.
+- **V115.1.3** — Sunken church bell cannot be raised.
+- **V115.1.3.1** — Church bell cannot be raised because silence is broken.
+- **V115.1.3.2** — Church bell cannot be raised because person blasphemes.
+- **V115.2** — Girl sold for new church bell.
+- **V115.3** — Devil buys church bell and demoralizes congregation.
+  *They have always come early before since they had no bell to announce the time. Now they wait for the bell.*
+- **V115.4** — What church bells say.
+- **V116** — Altars.
+- **V117** — Pulpits.
+- **V118** — Monasteries.
+- **V118.0.1** — Hell as a monastery the devil, abbot; sinners, monks.
+- **V118.1** — Monastery on otherworld island.
+- **V118.2** — Subaqueous monastery.
+- **V118.2.1** — Submarine oratory.
+- **V120** — Images.
+- **V120.1** — Images and druids.
+- **V121** — Miraculous image of Christ impressed on napkin.
+  *Veronica.*
+- **V122** — Image bars way of nun trying to escape convent to join lover.
+- **V122.1** — Image of Jesus descends from cross and wounds nun leaving convent.
+- **V123** — Image blamed by suppliant for misfortunes.
+- **V123.1** — God under compulsion: suppliant threatens to mutilate (crush) holy image if his wish is not fulfilled.
+- **V124** — Preacher criticizes the likeness of Christ exhibited in his church.
+  *Says that it is unworthy of the original.*
+- **V124.1** — Saint hangs cowl in thornbrake as symbol of Christ on the Cross.
+- **V125** — Casting of image of Buddha delayed until a maniac's mite is thrown into the furnace.
+- **V126** — Image of saint speaks.
+- **V127** — Image of deity in wood (stone).
+- **V128** — Motions of various kinds attributed to images.
+- **V128.1** — An apple is offered to a statue of the Virgin and her child.
+  *The infant reaches out and takes the fruit.*
+- **V128.2** — Portraits exude oil.
+- **V130** — Other sacred objects connected with worship.
+- **V131** — Religious robes (vestments).
+- **V131.1** — Sight of holy fringe on garment restrains a man from fornication and reforms the harlot.
+- **V131.2** — White robes of druids.
+- **V132** — Holy water.
+- **V132.1** — Holy water prevents a man from committing incest with his daughter.
+- **V132.2** — Holy water disperses demons.
+- **V132.2.1** — Holy water removes mark placed on man's face by the devil.
+- **V132.3** — Drinking holy water facilitates cursing.
+- **V133** — Holy candles.
+- **V134** — Sacred wells.
+- **V134.0.1** — Tree beside holy well.
+- **V134.1** — Oracles and auguries from holy well.
+- **V134.2** — Offerings to holy wells.
+- **V134.3** — Fish in water from certain well: water refuses to boil till fish are returned to well.
+- **V134.4** — Ducks in pool in church: water in which they are placed refuses to boil till ducks are restored to pool.
+- **V135** — Altar cloths.
+- **V135.1** — Poverty-stricken couple wrap newly-born child in altar-coverings.
+- **V136** — Bible.
+- **V136.1** — Copy of gospels buried with saint.
+- **V137** — House of woman who launders clothes for church spared in great fire.
+- **V140** — Sacred relics.
+- **V140.1** — Angel reveals (buried) relics to saint.
+- **V140.2** — Saint's relics miraculously recovered.
+- **V140.3** — A cow licks the stone under which the secreted body of saint is buried.
+- **V140.4** — Testing the authenticity of relics: bones are cast into fire; with great noise they jump away from the flames.
+- **V141** — Possession of relic brings prosperity, its loss sickness.
+- **V142** — Devout possessor of false relics miraculously receives authentic ones.
+- **V142.1** — Sham relics perform miracles if faith is great.
+- **V143** — Saint's bones for lack of worship remove themselves from church.
+- **V143.1** — Saint's bones miraculously removed from reliquary broken in pillage.
+- **V143.2** — Relics (images) carried away return to their original church.
+- **V144** — Belief in miraculous powers of sacred relics.
+- **V144.1** — Sacred relics carried in battle to aid victory.
+- **V144.2** — The relics of saint protect horses from the attack of wild beasts.
+- **V150** — Sacred objects miscellaneous.
+- **V151** — Sacred writings.
+- **V151.1** — Captive released because of ability to recite beginning of Genesis.
+
+## Flame illuminates cradle of sacred person
+
+- **V200.1** — Flame illuminates cradle of sacred person.
+- **V201** — God.
+- **V202** — Sacred spirits.
+- **V205** — Royal family as sacred.
+- **V205.1** — Third son of king possesses sacred power.
+- **V210** — Religious founders.
+- **V211** — Christ.
+- **V211.0.1** — Christ born from crown of Virgin's head.
+- **V211.0.2** — Christ conceived on same day He was crucified.
+- **V211.0.3** — Seventeen marvels at the birth of Christ.
+- **V211.0.4** — Christ as prophet.
+- **V211.0.5** — Christ called "druid".
+- **V211.1** — The Nativity of Christ.
+- **V211.1.1** — Air fragrant at Nativity.
+- **V211.1.2** — Star shines through day of Nativity.
+- **V211.1.2.1** — Hairy star appears before Nativity.
+- **V211.1.3** — Shining cloud marks place of Nativity.
+- **V211.1.3.1** — Vast intolerable light on night of Christ's Nativity.
+- **V211.1.4** — Virgin suffers no birth pangs at Christ's Nativity.
+- **V211.1.5** — Elements silent and motionless at Nativity.
+- **V211.1.6** — A "crown of thorns" among gifts given by the shepherds to Joseph, husband of Virgin Mary.
+- **V211.1.7** — Three (seven) druids come to adore infant Jesus.
+- **V211.1.8** — The Infant Jesus.
+- **V211.1.8.1** — Christ in form of an infant nursed by saint.
+- **V211.1.8.2** — Christ in form of an infant fondled by nuns.
+- **V211.1.8.3** — Christ as infant in mother's arms causes bare hillside to become field of wheat as protection.
+- **V211.2** — Christ on earth.
+- **V211.2.1** — Fiery pillar as sign of Christ's visit.
+- **V211.2.1.1** — Christ disguised as leper.
+- **V211.2.1.2** — Christ disguised as beggar.
+- **V211.2.1.2.1** — Jesus had "dark hair and a long red beard".
+- **V211.2.2** — Christ leaves bachall after visit.
+- **V211.2.3** — The Crucifixion.
+- **V211.2.3.0.1** — Angel warns of Christ's danger.
+- **V211.2.3.0.2** — Smith's wife made nails for the Cross because her husband believed Christ to be a true prophet.
+- **V211.2.3.1** — Earth trembles at Crucifixion.
+- **V211.2.3.2** — Moon bloody at Crucifixion.
+- **V211.2.3.3** — Sun darkened at Crucifixion.
+- **V211.3** — Finding of the Cross.
+- **V211.4** — Construction of the Cross.
+- **V211.4.1** — Cross of Christ made of four kinds of wood.
+- **V211.5** — The five wounds of Christ.
+- **V211.5.1** — Blood and wine issue from wound in side of crucified Savior.
+- **V211.6** — Dialogue between Christ and the Virgin Mary.
+- **V211.7** — Christ's descent to hell.
+- **V211.7.1** — The harrowing of hell.
+- **V211.7.2** — Dialogue (debate) between Christ and Satan (at the harrowing of hell).
+- **V211.7.3** — The three bolts left on hell by Christ.
+- **V211.8** — Christ's resurrection (on March 27).
+- **V211.9** — Christ's ascent to Heaven (on May 5).
+- **V211.10** — Letter (message) of Christ.
+- **V211.10.1** — Christ sends message to voyaging clerics.
+- **V212** — Buddha.
+- **V212.1** — Sacred books received from Buddha in person.
+- **V212.2** — Precepts heard from Buddha in person.
+- **V220** — Saints.
+- **V221** — Miraculous healing by saints.
+- **V221.0.1** — Relics of saint cure disease.
+- **V221.0.1.1** — Oil flowing from relics has curative powers.
+- **V221.0.1.2** — The wine (water) occasionally used to bathe relics assumes healing powers.
+- **V221.0.1.3** — Shrine of saint carried around to suppress pestilence.
+- **V221.0.2** — Saint miraculously healed.
+- **V221.0.2.1** — Crippled saint miraculously receives horse and chariot.
+- **V221.0.3** — Miraculous healing power of saint as child.
+- **V221.1** — Saint cures palsy.
+- **V221.2** — Saint restores dumb man's speech.
+- **V221.3** — Saint cures leprosy.
+- **V221.3.1** — Leper cured by the kiss of a saint.
+- **V221.4** — Saint subdues madman.
+- **V221.4.0.1** — Saint cures frenzied animal.
+- **V221.4.0.1.1** — Saint's blessing sufficient to control a mad dog.
+- **V221.5** — Saint purifies monk with sign of the cross.
+- **V221.6** — Saint sustains man on gallows.
+- **V221.7** — Woman relieved of incurable malady by kissing letter from saint.
+- **V221.8** — Wounds cured by saint leave no scars.
+- **V221.9** — Cut off parts of body attached again by saint.
+- **V221.10** — Men with enormous and unnatural appetite cured by saint.
+- **V221.11** — Saint cures dumb person.
+- **V221.12** — Saint cures blindness.
+- **V222** — Miraculous manifestation acclaims saint.
+- **V222.0.1** — Birth of saint predicted by visions of miracles.
+- **V222.0.1.1** — Pillar of fire rises over woman pregnant with future saint.
+- **V222.0.1.2** — Saint identified by pillar of fire above her head.
+- **V222.0.1.3** — Dazzling heavenly light by day and night marks place of saint's birth.
+- **V222.0.2** — Angels appear above place where saint is born.
+- **V222.1** — Marvelous light accompanying saint.
+- **V222.1.0.1** — Supernaturally bright light marks sleeping infant saint.
+- **V222.1.0.2** — "Fair Drop" from.
+  *Heaven falls upon infant saint.*
+- **V222.1.1** — Radiance fills church when saint dies.
+- **V222.1.2** — Hand of saint made bright by Lord's touch.
+  *Too splendid for man's sight thereafter.*
+- **V222.1.3** — Column of light descends from heaven upon chosen man.
+- **V222.1.4** — Lights show where the body of saint is buried.
+- **V222.2** — Brake in which saint loses tooth bursts into flame.
+- **V222.3** — Choral singing accompanies saint.
+- **V222.4** — House of saint filled with fragrance.
+- **V222.4.1** — Aromatic smell of a saint's body.
+- **V222.5** — Oil bursts from ground as saint is made bishop.
+- **V222.6** — Bell sounds at approach of saint.
+- **V222.6.1** — Church bells ring without aid of human hands at death of holy person.
+- **V222.7** — Dead holy man stretches hand from tomb to honor saint.
+- **V222.8** — Holy man passes through fire for his faith.
+  *Only his clothing burns.*
+- **V222.9** — Earthquake accompanies entrance of holy man into palace of heathen emperor.
+- **V222.10** — Saint falling into an abyss found perched in the branches of a tree which projected from the cliff.
+  *As soon as the man is drawn up, the tree vanishes.*
+- **V222.11** — Flowers fall from saint's mouth while he speaks.
+- **V222.12** — Holy man restores a garden to bloom.
+- **V222.13** — Sun sends shaft of heat to cook meat given persecuted saint.
+- **V222.14** — Roses lose thorns when saint walks on them.
+- **V222.15** — Saint changes maggots in the sores of a nun into precious stones.
+- **V222.16** — Robbers who enter saint's garden to steal are caused to spade it up for him.
+  *This proves him to be saint.*
+- **V223** — Saints have miraculous knowledge.
+- **V223.1** — Saint gives advice.
+- **V223.2** — Saint warns against poisoned well.
+- **V223.3** — Saint can perceive the thoughts of another man and reveal hidden sins.
+- **V223.4** — Saint helps with learning.
+- **V223.4.1** — Truant boy learns long lesson while asleep with head in saint's lap.
+- **V223.5** — Saints blessed with ability to discourse in the native idioms of the people whom they visit.
+- **V223.5.1** — Saint understands language of wren, fly, cat.
+- **V223.6** — Saint as prognosticator.
+- **V223.6.1** — Saint can foretell the weather.
+- **V224** — Miraculous replacement of objects (animals) for saint.
+- **V224.1** — Objects used as firewood for saint miraculously replaced.
+- **V224.2** — Food (animals) eaten by saint miraculously replaced.
+- **V224.3** — Animals stolen from saint miraculously replaced.
+- **V224.4** — Performing fox accidentally killed miraculously replaced for saint.
+- **V224.5** — Supply of lime for building church miraculously renewed for saint.
+- **V225** — Saints in several places at once.
+- **V226** — Saints as hermits.
+- **V227** — Saints have divine visitors.
+- **V227.1** — God gives staff of Jesus to saint.
+- **V228** — Immunities of saints (holy men).
+- **V228.1** — Saint immune to poisoning.
+- **V228.1.1** — Saint drinks poison without being injured.
+- **V228.2** — Anchorite immune to magician's powers.
+- **V229** — Saints miscellaneous.
+- **V229.1** — Saint commands return from dead with supernatural information.
+- **V229.2** — Sanctity of saints.
+- **V229.2.1** — Saintly babe repeatedly found with arms extended in form of cross.
+- **V229.2.2** — Saintly babe disgorges unclean food.
+- **V229.2.3** — Saint will drink only milk of cow milked by faithful woman.
+- **V229.2.3.1** — Saint as baby refuses to take mother's breast on Wednesdays and Fridays.
+- **V229.2.4** — Baptism of a wonder child is accompanied by a variety of phenomena.
+- **V229.2.5** — Place of saint's martyrdom perpetually green.
+- **V229.2.6** — Martyrs emit milk instead of blood from their wounds.
+- **V229.2.6.1** — Saint sheds tears of blood.
+- **V229.2.7** — Flowers grow on graves from the mouths or hearts of holy persons.
+- **V229.2.8** — Saint's body remains unspoiled in the earth for a long time.
+- **V229.2.9** — Tombs of saints distill oil.
+- **V229.2.10** — Stones answer "Amen" after saint's preaching.
+- **V229.2.11** — Miracle saves saint from unjust censure.
+- **V229.2.11.1** — Saint causes gluttonous reptile to leap from saint's body into bishop's throat and then return as proof of bishop's injustice.
+- **V229.2.12** — Extraordinary longevity of saints.
+- **V229.2.12.1** — Seven Irish saints who never died.
+- **V229.2.12.2** — Saint lives for 300 (100?)
+  *years without eating food or uttering evil.*
+- **V229.2.13** — Saint promises to return from heaven.
+- **V229.3** — Saint banishes snakes.
+- **V229.4** — Saint overcomes (destroys) monsters (dragons).
+- **V229.5** — Saint banishes demons.
+- **V229.5.1** — Saint confines monster (dragon) in lake.
+- **V229.6** — Saint in conflict with druid.
+- **V229.6.1** — Saint limits powers of satirist (druid).
+- **V229.6.2** — Ale poisoned by druid miraculously purified by saint.
+- **V229.6.3** — Druid raised in air, cast down, and brains scattered on stone by power of saint.
+- **V229.6.4** — Druid by spells seeks to drive saint from island.
+- **V229.7** — Invaders miraculously defeated by saints.
+- **V229.7.1** — Saint drives away an army by bringing upon it a dense and smoky cloud.
+- **V229.8** — Saints create magic concealing mist.
+- **V229.9** — Unusual fuel used by saints: burning stone, snow and icicles, marble pillar, and green timber.
+- **V229.10** — Broken objects restored to their original forms by saint.
+- **V229.10.1** — Burned clothes restored to their previous form.
+- **V229.10.2** — Holy man restores cut-off hands and feet.
+- **V229.10.3** — Saint causes grey hair to grow in black.
+- **V229.11** — Saint with tongue of fire (literally).
+- **V229.12** — Sinful beauty is converted and spends the end of her life doing penance (Mary Magdalene, Mary of Egypt, and Thais).
+- **V229.13** — Ground elevates itself to give protection or comfort to saint.
+- **V229.14** — Saint in anger shows strength: wall broken by his kick.
+- **V229.15** — Saint disguised as poor man saves almsgiving king from punishment in hell.
+- **V229.16** — Lake of milk made through merit of saint.
+- **V229.17** — Saint's blessing causes a river to be best place for fishing.
+- **V229.18** — Dispute between two saints settled by angel.
+- **V229.19** — Objects mourn death of saint (holy man).
+- **V229.20** — Downfall of ascetic (saint).
+- **V229.20.1** — After birth of son holy person loses miraculous power.
+- **V229.21** — House and family appear overnight to afford hospitality to benighted priests.
+- **V229.22** — Severed head of saint speaks so that searchers can find it.
+- **V229.23** — Stone turns red when saint's picture is removed.
+- **V229.24** — Saint turns snakes to stones.
+- **V229.25** — Conversation of animals reveals to man how to become saint.
+- **V230** — Angels.
+- **V230.1** — Man beholds angels.
+- **V230.2** — Angels powerful.
+- **V230.3** — Angel and mortal struggle.
+- **V231** — Appearance of angel.
+- **V231.1** — Angel in bird shape.
+- **V231.2** — Shooting star as angel.
+- **V231.3** — Angel with four wings.
+- **V231.4** — Angel is form of cleric.
+- **V231.5** — Angel appears to woman to warn her not to force girl into marriage.
+- **V231.6** — Angel in the form of an old man.
+- **V232** — Angel as helper.
+- **V232.1** — Angel as helper in battle.
+- **V232.1.1** — Angels appear and help boy prince slay treacherous uncle.
+- **V232.2** — Angel carries mortal.
+- **V232.2.0.1** — Angel carries boat to water.
+- **V232.2.0.2** — Angel transports saint's staff.
+- **V232.3** — Angels supply food to mortal.
+- **V232.3.1** — Angel shows saint where to dig for water.
+- **V232.4** — Angel looses man's fetters.
+- **V232.5** — Angel as guide.
+- **V232.5.1** — Angel guides chariot.
+- **V232.6** — Angel reveals location of lost (buried) object.
+- **V232.7** — Gifts from angels.
+- **V232.7.1** — Angel brings cross as gift to saint.
+- **V232.8** — Angel helps Peter to escape from prison.
+- **V232.9** — Angel cleans hearth.
+- **V232.10** — Angels build church.
+- **V233** — Angel of death.
+- **V233.1** — Angel of death spares mother who is suckling children.
+  *As punishment angel must serve as sexton.*
+- **V234** — Songs of the angels.
+- **V234.1** — Angels sing in honor of saint.
+- **V234.1.1** — Angels sing to welcome saint.
+- **V234.1.2** — Angels sing over saint's body.
+- **V234.1.3** — Angel choir responds when saint receives orders.
+- **V234.2** — Angels sing on night of Christ's Nativity.
+- **V235** — Mortal visited by angel.
+- **V235.0.1** — Mortals visited by angel in vision.
+- **V235.0.2** — Angel invoked by fasting.
+- **V235.1** — Angel announces birth of Christ to shepherds.
+- **V235.2** — Angel comforts repentant sinner.
+- **V235.3** — Angel bars abbot from his cell because abbot has cast out a sinning monk.
+- **V236** — Fallen angels.
+- **V236.1** — Fallen angels become fairies (dwarfs, trolls).
+- **V237** — Angel bars the way to Baalam's ass.
+- **V238** — Guardian angel.
+- **V238.1** — Angels hover over mortal (saint).
+- **V238.2** — Angels melt snow around saintly babe.
+- **V238.3** — Service of angels marks saint's destination.
+- **V238.4** — Air above grave of converted druid full of angels.
+- **V241** — Angels honor mortal.
+- **V241.1** — Angels attend saint's funeral.
+- **V241.1.1** — Angel directs saint's burial.
+- **V241.2** — Angels hold service over (saint's) tomb.
+- **V241.2.1** — Angels shed light upon saint's tomb.
+- **V241.3** — Angels run races before saint.
+- **V241.4** — Angel baptizes saint.
+- **V241.4.1** — Angel names child.
+- **V241.5** — Angels set heavenly veil upon head of pious woman.
+- **V242** — Holy place (object) glorified by angel's presence.
+- **V242.1** — Train of angels rises from graveyard.
+- **V242.2** — Angel abides in church.
+- **V242.2.1** — Angels attend church service.
+- **V242.3** — Angel passes daily over blessed stone.
+- **V243** — Angel answers mortal's prayer.
+- **V243.1** — Angels appear above grave of fallen girl through virtue of prayers said by her lover (young monk).
+- **V244** — Angel beseeches at unholy grave of redeemed sinner until body is moved to sanctified ground.
+- **V245** — Angel punishes mortal.
+- **V245.1** — Angel scourges mortal for disobedience to God.
+- **V246** — Angel counsels mortal.
+- **V246.0.1** — Angel leaves letter (book) with instructions for saint.
+- **V246.0.2** — Angel dictates (gives) book.
+- **V246.1** — Angel tells saint where to build his church.
+- **V246.2** — Angel as saint's teacher.
+- **V246.3** — Angel informs saint of coming of guests.
+- **V247** — Daily life of angels.
+- **V248** — Angels and God.
+- **V249** — Angels miscellaneous motifs.
+- **V249.1** — Angel makes proclamation.
+- **V249.2** — Language of angels.
+- **V249.2.1** — Hebrew the language of the angels.
+- **V250** — The Virgin Mary.
+- **V250.1** — Irish saint as "Mary of the Gael".
+- **V250.2** — Virgin Mary has golden hair.
+- **V251** — Virgin Mary prevents (retards) death so as to save sinner's soul.
+  *Permits time for repentance and absolution.*
+- **V251.1** — Virgin Mary brings man back to life after he has seen hell's torments.
+- **V252** — Virgin Mary defends innocent accused.
+- **V252.1** — Virgin Mary returns borrowed money and reveals cheat.
+  *A man borrows money from a Jew with the Virgin as security. Unable to return the money in time, he commits the money to the sea with a prayer to the Virgin. The Jew receives it but claims that the money is not paid. The Virgin reveals the cheat.*
+- **V252.2** — Virgin Mary saves criminal from fire at stake.
+- **V253** — Faithfulness to Virgin Mary, even if not to Christ, rewarded.
+- **V254** — Efficacy of saying "Aves".
+- **V254.1** — Saying of "Aves" obliterates sin.
+- **V254.1.1** — Virgin Mary supports robber on gallows because he once said "Ave Maria".
+- **V254.2** — Ship in storm saved because of sailors' "Ave Maria".
+- **V254.3** — "Ave" on the tongue.
+  *Because of faithfulness in saying "Aves" the words are found imprinted on the dead man's tongue.*
+- **V254.3.1** — Blasphemer paralyzed in all members except tongue which had once said "Ave Maria".
+- **V254.4** — Devil exorcised by "Ave".
+- **V254.5** — Nun forgets to hail Mary and goes into the world to sin.
+- **V254.6** — Joseph and Mary threaten to leave heaven when the man who has always prayed to them is refused admittance.
+- **V254.7** — Murdered boy still sings "Ave" after his death.
+  *(Chaucer's Prioress's Tale.)*
+- **V254.7.1** — Criminal who said "Ave" beheaded.
+  *His head calls repeatedly, "Ave Maria".*
+- **V254.8** — Virgin Mary will not let devil (authorities) take robber noble who daily says "Ave".
+- **V254.9** — Virgin forbids devil to take robber as long as he continues to say two "Aves" daily.
+- **V255** — Virgin Mary has dissolute monk buried in consecrated ground: his only mass is that of the Virgin.
+- **V255.1** — Devotee of Virgin not buried in consecrated ground has lily issue from mouth so that his grave is made known.
+- **V255.2** — Virgin gives private mass to devout lady unable to attend.
+- **V256** — Miraculous healing by Virgin Mary.
+- **V256.1** — Healing spittle of Virgin Mary.
+- **V256.2** — Miracles of healing performed before image of Virgin Mary.
+- **V256.3** — Virgin Mary restores severed hand to Saint John Damascene.
+  *He had cut it off to repress lust.*
+- **V256.4** — Virgin Mary saves life of man who at devil's instigation has castrated himself.
+  *She will not, however, restore his severed members.*
+- **V256.5** — Virgin Mary restores life to drowned man who always had saluted her.
+- **V261** — Virgin Mary designates favorite for election for office.
+- **V261.1** — Virgin restores office to an ignorant man because of his faith.
+- **V261.2** — Virgin pardons man who repented for cheating in election.
+- **V262** — Virgin Mary supplies mead for unprepared hostess of the king.
+- **V263** — Portrait of the Virgin appears to devotee.
+- **V264** — Virgin Mary rescues man attacked by the devil.
+- **V264.1** — Virgin Mary brings man a pact he signed with the devil and frees the man from devil's power.
+- **V265** — Virgin miraculously prevents nun (monk) from deserting cloister.
+- **V265.1** — Image of Virgin tries in vain to keep nun from leaving convent.
+- **V266** — Virgin Mary converts a Jew.
+- **V267** — Devotee of Virgin is comforted in the hour of death.
+- **V268** — Miracles performed under protection of Virgin Mary.
+- **V268.1** — Boy under protection of Virgin Mary pulled from well alive after a week.
+- **V268.2** — Virgin Mary saves devotee from death in waves.
+- **V268.3** — Virgin Mary destroys Moorish army besieging Constantinople.
+- **V268.4** — Virgin Mary saves devotee's son from shipwreck.
+- **V268.5** — Image of Virgin Mary works miracles.
+- **V271** — Virgin Mary as foster mother.
+- **V275** — Virgin Mary comforts repentant criminals.
+- **V276** — Virgin Mary appears to erring man.
+- **V276.1** — Virgin Mary appears to erring monk and exalts him to prayer.
+  *His prayers weave her a garment.*
+- **V276.2** — Virgin Mary appears and pardons monk who has been too overworked to pray to her.
+- **V276.3** — Virgin Mary aids repentant slayer of priest.
+  *Priest is resurrected in order to forgive murderer and then is returned to tomb.*
+- **V277** — Virgin Mary appears to devotee.
+- **V277.1** — Virgin Mary appears to devout nun with infant Jesus.
+  *The nun devoutly prayed to see Him.*
+- **V281** — Devotee of Virgin Mary given present by her.
+- **V282** — Stella Maris: Virgin Mary as protectress of sailors.
+- **V283** — Testament of Virgin Mary.
+- **V284** — During a flood the Virgin descends into the streets to save her image from the flood waters.
+- **V290** — Other sacred persons.
+- **V291** — Master poets (ollamhs) as sacred persons.
+- **V292** — The Apostles of Christ.
+- **V292.1** — Appearance of the Apostles.
+- **V292.2** — The Twelve Apostles of Ireland.
+- **V293** — Lepers as sacred persons.
+- **V294** — The Pope.
+
+## Religious beliefs
+
+- **V300** — Religious beliefs.
+- **V310** — Particular dogmas.
+- **V311** — Belief in the life to come.
+- **V311.0.1** — Doctrine of immortality taught by druids.
+- **V311.1** — Man converted to belief in future life on deathbed.
+  *Feels sure nevertheless that nothing will come of it.*
+- **V311.2** — Dying man refuses to believe in life to come.
+- **V311.3** — Given choice between life and heaven, person chooses latter.
+- **V312** — Belief in Immaculate Conception.
+- **V312.1** — Proclamation of dogma of Immaculate Conception stops plague.
+- **V312.2** — Man miraculously dies for opposing dogma of Immaculate Conception.
+  *Attempt to disprove the dogma by false miracle. Sham dead man is to rise if the dogma is not true. He is found to be actually dead.*
+- **V313** — Last judgment.
+- **V315** — Belief in the Atonement.
+- **V315.1** — Power of repentance.
+- **V316** — Efficacy of prayer.
+- **V316.1** — "He that asks shall receive."
+  *Hermit wants to prove truth of these words of the Gospel and asks for the hand of the princess. Performs the difficult task imposed upon him.*
+- **V317** — The chosen people.
+- **V317.1** — Holy land.
+- **V320** — Heretics.
+- **V321** — Insane man burns heretic in his bed: restored to his senses as reward.
+- **V322** — Heretical baptism.
+  *Heathen baptized into devil's possession.*
+- **V323** — Atheists.
+- **V323.1** — Epicureans regarded as atheists.
+- **V325** — Baptismal water vanishes before Aryan bishop.
+- **V326** — Hero renounces heaven because dead companions (heathen) are not there.
+- **V327** — Author of book against heretic honored by Virgin Mary and angels.
+- **V328** — Man sets fire to his house and perishes in it rather than accept Christianity.
+- **V330** — Conversion from one religion to another.
+- **V331** — Conversion to Christianity.
+- **V331.0.1** — Druid converted to Christianity.
+- **V331.0.2** — Three (two) Irishmen who believed in Christianity before the coming of St. Patrick.
+- **V331.1** — Conversion to Christianity through miracle.
+- **V331.1.1** — Conversion to Christianity by miracle of seeing blood flow from Jesus' image.
+- **V331.1.2** — Conversion to Christianity through appearance of the cross and angels.
+- **V331.1.3** — Conversion to Christianity because the heathen gods prove to be less powerful.
+- **V331.1.4** — Conversion because saint's staff miraculously goes through neophytes' foot.
+- **V331.2** — Conversion to Christianity on pain of death.
+- **V331.3** — Miraculous beautification upon conversion to Christianity.
+- **V331.4** — Conversion to Christianity through repentance.
+- **V331.5** — Conversion to Christianity through love.
+- **V331.6** — Conversion to Christianity out of gratitude.
+  *Ruler has captive baptize his sister and then marry her. Grateful for past kindnesses.*
+- **V331.7** — Saladin asks to be made a Christian knight.
+- **V331.8** — Fairies converted to Christianity.
+- **V331.9** — Swans (transformed children) do not suffer in harsh weather after conversion to Christianity.
+- **V331.10** — Conversion to Christianity because of admiration for Christian virtue.
+- **V331.10.1** — Conversion to Christianity through show of forgiveness and gentleness.
+- **V332** — Baptism of heathen.
+- **V336** — Conversion to Judaism.
+- **V340** — Miracle manifested to non-believers.
+- **V341** — Pagan sybil draws picture of Madonna and Child in sand.
+  *Result of vision.*
+- **V342** — Sign of cross intimidates Jews.
+- **V343** — Jews protesting against marriage of Jewess and Christian are struck dumb.
+- **V344** — Temple about to be taken over by pagans saved by appearance of a Sign of the Cross (image of the Virgin).
+- **V345** — Dove flies out of man's mouth.
+  *Impious anchorite has agreed to forsake his religion in return for the possession of a maid. When he repents the dove reenters his mouth.*
+- **V346** — Skeptic kicked by sacrificial animal.
+- **V347** — Idols found on their faces after saint's arrival.
+- **V350** — Conflicts between religions.
+- **V351** — Duel (debate) to prove which religion is better.
+- **V351.1** — Wise heretic is vanquished in debate with a Christian.
+- **V351.1.1** — Brahmin wins a discussion on religion.
+- **V351.2** — Unbeliever loses argument with hermit.
+- **V351.3** — Magician overpowered in contest with a saint.
+- **V351.3.1** — Contest of St. Peter with Simon Magus, a magician.
+- **V351.4** — Prayer-contest to prove which religion is better.
+- **V351.5** — Contest of miraculous powers between a Yogi and a Musselman.
+- **V352** — Pagan disputant with Christian stricken dumb.
+- **V352.1** — Pagan disputant with Christian bested by the words put in his mouth by God.
+- **V354** — Life of heroic age preferable to Christian living.
+- **V355** — Buddhists become slaves of Taoists because they cannot produce rain.
+- **V356** — Christian hero (saint) overthrows heathen idols.
+- **V356.1** — Saint dispels pagan devils from ancient shrines.
+- **V356.2** — Pagan shrines and idols, or magic books destroyed by fire from heaven.
+- **V356.2.1** — Heathen idols sink into earth up to their necks through power of saint.
+- **V356.3** — Saint's bachall pointed at idol defaces it.
+- **V360** — Christian and Jewish traditions about each other.
+- **V361** — Christian child killed to furnish blood for Jewish rite.
+  *(Hugh of Lincoln.)*
+- **V362** — Plague from Jews' poisoning wells.
+- **V363** — Jewish child thrown into oven by father for taking eucharist.
+  *Preserved by Virgin Mary.*
+- **V363.1** — Jewish child resurrected (saved by power of Virgin Mary) after being burned to ashes for eating consecrated bread in Christian church.
+- **V364** — A Christianized Jew becomes a priest.
+  *During Mass, he stabs the consecrated host, blood flows (cf. +C55, +J1261.2, +V30). He kills the other priest who saw him commit the sacrilege, and before killing, forces him to renounce his faith. A miracle exposes the murderer.*
+- **V365** — Jewish traditions concerning non-Jews.
+- **V380** — Religious beliefs miscellaneous.
+- **V381** — Heathen beats his god because of misfortune.
+- **V382** — Doctor ridicules belief in Devil, Heaven, and Hell.
+- **V383** — Religious fanaticism.
+- **V383.1** — Prolonged prostration in worship causes death.
+- **V383.2** — Hindu drinks water by mistake from Mohammedan's vessel: his fortune turns to evil.
+- **V385** — Romans won't include Jesus in their pantheon because of his poverty which they hate.
+
+## Charity
+
+- **V400** — Charity.
+- **V410** — Charity rewarded.
+- **V410.1** — Charity rewarded above prayer or hearing of masses.
+- **V410.2** — Prince's motto: charity conquers.
+- **V411** — Miraculous reward for charities.
+- **V411.1** — Queen gives away a sleeve of her dress: miraculously restored.
+- **V411.2** — Saint exchanges coat with beggar: gold sleeves miraculously appear.
+- **V411.3** — Man who has given all in charity has foot amputated: restored miraculously.
+- **V411.4** — Stones turn to gold for charitable money-lender.
+  *Hence money borrowed for wedding is never refused by lenders.*
+- **V411.5** — Treasure given away by saint miraculously restored.
+- **V411.5.1** — Man earns as much as he gave away for charity in his former life.
+- **V411.6** — Food given away by saint miraculously restored.
+- **V411.7** — Charitable king blows nose after having given to beggar.
+  *Huge ruby appears in his kerchief.*
+- **V411.8** — Jesus appears to St. Martin when he gives his cloak to beggar.
+- **V411.9** — Charity miraculously repaid: flame settles on forehead.
+- **V412** — Miraculous manifestations during act of charity.
+- **V412.1** — Bread stolen by St. Nicholas for purpose of feeding poor is miraculously restored.
+- **V412.2** — The more bread (flour) the monks give to the poor the more God places in their bins.
+- **V413** — Son's acts of charity save his father's soul.
+- **V414** — Saint shares punishment of sinful man whose cloak he shared in life.
+- **V415** — Children envious of money given by deceased father to bishop.
+  *In vision they take their father's body up and find a quittance saying that he has received more than a hundredfold reward.*
+- **V416** — Act of charity obliterates sin.
+- **V416.1** — Man convicted of cheating at his bookkeeping is excused when it is learned that he has given the money to the poor.
+- **V420** — Reward of the uncharitable.
+- **V421** — Shipman refuses alms: ship turned to stone.
+- **V422** — Uncharitable knight drives bargain even in giving alms: devoured by serpents.
+  *His alms of corn turn to serpents.*
+- **V425** — Uncharitable pope wanders after death.
+- **V430** — Charity miscellaneous motifs.
+- **V431** — Charity of usurers ineffective.
+- **V432** — Man beggars self by charity.
+- **V433** — Charity of saints.
+- **V434** — Conqueror restores kingship to king for charity.
+- **V435** — Pious man charitable to man who has formerly refused him charity.
+- **V436** — Mendicant refuses to accept alms from barren woman.
+- **V437** — Saint repeatedly bestows father's goods upon the poor.
+- **V438** — Merit for charity lost by asking work in return.
+- **V440** — Other religious virtues.
+- **V441** — Forgiveness.
+- **V441.1** — Saint heals enemy.
+- **V450** — Religious orders.
+- **V451** — First-born son and one of every ten born thereafter given to Church.
+- **V453** — Levites as religious order.
+- **V460** — Clerical virtues and vices.
+- **V461** — Clerical virtue.
+- **V461.1** — Obedient and industrious nun the worthiest in the convent.
+- **V461.2** — Truthful monk refuses to cheat even for his order.
+- **V461.3** — Chastity as clerical virtue.
+- **V461.4** — Submission as clerical virtue.
+- **V461.4.1** — Truthfulness as clerical virtue.
+- **V461.5** — Extended meditation as clerical virtue.
+- **V461.6** — Monk lives where people speak ill of him to avoid danger of flattery.
+- **V461.7** — Clerical virtue of absolute faith.
+  *Man captured by robbers is so confident that God will protect him that he is saved.*
+- **V461.8** — Poverty as saintly virtue.
+- **V462** — Asceticism.
+- **V462.0.1** — Kingship renounced to become an ascetic.
+- **V462.0.2** — Since salvation is predestined, asceticism deemed useless.
+- **V462.0.3** — Husband abandons wife to become ascetic.
+- **V462.0.4** — Murderer becomes ascetic.
+- **V462.1** — Maintaining silence as ascetic practice.
+- **V462.2** — Ascetic fasting.
+- **V462.2.1** — Ascetic faster increases his sufferings by placing food and drink before himself.
+- **V462.2.2** — Person refuses to eat dainties.
+- **V462.2.2.1** — Saint refuses pearls as alms and asks for food.
+- **V462.2.3** — Death from ascetic devotions.
+- **V462.3** — Ascetic weeping.
+- **V462.4** — Asceticism: allowing self no repose.
+- **V462.4.1** — Asceticism: cleric practices continual genuflexion.
+- **V462.4.2** — Cross vigil.
+  *Cleric stands with hands extended in shape of cross.*
+- **V462.4.3** — Saint always extends one hand toward heaven while performing such acts as eating or reaping.
+- **V462.5** — Ascetic cleric tortures his flesh.
+- **V462.5.0.1** — Ascetic cleric prays to become diseased.
+- **V462.5.1** — Ascetic cleric wears hair garment.
+- **V462.5.1.1** — Saint never wears woolen clothing, but skins of wolves and other beasts.
+- **V462.5.1.2** — Ascetic cleric sleeps (prays) with wet sheet (mantle) about him.
+- **V462.5.2** — Ascetic cleric sleeps on stone.
+- **V462.5.2.1** — Saint takes but little sleep.
+- **V462.5.2.2** — Saint stands for seven years without sleep.
+- **V462.6** — Ascetic cleric avoids listening to music.
+- **V462.7** — Ascetic cleric never smiles.
+- **V462.8** — Ascetic immersion.
+- **V462.8.1** — Saint confines himself in narrow pen during Lent.
+- **V462.8.2** — Saint stands (asleep) while bird builds nest and hatches brood in his hand.
+- **V462.9** — Ascetic cleric leads mendicant life.
+- **V462.10** — Ascetic cleric lives for seven years on whale's back.
+- **V462.11** — Ascetic cleric renounces world (to become a herder).
+- **V462.12** — Monk refuses chance of having temptation removed since he considers it strengthening to have it ever present to test him.
+- **V462.13** — Evil ascetic misuses magic powers obtained through religious meditation.
+- **V462.14** — Boy takes twelve years to wash off ascetic's dirt.
+- **V463** — Religious martyrdom.
+- **V463.1** — Cleric surrenders life that body may consecrate land.
+- **V463.2** — First martyr: John the Baptist.
+- **V464** — Self-torture to secure holiness.
+- **V465** — Clerical vices.
+- **V465.1** — Incontinence of clergy.
+- **V465.1.1** — Incontinent monk (priest).
+- **V465.1.1.1** — Monk seduces girl; then kills her; becomes infidel.
+- **V465.1.1.2** — Marriage of clerics.
+- **V465.1.2** — Incontinent nun.
+- **V465.1.2.1** — Nun hidden by abbess from pursuing knight betrays her own hiding place to him.
+  *Is afterwards abandoned.*
+- **V465.1.2.2** — Nun tempted into sinning with man who tells her God can't see things that happen in the dark.
+- **V466** — Simony.
+- **V466.1** — Pope guilty of simony.
+- **V467** — Priest uses cook-book instead of breviary.
+- **V468** — Priest is bribed into betraying the confessional.
+- **V470** — Clerical vows.
+- **V471** — Taking clerical vows heals disease.
+- **V472** — Clerical vows because of disappointment in love.
+- **V472.1** — Man becomes hermit when he realizes selfishness of his beloved's love.
+- **V473** — Former monk refuses to take pay for his work, considering it as a religious act.
+- **V475** — Renunciation of clerical vows.
+- **V475.1** — Monk who has left order punished (dies in torment).
+- **V475.2** — Monk who has left his order forgiven and miraculously reinstated.
+- **V475.3** — Man who is disappointed with his religious order renounces his vow.
+- **V475.4** — Saint leaves his order because he is fond of music.
+- **V475.5** — Anchorite tempted by money to return to worldly life.
+
+## V500
+
+- **V510** — Religious visions.
+- **V510.1** — God speaks in vision to devotee.
+- **V510.2** — Only man without sin can see God.
+- **V511** — Visions of the other world.
+- **V511.1** — Visions of heaven.
+- **V511.1.1** — Saints have visions of heaven.
+- **V511.1.2** — Vision of angels defending road to heaven against devils.
+- **V511.2** — Visions of hell.
+- **V511.2.1** — Vision of fires of hell.
+- **V511.2.2** — Vision of gate of hell.
+- **V511.2.3** — Girl sees vision of her mother in hell.
+  *She chooses to live the poor life of her father which leads to heaven.*
+- **V511.3** — Visions of purgatory.
+- **V511.4** — Visions of Land of the Saints.
+- **V512** — Vision of judgment.
+  *Man sees his own soul being judged.*
+- **V512.1** — His faith into the balance.
+  *A clerk sees his good and evil deeds being weighed. He asks them to throw his faith in Christ (the Virgin) into the scale. He is saved.*
+- **V512.2** — Man whose only good deed was unintentional sees this deed outweigh all his evil in the scales of judgment.
+- **V513** — Saints have miraculous visions.
+- **V513.1** — Saint incited (instructed) through vision.
+- **V513.2** — Vision of the earth in the devil's snares.
+  *Saint sees earth in snares.*
+- **V514** — Non-religious visions.
+- **V515** — Allegorical visions.
+- **V515.1** — Allegorical visions religious.
+- **V515.1.1** — Vision of chairs (thrones) in heaven.
+  *Chairs of gold, silver, crystal (glass) assigned to saints according to merit.*
+- **V515.1.2** — Wife sees moon enter mouth of husband; husband sees star enter mouth of wife: famous child (saint) will be born.
+- **V515.1.3** — Saint sees vision of flames covering Ireland quenched except for sparks; then great light appears, dispelling darkness.
+  *Flames are those of the faith brought by St. Patrick; they become less until restored by St. Columkill.*
+- **V515.1.3.1** — When shower falls, small stone becomes larger, large stone wastes away.
+  *Vision of present and future state of Irish church.*
+- **V515.1.3.2** — Vision in which swineherd sees yew tree upon a rock, with an oratory in front of it and angels ascending from it.
+  *Vision interpreted by druid as symbolizing founding of Cashel and the royal line of Munster.*
+- **V515.1.4** — Constantine's vision of the Cross.
+- **V515.1.5** — Vision of dry bones.
+- **V515.2** — Allegorical visions political.
+- **V515.2.1** — Vision in which chieftain sees pair of gray seals that sucked at his two breasts.
+  *They are two of his allies who are being overpowered by invaders.*
+- **V515.2.1.1** — Vision in which king sees whelp reared by him gather dogs of Ireland and Britain against him but suffer death in battle at last.
+  *The whelp is one of king's two foster sons.*
+- **V515.2.2** — Vision in which saint foresees allegorically the ramifications of king's family Irish myth: Cross.
+- **V515.2.3** — Vision in which king sees his four sons changed into lion, greyhound, beagle, cur, which fight with alternating success, until lion subdues the other three.
+- **V516** — Vision of future.
+- **V520** — Salvation.
+- **V522** — Sinner reformed after visit to heaven and hell.
+- **V523** — The only king ever saved in spite of himself.
+- **V525** — Sinner who thinks of God saved; devotee who thinks of worldly things goes to hell.
+- **V526** — Worship of particular deity brings reward of birth in Brahma-world.
+- **V530** — Pilgrimages.
+- **V531** — Pilgrimage to Holy Land.
+- **V531.1** — Pilgrimage to follow roads Christ walked.
+- **V532** — Pilgrimage to Mecca.
+- **V533** — Pilgrimage to Benares.
+- **V535** — Pilgrimage to Jerusalem.
+- **V540** — Intervention of Providence saves person's life.
+- **V541** — Man is prevented from taking passage on ship which later sinks.
+- **V542** — Man hears voice telling him to leave danger spot in mine.

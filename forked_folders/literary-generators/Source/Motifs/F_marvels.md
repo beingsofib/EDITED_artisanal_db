@@ -1,0 +1,5734 @@
+# F. Marvels
+
+> Motif-Index of Folk-Literature · 5365 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Journey to other world
+
+- **F0** — Journey to other world.
+- **F0.1** — Names for otherworld.
+- **F1** — Journey to otherworld as dream or vision.
+- **F2** — Translation to otherworld without dying.
+- **F2.1** — Supernatural husband takes mortal wife with him to heaven.
+- **F3** — Journey to otherworld as invasion.
+- **F4** — Journey to otherworld as hunt.
+- **F5** — Journey to otherworld as penance.
+- **F6** — Departure to otherworld (fairyland) attributed to death.
+- **F7** — Journey to otherworld with angel.
+- **F10** — Journey to upper world.
+- **F10.1** — Return from upper world.
+- **F10.2** — Man taken to upper world sees all that happens on earth.
+- **F11** — Journey to heaven (upper-world paradise).
+- **F11.1** — Journey to heaven in trance.
+- **F11.2** — Man goes to heaven without dying.
+- **F11.3** — Man goes to heaven for limited time.
+- **F12** — Journey to see deity.
+  *Usually to the upper world.*
+- **F12.1** — Journey to sky-god.
+- **F12.2** — Grieving mortal taken by god of the dead up to otherworld to identify his son, who has just died.
+- **F12.3** — Men taken by Brahma to Siva so they can petition him personally.
+- **F12.4** — Journey to heaven to see Buddha.
+- **F13** — Man admitted into heaven but must not find fault.
+- **F15** — Visit to star-world.
+- **F15.1** — Man seeks his mother (star-maiden) in upper world.
+- **F16** — Visit to land of moon.
+- **F17** — Visit to land of the sun.
+- **F30** — Inhabitant of upper world visits earth.
+- **F31** — Child of deity visits earth.
+- **F31.1** — Child of deity stolen and brought down to earth.
+- **F32** — God visits earth.
+- **F32.1** — God descends to found royal dynasty.
+- **F33** — Cloud-folk visit earth.
+- **F34** — Temptress sent from upper world by deity (Pandora).
+- **F35** — Divine animal visits earth.
+- **F35.1** — Divine cow descends to earth.
+- **F35.2** — Divine elephant comes down from heaven to feed and disport himself.
+- **F50** — Access to upper world.
+- **F51** — Sky-rope.
+  *Access to upper world by means of a rope.*
+- **F51.0.1** — Sky-rope shot by means of arrow.
+- **F51.0.2** — Four sky-ropes.
+- **F51.1** — Special kinds of sky-rope.
+- **F51.1.1** — Spider-web sky-rope.
+- **F51.1.2** — Vine as sky-rope.
+- **F51.1.3** — Stalk as sky-rope.
+- **F51.1.4** — Chaff sky-rope.
+- **F51.1.5** — Rope of god's own hair.
+- **F51.1.5.1** — Heavenly being's hair as sky-rope.
+- **F51.1.6** — Iron chain hanging from heaven.
+- **F51.1.7** — Sky-rope of mucus.
+- **F51.2** — Sky-basket.
+  *Ascent to or descent from upper world in a basket.*
+- **F51.2.1** — Ascent to upper world on seat attached to cord.
+- **F52** — Ladder to upper world.
+- **F52.1** — Ladder of glass to upper world.
+- **F52.2** — Columns of smoke as ladder to upper world.
+- **F53** — Ascent to upper world on arrow chain.
+  *Hero shoots arrows which join one another in the air to form a chain.*
+- **F54** — Tree to upper world.
+- **F54.1** — Tree stretches to sky.
+- **F54.2** — Plant grows to sky.
+  *(Jack and the Beanstalk).*
+- **F55** — Mountain reaches to sky.
+- **F55.1** — Mountain stretches to sky.
+- **F55.2** — Rocks piled up to sky.
+- **F56** — Sky-window.
+  *An opening into the sky gives access to upper world.*
+- **F56.1** — Sky-window from digging or uprooting plant (tree) in upper world.
+- **F56.2** — Bird pecks hole in sky-roof to give access to upper world.
+- **F56.3** — Sky-window at horizon.
+- **F57** — Road to heaven.
+- **F57.1** — Narrow road to heaven.
+- **F57.2** — Person's tongue as path to sky.
+- **F57.3** — Path to heaven on beard.
+- **F57.4** — Wall as path to upper world.
+- **F58** — Tower (column) to upper world.
+- **F59** — Access to upper world miscellaneous.
+- **F59.1** — Man stretches self till he reaches other world.
+- **F59.2** — Pursuit of game leads to upper world.
+- **F59.3** — Gate to upper world.
+- **F60** — Transportation to or from upper world.
+- **F61** — Person wafted to sky.
+- **F61.1** — Ascent to sky on cloud.
+- **F61.2** — Ascent to sky on feather.
+- **F61.2.1** — Ascent to sky by sticking to magic feather.
+- **F61.2.1.1** — Descent from upper world on magic feather (like ladder).
+- **F61.2.2** — Ascent to sky on eagle-down rope.
+- **F61.3** — Transportation from heaven in mist.
+- **F61.3.1** — Ascent to upper world in smoke.
+- **F62** — Bird carries person to or from upper world.
+- **F62.0.1** — Bird flies to upper world.
+- **F62.1** — Birds carry person to upper world.
+- **F62.2** — Birds carry person from upper world.
+- **F62.3** — Cock carries god to upper world.
+- **F63** — Person carried to upper world by deity (spirit).
+- **F63.1** — Mortal taken to heaven by heavenly maidens.
+- **F63.2** — Mortal taken to heaven by angel.
+- **F63.3** — Mortal taken to heaven by sun.
+- **F63.4** — Ascent to upper world by holding on to morning star.
+- **F64** — Journey to upper world by keeping thoughts continually on heaven.
+- **F65** — Giant shot into upper world by means of magic bow.
+- **F65.1** — Ascent to upper world on arrow.
+- **F66** — Journey to upper world on horseback.
+- **F66.1** — Journey to upper world in chariot.
+- **F66.1.1** — Journey to sky-world by riding unseen in supernatural wife's chariot.
+- **F67** — White sheep carries to upper world, black to lower.
+- **F68** — Ascent to upper world by magic.
+- **F75** — Ascent to heaven by holding on to elephant's tail.
+- **F76** — Time involved in upper world journey.
+- **F76.1** — Five hundred years to journey from earth to heaven.
+- **F80** — Journey to lower world.
+- **F80.1** — Physical features of underworld.
+- **F80.1.1** — Castle in lower world.
+- **F80.1.2** — Darkness of lower world.
+- **F81** — Descent to lower world of dead (Hell, Hades).
+- **F81.1** — Orpheus.
+  *Journey to land of dead to bring back person from the dead.*
+- **F81.1.1** — Wife goes to land of dead to procure dead husband's heart.
+- **F81.1.2** — Journey to land of dead to visit deceased.
+- **F81.2** — Journey to hell to recover devil's contract.
+- **F81.3** — Journey to hell to circumcize child.
+- **F81.4** — Journey to hell to retrieve soul of mother.
+- **F81.5** — Journey to lower world to get treasures.
+- **F81.6** — Souls redeemed from hell in shape of sheep.
+- **F83** — Hell of women in south of otherworld.
+- **F85** — Ishtar unveiled.
+  *Goddess going to lower world passes through seven gates, at each of which she is divested of a garment till she is entirely unclothed.*
+- **F87** — Journey to otherworld to secure bride.
+- **F90** — Access to lower world.
+- **F91** — Door (gate) entrance to lower world.
+- **F91.1** — Slamming door on exit from mountain otherworld.
+  *It (almost) injures the hero because he has failed to bring back the talisman which opened the mountain.*
+- **F92** — Pit entrance to lower world.
+  *Entrance through pit, hole, spring, or cavern.*
+- **F92.1** — Visit to lower world through hole made by lifting clumps of grass.
+- **F92.2** — Person swallowed up by earth and taken to lower world.
+- **F92.2.1** — Girl gathering flowers swallowed up by earth and taken to lower world.
+- **F92.3** — Visit to lower world through opening rocks.
+  *Rocks open with a charm.*
+- **F92.4** — Entrance to lower world through mountain.
+- **F92.5** — Entrance to lower world by making hole in ground.
+- **F92.6** — Entrance to lower world through cave.
+- **F92.7** — Hole to underworld kingdom of snakes.
+- **F93** — Water entrance to lower world.
+- **F93.0.1** — Boat to lower world.
+- **F93.0.1.1** — Ferryman to lower world.
+- **F93.0.2** — Under-water entrance to lower world.
+- **F93.0.2.1** — Well entrance to lower world.
+- **F93.1** — River entrance to lower world.
+- **F93.1.1** — Dead place net across river to prevent living man from returning to earth.
+- **F93.2** — Lake entrance to lower world.
+- **F94** — Stair to lower world.
+- **F95** — Path to lower world.
+- **F95.0.1** — Path to world of dead.
+- **F95.1** — Path from grave to lower world.
+- **F95.2** — Broad path to hell.
+- **F95.3** — Perilous path to hell.
+- **F95.4** — Path to underworld marked by knots tied in grass by spirits.
+- **F95.5** — Tree as roadway to underworld.
+- **F96** — Rope to lower world.
+- **F98** — Descent to lower world on animal.
+- **F98.1** — Trip to lower world on tiger.
+
+## Visit to lower world miscellaneous motifs
+
+- **F100** — Visit to lower world miscellaneous motifs.
+- **F101** — Return from lower world.
+- **F101.1** — Return from lower world up steep slope.
+- **F101.2** — Return from lower world by being slung by bent tree.
+- **F101.3** — Return from lower world on eagle.
+- **F101.3.1** — Return from lower world on vulture.
+- **F101.4** — Escape from lower world by magic.
+- **F101.5** — Escape from lower world on miraculously growing tree.
+- **F101.6** — Ascent from lower world on animal.
+- **F101.6.1** — Escape from lower world on bird.
+- **F101.6.2** — Escape from lower world on horse of lightning.
+- **F101.7** — Escape from lower world by spider's thread.
+- **F101.8** — Man returning from hell brings heat with him.
+- **F102** — Accidental arrival in lower world.
+- **F102.1** — Hero shoots monster (or animal) and follows it into lower world.
+- **F102.2** — Sound of drum followed into ghost town.
+- **F102.3** — Rescued princess leaves her necklace behind in flight; hero returns for it and is left in underworld.
+- **F102.4** — Boy follows nut into lower world.
+- **F105** — Dead oppose return of living from land of the dead.
+- **F106** — Youths grind in mill of underworldlings.
+- **F107** — Youths tutored by Vulcan, smith of Hell.
+- **F108** — Nature of underworld inhabitants.
+- **F108.1** — People in lower world tall as a broom.
+- **F108.2** — People of lower world come out in the evenings to drink and dance.
+- **F109** — Visit to lower world additional motifs.
+- **F109.1** — Visit to lower world made head first.
+- **F109.2** — Hell shown to Jonah by fish.
+- **F110** — Journey to terrestrial otherworlds.
+- **F110.1** — Wonder voyages.
+- **F111** — Journey to earthly paradise.
+  *Land of happiness.*
+- **F111.0.1** — Four earthly paradises.
+- **F111.0.2** — Swineherd finds terrestrial paradise while looking for lost sow.
+- **F111.1** — Journey to Isle of Laughter.
+- **F111.2** — Voyage to Land of Promise.
+- **F111.2.1** — Island of Tir Tairngire (Land of Promise) cannot be reached in boat made of "dead soft skins of animals."
+- **F111.3** — Voyage to Land of Lotus Eaters.
+- **F111.4** — Paradise of the Blessed, a subterranean world.
+- **F111.5** — Land where all creatures are friendly to one another.
+- **F111.6** — Voyage to land without evil.
+- **F112** — Journey to Land of Women.
+  *Island of women, land of maidens, country of the Amazons, etc.*
+- **F112.0.1** — Fairyland (Ireland) inhabited (settled) by women only.
+- **F112.0.1.1** — Journey to island inhabited by only one (beautiful) woman.
+- **F112.0.2** — Separation of sexes in otherworld.
+- **F112.1** — Man on Island of Fair Women overcome by loving women.
+- **F112.2** — City of women.
+- **F113** — Land of men.
+- **F114** — Journey inside the earth.
+- **F115** — Journey to the Land of the Unborn.
+- **F116** — Journey to the Land of the Immortals.
+- **F116.1** — Voyage to the Land of Youth.
+- **F117** — Journey to the Land of the Thunders.
+- **F118** — Journey to Mother of Time.
+- **F121** — Journey to world of spirits.
+- **F122** — Journey to land of giants.
+- **F123** — Journey to land of little men (pygmies).
+- **F124** — Journey to land of demons.
+- **F125** — Journey to otherworld where people are made whole (cured).
+- **F126** — Journey to land without sky: takes whole life.
+  *Premature aging.*
+- **F127** — Journey to animal kingdom.
+  *Usually underground.*
+- **F127.1** — Journey to serpent kingdom.
+- **F127.1.1** — Subterranean palace at bottom of lake belonging to king of serpents.
+- **F127.2** — Journey to land of elephants.
+- **F127.3** — Journey to land of crocodiles.
+- **F129** — Miscellaneous otherworlds.
+- **F129.1** — Journey to Land of Men of Heads only.
+- **F129.2** — Voyage to Land of Mossynoikoi.
+  *(People of topsy-turvy morals.)*
+- **F129.3** — Voyage to the Land of the Cimmerians.
+  *People who dwell amid clouds of gloom and never see sun.*
+- **F129.4** — Journey to otherworld island.
+- **F129.4.1** — Journey to Isle of Tears.
+- **F129.4.2** — Voyage to Isle of Truth.
+  *People cannot lie.*
+- **F129.4.3** — Voyage to Isle of Shape.
+  *Visitors become beautiful.*
+- **F129.4.4** — Voyage to Isle of the Dead.
+  *Visitors who sleep there die.*
+- **F129.4.5** — Voyage to Island of Darkness.
+- **F129.4.6** — Voyage to Island of Silence.
+- **F129.5** — Journey to land of no return.
+- **F129.5.1** — Hero takes a mare to ride to land of no return: mare has just foaled and brings him back in her anxiety over her foal.
+- **F129.6** — Land where everyone is wise, from the raja on his throne to the beggar in the bazaar.
+- **F129.7** — Journey to land of naked people.
+- **F130** — Location of otherworld.
+- **F130.1** — Land of India (Greece) as otherworld.
+- **F130.2** — Spain as otherworld.
+- **F130.3** — Ancient Ireland as location of otherworld.
+- **F131** — Otherworld in hollow mountain.
+- **F131.1** — Mountain of Venus.
+  *Hollow mountain otherworld where men live a life of ease and lustful pleasure in company with beautiful women.*
+- **F131.1.1** — Mountain of fair-haired women.
+- **F132** — Otherworld on lofty mountain.
+- **F132.0.1** — Otherworld visible from high mountain.
+- **F132.1** — Earthly paradise on mountain.
+- **F132.1.1** — Earthly paradise in air over mountain.
+- **F132.2** — Dwelling of Fortune on lofty mountain.
+- **F133** — Submarine otherworld.
+- **F133.1** — Marine counterpart to land.
+  *All that exists on earth has its parallel in the sea.*
+- **F133.2** — Empty under-water house.
+- **F133.3** — Submarine monastery.
+- **F133.4** — Otherworld at bottom of pond.
+- **F133.5** — Otherworld at bottom of well.
+- **F134** — Otherworld on island.
+- **F134.0.1** — Series of otherworld islands.
+- **F134.1** — Hebrides, Isle of Man (Falga) as otherworld.
+- **F134.2** — Otherworld island disappears leaving voyagers in boat at sea.
+- **F134.3** — Otherworld island divided into four parts.
+- **F134.4** — Divine swans are on an inaccessible island in middle of seven seas.
+- **F135** — Bruidhen (banqueting-hall) as otherworld.
+- **F136** — Direction of otherworld.
+- **F136.1** — Otherworld in east.
+- **F136.2** — Otherworld in west.
+- **F136.3** — Otherworld in northwest.
+- **F137** — Distance of otherworld.
+- **F140** — Bounds of the otherworld.
+- **F140.1** — Guardian of spirit-land boundary.
+- **F141** — Water barrier to otherworld.
+- **F141.0.1** — Otherworld beyond water confused with otherworld under water.
+- **F141.0.2** — Otherworld beyond water confused with otherworld under hill.
+- **F141.1** — River as barrier to otherworld.
+- **F141.1.1** — Perilous river as barrier to otherworld.
+- **F141.1.2** — River that cannot be crossed by mortals.
+- **F141.1.3** — River between the realms of giants and gods never freezes.
+- **F141.2** — Mist as barrier to otherworld.
+- **F141.2.1** — Storm (snow, hail) as barrier to otherworld.
+- **F141.3** — Waves form high wall around otherworld isle.
+- **F141.4** — Waterfall as barrier to otherworld.
+- **F142** — River of fire as barrier to otherworld.
+- **F143** — Wood at borders of otherworld.
+- **F144** — Plain (field) at borders of otherworld.
+- **F144.1** — Forked glen full of toads, lions on way to otherworld.
+- **F145** — Mountain at borders of otherworld.
+- **F145.1** — Glass mountain at borders of otherworld.
+  *Mountain is extremely slippery.*
+- **F147** — Houses at border of otherworld.
+- **F147.1** — Tenantless houses at border of otherworld.
+- **F147.2** — Hermit's hut at border of otherworld.
+- **F147.3** — Witch's house at border of otherworld.
+- **F147.4** — Inn at border of otherworld.
+- **F148** — Wall around otherworld.
+- **F148.1** — Fiery rampart revolves around otherworld isle.
+- **F148.2** — Wall of silver around otherworld.
+- **F148.3** — Otherworld surrounded by palisade of gold and silver.
+- **F148.4** — Palisade of bronze around otherworld.
+- **F148.5** — Otherworld surrounded by seven walls and locks of iron and doors of iron.
+- **F149** — Bounds of the otherworld miscellaneous.
+- **F149.1** — Stone barrier to otherworld.
+- **F150** — Access to otherworld.
+- **F150.1** — Way to otherworld hard to find.
+- **F150.2** — Entrance to other world guarded by monsters (or animals).
+- **F150.2.1** — Entrance to otherworld guarded by giant (champion).
+- **F150.2.2** — Entrance to otherworld guarded by spirits.
+- **F150.2.3** — Entrance to otherworld guarded by north and south winds.
+- **F150.3** — Challenge at entrance of otherworld.
+  *The adventurer challenges or is challenged.*
+- **F150.3.1** — Shield hung on pole in front of otherworld palace as signal that adventurer must fight with owner.
+- **F150.3.2** — Standing stone surrounded by withe as challenge at entrance of otherworld.
+- **F151** — Road to otherworld.
+- **F151.0.1** — Hospitable host entertains (guides, advises) adventurer on way to otherworld.
+- **F151.1** — Perilous path to otherworld.
+- **F151.1.1** — Perilous valley.
+- **F151.1.2** — Perilous glen on way to otherworld.
+- **F151.1.3** — Perilous forest on way to otherworld.
+- **F151.1.4** — Perilous ford on way to otherworld.
+- **F151.1.5** — Place in underworld beyond which hero cannot pass without being tatooed.
+- **F151.1.6** — Path to otherworld over sharp rocks.
+- **F151.2** — Mountain pass to otherworld.
+- **F152** — Bridge to otherworld.
+- **F152.0.1** — Bridge to otherworld guarded by animals.
+- **F152.1** — Materials of bridge to otherworld.
+- **F152.1.1** — Rainbow bridge to otherworld.
+- **F152.1.2** — Bridge of sunbeams to otherworld.
+- **F152.1.3** — Golden bridge to otherworld.
+- **F152.1.4** — Glass bridge to otherworld.
+- **F152.1.5** — Rope bridge to otherworld.
+- **F152.1.6** — Sword bridge to otherworld.
+- **F152.1.6.1** — Bridge to otherworld covered with knives.
+- **F152.1.7** — Bridge of thread on way to world of dead.
+- **F152.1.8** — Aurora as bridge to otherworld.
+- **F152.2** — Slamming drawbridge to otherworld.
+  *Slams as hero leaves and (almost) injures him. He has failed to do the one compulsory thing. (Percival.)*
+- **F153** — Otherworld reached by diving into water (of well or lake).
+- **F153.1** — Underground channel to otherworld.
+- **F154** — Path to sun on sun's rays (eyelashes).
+- **F155** — Journey to otherworld by clinging magically to an object.
+- **F156** — Door to otherworld.
+- **F156.1** — Door to otherworld island sounds sleep-bringing music.
+- **F156.2** — Door to otherworld island in supporting pedestal.
+- **F156.3** — Perilous revolving wheel at entrance to otherworld.
+- **F156.4** — Slamming (falling) door to otherworld.
+- **F156.5** — Eleven portals to otherworld.
+- **F157** — Journey to otherworld in boat.
+- **F157.1** — Journey to otherworld in crystal (glass) boat.
+- **F158** — Pit entrance to otherworld.
+- **F159** — Other means to reach the otherworld.
+- **F159.1** — Otherworld reached by hunting animal.
+- **F159.2** — Journey to otherworld on horseback.
+- **F159.3** — Wheel (apple) to be followed to otherworld.
+- **F159.4** — Demon guide on otherworld journey.
+- **F160** — Nature of the otherworld.
+- **F160.0.1** — Otherworld overseas confused with otherworld underground.
+- **F160.0.1.1** — Otherworld overseas confused with otherworld under water.
+- **F160.0.2** — Fairy otherworld confused with land of the dead.
+- **F160.0.3** — Pagan otherworld identified with Christian paradise (heaven).
+- **F160.1** — Otherworld as great plain.
+- **F160.2** — Otherworld as valley.
+- **F161** — Weather in otherworld.
+- **F161.1** — Perpetual summer in otherworld.
+  *No storms.*
+- **F161.1.1** — Summer in otherworld when it is winter in world of mortals.
+- **F162** — Landscape of otherworld.
+- **F162.0.1** — Objects of crystal in otherworld.
+- **F162.0.1.1** — Island of glass in otherworld.
+- **F162.0.1.2** — (Luminous) precious stones in otherworld (dwelling).
+- **F162.1** — Garden in otherworld.
+- **F162.1.1** — Everblooming garden in otherworld.
+- **F162.1.2** — Contrasting qualities found in otherworld garden.
+- **F162.1.2.1** — Sweet and bitter fountain in otherworld garden.
+- **F162.1.2.2** — Cool and boiling fountain in otherworld garden.
+- **F162.1.2.3** — Objects on one side of palisade in otherworld garden black, on other white.
+- **F162.1.2.4** — Tree half green and half in flame in otherworld garden.
+- **F162.1.2.5** — Island in otherworld garden inhabited half by dead and half by living.
+- **F162.1.3** — Trees bloom, others bear concurrently in otherworld garden.
+- **F162.1.3.1** — All-yielding tree in otherworld.
+- **F162.2** — Rivers in otherworld.
+- **F162.2.1** — The four rivers of Paradise.
+- **F162.2.2** — Rivers of wine in otherworld.
+- **F162.2.3** — Rivers of honey in otherworld.
+- **F162.2.4** — Rivers of mead in otherworld.
+- **F162.2.5** — Rivers of balsam and attar in otherworld.
+- **F162.2.6** — Rivers of oil, milk, wine, and honey in otherworld.
+- **F162.2.7** — Thirteen rivers of balm in otherworld.
+- **F162.2.8** — River in paradise with terrible roar.
+  *Robs people of hearing.*
+- **F162.2.9** — Flowing stream forms arc over otherworld isle.
+- **F162.2.10** — Jewels in streams of otherworld.
+- **F162.2.11** — Perilous river in otherworld.
+- **F162.2.12** — River in underworld from tears of living.
+- **F162.2.13** — Underworld river from blood of sick mortals.
+- **F162.3** — Tree in otherworld.
+- **F162.3.0.1** — Marvelous tree grown from otherworld fruit.
+- **F162.3.1** — Tree of Life in otherworld.
+  *Nourishes mankind.*
+- **F162.3.2** — Wishing-tree in otherworld.
+- **F162.3.3** — Tree in otherworld in perpetual fruit.
+- **F162.3.4** — Magic apple tree in otherworld.
+- **F162.3.4.1** — Magic apples (trees) under the sea.
+- **F162.3.5** — Tree of knowledge of good and evil in otherworld.
+- **F162.3.6** — Tree with golden top in otherworld.
+- **F162.4** — Sea of glass in otherworld.
+- **F162.4.1** — Sea of ice in otherworld.
+- **F162.5** — Wells in otherworld.
+- **F162.5.1** — Well (of wine) in otherworld.
+- **F162.5.2** — Head in otherworld well emits stream of water from mouth.
+- **F162.5.3** — Well containing "salmon of knowledge" in otherworld.
+- **F162.6** — Lakes in otherworld.
+- **F162.6.1** — Lake of fire in otherworld.
+- **F162.6.2** — Lake with water of life in otherworld.
+- **F162.7** — Rainbow of honey appears regularly in otherworld.
+- **F162.8** — Magic fountain in otherworld.
+- **F162.8.1** — Fountain of any temperature desired in otherworld.
+- **F162.8.2** — Fountains in otherworld one or more streams flow into each, one or more out.
+- **F162.8.3** — Musical fountain in otherworld.
+- **F162.9** — Mountains in otherworld.
+- **F163** — Buildings in otherworld.
+- **F163.1** — Castle in otherworld.
+- **F163.1.1** — Revolving castle in otherworld.
+- **F163.1.2** — Golden castle in otherworld.
+- **F163.1.3** — Castles thatched with golden shields in otherworld.
+- **F163.1.4** — Castles of gold and silver in otherworld.
+- **F163.1.5** — Castles thatched with silver in otherworld.
+- **F163.2** — Church (chapel) in otherworld.
+- **F163.2.1** — Temple in otherworld.
+- **F163.2.1.1** — Temple of jewels in otherworld.
+- **F163.2.2** — Fiery temple in otherworld: Jewish: Neuman.
+- **F163.3** — House in otherworld.
+- **F163.3.1** — House of gold and crystal in otherworld.
+- **F163.3.2** — House of silver in otherworld.
+- **F163.3.2.1** — House in underworld lined with human eyes.
+- **F163.3.2.2** — House in underworld made of bones of dead.
+- **F163.4** — Gigantic mill in otherworld.
+- **F163.5** — Fortress in otherworld.
+- **F163.5.1** — Fortress of metal (gold, silver, etc.) in otherworld.
+- **F163.6** — Stronghold in otherworld.
+- **F163.7** — Tower in otherworld.
+- **F163.7.1** — Tower hanging in the air in the otherworld.
+- **F164** — Habitable caves and mounds in otherworld.
+- **F165** — Characteristics of otherworld dwellings.
+- **F165.1** — Doors in otherworld.
+- **F165.1.0.1** — One hundred doors in palace of otherworld king.
+- **F165.1.0.2** — Magic revolving wheel at door of otherworld dun (stronghold).
+- **F165.1.1** — Doors of gold (crystal) in otherworld dwelling.
+- **F165.2** — Otherworld dwellings open only at certain times.
+- **F165.3** — Rooms in otherworld dwellings.
+- **F165.3.1** — Hall of glass in otherworld.
+- **F165.3.1.1** — Chamber with crystal ceiling in otherworld.
+- **F165.3.2** — Jewelled walls in otherworld dwelling.
+- **F165.3.3** — Floors of silver in otherworld dwelling.
+- **F165.3.4** — Wattling of silver in otherworld dwelling.
+- **F165.3.5** — Windows in otherworld.
+- **F165.3.5.1** — Crystal bower with "bright windows" as otherworld dwelling.
+- **F165.4** — Table always set in otherworld dwellings.
+- **F165.5** — House in otherworld thatched with wings of birds.
+- **F165.6** — Only joy felt in otherworld dwelling.
+- **F165.6.1** — Otherworld (fairyland) as place of sorrowful captivity.
+- **F165.7** — Fire in otherworld dwelling.
+- **F165.7.1** — Four columns around fire in otherworld castle.
+- **F165.8** — Copper-colored house in lower world.
+- **F166** — Furniture and objects in the otherworld.
+- **F166.0.1** — All furniture and objects in otherworld of gold.
+- **F166.1** — Treasure and jewels in otherworld.
+- **F166.1.1** — "Silver Bowl" (Grail) in otherworld.
+- **F166.2** — Gold-producing spring in otherworld.
+- **F166.3** — Extraordinary clothes in otherworld.
+- **F166.3.1** — Otherworld clothing never wears out.
+- **F166.4** — Magic objects in otherworld.
+- **F166.4.1** — King's crown in well in otherworld.
+- **F166.4.2** — Magic cauldron (vessel) in otherworld.
+- **F166.5** — Altar in otherworld.
+- **F166.6** — Thrones in otherworld.
+- **F166.7** — Curtains in otherworld.
+- **F166.8** — Beds in otherworld.
+- **F166.9** — Canopies in otherworld.
+- **F166.10** — Tables in otherworld.
+- **F166.11** — Abundant food in otherworld.
+- **F167** — Inhabitants of otherworld.
+- **F167.1** — Animals in otherworld.
+- **F167.1.1** — Beasts in otherworld.
+- **F167.1.1.1** — Dogs in otherworld.
+- **F167.1.2** — Birds in otherworld.
+- **F167.1.2.1** — Otherworld islands of birds.
+- **F167.1.3** — Insects in otherworld.
+- **F167.1.3.1** — Bees in otherworld.
+- **F167.1.4** — Other animals in otherworld.
+- **F167.1.4.1** — Giant clams in otherworld.
+- **F167.2** — Dwarfs in otherworld.
+- **F167.3** — Giants in otherworld.
+- **F167.4** — People in otherworld walk on their heads.
+- **F167.4.1** — People in otherworld stand on their heads and pound yams with their heads.
+- **F167.5** — Headless people in otherworld.
+- **F167.6** — Handless people in otherworld.
+- **F167.7** — Footless people in otherworld.
+- **F167.8** — Otherworld people unacquainted with fire.
+- **F167.9** — Otherworld people ever young, ever beautiful.
+- **F167.9.1** — Otherworld people rejuvenated on reaching old age.
+- **F167.10** — No carnal sin in otherworld.
+- **F167.11** — Monstrous creatures in otherworld.
+- **F167.11.1** — Serpents (monsters) in otherworld.
+- **F167.11.2** — Hogs with bath of molten lead (iron) in otherworld.
+- **F167.12** — King of otherworld.
+- **F167.12.1** — Mortal marries king of otherworld.
+- **F167.13** — Angels in otherworld.
+- **F167.14** — Otherworld inhabitants segregated.
+- **F167.14.1** — Portion of otherworld for women.
+- **F167.15** — Great tattooer in otherworld.
+- **F167.16** — Beings born in otherworld suffer from excessive heat.
+- **F168** — Villages in otherworld.
+- **F169** — Nature of the otherworld miscellaneous.
+- **F169.1** — Pillars of silver and glass in otherworld.
+- **F169.1.1** — Pillars of bronze in otherworld.
+- **F169.1.2** — Pillars of gold in otherworld.
+- **F169.1.3** — Four-sided silver column on otherworld island.
+- **F169.2** — Walls of crystal in otherworld.
+- **F169.3** — Ship of glass in otherworld.
+- **F169.4** — Silver fishnet in otherworld.
+- **F169.5** — Fence of metal or crystal in otherworld.
+- **F169.6** — Gold chain as support in otherworld.
+- **F169.7** — Coldness of otherworld.
+- **F169.7.1** — Fire in otherworld makes one feel colder.
+- **F169.8** — Abundance in otherworld.
+- **F169.9** — Pleasant fragrance in otherworld.
+- **F170** — Otherworld miscellaneous motifs.
+- **F171** — Extraordinary sights in otherworld.
+- **F171.0.1** — Enigmatic happenings in otherworld, which are later explained.
+- **F171.1** — Fat and lean kine in otherworld.
+- **F171.2** — Broad and narrow road in otherworld.
+- **F171.3** — People and things that strike one another in otherworld.
+- **F171.4** — Fighting animals seen in otherworld.
+  *Rams and she-goats or wild boars.*
+- **F171.5** — Animals in otherworld pass in and out of church and become human beings.
+- **F171.6** — Mysterious punishments in otherworld.
+- **F171.6.1** — Man in otherworld loaded down with wood.
+  *Then more and more put on him.*
+- **F171.6.2** — People in otherworld pour water into tub full of holes.
+- **F171.6.3** — Trying to get a beam through a door crosswise in otherworld.
+- **F171.6.4** — People in otherworld with horses both before and behind wagon.
+  *They pull against each other.*
+- **F171.6.5** — Man in otherworld kindles fire.
+  *It burns out repeatedly while he is gathering more wood.*
+- **F171.6.6** — People in otherworld thatch house with birds' wings.
+  *Thatch blows away while they go for more.*
+- **F171.7** — Unseen hands lave feet in otherworld.
+- **F171.8** — Demon eats sand; gambler lives wretched life in otherworld.
+- **F172** — No time, no birth, no death in otherworld.
+- **F172.1** — No gloom, no envy, etc. in otherworld.
+- **F173** — Otherworld land of happiness.
+- **F173.1** — Otherworld land of pleasure.
+- **F173.2** — Otherworld land of peace.
+- **F173.3** — Perpetual feasts in otherworld.
+- **F174** — Hero carried off to otherworld by his supernatural wives.
+- **F174.1** — Hero forces otherworld person's wife to tell him way to otherworld.
+- **F175** — Magic music lures to otherworld journey.
+- **F176** — Hero fights in otherworld and overcomes king (queen), or fairy.
+- **F176.1** — Hero fights giants who ruin fairyland.
+- **F177** — "Heavenly Academy" in otherworld.
+- **F177.1** — Court in otherworld.
+- **F178** — Colors of the otherworld.
+- **F178.1** — Red as otherworld color.
+- **F178.2** — Green as otherworld color.
+- **F181** — Lovemaking in otherworld.
+- **F182** — Mortals held by magic in otherworld.
+- **F183** — Foods in otherworld.
+- **F183.1** — Automatic service in otherworld: any sort of food desired furnished.
+- **F184** — Otherworld king.
+- **F184.1** — Wounded otherworld king in Ireland.
+- **F185** — Otherworld queen.
+- **F199** — Additional otherworld motifs.
+
+## Fairies (elves)
+
+- **F200** — Fairies (elves).
+- **F200.1** — Pixies (little people unseen but often audible and occasionally caught).
+- **F201** — Bongas.
+  *Roughly equivalent to fairies. Generally malevolent, but often not.*
+- **F205** — Little people from the sky.
+- **F210** — Fairyland.
+- **F210.1** — Tabu: fighting battle in fairyland.
+- **F211** — Fairyland under hollow knoll.
+  *Usually entered under roots of trees.*
+- **F211.0.1** — Prehistoric burial mounds as dwellings of fairies.
+- **F211.0.2** — Contrast between people of the fairy mounds and inhabitants of the Land of Promise.
+- **F211.0.2.1** — Tuatha Di Danann, conquerors of Ireland, are overcome by invaders.
+  *(Maic Milid, "Milesians," Gaels) and betake themselves into hills.*
+- **F211.1** — Entrance to fairyland through door in knoll.
+- **F211.1.1** — Door to fairyland opens once a year.
+- **F211.1.1.1** — Fairies emerge on Hallowe'en.
+- **F211.1.1.2** — Fairies emerge on St. John's night.
+- **F211.2** — Fairyland entrance under stone.
+- **F211.3** — Fairies live under earth.
+- **F212** — Fairyland under water.
+- **F212.0.1** — Water fairies.
+- **F212.1** — Fairyland entered through well.
+- **F213** — Fairyland on island.
+- **F213.1** — Magic boat to fairyland.
+- **F213.2** — Fairies ferried across stream.
+- **F213.3** — Sea-riding horse carries mortals to fairyland.
+- **F214** — Trolls (fairies) live in range of hills.
+- **F215** — Fairies live in star-world.
+- **F215.1** — Fairyland in sky.
+- **F215.1.1** — Fairies in heaven.
+- **F215.2** — Peris in sky-world.
+- **F216** — Fairies live in forest.
+- **F216.1** — Fairies live in trees by stream.
+- **F216.2** — Bonga lives in tree.
+- **F217** — Congregating places of fairies.
+- **F217.1** — Fairy lights seen in low places.
+- **F217.2** — Fairies assemble at milestone.
+- **F217.3** — Fairies assemble at cross-roads.
+- **F219** — Other dwelling places of fairies.
+- **F219.1** — Fairies dwell in the next country.
+- **F219.2** — Garden in fairyland.
+- **F219.3** — Fairies dwell in land to the east.
+- **F220** — Dwelling of fairies.
+- **F221** — House of fairy.
+- **F221.1** — Fairy house disappears at dawn.
+- **F221.2** — Bonga house filled with snakes, tigers, and lions.
+- **F221.3** — Fairies have a pretty room in hill.
+- **F221.4** — Fairy family lives in neat cottage.
+- **F221.5** — Fairy house without doors.
+- **F222** — Fairy castle.
+- **F222.1** — Fairies' underground palace.
+- **F222.1.1** — Fairies' underground palace cannot be burned by fire nor destroyed by water.
+- **F222.2** — Fairy stronghold.
+- **F222.3** — Fairy castle of glass.
+- **F223** — Fairy hall.
+- **F224** — Shining bower on a pillar for fie in otherworld.
+- **F225** — Fairy lives in a shell.
+- **F230** — Appearance of fairies.
+- **F231** — Fairy's limbs.
+- **F231.1** — Fairy's arms.
+- **F231.1.1** — Fairy's iron arms.
+- **F231.2** — Fairy's feet.
+- **F231.2.1** — Fairies with bird feet.
+- **F232** — Body of fairy.
+- **F232.1** — Fairies have hollow backs.
+- **F232.1.1** — Fairies have huge hole in each armpit.
+- **F232.1.2** — Fairy has back rough like pine cone.
+- **F232.2** — Fairies have breasts long enough to throw over their shoulders.
+- **F232.3** — Fairies with unusually large ears.
+- **F232.4** — Fairies have long hair.
+- **F232.4.1** — Fairy as a small pretty girl with blond hair.
+- **F232.4.2** — Fairy princess with golden hair.
+- **F232.5** — Fairies have hairy bodies.
+- **F232.6** — Fairies as giants.
+- **F232.7** — Elves have only half a thumb.
+- **F232.8** — Fairy has long tail.
+- **F233** — Color of fairy.
+- **F233.1** — Green fairy.
+- **F233.1.1** — Fairy has one side green.
+- **F233.2** — Silver-colored fairy.
+- **F233.3** — Red fairy.
+- **F233.3.1** — Fairy has red eyes.
+- **F233.4** — Fairy's son is pale, dark, and ugly.
+- **F233.5** — Fairies have yellow (golden) hair (clothing).
+- **F233.5.1** — Fairy king with yellow hair.
+- **F233.6** — Fairies fair (fine, white).
+- **F233.7** — Fairies are multicolored.
+- **F233.8** — Fairies are brown and hairy.
+- **F233.9** — Fairies are black.
+- **F233.10** — Gray-bearded fairy.
+- **F234** — Transformed fairy.
+- **F234.0.1** — Fairy transforms self.
+- **F234.0.2** — Fairy as shape-shifter.
+- **F234.1** — Fairy in form of an animal.
+- **F234.1.0.1** — Fairy in form of giant animal.
+- **F234.1.1** — Fairy in form of cow (bull).
+- **F234.1.2** — Fairy in form of goat.
+- **F234.1.3** — Fairy in form of swine.
+- **F234.1.3.1** — Fairy in form of wild boar.
+- **F234.1.4** — Fairy in form of stag.
+- **F234.1.4.1** — Fairy in form of doe.
+- **F234.1.5** — Fairy in form of toad.
+- **F234.1.6** — Fairy in form of frog.
+- **F234.1.7** — Fairy in form of worm (snake, serpent).
+- **F234.1.8** — Fairy in form of horse.
+- **F234.1.9** — Fairy in form of dog.
+- **F234.1.9.1** — Fairy in form of lapdog.
+- **F234.1.9.2** — Fairy in form of greyhound.
+- **F234.1.10** — Fairy in form of eel.
+- **F234.1.11** — Fairy in form of sheep.
+- **F234.1.12** — Fairy in form of hare.
+- **F234.1.13** — Fairy in form of wolf.
+- **F234.1.14** — Fairy in form of weasel.
+- **F234.1.15** — Fairy in form of bird.
+- **F234.1.15.1** — Fairy as swan.
+- **F234.1.15.2** — Fairy in form of dove.
+- **F234.1.15.3** — Fairy in form of sparrow.
+- **F234.1.15.4** — Fairy in form of drake.
+- **F234.1.16** — Fairy in form of insect.
+- **F234.1.16.1** — Fairy in form of fly.
+- **F234.1.16.2** — Fairy in form of moth.
+- **F234.1.16.3** — Fairy in form of ant.
+- **F234.2** — Fairy in form of person.
+- **F234.2.1** — Fairy in form of hag.
+- **F234.2.2** — Fairy in hideous form.
+- **F234.2.3** — Fairy as headless woman.
+- **F234.2.4** — Fairy in likeness of another.
+- **F234.2.4.1** — Clerics mistaken for fairies.
+- **F234.2.5** — Fairy in form of beautiful young woman.
+- **F234.2.6** — Fairy as messenger from fairyland.
+- **F234.2.7** — Fairy as guide to fairyland.
+- **F234.2.8** — Fairy assumes shape of woman and frequents bazaars.
+- **F234.3** — Fairy in form of object.
+- **F234.3.1** — Fairy disappears in form of a cloud.
+- **F234.3.2** — Bonga girl (fairy) appears as flame.
+- **F234.3.3** — Fairy in form of a bundle of rags.
+- **F234.4** — Transformed fairy miscellaneous.
+- **F234.4.1** — Horse used by mortal under fairy spell changes to gray cat.
+- **F235** — Visibility of fairies.
+- **F235.1** — Fairies invisible.
+- **F235.2** — Fairies visible only at certain times.
+- **F235.2.1** — Fairies visible only at night.
+- **F235.2.2** — Fairies visible only at noonday.
+- **F235.3** — Fairies visible to one person alone.
+- **F235.4** — Fairies made visible through use of magic object.
+- **F235.4.1** — Fairies made visible through use of ointment.
+- **F235.4.2** — Fairies made visible through use of magic soap.
+- **F235.4.3** — Fairies made visible through use of magic stone on eyes.
+- **F235.4.4** — Fairies made visible through use of magic water.
+- **F235.4.5** — Fairies made visible through the use of saliva.
+- **F235.4.6** — Fairies made visible when one carries four-leaf clover.
+- **F235.5** — Fairies made visible by stepping on certain spot.
+- **F235.5.1** — Fairies made visible by standing on another's foot.
+- **F235.5.2** — Fairies made visible when person steps into fairy ring.
+- **F235.6** — Fairies visible through magic ring.
+- **F235.7** — Fairies seen as dark shadows.
+- **F235.8** — Fairies lose power of invisibility.
+- **F235.8.1** — Fairies lose power of invisibility if mortals gain knowledge of their secret.
+- **F235.8.2** — Fairies made visible by looking with left eye.
+- **F235.9** — Fairies made visible when person walks three times around field where cows are grazing at night.
+- **F236** — Dress of fairies.
+- **F236.0.1** — Ill-dressed otherworld person.
+- **F236.1** — Color of fairy's clothes.
+- **F236.1.1** — Fairies in red clothes.
+- **F236.1.2** — Fairies in blue clothes.
+- **F236.1.3** — Fairies in white clothes.
+- **F236.1.4** — Fairies in gray clothes.
+- **F236.1.5** — Fairies in gleaming clothes.
+- **F236.1.6** — Fairy in green clothes.
+- **F236.1.7** — Fairy wears multi-colored dress.
+- **F236.2** — Fairies in long robes.
+- **F236.3** — Fairies with belts and hats.
+- **F236.3.1** — Fairies with three-cornered hats.
+- **F236.3.2** — Fairies with red caps.
+- **F236.3.3** — Fairy wears sugar-loaf hat.
+- **F236.4** — Fairies with gold crowns on head.
+- **F236.5** — Fairy wears boorish clothes.
+- **F236.5.1** — Fairies wear patched coats.
+- **F236.6** — Fairies wear gay clothing.
+- **F237** — Fairies in disguise.
+- **F238** — Fairies are naked.
+- **F239** — Appearance of fairies miscellaneous.
+- **F239.1** — Fairies tied together by hair.
+- **F239.2** — Fairy women identical in form and feature.
+- **F239.3** — Fairy breathes fire.
+- **F239.4** — Size of fairies.
+- **F239.4.1** — Fairies are the same size as mortals.
+- **F239.4.2** — Fairies are the size of small children.
+- **F239.4.3** — Fairy is tiny.
+- **F239.5** — Elves have faces of wrinkled old men.
+- **F239.6** — Fairy's tears pearls.
+- **F240** — Possessions of fairies.
+- **F241** — Fairies' animals.
+- **F241.0.1** — Fairy animal hunted.
+- **F241.1** — Fairies' horses.
+- **F241.1.0.1** — Fairy cavalcade.
+- **F241.1.1** — Color of fairies' horses.
+- **F241.1.1.1** — Fairies ride white horses.
+- **F241.1.1.2** — Fairies ride dapple-gray horses.
+- **F241.1.1.3** — Blue, red, yellow horses in fairyland.
+- **F241.1.1.4** — Fairies ride cream-colored horses.
+- **F241.1.2** — Behavior of fairies' horses.
+- **F241.1.2.1** — Fairies' horses water at peasant's well.
+- **F241.1.2.2** — Fairies' mare foals every year on first of May.
+- **F241.1.3** — Fairies ride on three-legged horses.
+- **F241.1.3.1** — Fairy horse one-legged.
+- **F241.1.4** — Fairies' horses have round shoes.
+- **F241.1.5** — Fairy's horse becomes invisible.
+- **F241.1.6** — Fairy horse pulls chariot by pole which passes through his body.
+- **F241.1.7** — Fairies steal stalks of hemp and turn them into horses.
+- **F241.1.8** — Size of fairies' horses.
+- **F241.1.8.1** — Fairies' horses the size of greyhounds.
+- **F241.1.8.2** — Fairies' horses are of normal size.
+- **F241.2** — Fairies' cows.
+- **F241.2.1** — Color of fairies' cows.
+- **F241.2.1.1** — Fairies have red cows.
+- **F241.2.2** — Fairies' cattle become invisible.
+- **F241.2.3** — Fairies' cattle under a lake.
+- **F241.2.4** — Fairy cattle graze on earth on Hallowe'en.
+- **F241.2.5** — Woman (fairy) lives only on milk from fairy cow.
+- **F241.3** — Hogs follow fairies.
+- **F241.3.1** — Spirit owns herds of pigs.
+- **F241.4** — Goats follow fairies.
+- **F241.5** — Fairies have herds of deer.
+- **F241.5.1** — Fairies own herd of ibexes.
+- **F241.6** — Fairy dogs.
+- **F241.7** — Fairies have sheep.
+- **F241.8** — Fairies have poultry.
+- **F242** — Fairies' conveyances.
+- **F242.1** — Fairy car.
+- **F242.1.1** — Fairy car becomes invisible.
+- **F242.1.2** — Fairy chariot rides waves.
+- **F242.1.3** — Fairy chariot of precious metal.
+- **F242.1.4** — Glass car.
+- **F242.2** — Fairy boat.
+- **F242.2.1** — Glass boat for fairy.
+- **F242.2.2** — Fairy boat of bronze.
+- **F242.2.3** — Fairy boat from flax-stem.
+- **F243** — Fairies' food.
+- **F243.0.1** — Christianized fairy woman refuses to eat fairy food.
+- **F243.1** — Fairies' bread.
+- **F243.2** — Fairies eat nuts.
+- **F243.3** — Fairies eat meat.
+- **F243.3.1** — Animals eaten by fairies become whole again.
+- **F243.4** — Fairy food undiminished when eaten.
+- **F243.5** — Fairies' food gives immortality.
+- **F244** — Fairies' treasure.
+- **F244.1** — " The Four Jewels of the Tuatha Di Danann"  (fairies?)
+- **F244.2** — Fairy shows hiding place of treasure in return for freedom.
+- **F244.3** — Fairy fetches mortals to remove treasure hidden by ghosts in their lifetimes.
+- **F244.4** — Fairies scare treasure-seeker away from hoard.
+  *They get bigger and bigger, and cause violent storms until seeker leaves.*
+- **F244.5** — Fairies dig for treasure.
+- **F244.6** — Fairies guard giants' treasures.
+- **F245** — Fairies' musical instruments.
+- **F245.1** — Fairy harp.
+- **F246** — Fairy tobacco pipes.
+- **F250** — Other characteristics of fairies.
+- **F251** — Origin of fairies.
+- **F251.1** — Fairies as descendants of early race of gods.
+- **F251.1.1** — Goddess as fairy.
+- **F251.1.2** — Fairies as gods.
+- **F251.2** — Fairies as souls of departed.
+- **F251.3** — Unbaptized children as fairies.
+- **F251.4** — Underworld people from children which Eve hid from God.
+- **F251.5** — Fairies as sprites who have been given immortality.
+- **F251.6** — Fairies as fallen angels.
+- **F251.7** — Fairies as demons.
+- **F251.8** — Fairy professes faith in Christianity.
+- **F251.9** — Fairy gives instructions on means of reaching heaven.
+- **F251.10** — Fairies are not the children of Adam.
+- **F251.11** — Fairies are people not good enough for heaven but not bad enough for hell.
+- **F251.12** — Fairies are druids.
+- **F251.13** — Fairies are Welsh women cursed by St. Patrick for rebuking him because he left Wales for Ireland.
+- **F251.14** — Fairies are outlaws hiding out.
+- **F252** — Government of fairies.
+- **F252.1** — Fairy king.
+- **F252.1.0.1** — Mortal rules fairyland jointly with fairy king.
+- **F252.1.0.2** — King of Land under Water.
+- **F252.1.1** — Fairies elect king.
+- **F252.1.2** — Indra has control over fairies.
+- **F252.2** — Fairy queen.
+- **F252.3** — Fairy army.
+- **F252.3.1** — Soldiers of fairy king are trees by day and men by night.
+- **F252.4** — Fairies banished from fairyland.
+- **F252.4.1** — Fairy banished for adultery.
+- **F252.4.2** — Fairy banished for falsehood.
+- **F253** — Extraordinary powers of fairies.
+- **F253.1** — Extraordinary physical powers of fairies.
+- **F253.1.1** — Fairies possess extraordinary strength.
+- **F253.1.1.1** — Fairy as mighty lifter.
+- **F254** — Mortal characteristics of fairies.
+- **F254.1** — Fairies have physical disabilities.
+- **F254.2** — Fairies not omniscient.
+- **F254.3** — Fairies can be bewitched.
+- **F254.4** — Fairies can be wounded.
+- **F254.5** — Fairies commit adultery.
+- **F255** — Peculiar limitations of fairies.
+- **F255.1** — Fairies must trade whenever it is demanded of them.
+  *It does not matter how uneven the trade may be.*
+- **F255.2** — Fairies can set down an object once but cannot raise it again.
+- **F255.3** — Fairies once seen by mortals no longer invisible at will.
+- **F255.4** — Fairy army can go among mortals only on Hallowe'en.
+- **F255.5** — Fairies do not bend grass as they walk.
+- **F256** — Fairies read men's thoughts.
+- **F256.1** — Mortal's coming to fairyland foreknown to fairies.
+- **F257** — Tribute taken from fairies by fiend at stated periods.
+- **F258** — Fairies gregarious.
+- **F258.1** — Fairies hold a fair.
+- **F259** — Characteristics of fairies miscellaneous.
+- **F259.1** — Mortality of fairies.
+- **F259.1.1** — Fairies kill each other.
+- **F259.1.2** — Fairy becomes mortal.
+- **F259.1.3** — Fairy dies of longing for fairyland.
+- **F259.1.4** — Fairies immortal.
+- **F259.1.4.1** — Fairies cannot be slain.
+- **F259.2** — Fairies freed from disgrace by bathing in blood of enemy.
+- **F259.3** — Fairy reveals her true identity when despite heavy rain she remains dry.
+- **F260** — Behavior of fairies.
+- **F261** — Fairies dance.
+- **F261.1** — Fairy rings on grass.
+- **F261.1.1** — Fairies dance by themselves in fairy ring.
+- **F261.2** — Fairy dances in snow: no tracks left.
+- **F261.2.1** — Fairies dance on leaves without disturbing them.
+- **F261.3** — Other locations of fairy dancing.
+- **F261.3.1** — Fairies dance under tree.
+- **F261.3.1.1** — Fairies dance under hawthorn trees.
+- **F261.3.1.2** — Fairies dance under oak tree.
+- **F261.3.2** — Fairies dance on foxglove.
+- **F261.3.3** — Fairies dance in orchard.
+- **F261.3.4** — Fairies dance in ditches.
+- **F261.3.5** — Fairies dance in hay in barn.
+- **F261.3.6** — Fairies dance on the green.
+- **F261.3.7** — Fairies dance before Indra.
+- **F262** — Fairies make music.
+- **F262.1** — Fairies sing.
+- **F262.2** — Fairies teach bagpipe-playing.
+- **F262.3** — Fairy minstrel.
+- **F262.3.1** — Fairy as harper.
+- **F262.3.1.1** — Fairy harper plays two harps at once.
+- **F262.3.1.2** — Fairy harper in yew tree.
+- **F262.3.1.3** — Fairy harper in tiny bronze boat.
+- **F262.3.2** — Fairy minstrel's birds sing accompaniment.
+- **F262.3.3** — Fairy minstrel's music heard far and wide.
+- **F262.3.4** — Fairy music causes sleep.
+- **F262.3.5** — Fairy music causes mourning.
+- **F262.3.6** — Fairy music causes joy (laughter).
+- **F262.3.7** — Fairy music causes weakness.
+- **F262.4** — Fairy music compared to music of Heaven.
+- **F262.5** — Fairy music person listening is without food or sleep for a year.
+- **F262.6** — Fairy music so potent it would cause wounded men to sleep.
+- **F262.7** — Fairies whistle.
+- **F262.8** — Fairy horns heard by mortals.
+- **F262.9** — Fairy music makes seven years seem like one day to mortal hearer.
+- **F262.10** — Fairy music -miscellaneous.
+- **F262.10.1** — Fairy music issues from stone.
+- **F262.10.2** — Fairy music issues from fairy ring.
+- **F263** — Fairies feast.
+- **F263.1** — Fairy's share of feast a nut.
+- **F264** — Fairy wedding.
+- **F265** — Fairy bathes.
+- **F265.1** — Fairies frequently use bath house.
+- **F266** — Fairies warm themselves.
+- **F267** — Fairies attend games.
+- **F268** — Burial among underworld folk.
+- **F268.1** — Burial service for fairy queen is held at night in Christian church.
+- **F271** — Fairies as laborers.
+- **F271.0.1** — Fairies as craftsmen.
+- **F271.0.2** — Fairies lacking axes work with their teeth.
+- **F271.1** — Fairies milk cows.
+- **F271.2** — Fairies as builders.
+- **F271.2.0.1** — Fairies build great structures in one night.
+- **F271.2.1** — Fairies excavate passage.
+- **F271.2.2** — Fairies build causeway.
+- **F271.2.3** — Fairies build canoe.
+- **F271.3** — Fairies skillful as smiths.
+- **F271.4** — Fairies work on cloth.
+- **F271.4.1** — Fairies bleach linen.
+- **F271.4.2** — Fairies skillful as weavers.
+- **F271.4.3** — Fairies spin.
+- **F271.5** — Fairies clear land.
+- **F271.6** — Fairy as herdsman.
+- **F271.7** — Fairies churn.
+- **F271.8** — Fies engage in needlework.
+- **F271.9** — Fairies wash their clothes: they are heard only at this task.
+- **F271.10** — Fairies bake bread.
+- **F273** — Fairy shows remarkable skill.
+- **F273.1** — Fairy shows remarkable skill as marksman.
+- **F273.2** — Fairy shows remarkable skill as runner.
+- **F274** — Fairy physician.
+- **F275** — Fairies descend chimney.
+- **F276** — Fairies call out to mortals.
+- **F277** — Battle of fairies and gods.
+- **F277.0.1** — War between fairy settlements.
+- **F277.0.2** — Fairies fight among selves for possession of island.
+- **F277.0.3** — Good and bad fairies battle.
+- **F278** — Fairies' strategy.
+- **F278.1** — Fairy casts huge stones to keep enemies off.
+- **F278.2** — Fairies create magic concealing mist.
+- **F281** — Fairy replaces man's heart with heart of straw.
+  *Eyes with wood, etc.*
+- **F282** — Fairies travel through air.
+- **F282.1** — Fairies travel in eddies of wind.
+- **F282.2** — Formulas for fairies' travel through air.
+- **F282.3** — Fairies come from the kingdom of Indra to earth in four flying thrones.
+- **F285** — Anchor falls on fairies.
+
+## Marriage or liaison with fairy
+
+- **F300** — Marriage or liaison with fairy.
+- **F300.1** — Giants guard fairy princess from mortal man.
+- **F300.2** — Husband pursues fairy wife to heaven.
+- **F301** — Fairy lover.
+- **F301.1** — Summoning fairy lover.
+- **F301.1.1** — Girl summons fairy lover by breaking tabu.
+- **F301.1.1.1** — Girl summons fairy lover by wishing for him.
+- **F301.1.1.2** — Girl summons fairy lover by plucking flowers.
+- **F301.1.1.3** — Girl summons fairy lover by lying under tree.
+- **F301.1.1.4** — Girl summons fairy lover by pulling nuts.
+- **F301.2** — Fairy lover entices mortal girl.
+- **F301.2.1** — Elf-knight produces love-longing by blowing on horn.
+- **F301.3** — Girl goes to fairyland and marries fairy.
+- **F301.4** — Tasks set maid by elfin knight before she can marry him.
+- **F301.5** — Elf-knight entices maiden away and kills her.
+- **F301.6** — Fairy lover abducts fairy wife of mortal.
+- **F301.7** — Girl goes to see her fairy lover on certain nights.
+- **F301.8** — Fairy runs away from wedding with mortal girl.
+- **F302** — Fairy mistress.
+  *Mortal man marries or lives with fairy woman.*
+- **F302.0.1** — Bonga mistress.
+- **F302.1** — Man goes to fairyland and marries fairy.
+- **F302.1.1** — Mortals supplied with fairy mistresses during visit to fairyland.
+- **F302.1.2** — Mortal gives fairy ring after night spent with her in fairyland.
+- **F302.2** — Man marries fairy and takes her to his home.
+- **F302.2.1** — Fairy wife deserts mortal husband for repulsive lover.
+- **F302.3** — Fairy wooes mortal man.
+- **F302.3.0.1** — Fairy visits mortal and becomes his mistress.
+- **F302.3.0.2** — Raja refuses to marry a Peri.
+- **F302.3.1** — Fairy entices man into fairyland.
+- **F302.3.1.1** — Bonga girl (fairy) will return stolen goods only if mortal man will go with her.
+- **F302.3.1.2** — Fairies stop ship to entice man to their land.
+- **F302.3.1.3** — Man is carried to fairyland by fairy and marries her.
+- **F302.3.1.4** — Fairy abducts whomever she falls in love with.
+- **F302.3.2** — Fairy offers gifts to man to be her paramour.
+- **F302.3.2.1** — Fairy offers aid to man if he will marry her.
+- **F302.3.2.2** — Fairy offers to disenchant mortal wife if man will marry her.
+- **F302.3.3** — Fairy avenges self on man who scorns her love.
+- **F302.3.3.1** — Fairy avenges herself on inconstant lover (husband).
+- **F302.3.4** — Fairies entice men and then harm them.
+- **F302.3.4.1** — Fairy kisses man.
+- **F302.3.4.1.1** — Fairy's kiss fatal.
+- **F302.3.4.2** — Fairies dance with youth till he dies (or goes insane).
+- **F302.3.4.2.1** — Pixies win dancing contest with man.
+- **F302.3.4.3** — Fairy wooes and deserts man.
+- **F302.3.4.4** — Fairy takes lover back to fairyland in magic sleep.
+- **F302.3.4.5** — Fairies fall in love with prince and charm him into a deathlike sleep.
+- **F302.4** — Man obtains power over fairy mistress.
+- **F302.4.1** — Man shoots into wreath of mist and brings down fairy.
+  *She becomes his wife.*
+- **F302.4.2** — Fairy comes into man's power when he steals her wings (clothes).
+  *She leaves when she finds them.*
+- **F302.4.2.1** — Fairy comes into man's power when he steals her clothes.
+  *She leaves when she finds them.*
+- **F302.4.3** — Hero fights with fairy person, takes his wife and keeps her (for a year).
+- **F302.4.4** — Man binds fairy and forces her to marry him.
+- **F302.5** — Fairy mistress and mortal wife.
+- **F302.5.0.1** — Man deserts wife for fairy.
+- **F302.5.1** — Fairy mistress surrenders man to his mortal wife (Wildfrau).
+- **F302.5.1.1** — Bonga girl (fairy) surrenders man to his mortal wife if he will name first daughter after her.
+- **F302.5.2** — Fairy mistress transforms man's human wife.
+- **F302.5.2.1** — Divine damsel converts mortal's first wife into a lovely woman; they all live together.
+- **F302.5.3** — Man loses luck when he leaves fairy wife for mortal.
+- **F302.5.4** — Fairy mistress demands that man send his mortal wife away.
+- **F302.5.5** — Fairy mistress tries to destroy mortal's wife (mother) by sending her a magic belt.
+- **F302.6** — Fairy mistress leaves man when he breaks tabu.
+- **F302.6.1** — Celtic fairy mistress dominant.
+- **F302.6.2** — Recovery of fairy mistress.
+- **F302.6.2.1** — Mortal beats drum as fairies dance before Indra; is granted fairy wife permanently.
+- **F302.6.2.2** — Fairy gives up her fairy nature and becomes mortal to be able to return to her mortal husband.
+- **F302.7** — Fairy mistress prophesies mortal lover's fate in battle.
+- **F302.8** — Fairy mistress demands mortal lover deny Christian teachings.
+- **F302.9** — Fairy mistress rescues hero from battle.
+- **F302.10** — Man to have fairy wife for only seven years.
+- **F302.11** — Prince married to a she-monkey (really queen of the fairies).
+- **F303** — Wedding of mortal and fairy.
+- **F303.1** — Purification in kettle of boiling oil as preparation for marriage to fairy.
+  *Tuti-Nameh 10th Night.*
+- **F304** — Sexual relations with fairy.
+- **F304.1** — Fairy king punishes ravisher of his daughter.
+- **F304.2** — Fairy queen's beauty temporarily destroyed by intercourse with mortal.
+- **F304.3** — Beautiful woman found in bed with man after he has plugged keyholes to keep elves out.
+- **F304.4** — Mortal violates fairy woman.
+- **F304.4.1** — Fairy ravished by mortal strikes flesh from his ear.
+- **F304.5** — Mortal chooses to sleep with fairy as boon for saving her life.
+- **F304.6** — Fie carried off by mortal.
+- **F305** — Offspring of fairy and mortal.
+- **F305.1** — Fairy relative makes gifts to half-mortal child.
+- **F305.1.1** — Fairy mother bestows magic powers upon half-mortal son.
+- **F305.2** — Offspring of fairy and mortal extraordinarily beautiful.
+- **F305.2.1** — Right half of son resembles mortal father; left half, fairy father.
+- **F305.3** — Offspring of fairy and mortal has long hair and beard at birth.
+- **F310** — Fairies and human children.
+- **F311** — Fairies adopt human child.
+- **F311.1** — Fairy godmother.
+  *Attendant good fairy.*
+- **F311.1.1** — Fairy godmother helps girl escape.
+- **F311.2** — Fairy foster-father.
+  *Guardian to mortal.*
+- **F311.2.1** — Man killed on night when fairy guardian relaxes vigilance.
+- **F311.3** — Fairy foster-mother.
+- **F311.3.1** — Water fairy as foster-mother.
+- **F312** — Fairy presides at child's birth.
+  *Sometimes the Norns, the Fates, etc.*
+- **F312.1** — Fairies bestow supernatural gifts at birth of a child.
+- **F312.1.1** — Fairies make good wishes for newborn child.
+- **F312.2** — Fairies control destinies of a mortal.
+- **F312.3** — Three fairies sent to queen about to give birth to child.
+- **F313** — Fairies comb children's hair.
+- **F315** — Fairy predicts birth of child.
+- **F316** — Fairy lays curse on child.
+- **F316.1** — Fairy's curse partially overcome by another fairy's amendment.
+- **F316.2** — Fairy's curse partially overcome by her own amendment after being appeased.
+- **F317** — Fairy predicts future greatness of newborn child.
+- **F320** — Fairies carry people away to fairyland.
+- **F321** — Fairy steals child from cradle.
+- **F321.0.1** — Child sold to fairies.
+- **F321.1** — Changeling.
+  *Fairy steals child from cradle and leaves fairy substitute. Changeling is usually mature and only seems to be a child.*
+- **F321.1.1** — Changeling deceived into betraying his age.
+- **F321.1.1.1** — Changeling betrays his age when his wonder is excited.
+  *Usually pottage is boiled in an eggshell. The changeling: "I shall soon be a hundred years old but I never saw this done before!"*
+- **F321.1.1.2** — Changeling plays on pipe and thus betrays his maturity.
+- **F321.1.1.2.1** — Changeling dances wild dance to music, betrays maturity.
+- **F321.1.1.3** — Changeling addresses woman in verse and thus betrays maturity.
+- **F321.1.1.4** — Changeling shows supernatural power to work and thus betrays maturity.
+- **F321.1.1.5** — Changeling calculates his age by the age of the forest.
+  *"I have seen the forest grow up three times."*
+- **F321.1.1.6** — Threat to throw on fire causes changeling to cry out and betray his nature.
+- **F321.1.1.7** — Whipping causes changeling to betray his nature.
+- **F321.1.2** — Characteristics of changeling.
+- **F321.1.2.1** — Changeling has abnormal features or growth.
+  *Limbs grow too rapidly, head is too big, or he is slow to learn to walk, or the like.*
+- **F321.1.2.2** — Changeling is always hungry, demands food all the time.
+- **F321.1.2.3** — Changeling is sickly (often the fairy exchanged for a baby is an elderly, infirm member of the fairy clan whom the fairies are tired of caring for).
+- **F321.1.3** — Exorcising a changeling.
+- **F321.1.4** — Disposing of a changeling.
+- **F321.1.4.1** — Changeling thrown into water and thus banished.
+- **F321.1.4.2** — Changeling thrown into ravine and thus banished.
+- **F321.1.4.3** — Changeling thrown on fire and thus banished.
+- **F321.1.4.4** — Changeling left on hill (dunghill, barrow etc.) and thus banished.
+- **F321.1.4.5** — When changeling is threatened with burning, child is returned.
+- **F321.1.4.6** — Changeling beaten and left outside; the mortal child is returned.
+- **F321.1.4.7** — Mortal mother pays no attention to changeling; the mortal child is returned.
+- **F321.1.4.8** — Mother treats changeling so well that her own child is returned.
+- **F321.1.4.9** — Changeling made to believe that his house is burning up; he leaves.
+- **F321.1.5** — Water fairy changeling kept out of water too long, dies.
+- **F321.2** — Charms against theft of children by fairies.
+- **F321.3** — Man goes to fairyland and rescues stolen child.
+- **F321.3.1** — Unbaptized child stolen by fairies found in barn and rescued.
+- **F321.4** — Beggar returns to his mother child stolen by fairies.
+- **F321.5** — Fairies appear in house and offer to dance with child.
+- **F322** — Fairies steal man's wife and carry her to fairyland.
+- **F322.0.1** — Woman carried off by water-fairy.
+- **F322.1** — Changeling bride.
+  *Fairies steal bride and leave a substitute.*
+- **F322.1.1** — Fairy borrows comb from Christian maid to comb hair of changeling bride.
+- **F322.2** — Man rescues his wife from fairyland.
+- **F322.3** — Stolen mother returns from fairyland each Sunday to minister to her children.
+- **F322.4** — Abducted bride hidden in fairyland.
+- **F322.5** — Rescue from fairyland.
+- **F323** — Fairy women take body of dead hero to fairyland.
+- **F324** — Girl abducted by fairy.
+- **F324.1** — Girl borrows comb and mirror from bonga (fairy): carried to fairyland when she returns them.
+- **F324.2** — Woman beset by elves (or phantoms) drowns self.
+- **F324.3** — Youth abducted by fairy.
+- **F325.1** — Fairies kidnap boy when he breaks tabu by going outside mansion under earth before 12 years.
+- **F326** — Fairy father carries off child of mortal mother.
+- **F327** — Family carried away to fairyland as part of bargain.
+- **F328** — Fairies entice people into their domain.
+- **F329** — Other fairy abductions.
+- **F329.1** — Fairies carry off youth; he has gift of prophecy when he returns to earth (Thomas the Rhymer).
+- **F329.2** — Fairies abduct young woman, return her when fight starts over her.
+- **F329.3** — Fairies take persons up in air in chariots for a fortnight or a month.
+  *The lost are finally found in fields bereft of sense and with one of the members missing.*
+- **F329.4** — Fairies who stay with mortals.
+- **F329.4.1** — Lost fairy child found by mortals.
+  *Mortals feed, warm it, keep it until one day it hears voice calling: "Coleman Grey!" It leaves with the remark "Ho! ho! ho! My Daddy's come!"*
+- **F329.4.2** — Fairy child found and cared for, but it pines away.
+- **F329.4.3** — Fairy captured by mortal escapes.
+- **F330** — Grateful fairies.
+- **F331** — Mortal wins fairies' gratitude by joining in their sport.
+- **F331.1** — Mortal wins fairies' gratitude by joining in their dance.
+- **F331.2** — Mortal wins fairies' gratitude by letting them cut his hair and shave him.
+- **F331.3** — Mortal wins fairies' gratitude by joining in their song and completing it by adding the names of the days of the week.
+- **F331.4** — Mortal wins fairies' gratitude by playing for their dance.
+- **F332** — Fairy grateful for hospitality.
+- **F332.0.1** — Fairy grateful to mortal for daily food.
+- **F333** — Fairy grateful to human midwife.
+- **F334** — Fairy grateful to mortal for healing.
+- **F335** — Fairy grateful for loan.
+- **F335.1** — Fairy grateful for loan of meal causes the vessel to remain full thereafter.
+- **F336** — Fairies loyal to mortal who owns their knoll.
+- **F337** — Fairy grateful to mortal for saving his life.
+- **F337.1** — Fairy grateful to mortal for saving children's life.
+- **F338** — Fairies grateful to man who repairs their utensils or implements.
+- **F339** — Other grateful fairies.
+- **F339.1** — Fairy grateful for rides on man's back, warns him his cow is choking.
+- **F339.2** — Fairies care for tulip bed out of gratitude to owner for not plucking any of blossoms.
+- **F339.3** — Fairy grateful for returning lost fairy child.
+- **F339.3.1** — Fairies do all house and farm work for family who returns lost child.
+- **F339.3.2** — Fairies cause all ewes to have two lambs for owner who has returned fairy child.
+- **F340** — Gifts from fairies.
+- **F340.1** — Parting fairies leave gifts for newborn princess.
+- **F341** — Fairies give fulfillment of wishes.
+- **F341.1** — Fairies give three gifts.
+- **F341.2** — Fairy ransoms self with wish.
+- **F341.2.1** — Captured water fairy promises to make ugly man beautiful in return for her release.
+- **F342** — Fairies give mortal money.
+- **F342.1** — Fairy gold.
+  *Fairies give coals (wood, earth) that turns to gold.*
+- **F342.2** — Man borrows money from fairy (dwarf, devil).
+  *When the man brings the money back, he learns that the fairy was killed by thunder. He keeps the money.*
+- **F343** — Other presents from fairies.
+- **F343.0.1** — Fairy offers mortal choice of magic objects.
+- **F343.1** — Fairies give woman silver spoons.
+- **F343.2** — Fairies give hunter a dog.
+- **F343.2.1** — Dogs as gifts from fairy.
+- **F343.3** — Fairy smith gives knight a magic sword.
+- **F343.4** — Fairies give avaricious man gift of benevolence.
+- **F343.5** — Fairies give beautiful clothes.
+- **F343.5.1** — Fairy gives magic cloak (and shirt).
+- **F343.6** — Bonga lends dishes to mortals.
+- **F343.7** — Fairy-wife furnishes provisions.
+- **F343.8** — Fairy leaves goats as purchase price for girl he has carried off.
+- **F343.9** — Fairy gives man horses, cattle, etc.
+- **F343.9.1** — Horses as fairy gifts.
+- **F343.10** — Fairy gives warrior equipment for soldiers.
+- **F343.10.1** — Fairy gives person magic sword.
+- **F343.10.2** — Fairy gives person magic spear.
+- **F343.10.3** — Fairy gives person invulnerable shield.
+- **F343.11** — Fairy offers man change of form and feature for aid in battle.
+- **F343.12** — Grateful fairy gives ring.
+- **F343.13** — Fairy gives mortals a child.
+- **F343.14** — Golden cup (bowl, urn) as gifts from otherworld inhabitants.
+- **F343.15** — Magic apple as fairy gift.
+- **F343.16** — Gigantic ox rib as gift from fairies.
+- **F343.16.1** — Gigantic hog rib as gift from fairies.
+- **F343.17** — Fairies give haymakers dinner each year until one of men keeps a fairy knife.
+  *They give no more food even though the man returns the knife.*
+- **F343.18** — Fairies return hatchet head lost in river.
+- **F343.19** — Fairies give mortals fairy bread.
+- **F343.19.1** — Fairy bread must be eaten same day it is given or it turns to toadstools.
+- **F343.20** — Sack of coals as fairy gift.
+- **F344** — Fairies heal mortals.
+- **F344.1** — Fairies remove hunchback's hump (or replace it).
+- **F344.2** — Fairy physician can heal anyone whose spine is not severed.
+- **F344.3** — Fairies give man white powder to cure mortals, replenish his supply whenever needed.
+- **F345** — Fairies instructs mortals.
+- **F345.1** — Fairies teach mortal to walk under water.
+- **F345.2** — Supernatural person (poet) reveals marital infidelity.
+- **F346** — Fairy helps mortal with labor.
+- **F346.0.1** — Fairy serves mortal.
+- **F346.1** — Fairies make shoes for shoemaker.
+- **F346.2** — Fairies build house for mortal.
+- **F347** — Fairy adviser.
+- **F347.1** — Bonga made village headman and advice asked.
+- **F348** — Tabus connected with fairy gifts.
+- **F348.0.1** — Fairy gift disappears or is turned to something worthless when tabu is broken.
+- **F348.1** — Fairy gift not to be taken to earth.
+- **F348.2** — Cup given by fairy not to be broken.
+  *Bad luck will follow (Luck of Edenhall).*
+- **F348.3** — Fairy gift not to leave possession of mortal's family.
+  *Bad luck will follow.*
+- **F348.4** — Gifts of gold and silver not to be accepted from fairies.
+- **F348.5** — Mortal not to recognize fairy who gives him gift.
+- **F348.5.1** — Mortal not to betray secret of fairies' gift.
+- **F348.5.1.1** — Mortal not to tell secret of gift of inexhaustible meat.
+- **F348.5.2** — Mortal not to thank fairy for gifts.
+- **F348.6** — Gifts of the fairies must never be measured or counted.
+- **F348.7** — Tabu: telling of fairy gifts; the gifts cease.
+- **F348.7.1** — Abuse of fairy gifts brings about their loss.
+- **F348.8** — Tabu: mortal for whom fairy works must not watch him at work.
+- **F348.9** — Gift barrel of ale which never runs dry goes dry when maid looks into bunghole.
+- **F348.9.1** — Fairy gifts turn to paper when shown.
+- **F349** — Gifts from fairies miscellaneous.
+- **F349.1** — Fairy aids mortal in flight.
+- **F349.2** — Fairy aids mortal in battle.
+- **F349.3** — Fairies exile devastating host.
+- **F349.4** — Fairy promises abundant crops, etc., to mortal.
+- **F350** — Theft from fairies.
+- **F351** — Theft of money from fairies.
+- **F351.1** — Theft of money from fairies by joining unperceived in their game of money-throwing.
+- **F351.2** — Theft of money from fairies by frightening them away from it.
+- **F352** — Theft of cup (drinking horn) from fairies.
+- **F352.1** — Theft of cup (drinking horn) from fairies when they offer mortal drink.
+- **F352.2** — Theft of vessel from water-deity.
+- **F353** — Kettle borrowed from fairies and not returned.
+- **F354** — Fairy's ornament snatched.
+- **F355** — King's crown stolen from fairyland.
+- **F356** — Fairy cattle (bull, cow) stolen.
+- **F357** — Unsuccessful attempt to steal fairy necklace.
+- **F358** — Money borrowed from the fairies and not returned on time.
+- **F359** — Theft from fairies miscellaneous.
+- **F359.1** — Eggs stolen from fairies.
+- **F359.2** — Theft of golden bird from fairies.
+- **F360** — Malevolent or destructive fairies (= pixies).
+- **F360.0.1** — Malevolent or hostile beings in otherworld.
+- **F360.1** — Fairies pursue unbaptized children.
+- **F361** — Fairy's revenge.
+- **F361.1** — Fairy takes revenge for being slighted.
+- **F361.1.1** — Fairy takes revenge for not being invited to feast.
+- **F361.1.2** — Fairy takes revenge for not being offered food (drink).
+- **F361.1.2.1** — Fairy takes revenge for mortal's failure to bring food and drink to fairy son's wedding.
+- **F361.2** — Fairy takes revenge for theft.
+- **F361.2.1** — Fairy recovers stolen cup by posing as a beggar.
+- **F361.2.2** — Fairies cause man to lose his senses after he steals flower while visiting them.
+- **F361.2.3** — Fairies bind man fast to ground after he has attempted to capture fairy prince and princess.
+- **F361.2.4** — Fairy gifts stop when man steals fairy knife.
+- **F361.3** — Fairies take revenge on person who spies on them.
+  *Spy uses magic salve on one eye. Fairies tear out the eye.*
+- **F361.3.1** — Fairies leave work unfinished when overseen.
+- **F361.3.2** — Fairies chase person who watches them dance.
+- **F361.4** — Fairies take revenge on trespassers on ground they claim as theirs.
+- **F361.5** — Fairies punish girl who pours hot water into their spring.
+- **F361.6** — Fairies slay wooer (or his kin) of fairy maiden.
+- **F361.7** — Fairies take revenge on mortals who hold their king captive.
+- **F361.8** — Fairy takes revenge for slaying of his relatives.
+- **F361.9** — Fairies take revenge for being dishonored.
+- **F361.10** — Fairies take revenge for being teased.
+- **F361.11** — Fairies threaten watcher of sheep.
+- **F361.12** — Fairies take revenge on mortals who destroy their homes.
+- **F361.13** — Fairies take revenge for cheating.
+- **F361.14** — Fairy punishes servant girl who fails to leave food for him.
+- **F361.15** — Fairies punish mortals who refuse to eat fairy food given them.
+- **F361.16** — Fairies punish person who needs punishing because of his treatment of other mortals.
+- **F361.17** — Other punishments by fairies.
+- **F361.17.1** — Fairies lame miller who throws sod into his kiln where fairies are cooking oatmeal; the oatmeal scalds them.
+- **F361.17.2** — Fairies take revenge on smith who disturbs them in the smithy when he returns after dark to get medicine.
+- **F361.17.3** — Fairies pinch plowboy who breaks their wooden oven as he plows.
+- **F361.17.4** — Fairy breaks leg of servant girl who tells lies about him.
+- **F361.17.5** — Fairies bathe children in churn when housewife forgets to leave a supply of clear water for the fairies.
+- **F361.17.6** — Fairy kills dog that refuses to let fairy sleep in stack.
+- **F361.17.7** — Fairy kills man who refuses his hospitality.
+  *Man refuses to visit fairy after being invited.*
+- **F361.17.8** — Fairies chase man who dares them to come chase him.
+  *He barely gets home ahead of them; they drive iron javelin through iron-covered door.*
+- **F361.17.9** — Fairy mistress strikes her disobedient human lover on the face and predicts death.
+- **F362** — Fairies cause disease.
+- **F362.1** — Fairies cause blindness.
+- **F362.2** — Fairies cause insanity.
+- **F362.3** — Fairies cause weakness.
+- **F362.4** — Fairy causes mutilation (injury).
+- **F363** — Fairies cause death.
+- **F363.1** — Fairies, directed by druid, bring about death of king by causing fish-bone to stick in his throat.
+- **F363.2** — Brownie (Redcap, Redcomb, Bloody Cap) murders travelers, catches their blood in his cap.
+- **F363.3** — Sight of fairies fatal.
+- **F363.4** — Fairy's look burns mortal to ashes.
+- **F363.5** — Fairy calls her victim only once or twice.
+- **F363.6** — Fairies tickle mortals to death.
+- **F364** — War between fairies and mortals.
+- **F364.1** — Fairy warriors sit upon mortals and thus kill them.
+- **F364.2** — Fairies wrestle with mortals.
+- **F364.3** — War between fairies and giants.
+- **F365** — Fairies steal.
+- **F365.0.1** — Fairy steals on Hallowe'en.
+- **F365.1** — Fairies steal ass.
+- **F365.2** — Fairies steal anchor.
+- **F365.3** — Fairies occupy peasant's house.
+- **F365.4** — Fairy (bonga) steals part of crop.
+- **F365.5** — Fairies steal pieces as mortal plays draughts with fairy woman.
+- **F365.6** — Fairies steal cattle (pig).
+- **F365.7** — Fairies steal cooking.
+- **F365.8** — Fairies steal wool.
+- **F366** — Fairies abuse livestock.
+- **F366.1** — Fairies milk mortal's cows dry.
+- **F366.1.1** — Fairies milk mortal's mare.
+- **F366.1.2** — Fairies admit calves to cows, depriving children of milk.
+- **F366.1.3** — Fairies ride farmer's calves.
+- **F366.2** — Fairies ride mortal's horses at night.
+- **F366.2.1** — Fairies plait manes and tails of horses.
+- **F366.2.2** — Fairy rides behind man on horse.
+- **F366.3** — Fairies in form of devastating animals kill flocks.
+- **F366.4** — Fairies control prosperity.
+- **F366.5** — Fairy hangs on to carriage on road.
+- **F367** — Destructive fairy drink.
+  *Upon returning to earth mortal pours out drink which had been offered by fairies. It burns up whatever it touches.*
+- **F368** — Human beings as game in fairy hunt.
+- **F369** — Malevolent fairies miscellaneous.
+- **F369.1** — Fairies set fire to buildings.
+- **F369.2** — Fairies defile waters Irish myth: *Cross.
+- **F369.3** — Fairy kills mortal's hound (horses).
+- **F369.4** — Fairy tricks mortal.
+- **F369.4.1** — Fairy incites mortals to war.
+- **F369.5** — Fairies destroy crops.
+- **F369.5.1** — Fairies snip corn from stalks.
+- **F369.6** — Fairy prevents butter coming.
+- **F369.7** — Fairies lead travelers astray.
+- **F369.8** — Elephants become lean from listening too much to fairy music; cannot graze.
+- **F370** — Visit to fairyland.
+- **F371** — Human being reared in fairyland.
+- **F372** — Fairies take human nurse to attend fairy child.
+- **F372.1** — Fairies take human midwife to attend fairy woman.
+- **F372.2** — Fairies seek human godparent.
+- **F372.2.1** — Old man as godfather to underground folk.
+- **F373** — Mortal abandons world to live in fairyland.
+- **F374** — Longing in fairyland to visit home.
+- **F375** — Mortals as captives in fairyland.
+- **F376** — Mortal as servant in fairyland.
+- **F376.1** — Tailor works in fairyland.
+- **F377** — Supernatural lapse of time in fairyland.
+  *Years seem days.*
+- **F377.1** — Supernatural lapse of time in paradise.
+- **F377.2** — Year seems few hours in otherworld.
+- **F378** — Tabus connected with trip to fairyland.
+- **F378.0.1** — Mortal expelled from fairyland for breaking tabu.
+- **F378.1** — Tabu: touching ground on return from fairyland.
+- **F378.2** — Tabu: bathing or touching water in lake in fairyland.
+- **F378.3** — Mortal visiting in fairyland must keep his thought on the fairies.
+- **F378.4** — Tabu: drinking from certain well in fairyland.
+  *Person does, finds himself alone on hillside.*
+- **F378.5** — Tabu: plucking flowers from bed tended by fairies.
+- **F378.6** — Tabu: using fairy bath water, soap, or ointment on oneself while bathing fairy child.
+- **F379** — Fairy visits: miscellaneous.
+- **F379.1** — Return from fairyland.
+- **F379.1.1** — No return from fairyland.
+- **F379.2** — Objects brought home from fairyland.
+- **F379.2.1** — Book (medical) brought back from otherworld.
+- **F379.2.2** — Tokens brought back by mortal returning from fairyland.
+- **F379.3** — Man lives with fairies seven years.
+- **F379.4** — Saint visits king of fairies on invitation of fairy king.
+  *Saint sprinkles holy water on fairy king, finds himself alone on hill.*
+- **F380** — Defeating or ridding oneself of fairies.
+- **F381** — Getting rid of fairies.
+- **F381.1** — Fairy leaves when he is named.
+- **F381.2** — Fairies leaves when mortal strews peas in his path.
+- **F381.2.1** — Escape from pursuing fairies by strewing path with bananas.
+- **F381.3** — Fairy leaves when he is given clothes.
+- **F381.4** — Fairy escaped by learning and using his secrets.
+- **F381.5** — Fairy lured away from house by treasure which he claims.
+- **F381.6** — Fairy leaves when druid utters spell that drowns her voice.
+- **F381.7** — Fairies leave when people do their needs where they live.
+- **F381.8** — Spinning fairies lured away from the house by fire alarm.
+- **F381.9** — Fairies will not approach when dogs are present.
+- **F381.10** — Fairies leave when person watches them at work.
+- **F381.11** — Fairy leaves when given impossible tasks to do.
+- **F381.12** — Fairies leave when ordered to fight each other.
+- **F381.13** — Fairies leave when thanked for their work.
+- **F382** — Exorcising fairies.
+  *Fairies disappear when some name or ceremony of the Christian Church is used.*
+- **F382.1** — Fairies fear the cross.
+- **F382.2** — Holy water breaks fairy spell.
+- **F382.3** — Use of God's name nullifies fairies' power.
+- **F382.4** — Opening Holy Bible in presence of fairies nullifies their spells.
+- **F382.5** — Chanting song of St. Nicholas drives fairy away.
+- **F382.6** — Asking grace at fairy banquet causes fairies and banquet to disappear.
+- **F383** — Fairy rendered powerless.
+- **F383.1** — Fairy unable to pass cross-roads.
+- **F383.2** — Fairy unable to cross running stream.
+- **F383.3** — Fairy unable to cross plowed ground.
+- **F383.4** — Fairy must leave at cockcrow.
+- **F383.4.1** — Fairy prince becomes mortal when surprised by daylight.
+- **F383.4.2** — Fairies leave at rise of morning star.
+- **F383.4.3** — Sunlight fatal to fairies.
+- **F383.5** — Transformed fairy warriors disenchanted when attacked.
+- **F384** — Magic objects powerful against fairies.
+- **F384.1** — Salt powerful against fairies.
+- **F384.1.1** — Salt renders fairy mortal.
+- **F384.1.2** — Salt sprinkled on fairy food renders it harmless.
+- **F384.2** — Steel powerful against fairies.
+- **F384.3** — Iron powerful against fairies.
+- **F384.4** — Wearing flowers on one's ears protects from fairies.
+- **F385** — Means of averting fairy spells.
+- **F385.1** — Fairy spell averted by turning coat.
+  *This is supposed to reverse the spell.*
+- **F386** — Fairy punished.
+- **F386.1** — Fairy imprisoned in tree.
+- **F386.1.1** — Fairy harper enclosed in yew-tree.
+- **F386.2** — Fairy punished for marrying a mortal.
+- **F386.3** — Troublesome bonga (fairy) pegged to ground and placed under stone.
+- **F386.4** — Fairy transformed as punishment.
+- **F386.5** — Fairy imprisoned as punishment.
+- **F387** — Fairy captured.
+- **F388** — Fairies depart.
+- **F388.1** — Fairies depart to heaven.
+- **F388.2** — Fairies depart to floating island.
+- **F389** — Fairies otherwise defeated.
+- **F389.1** — Fairies driven off with fire.
+- **F389.2** — Abduction of Christianized fairy woman by fairies prevented by saint.
+- **F389.3** — Fairy wounded by mortal.
+- **F389.4** — Fairy killed by mortal.
+- **F389.5** — Fairy defeated by druid's magic.
+- **F390** — Fairies miscellaneous motifs.
+- **F391** — Fairies borrow from mortals.
+- **F391.1** — Animals borrowed by fairies.
+- **F391.1.1** — Ox lent fairies must not be worked after sunset.
+- **F391.2** — Fairies borrow food from mortals.
+- **F391.3** — Fairies borrow tools to make coffin.
+- **F392** — Fairy transforms self to fly, allows self to be swallowed by woman and reborn as fairy.
+- **F393** — Fairy visits among mortals.
+- **F393.0.1** — Fairy dissatisfied with fairyland leaves to live among mortals.
+- **F393.1** — Fairy minstrel lives among mortals to learn of their heroic deeds.
+- **F393.2** — Fairy appears to mortal each Hallowe'en.
+- **F393.3** — Impoverished fairy seeks fortune among mortals.
+- **F393.4** — Otherworld woman appears to mortal in sleep.
+- **F394** — Mortals help fairies.
+- **F394.1** — Mortal advises fairy.
+- **F394.1.1** — Druid directs fairies.
+- **F394.2** — Mortals aid fairies in war.
+- **F395** — Fairy has power to prevent mortal's approach.
+- **F396** — Mortals place selves under protection of fairies.
+- **F397** — Fairy woman exhibits her figure to warriors.
+  *Is most beautiful of women.*
+- **F398** — Hair burned to summon fairies.
+- **F399** — Other fairy motifs.
+- **F399.1** — Fairies bear dead warrior to fairyland.
+- **F399.2** — Fairies protect selves by means of smoke.
+- **F399.3** — Fairies hate clerics.
+- **F399.4** — Playful or troublesome fairies.
+- **F399.4.1** — Fairies sport with mortal.
+
+## Spirits and demons (general)
+
+- **F400** — Spirits and demons (general).
+- **F400.1** — Geniti (geilti) glinne, bbnbnaig, bocbnaig, and other supernatural beings associated with confusion or strife.
+- **F401** — Appearance of spirits.
+- **F401.1** — Spirits dressed in antique clothes.
+- **F401.2** — Luminous spirits.
+- **F401.3** — Spirit in animal form.
+- **F401.3.0.1** — Demons on animal feet.
+- **F401.3.1** — Spirit in form of horse.
+  *Demon horse.*
+- **F401.3.2** — Ox demon.
+- **F401.3.3** — Spirit as black dog.
+- **F401.3.3.1** — Waumpaus: monster with huge dog tracks.
+- **F401.3.4** — Spirit as fly going into bottle.
+- **F401.3.4.1** — Demon in form of wasp.
+- **F401.3.4.2** — Spirit in ant form.
+- **F401.3.5** — Spirits with goose (chicken) feet.
+- **F401.3.6** — Demon in form of hare.
+- **F401.3.7** — Spirit in form of a bird.
+- **F401.3.7.1** — Demon in form of crow.
+- **F401.3.7.2** — Demons in form of black birds.
+- **F401.3.8** — Spirits in form of snake.
+- **F401.4** — Spirits without heads (or with heads under arms).
+- **F401.4.1** — Spirit has half head.
+- **F401.5** — Spirits appear horrible.
+- **F401.5.1** — Spirit in form of horrible head.
+- **F401.6** — Spirit in human form.
+- **F401.7** — Fire-breathing spirit.
+- **F401.8** — Gigantic spirit.
+- **F401.9** — Spirit with feet turned wrong way.
+- **F402** — Evil spirits.
+  *Demons.*
+- **F402.1** — Deeds of evil spirits.
+- **F402.1.1** — Spirit leads person astray.
+- **F402.1.2** — Spirit blocks person's road.
+- **F402.1.3** — Spirits tangle up peasant's cows.
+- **F402.1.4** — Demons assume human forms in order to deceive.
+- **F402.1.4.1** — Demon takes on form of God to deceive faithful.
+- **F402.1.5** — Demon causes disease.
+- **F402.1.5.1** — Demons seek to carry off king's soul.
+- **F402.1.6** — Spirit causes weakness.
+- **F402.1.7** — Demon of gluttony devours man's food in his throat.
+- **F402.1.8** — Spirits put corpse into river.
+- **F402.1.9** — Spirit delivers false message.
+- **F402.1.10** — Spirit pursues person.
+- **F402.1.11** — Spirit causes death.
+- **F402.1.11.1** — Spirit (devil) sent by druids cause death of Christian king.
+- **F402.1.11.2** — Evil spirit kills and eats person.
+- **F402.1.11.3** — Evil spirit harpoons sleepers.
+- **F402.1.11.4** — Evil spirit's kiss fatal.
+- **F402.1.12** — Spirit fights against person.
+- **F402.1.13** — Ship held back by otherworld women.
+- **F402.1.14** — Spirit and horses.
+- **F402.1.15** — Demon suitors of girl.
+- **F402.1.15.1** — Demon seduces princess as she bathes at seashore.
+- **F402.2** — Government of demons.
+- **F402.2.1** — King of demons (Asmodeus).
+- **F402.2.2** — Queen of demons.
+- **F402.2.3** — Child of demon king marries mortal.
+- **F402.3** — City of demons.
+- **F402.4** — Demons eat ravenously.
+- **F402.5** — Creation of demons.
+- **F402.5.1** — Demon formed from charmed apples.
+- **F402.6** — Dwelling of demons.
+- **F402.6.1** — Demon lives in tree.
+- **F402.6.1.1** — Demon lives at root of tree.
+- **F402.6.2** — Demons live in waste mound.
+- **F402.6.3** — Demons live in well.
+- **F402.6.4** — Demons live in white cliff with hole in it.
+- **F402.6.4.1** — Spirits live in caves.
+- **F402.7** — Family of demons.
+- **F403** — Good spirits.
+- **F403.1** — Spirits give money to mortal.
+- **F403.2** — Spirits help mortal.
+  *Familiar spirits.*
+- **F403.2.1** — Acquisition of familiar spirit.
+- **F403.2.1.1** — Familiar spirit acquired by carrying egg under left arm-pit.
+- **F403.2.2** — Form of familiar spirit.
+- **F403.2.2.1** — Familiar spirit in animal form.
+- **F403.2.2.2** — Angels as familiar spirits.
+  *Act as servants about the house of saints and serve them otherwise.*
+- **F403.2.2.3** — Familiar spirit equivalent to man's soul.
+- **F403.2.2.4** — Spirit in bottle (bag) as helper.
+- **F403.2.2.5** — Demon as familiar spirit.
+- **F403.2.2.6** — Spirit as small black man.
+- **F403.2.3** — Deeds of familiar spirits.
+- **F403.2.3.1** — Spirit in hornet form guards a treasure.
+- **F403.2.3.2** — Spirit gives warning.
+- **F403.2.3.3** — Spirits teach boy how to sing.
+- **F403.2.3.4** — Familiar spirit brings news with magic speed.
+- **F403.2.3.5** — Familiar spirit reveals infidelity of man's wife.
+- **F403.2.3.6** — Spirit gives counsel.
+- **F403.2.3.7** — Army of spirits and ghosts.
+- **F404** — Means of summoning spirits.
+- **F404.1** — Spirit must speak as soon as addressed.
+- **F404.2** — Conjuring spirits.
+- **F405** — Means of combating spirits.
+- **F405.1** — Priest bans spirit with sword.
+- **F405.2** — Spirits driven off by knife-thrusts and pistol shots.
+- **F405.3** — Spirits deceived by drum-beats and hoodwinkings.
+- **F405.4** — Spirit (demon) baffled by scolding and getting last word.
+- **F405.5** — Cat, dog, and mouse ward off evil spirit.
+  *Man takes these animals along with him as protection.*
+- **F405.5.1** — Dogs protect house from spirits.
+- **F405.6** — Grain scattered as a means of dispersing spirits.
+- **F405.7** — Spirit leaves when report is made of the death of one of his kind.
+- **F405.7.1** — "Tell to mill-mouse that the field-mouse is dead."
+- **F405.8** — Spirits leave when report is made of fire at their home.
+  *Denied readmittance.*
+- **F405.9** — Spirit overcome by driving stake through body it inhabits.
+- **F405.10** — Demons flee stone (when saint steps upon it).
+- **F405.11** — House spirit leaves when gift of clothing is left for it.
+- **F405.12** — Demons flee from fire.
+- **F405.13** — Man captures spirit by hiding his stick and leg-wrappers of copper.
+  *When spirit gets them back by trickery he disappears.*
+- **F405.14** — Evil spirit laid after it is tormented by exorciser.
+- **F406** — Spirits propitiated.
+- **F406.1** — Doors left open to let night creatures pass to and fro.
+- **F406.2** — Food left out for spirits at night.
+- **F406.3** — Spirits allow people with faces to ground to pass.
+- **F406.4** — Demon of gluttony coaxed from man's throat with bits of food.
+- **F407** — Departure of spirits.
+- **F407.1** — Spirit vanishes in smoke.
+- **F407.1.1** — Spirits ascend to heaven by building fire.
+- **F407.2** — Spirit fades into air.
+- **F408** — Habitation of spirit.
+- **F408.1** — Demon occupies (speaks from) lance (sword).
+- **F408.2** — Spirit in heart of man (fairy).
+- **F411** — How spirits travel.
+- **F411.0.1** — Spirit travels with extraordinary speed.
+- **F411.1** — Demon travels in whirlwind.
+- **F411.2** — Spirit floats in air.
+- **F411.3** — Demon ship sails against the wind.
+- **F412** — Visibility of spirits.
+- **F412.1** — Invisible spirit speaks.
+- **F412.1.1** — Spirits visible to only one person.
+- **F412.2** — Spirit made visible by standing on another's foot.
+- **F413** — Origin of spirits.
+- **F414** — Spirit carries people.
+- **F414.1** — Lover transported to girl's apartments in fortress by spirit.
+- **F414.2** — Spirit transports miser to treasure-wood.
+- **F415** — Demon occupies oracular artificial head and gives responses to questions.
+- **F416** — Spirits set fire to mill.
+  *Meet on Christmas (Easter) night. Cease to meet after mortal spies upon them.*
+- **F416.1** — Spirits keep mill from working.
+- **F417** — Spirits receive their share of everything made at certain specified times.
+- **F417.1** — Spirits borrow from mortals at weddings, return goods later.
+- **F418** — Spirits (demons) hover in air shrieking over battle.
+- **F418.1** — Spirits answer war cry.
+- **F419** — Spirits and demons miscellaneous.
+- **F419.1** — Demons hold horse-race.
+- **F419.2** — Thieving spirit.
+- **F419.3** — Special spirit for each species of animal to act as its protector.
+- **F420** — Water-spirits.
+- **F420.1** — Form and appearance of water-spirits.
+- **F420.1.1** — Water-spirit as man.
+- **F420.1.1.1** — Water-spirit appears as handsome man.
+- **F420.1.1.2** — Water-spirit appears as black man.
+- **F420.1.1.3** — Water-spirit as small gray man.
+  *Has green eyes and gray hair.*
+- **F420.1.1.4** — Water-spirit as man clothed in white and accompanied by a dozen attendants.
+- **F420.1.1.5** — Water-spirits have one eye.
+- **F420.1.2** — Water-spirit as woman (water-nymph, water-nix).
+- **F420.1.2.1** — Water-maidens are of unusual beauty.
+- **F420.1.2.2** — Water-maidens mute.
+- **F420.1.3** — Water-spirits in animal form.
+- **F420.1.3.1** — Water-spirit as toad.
+- **F420.1.3.2** — Water-spirit as fish.
+- **F420.1.3.2.1** — Water-spirit as one-eyed fish.
+- **F420.1.3.3** — Water-spirit as horse.
+- **F420.1.3.4** — Water-spirit as bull.
+- **F420.1.3.5** — Water-spirit as stork.
+- **F420.1.3.6** — Water-spirit as cat.
+- **F420.1.3.7** — Water-spirit as goat.
+- **F420.1.3.8** — Water-spirit as mouse.
+- **F420.1.3.9** — Water-spirit as snake.
+- **F420.1.3.10** — Water-spirit as frog.
+- **F420.1.3.11** — Water-spirit as ape-like creature.
+- **F420.1.3.12** — Water-spirit as otter.
+- **F420.1.4** — Water-spirits in abnormal form.
+- **F420.1.4.1** — Body of water-spirit is half human and half fish or snake.
+- **F420.1.4.2** — Water-spirits have body covered with fish scales.
+- **F420.1.4.3** — Water-spirits as dwarfs.
+- **F420.1.4.4** — Water-spirits have hunchback.
+- **F420.1.4.5** — Water-spirits with human body and webbed feet and hands.
+- **F420.1.4.6** — Water-spirits with horse feet.
+- **F420.1.4.7** — Water-spirits with green hair and beard.
+- **F420.1.4.8** — Water-spirits with green teeth.
+- **F420.1.4.9** — Water-giants.
+- **F420.1.4.10** — Water-spirit with extraordinarily long hair.
+- **F420.1.5** — Water-spirits invisible.
+- **F420.1.5.1** — Invisible water-spirit claps hands and speaks.
+- **F420.1.5.2** — Mysterious voice water-spirit is calling from sea.
+- **F420.1.5.3** — The seas become heavy without natural cause.
+- **F420.1.6** — Dress of water-spirits.
+- **F420.1.6.1** — Water-spirits are dressed like people of surroundings.
+- **F420.1.6.2** — Water-spirits are clad in clothes of gold and silver.
+- **F420.1.6.3** — Water-spirits wear precious adornment.
+- **F420.1.6.4** — Water-spirits wear wreath of flowers and reed on hair and dress.
+- **F420.1.6.5** — Water-maidens have long veil.
+- **F420.1.6.6** — Color of water-spirit's clothes.
+- **F420.1.6.6.1** — Water-spirits are clad in red.
+- **F420.1.6.6.2** — Water-spirits are clad in gray.
+- **F420.1.6.6.3** — Water-spirits are dressed in green.
+- **F420.1.6.6.4** — Water-spirits are dressed in white.
+- **F420.1.6.6.5** — Water-spirits are dressed in blue.
+- **F420.1.6.7** — Water-spirits are nude.
+- **F420.1.7** — Water-spirits appearing like human beings are recognized by traces of water.
+- **F420.1.7.1** — Corner of water-spirits' dress is always wet.
+- **F420.1.7.2** — Coat pockets of water-spirits are dripping with water.
+  *Wiener 118; Handrick 30.*
+- **F420.1.7.3** — Water-spirits leave trace of water when standing or walking.
+- **F420.2** — Home of water-spirits.
+- **F420.2.1** — Water-spirits live in castles of crystal under water.
+- **F420.2.1.1** — Water-spirits' under-water castle is luxuriously furnished.
+- **F420.2.2** — Water-spirits live in village under water.
+- **F420.2.3** — Water-spirits have garden.
+- **F420.2.4** — When water-spirits are outside their homes the seas are heavy.
+- **F420.2.5** — Water-spirits have hearth made of three human skulls.
+- **F420.3** — Social life among water-spirits.
+- **F420.3.1** — Water-spirits have family life under water.
+- **F420.3.2** — Water-spirits have likings and occupations like human beings.
+- **F420.3.2.1** — Water-spirits dance.
+- **F420.3.2.1.1** — Water-maidens dance at village fair.
+- **F420.3.2.2** — Water-women come to market and store.
+- **F420.3.2.3** — Water-women wash and hang up laundry on beach.
+- **F420.3.2.4** — Water-spirits bake.
+- **F420.3.2.5** — Water-spirits mend clothes.
+- **F420.3.2.6** — Water-maidens spin.
+- **F420.3.2.7** — Water-man cuts osier to make wicker basket.
+- **F420.3.3** — Water-spirits have kingdom under water: queen, king, attendants, vassals.
+- **F420.3.4** — Water-spirits have laws.
+- **F420.3.4.1** — Water-spirits must be in water before midnight; delay is punished with death indicated by blood in water.
+- **F420.3.4.2** — Water-spirits must be in water before dawn; delay is punished with death.
+- **F420.3.5** — Water-spirits visited by mortal.
+- **F420.4** — Characteristics of water-spirits.
+- **F420.4.1** — Water-spirits possess magic power.
+- **F420.4.1.1** — Protean transformation of water-spirit.
+- **F420.4.2** — Water-spirits have supernatural lapse of time: days seem like years.
+- **F420.4.3** — Water-spirits are cannibals: devour mortal victim, suck blood.
+- **F420.4.4** — Water-spirits are grateful.
+- **F420.4.5** — Water-spirits are jealous.
+- **F420.4.6** — Water-man is rendered powerless if kept away from water.
+- **F420.4.6.1** — Water-women are powerless when their garments are taken.
+- **F420.4.7** — Seeing and observing of water-spirits has fatal consequences.
+- **F420.4.8** — Water-spirits have treasures under water.
+- **F420.4.9** — Water-spirit controls water-supply.
+- **F420.4.10** — Water-spirits are prophetic.
+- **F420.5** — Deeds and actions of water-spirits.
+- **F420.5.1** — Kind water-spirits.
+- **F420.5.1.1** — Water-spirits protect and warn sailor against storm and in tempest.
+- **F420.5.1.1.1** — Water-spirits save shipwrecked people.
+- **F420.5.1.2** — Water-spirits help poor.
+- **F420.5.1.3** — Water-spirits help lovers.
+- **F420.5.1.4** — Water-spirits work as servants for mortal for small compensation.
+- **F420.5.1.5** — Water-spirits work as servants for mortal but disappear when compensation is offered or origin suspected.
+- **F420.5.1.6** — Water-spirits work at night in home of mortals.
+- **F420.5.1.7** — Water-spirits give gifts to mortals.
+- **F420.5.1.7.1** — Water-spirits give money, gold, or precious stones.
+- **F420.5.1.7.2** — Seemingly worthless gifts of water-spirits turn to gold.
+- **F420.5.1.7.3** — Water-spirits give magic gifts.
+- **F420.5.1.7.4** — Water-spirit returns to the woodchopper a silver axe in place of the one he has lost.
+- **F420.5.1.7.5** — Water-spirit gives mortal fish.
+- **F420.5.1.8** — Water-spirits give advice.
+- **F420.5.1.9** — Water-spirits adopt human foundling.
+- **F420.5.1.10** — Water-spirits save man from drowning.
+- **F420.5.2** — Malevolent water-spirits.
+- **F420.5.2.1** — Water-spirits lure mortal into water.
+- **F420.5.2.1.1** — Water-maiden enamors man and draws him under water.
+- **F420.5.2.1.2** — Water-spirits lure children into water, offering objects.
+- **F420.5.2.1.3** — Hero drowned by water-spirits, who draw him down as he crosses ice.
+- **F420.5.2.1.4** — Water-goddess allows body of drowning person to come up three times.
+- **F420.5.2.1.5** — Water-spirit drags children into river.
+- **F420.5.2.1.6** — Water-spirit claims a life every seven years.
+- **F420.5.2.2** — Water-spirits kidnap mortals and keep them under water.
+- **F420.5.2.2.1** — Water-spirit returns kidnapped man in return for release of his long hair.
+  *Victim's father has wound the hair around his fingers.*
+- **F420.5.2.2.2** — Mistreated boy sings unto water spirits to take him: waters rise up in tank to engulf him.
+- **F420.5.2.3** — Water-spirit keeps souls of drowned persons in dishes in his home.
+- **F420.5.2.4** — Water-spirits steal children and leave changeling.
+- **F420.5.2.5** — Water-spirits interfere with building bridges, dams.
+- **F420.5.2.6** — Water-spirits take revenge on mortals.
+- **F420.5.2.6.1** — Water-spirits take revenge if yearly tribute is not given.
+- **F420.5.2.6.2** — Water-spirits take revenge for trespassing on ground they claim as theirs.
+- **F420.5.2.6.3** — Water-spirits take revenge for being harmed.
+- **F420.5.2.6.4** — Water-spirits avenge selves on mortal who fails to keep promise.
+- **F420.5.2.6.5** — Water-maidens avenge selves for scorned love.
+- **F420.5.2.6.6** — Water-spirits take revenge on mortals for pollution of water.
+- **F420.5.2.7** — Water-spirit turns boat in circle.
+- **F420.5.2.7.1** — Water-spirit crushes boat.
+- **F420.5.2.7.2** — Water-spirit shakes ship.
+- **F420.5.2.7.3** — Water-spirit wrecks ship.
+- **F420.5.2.7.4** — Water-spirit holds ship back.
+- **F420.5.2.8** — Water-spirit splashes passing people.
+- **F420.5.2.9** — Water-spirits lead travelers astray.
+- **F420.5.2.10** — Water-man sits on back of persons as heavy burden.
+- **F420.5.2.11** — Water-spirits cause blindness.
+- **F420.5.2.12** — Water-spirit causes illness and death.
+- **F420.5.3** — Other actions of water-spirits.
+- **F420.5.3.1** — Water-spirits sit on beach combing their long hair.
+- **F420.5.3.2** — Water-spirit calls human midwife.
+- **F420.5.3.3** — Water-spirits call human godmother.
+- **F420.5.3.4** — Water-spirit flees if holy name, ceremony, or blessed object is used.
+- **F420.5.3.5** — Nix flees from benediction in church.
+- **F420.5.3.6** — Water-spirit demands food from those it takes across stream.
+- **F420.5.3.7** — Water-spirits prophesies.
+- **F420.6** — Marriage of water-spirits.
+- **F420.6.1** — Marriage or liaison of mortals and water-spirits.
+- **F420.6.1.1** — Water-man woos mortal girl.
+- **F420.6.1.2** — Water-spirit offers gift to mortal to win love.
+- **F420.6.1.3** — Mortal goes to home of water-spirits and marries.
+- **F420.6.1.4** — Water-maiden goes to home of mortal and marries.
+- **F420.6.1.5** — Water-maidens make conditions for lovers.
+- **F420.6.1.6** — Offspring of marriage between mortal and water-spirit.
+- **F420.6.1.7** — Water-spirit surprises and rapes a mortal woman.
+  *A son is born who is sleepless.*
+- **F420.6.2** — Love and marriage between water-spirits and other spirits.
+- **F420.6.2.1** — Water-man marries fairy.
+- **F420.6.2.2** — Water-maiden marries giant.
+- **F420.6.2.3** — Water-maiden is wooed by dwarf.
+- **F420.7** — Miscellaneous motifs connected with water-spirits.
+- **F420.7.1** — Visit to water-goddess's underwater home.
+- **F421** — Lake-spirit.
+- **F421.1** — Lady of the Lake.
+  *A female lake-spirit.*
+- **F422** — Marsh-spirit.
+- **F423** — Sea spirits.
+- **F423.1** — Nereid.
+  *A sea-maiden.*
+- **F424** — River-spirit.
+- **F424.1** — Spirit of brook.
+- **F425** — Fountain spirit.
+- **F426** — Spirit of water-fall.
+- **F429** — Other water-spirits.
+- **F429.1** — Spirit of tide-crack.
+- **F430** — Weather-spirits.
+- **F431** — Cloud-spirit.
+- **F432** — Wind-spirit.
+- **F433** — Storm-spirit.
+- **F433.1** — Spirit of snow.
+- **F434** — Spirit of thunder.
+- **F436** — Spirit of cold.
+- **F437** — Spirit of warmth.
+- **F438** — Spirit of earthquake.
+- **F438.1** — Spirit of earthquake lives underground (below earth).
+- **F438.2** — Spirit of earthquake has very long mouth.
+- **F439** — Other weather-spirits.
+- **F439.1** — Rainbow spirit.
+- **F439.1.1** — Rainbow draws to itself fisherman and his boat.
+- **F439.1.2** — Rainbow spirit as helper on journey.
+- **F439.1.3** — Rainbow spirit as messenger.
+- **F440** — Vegetation spirits.
+- **F440.1** — Green vegetation spirit.
+- **F441** — Wood-spirit.
+- **F441.1** — Schrdtel.
+  *An elf-like, male, malevolent wood-spirit.*
+- **F441.2** — Tree-spirit.
+- **F441.2.0.1** — Tree-spirit persuades man to spare tree.
+- **F441.2.1** — Wood-nymph.
+- **F441.2.1.1** — Wood-nymph comes to the fire to warm.
+- **F441.2.1.2** — Wood-nymph with breasts so long that she throws them over her shoulder.
+- **F441.2.1.3** — Wood-nymph wooes and then deserts man.
+- **F441.2.1.4** — Tree maidens bathe at midnight in lake.
+- **F441.2.2** — Dryad.
+  *Female spirit dwelling among trees.*
+- **F441.2.3** — Hamadryad.
+  *Female spirit of a particular tree.*
+- **F441.2.3.1** — Man marries tree maiden.
+- **F441.2.3.1.1** — Man marries spirit of willow tree.
+  *She must part from him when tree is cut down.*
+- **F441.2.3.2** — Tree-spirit in elder tree.
+- **F441.3** — Wild man as wood-spirit.
+- **F441.4** — Form of wood-spirit.
+- **F441.4.1** — Wood-spirit gigantic with one eye in center of forehead.
+- **F441.4.2** — Wood-spirit without hands, feet, or mouth.
+- **F441.4.3** — Forest spirits brighter than moon.
+- **F441.4.4** — Forest-spirits with wings and with backward-pointing fingers and toes.
+- **F441.4.5** — Wood-spirits with such heavy eyebrows they must lie on backs to see upwards.
+- **F441.4.6** — Wood-spirits with teeth on stomach.
+- **F441.5** — Size of wood-spirit.
+- **F441.5.1** — Wood-spirit tiny.
+- **F441.5.2** — Wood-spirit gigantic.
+- **F441.6** — Deeds of wood-spirits.
+- **F441.6.1** — Wood-spirits responsible for sickness and failure.
+- **F441.6.2** — Wood-spirits transform men into animals.
+- **F441.6.3** — Sexual relations with wood-spirit fatal.
+- **F441.6.4** — Wood-spirit calls after one in woods (Hehmann).
+- **F442** — Pan.
+  *Wood-spirit (demigod) part goat and part man.*
+- **F442.1** — Mysterious voice announces death of Pan.
+- **F443** — Echo as wood-spirit.
+- **F443.1** — Echo as wood-spirit kidnaps and crazes man.
+- **F445** — Field-spirits.
+- **F445.1** — Crop-spirits.
+- **F445.1.1** — Tobacco-spirit.
+- **F447** — Flower-spirits.
+- **F450** — Underground spirits.
+- **F450.0.1** — Voetter (generalized underground spirit).
+- **F450.1** — Helpful underground spirit.
+- **F450.1.1** — Helpful spirit warriors dwell in rocks and hills.
+- **F450.1.2** — Underground spirit instructs a smith.
+- **F451** — Dwarf.
+- **F451.0.1** — Luchrupbin (leprechauns) (as fairies).
+- **F451.1** — Origin of dwarfs.
+- **F451.1.1** — Dwarfs originate from maggots in flesh of giant.
+- **F451.1.1.1** — Dwarfs originate from the blood and bones of giant.
+- **F451.1.2** — Murderer's children become dwarfs.
+- **F451.1.3** — Dwarfs came after giants had almost died out.
+- **F451.1.4** — Dwarfs came into the land 1000 years before mortals came.
+- **F451.1.5** — Dwarf as reincarnation.
+- **F451.1.5.1** — Dwarf as reincarnation of rat.
+- **F451.2** — Appearance of dwarf.
+- **F451.2.0.1** — Dwarfs are ugly.
+- **F451.2.0.2** — Dwarfs are grown over with moss.
+- **F451.2.0.3** — Dwarfs walk stooped.
+- **F451.2.0.4** — Dwarfs appear nodding and anxious to speak.
+- **F451.2.0.5** — During the day dwarfs appear in form of toads or other vermin.
+- **F451.2.0.6** — Dwarfs are pale.
+- **F451.2.1** — Body of dwarf.
+- **F451.2.1.1** — Dwarfs are small.
+- **F451.2.1.2** — Dwarf with body like tailless hen.
+- **F451.2.1.3** — Dwarf with small body and large head.
+- **F451.2.1.4** — Hunchback dwarf.
+- **F451.2.2** — Feet of dwarf.
+- **F451.2.2.1** — Dwarf's feet twisted backward.
+- **F451.2.2.2** — Dwarf with bird feet.
+- **F451.2.2.3** — Dwarfs with goat feet.
+- **F451.2.3** — The beards of dwarfs.
+- **F451.2.3.1** — Long-bearded dwarf.
+- **F451.2.3.1.1** — Dwarfs have long beards in three strands.
+- **F451.2.3.2** — Dwarfs have gray beards.
+- **F451.2.4** — The hair of dwarfs.
+- **F451.2.4.1** — Dwarfs have coarse hair.
+- **F451.2.4.2** — Dwarfs have silvery white hair.
+- **F451.2.5** — Face of dwarf.
+- **F451.2.5.1** — Dwarfs have old face.
+- **F451.2.6** — Other bodily characteristics of dwarfs.
+- **F451.2.7** — Dress of dwarf.
+- **F451.2.7.1** — Dwarfs with red heads and red caps.
+- **F451.2.7.2** — Dwarf clad in green.
+- **F451.2.7.3** — Dwarfs referred to as "gray", not specifying whether as to dress or hair.
+- **F451.2.7.4** — Dwarfs clad in white.
+- **F451.2.7.5** — Dwarfs wear red coats.
+- **F451.2.7.6** — Dwarfs wear peculiar caps.
+- **F451.2.7.7** — Dwarf king wears costly crown.
+- **F451.2.7.8** — Dwarf clad in brown.
+- **F451.2.7.9** — Dwarf clad in black.
+- **F451.2.7.10** — Dwarfs clad in motley.
+- **F451.2.8** — Voice of dwarfs (echo).
+- **F451.3** — Characteristics of dwarfs.
+- **F451.3.1** — Power of dwarf in his belt.
+- **F451.3.2** — Dwarf rendered powerless.
+- **F451.3.2.1** — Dwarfs turn to stone at sunrise.
+- **F451.3.2.1.1** — Dwarf prevented from getting into his stone before sunrise till he promises to do what hero demands (especially forge weapons).
+- **F451.3.2.1.2** — Dwarf otherwise caught and thus forced to procure what hero demands.
+- **F451.3.2.2** — Dwarfs must return to spirit world by 1 a. m. German: Eckart 69, Winckler 56 No. 57.
+- **F451.3.2.3** — Dwarfs cannot harm mortal with circle drawn around him.
+- **F451.3.2.4** — Dwarf can be killed only with snowball.
+- **F451.3.3** — Dwarf as magician.
+- **F451.3.3.0.1** — Dwarf can take what shape he wants.
+- **F451.3.3.1** — Dwarfs turn peas into gold pieces.
+- **F451.3.3.2** — Dwarf turns gold into lead.
+- **F451.3.3.3** — Dwarfs transform people (animals).
+- **F451.3.3.4** — Dwarfs free mortals from enchantment.
+- **F451.3.3.5** — Dwarfs bewitch cows to give no milk.
+- **F451.3.3.5.1** — Dwarfs bewitch people.
+- **F451.3.3.6** — Dwarfs fly through air.
+- **F451.3.3.7** — Dwarfs predict.
+- **F451.3.3.8** — Dwarfs made invisible by magic caps.
+- **F451.3.4** — Dwarfs as workmen.
+- **F451.3.4.0.1** — Dwarf workmen heard at night.
+- **F451.3.4.1** — Dwarfs as artificers.
+- **F451.3.4.1.1** — Dwarfs build tower.
+- **F451.3.4.2** — Dwarfs as smiths.
+- **F451.3.4.3** — Dwarfs do farming.
+- **F451.3.4.4** — Dwarf sews.
+- **F451.3.4.5** — Dwarf bakes bread.
+- **F451.3.4.6** — Dwarfs spin.
+- **F451.3.4.7** — Dwarfs churn.
+- **F451.3.4.8** — Dwarfs carry water.
+- **F451.3.4.9** — Dwarf expert at making palm wine.
+- **F451.3.4.10** — Dwarf splits wood using penis as wedge.
+- **F451.3.4.11** — Dwarf can draw entrails out of elephant.
+- **F451.3.5** — Dwarfs are subject to laws of nature.
+- **F451.3.5.1** — Dwarfs die.
+- **F451.3.5.2** — Dwarfs become ill.
+- **F451.3.5.3** — Dwarf children are hungry.
+- **F451.3.5.4** — Dwarfs have blood.
+- **F451.3.5.5** — Dwarf women bear children.
+- **F451.3.6** — Dwarfs are sensitive.
+- **F451.3.6.1** — Dwarf is insulted when scolded.
+- **F451.3.6.2** — Dwarfs dislike teasing.
+- **F451.3.6.3** — Dwarfs dislike tobacco smoke.
+- **F451.3.6.4** — Dwarfs accept as gift goose but not gander.
+- **F451.3.6.5** — Dwarfs timorous.
+- **F451.3.6.5.1** — Dwarfs fear the dark.
+- **F451.3.6.5.2** — Dwarfs fear dogs.
+- **F451.3.7** — Dwarfs are particular as to food.
+- **F451.3.7.1** — Dwarfs dislike caraway seed in food.
+- **F451.3.7.2** — Dwarfs dislike bread baked without salt.
+- **F451.3.7.3** — Dwarfs given inedible food to eat.
+- **F451.3.8** — Dwarfs are strong.
+- **F451.3.8.1** — Dwarf carries mortal down from Hibichenstein.
+- **F451.3.9** — Dwarfs are weak.
+- **F451.3.9.1** — Dwarf groans while carrying an ear of corn.
+- **F451.3.10** — Dwarfs are droll.
+- **F451.3.11** — Great age of dwarfs.
+- **F451.3.12** — Dwarfs are intelligent.
+- **F451.3.12.1** — Dwarfs know herbs.
+- **F451.3.12.2** — Dwarfs are sensible.
+- **F451.3.12.3** — Dwarfs are wise.
+- **F451.3.12.4** — Dwarfs cut runes.
+- **F451.3.13** — Dwarfs are ill-mannered.
+- **F451.3.13.1** — Eating dwarfs smack like hogs.
+- **F451.3.13.2** — Dwarfs chatter.
+- **F451.3.13.2.1** — Dwarfs chatter like geese.
+- **F451.3.13.3** — Dwarf breaks wind so hard he capsizes canoes.
+- **F451.3.14** — Dwarfs are numerous.
+- **F451.3.14.1** — Dwarfs come into the land by the hundreds.
+- **F451.3.15** — Dwarfs are superstitious.
+- **F451.3.15.1** — Dwarfs are superstitious about the three sevens in 1777.
+- **F451.3.16** — Dwarfs are artful.
+- **F451.4** — Home of dwarfs.
+- **F451.4.1** — Dwarfs live under the ground.
+- **F451.4.1.1** — Dwarfs live in caves.
+- **F451.4.1.2** — Dwarfs live in underground castle.
+- **F451.4.1.3** — Dwarfs live in luxurious underground palace.
+- **F451.4.1.4** — Dwarfs live in underground passage.
+- **F451.4.1.5** — Dwarf home is underground, beneath cow stable.
+- **F451.4.1.6** — Dwarfs undermine lowlands for homes.
+- **F451.4.1.7** — Entrance to dwarf home leads through some filthy place under the swill hole or swill tub.
+- **F451.4.1.8** — Dwarfs live in the high banks of the seashore.
+- **F451.4.1.9** — Burial places (barrows, howes) as homes of dwarfs.
+- **F451.4.1.10** — Snow melts above dwarf's dwelling.
+- **F451.4.1.11** — Dwarfs live in hills and mountains.
+- **F451.4.1.12** — Dwarfs live in stones.
+- **F451.4.2** — Dwarfs have homes above the ground.
+- **F451.4.2.1** — Dwarfs live in a cliff.
+- **F451.4.2.2** — Dwarfs live in ravines.
+- **F451.4.2.3** — Dwarfs live in a forest.
+- **F451.4.2.4** — Dwarfs live in a church.
+- **F451.4.2.5** — Dwarf king lives in a mill.
+- **F451.4.2.6** — Dwarfs seen on a mountain.
+- **F451.4.3** — Description of dwarf home.
+- **F451.4.3.1** — Dwarf cave closed by iron doors.
+- **F451.4.3.1.1** — Dwarfs' rock closed by rock-door.
+- **F451.4.3.2** — Dwarf cave has large square room with little doors leading to all sides.
+- **F451.4.3.3** — Dwarf cave has ceiling of mineral white as snow.
+- **F451.4.3.4** — Dwarf home has chandelier of crystals and gems.
+- **F451.4.3.5** — Floors in dwarf home are covered with pine twigs.
+- **F451.4.3.6** — Dwarfs' castle of gold.
+- **F451.4.3.7** — Magic flower opens dwarf home.
+- **F451.4.3.8** — Dwarfs' house of reeds.
+- **F451.4.3.9** — Dwarfs' house covered with skin of fabulous six-legged animal.
+- **F451.4.4** — Home of dwarfs is endangered or destroyed.
+- **F451.4.4.1** — Dwarfs resentful that mortals shoot at birds above Hibichenstein, because this crumbles away the cliff.
+- **F451.4.4.2** — Thirty-Years War destroys home of dwarfs.
+- **F451.4.4.3** — Dwarfs request that cow stable be moved because it is above their home and the seepage strikes their dining table.
+- **F451.4.4.3.1** — Dwarf wishes death to mortal who throws water on his dunghill home.
+- **F451.4.5** — Government among dwarfs.
+- **F451.4.5.1** — Dwarfs are ruled by a king.
+- **F451.4.6** — In dwarf land sunrise is at midnight.
+- **F451.5** — Dwarfs and human beings.
+- **F451.5.1** — Helpful dwarfs.
+- **F451.5.1.1** — Dwarf as godfather.
+- **F451.5.1.2** — Dwarfs adopt girl as sister.
+- **F451.5.1.3** — Dwarfs make new golden hair for woman.
+- **F451.5.1.4** — Dwarfs' gold.
+- **F451.5.1.5** — Money or treasure given by dwarfs.
+- **F451.5.1.5.1** — Dwarf king turns mill which produces gold.
+- **F451.5.1.6** — Other gifts from dwarfs.
+- **F451.5.1.6.1** — Dwarfs' gifts cease when mortal betrays the source.
+- **F451.5.1.7** — Dwarfs serve mortals.
+- **F451.5.1.8** — Dwarf serves king sleeping in mountain (Kyffhduser).
+- **F451.5.1.9** — Dwarfs direct mortals to treasure.
+- **F451.5.1.10** — Dwarfs heal (give medicine).
+- **F451.5.1.11** — Dwarfs lend to mortals.
+- **F451.5.1.12** — Dwarf moves mortal's castle from one mountain to another.
+- **F451.5.1.13** — Dwarf washes, combs, and braids hair for sleeping maids.
+- **F451.5.1.14** — Dwarf conducts shepherd to hell to collect debt from nobleman.
+- **F451.5.1.15** — Dwarfs warm heath by underground fire.
+- **F451.5.1.16** — Dwarf king prevents a father from shooting his son.
+- **F451.5.1.17** — Dwarfs protect the forest.
+- **F451.5.1.18** — Dwarfs teach mortals.
+- **F451.5.1.19** — Dwarfs help human beings with spinning.
+- **F451.5.1.20** — Dwarfs help in performing task.
+- **F451.5.1.21** — House of dwarf's friend spared in fire.
+- **F451.5.2** — Malevolent dwarf.
+- **F451.5.2.1** — Ungrateful dwarf.
+- **F451.5.2.2** — Dwarfs steal from human beings.
+- **F451.5.2.2.1** — Dwarfs steal magic objects.
+- **F451.5.2.2.2** — Dwarfs steal food and drink.
+- **F451.5.2.3** — Dwarfs exchange children in cradle.
+- **F451.5.2.3.1** — Father given carved wooden image in lieu of son stolen by dwarfs.
+- **F451.5.2.4** — Dwarfs kidnap mortals.
+- **F451.5.2.5** — Dwarfs interfere with mortal's work (destroy buildings, crops, etc. ) (Cf. +F420.5.2.5.)
+- **F451.5.2.6** — Dwarfs punish.
+- **F451.5.2.7** — Dwarfs play pranks.
+- **F451.5.2.8** — Dwarfs threaten mortals.
+- **F451.5.2.9** — Dwarfs scold mortals.
+- **F451.5.2.10** — Dwarfs frighten mortals.
+- **F451.5.2.11** — Dwarfs attack soldier.
+- **F451.5.2.12** — Dwarf takes back gifts he gave.
+- **F451.5.2.13** — Dwarfs curse weapons and treasures which they are forced to give (or which the receiver does not appreciate).
+- **F451.5.2.14** — Dwarfs demand gifts.
+- **F451.5.3** — Dwarfs are ancestors of mortals.
+- **F451.5.3.1** — Crippled mortals are of dwarf ancestry.
+- **F451.5.4** — Mortal goes to land of dwarfs.
+- **F451.5.4.1** — Ghost conceals herself with dwarfs.
+- **F451.5.4.2** — Dwarfs suspend large millstone on thin thread over head of mortal, to show what anguish dwarfs felt when mortal endangered their lives.
+- **F451.5.4.3** — Enchanted princess lives with dwarfs.
+- **F451.5.5** — Dwarfs have human woman as midwife.
+- **F451.5.6** — Dwarfs have mortal god-parent.
+- **F451.5.7** — Dwarfs visit mortal's home.
+- **F451.5.7.1** — Dwarf wants to warm self at fire.
+- **F451.5.8** — Dwarfs associate with mortals.
+- **F451.5.8.1** — Dwarf follows countess around like a little dog.
+- **F451.5.9** — Dwarfs and Christianity.
+- **F451.5.9.1** — Dwarfs fear the cross.
+- **F451.5.9.2** — Dwarfs dislike singing of hymns.
+- **F451.5.9.3** — Dwarfs dislike church bells.
+- **F451.5.9.4** — Dwarfs regard Day of St. John the Divine.
+- **F451.5.9.5** — Dwarf seeks to enter church.
+- **F451.5.9.6** — Murder causes dwarf to lose his soul.
+- **F451.5.10** — Business relations of dwarfs and mortals.
+- **F451.5.10.1** — Dwarfs accept remuneration.
+- **F451.5.10.2** — Dwarfs object to rewards.
+- **F451.5.10.3** — Dwarfs borrow from mortals.
+- **F451.5.10.3.1** — Dwarf borrows sledge.
+- **F451.5.10.4** — Dwarfs return what they borrow.
+- **F451.5.10.5** — Dwarfs buy peas from mortals and pay more than they are worth.
+- **F451.5.10.6** — Dwarfs pay for being ferried across water.
+- **F451.5.10.7** — Mortal confiscates property of dwarfs.
+- **F451.5.10.8** — Dwarfs make promises with mental reservations.
+- **F451.5.10.9** — Ausgelohnt.
+  *When dwarfs are paid in full for their work they cease helping mortals.*
+- **F451.5.11** — Dwarfs suffer abuses by mortals.
+- **F451.5.12** — Dwarfs thwart efforts of mortals to get additional favors.
+- **F451.5.12.1** — Mortals, informed by those benefited, seek dwarf abode in vain.
+- **F451.5.13** — Dwarfs exact promise from mortals.
+- **F451.5.14** — Dwarfs tease mortals.
+- **F451.5.15** — Dwarfs give riddles and questions to mortals.
+- **F451.5.15.1** — Dwarf promises mortal much money if he will guess his name.
+- **F451.5.15.2** — Dwarf makes return of child dependent upon guessing of riddle.
+- **F451.5.15.3** — Dwarf suitor desists when unwilling maiden guesses his name.
+- **F451.5.16** — Dwarfs dislike human vices.
+- **F451.5.17** — Dwarfs invisibly attend wedding or christening feasts of mortals.
+- **F451.5.17.1** — Invisible dwarfs at christening feast made to speak by brewing beer in egg-shell.
+- **F451.5.18** — Dwarf loves mortal girl.
+- **F451.5.18.1** — Dwarf promises money and property to mortal father for hand of daughter.
+- **F451.5.19** — Dwarfs are bashful or timid.
+- **F451.5.19.1** — Dwarf stays away from house after maid tries to catch and kiss him.
+- **F451.5.20** — Dwarfs give orders to mortals.
+- **F451.5.21** — Six dwarfs listen to singing by confirmed children.
+- **F451.5.22** — Expelled dwarfs plan to dig underground bed for Rhine.
+- **F451.5.23** — Dwarfs seek human help in their fights and troubles.
+- **F451.6** — Other actions of dwarfs.
+- **F451.6.1** — Dwarf caught by beard in cleft of tree.
+- **F451.6.2** — Dwarf rides.
+- **F451.6.2.1** — Dwarf rides on a hare.
+- **F451.6.2.2** — Dwarf rides through air on wooden horse.
+- **F451.6.2.3** — Dwarfs are taken for hussars because they ride little horses.
+- **F451.6.2.4** — Dwarfs try to kill serpent.
+- **F451.6.3** — Dwarfs have festivities.
+- **F451.6.3.1** — Dwarfs feast mortals in their home.
+- **F451.6.3.2** — Dwarfs celebrate weddings and christenings of their own.
+- **F451.6.3.3** — Dwarfs have music.
+- **F451.6.3.3.1** — Dwarf musician (poet).
+- **F451.6.3.4** — Dwarf dances.
+- **F451.6.3.5** — Dwarfs play in the moonlight.
+- **F451.6.3.6** — Dwarfs hold church services.
+- **F451.6.4** — Dwarfs fight with each other.
+- **F451.6.5** — Dwarfs wed.
+- **F451.6.6** — Dwarfs laugh.
+- **F451.6.7** — Dwarfs weep.
+- **F451.6.8** — Dwarfs become angry.
+- **F451.6.9** — Dwarfs dig for treasures.
+- **F451.6.10** — Frau Holle lives with dwarfs.
+- **F451.6.11** — Dwarfs betray.
+- **F451.6.12** — Dwarf king Hibich comes to surface every 500 years.
+- **F451.6.13** — Dwarf carries his knocked-off leg on his shoulder.
+- **F451.6.14** — Dwarfs flee to caves for protection.
+- **F451.7** — Possessions of dwarfs.
+- **F451.7.1** — Dwarfs possess treasure (gold, jewels, etc. ).
+- **F451.7.2** — Dwarfs have ovens.
+- **F451.7.3** — Dwarfs have little lanterns.
+- **F451.7.4** — Dwarf king has silver miner's torch bright as the sun.
+- **F451.7.5** — Dwarfs have little horses.
+- **F451.7.6** — Dwarfs have cattle, steeds and wagons.
+- **F451.8** — Names for dwarfs.
+- **F451.8.1** — Common names for dwarfs.
+- **F451.8.2** — Proper names for dwarfs.
+- **F451.9** — Dwarfs emigrate.
+- **F451.9.1** — Why dwarfs emigrate.
+- **F451.9.1.1** — Dwarfs emigrate because mortals put caraway seeds into bread.
+- **F451.9.1.2** — Dwarfs emigrate because mortals are false.
+- **F451.9.1.3** — The three sevens in 1777 drive dwarfs out of the land.
+- **F451.9.1.4** — Dwarfs emigrate because of industrial development.
+- **F451.9.1.5** — Dwarfs promise to emigrate if captured dwarfs are released.
+- **F451.9.1.6** — Dwarfs emigrate because Christianity offends them.
+- **F451.9.1.7** — Dwarfs emigrate because mortals tease them.
+- **F451.9.1.8** — Dwarfs emigrate because mortals object to their stealing.
+- **F451.9.1.9** — Dwarfs emigrate because they dislike peasants' dancing and loud music.
+- **F451.9.1.10** — Dwarfs emigrate because mortals curse.
+- **F451.9.1.11** — Dwarfs emigrate because mortals desecrate holy day.
+- **F451.9.1.12** — Dwarfs emigrate because of mortals' ingratitude.
+- **F451.9.1.13** — Frederick the Great drove dwarfs across Black Sea.
+- **F451.9.1.14** — Dwarfs forced to flee by deity.
+- **F451.9.1.15** — Dwarfs emigrate when their king dies.
+- **F451.9.2** — The destination of emigrating dwarfs.
+- **F451.9.2.1** — Dwarfs emigrate to unknown place.
+- **F451.9.2.2** — Dwarfs emigrate to the Orient.
+- **F451.9.3** — Dwarfs emigrate New Year's Eve of 1800 to return New Year's Eve of 1900.
+- **F451.9.4** — As dwarfs emigrate each deposits coin into kettle for mortals.
+- **F451.9.5** — Emigrating dwarfs are ferried across water.
+- **F451.9.6** — Dwarfs emigrate unseen but heard.
+- **F451.10** — Dwarfs and other supernatural beings.
+- **F451.10.1** — Giants and heroes created for the protection and aid of dwarfs.
+- **F451.10.2** — Giants and dwarfs in contest.
+- **F451.10.2.1** — Dwarfs kill giantess by dropping millstone on her head.
+- **F451.10.3** — Dwarfs in love with other supernatural beings.
+- **F451.10.4** — Dwarfs make weapons and other precious objects for the gods.
+- **F455** — Trolls.
+  *Sometimes underground spirits, sometimes also thought of as mountain-spirits. In many tales trolls are ogres.*
+- **F455.1** — Home of trolls.
+- **F455.1.1** — Trolls live in howe (barrow, grave).
+- **F455.1.2** — Trolls live in cliffs.
+- **F455.2** — Appearance of trolls.
+- **F455.2.1** — Trolls the size of ten or twelve year old child.
+- **F455.2.2** — Trolls are usually ugly, hideous, big and strong.
+- **F455.2.3** — Trolls are black (dark).
+- **F455.2.4** — Trolls dressed in skins.
+- **F455.2.5** — Troll in human form.
+- **F455.2.5.1** — Troll in human size.
+- **F455.2.6** — Trolls frightful.
+- **F455.2.7** — Troll with snout for nose.
+- **F455.2.8** — Troll in animal form (cat, dog, pig, hen).
+- **F455.2.9** — Troll as whirlwind.
+- **F455.2.10** — Great age of trolls.
+  *Often centuries old.*
+- **F455.3** — Characteristic activities of trolls.
+- **F455.3.1** — Trolls skillful as smiths.
+- **F455.3.2** — Trolls dance.
+- **F455.3.3** — Trolls ride.
+- **F455.3.3.1** — Troll rides on dog.
+- **F455.3.3.2** — Troll rides in whirlwind.
+- **F455.3.3.3** — Trolls ride on men and cattle.
+- **F455.3.4** — Trolls spin and weave fine cloth.
+- **F455.3.5** — Trolls bake.
+- **F455.3.6** — Trolls go about at night.
+- **F455.4** — Possessions of trolls.
+- **F455.4.1** — Trolls' riches.
+- **F455.4.1.1** — Trolls' riches inside mountain.
+- **F455.4.2** — Trolls' food.
+- **F455.4.2.1** — Trolls' food gives man supernatural strength.
+- **F455.4.2.2** — Trolls eat from golden dishes, but food is frogs and snakes.
+- **F455.4.2.3** — Trolls live on food humans have failed to bless.
+- **F455.5** — Visibility of trolls.
+- **F455.5.1** — Trolls invisible but heard.
+- **F455.5.2** — Invisible troll attends wedding and eats food.
+- **F455.5.3** — Trolls have cap of invisibility.
+- **F455.5.4** — Certain persons can see trolls.
+- **F455.5.4.1** — Animals can see trolls.
+- **F455.5.4.2** — Trolls visible to unconfirmed children.
+- **F455.5.4.3** — Trolls seen through another's arm (or the like).
+- **F455.6** — Trolls and men.
+- **F455.6.1** — Trolls' friendship with men.
+- **F455.6.2** — Trolls' lending and borrowing.
+- **F455.6.2.1** — Troll repays loan with costly or magic object.
+- **F455.6.3** — Trolls steal from humans.
+- **F455.6.3.1** — Trolls steal fish at Christmas.
+- **F455.6.4** — Theft from troll.
+- **F455.6.4.1** — Troll's costly cup stolen.
+- **F455.6.4.2** — Troll's treasure obtained by casting steel on it.
+- **F455.6.5** — Trolls visit men.
+- **F455.6.5.1** — Trolls visit people Christmas Eve.
+- **F455.6.6** — Trolls carry off people.
+- **F455.6.6.1** — Stolen woman saved from trolls' dance.
+- **F455.6.7** — Trolls as changelings.
+- **F455.6.8** — Trolls help men.
+- **F455.6.8.1** — Trolls help with grain harvest.
+- **F455.6.9** — Trolls as the constant enemies of humans.
+- **F455.6.10** — People possessed by trolls.
+- **F455.7** — Trolls and Christianity.
+- **F455.7.1** — Trolls flee before Christianity.
+- **F455.7.2** — Troll helpless before sign of Cross.
+- **F455.7.3** — Trolls may not utter holy names.
+- **F455.8** — Troll killed.
+- **F455.8.1** — Trolls turn to stone at sunrise.
+- **F455.8.2** — Trolls killed by lightning.
+- **F455.9** — Banning trolls.
+- **F455.9.1** — Certain persons can ban trolls.
+- **F455.10** — Recognizing trolls.
+- **F455.10.1** — Test of troll child.
+  *Snake placed in dough she is to knead. She calls it "brother".*
+- **F455.11** — Offspring of trolls.
+- **F456** — Mine spirits.
+  *Gnomes.*
+- **F456.1** — Knockers (Tommy Knockers, spriggins).
+- **F456.1.1** — Origin of knockers or spriggins.
+- **F456.1.1.1** — Knockers as ghosts of Jews who crucified Christ and who were forced to work Cornish tin mines as punishment.
+- **F456.1.1.2** — Knockers as ghosts of giants who formerly lived in area.
+- **F456.1.1.3** — Knockers as spirits of dead miners.
+- **F456.1.2** — Actions of knockers.
+- **F456.1.2.1** — Malicious actions of knockers.
+- **F456.1.2.1.1** — Knockers bring ill luck if one whistles in the mine.
+- **F456.1.2.1.2** — Knockers hide tools of miners.
+- **F456.1.2.1.3** — Knockers tamper with dynamite fuses in mine.
+- **F456.1.2.1.4** — Knockers kick rungs out of ladders, cutting off escape of trapped miners.
+- **F456.1.2.1.5** — Knockers lame miners who bother them unduly.
+- **F456.1.2.2** — Helpful actions of knockers.
+- **F456.1.2.2.1** — Knockers lead men to the richest lodes in the mines by knocking in those areas.
+- **F456.1.2.2.2** — Knockers do miner's work at night while he is gone.
+- **F456.1.2.2.3** — Knockers test entries and supports by tapping them with hammers.
+- **F456.1.2.2.4** — Knockers appear to miners before accidents occur: the sight of one serves as a warning to leave mine.
+- **F456.1.2.3** — Other actions of knockers.
+- **F456.1.2.3.1** — Knockers hold midnight mass deep in mines on Christmas Eve.
+- **F456.1.2.3.2** — Knockers (ghosts of Jews) are compelled to sing carols in mines at Christmastime.
+- **F456.1.2.3.3** — Knockers refrain from work on Saturdays and other Jewish holidays.
+- **F456.2** — Mining spirit: "Bluecap."
+- **F456.2.1** — Bluecap moves coal-tubs for miners.
+- **F456.3** — Mining spirit: "Cutty Soams".
+- **F456.3.1** — "Cutty" cuts cords by which miners pull tubs full of coal.
+- **F456.4** — Miscellaneous mine spirit motifs.
+- **F456.4.1** — Fairies operate coal mine.
+- **F460** — Mountain-spirits.
+  *(Huldra.)*
+- **F460.0.1** — Mountain spirits as souls of dead.
+- **F460.1** — Appearance of mountain men.
+- **F460.1.1** — Mountain-man in animal shape.
+- **F460.1.1.1** — Mountain-man in shape of hog.
+- **F460.1.2** — Mountain-wife has breasts so long that she throws them over her shoulder.
+- **F460.1.3** — Mountain-man carries shears at side like sword.
+- **F460.1.4** — Dress of mountain-men.
+- **F460.1.4.1** — Mountain-men in white caps.
+- **F460.1.4.2** — Mountain-men in red caps.
+- **F460.1.4.3** — Huldra-woman's cap.
+- **F460.1.5** — Huldra-women have cow's tails.
+- **F460.1.6** — Huldra-men with long teeth and nose.
+- **F460.1.7** — Huldra invisible.
+- **F460.2** — Characteristics of mountain-men.
+- **F460.2.1** — Mountain-folk afraid of thunder.
+- **F460.2.2** — Mountain-folk ride through air on horses.
+- **F460.2.3** — Mountain-men cannot enter house till light is quenched.
+- **F460.2.4** — Mountain-man has stack of butter before his door.
+- **F460.2.5** — Huldra have lake.
+- **F460.2.6** — Huldra live like people.
+  *Have own churches, king, soldiers, etc.*
+- **F460.2.8** — Huldra have drum.
+- **F460.2.9** — Huldra have cattle.
+- **F460.2.10** — Huldra have drinking-horn.
+- **F460.2.11** — Huldra tend herds in mountains.
+- **F460.2.12** — Mountain-man must die six times to be dead.
+- **F460.2.13** — Huldra sing songs.
+- **F460.2.14** — Mountain spirits eat raw food.
+- **F460.2.15** — Mountain spirits change sex at will.
+- **F460.3** — Amusements of mountain-folk.
+- **F460.3.1** — Mountain-folk dance.
+- **F460.3.2** — Mountain-men play games.
+- **F460.4** — Relation of mountain-men and human beings.
+- **F460.4.1** — Mountain-girl marries mortal man.
+  *Supernaturally strong man as offspring.*
+- **F460.4.1.1** — Mountain-men as lovers of herding-girls.
+- **F460.4.1.2** — Mountain woman has sex relations with man.
+- **F460.4.1.2.1** — Child from dreamed sex relations with mountain-woman.
+- **F460.4.2** — Helpful mountain-men.
+- **F460.4.2.1** — Mountain-spirits help build palace.
+- **F460.4.2.2** — Money left on hill to repay helpful mountain-men.
+- **F460.4.2.3** — Mountain-spirit teaches hero swordsmanship.
+- **F460.4.2.4** — Mountain-men give children a book.
+- **F460.4.2.5** — Huldra trade cattle with men.
+- **F460.4.3** — Mountain-men leave broken implement for man to mend.
+- **F460.4.4** — Malevolent mountain-men.
+- **F460.4.4.1** — Mountain-men abduct persons.
+- **F460.4.4.1.1** — Woman rescued from mountain-men.
+- **F460.4.4.2** — Mountain-men chain captive peasant.
+- **F460.4.4.3** — Mountain-men throw person over church roof.
+- **F460.4.4.4** — Mountain-men make sausage of Christians.
+- **F460.4.4.5** — Mountain-folk steal from peasant.
+- **F460.4.4.6** — Mountain-men drive off man's herds.
+- **F460.4.4.7** — Mountain-spirit causes shipwreck.
+- **F460.4.5** — Mountain-men borrow from peasant.
+- **F460.4.6** — Failure to bless mountains gives mountain-men power.
+- **F460.4.7** — Mountain-man as godfather.
+- **F460.4.8** — Visit to mountain-men.
+- **F465** — R'bezahl.
+  *A mountain and storm spirit.*
+- **F470** — Night-spirits.
+  *Poltergeister; goblins; hobgoblins.*
+- **F470.0.1** — Friar Rush as mischief maker.
+- **F470.1** — Spirits pull off person's bedclothes.
+- **F470.2** — Night-spirits dance.
+- **F471** — Dream demons.
+- **F471.1** — Nightmare (Alp).
+  *Presses person in dream.*
+- **F471.1.1** — Actions of nightmares (alps).
+- **F471.1.1.1** — Alp rides horse sweaty at night.
+- **F471.1.1.2** — Alps dance.
+- **F471.1.2** — Protection against the nightmare (alp).
+- **F471.1.2.1** — Exorcising the nightmare.
+- **F471.1.2.2** — Destruction of an alp.
+- **F471.1.3** — Unbaptized children as nightmares.
+  *When caught, they beg baptism. Usually they are murdered illegitimates.*
+- **F471.1.4** — Ghost of hunter as nightmare.
+- **F471.1.5** — Persons who at night become nightmares.
+  *Those who are born on a Thursday and christened on a Sunday must at certain times (on Thursdays) press somebody or something.*
+- **F471.2** — Incubus.
+  *A male demon who comes in sleep and has sexual intercourse with a woman.*
+- **F471.2.0.1** — Demon lover.
+- **F471.2.1** — Succubus: female incubus.
+- **F472** — Huckauf.
+  *A goblin which jumps on one's back.*
+- **F473** — Poltergeist.
+  *Invisible spirit (sometimes identified as ghost or witch) responsible for all sorts of mischief in or around a household.*
+- **F473.1** — Poltergeist throws objects.
+- **F473.2** — Poltergeist causes objects to behave contrary to their nature.
+- **F473.2.1** — Chair is rocked by invisible spirit.
+- **F473.2.2** — Spirit hides articles in strange places.
+- **F473.2.3** — Spirit puts out lights.
+- **F473.2.4** — House burns for no apparent reason.
+- **F473.3** — Poltergeist mistreats people.
+- **F473.4** — Poltergeist mistreats animals.
+- **F473.4.1** — Spirit rides horses and mules at night, wears them out.
+- **F473.5** — Poltergeist makes noises.
+- **F473.6** — Miscellaneous actions of poltergeist.
+- **F473.6.1** — Spirit tears new paper off rooms in house.
+- **F473.6.2** — Spirit slashes clothing.
+- **F473.6.3** — Spirit takes food from table or cupboard.
+- **F473.6.4** — Spirit eats food.
+- **F473.6.5** — Spirit throws back shots fired at it.
+- **F473.6.6** — Spirit makes wheels come off wagon.
+- **F473.6.7** — Spirit shoves wagon into ditch.
+- **F473.6.8** — Spirit plays man's fiddle at night.
+- **F473.6.9** — Spirit disturbs coffins in burial vault.
+- **F475** — Friendly night-spirits.
+- **F475.1** — Dame Berchta.
+  *Supposed to travel over the country at night with a troop. (Named from Bertha, the mother of Charlemagne.) Also called Frau Holle.*
+- **F480** — House-spirits.
+- **F480.1** — House-spirit in form of a sow.
+- **F480.2** — Serpent as house-spirit.
+- **F480.3** — Thieving household-spirit.
+  *Steals things for its master.*
+- **F480.3.1** — House to make household-spirit (cobold) surrender his booty.
+- **F480.4** — House-spirit in form of baby.
+- **F480.5** — House-spirit without bones or hair.
+- **F481** — Cobold.
+  *A house-spirit.*
+- **F481.0.1** — Acquiring a cobold.
+- **F481.0.1.1** — Cobold hatched out from a seven-year-old cock's egg or a boar's testicle.
+- **F481.0.1.2** — Cobold purchased.
+- **F481.0.1.2.1** — The purchased cobold discarded.
+  *On way home man believes himself cheated, and throws box with fly or piece of charcoal away. Later passing same place he finds a heap of corn or money.*
+- **F481.0.1.3** — Cobold acquired by placing food for him in a certain place.
+  *He likes scrambled eggs.*
+- **F481.0.1.4** — Cobold accidently acquired.
+  *A rope or chicken is found and taken home. Found to be a cobold.*
+- **F481.1** — Cobold avenges uncivil answer (or treatment).
+- **F481.2** — Cobolds furnish supplies to their masters.
+- **F481.2.1** — Cobold furnishes inexhaustible grain to grinder of handmill.
+  *Latter kills him in disgust.*
+- **F481.2.2** — House-spirit furnishes inexhaustible supply of food.
+- **F481.3** — Impossible to rid oneself of cobold.
+- **F481.4** — Brewing in eggshell to drive away cobold.
+- **F482** — Brownie (nisse).
+- **F482.1** — Appearance of brownie.
+- **F482.1.1** — Brownie with red hair.
+- **F482.2** — Clothing of brownie.
+- **F482.2.1** — Brownie dressed in green.
+- **F482.3** — Home of brownies.
+- **F482.3.1** — Brownies live in house.
+  *Move when persons move.*
+- **F482.3.1.1** — Farmer is so bothered by brownie that he decides he must move to get rid of the annoyance.
+  *He piles all furniture on wagon and starts for new home, meets acquaintance who remarks: "I see you're flitting." Brownie sticks his head out of the churn on top of the load, answers: "Yes, we're flitting." Farmer goes back to former home.*
+- **F482.3.2** — Brownies live in knoll.
+- **F482.3.3** — Nisser belong to particular farm.
+- **F482.4** — Possessions of brownies.
+- **F482.4.1** — Various-colored horses of brownie.
+- **F482.4.2** — Nisser have oxen.
+- **F482.5** — Deeds of brownies.
+- **F482.5.1** — Brownies dance.
+- **F482.5.2** — Brownies sew by moonlight.
+- **F482.5.3** — Brownies tease.
+- **F482.5.4** — Helpful deeds of brownie or other household spirit.
+- **F482.5.4.1** — Brownie rides for midwife when needed.
+- **F482.5.4.2** — Brownie restores stolen property, gives thief a twitch in eyelid.
+- **F482.5.5** — Malicious or troublesome actions of brownies.
+- **F482.6** — Origin of household spirits.
+- **F482.7** — House spirits fight each other.
+- **F482.8** — House spirit as suitor.
+- **F485** — Ship-spirit.
+  *(Klabautermann, Kabonterken.) Similar to house-spirit.*
+- **F488** — The stupid house spirit.
+- **F488.1** — Household spirit herds sheep, has great trouble coralling the lambs (rabbits).
+- **F488.2** — Mowing contest with household spirit.
+  *Farmer puts harrow teeth in plot spirit is to mow. Spirit mows through them, thinking they are dock weeds.*
+- **F490** — Other spirits and demons.
+- **F491** — Will-o'-the-Wisp.
+  *(Jack o' Lantern.) Light seen over marshy places.*
+- **F491.1** — Will-o'-the-Wisp leads people astray.
+- **F491.2** — Will-o'-the-Wisp lights people to their homes.
+- **F491.3** — Will-o'-the-Wisp exorcised.
+- **F491.3.1** — Person led astray by Will-o'-the-Wisp turns garment inside out.
+  *Will-o'-the-Wisp exorcised.*
+- **F491.3.2** — Power of Will-o'-the-Wisp over person neutralized if person sticks his knife into the ground.
+- **F491.3.3** — Steel protects person from Will-o'-the-Wisp.
+- **F491.4** — Will-o'-the-Wisp hops about.
+- **F491.5** — Will-o'-the-Wisp's revenge.
+- **F492** — Death on horseback.
+- **F493** — Spirit of plague.
+- **F493.0.1** — Pestilence in animal form.
+- **F493.0.1.1** — Plague as monster.
+- **F493.0.1.2** — Spirit enters princess' body and she falls ill.
+- **F493.0.2** — Pestilence in human form.
+- **F493.0.3** — Pestilence in form of object.
+- **F493.0.3.1** — Pestilence in form of a head.
+- **F493.0.4** — Pestilence in visible form.
+- **F493.1** — Spirits of various kinds of disease.
+- **F493.1.1** — Demon of Consumption.
+- **F493.1.2** — Demon of colic.
+- **F493.2** — Experiences with pestilence spirit.
+- **F493.2.1** — Person who speaks with pestilence dies.
+- **F493.2.2** — Two pestilence spirits speak together.
+- **F493.3** — Protection against pestilence spirit.
+- **F493.3.1** — Upon destruction of pestilence-spirit, plague ceases.
+- **F493.3.2** — Pestilence-spirit "bound" by magic.
+- **F493.3.3** — Magic protection against pestilence-spirit.
+- **F493.4** — Demons spread pestilence by means of "heat and fury".
+- **F493.5** — Sign of great plague: sky seems afire.
+- **F494** — Land-spirits.
+- **F494.1** — Guardian spirit of land.
+- **F494.1.1** — Swamp spirit guards buried treasure.
+- **F494.2** — Spirit of boundaries.
+- **F494.3** — Earth spirit.
+- **F495** — Stone-spirit.
+- **F496** — Demon of gluttony.
+- **F496.1** — Saint possessed by demon of gluttony.
+- **F497** — Fire-spirits.
+- **F497.1** — Conversation of two fire-spirits.
+  *Shall house be burned?*
+- **F499** — Sundry other spirits.
+- **F499.1** — Sky-spirit.
+- **F499.1.1** — Spirit of light.
+- **F499.2** — Nymphs of Paradise (houris).
+- **F499.3** — Jinns.
+- **F499.3.1** — Jinns have no bones in their arms: they have only four fingers and no thumbs.
+- **F499.3.2** — Jinns entitled to share in fruits of the earth.
+- **F499.3.3** — Jinns frequent graveyards, ruined houses, or an altar of sacrifice.
+
+## Remarkable persons
+
+- **F500** — Remarkable persons.
+  *Extraordinary size, form, appearance, or habits.*
+- **F501** — Person consisting only of head.
+- **F510** — Monstrous persons.
+- **F510.1** — Monstrous races.
+- **F511** — Person unusual as to his head.
+- **F511.0.1** — Headless person.
+- **F511.0.1.1** — Headless person with eyes (eye) and mouth on breast.
+- **F511.0.1.2** — Headless persons cannot smell or hear.
+- **F511.0.2** — Person with more than one head.
+- **F511.0.2.1** — Two-headed person.
+- **F511.0.2.2** — Three-headed person.
+- **F511.0.2.2.1** — Three-headed woman.
+- **F511.0.2.3** — Four-headed person.
+- **F511.0.2.4** — Six-headed man.
+- **F511.0.3** — Persons whose heads are stone-hammers.
+- **F511.0.3.1** — Person with iron head.
+- **F511.0.4** — Man carries his head under his arm.
+- **F511.0.4.1** — Man cuts off own head and throws it against enemy.
+- **F511.0.5** — Man with half a head.
+- **F511.0.6** — Beheaded man's head replaced crooked.
+- **F511.0.7** — Man with venomous worm in his head.
+- **F511.0.8** — Gigantic skull of ancient king discovered.
+- **F511.0.9** — Person with animal's head.
+- **F511.0.9.1** — Person with horse's head.
+- **F511.0.9.2** — Person with calf's head.
+- **F511.0.9.3** — Person with serpent's head.
+- **F511.1** — Person unusual as to his face.
+- **F511.1.0.1** — Person without features (with flat face).
+- **F511.1.1** — Two-faced person.
+  *Janus.*
+- **F511.1.2** — Three-faced person.
+- **F511.1.3** — Person with animal face.
+- **F511.1.3.1** — Person with face of ape.
+- **F511.1.4** — Person with green face.
+- **F511.2** — Person unusual as to his ears.
+- **F511.2.1** — Person with ears on breast.
+- **F511.2.2** — Person with ass's (horse's) ears.
+  *Midas.*
+- **F511.2.2.1** — Person with cat's ears.
+- **F511.2.3** — Person with many ears.
+- **F511.2.4** — Person without ears.
+- **F511.3** — Person with horns.
+- **F511.3.1** — Person with horns of silver.
+- **F512** — Person unusual as to his eyes.
+- **F512.1** — Person with one eye.
+- **F512.1.1** — Person with one eye in center of forehead.
+- **F512.1.2** — Three women have but one eye among them.
+  *Pass it around.*
+- **F512.1.3** — Person with one eye in back of head.
+- **F512.1.4** — Doorkeeper with one human eye, one cat's eye.
+- **F512.2** — Person with many eyes.
+- **F512.2.1** — Persons (animals) with four (six) eyes.
+- **F512.2.1.1** — Three-eyed person.
+- **F512.2.1.2** — Eight-eyed person.
+- **F512.2.1.3** — Person with twelve eyes.
+- **F512.2.2** — Argos.
+  *Has eyes all over body.*
+- **F512.3** — Person with eyes in stomach.
+- **F512.4** — Person with eyes in back of head.
+- **F512.5** — Person without eyes.
+- **F513** — Person unusual as to his mouth.
+- **F513.0.1** — Person with mouth in stomach.
+- **F513.0.2** — Person with mouths all over body.
+- **F513.0.3** — Mouthless people.
+- **F513.0.4** — Person with mouth in breast.
+- **F513.1** — Person unusual as to his teeth.
+- **F513.1.1** — Three women have but one tooth among them.
+  *Pass it around.*
+- **F513.1.2** — Person with many teeth.
+- **F513.1.2.1** — Person with three rows of teeth.
+- **F513.1.3** — Person with poisonous tooth.
+  *Poison dissolves flesh.*
+- **F513.1.4** — Person without teeth.
+- **F513.2** — Person without tongue.
+- **F513.3** — People who leave lower jaws at home when they go to market to prevent quarrels.
+- **F514** — Person unusual as to his nose.
+- **F514.1** — Noseless person.
+- **F514.2** — Men with birds' beaks.
+- **F514.3** — Person with cat's snout.
+- **F514.4** — Person with crook(s) on end of the nose.
+- **F514.5** — Person grows a second nose.
+- **F515** — Person unusual as to his hands.
+- **F515.0.1** — Person without hands.
+- **F515.0.2** — Persons with many hands.
+- **F515.0.2.1** — Hundred-handed giants.
+- **F515.1** — Person with unusual fingers.
+- **F515.1.1** — Person's fingers not separated from one another.
+- **F515.2** — Person with unusual fingernails.
+- **F515.2.1** — Fingernail that can conceal basin-load of food.
+- **F515.2.2** — Person with very long fingernails.
+- **F515.3** — Men with tails on their hands.
+- **F515.4** — Boy with seal flippers.
+- **F515.5** — Tribe of left-handed people.
+- **F516** — Person unusual as to his arms.
+- **F516.1** — Armless people.
+- **F516.1.1** — Armless people have legs growing from their shoulders.
+  *Use toes in place of fingers.*
+- **F516.2** — People with many arms.
+- **F516.2.1** — Six-armed earthborn men.
+- **F516.2.2** — People with four arms.
+- **F516.2.3** — Man with a thousand arms.
+- **F516.3** — Long-armed people.
+- **F516.4** — Man with elastic reach.
+- **F517** — Person unusual as to his legs.
+- **F517.0.1** — Person with one leg.
+- **F517.0.2** — Long-legged people.
+- **F517.0.2.1** — Man with legs so long he can steady boat as he stands in ocean.
+- **F517.1** — Person unusual as to his feet.
+- **F517.1.1** — Person without feet.
+- **F517.1.1.1** — Person with one foot.
+- **F517.1.2** — Person with many feet.
+- **F517.1.2.1** — Four-footed man.
+- **F517.1.3** — Men with sponge-feet.
+- **F517.1.4** — Person with claws on the feet.
+- **F517.1.5** — Person with knees backwards.
+- **F517.1.5.1** — Men whose feet turn backward so that they will not stub toes.
+- **F517.1.6** — Person with horse's hoofs.
+- **F517.1.7** — Person with feet like elephant's.  India: Thompson-Balys.
+- **F517.1.8** — Soles of man's feet covered with hair.
+- **F518** — Persons with tails.
+- **F521** — Person with unusual covering.
+- **F521.1** — Man covered with hair like animal.
+- **F521.1.1** — Woman with animal hair.
+- **F521.2** — Feathered people.
+- **F521.3** — Men of metal.
+- **F521.3.1** — Man of bronze.
+  *(Talos). Has single vein from neck to ankle and bronze nail at end of vein. This is the only vulnerable spot.*
+- **F521.3.2** — Man of iron.
+- **F521.3.3** — Person with body of gold.
+- **F521.3.3.1** — Girl's body-dirt is golden.
+- **F521.3.3.2** — Person with golden anus.
+- **F521.3.4** — Person with body of silver.
+- **F521.3.4.1** — Silver king with silver attendants.
+  *Is on a silver horse accompanied by silver cock, bird, and dog.*
+- **F522** — Person with wings.
+- **F522.1** — Person with wings on feet (head).
+- **F523** — Two persons with bodies joined.
+  *Siamese twins.*
+- **F524** — Person with several bodies.
+- **F524.1** — Person with three bodies.
+  *Body of three men grown together in one at waist but parted in three from flanks and thighs.*
+- **F525** — Person with half a body.
+  *As if body has been split in two.*
+- **F525.1** — One-sided man.
+- **F525.1.1** — Man with one side of stone (iron).
+- **F525.2** — Man splits into two parts.
+- **F525.3** — Tribe of one-eyed, one-footed, one-handed men.
+- **F525.3.1** — Person with one foot (one hand, and one eye).
+- **F525.4** — Person (Antichrist) with flat body.
+- **F525.5** — Giant with limbs and organs only on his left side.
+- **F525.6** — Person without back.
+- **F526** — Person with compound body.
+- **F526.1** — Typhon.
+  *Human down to thighs; coil of vipers below. Dragon heads from his hands. Bigger than mountains.*
+- **F526.2** — Scylla.
+  *Breast and face of woman. From flanks has six heads and twelve feet of dogs.*
+- **F526.3** — Gorgon.
+  *Head turned about, scales of dragon, tusks of swine brazen hands, golden wings.*
+- **F526.4** — Beast-like anchorite.
+  *Walks on all fours; covered with hair like beast; has horns like beast.*
+- **F526.5** — Men with two faces, three legs, and seven arms (or other such combinations).
+- **F526.6** — Cecrops.
+  *Body compounded of man and serpent.*
+- **F527** — Person of unusual color.
+- **F527.1** — Red person.
+- **F527.1.1** — Red knight.
+- **F527.2** — Green knight.
+- **F527.3** — Blue man.
+- **F527.4** — Brown man with white back.
+- **F527.5** — Black man.
+- **F527.6** — Half red and half blue strong man.
+- **F529** — Other monstrous persons.
+- **F529.1** — Persons with punctured bodies.
+  *May be carried on a pole put through the orifice; may be hung up on a peg.*
+- **F529.2** — People without anuses.
+- **F529.2.1** — People without anuses make them by sitting on pegs.
+- **F529.3** — Man with grass growing from his joints.
+- **F529.4** — Person has small animal within his body.
+- **F529.5** — Person with transparent body.
+- **F529.6** — Person with enormous belly.
+- **F529.7** — Boneless person.
+- **F529.7.1** — Person without joints.
+- **F529.8** — Monkey-like little people.
+- **F530** — Exceptionally large or small men.
+- **F531** — Giant.
+- **F531.0.1** — Biblical worthy as giant.
+- **F531.0.2** — Giant as Creator's servant.
+- **F531.0.3** — Generation of men at the Deluge gigantic.
+- **F531.0.4** — Giant woman.
+- **F531.1** — Appearance of giant.
+- **F531.1.0.1** — Beauty of giant.
+- **F531.1.0.1.1** — Beautiful giantess.
+- **F531.1.0.2** — Hideous giant.
+- **F531.1.1** — Eyes of giant.
+- **F531.1.1.1** — Giant with one eye in middle of forehead.
+- **F531.1.1.1.1** — Giant with one eye in the neck which he covers with his lower lip.
+- **F531.1.1.2** — Giant with large gleaming eyes.
+- **F531.1.1.2.1** — Giant with eyes as big as cauldrons.
+- **F531.1.1.2.2** — Giant with eyes like ponds.
+- **F531.1.1.3** — Blind giant.
+- **F531.1.1.4** — Giant sees great distance.
+- **F531.1.1.5** — Giant with many eyes.
+- **F531.1.1.5.1** — Giant with eight eyes.
+- **F531.1.1.6** — Giantess with green eyes.
+- **F531.1.2** — Head of giant.
+- **F531.1.2.0.1** — Gigantic head.
+- **F531.1.2.1** — Headless giant.
+- **F531.1.2.2** — Many-headed giant.
+- **F531.1.2.2.1** — Two-headed giant.
+- **F531.1.2.2.2** — Three-headed giant.
+- **F531.1.2.2.3** — Five-headed giant.
+- **F531.1.2.2.4** — Six-headed giant.
+- **F531.1.2.2.5** — Nine-headed giant.
+- **F531.1.2.2.6** — Ten-headed giant.
+- **F531.1.2.2.7** — Many-headed giant miscellaneous.
+- **F531.1.2.3** — Giant's self-returning head.
+- **F531.1.2.4** — Giant with horse head.
+- **F531.1.2.5** — Giant with stone head.
+- **F531.1.3** — Feet (legs) of giant.
+- **F531.1.3.1** — Giant with dragon-scales for feet.
+- **F531.1.3.2** — Giant with heels in front.
+- **F531.1.3.3** — One-footed giant.
+- **F531.1.3.3.1** — One-legged giant.
+- **F531.1.3.4** — Giant's step leaves deep furrows.
+- **F531.1.3.5** — Giant fleet of foot despite size.
+- **F531.1.3.6** — Giant with feet so large they cannot be moved.
+- **F531.1.4** — Lips of giant.
+- **F531.1.4.1** — Giant with upper lip reaching heaven; lower earth.
+- **F531.1.4.1.1** — Giant with lower lip reaching earth.
+- **F531.1.4.2** — Giant (giantess) with lips hanging down on the breast.
+- **F531.1.5** — Breasts of giantess.
+- **F531.1.5.1** — Giantess throws her breasts over her shoulders.
+  *Her two sons can run after her and suck.*
+- **F531.1.6** — Other bodily characteristics of giant.
+- **F531.1.6.1** — Giant with nails like claws.
+- **F531.1.6.1.1** — Giantess with iron nails.
+- **F531.1.6.1.2** — Giant with crooked nails.
+- **F531.1.6.2** — Giant with teeth like those of saw.
+- **F531.1.6.2.1** — Giants (giantesses) with long teeth.
+- **F531.1.6.2.2** — Giant with very broad teeth.
+- **F531.1.6.3** — Giants with shaggy hair on their bodies.
+- **F531.1.6.3.1** — Giant (giantess) with particularly long hair.
+- **F531.1.6.3.2** — Giant without hair.
+- **F531.1.6.4** — Giant with long beard.
+- **F531.1.6.5** — Giant with golden hair on forehead.
+- **F531.1.6.6** — Giant with peculiar nose.
+- **F531.1.6.6.1** — Giant with crook on end of his nose.
+- **F531.1.6.7** — One-armed giant.
+- **F531.1.6.7.1** — Three-armed giant.
+- **F531.1.6.7.2** — Giant with six or eight arms.
+- **F531.1.6.7.3** — Giantess with burned arms.
+- **F531.1.6.8** — Giant's peculiar cheeks.
+- **F531.1.6.9** — Giant rooted to ground because his nails and hair have grown into the earth on account of his great age.
+- **F531.1.6.10** — Giant with unusual heart.
+- **F531.1.6.10.1** — Giant with stone heart.
+- **F531.1.6.11** — Giant (giantess) with hump.
+- **F531.1.6.12** — Giant with one hand and one foot.
+- **F531.1.6.13** — Giant's strength in hair.
+- **F531.1.6.14** — Giantess with a tail (many tails).
+- **F531.1.7** — Color of giant.
+- **F531.1.7.1** — Green giant.
+- **F531.1.7.2** — Black giant.
+- **F531.1.8** — Giant in animal form.
+- **F531.1.8.1** — Giant as wolf.
+- **F531.1.8.2** — Giant as serpent.
+- **F531.1.8.3** — Giant as eagle.
+- **F531.1.8.4** — Giantess in crow's shape.
+- **F531.1.8.5** — Giantess transforms self to fly in order to tear woman's stomach.
+- **F531.1.8.6** — Giant in a gam's shape.
+- **F531.1.8.7** — Giant as eagle.
+- **F531.1.8.8** — Giant (giantess) as sea-mammal.
+- **F531.1.9** — Frost-giants.
+- **F531.1.10** — Fire giants.
+- **F531.1.11** — Giants and giantesses dressed as human beings.
+- **F531.1.12** — Giant bride's equipment.
+- **F531.2** — Size of giant.
+- **F531.2.1** — Extremely tall giant.
+- **F531.2.1.1** — Giant fifteen feet tall with three feet between the eyes.
+- **F531.2.1.2** — Giants fifty feet tall with footprints six feet long.
+- **F531.2.1.3** — Waters of Deluge reach to giant's ankles.
+- **F531.2.1.4** — Giant extends across whole island.
+  *Head against stone in west and feet against another in east.*
+- **F531.2.1.5** — Giant reaches to the sky.
+  *Must lean over to keep from touching.*
+- **F531.2.1.6** — Giantess is twice as tall as tall man.
+- **F531.2.2** — Giant with three spans between brows and three yards between shoulders.
+- **F531.2.2.1** — Giant girl's face is an elbow length wide.
+- **F531.2.2.2** — Giant's ears six hundred feet long.
+- **F531.2.3** — Giant's skull holds a man seated.
+- **F531.2.3.1** — Giant's skull so large fowl can pass through eye-hole.
+- **F531.2.3.2** — Giant's skull holds three hounds.
+- **F531.2.4** — Giant's large footprints.
+- **F531.2.5** — Extremely fat giant.
+- **F531.2.5.1** — Giantess is more broad than tall.
+- **F531.2.6** — Giant lies underground with trees growing all over his body.
+  *When his mouth is opened man falls into it and is swallowed.*
+- **F531.2.7** — Giant so large he cannot be carried by a horse.
+- **F531.2.8** — Giant can find only one horse able to carry him.
+- **F531.2.9** — Giant occupies space of thrice nine men.
+- **F531.2.10** — Giant must rest on elbow while speaking to be audible to mortal.
+- **F531.2.11** — Demon looks like a mountain.
+- **F531.2.12** — Man with eyes the size of brass pots, teeth like axeheads, ears like elephant's ears.
+- **F531.2.13** — Giantess so heavy that boat almost sinks.
+- **F531.2.14** — Baby giants four months old "two feet broad in the chest and twelve feet high.
+- **F531.2.15** — Sack of earth in giant's hand looks no bigger than a pea in hand of a man.
+- **F531.3** — Gargantuan feats.
+- **F531.3.1** — Giant wades the ocean.
+- **F531.3.1.1** — Water enters into giant's boots from above.
+- **F531.3.1.2** — Giant's leg stops ship at sea.
+- **F531.3.1.2.1** — Giant holds back water of river with his foot.
+- **F531.3.1.3** — Thor carries giant in basket across icy stream.
+- **F531.3.1.4** — Giant blows to prevent approach of ship.
+- **F531.3.2** — Giant throws a great rock.
+- **F531.3.2.1** — Giants throw stones after churches.
+- **F531.3.2.2** — Giant slings stone with his garters (hair ribbon, etc. ) Broderius SS 20.
+- **F531.3.2.3** — Giants throw tools back and forth.
+  *Explains rocks, etc.*
+- **F531.3.2.4** — Giant hurls mountain.
+- **F531.3.3** — Giant astride a church-roof.
+  *Rides it like a horse.*
+- **F531.3.4** — Giant eats (drinks) prodigious amount.
+- **F531.3.4.1** — Giant eats a thousand cattle.
+- **F531.3.4.2** — Giant drinks up a river (lake, sea).
+- **F531.3.4.3** — Giant eats whales as small fry.
+- **F531.3.5** — Giant steps prodigious distance.
+- **F531.3.5.1** — Giant bestrides mountain.
+- **F531.3.5.2** — Giant's mighty stride spans earth's width.
+- **F531.3.5.3** — Giant stands astride river.
+- **F531.3.6** — Giants carry church across a stream.
+- **F531.3.7** — Giant comes to bake too soon; spills dough.
+  *Giant who has common oven with another thinks he hears companion in next valley scraping the kneading trough. He bakes his dough but finds he is too early and that he has only heard himself scratching. He spills the dough: hence fruitful soil.*
+- **F531.3.8** — Giants' shouts are storms or great noise.
+- **F531.3.8.1** — Giant's snoring as thunder or storm.
+- **F531.3.8.2** — Giant's snoring felt as rain.
+- **F531.3.8.3** — Homecoming giant heard far away.
+- **F531.3.8.4** — Giantess sings so that it gives echo in all cliffs.
+- **F531.3.8.5** — Earthquake as giant falls down.
+- **F531.3.8.5.1** — Earthquake by giant's wrestling.
+- **F531.3.9** — Giants sit on mountains and wash feet in stream below.
+- **F531.3.10** — Giants carry trees.
+- **F531.3.11** — Giant swallows men.
+- **F531.3.12** — Giant's hunting (fishing).
+- **F531.3.12.1** — Giant threads an elephant on a fish-hook.
+- **F531.3.12.2** — Giant fishes whales.
+- **F531.3.12.3** — Giantess kills monstrous bear.
+- **F531.3.13** — Giant (giantess) carries prodigious burden.
+- **F531.3.13.1** — Giant carries prodigious hunting-prey (whales, bear).
+- **F531.3.13.2** — Giant allows others to cling to him while he swims with them safely across the rivers.
+- **F531.3.14** — Beam breaks at giant's glance.
+- **F531.3.15** — Giants' awful amusements, playing with men's lives.
+- **F531.4** — Gigantic possessions of giant.
+- **F531.4.1** — Giant with mill-wheel as shield.
+- **F531.4.2** — Giant with gigantic chain as belt.
+  *Elephant can go through each link.*
+- **F531.4.3** — Knights drink from a huge nine-gallon cup.
+- **F531.4.4** — Giant with club as large as wheelshaft of mill.
+- **F531.4.5** — Giant's enormous weapons.
+- **F531.4.5.1** — Giant with iron club as weapon.
+- **F531.4.5.2** — Giant with iron bar as weapon.
+- **F531.4.5.3** — Giant has stone club.
+- **F531.4.5.4** — Giant has stone shield.
+- **F531.4.5.5** — Giant has enormous spear.
+- **F531.4.6** — Giant wears enormous jewel.
+- **F531.4.7** — Giant's clothes.
+- **F531.4.7.1** — Giants dressed in skin.
+- **F531.4.7.1.1** — Giants wear skins with flesh still on.
+- **F531.4.7.1.2** — Giantess in obscenely shriveled skin skirt.
+- **F531.4.7.2** — Giants wear long coats with lamps under them.
+- **F531.4.7.3** — Giantess in red dress.
+- **F531.4.8** — Giant has stone as boat.
+- **F531.4.9** — Giant's huge kettle.
+- **F531.4.10** — Giant's enormous bed.
+- **F531.4.11** — Giant's enormous animals.
+- **F531.4.11.1** — Giants have wolf and bears as dogs.
+- **F531.4.11.2** — Foxes as giant's lice.
+- **F531.4.12** — Giant's net can hem in whole forest.
+- **F531.5** — Giants and men.
+- **F531.5.1** — Giant friendly to man.
+- **F531.5.1.1** — Giant carries man in his pocket (glove, bosom).
+- **F531.5.1.1.1** — Giant carries man in sack.
+- **F531.5.1.1.2** — Giant carries man on his back.
+- **F531.5.1.1.3** — Giant carries man on brim of his hat.
+- **F531.5.1.1.4** — Giant carries man under his belt.
+- **F531.5.1.2** — Giants and men fraternize at Christmas.
+- **F531.5.2** — Man mistakes giant's glove for house.
+- **F531.5.3** — Giant's toy.
+  *A young giantess picks up a man plowing. Wants him as a toy. Her mother says, "Take him back. He will drive us away.*
+- **F531.5.4** — Giant thinks hammer-blow on head is a nut falling.
+  *Man strikes with all his might.*
+- **F531.5.4.1** — Giant thinks shower of stones is snowfall.
+- **F531.5.4.2** — Giant's head gnawed by foxes: thinks soot is falling on him.
+- **F531.5.5** — Giants repay loan with large interest.
+  *Cask of gold for ale, etc.*
+- **F531.5.6** — Giants' gifts to men.
+- **F531.5.6.1** — Giants' magic gifts return to original form in hands of men.
+- **F531.5.6.2** — Giant's present: magic loaf producing inexhaustible harvest.
+- **F531.5.6.3** — Giant's presents cease when source is disclosed.
+- **F531.5.7** — Giants marry human beings.
+- **F531.5.7.0.1** — Giant wooes mortal woman.
+- **F531.5.7.0.2** — Giant demands girl, but is killed in duel about her.
+- **F531.5.7.0.3** — Giantesses pursue men in order to marry them.
+- **F531.5.7.1** — Mortal son of giant.
+- **F531.5.7.1.1** — Mortal son of man and giantess.
+- **F531.5.7.1.2** — Giantess daughter of giant and abducted maiden (therefore helps hero).
+- **F531.5.8** — Giants and Christians.
+- **F531.5.8.1** — Giants hostile to Christianity.
+- **F531.5.8.2** — Giants exorcised by clergy.
+- **F531.5.8.3** — Giants Christianized.
+- **F531.5.9** — The giant on the ark.
+  *Noah saves a giant on the ark. Cannot enter but stays in the rigging. Noah sends him food through a hole.*
+- **F531.5.10** — Giant as servant to man.
+- **F531.5.10.1** — Giant driven by girl.
+- **F531.5.10.2** — Giant maidens grind gold, peace, soldiers, salt, etc., on large stone mill.
+- **F531.5.11** — Giant in contest with man.
+- **F531.5.11.1** — Giant wins walking contest against man.
+- **F531.5.11.2** — Footrace between giant and mortal.
+- **F531.5.12** — Giant insults hero by shaving his head and smearing it with cow dung.
+- **F531.5.13** — Giants like butter more than anything else.
+  *Get trough of butter in return for help.*
+- **F531.5.14** — Man kills giant's baby.
+- **F531.5.15** — Giants cause men to sin.
+- **F531.6** — Other giant motifs.
+- **F531.6.1** — Origin of giants.
+- **F531.6.1.1** — Sons of God and Daughters of men.
+  *Before the flood angels have relations with human women: origin of giants.*
+- **F531.6.1.2** — Giant is transformed man.
+- **F531.6.1.3** — Giant son of black cat.
+- **F531.6.1.4** — Gigantic son of king and mermaid.
+- **F531.6.1.5** — Giants as personifications.
+- **F531.6.1.6** — Giant made of the venom from Elivagar.
+- **F531.6.1.7** — Giants as sons of Ymir or Aurgelmir.
+- **F531.6.1.8** — Giants as reincarnated animals.
+- **F531.6.1.9** — Giants as descendants of Cain.
+- **F531.6.2** — Haunts of giants.
+- **F531.6.2.0.1** — Giants in "Risaland" or "Jotunheimar" without nearer definition.
+- **F531.6.2.1** — Giants live in mountains or caves.
+- **F531.6.2.2** — Giants live under water.
+- **F531.6.2.2.1** — Giants live under sea.
+- **F531.6.2.2.2** — Giant lives under lake.
+- **F531.6.2.2.3** — Giant's home beneath waterfall in lake.
+- **F531.6.2.3** — Giants' live in the east.
+- **F531.6.2.4** — Giants live in the utmost northwest.
+- **F531.6.2.5** — Giants live at the world's end.
+- **F531.6.2.6** — Giants in a region of darkness and cold.
+- **F531.6.2.7** — Giants in wild forests.
+- **F531.6.3** — Homes of giants.
+- **F531.6.3.0.1** — Men not to disclose giant's home.
+- **F531.6.3.1** — Giants live in castles (raths, duns) (ruins of which may still be seen).
+- **F531.6.3.2** — Giant lives in fairyland.
+- **F531.6.4** — Age of giants.
+- **F531.6.4.1** — Giants have great age.
+  *Calculated by age of wood.*
+- **F531.6.4.2** — Giants live to be eighteen thousand years old.
+- **F531.6.4.3** — Giant immortal.
+- **F531.6.5** — Giants as magicians.
+- **F531.6.5.1** — Giants can make selves invisible.
+- **F531.6.5.2** — Giants large or small at will.
+- **F531.6.5.3** — Giant has wound-healing balm.
+- **F531.6.5.4** — Giants as controllers of the elements.
+- **F531.6.6** — Giants as builders of great structures.
+- **F531.6.6.1** — Giants by night move buildings built by men in day.
+- **F531.6.6.2** — Giant builds hill for his home.
+- **F531.6.6.3** — Giant digs trench for course of Severn River.
+- **F531.6.6.4** — Giant makes cleft in rock when he misses another giant with spade blow.
+- **F531.6.6.5** — Giant and his wife build Roman road in a trice.
+  *Giant paves; wife brings stones.*
+- **F531.6.7** — Giant's treasure.
+- **F531.6.7.1** — Giant possesses treasure.
+- **F531.6.7.1.1** — Giants have animals (dogs, etc. ) Icelandic: Herrmann Saxo II 591, 593, 595; MacCulloch Eddic 66, 85, 88, 111, 230, 276 77, *Boberg.
+- **F531.6.7.1.2** — Giants' ship (Naglfar).
+- **F531.6.7.2** — Giant obtains treasure from man.
+- **F531.6.7.2.1** — Giant steals from man (fish, sheep, sword).
+- **F531.6.8** — Mutual relations of giants.
+- **F531.6.8.1** — Giant in love with giantess.
+- **F531.6.8.2** — Giants pursue giant women.
+- **F531.6.8.3** — Enmity (competition) between giants.
+- **F531.6.8.3.1** — Giants and giantesses fight about treasures.
+- **F531.6.8.3.2** — Giant steals from giant.
+- **F531.6.8.3.3** — Giants wrestle with each other.
+- **F531.6.8.4** — Giants' festivities.
+- **F531.6.8.4.1** — One giant invites another to a feast (wedding).
+  *Latter must be satisfied that food is plentiful.*
+- **F531.6.8.5** — Giants' social relations.
+- **F531.6.8.5.1** — Giants have king, queen.
+- **F531.6.8.5.2** — Giants have parliament.
+- **F531.6.8.6** — Giants have children.
+- **F531.6.8.7** — Giants meet successively larger giants.
+- **F531.6.8.8** — Giant does not grow until another giant causes him to do so.
+- **F531.6.9** — Giants as warriors (in army).
+- **F531.6.10** — Other occupations of giants.
+- **F531.6.10.1** — Giant as smith.
+- **F531.6.11** — Antipathies of giants.
+- **F531.6.11.1** — Giants fear lightning.
+- **F531.6.12** — Disappearance or death of giants.
+- **F531.6.12.1** — Disappearance of giants.
+- **F531.6.12.1.1** — Giant disappears in mist.
+- **F531.6.12.1.2** — Giant cursed.
+- **F531.6.12.2** — Sunlight turns giant or troll to stone.
+- **F531.6.12.3** — Slain giant turns to salt stone.
+- **F531.6.12.4** — Giants killed by lightning or thunder (personified in the thunder-god).
+- **F531.6.12.5** — Giant killed by earthquake.
+- **F531.6.12.6** — Giant slain by man.
+- **F531.6.12.6.1** — Giant destroyed by army.
+- **F531.6.12.7** — Giants driven away by men.
+- **F531.6.12.8** — Giant drowned.
+- **F531.6.12.8.1** — Giants drowned (in Ymir's blood).
+- **F531.6.12.8.2** — Giant drowned in Deluge.
+- **F531.6.13** — Graves of giants.
+- **F531.6.13.1** — Giants enchanted in caverns.
+- **F531.6.13.2** — Giant enchanted in car.
+- **F531.6.14** — Ghost of giant.
+- **F531.6.15** — Giants and supernatural beings.
+- **F531.6.15.1** — Giants and gods in fight.
+- **F531.6.15.2** — Love relations between giants and other supernatural beings.
+- **F531.6.15.3** — Giants and dwarfs friendly.
+- **F531.6.16** — Attendants of the giants.
+- **F531.6.16.1** — Giants' watchman (Eggther).
+- **F531.6.16.2** — Giant's animals help him in fight.
+- **F531.6.16.3** — Man as servant of giant.
+- **F531.6.17** — Other acts of giants.
+- **F531.6.17.1** — Giants dance.
+- **F531.6.17.2** — Giant inflates self and floats through air.
+- **F531.6.17.2.1** — Giant flies over water like bird.
+- **F531.6.17.3** — Eagle carries giant to its nest.
+- **F531.6.17.4** — Giant plays musical instrument.
+- **F531.6.17.5** — Giant herdsman.
+- **F531.6.17.6** — Giant rolls like wheel.
+- **F531.6.17.7** — Giants are wise.
+- **F532** — Remarkably broad man.
+- **F533** — Remarkably tall man.
+- **F535** — Pygmy.
+  *Remarkably small man. Also called "dwarf". To be distinguished from the dwarfs who live in the woods and inhabit underground places (+F451).*
+- **F535.0.1** — Pygmies descendants of Cain.
+- **F535.1** — Thumbling.
+  *Person the size of a thumb.*
+- **F535.1.1** — Adventures of thumbling.
+- **F535.1.1.1** — Thumbling drives wagon by sitting in horse's ear.
+- **F535.1.1.1.1** — Thumbling drives mule.
+- **F535.1.1.2** — Thumbling carried up chimney by steam of food.
+- **F535.1.1.3** — Thumbling lies by sleeping man.
+  *Is blown to window by man's breath.*
+- **F535.1.1.4** — Thumbling in danger of being sucked in by man's breath.
+- **F535.1.1.5** — Thumbling lost in animal track.
+- **F535.1.1.6** — Thumbling has cat as riding-horse.
+- **F535.1.1.7** — Thumbling swallowed by animals.
+- **F535.1.1.8** — Thumbling imprisoned in a sausage.
+- **F535.1.1.9** — Thumbling sold as freak.
+- **F535.1.1.10** — Thumbling hides in small place.
+- **F535.1.1.10.1** — Thumbling hides under thimble in table drawer.
+- **F535.1.1.10.2** — Thumbling hides in a snail shell, in a mouse hole.
+- **F535.1.1.11** — Thumbling as accomplice to robbers.
+- **F535.1.1.11.1** — Thumbling steals by entering keyhole.
+- **F535.1.1.12** — Thumbling carries needle as sword.
+- **F535.1.1.13** — Thumbling carried in pocket.
+- **F535.1.1.14** — Thumbling carried on hat brim.
+- **F535.2** — Pygmies of various sizes.
+- **F535.2.1** — Pygmies nine inches tall.
+- **F535.2.2** — Man so small he can go through eye of needle.
+- **F535.2.3** — Man so small he dances in spider web.
+- **F535.2.4** — Man so small he can put his head through a mote in a sunbeam.
+- **F535.2.5** — Man so small that he rides on an ant.
+  *Ant treads him underfoot.*
+- **F535.2.6** — Pygmy stands on man's hand.
+- **F535.2.7** — Person (poet, child) only "fist high.
+- **F535.2.8** — Little soldiers with officer on rabbit (long needles and knives for weapons).
+- **F535.3** — Dress of pygmies.
+- **F535.3.1** — Pygmies dressed in copper.
+- **F535.3.2** — Pygmies dressed in red.
+- **F535.4** — Characteristics of pygmies.
+- **F535.4.1** — Sexes of pygmies distinguished.
+  *A slight beard on men; long tresses on women.*
+- **F535.4.2** — Pygmies with upturned feet.
+- **F535.4.3** — Noseless pygmies.
+- **F535.5** — Deeds of pygmies.
+- **F535.5.1** — War of pygmies and cranes.
+- **F535.5.1.1** — Battle between giants and dwarfs; dwarfs win.
+- **F535.6** — Kingdom of pygmies.
+- **F535.6.1** — Underground pygmy kingdom.
+- **F540** — Remarkable physical organs.
+- **F541** — Remarkable eyes.
+- **F541.1** — Flashing eyes.
+- **F541.1.1** — Eyes flash fire.
+- **F541.1.2** — Eyes flash lightning.
+- **F541.1.3** — Eyes of live coals.
+- **F541.1.4** — Serpent-eye.
+  *Eyes so keen that man is supposed to have serpents in them.*
+- **F541.2** — Eye with picture in the pupil.
+  *Witch with picture of cat (dog) in pupil.*
+- **F541.3** — Eye with several pupils.
+- **F541.3.1** — Eye with two pupils.
+- **F541.3.2** — Eye with three pupils.
+- **F541.3.3** — Eye with four pupils.
+- **F541.3.4** — Eye with seven pupils.
+- **F541.4** — Eye must be rubbed before it can see.
+- **F541.5** — One of man's (giant's) eyes protrudes, other recedes.
+- **F541.5.1** — Single eye protrudes from forehead.
+- **F541.6** — Eyes remarkable as to color.
+- **F541.6.1** — One eye brown, other blue.
+- **F541.6.2** — Person has red eye.
+- **F541.7** — Eye with remarkably heavy lid.
+  *Requires four men to lift it, or the like.*
+- **F541.8** — Eye recedes into head.
+- **F541.9** — Eyes shed tears of blood.
+- **F541.10** — Eyes impervious to iron lances.
+- **F541.11** — Removable eyes.
+- **F542** — Remarkable ears.
+- **F542.1** — Long ears.
+  *People must hold them up so as not to impede walking.*
+- **F542.2** — Big ears.
+  *One used as mattress and one as a covering, and the like.*
+- **F543** — Remarkable nose.
+- **F543.1** — Remarkably long nose.
+- **F543.1.1** — Long nose used as poker.
+- **F543.1.2** — Long nose used as hen roost.
+- **F543.1.3** — Remarkably long, hooked nose.
+- **F543.2** — Remarkably large nose.
+- **F543.3** — Nose turned upside down.
+- **F543.4** — Remarkable nostrils.
+- **F544** — Remarkable mouth.
+- **F544.0.1** — Remarkably large mouth.
+- **F544.0.1.1** — Mouth opens so wide that lungs (gullet) may be seen.
+- **F544.0.2** — Man's mouth, from fear of sea-monster under lake, "distended to both his ears.
+- **F544.0.3** — Mouth of man emits flames when open for speech.
+- **F544.0.4** — Mouth open to drink for forty days.
+- **F544.1** — Remarkable lips.
+- **F544.1.1** — Upper lip curls over nostril; lower hangs down to neck.
+- **F544.1.2** — When sad, man lets one lip fall to stomach; other makes hood over his head.
+- **F544.1.3** — Lips on side of face.
+- **F544.1.4** — Lips used as a spear.
+- **F544.2** — Remarkable tongue.
+- **F544.2.1** — Golden tongue.
+- **F544.2.2** — Long tongue.
+- **F544.2.2.1** — Long tongue cut out and used to bridge a stream.
+- **F544.2.3** — Tongue with hair growing from it.
+- **F544.2.4** — Tongue with thorns.
+- **F544.3** — Remarkable teeth.
+- **F544.3.1** — Golden teeth.
+- **F544.3.2** — Teeth of angered saint give off sparks.
+- **F544.3.2.1** — Luminous tooth of saint.
+- **F544.3.3** — Blue teeth.
+- **F544.3.3.1** — Blue, protruding teeth of one and a half elbow-length.
+- **F544.3.4** — Saints' teeth last for 300 years.
+- **F544.3.5** — Remarkably long teeth.
+- **F544.3.6** — Tooth travels automatically.
+- **F545** — Other facial features.
+- **F545.1** — Remarkable beard.
+- **F545.1.0.1** — Beardless man.
+- **F545.1.1** — Blue beard.
+- **F545.1.1.1** — Green beard.
+- **F545.1.1.2** — Golden mustache.
+- **F545.1.2** — Beard projected over beams of great hall.
+- **F545.1.3** — Beard grows through table.
+  *(Usually told of king asleep in mountain.)*
+- **F545.1.4** — Beard shelters fifty men from rain.
+- **F545.1.5** — Bearded woman.
+- **F545.1.5.1** — Enormously fat woman with beard.
+- **F545.1.6** — Beard travels detached from owners.
+- **F545.2** — Remarkable forehead.
+- **F545.2.1** — Gold star on forehead.
+- **F545.2.2** — Horns on forehead.
+- **F545.2.3** — Man with inscription on forehead.
+- **F545.2.4** — Man with forehead of iron.
+- **F545.3** — Remarkable cheek.
+- **F545.3.1** — One cheek white, other red.
+- **F545.3.2** — Yellow, green, blue, purple spot on cheek.
+- **F545.4** — Face covered with long moss.
+- **F546** — Remarkable breast.
+- **F546.1** — Breast broad and made of glittering metal.
+- **F546.2** — Woman with three breasts.
+- **F546.3** — Star (cross) on breast.
+- **F546.4** — Thorns around nipples.
+- **F546.5** — Woman with breasts hot enough to cook food.
+- **F546.6** — Milk in man's breast.
+- **F547** — Remarkable sexual organs.
+- **F547.1** — Toothed private parts.
+- **F547.1.1** — Vagina dentata.
+  *Woman kills her husbands with her toothed vagina.*
+- **F547.2** — Hermaphrodite.
+  *Person with both male and female sexual organs.*
+- **F547.2.1** — Hermaphrodite pygmies.
+- **F547.3** — Extraordinary penis.
+- **F547.3.1** — Long penis.
+- **F547.3.2** — Penis that eats and drinks.
+- **F547.3.3** — Toothed penis.
+- **F547.3.4** — Penis tatooed with name of God.
+- **F547.3.5** — Man's genitals hidden in his body.
+- **F547.3.6** — Penis cuts down trees.
+- **F547.4** — Extraordinary clitoris.
+- **F547.5** — Extraordinary vagina.
+- **F547.5.1** — Removable vagina.
+- **F547.5.2** — Enormous vagina.
+- **F547.5.3** — Eye in vagina.
+- **F547.5.4** — Double vagina.
+- **F547.5.5** — Vagina as bag.
+- **F547.5.6** — Vagina in forehead.
+- **F547.5.7** — Vagina in armpit.
+- **F547.5.8** — Saw in vagina.
+- **F547.5.9** — Hair in vagina which becomes a mantis.
+- **F547.5.10** — Woman with privates like dog's.
+- **F547.6** — Remarkable pubic hairs.
+- **F547.6.1** — Remarkably long pubic hair.
+- **F547.7** — Enormous testicles.
+- **F548** — Remarkable legs.
+- **F548.0.1** — Pointed leg.
+- **F548.1** — Person with black knee.
+- **F548.1.1** — Person with white knee.
+- **F551** — Remarkable feet.
+- **F551.1** — Animal foot on human being.
+- **F551.1.1** — Man with snake-like feet.
+- **F551.1.2** — Person with horse's foot.
+- **F551.1.2.1** — Woman with horseshoe on one foot.
+- **F551.1.3** — Man with dog's feet.
+- **F551.2** — Feet with unusual number of toes.
+- **F551.3** — Remarkably pretty white feet.
+- **F551.4** — Remarkably ugly feet (and hands).
+- **F551.5** — Single-footed people lie on their backs and shade themselves from sun with their soles.
+- **F552** — Remarkable hands.
+- **F552.1** — Hands with unusual fingers.
+- **F552.1.1** — Hands with unusual number of fingers.
+- **F552.1.2** — Fingers of saint (angel) give light or fire.
+- **F552.1.3** — Extraordinary fingernails.
+- **F552.1.4** — Human fingers not separated.
+- **F552.1.5** — Milk from finger.
+- **F552.2** — Remarkably strong hands.
+- **F552.3** — Remarkably pretty white hands.
+- **F552.4** — Marvelous hand without wrist.
+- **F554** — Person remarkable as to his blood.
+- **F554.1** — Person with pink fluid in place of blood.
+- **F554.2** — Person with extraordinary amount of blood.
+- **F555** — Remarkable hair.
+- **F555.1** — Gold hair.
+- **F555.1.1** — Person with hair partially golden.
+- **F555.2** — Silver hair.
+- **F555.3** — Very long hair.
+- **F555.3.0.1** — Hair recedes into head.
+- **F555.3.1** — Nude woman clothed in own hair (Godiva).
+- **F555.3.1.1** — Girl's hair spreads on ground so that it hides her.
+- **F555.3.2** — Holy man's hair of enormous length, so long has he remained praying at one spot.
+- **F555.3.3** — Hair so long that girl can cover herself with it.
+- **F555.3.4** — Rapid growth of hair as protection against being seen nude.
+- **F555.4** — Very thick hair.
+- **F555.5** — Multi-colored hair.
+- **F555.5.1** — Person with three heads of hair.
+- **F555.6** — Man has drop of blood on end of each hair.
+- **F555.7** — Poisonous white hair in eyebrow that causes death to the first person who sees it each day.
+- **F555.8** — Hair so stiff that apples falling on it would be impaled.
+- **F555.8.1** — Hair above heart so stiff it rends five garments.
+- **F555.9** — Hair so curly that nuts falling on it would be held.
+- **F555.10** — Hair emits sound.
+- **F556** — Remarkable voice.
+- **F556.1** — Voice made rough by swallowing hot iron.
+- **F556.1.1** — Voice made smooth by swallowing hot iron.
+- **F556.1.2** — Voice made smooth by having ant bite tongue.
+- **F556.2** — Voice changed by work of silversmith (goldsmith).
+- **F556.3** — Voice changed by medicine.
+- **F556.4** — Saint's voice heard from considerable distance.
+- **F557** — Removable organs.
+- **F557.1** — Removable brain.
+  *Saint's brain kept in a missile ball.*
+- **F558** — Man covered with horn.
+- **F558.1** — Double-skinned tribe.
+- **F559** — Remarkable physical organs miscellaneous.
+- **F559.1** — Person with jointless bodies of bone.
+- **F559.2** — Long navel.
+- **F559.3** — Extraordinary excrement.
+- **F559.3.1** — Excreta is so fiery it starts great fires.
+- **F559.4** — Remarkable skull.
+- **F559.4.1** — Skull has words miraculously written on it.
+- **F559.5** — Remarkable neck.
+- **F559.5.1** — Neck as hard as ivory.
+- **F559.6** — Extraordinary stomach.
+- **F559.6.1** — Stomach attains immense proportions by overeating.
+- **F559.7** — Remarkable heart.
+- **F559.7.1** — Person with three hearts.
+- **F559.7.2** — Adder grows in heart of man.
+- **F559.8** — Extraordinary urine.
+- **F559.8.1** — Person's urine melts rocks.
+- **F560** — Unusual manner of life.
+- **F561** — People of unusual diet.
+- **F561.1** — People who prefer raw flesh.
+- **F561.2** — Ichthyophages.
+  *People who live on fish.*
+- **F561.3** — People who live on coconuts.
+- **F561.4** — Person lives by smoking tobacco.
+  *Never eats.*
+- **F561.5** — Girl eats only kola nuts and tobacco.
+- **F561.6** — Woman fed by bees' dropping honey into her mouth (lie).
+- **F561.7** — Boy drinks perspiration.
+- **F561.8** — Iron-eating tribe.
+- **F562** — People of unusual residence.
+- **F562.1** — Boy lives on ox.
+  *Never walks on ground.*
+- **F562.2** — Residence in a tree.
+- **F562.3** — Residence in (under) water.
+- **F562.4** — Girl lives in fruit and comes out only to be bathed by her twenty sisters.
+- **F562.5** — Boy lives in ant-hill.
+- **F564** — Person never sleeps.
+- **F564.1** — Person of diabolical origin never sleeps.
+- **F564.2** — Semi-supernatural person sleeps little.
+- **F564.3** — Person does not sleep for many months (years).
+- **F564.3.1** — Long sleep, long waking.
+  *(Six months sleep followed by six months waking, or the like.)*
+- **F564.3.2** — Person sleeps for three days and nights.
+- **F564.3.3** — King sleeps for six days and acquires after that magic wisdom.
+- **F564.3.4** — Person sleeps for nine months.
+- **F564.3.5** — Spirit woman sleeps through whole year; eats through the next.
+- **F564.3.6** — Twelve years' sleep customary to demons.
+- **F564.4** — Man sleeps with one eye and one ear open.
+- **F565** — Women warriors or hunters.
+- **F565.1** — Amazons.
+  *Women warriors.*
+- **F565.1.1** — Amazons cut off left breast of daughters so that they can handle bow.
+- **F565.1.2** — All male children killed by Amazons.
+- **F565.1.3** — Queen takes husband's place in battle.
+- **F565.2** — Remarkably strong women.
+- **F565.3** — Parliament of women.
+- **F565.4** — Women hunters.
+- **F566** — Celibate peoples.
+- **F566.1** — Village of men only.
+- **F566.1.1** — Country which no woman may enter.
+- **F566.2** — Land where women live separate from men.
+  *Cohabit with water monsters.*
+- **F567** — Wild man.
+  *Man lives alone in wood like a beast.*
+- **F567.1** — Wild woman.
+- **F568** — Naked tribe.
+  *Sun, cold, wind, rain do not harm them.*
+- **F568.1** — Naked men (boy).
+- **F569** — Unusual manner of life miscellaneous.
+- **F569.1** — Woman lays eggs and hatches them.
+- **F569.2** — Men menstruate.
+- **F569.3** — Silent person.
+- **F569.3.1** — Silent princess.
+- **F570** — Other extraordinary human beings.
+- **F571** — Extremely old person.
+- **F571.1** — Old man with hanging eyelids.
+  *So old that the eyelids hang down to his chin and must be lifted up.*
+- **F571.2** — Sending to the older.
+  *Old person refers inquirer to his father, who refers to his father, and so on for several generations.*
+- **F571.2.1** — Sending to the older uncle.
+- **F571.3** — Very old woman.
+- **F571.3.1** — Woman so old her chin reaches her knee.
+- **F571.4** — Man so old he sleeps in cradle.
+- **F571.5** — King so old that he only can take food from a horn.
+- **F571.6** — King so old that he cannot get on horseback without help.
+- **F571.7** — Person hundreds of years old.
+- **F571.8** — Man lives for nine generations.
+- **F572** — Dancers upon whom icicles hang.
+- **F573** — Negro so black that he makes whole garden somber.
+- **F574** — Luminous person.
+- **F574.1** — Resplendent beauty.
+  *Woman's face lights up the dark.*
+- **F574.1.1** — Woman's beauty burns onlooker.
+- **F574.1.2** — Woman's beauty shows through seven veils.
+- **F574.1.3** — Men killed by look of beautiful princess.
+- **F574.1.4** — Man's beauty eclipses splendor of sun.
+- **F574.2** — Man with luminous arms.
+- **F574.3** — Holy man (hero) emits light.
+- **F574.3.1** — Face of saint radiant.
+- **F574.3.2** — Holy man radiant.
+- **F574.3.3** — Hero luminous.
+- **F575** — Remarkable beauty.
+- **F575.1** — Remarkably beautiful woman.
+- **F575.1.1** — Birth of daughter so beautiful mother is frightened and abandons her.
+- **F575.1.2** — Old woman beautiful as in youth.
+- **F575.1.3** — Woman so beautiful sea is calm for her.
+- **F575.2** — Handsome man.
+- **F575.2.1** — Supernatural beauty of men in Messianic era.
+- **F575.2.2** — Supernatural beauty of Jerusalem's inhabitants.
+- **F575.3** — Remarkably beautiful child.
+- **F576** — Extraordinary ugliness.
+- **F577** — Persons identical in appearance.
+- **F577.1** — Friends identical in appearance.
+- **F577.2** — Brothers identical in appearance.
+- **F577.3** — King and fool identical in appearance.
+- **F577.4** — Lovers identical in appearance.
+- **F577.5** — All people in certain place identical in appearance.
+- **F582** — Poison damsel.
+  *Woman nourished on poison is fatal to her husbands. Sometimes the poisoning is from fatal look or breath, sometimes from intercourse.*
+- **F582.1** — Serpent damsel.
+  *Woman has serpent inside which comes out and kills her bridegrooms.*
+- **F582.2** — Man spews venom.
+- **F582.3** — Venomous man.
+- **F583** — Hero has lain motionless since birth.
+- **F584** — Person remarkably light in weight.
+- **F584.1** — Princess' weight that of five flowers.
+- **F585** — Phantoms.
+- **F585.0.1** — Fairy (god) as phantom.
+- **F585.1** — Fatal enticements of phantom women.
+- **F585.2** — Magic phantom army.
+  *Created out of puffballs and withered leaves.*
+- **F585.3** — Phantom women cause weakness.
+- **F585.4** — Treasure struck from hand of phantom.
+- **F591** — Person who never laughs.
+- **F591.1** — Prince who never laughs.
+- **F591.2** — Sad-faced princess cannot laugh.
+- **F592** — Man's ferocious glance kills (causes swooning).
+- **F593** — Person's extraordinary body temperature.
+- **F593.1** — Extraordinary heat of body melts snow far around person.
+- **F594** — Man whose entrails are visible when he laughs.
+- **F595** — Man's body exudes sweet scent.
+- **F596** — Extraordinarily slow person.
+- **F597** — Woman without womb.
+- **F598** — Old woman gives miraculous amount of milk.
+
+## Persons with extraordinary powers
+
+- **F600** — Persons with extraordinary powers.
+- **F601** — Extraordinary companions.
+  *A group of men with extraordinary powers travel together.*
+- **F601.0.1** — Skillful companions.
+- **F601.1** — Extraordinary companions perform hero's tasks.
+- **F601.2** — Extraordinary companions help hero in suitor tests.
+- **F601.3** — Extraordinary companions betray hero.
+- **F601.4** — Extraordinary companions rescue hero.
+- **F601.4.1** — Extraordinary companion hides behind hero to trick enemy.
+- **F601.4.2** — Extraordinary companion saves hero from death.
+- **F601.5** — Extraordinary companions are brothers (twins, triplets).
+- **F601.6** — Extraordinary companions are transformed animals.
+- **F601.7** — Animals as extraordinary companions.
+- **F610** — Remarkably strong man.
+  *(Strong John).*
+- **F610.0.1** — Remarkably strong woman.
+- **F610.0.1.1** — Remarkably strong women defeats man in arrow and spear contest.
+- **F610.1** — Wild man of superhuman strength.
+- **F610.2** — Dwarf-hero of superhuman strength.
+- **F610.3** — Warrior of special strength (Berserk).
+- **F610.3.1** — Invulnerable berserk.
+- **F610.3.2** — Black berserk.
+- **F610.3.3** — Twelve berserks.
+- **F610.3.3.1** — Two berserk-brothers.
+- **F610.3.4** — Fighting with berserks.
+- **F610.3.4.1** — Fighting with twelve berserks.
+- **F610.3.4.2** — Single combat with berserk.
+- **F610.3.4.2.1** — Berserk killed in combat about maiden.
+- **F610.3.5** — Competition with berserks in their particular sports: walk through fire, etc.
+- **F610.4** — Man with strength of many men.
+- **F610.4.1** — Man with four men's strength.
+- **F610.4.2** — Man with twelve men's strength.
+- **F610.4.3** — Man with seventy men's strength.
+- **F610.5** — Man with strength of animals.
+- **F610.5.1** — Man with strength of lion.
+- **F610.5.2** — Man with strength of ten elephants.
+- **F610.6** — Man so strong that he breaks most of what he gets in touch with.
+- **F610.6.1** — Man so strong that he must be chained except when in battle.
+- **F610.7** — Strong man is so heavy that no horse can carry him all day.
+- **F610.8** — Strong man so heavy that only his own horse can carry him.
+- **F610.9** — Strong man accomplishes superhuman tasks when God's spirit is over him.
+- **F611** — Strong man's birth and rearing.
+- **F611.1** — Strong man's birth.
+- **F611.1.1** — Strong man son of bear who has stolen his mother.
+- **F611.1.2** — Strong man son of woman and dwarf.
+- **F611.1.2.1** — Strong man son of woman and forest spirit.
+- **F611.1.3** — Wild man son of woman and satyr who overpowers her.
+- **F611.1.4** — Wild man son of woman and robber.
+  *She is overpowered in forest.*
+- **F611.1.5** — Strong man son of man and she-bear.
+- **F611.1.6** — Strong man son of man and mare.
+- **F611.1.6.1** — Strong man accused of being son of man and mare.
+- **F611.1.7** — Strong man son of person and giant.
+- **F611.1.8** — Strong hero engendered by eating of fruit.
+- **F611.1.9** — Strong hero engendered by the wind.
+- **F611.1.10** — Strong hero engendered from burning brand.
+- **F611.1.11** — Strong hero born from egg.
+- **F611.1.11.1** — Strong hero born from noodle.
+- **F611.1.12** — Strong hero struck by smith from iron.
+- **F611.1.13** — Strong hero son of man and troll-woman.
+  *Relations take place in dream.*
+- **F611.1.14** — Strong hero son of woman of sea.
+- **F611.1.15** — Strong hero son of wood-spirit.
+- **F611.2** — Strong hero's suckling.
+- **F611.2.0.1** — Hero's unusual strength from drinking his own mother's milk.
+- **F611.2.1** — Strong hero suckled by animal.
+- **F611.2.2** — Strong hero suckled by mermaid.
+  *Gives him strength of twelve men.*
+- **F611.2.3** — Strong hero's long nursing.
+- **F611.2.4** — Strong hero suckled by seven women.
+- **F611.2.5** — Strong hero suckled by giant.
+- **F611.3** — Strong hero acquires his strength.
+- **F611.3.0.1** — Extraordinary strength from fasting for 12 years and eating nothing except earth.
+- **F611.3.1** — Strong hero practices uprooting trees.
+- **F611.3.2** — Hero's precocious strength.
+  *Has full strength when very young.*
+- **F611.3.2.1** — Strong hero drives huge log into frozen ground.
+- **F611.3.2.2** — Baby tied to a mill-stone by strap so he would not wander about; drags stone after him.
+- **F611.3.2.3** — Precocious hero crushes iron wall with fists.
+- **F611.3.2.4** — Precocious hero jumps across river.
+- **F611.3.2.5** — Small child beats giant challenger.
+- **F611.3.2.6** — Twelve year old hero captures town of father's enemy.
+- **F611.3.3** — Strong hero tests weapons.
+  *Breaks first swords.*
+- **F611.3.3.0.1** — Precocious strong hero demands bows and arrows.
+- **F611.3.3.1** — Hero tests sword by cutting steer in two.
+- **F611.3.3.2** — Strong hero tests scythes: they break all.
+- **F611.4** — Precocious son saves kingdom.
+- **F612** — Strong hero sent from home.
+- **F612.1** — Strong hero sent from home because of enormous appetite.
+- **F612.2** — Strong hero kills (overcomes) playmates: sent from home.
+- **F612.3** — Hero leaves home with giant equipment.
+- **F612.3.1** — Giant cane for strong man.
+  *Cane holds fifty cattle.*
+- **F612.3.2** — Strong man with giant hammer and shield.
+- **F613** — Strong man makes labor contract.
+- **F613.1** — Strong man's labor contract: blow at end of year.
+  *Blow sends his master to sky.*
+- **F613.2** — Strong man's labor contract: all grain he can carry.
+- **F613.2.1** — Labor contract: as much money as my companion (strong man) can carry.
+- **F613.3** — Strong man's labor contract: anger bargain.
+  *First to become angry shall receive blow.*
+- **F613.4** — Strong man serves ogre as punishment for stealing food.
+- **F614** — Strong man's labors.
+- **F614.1** — Strong man drives anvil into ground.
+- **F614.2** — Strong man uproots tree and uses it as weapon.
+- **F614.2.1** — Strong man uses pillar-stone as weapon.
+- **F614.2.2** — Strong man uses rafter as weapon.
+- **F614.2.3** — Strong man buries axe in tree stump and removes it with his little finger.
+- **F614.3** — Strong man as gardener: destroys plants.
+- **F614.4** — Strong man as rower; breaks boat.
+- **F614.4.1** — Strong man as rower: rows one side of boat against many at other.
+- **F614.5** — Strong man as fisherman: destroys fish and nets.
+- **F614.6** — Strong man throws trees on roof and breaks it.
+- **F614.6.1** — Strong man throws man back and breaks his bones (legs).
+- **F614.7** — Strong man uses stable-roof as flail.
+- **F614.8** — Strong man fells tree with one blow of axe.
+- **F614.9** — Strong man clears plain.
+- **F614.10** — Strong hero fights whole army alone.
+- **F614.11** — Strong man jumps across rivers.
+- **F614.12** — Youth crushes coins to powder with fingers.
+- **F615** — Strong man evades death.
+  *Vain attempts to kill him.*
+- **F615.0.1** — Death of strong man.
+- **F615.1** — Strong man sent to devil's mill: drives devils to master's house.
+- **F615.2** — Strong hero sent for wild animals.
+- **F615.2.1** — Strong man sent to milk lions: brings lions back with him.
+- **F615.2.2** — Strong man sent to kill lions: does so and frightens king.
+- **F615.2.3** — Strong man sent for wild horses: brings them back.
+- **F615.2.4** — Strong man sent for bears: bring them back home.
+- **F615.2.5** — Strong man sent for wolves: brings them back home.
+- **F615.3** — Strong hero overawes master.
+- **F615.3.1** — Strong hero attacked with millstone puts it on as collar.
+  *Sent to dig a well. Master throws the millstone on him.*
+- **F615.3.1.1** — Strong hero asks that chickens stop scratching.
+  *When his master throws millstone on him he complains that chickens are scratching dirt on him.*
+- **F615.3.1.2** — Camels having fallen from sky into girl's eyes; she tells her mother that some grains of sand have fallen down from sky.
+- **F615.4** — Spear bends as it strikes hero on chest and he survives ordeal.
+- **F616** — Mighty pugilist.
+- **F617** — Mighty wrestler.
+- **F617.1** — Extraordinary strength; elephant-wrestler.
+- **F618** — Strong man tames animals.
+- **F618.1** — Strong hero tames ungovernable horse.
+- **F621** — Strong man: tree-puller.
+  *Can uproot and carry off trees.*
+- **F621.1** — Trees pulled up by animals.
+- **F621.2** — Trees pulled up by giant.
+- **F621.2.1** — Trees pulled up and thrust into the ground upside down by Antichrist, a giant.
+- **F621.2.2** — Giant polishes teeth with uprooted tree.
+- **F621.3** — Tree as strong man's umbrella.
+- **F622** — Mighty blower.
+  *Man turns mill with his blowing.*
+- **F622.1** — Mighty blower slows down princess with his breath.
+  *Causes her to lose race.*
+- **F622.2** — Mighty blower blows firebrand so that sparks fly far, blows seawaves back and forth.
+- **F623** — Strong man holds up mountain.
+- **F624** — Mighty lifter.
+- **F624.0.1** — Saint as mighty lifter.
+- **F624.1** — Strong man lifts horse (ox, ass).
+- **F624.1.1** — Strong man throws elephant across sea.
+- **F624.1.2** — Strong man throws walrus.
+- **F624.1.3** — Strong man throws leopard.
+- **F624.2** — Strong man lifts large stone.
+- **F624.2.0.1** — Strong man throws enormous stone.
+- **F624.2.0.1.1** — Strong man throws mountain.
+- **F624.2.0.2** — Strong man moves enormous rock.
+- **F624.2.1** — Strong man lifts millstone.
+- **F624.2.2** — Strong man lifts large stone with one hand.
+- **F624.3** — Strong hero lifts cart.
+- **F624.3.1** — Strong man throws carriage with horses and driver on top of haystack and breaks the driver's ribs.
+- **F624.4** — Strong man lifts plow.
+- **F624.5** — Strong man lifts ton of rye.
+- **F624.6** — Strong hero lifts house.
+- **F624.7** — Strong man carries boat (ship).
+- **F624.8** — Strong man throws opponent into the air.
+- **F624.9** — Little girl moves enormous bow which nobody could ever carry before.
+- **F624.10** — Strong man carries bellows.
+- **F625** — Strong man: breaker of iron.
+- **F625.1** — Hero drives spear through seven iron plates.
+- **F626** — Strong man pulls down mountains.
+- **F626.1** — Strong man flattens hill (lops off hilltop).
+- **F626.2** — Strong man kicks mountain down.
+- **F627** — Strong man pulls down building.
+- **F628** — Strong man as mighty slayer.
+- **F628.0.1** — Precocious strong hero as mighty slayer.
+- **F628.1** — Strong man kills animals with own hands.
+- **F628.1.0.1** — Strong man slays monster.
+  *Tears heart out.*
+- **F628.1.1** — Strong man kills lion with own hands.
+- **F628.1.1.1** — Strong man kills tiger single-handed.
+- **F628.1.1.2** — Strong man kills leopard.
+- **F628.1.1.3** — Strong man kills jaguar.
+- **F628.1.1.4** — Strong man kills bear.
+- **F628.1.1.5** — Strong man kills wolves in sea.
+- **F628.1.2** — Man kills ox with flat of hand.
+- **F628.1.2.1** — Man kills cow with flat of hand.
+- **F628.1.2.2** — Man swings wild steer by horns round and round till it is stunned, casts it to ground.
+- **F628.1.3** — Strong man kills great serpent.
+- **F628.1.3.1** — Man kills serpents, toads, dragons with own hands.
+- **F628.1.3.2** — Child tears to pieces a live snake with his bare hands.
+- **F628.1.4** — Strong hero kills aquatic animal with own hands.
+- **F628.1.4.1** — Strong hero kills many crocodiles with own hands.
+- **F628.1.4.2** — Strong hero kills sharks with own hands.
+- **F628.1.4.3** — Strong hero kills walrus with own hands.
+- **F628.1.5** — Strong man kills giant dog.
+- **F628.1.6** — Strong hero fells two maddened elephants.
+- **F628.2** — Strong man kills men.
+- **F628.2.1** — Strong man kills many men at once.
+- **F628.2.2** — Strong man throws another from walls.
+- **F628.2.3** — Strong man kills giant.
+- **F628.2.4** — Army of strong men.
+- **F628.2.5** — Strong man kills men with own hands.
+- **F628.2.6** — Strong man kills many with hammer.
+- **F628.2.7** — Strong man uses man as weapon.
+- **F628.2.8** — Strong man kills robber with a snap of his finger.
+- **F628.2.10** — Strong man cleaves horse and rider in two with sword.
+- **F628.3** — Strong man slays spectre.
+- **F628.4** — Strong man's mighty spear-cast (sword blow).
+- **F628.4.1** — Strong man plunges sword into stone.
+- **F628.5** — Strong hero wields many weapons at once.
+- **F631** — Strong man carries giant load.
+- **F631.1** — Strong man drags mill.
+- **F631.2** — Strong man carries off city gates.
+- **F631.2.1** — Strong man carries off door-frame and frame of smoke-hole.
+- **F631.3** — Strong man swims carrying fifty (many) companions.
+- **F631.4** — Strong man carries ox on the back.
+- **F631.5** — Strong man carries heavy oxhide on the hand.
+- **F631.6** — Strong man carries huge beam.
+- **F631.6.1** — Strong men knock on door with beam of twenty elbow-lengths.
+- **F631.6.2** — Man carries a beam eighteen feet in length and cuts path through jungle at same time.
+- **F632** — Mighty eater.
+  *Eats whole ox at time, or the like.*
+- **F633** — Mighty drinker.
+  *Drinks up whole pools of water, or the like.*
+- **F634** — Mighty fisherman.
+  *Palm tree as rod, elephant as bait.*
+- **F634.1** — Strong man bathing and diving in river catches thousands of fishes in his beard.
+- **F635** — Remarkable spitter.
+  *Spits lake of soap.*
+- **F636** — Remarkable thrower.
+- **F636.1** — Remarkable thrower of iron.
+  *Makes field full of scissors.*
+- **F636.2** — Remarkable thrower of chips.
+  *Makes forest.*
+- **F636.3** — Remarkable pourer of water.
+  *Makes a river.*
+- **F636.4** — Remarkable stone-thrower.
+- **F636.4.1** — Hero throws up a stone: before it falls, he drinks a full jar empty.
+- **F636.4.2** — Strong man catches stones hurled from catapults by enemy and throws them back upon the besiegers.
+- **F636.4.3** — Strong man's stone-throw carries away roof-timber.
+- **F636.5** — Hero catches a giant jug and pitches it about.
+- **F637** — Strong man holds back ship.
+- **F638** — Mighty archer.
+- **F638.1** — Arrow shot thirty miles high.
+- **F638.2** — Arrow shot down years after the shot.
+- **F638.3** — Man is waiting for bird to fall that he had shot eight days before.
+- **F638.4** — Strong man shoots arrow as far as otherworld.
+- **F639** — Extraordinary powers miscellaneous.
+- **F639.1** — Mighty digger.
+- **F639.1.1** — Mighty digger of tunnels.
+- **F639.1.2** — Strong man's finger digs into ground with such force that water gushes out.
+- **F639.2** — Mighty diver.
+  *Can stay extraordinary time under water.*
+- **F639.3** — Strong man's shield-cast annihilates fleeing enemy and chariot.
+- **F639.4** — Strong man overcomes giant.
+- **F639.5** — Strong man kicks through heavy door.
+- **F639.6** — Strong man tears boat apart with hands.
+- **F639.7** — Man presses out twelve measures of oil without the help of bullocks.
+- **F639.8** — Palace shakes when strong man gets upon its roof.
+- **F639.9** — Strong man crushes ribs of person he embraces.
+- **F639.10** — Strong man's anger: bites brass rods in anger and spits them out as powder.
+- **F639.11** — Strong man grinds huge rocks into powder.
+- **F639.12** — Nine hundred horses draw chariot in which strong man rides.
+- **F640** — Extraordinary powers of perception.
+- **F641** — Person of remarkable hearing.
+- **F641.1** — Man can hear grass (wool) grow.
+- **F641.2** — Man can hear ant leave nest fifty miles away.
+- **F641.3** — Man can hear one sleeping by putting ear to ground.
+- **F642** — Person of remarkable sight.
+- **F642.1** — Remarkable star-gazer.
+- **F642.2** — Person of remarkable sight finds tracks of swine stolen seven years before his birth.
+- **F642.3** — Person can see through opaque objects.
+- **F642.3.1** — Person of remarkable sight can see through hearts of trees.
+- **F642.3.2** — Remarkable sight of sage lets him see worm in loaf.
+- **F642.3.3** — Blind man is able to see two unborn rats within mother rat.
+- **F642.4** — Person sees equally well by night or day.
+- **F642.5** — Man can see celestial nymphs dancing in divine world.
+- **F642.6** — One-eyed barber sees thread of silk stretching to sea.
+- **F642.7** — Person of remarkable sight can see the soul.
+- **F642.8** — Person sees enormous distance.
+- **F645** — Marvelously wise man.
+- **F645.1** — Wise man answers all questions.
+- **F645.2** — Man knows exactly how many grains are in a measure.
+- **F647** — Marvelous sensitiveness.
+- **F647.1** — Marvelous sensitiveness: meat (wine) tastes of corpse.
+  *Has been near grave.*
+- **F647.1.1** — Extraordinary gustatory sense.
+  *Woman detects flavor of garlic in a sauce made in a mortar from which garlic has been removed.*
+- **F647.2** — Marvelous sensitiveness: suffering from merely seeing work done.
+- **F647.3** — Marvelous sensitiveness: injury from rose leaves falling.
+- **F647.4** — Marvelous sensitiveness: women blush in presence of male statue.
+- **F647.4.1** — Marvelous sensitiveness: woman refuses to look at male fish.
+- **F647.5** — Marvelous sensitiveness: woman smells like a goat.
+  *She has been brought up on goat's milk.*
+- **F647.5.1** — Marvelous sensitiveness: meat is dog's flesh.
+  *Animal has been suckled by a dog.*
+- **F647.5.2** — Marvelous sensitiveness: food has been raised in particular kind of manure.
+- **F647.5.3** — Marvelous sensitiveness: man recognizes milk of his stolen cows.
+- **F647.6** — Marvelous sensitiveness: wine shows through woman's white throat.
+- **F647.7** — Marvelous sensitiveness: ulcer from moon's rays.
+- **F647.8** — Marvelous sensitiveness: fainting from noise of wooden pestle and mortar.
+- **F647.8.1** — Marvelous sensitiveness: fracture from hearing man chopping wood.
+- **F647.8.1.1** — Marvelous sensitiveness: stitch in side from being told about hearing a man chopping wood.
+- **F647.9** — Marvelous sensitiveness: blister on back from lying in rose leaves.
+- **F647.9.1** — Prince thinks he has slept on a beam; a hair is found on lower bedding.
+- **F647.9.2** — Marvelous sensitiveness: man feels little point of simple thorn in middle of his clothes.
+- **F647.10** — Marvelous sensitiveness: man refuses to eat fifth descendent of stolen cow.
+- **F647.11** — Marvelous sensitiveness: clarified butter was someone's leavings.
+- **F647.12** — Girl (princess) so delicate she can live only on the perfume of flowers.
+- **F648** — Extraordinary sympathy (telepathic) with wild animals.
+- **F651** — Remarkable power to walk directly to nearest water.
+- **F652** — Marvelous sense of smell.
+- **F652.1** — Man identifies picker of berries by their scent.
+- **F652.2** — Man smells pots boiling 400 miles off.
+- **F654** — Remarkable power of recognition.
+  *Man remembers all people he has met.*
+- **F655** — Extraordinary perception of blind men.
+- **F655.1** — Blind man able to recognize real pearls by their smell, diamonds by touch, a good horse by screwing its ears, and raja of noble birth by his generosity.
+- **F655.2** — Blind tiger recognizes by man's voice that he is a hypocrite.
+- **F660** — Remarkable skill.
+- **F660.1** — Brothers acquire extraordinary skill.
+  *Return home and are tested.*
+- **F660.2** — Unskilled man made skillful by saint's blessing.
+- **F660.2.1** — Follower of a saint is miraculously made a famous preacher.
+- **F661** — Skillful marksman.
+- **F661.1** — Skillful marksman shoots meat from giant's hands.
+- **F661.2** — Skillful marksman shoots pipe from man's mouth.
+- **F661.3** — Skillful marksman shoots apple from man's head.
+  *Tell.*
+- **F661.3.1** — Skillful marksman shoots spear through nose-ring.
+- **F661.4** — Skillful marksman shoots eggs scattered over table.
+- **F661.4.1** — Archer shoots eggs through middle.
+- **F661.4.2** — Archer shoots and marks egg in nest without breaking it or disturbing other eggs.
+- **F661.4.3** — Skillful marksman can hit egg from great distance.
+- **F661.5** — Skillful marksman shoots animal (man) through eye.
+- **F661.5.1** — Skillful marksman shoots serpent through left eye.
+- **F661.5.2** — Skillful marksman shoots bird through eye.
+- **F661.5.3** — Skillful marksman shoots left eye of fly at two miles.
+- **F661.5.4** — Skillful marksman shoots both eyes of an ogre.
+- **F661.5.5** — Marvelous marksman can shoot eye off needle at quarter-mile distance.
+- **F661.6** — Skillful bowman shoots crater of Vesuvius open.
+- **F661.7** — Skillful marksman throws needles.
+  *One enters eye of the other so as to form a straight line.*
+- **F661.7.1** — Skillful marksman throws rushes into a curtain.
+  *The first remains and each following one lodges in the one before and remains attached to it.*
+- **F661.7.2** — Skillful marksman throws swords and scabbards so that swords are sheathed in air.
+- **F661.7.3** — One arrow shot into end of last one to make rope of arrows.
+- **F661.8** — Skillful marksman casts lance through ring.
+- **F661.8.1** — Skillful marksman casts lance through hole in leaf.
+- **F661.9** — Skillful marksman grazes ear of sleeping person and awakens him.
+- **F661.9.1** — Husband shoots arrows, barely missing wife's ears.
+- **F661.10** — Man shoots pearls from wife's nose-ring.
+- **F661.11** — Skillful archer uses arrow as boomerang.
+- **F661.12** — Hero shoots arrow and cuts thread.
+- **F662** — Skillful tailor.
+- **F662.0.1** — Woman skillful in sewing.
+- **F662.0.1.1** — Woman sews nine garments at a time with one needle.
+- **F662.1** — Skillful tailor sews up broken eggs.
+- **F662.1.1** — Birds hatched from broken eggs repaired by skillful tailor have red line around necks.
+  *This indicates where eggs were broken.*
+- **F662.2** — Skillful tailor sews together scattered planks in capsizing boat.
+- **F662.3** — Skillful tailor sews bean together after bean has split from laughing.
+- **F663** — Skillful smith.
+- **F663.0.1** — Skillful smith calls self master of all masters.
+- **F663.1** — Skillful smith shoes running horse.
+- **F663.2** — Clever smith makes needle that pierces anvil.
+- **F664** — Skillful flayer.
+- **F664.1** — Skillful flayer skins running rabbit.
+- **F664.1.1** — Woman flays running deer.
+- **F665** — Skillful barber.
+- **F665.1** — Skillful barber shaves running hare.
+- **F666** — Skillful axe-man.
+  *Cuts down trees with single stroke, and the like.*
+- **F666.1** — Skillful axe-man makes spear-shafts with three chippings.
+  *Also at the same time sets them into the spear-rings.*
+- **F667** — Skillful fencer (swordsman).
+- **F667.1** — Skillful fencer keeps sword dry in rain.
+  *Swings it so fast.*
+- **F667.2** — Man able to strike every arrow with his sword and reduce it to splinters.
+- **F667.3** — Expert swordsman cuts clothes bag in two.
+- **F668** — Skillful surgeon.
+- **F668.0.1** — Skillful physician.
+- **F668.1** — Skillful surgeon removes and replaces vital organs.
+- **F668.2** — Skillful surgeon removes speck from midge's eye.
+  *Does it with one stroke without injuring midge.*
+- **F668.3** — Man can transplant feather from one bird to another.
+- **F668.4** — Skillful surgeon can tell by whom wound was inflicted.
+- **F668.5** — New arm made from another man's arm bone.
+- **F671** — Skillful shipbuilder.
+- **F671.1** — Rapid boat-builder can build boat in twinkling of an eye.
+- **F673** — Man can keep together feathers in great wind.
+- **F674** — Skillful painter.
+  *Can paint from description of a dream.*
+- **F675** — Ingenious carpenter.
+- **F675.1** — King makes a wooden peacock machine for his son.
+- **F675.2** — Moonmakers make new moon.
+- **F675.3** — Carpenter constructs house of sandalwood which will go wherever owner commands.
+- **F675.4** — Skillful carpenter constructs large palace overnight.
+- **F676** — Skillful thief.
+- **F676.1** — Thief can eat from man's plate during dinner without detection.
+- **F676.2** — Thief can cut soles off man's boots without detection as he walks along road.
+- **F677** — Skillful tracker.
+- **F677.1** — Skillful tracker infallible on land or sea.
+- **F678** — Skillful milker.
+- **F678.1** — Skillful milker milks cows incessantly.
+- **F679** — Remarkable skill miscellaneous.
+- **F679.1** — Remarkable herdsman.
+  *Sits on mountain top. Cows come from great distance at his call.*
+- **F679.2** — Man can lengthen swords by twirling them between his fingers.
+- **F679.3** — Man can walk (stand) on weapon edge (point) without injury.
+  *Can catch sharp edges without being cut.*
+- **F679.4** — Man can stand on barrel rolling down hill.
+- **F679.5** — Skillful hunter.
+- **F679.5.1** — Skillful hunter manages hounds.
+- **F679.5.2** — Skillful hunter can tell from baying the succession of hounds and what quarry they pursue.
+- **F679.5.3** — Man kills many tigers with one arrow-shot.
+- **F679.5.3.1** — Seven stags killed at one shot.
+- **F679.6** — Skillful cast of stone: carries away roof tree of burning house and so puts out fire.
+- **F679.7** — Skillful gambler always wins.
+  *Whatever he earns in day he spends immediately.*
+- **F679.8** — Skill at chess-playing.
+- **F679.9** — Skillful musician plays nine mouth harps at once.
+- **F680** — Other marvelous powers.
+- **F681** — Marvelous runner.
+- **F681.1** — Marvelous runner keeps leg tied up.
+  *To prevent him from running away.*
+- **F681.2** — Marvelous runner outstrips March wind.
+- **F681.3** — Marvelous runner swift as thought.
+- **F681.3.1** — Contest between runner swift as thought and one swift as sight.
+  *Former wins.*
+- **F681.4** — Marvelous runner swift as sight.
+- **F681.5** — Marvelous runner can run round earth in five minutes.
+- **F681.6** — Marvelous runner catches wild game on the run.
+- **F681.6.1** — Man can outstrip wild mare, hold her, and bridle her.
+- **F681.7** — Marvelous runner runs backwards.
+- **F681.8** — Marvelous runner captures two of every wild animal.
+- **F681.9** — Man who is too heavy for any horse walks faster than horseback riders.
+- **F681.10** — Marvelous swift plower.
+- **F681.11** — Marvelous swift mower.
+- **F681.12** — Runner runs so swiftly that he does not snap the ears of wheat (bend grass).
+- **F681.13** — Boy runs so fast snow makes rainbow behind him.
+- **F682** — Man can stand all day on one foot.
+- **F682.0.1** — Person (warrior) uses only one leg, one hand, one eye.
+- **F683** — Sparks come from man's feet.
+- **F683.1** — Sparks come from man's hands.
+- **F683.1.1** — Fire drops from fingers of warrior whenever he wills it.
+- **F684** — Marvelous jumper.
+- **F684.1** — Marvelous climber.
+- **F685** — Marvelous withstander of cold.
+- **F686** — Body with marvelous heat.
+  *Melts snow thirty feet around and serves as fuel for man's companions.*
+- **F686.1** — Cauldron warmed by breath of nine maidens.
+- **F686.2** — Room heated by crowded corpses kept on hand by ghoulish ogres.
+- **F687** — Remarkable fragrance (odor) of person.
+- **F688** — Man with marvelous voice.
+- **F688.1** — Man's voice shakes heavens.
+- **F688.2** — Man's shout remains in air three days.
+- **F688.3** — Voice heard over whole land.
+- **F688.4** — Walls fall because of great shout.
+- **F691** — Man can breathe nine days under water.
+- **F691.0.1** — Hero battles under lake for a day and night.
+- **F692** — Person with remarkable memory.
+- **F692.1** — Whole epic remembered from one hearing.
+- **F693** — Wounds inflicted by certain man always fatal.
+- **F694** — Saint passes through closed doors.
+- **F695** — Extraordinary reading ability.
+- **F695.1** — Reading without learning the alphabet.
+- **F695.2** — Extraordinary amount read in short time.
+- **F695.3** — Learning to read in extraordinarily short time.
+- **F695.3.1** — Miraculous ability to learn to read and to write foreign language in short time.
+- **F696** — Marvelous swimmer.
+- **F697** — Marvelous ball player.
+- **F697.1** — Culture hero as marvelous ball player.
+- **F697.2** — Saint as marvelous ball player.
+- **F698** — Marvelous juggler.
+- **F698.1** — Hero throws ball, bat, dart (playthings) and catches them before they reach ground.
+- **F698.2** — Performing on spear points.
+- **F698.3** — Catching 150 toy spears in shield.
+- **F699** — Additional marvelous powers.
+- **F699.1** — Marvelous dancer.
+
+## Extraordinary places
+
+- **F700** — Extraordinary places.
+- **F701** — Land of plenty.
+  *Yields everything to heart's desire.*
+- **F701.1** — Milk and honey flow in land.
+- **F701.2** — Land of the Blessed.
+  *Everything as it should be.*
+- **F702** — Land of fire.
+- **F703** — Lands with extraordinary names.
+  *Land of the boot, the towel, the walking-stick, and the like.*
+- **F704** — Land of cold and mist.
+- **F705** — Artificial paradise and hell to punish and reward.
+- **F706** — Land of darkness.
+- **F707** — Extraordinary kingdom.
+- **F707.1** — Kingdom where everything is of gold.
+- **F707.2** — Kingdom where everything is of silver.
+- **F707.3** — Kingdom where everything is of diamond.
+- **F707.4** — Kingdom where everything is of pearl.
+- **F708** — Countries with one conspicuous lack.
+- **F708.1** — Country without cats.
+- **F708.2** — Country without grain.
+- **F708.3** — Country without wine.
+- **F709** — Other extraordinary countries.
+- **F709.1** — Country of the naked.
+- **F709.2** — Country of little girls.
+- **F709.3** — Country of thieves and impostors.
+- **F710** — Extraordinary bodies of water.
+- **F710.1** — Water resembling fire.
+- **F711** — Extraordinary sea.
+- **F711.1** — Sea issues from marvelous cask.
+- **F711.2** — Sea of unusual substance.
+- **F711.2.1** — Sea of milk.
+- **F711.2.2** — Sea of cream.
+- **F711.2.3** — Sea of pumice.
+- **F711.2.4** — Sea of slime.
+- **F711.2.5** — Sea of honey.
+- **F711.3** — Sea of unusual color.
+- **F711.3.1** — White sea.
+- **F711.3.2** — Red sea.
+- **F711.4** — Fresh water in sea.
+- **F711.4.1** — Stream of fresh water flows through the sea.
+- **F711.4.2** — Well hidden in sea.
+- **F711.5** — Aroma of sea as of wine.
+- **F711.6** — Sea with fishes with bodies like men and sharp razor-like snouts.
+- **F713** — Extraordinary pond (lake).
+- **F713.1** — Pond of ambrosia.
+- **F713.2** — Bottomless lakes (pools, etc.).
+- **F713.2.1** — Extremely deep water.
+  *Axe seven years reaching bottom.*
+- **F713.3** — Lake monster turning over causes lake to overflow surrounding mountains.
+- **F713.4** — Pond of milk.
+- **F713.5** — Pond always clear because deity uses it for his bath.
+- **F713.6** — Lake of blood.
+- **F715** — Extraordinary river.
+- **F715.1** — Extraordinary source of river.
+- **F715.1.1** — River issues from magic nut.
+- **F715.1.2** — River issues from pillar.
+- **F715.1.3** — River from man's finger.
+- **F715.1.4** — River flows from man's head.
+- **F715.1.5** — River flows from man's mouth.
+- **F715.2** — River of extraordinary fluid.
+- **F715.2.1** — River of blood.
+- **F715.2.2** — River of mercury.
+- **F715.2.3** — River of milk.
+- **F715.2.4** — River of honey.
+- **F715.2.5** — River of tears.
+- **F715.3** — Rivers with marvelous underground connections.
+  *Euphrates, Tigris, Tiber, and River Boant really the same which flow through oceans and underground.*
+- **F715.3.1** — Undersea river.
+- **F715.3.2** — Marvelous stream containing little black fish bursts forth from mountain.
+- **F715.4** — Stream runs through house.
+- **F715.5** — River which never freezes.
+- **F715.6** — River that burns like fire.
+- **F715.7** — River which petrifies anyone passing through it.
+- **F715.8** — Kingdom where seven rivers meet.
+- **F715.9** — Red river.
+- **F715.10** — River whose specific gravity is so slight nothing can float on it.
+- **F716** — Extraordinary fountain.
+- **F716.1** — Fountain gives water on Wednesdays and Fridays.
+  *Milk on Sunday and wine on feast-days.*
+- **F716.1.1** — Fountain has taste of wine.
+- **F716.2** — Spring with water lighter than wood and with scent of violets.
+- **F716.3** — Fountain hot or cold as desired.
+- **F716.4** — Fountain jet which remains immovable.
+- **F716.5** — Musical fountain in otherworld.
+- **F717** — Extraordinary pool.
+- **F717.1** — Pool paved with gold.
+- **F717.2** — Poison pool.
+- **F718** — Extraordinary well.
+- **F718.1** — Well located under sea.
+- **F718.2** — Perfectly round well contains vari-colored water.
+- **F718.3** — Well of wine.
+- **F718.4** — Well water tastes like oil, wine, and honey.
+- **F718.5** — Well shines at night.
+- **F718.6** — Well overflow cannot be seen.
+- **F718.7** — Well flows full on Sunday.
+- **F718.8** — Extraordinary well of blood.
+- **F718.9** — Glittering well.
+- **F718.10** — Well in shape of a sieve-like rock, out of which water gushes forth.
+- **F718.11** — Well shoots up high as pillars, and discharges itself into navigable streams.
+- **F718.12** — Origin of springs from broken coconut shell.
+- **F720** — Submarine and subterranean world.
+- **F721** — Subterranean world.
+- **F721.1** — Underground passages.
+  *Journey made through natural subways.*
+- **F721.1.1** — Tunnel of crystal four miles long.
+- **F721.2** — Habitable hill.
+- **F721.2.1** — Habitable hill raised on four pillars.
+- **F721.2.2** — Monster guards door of habitable hill.
+- **F721.2.3** — Sorcerer and books in mountain.
+  *Opens only for short periods.*
+- **F721.3** — Underground kingdom.
+- **F721.3.1** — King of underground kingdom.
+- **F721.3.2** — Underground kingdom reached in a box which was swallowed by a dragon and later released.
+- **F721.4** — Underground treasure chambers.
+- **F721.5** — Subterranean castle.
+- **F721.5.1** — Underground palace full of jewels.
+- **F725** — Submarine world.
+- **F725.1** — Steps to submarine world.
+- **F725.2** — Submarine cities.
+- **F725.3** — Submarine castle (palace).
+- **F725.3.1** — Submarine castle on a mountain.
+- **F725.3.2** — Castle under lake.
+- **F725.3.3** — Undersea house.
+- **F725.3.4** — Splendid palace underneath tank.
+- **F725.4** — Man lives under river.
+- **F725.5** — People live under sea.
+- **F725.5.1** — Visit to people of village under lake.
+- **F725.6** — Bell brought from monastery under water.
+- **F725.7** — Lovely garden under water, with marvelous tree.
+- **F725.8** — World at bottom of pond.
+- **F725.9** — World at bottom of well.
+- **F730** — Extraordinary islands.
+- **F731** — Island covered with treasure.
+- **F731.1** — Island covered with gold.
+- **F731.2** — Crystalline island.
+- **F731.3** — Island with rampart of gold and palisade of silver.
+- **F731.4** — Stones of island are jewels.
+- **F731.5** — Island of amber (glass).
+- **F731.6** — Island of pearls.
+- **F732** — Island of rare wood.
+- **F732.1** — Island of ebony.
+- **F732.2** — Island of aloes.
+- **F732.3** — Island of camphor.
+- **F733** — Fruitful island.
+- **F734** — Otherworld island grows foot yearly.
+  *One tree added.*
+- **F735** — Island rises up in sea.
+- **F735.0.1** — Island rises up in river.
+- **F735.0.2** — Island rises once every seven years.
+- **F735.0.3** — Island appears only at certain times.
+- **F736** — Island with extraordinary support.
+- **F736.1** — Island supported on four feet.
+- **F736.1.1** — Island supported on seven feet.
+- **F736.2** — Otherworld island supported by pedestal.
+- **F737** — Wandering island.
+  *Moves about at will and sometimes appears and disappears from sea.*
+- **F738** — Flying island.
+  *Floats in sky.*
+- **F741** — Islands of extraordinary color.
+  *Green, white, etc.*
+- **F742** — Magic invisibility of otherworld island.
+- **F743** — Island inhabited by only one species.
+- **F743.1** — Island inhabited only by birds.
+- **F743.2** — Island inhabited only be sheep.
+- **F744** — Island surrounded by wall of fire; water prevents it from being consumed.
+- **F745** — Island with nightly noise of drums.
+- **F746** — No putrefaction on extraordinary island.
+  *Hair and nails of dead grow.*
+- **F747** — Extraordinary island upon which no sinner can die (be buried).
+- **F748** — Battle of islands.
+- **F751** — Glass mountain.
+- **F752** — Mountain of treasure.
+- **F752.1** — Mountain of gold.
+- **F752.2** — Mountain of silver.
+- **F752.2.1** — Silver not to be taken from mountain of silver on Sabbath.
+- **F752.3** — Mountain formed of a jewel.
+- **F752.3.1** — Mountain formed of a pearl.
+- **F752.3.2** — Mountain formed of diamond.
+- **F753** — Mountain of fire.
+- **F754** — Magnetic mountain.
+  *Pulls nails out of ships that approach it.*
+- **F755** — Living mountain.
+- **F755.1** — Speaking mountain.
+- **F755.1.1** — Mountain laughs.
+- **F755.2** — Singing mountain.
+- **F755.3** — Flying mountain.
+- **F755.4** — Growing mountain.
+  *Grows concurrently with child reared upon it.*
+- **F755.5** — Mountain has wife and children.
+- **F755.6** — Moving mountain.
+- **F755.7** — Mountain fights for honor.
+- **F756** — Extraordinary valleys and plains.
+- **F756.1** — Valley of fire.
+- **F756.2** — Plain that is earthly paradise.
+- **F756.2.1** — Extraordinary valley which gives the illusion of earthly paradise.
+  *(The Old Man of the Mountain.)*
+- **F756.2.2** — Fertile valleys created by deity's stamping down mountains.
+- **F756.3** — Plain of wonders.
+- **F756.4** — Glen of witchcraft.
+- **F756.5** — Extraordinary glen: mysterious shouting heard.
+- **F756.5.1** — Valley full of dreadful monsters.
+- **F756.5.2** — Perilous glen.
+- **F757** — Extraordinary cave.
+- **F757.1** — Golden cave.
+- **F757.1.1** — Cave of gold, silver and crystal.
+- **F757.2** — Wind continually blows from cave.
+- **F759** — Extraordinary mountains and valleys miscellaneous.
+- **F759.1** — Mountain with marvelous objects at top.
+- **F759.2** — Hollow mountain.
+- **F759.3** — Hill on which snow always melts.
+- **F759.4** — Perfumed mountain.
+- **F759.5** — Mountain of ice.
+- **F759.6** — Mountain of thorns.
+- **F759.7** — Rocky mountain.
+- **F759.8** — Mountain of seven lights.
+- **F760** — Extraordinary cities.
+- **F761** — City of precious metals and stones.
+- **F761.1** — City of gold.
+- **F761.1.1** — City with hundred palaces and gardens; in one everything is of gold, in another, silver, etc.
+- **F761.2** — City of brass.
+- **F761.3** — City of onyx.
+- **F761.4** — City of jewels.
+- **F761.4.1** — City of emerald.
+- **F761.5** — City paved with precious seeds.
+- **F761.5.1** — City paved with seeds of gold.
+- **F761.5.2** — City paved with seeds of silver.
+- **F761.5.3** — City paved with seeds of brass.
+- **F762** — City of extraordinary color.
+- **F762.1** — Green city.
+- **F763** — City of fire.
+- **F764** — Underground city.
+- **F765** — City inside a tree.
+- **F766** — Deserted city.
+  *Inhabitants have been devoured.*
+- **F767** — Inaccessible city.
+- **F767.1** — Heathen city surrounded by a yellow river, furious and impassable.
+- **F767.2** — City protected by red-hot iron floor around it.
+- **F767.3** — City inaccessible to death.
+- **F768** — City of extraordinary people.
+- **F768.1** — City of petrified people.
+- **F768.2** — City of enchanted people.
+  *Apparently dead.*
+- **F768.3** — Village of one-legged people.
+- **F769** — Other extraordinary cities.
+- **F769.1** — Town where everything is sold at one price.
+- **F769.2** — Cities of sin.
+- **F769.3** — City of elephants.
+- **F770** — Extraordinary buildings and furnishings.
+- **F771** — Extraordinary castle (house, palace).
+- **F771.1** — Castle of unusual material.
+- **F771.1.1** — Golden castle (palace, house).
+- **F771.1.1.1** — Castle paved with gold and gems.
+- **F771.1.1.2** — Palace of gold and silver bricks.
+- **F771.1.2** — Silver castle.
+- **F771.1.3** — Copper castle.
+- **F771.1.4** — Steel castle (house).
+- **F771.1.5** — Palace of jewels.
+- **F771.1.5.1** — Diamond castle.
+- **F771.1.5.2** — House of sapphire.
+- **F771.1.5.3** — House of turquoise.
+- **F771.1.5.4** — Underwater castle with walls of gold and diamonds.
+- **F771.1.6** — Crystal castle.
+- **F771.1.6.1** — Castle with glass wall.
+- **F771.1.6.2** — Glass house.
+- **F771.1.7** — Palace of ice.
+- **F771.1.8** — Castle of wax, shining like gold.
+- **F771.1.9** — House of skulls.
+  *Murderer's abode.*
+- **F771.1.10** — Gingerbread house.
+  *House made of cake.*
+- **F771.1.11** — Castle of fire.
+- **F771.2** — Castle (house) with extraordinary support.
+- **F771.2.1** — Castle in the air.
+- **F771.2.1.1** — Castle suspended on four chains.
+- **F771.2.1.2** — Castle carried through air by four eagles.
+- **F771.2.2** — Castle in tree-top.
+- **F771.2.3** — Giants uphold castle.
+- **F771.2.4** — Castle built on sea.
+- **F771.2.4.1** — Palace surrounded by rivers of wine, rose-water and honey.
+- **F771.2.5** — Castle stands on a pillar (pillars).
+- **F771.2.6** — Revolving castle.
+- **F771.2.6.1** — Circular house rotating on cock's claw.
+- **F771.2.6.2** — Castle revolving at night so that entrance cannot be found.
+- **F771.2.7** — Castle on serpents.
+- **F771.3** — Extraordinary location of castle.
+- **F771.3.1** — Castle at world's end.
+- **F771.3.2** — Castle east of sun and west of moon.
+- **F771.3.3** — Most eastern castle in world.
+- **F771.3.4** — Castle at middle point of earth.
+- **F771.3.5** — Underground house.
+- **F771.3.5.1** — House inside mountain.
+- **F771.3.6** — Castle rises from the ground.
+- **F771.3.7** — Palace at bottom of water tank.
+- **F771.4** — Inhabitants of extraordinary castle.
+- **F771.4.1** — Castle inhabited by ogres.
+- **F771.4.2** — Cat castle.
+  *Castle occupied by cats (enchanted women).*
+- **F771.4.2.1** — Castle (house) infested by demon cats.
+- **F771.4.3** — Abandoned castle.
+  *Has no inhabitants when hero enters.*
+- **F771.4.4** — Castle in which everyone is asleep.
+- **F771.4.5** — Castle (house) haunted by demons.
+- **F771.4.6** — Castle in which inhabitants have been turned to stone.
+- **F771.4.7** — Castle inhabited by enchanted princess.
+- **F771.5** — Extraordinary guard for castle.
+- **F771.5.1** — Castle guarded by beasts.
+- **F771.5.2** — Castle guarded by giants (ogres).
+- **F771.5.3** — Serpent-hall.
+- **F771.6** — Phantom house: disappears at dawn.
+- **F771.7** — Palace surrounded by rivers of wine, rosewater, and honey.
+- **F771.8** — Castle of extraordinary size.
+- **F771.9** — Road runs through house (banqueting-hall).
+- **F771.10** — Castle shall stand when everything else has departed (Gimle and Brimir).
+- **F771.11** — Seven rooms in ascetic's house: in one, human heads; in another, horses; in third, dogs; in fourth, pots; in fifth, pile of men's arms; in sixth, a kitchen; in seventh, ascetic lives.
+- **F771.12** — Building at bottom of which flows stream of rubies.
+- **F771.13** — Castle warmed by love.
+  *No fire is required because love makes perpetual summer.*
+- **F772** — Extraordinary tower.
+- **F772.1** — Tower of Babel: remarkably tall tower designed to reach sky.
+- **F772.1.1** — Year taken to mount high tower.
+- **F772.1.2** — Tower reaches moon.
+- **F772.2** — Metal tower.
+- **F772.2.1** — Brazen tower.
+- **F772.2.2** — Towers of steel, silver and gold.
+- **F772.2.3** — Golden tower under sea.
+- **F772.2.4** — Tower of glass; melts in sun.
+- **F772.2.4.1** — Tower of glass in midst of sea.
+- **F772.2.5** — Dolorous Tower.
+- **F772.2.6** — Flying tower.
+- **F773** — Remarkable church (chapel, temple).
+- **F773.1** — Green chapel.
+  *Cave in green mound.*
+- **F773.2** — Golden temple.
+- **F773.3** — Temple of jewels.
+- **F774** — Extraordinary pillars.
+- **F774.1** — Pillars of precious stones.
+- **F774.1.1** — Crystal column.
+- **F774.2** — Burning pillar reaching heaven.
+- **F774.2.1** — Pillar of fire.
+- **F774.3** — Musical pillar.
+- **F775** — Extraordinary tent.
+- **F776** — Extraordinary gate.
+- **F776.1** — Gate as high as heavens and huge as a mountain.
+- **F776.1.1** — Palace gate so big it can only be opened by twelve buffaloes.
+- **F776.2** — Perilous falling gate.
+  *Cuts horse in two as rider goes through it.*
+- **F776.3** — Palace with seven gates, one within the other.
+- **F781** — Extraordinary rooms.
+- **F781.1** — Labyrinth.
+  *Series of rooms so confusing that one cannot find the way out.*
+- **F781.2** — Extraordinary number of rooms.
+- **F781.2.1** — 540 rooms in Bilskilnir.
+- **F782** — Extraordinary doors and windows.
+- **F782.1** — Windows and doors for every day in year.
+  *365 windows and doors in castle or church.*
+- **F782.1.1** — One door for each world quarter.
+- **F782.2** — Door of precious stones.
+- **F782.3** — Seven-fold doors to room.
+- **F782.4** — Extraordinary lock and key (made of bones).
+- **F782.5** — Doors of fire.
+- **F782.6** — Revolving door of tent.
+- **F783** — Extraordinary carpet.
+- **F783.1** — Giant carpet.
+  *Sixty miles square.*
+- **F784** — Extraordinary table.
+- **F784.1** — Golden table.
+- **F785** — Extraordinary throne.
+- **F785.1** — Solomon's golden throne.
+  *Thirty-three steps high. Golden animals on all sides and on steps.*
+- **F785.2** — Nimrod's multiple throne.
+  *Seven thrones on top of one another. Stone, cedar, iron, copper, silver, gold, precious stones.*
+- **F785.3** — Throne of fire.
+- **F786** — Extraordinary chair.
+- **F786.1** — Chairs of gold and silver.
+- **F787** — Extraordinary bed.
+- **F787.1** — Extraordinary bed woven with spider's webs.
+- **F787.2** — Golden bed.
+- **F787.3** — Ivory bed.
+- **F787.4** — Bed made from man's tooth.
+- **F788** — Remarkable bier.
+- **F788.1** — Remarkable jeweled bier.
+- **F789** — Extraordinary buildings and furnishings miscellaneous.
+- **F789.1** — Seven forts river, iron, mud, cow-dung, brick, stone, wood.
+- **F789.2** — Remarkable candlestick.
+- **F789.2.1** — Jeweled candlestick.
+- **F789.3** — Remarkable curtain.
+- **F789.3.1** — Jeweled curtain.
+- **F790** — Extraordinary sky and weather phenomena.
+- **F791** — Rising and falling sky.
+  *Sky rises and falls at horizon, giving periodic access to the other world.*
+- **F791.1** — Sky lowers on people.
+- **F792** — Artificial heavens.
+  *Placed on pillars of iron. Seven heavens. (1) glass, sun, moon, stars, (2) iron with lake in it, (3) tin with precious stones rolling about (thunder), (4) lead, (5) copper, (6) silver, (7) gold.*
+- **F793** — Artificial heavenly bodies.
+- **F793.1** — Gold moon, sun, star.
+- **F795** — Extraordinary cloud.
+- **F795.1** — Clouds take form of letters.
+- **F796** — Dragon seen in sky.
+- **F797** — Fire from heaven kills people.
+
+## Extraordinary rocks and stones
+
+- **F800** — Extraordinary rocks and stones.
+- **F801** — Weeping rocks.
+- **F801.1** — Weeping hills.
+- **F802** — Growing rocks.
+- **F802.1** — Big rocks grow from little rocks.
+- **F803** — Musical rock in fairyland.
+- **F804** — Floating rock (stone).
+- **F805** — Golden stone.
+- **F806** — Magnetic stone.
+- **F806.1** — Lodestone draws ship to it.
+- **F807** — Rock of extraordinary color.
+- **F807.1** — Crimson rock.
+- **F808** — Extraordinary cliff: thin as a hair, sharp as a blade, slippery as an eel's tail, high as a mast.
+- **F809** — Other extraordinary stones.
+- **F809.1** — Stones cannot be counted.
+- **F809.2** — Hollow stone fits any person who lies in it.
+- **F809.3** — Magic crop- and rain-producing stone.
+- **F809.4** — Bleeding rock.
+- **F809.4.1** — Men disappear at revolving bleeding rock.
+- **F809.5** — Traveling stones.
+- **F809.6** — Stones of fire.
+- **F809.6.1** — Stones burn.
+- **F809.6.2** — Mysterious characters engraved upon rock of fire.
+- **F809.7** — Transparent stone.
+- **F809.8** — Stones as guardian of town.
+- **F809.9** — Stones can be rolled up like a scroll.
+- **F810** — Extraordinary trees, plants, fruit, etc.
+- **F811** — Extraordinary tree.
+- **F811.1** — Trees of extraordinary material.
+- **F811.1.1** — Golden tree.
+- **F811.1.2** — Silver tree.
+- **F811.1.3** — Copper tree.
+- **F811.1.4** — Tree of fire.
+- **F811.1.5** — Tree of camphor.
+- **F811.1.6** — Glass (crystal) tree in otherworld.
+- **F811.1.7** — Tree with silver trunk, gold branches, emerald leaves, pearls for fruits.
+- **F811.1.8** — Diamond tree.
+- **F811.1.9** — Iron tree.
+- **F811.1.10** — Tree of cakes.
+- **F811.2** — Tree with extraordinary leaves.
+- **F811.2.1** — Tree with metal leaves.
+- **F811.2.1.1** — Tree with brass leaves.
+- **F811.2.1.2** — Tree with golden leaves.
+- **F811.2.2** — Tree with leaves of jewels.
+- **F811.2.3** — Tree with gigantic leaves.
+- **F811.2.3.1** — Tree with coiling leaves three thousand miles high with golden cock on top.
+- **F811.3** — Tree of extraordinary color.
+- **F811.3.1** — Purple tree.
+- **F811.3.2** — White mango tree.
+- **F811.3.3** — Crimson tree.
+- **F811.4** — Extraordinary location of tree.
+- **F811.4.1** — Tree in midocean.
+- **F811.4.2** — Tree under sea.
+- **F811.4.3** — Tree in the midst of king's hall.
+- **F811.5** — Food-producing trees.
+- **F811.5.1** — Food-dropping trees.
+- **F811.5.2** — Wood which distills wine.
+- **F811.5.3** — Fish-producing tree.
+- **F811.6** — Tree with musical branches.
+- **F811.7** — Tree with extraordinary fruit.
+- **F811.7.1** — Tree bearing all fruits.
+- **F811.7.1.1** — Tree bearing several fruits.
+- **F811.7.1.2** — Tree bearing variety of fruits.
+- **F811.7.2** — Tree bearing unwonted fruit (flowers).
+- **F811.7.2.1** — Temple cedars bear fruit.
+- **F811.7.2.2** — Marvelous oranges grow upon tree limbs which are sharp knives.
+- **F811.7.2.3** — Cherry tree has lotos-flowers.
+- **F811.8** — Tree with fruits like human heads.
+  *Attached by hair.*
+- **F811.9** — Trees with green birds hanging by claws.
+- **F811.10** — Tree in which people live in nests.
+- **F811.10.1** — Hollow tree as residence for hero.
+- **F811.11** — Trees disappear at sunset.
+- **F811.12** — Trees grow and "ungrow" each day.
+- **F811.13** — Tree blooms and grows ripe fruit nightly.
+- **F811.13.1** — Extraordinary tree blossoms, bears fruit, matures seeds, seeds sprout and grow, even while one watches.
+- **F811.14** — Giant tree: nuts fall scores of miles away, etc.
+- **F811.14.1** — Tree so large that it darkens whole world.
+- **F811.15** — Upside-down tree.
+  *Branches in ground, roots in air.*
+- **F811.16** — Tree bears fruit, flower, and leaf simultaneously.
+  *All drop at once.*
+- **F811.17** — Tree with extraordinary buds.
+- **F811.17.1** — Tree with crystal buds.
+- **F811.18** — Tree bears fruit three times yearly.
+- **F811.18.1** — Tree bears fruit monthly.
+- **F811.19** — Tree grows miraculously fast from seed.
+- **F811.20** — Bleeding tree.
+  *Blood drops when tree is cut.*
+- **F811.21** — Marvelous tree (trees) of extraordinary age.
+- **F811.22** — Extraordinary firewood, of elephant tusks.
+- **F811.23** — Extraordinary flower-bearing tree in middle of seven forts.
+- **F811.24** — Man-eating tree.
+- **F812** — Extraordinary forest.
+- **F812.1** — Forest of straight and tall trees.
+  *Each tree straight as an arrow and higher than earthly man ever saw.*
+- **F812.2** — Wood of sixty trees nourishing three hundred men apiece.
+- **F812.3** — Forest of Dangers (Wonders).
+- **F812.4** — Speaking forest.
+- **F812.5** — Forest where unseen sword cuts off heads of those trying to escape.
+- **F812.6** — Special flavor of wood from certain forest.
+- **F812.7** — Boards of wood from certain forest endure forever.
+- **F812.8** — Wood which cannot be consumed by fire.
+- **F813** — Extraordinary fruits.
+- **F813.0.1** — Fruits containing jewels.
+- **F813.0.2** — Golden fruits.
+- **F813.0.3** — Extraordinarily large fruit.
+- **F813.0.4** — Fruits always sweet.
+- **F813.1** — Extraordinary apple.
+- **F813.1.1** — Golden apple.
+- **F813.1.2** — Silver apple.
+- **F813.1.3** — Copper apple.
+- **F813.1.4** — Brass apple.
+- **F813.2** — Extraordinary grapes.
+- **F813.2.1** — Clusters of diamond and emerald grapes.
+- **F813.2.2** — Gigantic grapes.
+- **F813.3** — Extraordinary nut.
+- **F813.3.1** — Golden nut.
+- **F813.3.2** — Gigantic nut.
+- **F813.3.3** — Nuts yield purple juice.
+- **F813.3.4** — Silk handkerchief concealed in a nut.
+- **F813.4** — Silver pear.
+- **F813.5** — Extraordinary gourd.
+- **F813.5.1** — Gourds with seven rooms in each.
+- **F813.6** — Extraordinary banana.
+- **F813.6.1** — Banana large as tooth of elephant.
+- **F813.7** — Extraordinary fig.
+- **F813.7.1** — Fig magically preserved.
+- **F813.7.2** — Fig from paradise.
+- **F813.8** — Extraordinary pomegranate.
+- **F813.8.1** — Golden pomegranates.
+- **F813.8.2** — Giant pomegranate rind holds 13 men.
+- **F814** — Extraordinary flower.
+- **F814.1** — Gigantic flower.
+- **F814.2** — Talking flowers.
+- **F814.3** — Flower only to be found at midnight.
+- **F814.4** — Golden flowers.
+- **F814.4.1** — Golden lotus.
+- **F814.5** — Flower visible only to blind man.
+- **F814.6** — Flowers (lotus) of gold float on a river of milk.
+- **F815** — Extraordinary plants.
+- **F815.1** — Vegetables (plants) which mature in miraculously short time.
+- **F815.2** — Extraordinary grain.
+- **F815.2.1** — Extraordinary amount of liquor pressed from single grain.
+- **F815.3** — Crops grow without sweat or weariness in paradise.
+- **F815.4** — Extraordinary rice producing million-fold and ripening overnight.
+- **F815.4.1** — Rice, the scent of which is smelled for miles around.
+- **F815.5** — Extraordinary seed.
+- **F815.6** — Prolific grain.
+  *Produces enormously.*
+- **F815.6.1** — Taro planted in sacred spot inexhaustible prolific.
+- **F815.7** — Extraordinary vine.
+- **F815.7.1** — Extraordinary vine bears 926 varieties of fruit.
+- **F815.7.2** — Gigantic vine.
+- **F815.7.3** — Vines smile when a leaf is cut from them.
+- **F816** — Extraordinary vegetables.
+- **F816.1** — Cucumber two feet long.
+- **F816.2** — Enormous kava plant.
+- **F817** — Extraordinary grass.
+- **F817.1** — Growing and ungrowing grass.
+  *Produces one pod daily till the fifteenth of the month; thereafter one pod shrinks each day.*
+- **F817.2** — Grass grows anew every night.
+- **F817.3** — Herbs serve as perfume.
+- **F817.4** — Grass covered with gold dust.
+- **F818** — Extraordinary garden.
+- **F818.1** — Marvelous garden with gold and silver flowers, bees.
+- **F818.2** — Five demons keepers of marvelous garden and palace.
+- **F820** — Extraordinary clothing and ornaments.
+- **F821** — Extraordinary dress (clothes, robe, etc.)
+- **F821.1** — Dress of extraordinary material.
+- **F821.1.1** — Golden clothes.
+- **F821.1.2** — Brass clothes.
+- **F821.1.3** — Dress of raw fur.
+  *Cat-fur, mouse-fur, or other undressed fur.*
+- **F821.1.3.1** — Bearskin.
+  *Man dressed in bear hide.*
+- **F821.1.3.2** — Cloak made from fur of all animals in realm.
+- **F821.1.4** — Wooden coat.
+- **F821.1.5** — Dress of gold, silver, color of sun, moon and stars.
+- **F821.1.6** — Dress of feathers.
+- **F821.2** — Dress so fine that it goes in nutshell.
+- **F821.2.1** — Coat so light it can be concealed in closed palms of hand.
+- **F821.3** — Dress with gold, silver, and diamond bells.
+- **F821.4** — Extraordinarily beautiful mantle.
+  *None surpasses it.*
+- **F821.5** — Extraordinary long turban.
+- **F821.6** — Glorified white garments.
+- **F821.7** — Clothes of light (worn by Adam and Eve).
+- **F821.8** — Clothes which do not wear out.
+- **F821.9** — Garments grow with man wearing them.
+- **F821.10** — Garments emitting aromatic perfume.
+- **F821.11** — Clothes remain ever new.
+- **F822** — Extraordinary handkerchief.
+- **F822.1** — Handkerchief color of sun, moon, and stars.
+- **F823** — Extraordinary shoes.
+- **F823.1** — Golden shoes.
+- **F823.2** — Glass shoes.
+- **F823.3** — Shoes of rat-skin.
+- **F823.4** — Silver shoes.
+- **F824** — Extraordinary armor.
+- **F824.1** — Men in air-tight armor.
+- **F824.2** — Extraordinarily painted shield.
+- **F825** — Extraordinary ring.
+- **F826** — Extraordinary jewels.
+- **F826.1** — Animals with jeweled ornaments.
+- **F826.2** — Ambergris made from bitumen eaten by fish.
+- **F826.3** — Diamond does not break when struck with sledge hammer; penetrates iron instead.
+- **F826.4** — Sapphire so large two tables of law hewn out of it.
+- **F827** — Extraordinary ornaments.
+- **F827.1** — Live-bird earrings.
+- **F827.2** — Live head-dress.
+- **F827.3** — Ornaments of snakes, hornets, scorpions, dirt, and a toad.
+- **F827.4** — Necklace made of human eyes.
+- **F827.5** — Golden comb.
+- **F827.6** — Extraordinary bracelets.
+- **F828** — Extraordinary crown.
+- **F828.1** — Jeweled crown suspended in air over king's head.
+- **F828.2** — Crown of fire.
+- **F829** — Extraordinary clothing and ornaments miscellaneous.
+- **F829.1** — Rainbow as loincloth.
+- **F829.2** — Girdle made of a climbing-vine.
+- **F829.3** — Extraordinary belt.
+- **F830** — Extraordinary weapons.
+- **F830.1** — Silver weapon.
+- **F831** — Extraordinary arrow.
+- **F831.1** — Invisible arrow.
+  *Visible to only one person.*
+- **F831.2** — Arrows of fire.
+- **F831.3** — Poisoned arrows.
+- **F831.4** — Arrow shot at bull returns against shooter.
+- **F831.5** — Extraordinarily heavy arrow.
+- **F832** — Extraordinary lance.
+- **F832.1** — Barbed lance.
+  *Causes one wound on entering and nine on retiring.*
+- **F832.1.1** — Gae bulga.
+  *Barbed lance which cannot be withdrawn.*
+- **F832.2** — Extraordinarily big lance.
+- **F833** — Extraordinary sword.
+- **F833.1** — Sword so heavy that hero must take drink of strength before swinging it.
+- **F833.1.1** — Sword so heavy that only its owner can lift it.
+- **F833.2** — Sword of Damocles.
+  *Sword hung on thin thread immediately above person.*
+- **F833.3** — Sword extraordinarily bright, sharp.
+- **F833.3.1** — Sword as mirror.
+- **F833.4** — Fiery sword.
+- **F833.4.1** — Sword shines as fire or as the sun.
+- **F833.5** — Sword cuts everything.
+- **F833.5.1** — Sword cuts cloth etc. as well as steel and stone.
+- **F833.6** — Sword with poisoned edge.
+- **F833.7** — Sword with image of wolf or serpent.
+- **F833.8** — Gigantic sword.
+  *Sword eight elbow-lengths long and two spans broad.*
+- **F833.9** — Disappearing sword.
+- **F833.10** — Sword with God's name engraved upon it.
+- **F833.11** — Miraculous sword of Angel of Death.
+- **F834** — Extraordinary spear.
+- **F834.1** — Remarkably hot spear must be kept in bath of blood (poison).
+- **F834.1.1** — Spear of fire (thrown by God).
+- **F834.2** — Spear so broad that its owner by swinging it puts the light out.
+- **F834.3** — Extraordinary gleaming spear.
+- **F834.4** — All-conquering spear.
+- **F834.5** — Remarkable spear used to dam stream.
+- **F834.6** — Remarkable spear used as a windbreak.
+- **F834.7** — Warrior seeks combat when his spear consents.
+- **F835** — Extraordinary club.
+- **F835.1** — Winking club.
+  *Head of a club is like a bird's head; its eyes wink.*
+- **F835.2** — Remarkably large club.
+- **F835.2.1** — Iron club so heavy that five men can hardly lift it.
+- **F835.2.2** — Club takes 4,000 men to carry it.
+- **F836** — Extraordinary bow.
+- **F836.0.1** — Remarkable bowstring.
+- **F836.1** — Bow of gold, silver, and copper.
+- **F836.2** — Hornbows.
+- **F836.3** — Extraordinarily large bow.
+- **F836.3.1** — Bow can be strung only by one thousand men.
+- **F836.4** — Tiny bow shoots through muskox hide.
+- **F836.5** — Crossbow goes bird hunting, shows mercy to first bird, which pleads for its life.
+- **F837** — Extraordinary battle-axe.
+- **F837.1** — Extraordinarily keen stone axe.
+- **F838** — Extraordinary knife.
+- **F838.1** — Extraordinarily sharp knife.
+- **F838.2** — Knife with handle half gold and half silver.
+- **F839** — Other extraordinary weapons.
+- **F839.1** — Gnawed bone as weapon.
+- **F839.2** — Extraordinary shield.
+- **F839.2.1** — Gigantic shield.
+- **F839.2.1.1** — Shield concealing one hundred men.
+- **F839.2.2** — Edge of shield sharp enough to cut hair on water.
+- **F839.3** — Cain slays Abel with bone of a camel.
+- **F839.3.1** — Cain slain with an apple.
+- **F839.4** — Human head as weapon.
+- **F839.5** — Ball made of human brains as weapon.
+- **F839.6** — Betelnut as weapon to strike off man's head.
+- **F839.7** — Wooden lizard used to kill evil spirits.
+- **F840** — Other extraordinary objects and places.
+- **F841** — Extraordinary boat (ship).
+- **F841.1** — Ship of extraordinary material.
+- **F841.1.1** — Stone boat (ship).
+- **F841.1.2** — Bronze boat.
+- **F841.1.3** — Mahogany ship.
+- **F841.1.4** — Boat made of nutshells.
+- **F841.1.4.1** — Canoe made from coconut.
+- **F841.1.5** — Ship Naglfar.
+  *Made of parings of fingernails of the dead.*
+- **F841.1.6** — Ship brass within, steel without.
+- **F841.1.7** — Ship with gold nails.
+- **F841.1.8** — Golden boat with copper rudder.
+- **F841.1.9** — Silver boat.
+- **F841.1.10** — Gold ship.
+- **F841.1.10.1** — Boat looks like gold.
+- **F841.1.11** — Boat made of a tree trunk.
+- **F841.1.12** — Boat from gourd.
+- **F841.1.13** — Iron boat.
+- **F841.1.14** — Glass ship.
+- **F841.2** — Extraordinary equipment of ship.
+- **F841.2.1** — Gold (silver) mast.
+- **F841.2.2** — Feather used as mast.
+- **F841.2.3** — Silver oar.
+- **F841.2.4** — Golden oar.
+- **F841.2.5** — Bronze sail.
+- **F841.2.6** — Tin sail.
+- **F841.2.7** — Marvelous paddle sends canoe enormous distance with each stroke.
+- **F841.3** — Extraordinary ship miscellaneous.
+- **F841.3.1** — Winged ship.
+- **F841.3.2** — Ship on wheels.
+- **F841.3.3** — Enormous canoe.
+- **F842** — Extraordinary bridge.
+- **F842.1** — Extraordinary material of bridge.
+- **F842.1.1** — Crystal (glass) bridge.
+- **F842.1.2** — Ice bridge.
+- **F842.1.3** — Bridge of apples.
+- **F842.1.4** — Golden bridge.
+- **F842.1.5** — Bridge of straw.
+- **F842.2** — Extraordinary bridge miscellaneous.
+- **F842.2.1** — Perilous trap bridge.
+  *High in center. One end rises when one steps on it and throws him backwards.*
+- **F842.2.1.1** — Perilous trap-gate.
+- **F842.2.2** — Bridge which falls when mounted.
+- **F842.2.3** — Extraordinary span of bridge.
+- **F842.2.3.1** — Bridge of boats across sea.
+- **F842.2.3.2** — Under-water bridge.
+- **F842.2.4** — Under-water causeway (to otherworld).
+- **F843** — Extraordinary rope.
+- **F843.1** — Rope made of person's hair.
+- **F844** — Extraordinary nail.
+- **F846** — Extraordinary bed.
+- **F846.1** — Perilous bed.
+- **F846.2** — Golden bed.
+- **F847** — Extraordinary web (of guts).
+- **F848** — Extraordinary ladder (stair).
+- **F848.1** — Girl's long hair as ladder into tower.
+  *Rapunzel.*
+- **F848.2** — Ladder of fingers (toes).
+- **F848.3** — Ladder of bones.
+  *(Usually bones are stuck in side of steep and slippery mountain.)*
+- **F848.4** — Ladder of fire.
+- **F848.5** — Staircase of glass.
+- **F851** — Extraordinary food.
+- **F852** — Extraordinary coffin.
+- **F852.1** — Glass coffin.
+- **F852.1.1** — Series of glass coffins.
+- **F852.2** — Golden coffin.
+- **F852.3** — Silver coffin.
+- **F852.4** — Series of enclosed coffins.
+  *Coffins of gold, silver, copper, iron, lead, and wood, each inside the other.*
+- **F855** — Extraordinary image.
+- **F855.1** — Image with pointing finger.
+  *Inscription says, "Dig here. " Treasure etc. found when directions are followed.*
+- **F855.2** — Statues animated by water or wind.
+- **F855.3** — Gold (silver) statue of animal.
+- **F855.3.1** — Peacocks of gold.
+- **F855.3.2** — Dogs of gold and silver.
+- **F855.3.3** — Golden dove.
+- **F855.4** — Image takes thousand men to carry it.
+- **F856** — Extraordinary loom.
+- **F856.1** — Loom made of woman's breasts with vagina as shuttle.
+- **F857** — Extraordinary broom (besom).
+- **F857.1** — Golden besom (broom).
+- **F858** — Golden plow.
+- **F861** — Extraordinary wagon (cart, carriage, etc.)  Icelandic: Boberg.
+- **F861.1** — Golden wagon (chariot).
+- **F861.1.1** — Golden wagon drawn by moles.
+- **F861.1.2** — Golden wagon drawn by four golden elephants.
+- **F861.2** — Winged chariot.
+- **F861.2.1** — Flying carts.
+  *Have winged framework.*
+- **F861.2.2** — Scythed chariot.
+- **F861.3** — Wagon of jewels.
+- **F861.3.1** — Cart of lapis lazuli and gold with golden wheels.
+- **F861.4** — Carriage from extraordinary material.
+- **F861.4.1** — Carriage made from turnip.
+- **F861.4.2** — Wagon made from nutshell, drawn by duck.
+- **F861.4.3** — Carriage from pumpkin.
+- **F861.4.4** — Chariots of fire.
+- **F862** — Extraordinary horseshoe.
+- **F862.1** — Golden horseshoe.
+- **F863** — Extraordinary chain.
+- **F863.1** — Unbreakable chain.
+- **F863.2** — Chains of fire.
+- **F864** — Extraordinary fetter.
+- **F864.1** — Fetter for Fenris wolf.
+  *Made of sound caused by the footfall of cats, beards of women, roots of mountains, sinews of bears, breath of fish, and spittle of birds.*
+- **F864.2** — Fetter for Loki.
+- **F865** — Extraordinary pavement.
+- **F865.1** — Pavement of pearl.
+- **F866** — Extraordinary cup.
+- **F866.1** — Cup of three hundred colors.
+- **F866.2** — Gigantic cup.
+- **F866.2.1** — Gigantic drinking horn.
+- **F866.3** — Golden cup.
+- **F866.3.1** — Golden drinking horn.
+- **F866.4** — Cup made of skulls.
+- **F866.5** — Cup of Gam's egg shell.
+- **F866.6** — Extraordinarily costly drinking horn.
+- **F866.7** — Extraordinary container used for fluids.
+- **F866.7.1** — Hood holds wine as drinking horn.
+- **F866.7.2** — Saint able to carry fluid (water, wine, or oil) in broken container, bottomless jar, etc.
+- **F866.7.2.1** — Boy Jesus carries water in his cloak when water bottle is broken.
+- **F867** — Extraordinary reel.
+- **F867.1** — Golden reel.
+- **F868** — Extraordinary saddle.
+- **F868.1** — Golden saddle.
+- **F871** — Sampo.
+  *One side flour mill; one, salt mill; one, mill for coining money.*
+- **F872** — Extraordinary bath.
+- **F872.1** — Bath of milk.
+- **F872.2** — Bath of boiling oil.
+- **F872.3** — Bath of blood.
+- **F872.3.1** — Bath of blood of dragons, lions, adders, etc.
+- **F872.4** — Bath of marrow.
+- **F872.5** — Bath of molten lead (iron).
+- **F872.5.1** — Bath of fire.
+- **F872.6** — Bath which makes one insensible for three days.
+- **F872.7** — Bath of balsam.
+- **F873** — Extraordinary army.
+- **F873.0.1** — Battle rage.
+  *Makes army unconquerable.*
+- **F873.1** — Troops of black, white, and red soldiers.
+  *One-third of an army of each.*
+- **F873.2** — Enormous army camp.
+- **F874** — Horse's head for extraordinary use.
+- **F874.1** — Horse's head nailed over gate (door).
+- **F874.2** — Horse's forehead as golden chair.
+- **F874.2.1** — Horse's skull used as pillow.
+- **F875** — Iron bands around heart to keep it from breaking.
+  *When master is disenchanted, bands around heart of faithful servant snap one by one.*
+- **F876** — Golden spinning-wheel.
+- **F877** — Extraordinary threads.
+- **F877.1** — Gold (silver, copper) thread.
+- **F878** — Egg used as shinny ball.
+- **F881** — Extraordinary vessel.
+- **F881.1** — Extraordinarily large vessel.
+- **F881.1.1** — Gigantic cauldron.
+- **F881.1.2** — Gigantic ladle.
+- **F881.2** — Vessel of human bones.
+- **F882** — Extraordinary fire.
+- **F882.1** — Extraordinary funeral pyre.
+- **F882.2** — Multicolored fires.
+- **F883** — Extraordinary writings (book, letter).
+- **F883.1** — Extraordinary book.
+- **F883.1.1** — Book of glass.
+- **F883.1.2** — Book written with black fire on white fire (in God's lap).
+- **F883.1.3** — Words of Decalogue legible on both sides.
+- **F883.1.4** — Books unscathed by water and fire.
+- **F883.1.5** — Book made of sapphires.
+- **F883.1.6** — Heavenly books.
+- **F883.2** — Extraordinary letter (written on human skin).
+- **F883.2.1** — Letter shot into sky.
+- **F885** — Extraordinary field.
+- **F886** — Extraordinary key.
+- **F886.1** — Golden key.
+- **F887** — Extraordinary implements.
+- **F887.1** — Extraordinary plow (made of snakes and drawn by tigers).
+- **F891** — Extraordinary still (with the beads of crocodiles, owls, and parrots as pots).
+- **F891.1** — Woman's body used as still.
+- **F893** — Extraordinary hearth.
+- **F894** — Extraordinary seat, covered with skins of lice.
+- **F895** — Golden swing.
+- **F896** — Extraordinary threshing-floor.
+- **F899** — Other extraordinary objects.
+- **F899.1** — Extraordinary standard.
+- **F899.2** — Extraordinary game-board.
+- **F899.2.1** — Golden game-board.
+- **F899.3** — Enormous cage.
+
+## Extraordinary occurrences
+
+- **F900** — Extraordinary occurrences.
+- **F900.1** — Miracles at certain times.
+- **F900.1.1** — Wonders occur on Hallowe'en.
+- **F900.1.2** — Miracles on first night of Passover.
+- **F900.2** — All miracles created by God at creation.
+- **F900.3** — Miracles cease.
+- **F900.3.1** — Miracles in the desert come to an end with death of Miriam, Aaron and Moses.
+- **F901** — Repeated death.
+- **F901.1** — Extraordinary threefold death: falling from rock and tree, drowning.
+- **F901.1.1** — Extraordinary threefold death: wounding, burning, drowning.
+- **F901.2** — Extraordinary twofold death: burning, drowning.
+- **F910** — Extraordinary swallowings.
+- **F911** — Person (animal) swallowed without killing.
+- **F911.1** — Men swallow men.
+- **F911.1.1** — God swallows his wife and incorporates her into his own being.
+- **F911.2** — Animals swallow animals.
+- **F911.2.1** — Raven dwells inside a whale.
+- **F911.3** — Animal swallows man (not fatally).
+- **F911.3.1** — Thumbling swallowed by animals.
+- **F911.3.2** — Winged serpent as boat: passengers within.
+- **F911.3.3** — Animal with men in its belly playing cards, etc.
+- **F911.3.4** — Frog eats a rat, a baker, a man, and a horse.
+- **F911.4** — Jonah.
+  *Fish (or water monster) swallows a man.*
+- **F911.4.1** — Fish swallows ship.
+- **F911.4.1.1** — Party in canoe swallowed by great clam.
+- **F911.4.1.2** — Serpent swallows canoe and occupant.
+- **F911.5** — Giant swallows man.
+- **F911.5.1** — Man builds boat and sails about in giant's belly.
+- **F911.6** — All-swallowing monster.
+  *Has whole towns of people and buildings, etc. inside.*
+- **F911.6.1** — Toad (as man) swallows all women's earthenware.
+- **F911.7** — Serpent swallows man.
+- **F912** — Victim kills swallower from within.
+- **F912.1** — Victim kills swallower from within by burning.
+- **F912.2** — Victim kills swallower from within by cutting.
+- **F912.3** — Swallowed person eats on swallower's liver (heart) until disgorged.
+- **F912.3.1** — Swallowed person tickles serpent's throat and is disgorged.
+- **F913** — Victims rescued from swallower's belly.
+- **F913.1** — Smith swallowed by water-monster and rescued by saint.
+- **F913.2** — Deity lights a great fire, and all the children ogress has devoured come out of it.
+- **F914** — Person swallowed and disgorged.
+- **F914.1** — Princess stands in middle of dried-up tank so serpent will release the water, which he had swallowed up completely.
+- **F914.2** — Buffalo sucks hero with water it is drinking and throws him up again in game of hide-and-seek.
+- **F914.3** — Tigress swallows abandoned baby again and again, but it comes out from behind.
+- **F915** — Victim speaks from swallower's body.
+- **F915.1** — Victim pecks on swallower's stomach.
+- **F916** — One animal jumps through body of another.
+- **F916.1** — Monkey jumps through body of tiger.
+- **F916.2** — Whelp leaps through body of hound.
+- **F917** — Monster swallows people through anus.
+- **F921** — Swallowed person becomes bald.
+- **F921.1** — Swallowed person becomes boneless.
+- **F922** — Swallowed person bereft of clothing.
+- **F923** — Tent-house folded and swallowed as means of carrying it.
+- **F929** — Extraordinary swallowings miscellaneous.
+- **F929.1** — Elephant allows jackal to quench his thirst by entering through his mouth to his stomach.
+- **F929.2** — Man swallows reptiles.
+- **F929.2.1** — Person unwittingly swallows snake, which kills him.
+- **F930** — Extraordinary occurrences concerning seas or waters.
+- **F930.1** — Book dropped in water by saint not wet.
+- **F930.1.0.1** — Dashing sea does not touch saint's cowl.
+- **F930.1.0.2** — Robe sent to saint on stream not wet.
+- **F930.2** — Waters rise to drown wrongdoer.
+- **F930.3** — Water sinks to bottom, mud rises to surface to keep prophet from drowning.
+- **F930.4** — Waters transformed to blood for Egyptians but not for Hebrews.
+- **F930.5** — Water stops flowing when no longer needed.
+- **F930.6** — Water chants song.
+- **F930.7** — Waters dissolve mill-stones.
+- **F930.8** — Chewed nut spread on waters clarifies them.
+- **F931** — Extraordinary occurrence connected with sea.
+- **F931.1** — Sea rises and changes place.
+- **F931.1.1** — Sea rises at saint's command.
+- **F931.2** — Fish disappear from sea.
+  *Punishment for woman's having washed a child with a fish.*
+- **F931.3** — Sea does not encroach on burial place of saint.
+- **F931.3.1** — Sea behaves like solid earth when man is buried in it.
+- **F931.4** — Extraordinary behavior of waves.
+- **F931.4.1** — Waves reverberate at preparation for battle.
+- **F931.4.2** — Waves moan (shriek) during battle.
+- **F931.5** — Extraordinary shipwreck in calm weather.
+- **F931.6** — Fishing under sea.
+- **F931.7** — Sea changes color.
+- **F931.8** — Sea fettered.
+- **F931.9** — Passing through sea unscathed.
+- **F931.9.1** — Waters of sea arch over people like a vault.
+- **F931.9.2** — Sea yields people whatever they desire.
+- **F931.9.2.1** — Sea flows sweet water.
+- **F931.9.2.2** — Sea bears fruits.
+- **F931.9.3** — Paths open up in sea for each tribe (one for each of Israel's tribes).
+- **F931.10** — Sea piles up to height of sixteen hundred miles.
+- **F931.11** — Speaking sea.
+- **F931.12** — Seas sing hymns of praise.
+- **F932** — Extraordinary occurrences connected with rivers.
+- **F932.1** — River pursues fugitive.
+- **F932.2** — River arches over saint's body like a vault.
+- **F932.3** — Stream becomes hot in which saint performs his ascetic devotions.
+- **F932.4** — Well of oil runs into river.
+  *Miracle.*
+- **F932.5** — River acts as messenger.
+- **F932.5.1** — River carries object to saint.
+- **F932.6** — River ceases to flow.
+- **F932.6.1** — River dries up for a day.
+- **F932.6.2** — River dries up its waters out of sympathy.
+- **F932.6.3** — In dead of night waters of stream cease flowing and stand perfectly still.
+- **F932.7** — River boils.
+- **F932.7.1** — River boils when ashes of hearts are cast into it.
+- **F932.8** — River rises and overflows.
+- **F932.8.1** — River rises to prevent body's being carried over it against dying man's wish.
+- **F932.8.2** — River rises to prevent advance of army.
+- **F932.8.2.1** — River rises to prevent meeting of hostile armies.
+- **F932.8.3** — River rises to prevent escape of thieves.
+- **F932.8.4** — Treacherous river overflows and drowns victims.
+- **F932.8.5** — Shallow river rushes up to drown man.
+- **F932.8.6** — River piles up to a height of three hundred miles.
+- **F932.9** — Ford across impassable river created by saint.
+- **F932.10** — River divides into two parts after rape in its bed.
+- **F932.11** — Firelike waters of river used by strange beings to cook flesh.
+- **F932.12** — Speaking river (brook).
+- **F933** — Extraordinary occurrences connected with springs.
+- **F933.1** — Miraculous spring bursts forth for holy person.
+- **F933.1.1** — Spring bursts forth where saint spills water from his bell.
+- **F933.1.2** — Magic spring flows from roots of tree at command of Jesus.
+- **F933.1.3** — Well rises so holy person does not have to draw from it.
+- **F933.1.3.1** — Well rises so maiden can draw without exerting herself.
+- **F933.1.3.2** — Well rises for pious man's sheep.
+- **F933.2** — Dry spring restored by removal of certain stone.
+- **F933.3** — At certain time sheep thrown into well become crimson.
+- **F933.4** — Severed head of impious man in well causes water to become bitter during part of each day.
+- **F933.5** — Rushes uprooted reveal spring.
+- **F933.6** — Spring miraculously breaks forth against wrongdoer.
+- **F933.6.1** — Desecrated well overflows.
+- **F933.7** — Well floods when gazed upon until mass is said over it.
+- **F933.8** — Bones of bird constantly thrown up from well.
+- **F934** — Extraordinary occurrences connected with lakes.
+- **F934.1** — Gravel rises from bottom as hero enters lake.
+- **F934.2** — Lake rises from bramble bush.
+- **F934.3** — Lake petrifies wood.
+- **F934.4** — Lake disappears.
+- **F934.5** — When dead man's body is thrown into lake, water turns pitch black and all living creatures therein die.
+- **F935** — Extraordinary occurrences connected with pond (pool, tank).
+- **F935.1** — Huge tank has no water in spite of plentiful rains.
+- **F935.2** — Ice forms while fish leaps from pool.
+- **F940** — Extraordinary underground (underwater) disappearance.
+- **F941** — Building sinks into earth.
+- **F941.1** — Castle sinks into earth.
+- **F941.2** — Church sinks underground.
+- **F941.2.1** — Church sinks: song heard from underground.
+- **F941.2.2** — Church and congregation sink to bottom of sea.
+- **F941.2.3** — Temple swallowed by earth.
+- **F941.3** — Tower sinks into earth.
+- **F941.3.1** — Unfinished Tower of Babel sinks into earth.
+- **F942** — Man sinks into earth.
+- **F942.1** — Ground opens and swallows up person.
+- **F942.1.1** — Ground opens to hide fugitive.
+- **F942.2** — Ground cut from under adversary.
+- **F942.2.1** — Adversary pushed into ground.
+- **F942.3** — Earth opens at man's command.
+- **F942.3.1** — Earth opens at woman's bidding to enclose her.
+- **F943** — Sinking into mud in duel.
+- **F943.1** — Man sinks into stone.
+- **F944** — City sinks in the sea.
+- **F944.1** — City sinks in sea or lake as punishment.
+- **F944.2** — Ancient homeland sinks beneath the waves.
+- **F944.3** — Island sinks into sea.
+- **F944.4** — Earth splits and plain sinks to become bottom of lake when tabu is broken.
+- **F945** — Person gradually submerged by sea.
+- **F947** — Ground opens and swallows forest.
+- **F948** — Object sinks into earth.
+- **F948.1** — Ground opens and swallows heathen idols.
+- **F948.1.1** — Earth swallows up Temple vessels.
+- **F948.2** — Ground opens and swallows other object.
+- **F948.3** — Magic object sinks into earth.
+- **F948.4** — Extraordinary sword sinks into earth after use.
+- **F948.5** — City is buried under sand.
+- **F949** — Extraordinary underground (underwater) disappearance miscellaneous.
+- **F949.1** — Animal sinks into earth.
+- **F949.1.1** — Ground opens and swallows demoniac wasps.
+- **F949.2** — Man falls underground through hole.
+- **F950** — Marvelous cures.
+- **F950.1** — Sickness cured by napkin of Veronica.
+- **F950.2** — Extreme anger as cure for sickness.
+- **F950.2.1** — Wife cures self of catarrh by calling to husband fondling maid at bedside.
+- **F950.3** — Measuring sick as means of cure.
+- **F950.4** — Sickness (madness) cured by coition.
+- **F950.5** — Extreme fear as cure for sickness.
+- **F950.6** — Sucking through tubes heals wounds.
+- **F950.7** — Marvelous cure without seeing person.
+- **F950.8** — Princess cured by seeing her lost lover dance.
+- **F950.9** — Healing by sprinkling water and replacing flesh.
+- **F952** — Blindness miraculously cured.
+- **F952.0.1** — Sight miraculously restored while poet writes hymn (poem).
+- **F952.0.2** — Blinded prince forces goddess to give him back his sight.
+- **F952.1** — Blindness cured by tears.
+- **F952.2** — Blindness healed by sun's rays.
+- **F952.3** — Blindness cured by rubbing sand on eyes.
+- **F952.3.1** — Blindness cured by striking eyes.
+- **F952.3.1.1** — Blindness cured by striking eyes with shell.
+- **F952.3.2** — Blindness cured by rubbing eyes with flower.
+- **F952.4** — Blindness cured by striking head violently on tree.
+- **F952.5** — Blindness cured by application of chicken dung.
+- **F952.6** — Blindness cured by drop of water from side of crucified Saviour.
+- **F952.7** — Eyes restored by bathing in lake (spring).
+- **F953** — Cripple marvelously cured.
+- **F953.1** — Hunchback cured by having hump severely beaten.
+- **F954** — Dumb person brought to speak.
+- **F954.1** — Thread under dumb man's tongue cut.
+  *This permits him to speak.*
+- **F954.2** — Dumbness cured by question.
+- **F954.2.1** — Dumb princess is brought to speech by tale ending with a question to be solved.
+- **F954.2.2** — Dumbness cured by saint's question.
+- **F954.3** — Fainting brings recovery of speech.
+- **F954.4** — Chilli plant so hot it causes dumb man to speak: thus discovered for eating.
+- **F954.4.1** — Flea (magic) enters princess' throat and helps hero make her speak.
+- **F954.5** — Person made to speak by warning of danger.
+- **F955** — Miraculous cure for leprosy.
+  *Rage at hearing for first time of Christ's passion causes cure.*
+- **F955.1** — Blood-bath as cure for leprosy.
+- **F956** — Extraordinary diagnosis.
+- **F956.1** — Detailed diagnosis by feeling pulse.
+- **F956.2** — Illegitimacy of child discovered by urinalysis.
+- **F956.3** — Diagnosis based on smoke rising from house of sick.
+- **F956.4** — Physician, by examining wound can tell whether it was inflicted by a man or a woman and describe him or her in detail.
+- **F957** — Cure by physician's imitating sick man's actions.
+- **F958** — Mountebank undertakes to bring the city's incurables back to health.
+  *Effects marvelous cures.*
+- **F959** — Marvelous cures miscellaneous.
+- **F959.1** — Madness miraculously cured.
+- **F959.1.1** — Senses regained when person speaks his name.
+- **F959.2** — Cross-eyes straighted when hero sets head of slain opponent upon his own.
+- **F959.2.1** — Deformity cured by waves of sea.
+- **F959.3** — Miraculous cure of wound.
+- **F959.3.1** — Dreadful wound healed.
+- **F959.3.2** — Gaping wound closed with slab of wood.
+- **F959.3.3** — Wounds healed by bath of marrow.
+- **F959.3.4** — Weapon (missile) miraculously removed.
+- **F959.3.4.1** — Saint's palm over wound causes spearhead to come forth.
+- **F959.3.5** — Fat of crow as remedy for king's wounds.
+- **F959.4** — Paunch opened and fat taken out to cure stomach.
+- **F959.5** — Cure for deadly snake bite.
+- **F959.6** — Marvelous cure for poison.
+- **F959.6.1** — Enemy cured by poisoned cake he has sent to holy man in order to destroy him.
+- **F959.6.2** — Immunity to poison by eating poisons.
+  *(Mithridates.)*
+- **F960** — Extraordinary nature phenomena elements and weather.
+- **F960.1** — Extraordinary nature phenomena at birth of holy person (hero).
+- **F960.1.1** — Extraordinary nature phenomena at birth of royalty.
+- **F960.1.1.1** — Thunder report at birth of king.
+- **F960.1.1.2** — Shower of gold and silver rains upon king's ship at birth of his children.
+- **F960.1.1.3** — Storm signs betray newly born child's chiefly rank.
+- **F960.1.2** — Extraordinary nature phenomena at birth of hero.
+- **F960.1.2.1** — Extraordinary precipitation at birth of hero.
+- **F960.1.2.1.1** — Shower of lotuses at birth of hero.
+- **F960.1.3** — Exhibition of lights at saint's birth.
+- **F960.1.4** — Bells ring without human hands when a saint is born.
+- **F960.1.5** — Extraordinary nature phenomena at rebirth: nine worlds tremble.
+- **F960.1.6** — When girl (princess) is born, earth is filled with light.
+- **F960.2** — Extraordinary nature phenomena at death of holy person (hero).
+- **F960.2.1** — Nature fruitless after death of hero.
+- **F960.2.2** — Rainbow stretches from monastery to heaven at saint's death.
+- **F960.2.3** — Rock bursts into flames at hero's death.
+- **F960.2.4** — Great light appears on night of holy man's death.
+- **F960.2.5** — Earthquake at death of important person.
+- **F960.2.5.1** — Earthquake when good man is murdered.
+- **F960.2.5.2** — Earthquake at witch's death.
+- **F960.2.5.3** — Earthquake at dragon's death.
+- **F960.2.6** — Winter's day changes to summer's day at saint's funeral.
+- **F960.2.6.1** — Sun shines but two hours the day of hero's funeral.
+- **F960.3** — Extraordinary nature phenomena during furious battle.
+- **F960.3.1** — Nature's lament at the Temple's destruction.
+- **F960.4** — Extraordinary nature phenomena at anger of saint.
+- **F960.5** — Extraordinary nature phenomena at prisoner's miraculous release.
+- **F960.6** — Extraordinary nature phenomena on night of fratricide.
+- **F960.7** — Extraordinary nature phenomena at cruel treatment of innocent person.
+- **F960.8** — Extraordinary nature phenomena at moving of saint's remains.
+- **F960.9** — Earthquake announces victorious return of hero after long absence.
+- **F960.10** — Extraordinary natural phenomena at giving of Tora at Mount Sinai.
+- **F961** — Extraordinary behavior of heavenly bodies.
+- **F961.0.1** — Several suns or moons appearing in sky simultaneously.
+- **F961.0.2** — Eclipse of sun and moon in God's proximity.
+- **F961.0.3** — Heavenly bodies lament.
+- **F961.0.3.1** — Sun, moon, and stars do not shine seven days, mourning Adam's death.
+- **F961.0.4** — God's praise chanted by the heavenly bodies.
+- **F961.0.5** — Heavenly bodies bear witness for and against man.
+- **F961.0.6** — Heavens bleed.
+- **F961.1** — Extraordinary behavior of sun.
+- **F961.1.1** — Sun refuses to shine when murder is done.
+- **F961.1.2** — Sun travels from west to east.
+- **F961.1.2.1** — Sun returns to sunrise to help sick man.
+- **F961.1.3** — Several suns in sky.
+- **F961.1.3.1** — Two suns shine in sky.
+- **F961.1.3.2** — Three suns shine in sky.
+- **F961.1.4** — Sun warns man of approaching assassin.
+- **F961.1.5** — Sun shines during night.
+- **F961.1.5.1** — Sun shines for twelve days and nights after death of holy person.
+- **F961.1.5.2** — Sun reappears after being set.
+- **F961.1.5.3** — Sun does not set.
+- **F961.1.5.3.1** — Sunset delayed many hours.
+- **F961.1.6** — Sun does not shine on island of druidry.
+- **F961.1.7** — Sun turned from one hour to another through the prayer of saint (Moses).
+- **F961.1.8** — Sun appears color of blood.
+- **F961.1.9** — Eclipse of sun at important historical events.
+- **F961.1.10** — Sun sets early to hide fugitive.
+- **F961.2** — Extraordinary behavior of stars.
+- **F961.2.1** — Bright star indicates birth of holy person.
+- **F961.2.2** — Hairy star.
+- **F961.2.3** — Star shines in day.
+- **F961.2.4** — Stars and planets speak.
+- **F961.2.5** — Speaking star.
+- **F961.2.5.1** — Constellations bewail man's death.
+- **F961.2.6** — Fighting stars melt iron chariots.
+- **F961.2.7** — Star swallows four other stars.
+- **F961.2.8** — Star moves from west to east.
+- **F961.2.9** — Stars drop on grave during conjuration.
+- **F961.3** — Extraordinary behavior of moon.
+- **F961.3.1** — Moon turns to blood.
+- **F961.3.2** — Many moons at the same time.
+- **F961.3.3** — Moon warns sleeping man of approaching assassin.
+- **F962** — Extraordinary precipitation (rain, snow, etc.)  Irish: *Cross, O'Suilleabhain 18, 110, Beal XXI 306, 334.
+- **F962.0.1** — Gifts are obtained or fall from heaven: flowers (roses), crown of gold, blossoms or thorns, bells, gems, books, sword, etc.
+- **F962.0.2** — Storm overturns idol.
+- **F962.1** — Electric storm breaks island into three parts.
+- **F962.2** — Fire from heaven.
+- **F962.2.1** — Sacrifice consumed by heavenly fire.
+- **F962.2.2** — Pillar of fire reaches from heaven to earth.
+- **F962.2.3** — Fire from heaven cannot be quenched by water.
+- **F962.2.4** — Fire from heaven burns and freezes.
+- **F962.2.5** — Extraordinary hot rain.
+- **F962.3** — Star drops from heaven: is money.
+- **F962.4** — Shower of blood.
+- **F962.4.1** — Shower of blood for three days and three nights.
+- **F962.4.2** — Dew of blood from fingers of repentant woman.
+- **F962.5** — Extraordinary hailstones.
+- **F962.5.1** — Storm of gigantic hailstones.
+- **F962.5.1.1** — Hailstones, each as large as a crabapple.
+- **F962.5.2** — Rain of fiery hailstones.
+- **F962.5.3** — Triangular hailstones.
+- **F962.6** — Shower of food.
+- **F962.6.1** — Shower of wheat.
+- **F962.6.2** — Shower of manna.
+- **F962.6.3** — Shower of honey.
+- **F962.6.4** — Shower of oil.
+- **F962.7** — Extraordinary dew.
+- **F962.7.1** — Sweet dew.
+- **F962.8** — Other extraordinary showers.
+- **F962.8.1** — Shower of silver (money).
+- **F962.8.2** — Rain of jewels.
+- **F962.9** — Icicles gathered by saint as firewood burn.
+- **F962.10** — Extraordinary mist (darkness).
+- **F962.10.1** — Mist settles over lake after fight with serpent.
+- **F962.11** — Extraordinary snow.
+- **F962.11.1** — Snow has taste of wine.
+- **F962.12** — Holy object falls from heaven.
+- **F962.12.1** — Crozier falls from heaven for saint.
+- **F962.12.2** — Altar cloths descend from heaven.
+- **F962.12.3** — Marvelous picture falls from sky in storm.
+- **F962.12.4** — Written scroll (letter) received from heaven.
+- **F962.12.5** — Mysterious leaf falls on church altar.
+- **F962.13** — Raindrops as large as man's hand.
+- **F963** — Extraordinary behavior of wind.
+- **F963.1** — Wind serves Solomon as horse and carries him everywhere.
+- **F963.2** — Extraordinary wind blows arrows shot against Christians back against enemy.
+- **F963.3** — Extraordinary wind bursts open locked doors of church to show that dead pope is worthy of burial there.
+- **F963.4** — Wind carries ogre to his castle.
+- **F964** — Extraordinary behavior of fire.
+- **F964.0.1** — Pillar of fire (in sky).
+- **F964.1** — Fire bends bough to shape of crozier.
+- **F964.2** — Fire spares saint's tunic, though wearer is burned.
+- **F964.3** — Fire from extraordinary fuel.
+- **F964.3.1** — Extraordinary lamps burn with urine.
+- **F964.3.2** — Extraordinary blood catches fire.
+- **F964.3.3** — Extraordinary corpse burns of its own accord.
+- **F964.3.4** — Extraordinary stone catches fire.
+- **F964.4** — Blazing stick continues to burn even in water.
+- **F964.5** — Indra's tank blazes like gold.
+- **F965** — Premature darkness.
+- **F965.1** — Darkness comes in daytime in order to save life of maiden about to be executed.
+- **F965.1.1** — Premature darkness at time of execution of innocent people.
+- **F965.2** — Sun darkened at death of holy person.
+- **F965.2.1** — Sun does not rise at death of hero.
+- **F965.3** — Impenetrable darkness.
+- **F965.4** — Extraordinary darkness not dispelled by artificial means.
+- **F966** — Voices from heaven (or from the air).
+- **F967** — Extraordinary behavior of clouds.
+- **F967.1** — Clouds protect fugitives.
+- **F967.2** — Clouds with fragrance from paradise.
+- **F967.3** — Conversation between clouds.
+- **F967.4** — Thin cloud in form of rainbow.
+- **F968** — Extraordinary thunder and lightning.
+- **F968.1** — Electric storm kills a thousand.
+- **F969** — Extraordinary nature phenomena miscellaneous.
+- **F969.1** — Skies open, revealing heavenly company.
+- **F969.2** — Earth rises.
+- **F969.3** — Marvelous light.
+- **F969.3.1** — Marvelous light reveals man hiding from saint.
+- **F969.3.2** — Hero's light: appears around head of hero aroused to extraordinary feats of valor.
+- **F969.4** — Extraordinary earthquake.
+- **F969.4.1** — Rumble in earth attends slaying of giant serpent.
+- **F969.4.2** — Fight with monster child causes earth to rock like waves of the sea.
+- **F969.5** — Cultivated places suddenly become desert.
+- **F969.6** — Sandhill grows around lover keeping watch till it covers all but his head.
+- **F969.7** — Famine.
+- **F970** — Extraordinary behavior of trees and plants.
+- **F971** — Miraculous blossoming and bearing of fruit.
+- **F971.1** — Dry rod blossoms.
+- **F971.1.1** — Dry rod blossoms on night of saint's birth.
+- **F971.1.2** — Witch's horse-switch blossoms.
+- **F971.1.3** — Moss grows on staff overnight.
+- **F971.2** — Rose grows from table (stone).
+- **F971.3** — Thorn growing in wound becomes tree.
+- **F971.4** — Fruitless tree bears fruit.
+  *Done at saint's request.*
+- **F971.4.1** — Ash (alder, willow, etc. ) tree bears apples ("fair fruit").
+- **F971.5** — Flowers bloom in winter.
+- **F971.5.1** — Fruit produced out of season at saint's request.
+- **F971.5.2** — Apples at Christmas.
+  *Tree bears apples only at Christmas. Blossoms at midnight and is full of apples by morning.*
+- **F971.5.2.1** — Tree blossoms at midnight on Twelfth Night.
+- **F971.6** — Flowers spring up when saint strikes ground.
+- **F971.7** — Sowing and reaping same day.
+- **F971.8** — Trees put forth leaves on arrival of God in paradise.
+- **F971.9** — Creeper which blossoms once only in a thousand years.
+- **F973** — Plants and trees miraculously unbent.
+- **F973.1** — Trees unbent.
+- **F973.2** — Walking on grass-blades without bending them.
+- **F974** — Grass refuses to grow in certain spot.
+  *Extraordinary event has happened there.*
+- **F974.1** — Grass will not grow where blood of murdered person has been shed.
+- **F975** — Garden becomes wilderness.
+- **F975.1** — Garden becomes wilderness because of owner's wickedness.
+- **F975.2** — After persecuted queen has been driven away from palace, trees do not bear fruits, flowers cease to bloom, and birds do not sing.
+- **F979** — Extraordinary behavior of trees and plants miscellaneous.
+- **F979.1** — Sour fruits made sweet by saint.
+- **F979.2** — Leaves of tree open and close to give saint passage.
+- **F979.3** — Leaves of tree make melody for saints.
+- **F979.4** — Tree seizes person and lifts him up.
+- **F979.5** — Bough miraculously does not burn.
+- **F979.5.1** — Unconsumed burning bush.
+- **F979.6** — Tree grows through handle of saint's bell.
+- **F979.7** — Hollow in tree grows over, giving sanctuary to relics within.
+- **F979.8** — Forest springs up from twig (twigs).
+- **F979.9** — Flowers pressed yield wine.
+- **F979.10** — Flower from otherworld (Land of Promise) miraculously appears to persons (saints).
+- **F979.11** — Trees spring up to commemorate birth of primitive hero (demigod, deity).
+- **F979.12** — Trees spring up from blood spilled on ground.
+- **F979.13** — Convention of trees.
+- **F979.14** — Grub's urine waters tree.
+- **F979.15** — Tree sheds all its leaves out of sympathy.
+- **F979.16** — Magic tree will allow person to take only two of its fruits.
+- **F979.17** — Plants grow without being sown.
+- **F979.18** — Grass grows anew every night.
+- **F979.19** — Extraordinary tree supports pious man and his family.
+- **F979.20** — Tree's branches turn upward when idolators rest beneath it.
+- **F979.21** — Tree which has two singing blossoms.
+- **F979.22** — Tree acts as master of ceremonies while gods drink.
+- **F979.23** — Trees wither when tragic things happen.
+- **F980** — Extraordinary occurrences concerning animals.
+- **F981** — Extraordinary death of animal.
+- **F981.1** — Serpent bursts asunder.
+- **F981.1.1** — Animal bursts from anger.
+- **F981.2** — Bull melts away after evil spirit has issued from him.
+- **F981.3** — Animals killed by trickster's breaking wind.
+- **F981.4** — Fiery bolt from heaven kills devastating animal.
+- **F981.5** — Ashes thrown into stream dissolve animals.
+- **F981.6** — Animal dies of broken heart.
+- **F981.6.1** — Animal's broken heart disgorged.
+- **F981.7** — King of cats killed by glowing mass of iron thrown by saint.
+- **F981.8** — Giant magic boar slain by tearing out entrails from behind.
+- **F982** — Animals carry extraordinary burden.
+- **F982.1** — Eagles carry castle in air.
+- **F982.1.1** — Great flock of birds lift grayhound and garments into air.
+- **F982.2** — Four cats carry coffin.
+- **F982.3** — Hawk carries hand of man to saint displeased by handclasp.
+- **F982.4** — Bird brings flower from foreign land.
+- **F982.5** — Crocodile carries extraordinary burden.
+- **F982.6** — Toad carries seven stone mortars on his head.
+- **F982.7** — Toad carries tree on back.
+- **F982.8** — Crab carries in his ear cat, tiger, bamboos, river.
+- **F983** — Extraordinary growth of animal.
+- **F983.0.1** — Extraordinary quick growth of animal.
+- **F983.1** — Snail grows and fills house entirely.
+- **F983.2** — Louse fattened.
+- **F983.3** — Cat grows as large as a cow in a minute.
+- **F983.4** — Extraordinary growth of ox horns.
+- **F984** — Extraordinary protection for animal.
+- **F984.1** — Horse sewed in buffalo-hides.
+  *As protection against a greater horse, hero's horse is sewed in nine buffalo-hides.*
+- **F985** — Animals change color.
+- **F985.1** — Black sheep turn white.
+- **F986** — Extraordinary occurrences concerning fishing.
+- **F986.1** — Clerics catch fish with regularity.
+- **F986.2** — Salmon caught out of season for saint.
+- **F986.3** — Salmon comes every seventh year to certain place.
+- **F986.4** — Stranded fish do not decay for a year.
+- **F986.5** — Shores flooded with sea-fish.
+- **F987** — Animal controls sex of offspring.
+- **F987.1** — Bird controls sex and appearance of offspring.
+  *Hatches seven eggs three under each wing and one under breast. The right wing hatches three red males, the left three green females. The egg under the breast shares the characteristics of both sex and color but dies.*
+- **F988** — Extraordinary limbs of animals.
+- **F988.1** — Ox's leg acts as person.
+- **F988.2** — Hoofs of horses drop from their feet because of heat.
+- **F988.3** — Apertures of animals' bodies closed up in certain land.
+- **F989** — Extraordinary occurrences concerning animals miscellaneous.
+- **F989.1** — Horse jumps over high wall.
+- **F989.1.1** — Horse's tremendous leap.
+- **F989.2** — Bird's red eye cooks meat.
+  *Looks so intently at it that it heats and cooks.*
+- **F989.3** — Cuckoo-clock.
+  *Bird calls out the hours.*
+- **F989.4** — Man rides on back of fleeing wild boar.
+- **F989.5** — Sheep never harmed by wild beasts.
+- **F989.5.1** — Sheep kill wolves.
+- **F989.6** — One bull, one cow survive plague.
+- **F989.7** — Swine kick trees to cause fruit to fall.
+- **F989.8** — Mother-love induced in animal.
+- **F989.9** — Milk from saint's cows forms lake.
+- **F989.10** — Animals distribute parts of man's body in accordance with prophecy.
+- **F989.11** — Animal as mighty drinker.
+- **F989.11.1** — Cow lowers ocean by drinking.
+- **F989.12** — Sea animal found inland.
+- **F989.13** — Animal dives into lake and disappears.
+- **F989.14** — Birds hover over battlefield.
+- **F989.15** — Hunt for extraordinary (magic) animal.
+- **F989.16** — Extraordinary swarms of birds.
+- **F989.16.1** — Swarms of quails serve as food for Israelites.
+- **F989.16.2** — Swarms of birds darken sun and moon.
+- **F989.17** — Marvelously swift horse.
+- **F989.18** — Boar hung in spider's web.
+- **F989.19** — Cock with enormous silver ears.
+- **F989.20** — Egg becomes crowing cock.
+- **F989.21** — Spider spins web across sky.
+- **F989.22** — Animals eat extraordinary food.
+- **F989.22.1** — Fowls eat gold and silver.
+- **F989.22.2** — Tiger lives on self-cooking food.
+- **F989.22.3** — Pig swallows necklace.
+- **F989.22.4** — Animals live on pearls.
+- **F989.23** — Frog pierces hardest metals and marbles.
+- **F989.24** — Frogs cast themselves into oven-flames and devour bread.
+- **F990** — Inanimate objects act as if living.
+- **F991** — Object bleeds.
+- **F991.1** — Bleeding lance.
+  *Stream of blood flows from it into silver cup.*
+- **F991.1.1** — Bleeding knife.
+- **F991.2** — Bleeding bone.
+  *Man cuts into dry bone that bleeds.*
+- **F991.2.1** — Dry bone smells as sign of forgiveness.
+- **F991.3** — Bleeding cake.
+  *Bleeds when cut.*
+- **F991.3.1** — Bleeding loaf of bread.
+- **F991.4** — Shrine bleeds.
+- **F991.4.1** — Desecrated altar bleeds.
+- **F991.5** — Bleeding rock.
+- **F992** — Plant shrieks when uprooted.
+- **F992.1** — Mandrake shrieks when uprooted.
+- **F993** — Sunken bell sounds.
+- **F993.1** — Sunken bell sounds at certain times.
+- **F994** — Object expresses sorrow.
+- **F994.1** — Books show sorrow for owner's death by falling from shelf.
+- **F994.2** — Chariots, stones, weapons join in keen at hero's death.
+- **F995** — Shield shrieks in battle.
+- **F996** — Waters react to words of poet.
+- **F997** — Sword pierces rock when possessor will break it.
+- **F997.1** — Sword is spoken to as to human being.
+- **F998** — Combat with horse's sex organ.
+
+## F1000
+
+- **F1001** — Extraordinary heads act as living objects.
+- **F1002** — Substituted silver hand used as if it were of flesh and blood.
+- **F1005** — Cooked food grows when planted.
+- **F1005.1** — Cake, planted in the field, grows and after a time bears cakes.
+- **F1006** — Extraordinary activity of mountains.
+- **F1006.1** — Mountain moves so that its rocks enter into caves of other mountain.
+- **F1006.2** — Mountain moves to person.
+- **F1006.3** — Mountain trembles.
+- **F1009** — Inanimate object acts as if living.
+- **F1009.1** — Doorpost of room rises for holy person.
+- **F1009.2** — Gate swallows axes trying to force it open.
+- **F1009.3** — Altar shakes when unworthy man is elected.
+- **F1009.4** — Twelve stones unite to become one.
+- **F1010** — Other extraordinary events.
+- **F1011** — Sunbeam as support.
+- **F1011.1** — Clothes hung on sunbeam.
+- **F1011.1.1** — Gospel-book hung from saint's shoulders without strap.
+- **F1011.2** — Sitting (hanging) on a sunbeam.
+- **F1014** — Dice game that lasts for nine years.
+- **F1015** — Extraordinary occurrences connected with shoes.
+- **F1015.1** — Shoes miraculously worn out.
+- **F1015.1.1** — The danced-out shoes.
+  *Every morning girl's shoes are danced to pieces.*
+- **F1015.1.2** — Woman has worn out carriage-load of shoes with walking.
+- **F1015.2** — Wearing shoes only when crossing river.
+- **F1015.3** — Bill of sale written on man's sandal.
+- **F1016** — Man carries extraordinary luggage.
+- **F1016.1** — Man puts his horse in his sleeve when he does not need it.
+- **F1017** — Man washes clothes blindfolded.
+- **F1021** — Extraordinary flights through air.
+- **F1021.1** — Flight on artificial wings.
+- **F1021.2** — Extraordinary effect of high flight.
+- **F1021.2.1** — Flight so high that sun melts glue of artificial wings.
+- **F1021.2.2** — Flight so high that eyelids drop from cold.
+- **F1021.3** — Man learns to fly.
+- **F1021.4** — Man kicked so hard that he flies through the air and is never seen again.
+- **F1022** — Extraordinary descent into ocean.
+- **F1022.1** — Descent into ocean in glass box.
+- **F1023** — Creation of a person by cooperation of skillful men.
+- **F1025** — Objects go journeying together.
+- **F1025.1** — Bean, straw, and coal go journeying.
+  *Coal burns straw in two and falls into the water. Bean laughs until it splits.*
+- **F1025.2** — Turtle's war-party.
+  *Turtle recruits war-party of strange objects (knife, brush, awl, etc.) and animals. Because of their nature the companions get into trouble.*
+- **F1025.2.1** — Eggplant, needle, and cowdung go on warpath.
+- **F1031** — Ship wrapped with feather-beds and canvass and pitched (so as to save it).
+- **F1032** — Person walks unceasingly for year.
+- **F1032.1** — Person wanders unceasingly for hundred and fifty years.
+- **F1033** — Person lives without food or drink for a year (or more).
+- **F1033.1** — Person lives on water (from holy well) for a year.
+- **F1034** — Person concealed in another's body.
+- **F1034.1** — Husband concealed in wife's ear.
+- **F1034.2** — Magician carries mistress with him in his body.
+  *She in turn has paramour in hers.*
+- **F1034.2.1** — Ascetic carries woman in his hair, but she has two lovers in her cloak and outwits him.
+- **F1034.3** — Person's thigh as hiding place.
+- **F1034.3.1** — Man hides sister in wound in his thigh to protect her.
+- **F1034.3.2** — Bottle concealed in person's thigh.
+- **F1034.3.3** — Garment hidden in hole cut in thigh.
+- **F1034.3.4** — Jewell hidden in wound cut in thigh.
+- **F1034.4** — Person's armpit as hiding place.
+- **F1034.5** — Other parts of person's body as hiding place.
+- **F1034.5.1** — Key to house concealed in man's heart.
+- **F1035** — Disintegration: man eats himself up or dismembers himself.
+- **F1036** — Hand from heaven writes on wall.
+- **F1037** — Object thrown from heaven.
+- **F1037.1** — Footstool thrown from heaven.
+- **F1038** — Person without shadow.
+- **F1038.1** — Man attends devil's school to learn witchcraft, has no shadow afterward.
+- **F1038.2** — Man has witch aid him in reaping contest, the devil to get the hindmost.
+  *The devil tries to take the man but gets shadow instead.*
+- **F1041** — Extraordinary physical reactions of persons.
+- **F1041.0.1** — Neophyte shows no reaction when saint's staff pierces his foot.
+- **F1041.1** — Extraordinary death.
+- **F1041.1.1** — Death from broken heart.
+- **F1041.1.1.1** — Heart breaks at third drink from silver canister.
+- **F1041.1.1.2** — Heart breaks when girl hears lover kiss another.
+- **F1041.1.1.3** — Heart breaks from sorrow.
+- **F1041.1.1.4** — Hearts break when lovers are told beloved is dead.
+- **F1041.1.2** — Death from grief for death of lover or relative.
+- **F1041.1.2.1** — Lover dies beside dying sweetheart.
+- **F1041.1.2.2** — Woman dies on hearing of her husband's death.
+- **F1041.1.2.2.1** — Woman swoons and is near death at hearing of husband's or lover's death.
+- **F1041.1.2.2.2** — First woman in Ireland to die of grief for the death of her husband.
+- **F1041.1.2.2.3** — Death from hearing of wife's death.
+- **F1041.1.2.2.4** — Death from hearing of son's (sons') death.
+- **F1041.1.3** — Death from sorrow or chagrin.
+- **F1041.1.3.1** — Maiden who has been falsely accused apparently dies of sorrow.
+  *She revives on being prepared for burial.*
+- **F1041.1.3.2** — Servant grieves over master's death.
+  *Kills wife and himself.*
+- **F1041.1.3.3** — Woman dies on having secret love exposed.
+- **F1041.1.3.4** — Priest dies from having been duped into deceptive bargain.
+- **F1041.1.3.5** — Man dies on learning of wife's adultery.
+- **F1041.1.3.6** — Heart breaks when girl learns men are slain in battle on her account.
+- **F1041.1.3.7** — Woman dies of broken heart on learning that her former husband is still alive.
+  *She had remarried thinking him dead.*
+- **F1041.1.3.8** — Man dies from grieving over mother's death.
+- **F1041.1.3.9** — Death from excitement at news of Christ's crucifixion.
+- **F1041.1.3.10** — Death from chagrin.
+  *Man cannot answer question.*
+- **F1041.1.3.10.1** — Guilty persons being confronted with their crimes become "insensate like trees.
+- **F1041.1.4** — Death from longing.
+- **F1041.1.5** — Death from excessive joy.
+- **F1041.1.5.1** — Bridegroom dies from joy.
+- **F1041.1.5.2** — Stranger dies from joy on being rewarded by ruler.
+- **F1041.1.5.3** — Mother dies from joy on greeting long-absent son.
+- **F1041.1.5.4** — Death from joy of kiss.
+- **F1041.1.6** — Death from sight of beautiful woman.
+- **F1041.1.6.1** — Fainting away at sight of goddess.
+- **F1041.1.7** — Man dies when he learns storm is magic.
+- **F1041.1.8** — Death on beholding hell.
+- **F1041.1.9** — Death from jealousy.
+- **F1041.1.10** — Death (illness) from envy.
+- **F1041.1.11** — Death from fear.
+- **F1041.1.11.1** — Suicide from fear of starving.
+- **F1041.1.11.2** — Death from fear of demons.
+- **F1041.1.11.3** — Suicide from fright of evil prophecy.
+- **F1041.1.11.4** — Man dies from frog's bite, thinking it snakebite.
+- **F1041.1.12** — Death from horror.
+- **F1041.1.13** — Death from shame.
+- **F1041.1.13.1** — Girl dies of shame at being seen naked.
+- **F1041.1.13.2** — Woman dies of shame at seeing naked man (husband).
+- **F1041.2** — Horripilation.
+  *Hair rises on end in extraordinary fashion from joy, anger, or love.*
+- **F1041.3** — Person goes blind from overweeping.
+- **F1041.4** — Person melts away from heat.
+- **F1041.5** — Poison of hydra corrodes the skin.
+- **F1041.6** — Buttons burst as consequence of violent emotion.
+- **F1041.6.1** — Necklace bursts as consequence of violent emotion.
+- **F1041.7** — Hair turns gray from terror.
+- **F1041.8** — Extraordinary madness.
+- **F1041.8.1** — Madness from seeing beautiful woman.
+- **F1041.8.1.1** — Madness from sight of magically beautiful man.
+- **F1041.8.2** — Madness from grief.
+- **F1041.8.3** — Madness from seeing ugly ogre.
+- **F1041.8.4** — Madness from thirst.
+- **F1041.8.5** — Madness from overeating.
+- **F1041.8.6** — Men go mad in battle.
+- **F1041.8.7** — Mad warriors fly up into clouds.
+- **F1041.8.8** — Madness from hearing prophetic voice from air.
+- **F1041.8.9** — Madness from regret that knight has forsaken his wife.
+- **F1041.8.10** — Madness (rage) from hearing about brother's death.
+- **F1041.8.11** — Madness from loss of fortune.
+- **F1041.9** — Extraordinary illness.
+- **F1041.9.1** — Going to bed for sorrow.
+- **F1041.9.1.1** — Man keeps to his bed, mourning over drowned son.
+- **F1041.9.1.2** — King keeps to his bed, mourning over vanished bride.
+- **F1041.9.1.3** — Woman keeps to her bed on announcement of lover's death.
+- **F1041.9.2** — Illness from keeping a secret.
+- **F1041.9.2.1** — Huge boil appears on forehead of youth keeping a secret.
+- **F1041.9.3** — Illness from shame of enemies' scorn.
+- **F1041.10** — Man sweats blood and absorbs hair into head on exertion of strength.
+- **F1041.11** — Laughing and crying at the same time (sundry reasons given).
+- **F1041.11.1** — Laughter from chagrin.
+- **F1041.11.2** — Man turns pale, red, blue, etc. from emotion or strain.
+- **F1041.12** — Man perspires in winter while relating fearful vision.
+- **F1041.13** — Biting fingers to see if one is dreaming.
+- **F1041.14** — Beheaded man swims.
+- **F1041.15** — Inordinate longing.
+- **F1041.16** — Extraordinary physical reaction to anger.
+- **F1041.16.1** — Man spits fire when enraged.
+- **F1041.16.2** — One eye recedes, other protrudes when angered.
+- **F1041.16.3** — Man fells wood with sword (dies) when he hears of Crucifixion.
+- **F1041.16.3.1** — Strength from anger enables man to break binding chain.
+- **F1041.16.3.2** — Strength from anger causes man to break stone.
+- **F1041.16.3.3** — Strength from anger enables man to tear opponent to bits.
+- **F1041.16.4** — Heat of saint's anger sets cowl afire.
+- **F1041.16.5** — Extraordinary bodily contortion as result of warrior's anger.
+  *(Cuchulain's battle-rage.)*
+- **F1041.16.6** — Extraordinary physical reactions of angry warriors in battle.
+- **F1041.16.6.1** — Fury in battle causes stream of blood to rise from warrior's head.
+- **F1041.16.6.2** — Fury in battle causes warrior to increase in size.
+- **F1041.16.6.3** — Fiery columns rise in front of angry warrior.
+- **F1041.16.6.4** — Face of angry warrior lights up with flame.
+- **F1041.16.6.5** — Angry warrior becomes red and purple.
+- **F1041.16.6.6** — Water boils when angry warrior is immersed in it.
+- **F1041.16.6.7** — Fury enables wounded soldiers to continue fighting.
+  *Die at end of battle.*
+- **F1041.16.6.8** — Angry warrior's breath makes adversary's armour so hot that he must surrender.
+- **F1041.16.6.9** — Bowstring (arrow, oar) breaks at angry warrior's grasp.
+- **F1041.16.7** — King about to kill foster-son due to his evil explanation of dream; both jump into sea and are drowned.
+- **F1041.16.8** — Face and body turn black from anger.
+- **F1041.16.9** — Chief beheads sentinel who does not recognize him.
+- **F1041.16.10** — Man throws cereal and spoon on the floor because he is supposed to eat together with his brother.
+- **F1041.16.11** — Earl throws jar of water after undesired messenger.
+- **F1041.17** — Extraordinary result of fear.
+- **F1041.17.1** — Barrenness as result of fright.
+- **F1041.18** — Putrescence flows from head when man presses forehead.
+- **F1041.19** — Dumbness from disgust.
+- **F1041.20** — Person vomits iron.
+- **F1041.21** — Reactions to excessive grief.
+- **F1041.21.1** — Illness from excessive grief.
+- **F1041.21.1.1** — Tears of blood from excessive grief.
+- **F1041.21.2** — Man swells from excessive grief.
+- **F1041.21.3** — Refusal to eat from excessive grief.
+- **F1041.21.3.1** — Refusal to speak because of grief.
+- **F1041.21.4** — Man cries at hearing of friend's death.
+- **F1041.21.5** — Man senseless from grief at hearing of father's death; one doesn't feel that he cuts himself with his knife, the other presses dice so that he bleeds.
+- **F1041.21.6** — Tearing hair and clothes from excessive grief.
+- **F1041.21.6.1** — Wounding self because of excessive grief.
+- **F1041.21.6.2** — Bird in great grief tears out feathers.
+- **F1041.21.7** — Swooning from grief.
+- **F1041.22** — Deaf and dumb people speak.
+- **F1041.23** — Shame causes smoke to rise from saint's head and sweat to stream from his brow.
+- **F1041.24** — Slap turns man's face completely around.
+- **F1044** — Man suddenly acquires long gray beard on scaffold at execution.
+- **F1045** — Night spent in tree.
+  *Hero goes into tree to spend the night.*
+- **F1047** — Anchor floats on water.
+- **F1047.1** — Non-buoyant flasks float.
+- **F1051** — Prodigious weeping.
+  *Usually by saint.*
+- **F1051.1** — Barrel filled miraculously with penitent's tears.
+- **F1051.2** — Miraculously loud noise of mourning for hero.
+- **F1054** — Bones temporarily removed from body by tree climbers to avoid breaking them.
+- **F1055** — Books in church read without man's tongue.
+- **F1057** — Hero (giant) wades across sea.
+- **F1061** — Flame as miraculous index.
+- **F1061.1** — Flame indicates presence of beautiful woman.
+- **F1061.2** — Color of flame indicates what is burning.
+  *Blue for furniture, white for money, red for person.*
+- **F1061.3** — Burning pit will close only if armed rider will plunge into it.
+- **F1061.4** — Flame indicates place where innocent person was murdered.
+- **F1063** — Departing house.
+  *Hero in departing takes his house with him.*
+- **F1065** — Man fishes up two blind women from a well.
+- **F1066** — Arrow shot to heaven returns bloody.
+- **F1066.1** — Knife plunged into earth comes out bloody.
+- **F1068** — Realistic dream.
+- **F1068.1** — Tokens from a dream.
+  *Man brings objects received during dream.*
+- **F1068.2** — Wound received in dream.
+  *Still there when person wakes.*
+- **F1068.2.1** — Man is maltreated in dream so that he feels it next day.
+- **F1068.2.2** — Fight in dream with real result.
+- **F1071** — Prodigious jump.
+  *To fourth story (or the like).*
+- **F1071.1** — Crossing a river with help of a fig tree whose branches touch the opposite bank.
+- **F1071.2** — Jumping over a ditch which is really an ocean.
+- **F1071.2.1** — Man clears river of enormous width in one leap.
+- **F1072** — Two children of different sex, not related, have such close resemblance that even parents cannot tell them apart.
+- **F1073** — Marathon marriage.
+  *Woman who has been widowed twenty-two times marries a man who has been a widower twenty times.*
+- **F1075** — Blood of brother and sister (and smoke from their funeral pyres) refuses to mingle.
+- **F1076** — Tightening belt to counteract hunger: when loosened person falls dead.
+- **F1078** — Detonation from spark struck for fire hurls ships out to sea.
+- **F1081** — Tub of water dropped neither breaks nor spills.
+- **F1082** — Person changes color.
+- **F1082.1** — Person has red and black countenance after being burned.
+- **F1083** — Object rises into the air.
+- **F1083.0.1** — Object floats in air.
+- **F1083.0.1.1** — Altar floats in air.
+- **F1083.0.1.2** — Ark suspended in air.
+- **F1083.0.1.3** — Jerusalem suspended in air.
+- **F1083.1** — Stone cross rises into air.
+- **F1083.2** — Man and his camels rise into air.
+- **F1084** — Furious battle.
+- **F1084.0.1** — Inlay melts from sword with heat of striking.
+- **F1084.0.2** — Weapons confined by flying nets of hair in furious battle.
+- **F1084.0.3** — Continuous fighting.
+  *No rest or food.*
+- **F1084.0.4** — Marks of furious battle left in rock.
+- **F1084.1** — Deep streams of blood flow during battle.
+- **F1084.2** — Warriors use teeth after they exhaust weapons.
+- **F1084.3** — Soldiers fight so closely river is forced from bed.
+- **F1085** — Eye bursts forth from overstrain of voice.
+- **F1086** — Saint preaches for three days and three nights.
+- **F1087** — Hero's marvelous sword falls and cuts off hand of enemy.
+- **F1088** — Extraordinary escapes.
+- **F1088.1** — Hero (heroine) spared for his (her) beauty.
+- **F1088.2** — Hero unharmed by serpent which coils around his waist.
+- **F1088.3** — Extraordinary escape from drowning.
+- **F1088.3.1** — Clerics and property cast safely on shore when enemies attempt their drowning.
+- **F1088.3.2** — Fisherman dragged through sea by seal escapes.
+- **F1088.4** — Animal escapes by slipping out of skin.
+- **F1091** — Food does not spoil saint's clothing.
+- **F1092** — Vessel of poisoned ale inverted; only poison flows out.
+- **F1093** — Stake miraculously bent during night.
+- **F1094** — Milk has taste of wine and honey.
+- **F1095** — Arm grows longer from giving alms.
+- **F1096** — Person lives on after being cut through by sword.
+- **F1096.1** — Person lives on after having heart cut free.
+  *Heart moves about within his chest.*
+- **F1096.2** — Person lives on with intestines exposed.
+- **F1096.3** — Severed head bites earth.
+- **F1097** — Armies miraculously separated (kept from coming to battle, etc. ).
+- **F1097.1** — Angel forbids armies to approach each other.
+- **F1098** — Object miraculously mended.
+- **F1098.0.1** — Object miraculously broken.
+- **F1099** — Additional marvels.
+- **F1099.1** — Entire household dies on same night.
+- **F1099.2** — Roads miraculously appear on Hallowe'en.
+- **F1099.2.1** — Roads miraculously appear on day of hero's birth.
+- **F1099.3** — Words heard though only thought and not uttered.
+- **F1099.4** — Corn takes root in man's hair.
+- **F1099.4.1** — Blades of corn grow through hair of saint as reward for guarding cornkiln.
+- **F1099.5** — Burning bodies vomit.
+- **F1099.6** — Extraordinary plowing.
+- **F1099.6.1** — Extraordinary plowing by teeth.
+- **F1099.7** — Pious die on their birthday.
+- **F1099.8** — Man meets his future descendants and is instructed by them.

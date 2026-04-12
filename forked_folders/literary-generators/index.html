@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Literary Generators</title>
+  <style>
+    :root {
+      --bg: #1a1719;
+      --bg-surface: #242024;
+      --bg-hover: #2a2530;
+      --text: #d4c8cc;
+      --text-muted: #8a8290;
+      --text-faint: #6a6270;
+      --accent: #c4707e;
+      --accent-hover: #d4848f;
+      --border: #3a3440;
+      --badge-bg: #312a35;
+      --badge-text: #c4a0aa;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --bg: #f5eff0; --bg-surface: #ebe3e5; --bg-hover: #e2d8dc;
+        --text: #3a2830; --text-muted: #8a7880; --text-faint: #a89098;
+        --accent: #963a4a; --accent-hover: #b04858; --border: #d4c4c8;
+        --badge-bg: #e8d8dc; --badge-text: #703040;
+      }
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.75; min-height: 100vh; }
+    .container { max-width: 42em; margin: 0 auto; padding: 24px 20px; }
+    header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 1px solid var(--border); }
+    header h1 { font-family: Georgia, "Times New Roman", serif; font-size: 2em; letter-spacing: -0.02em; margin-bottom: 8px; }
+    header p { color: var(--text-muted); font-size: 15px; }
+    header .repo-link { display: inline-block; margin-top: 12px; font-size: 13px; color: var(--accent); text-decoration: none; padding: 4px 12px; border: 1px solid var(--border); border-radius: 6px; transition: background 0.15s, color 0.15s; }
+    header .repo-link:hover { background: var(--bg-hover); color: var(--accent-hover); }
+    .tabs { display: flex; gap: 0; margin-bottom: 24px; border-bottom: 2px solid var(--border); overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    .tabs::-webkit-scrollbar { display: none; }
+    .tab { padding: 10px 20px; font-family: Georgia, "Times New Roman", serif; font-size: 15px; cursor: pointer; border: none; background: none; color: var(--text-muted); border-bottom: 2px solid transparent; margin-bottom: -2px; white-space: nowrap; flex-shrink: 0; transition: color 0.15s, border-color 0.15s; }
+    .tab:hover { color: var(--text); }
+    .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .generator { display: none; }
+    .generator.active { display: block; }
+    .filter-row, .control-row { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+    label.filter-label { font-size: 13px; color: var(--text-muted); }
+    select, button { font-family: inherit; font-size: 13px; padding: 6px 12px; background: var(--bg-surface); color: var(--text); border: 1px solid var(--border); border-radius: 4px; }
+    select { max-width: 260px; }
+    button { cursor: pointer; transition: background 0.15s; }
+    button:hover { background: var(--bg-hover); }
+    button.generate-btn { padding: 6px 20px; background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: 600; }
+    button.generate-btn:hover { background: var(--accent-hover); border-color: var(--accent-hover); }
+    .results { margin-top: 16px; }
+    .result-item { padding: 12px 0; border-bottom: 1px solid var(--border); }
+    .source-badge { display: inline-block; font-size: 10px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 7px; border-radius: 3px; background: var(--badge-bg); color: var(--badge-text); margin-bottom: 6px; }
+    .result-quote { font-family: Georgia, "Times New Roman", serif; font-size: 17px; font-style: italic; line-height: 1.75; white-space: pre-line; }
+    .result-attr { display: flex; align-items: center; justify-content: space-between; margin-top: 6px; }
+    .result-ref { font-size: 12px; color: var(--text-muted); }
+    .expand-area { margin-top: 6px; }
+    .expand-btn { font-size: 11px; padding: 2px 8px; color: var(--text-muted); border: 1px solid var(--border); }
+    .expand-content { display: none; white-space: pre-line; font-family: Georgia, "Times New Roman", serif; font-size: 14px; font-style: italic; line-height: 1.75; margin-top: 8px; padding: 10px 14px; border-left: 3px solid var(--accent); background: var(--bg-surface); border-radius: 0 4px 4px 0; }
+    .expand-content.visible { display: block; }
+    .copy-btn { font-size: 11px; padding: 2px 8px; flex-shrink: 0; }
+    .copy-all-btn { font-size: 11px; padding: 4px 12px; margin-top: 8px; display: none; }
+    .copy-all-btn.visible { display: inline-block; }
+    .quote-hero { margin-bottom: 24px; padding: 16px 20px; border-left: 4px solid var(--accent); background: var(--bg-surface); border-radius: 0 6px 6px 0; }
+    .quote-controls { margin-top: 10px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+    .history-panel { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--border); }
+    .history-panel h2 { font-family: Georgia, "Times New Roman", serif; font-size: 1.2em; margin-bottom: 4px; display: flex; align-items: center; justify-content: space-between; }
+    .history-toggle { font-size: 12px; color: var(--text-muted); cursor: pointer; background: none; border: none; padding: 0; }
+    .history-toggle:hover { color: var(--accent); background: none; }
+    .history-list { margin-top: 10px; }
+    .history-list.collapsed { display: none; }
+    .history-entry { padding: 10px 0; border-bottom: 1px solid var(--border); }
+    .history-meta { font-size: 11px; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 4px; }
+    .history-quote { font-family: Georgia, "Times New Roman", serif; font-size: 14px; font-style: italic; color: var(--text); margin-bottom: 2px; }
+    .history-ref { font-size: 11px; color: var(--text-muted); }
+    .blog-posts { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--border); }
+    .blog-posts h2 { font-family: Georgia, "Times New Roman", serif; font-size: 1.3em; letter-spacing: -0.01em; margin-bottom: 4px; }
+    .blog-intro { font-size: 13px; color: var(--text-muted); margin-bottom: 12px; }
+    .blog-intro a { color: var(--accent); text-decoration: none; }
+    .blog-intro a:hover { text-decoration: underline; }
+    .blog-posts ul { list-style: none; padding: 0; }
+    .blog-posts li { padding: 6px 0; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+    .blog-posts li a { color: var(--text); text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 3px; text-decoration-thickness: 1px; transition: text-decoration-color 0.15s, color 0.15s; font-size: 14px; }
+    .blog-posts li a:hover { color: var(--accent); text-decoration-color: var(--accent); }
+    .post-date { font-size: 12px; color: var(--text-faint); white-space: nowrap; flex-shrink: 0; }
+    .note { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--border); font-size: 13px; color: var(--text-muted); text-align: center; }
+    .note p { margin-bottom: 8px; }
+    .note a { color: var(--accent); text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 3px; text-decoration-thickness: 1px; transition: text-decoration-color 0.15s; }
+    .note a:hover { text-decoration-color: var(--accent); }
+    .error { color: #e0707a; }
+    ::selection { background: rgba(196, 112, 126, 0.2); }
+    @media (prefers-color-scheme: light) { ::selection { background: rgba(150, 58, 74, 0.15); } }
+    @media (prefers-reduced-motion: reduce) { * { transition-duration: 0s !important; } }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Literary Generators</h1>
+      <p>Random inspiration from the King James Bible, Complete Works of Shakespeare, public domain poetry, ancient classics, the Motif-Index of Folk-Literature, and world folk traditions.</p>
+      <a class="repo-link" href="https://github.com/blockbeard/literary-generators">Download for Obsidian</a>
+    </header>
+
+    <div class="quote-hero" id="quote-hero">
+      <div id="quote-results"></div>
+      <div class="quote-controls">
+        <button class="generate-btn" id="quote-reload">New Quote</button>
+        <button class="generate-btn" id="quote-each" style="background:var(--bg-surface);color:var(--text);border-color:var(--border)">One of Each</button>
+        <button class="copy-all-btn" id="quote-copyall">Copy All</button>
+      </div>
+    </div>
+
+    <div class="tabs">
+      <button class="tab active" data-tab="bible">Bible</button>
+      <button class="tab" data-tab="shakespeare">Shakespeare</button>
+      <button class="tab" data-tab="poetry">Poetry</button>
+      <button class="tab" data-tab="classics">Classics</button>
+      <button class="tab" data-tab="motifs">Motif-Index</button>
+      <button class="tab" data-tab="folk">Folk</button>
+    </div>
+
+    <!-- BIBLE -->
+    <div class="generator active" id="gen-bible">
+      <div class="filter-row">
+        <label class="filter-label">Testament:</label>
+        <select id="bible-testament">
+          <option value="any">Any</option>
+          <option value="OT">Old Testament</option>
+          <option value="NT">New Testament</option>
+        </select>
+        <label class="filter-label">Section:</label>
+        <select id="bible-section"></select>
+        <label class="filter-label">Book:</label>
+        <select id="bible-book"></select>
+      </div>
+      <div class="control-row">
+        <label class="filter-label">Verses:</label>
+        <select id="bible-count">
+          <option>1</option><option>3</option><option>5</option><option>10</option>
+        </select>
+        <button class="generate-btn" id="bible-gen">Generate</button>
+      </div>
+      <div class="results" id="bible-results"></div>
+      <button class="copy-all-btn" id="bible-copyall">Copy All</button>
+    </div>
+
+    <!-- SHAKESPEARE -->
+    <div class="generator" id="gen-shakespeare">
+      <div class="filter-row">
+        <label class="filter-label">Type:</label>
+        <select id="shk-type">
+          <option value="any">Any</option>
+          <option value="play">Play</option>
+          <option value="sonnet">Sonnet</option>
+          <option value="poem">Poem</option>
+        </select>
+        <span id="shk-genre-row">
+          <label class="filter-label">Genre:</label>
+          <select id="shk-genre">
+            <option value="">Any Genre</option>
+            <option value="Comedy">Comedy</option>
+            <option value="Tragedy">Tragedy</option>
+            <option value="History">History</option>
+          </select>
+        </span>
+        <label class="filter-label">Work:</label>
+        <select id="shk-work"></select>
+      </div>
+      <div class="control-row">
+        <label class="filter-label">Count:</label>
+        <select id="shk-count">
+          <option>1</option><option>3</option><option>5</option><option>10</option>
+        </select>
+        <button class="generate-btn" id="shk-gen">Generate</button>
+      </div>
+      <div class="results" id="shk-results"></div>
+      <button class="copy-all-btn" id="shk-copyall">Copy All</button>
+    </div>
+
+    <!-- POETRY -->
+    <div class="generator" id="gen-poetry">
+      <div class="filter-row">
+        <label class="filter-label">Poet:</label>
+        <select id="poetry-poet"></select>
+      </div>
+      <div class="control-row">
+        <label class="filter-label">Count:</label>
+        <select id="poetry-count">
+          <option>1</option><option>3</option><option>5</option><option>10</option>
+        </select>
+        <button class="generate-btn" id="poetry-gen">Generate</button>
+      </div>
+      <div class="results" id="poetry-results"></div>
+      <button class="copy-all-btn" id="poetry-copyall">Copy All</button>
+    </div>
+
+    <!-- CLASSICS -->
+    <div class="generator" id="gen-classics">
+      <div class="filter-row">
+        <label class="filter-label">Type:</label>
+        <select id="cls-type">
+          <option value="any">Any</option>
+          <option value="verse">Verse</option>
+          <option value="prose">Prose</option>
+          <option value="drama">Drama</option>
+        </select>
+        <label class="filter-label">Author:</label>
+        <select id="cls-author"></select>
+        <label class="filter-label">Work:</label>
+        <select id="cls-work"></select>
+      </div>
+      <div class="control-row">
+        <label class="filter-label">Count:</label>
+        <select id="cls-count">
+          <option>1</option><option>3</option><option>5</option><option>10</option>
+        </select>
+        <button class="generate-btn" id="cls-gen">Generate</button>
+      </div>
+      <div class="results" id="cls-results"></div>
+      <button class="copy-all-btn" id="cls-copyall">Copy All</button>
+    </div>
+
+    <!-- MOTIF-INDEX -->
+    <div class="generator" id="gen-motifs">
+      <div class="filter-row">
+        <label class="filter-label">Category:</label>
+        <select id="motif-cat"></select>
+      </div>
+      <div class="control-row">
+        <label class="filter-label">Count:</label>
+        <select id="motif-count">
+          <option>1</option><option>3</option><option>5</option><option>10</option>
+        </select>
+        <button class="generate-btn" id="motif-gen">Generate</button>
+      </div>
+      <div class="results" id="motif-results"></div>
+      <button class="copy-all-btn" id="motif-copyall">Copy All</button>
+    </div>
+
+    <!-- FOLK -->
+    <div class="generator" id="gen-folk">
+      <div class="filter-row">
+        <label class="filter-label">Collection:</label>
+        <select id="folk-collection"></select>
+        <label class="filter-label">Work:</label>
+        <select id="folk-work"></select>
+      </div>
+      <div class="control-row">
+        <label class="filter-label">Count:</label>
+        <select id="folk-count">
+          <option>1</option><option>3</option><option>5</option><option>10</option>
+        </select>
+        <button class="generate-btn" id="folk-gen">Generate</button>
+      </div>
+      <div class="results" id="folk-results"></div>
+      <button class="copy-all-btn" id="folk-copyall">Copy All</button>
+    </div>
+
+    <!-- HISTORY PANEL -->
+    <div class="history-panel" id="history-panel" style="display:none">
+      <h2>
+        Recent Generations
+        <button class="history-toggle" id="history-toggle">Hide</button>
+      </h2>
+      <div class="history-list" id="history-list"></div>
+    </div>
+
+    <!-- BLOG SIDEBAR -->
+    <div class="blog-posts">
+      <h2>From the Blog</h2>
+      <p class="blog-intro">TTRPG thoughts at <a href="https://blog.wormlikechain.com">blog.wormlikechain.com</a></p>
+      <ul>
+        <li><a href="https://blog.wormlikechain.com/posts/How-to-win-a-TTRPG">How to Win a TTRPG</a> <span class="post-date">Mar 2026</span></li>
+        <li><a href="https://blog.wormlikechain.com/posts/On-Maps">On Maps</a> <span class="post-date">Mar 2026</span></li>
+        <li><a href="https://blog.wormlikechain.com/posts/Tales-of-the-Valiant-after-50-Sessions">Tales of the Valiant after 50 Sessions</a> <span class="post-date">Feb 2026</span></li>
+        <li><a href="https://blog.wormlikechain.com/posts/Jumping-on-the-Quantum-Railroad">Jumping on the Quantum Railroad</a> <span class="post-date">Jan 2026</span></li>
+        <li><a href="https://blog.wormlikechain.com/posts/Year-in-Review-and-2026-Goals">Year End Review and 2026 Goals</a> <span class="post-date">Jan 2026</span></li>
+      </ul>
+    </div>
+
+    <div class="note">
+      <p>All texts are public domain. This project is <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 licensed</a>.</p>
+      <p>Human words to inspire humans.</p>
+      <p><a href="https://github.com/blockbeard/literary-generators">Download the Obsidian vault</a> for offline use with linked source texts.</p>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("history-toggle").addEventListener("click", function() {
+      const list = document.getElementById("history-list");
+      const collapsed = list.classList.toggle("collapsed");
+      this.textContent = collapsed ? "Show" : "Hide";
+    });
+  </script>
+  <script src="site.js"></script>
+</body>
+</html>

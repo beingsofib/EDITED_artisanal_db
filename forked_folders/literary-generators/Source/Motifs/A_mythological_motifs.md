@@ -1,0 +1,6310 @@
+# A. Mythological Motifs
+
+> Motif-Index of Folk-Literature · 5814 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Creator
+
+- **A0** — Creator.
+- **A1** — Identity of creator.
+- **A1.1** — Sun-god as creator.
+- **A1.2** — Grandfather as creator.
+- **A1.3** — Stone-woman as creator.
+- **A1.4** — Brahma as creator.
+- **A2** — Multiple creators.
+- **A2.1** — Three creators.
+- **A2.2** — First human pair as creators.
+- **A3** — Creative mother source of everything.
+- **A5** — Reason for creation.
+- **A5.1** — Gods make earth to have place to rest their feet.
+- **A7** — Creator's descendants.
+- **A7.1** — Creator has two sons.
+- **A10** — Nature of the creator.
+- **A11** — Invisible creator.
+- **A11.1** — Invisibility of creator learned from the impossibility of staring at the sun, his servant.
+- **A12** — Hermaphroditic creator.
+  *The creator is half man and half woman or is thought of as both male and female.*
+- **A12.1** — Male and female creators.
+- **A13** — Animal as creator.
+- **A13.1** — Beast as creator.
+- **A13.1.1** — Cow as creator.
+- **A13.2** — Bird as creator.
+- **A13.2.1** — Raven as creator.
+- **A13.2.2** — Eagle as creator of man.
+- **A13.2.3** — Black-winged bird as creator.
+- **A13.3** — Insect as creator.
+- **A13.3.1** — Spider as creator.
+- **A13.3.2** — Beetle as creator.
+- **A13.4** — Reptile as creator.
+- **A13.4.1** — Snake as creator.
+- **A13.4.2** — Worm as creator.
+- **A15** — Human creator.
+- **A15.1** — Female creator.
+- **A15.1.1** — Old woman as creator.
+- **A15.2** — Brothers as creators.
+- **A15.3** — Old man as creator.
+- **A15.3.1** — Old man with staff as creator.
+- **A15.4** — Artisan as creator.
+- **A15.4.1** — Potter as creator.
+- **A17** — Angel as creator.
+- **A18** — Pictorial representations of creator.
+- **A18.1** — Creator with dragon's head.
+- **A18.2** — Creator with two horns on head.
+- **A18.3** — Dwarfish creator.
+- **A18.4** — Creator clothed in bear-skin (or in leaves).
+- **A18.5** — Creator with hammer and chisel in hands.
+- **A18.6** — Creator with sun and moon in hands.
+- **A19** — Nature of creator miscellaneous.
+- **A19.1** — Sun and moon (man and wife) as creators.
+- **A19.2** — Creator with appearance of Negro.
+- **A20** — Origin of the creator.
+- **A21** — Creator from above.
+- **A21.1** — Woman who fell from the sky.
+  *Daughter of the sky-chief falls from the sky, is caught by birds, and lowered to the surface of the water. She becomes the creator.*
+- **A21.2** — Old man from sky as creator.
+  *Old man with his wife comes from the sky. Are the first couple on earth. Have seven sons and seven daughters. Each son marries a daughter.*
+- **A22** — Creator comes out of chaos.
+- **A23** — Creator offspring of dual powers of nature.
+  *(Male and female principles.)*
+- **A25** — Creator from below.
+  *God rises from beneath (the center of the spiritual world) and creates the world.*
+- **A25.1** — Creator emerges from lake.
+- **A26** — Creator comes from certain direction.
+- **A26.1** — Creator comes from east.
+- **A27** — Creator born from egg.
+- **A30** — Creator  's companions.
+- **A31** — Creator's grandmother.
+  *Casually mentioned in the course of the creation myth.*
+- **A32** — Creator's family.
+- **A32.1** — Creator's son.
+- **A32.2** — Creator's daughter.
+- **A32.3** — Creator's wife.
+- **A32.3.1** — Creator's wife seduced by his son.
+- **A32.3.2** — Creator beats his wife while intoxicated from beverage he invents.
+- **A33** — Animal as creator's companion.
+- **A33.1** — Beast as creator's companion.
+- **A33.1.1** — Creator's dog.
+  *The creator is accompanied by a dog (cf. +A63.4.)*
+- **A33.2** — Bird as creator's companion.
+- **A33.3** — Insect as creator's companion.
+- **A33.3.1** — Bee as God's spy.
+  *God, the creator, sends a bee to overhear the devil's secrets.*
+- **A33.4** — Other animal companions of creator.
+- **A33.4.1** — Armadillo as creator's companion.
+- **A36** — Creator's companions: unicorn, phoenix, tortoise, and dragon.
+- **A37** — Joint creators.
+- **A37.1** — Falcon and crow as joint creators.
+- **A38** — Heavenly bodies as creator's companions.
+- **A38.1** — Creator's companions: sun and moon.
+- **A40** — Creator  's advisers.
+- **A41** — Men as God's advisers.
+- **A42** — Angels as God's advisers.
+- **A42.1** — Seraphim as creator's advisers.
+- **A42.1.1** — God consults two angels on creation.
+- **A42.2** — God consults mercy on his right and justice on his left.
+- **A43** — Devil as adviser of God.
+- **A44** — Tora as God's adviser.
+- **A45** — Souls of pious as Creator's advisers.
+- **A50** — Conflict of good and evil creators.
+- **A50.1** — Creation of angels and devils.
+- **A51** — Creation of devil(s).
+- **A52** — Creation of angels.
+- **A52.0.1** — Angels created to execute God's will.
+- **A52.0.2** — Degraded gods become angels.
+- **A52.0.3** — Angels existed prior to creation.
+- **A52.0.4** — Angels are transformed souls of the pious.
+- **A52.0.5** — Angels created from three elements.
+- **A52.0.6** — Angels created from words uttered by God.
+- **A52.0.7** — God drops water from his finger and the drops become angels.
+  *Lucifer imitated God and created devils.*
+- **A52.0.8** — God created angels by striking one small stone with another.
+  *Lucifer created devils by imitation.*
+- **A52.1** — Creation of individual angels.
+- **A52.1.1** — Angel of death created by God.
+- **A52.1.2** — Angel Michael created from fire.
+- **A52.1.3** — Angel Gabriel created from snow.
+- **A52.1.4** — Angel Raphael created from water.
+- **A52.1.5** — Angel of destruction created from hail and fire.
+- **A52.2** — Time of creation of the angels.
+- **A52.2.1** — Angels created on first day of creation.
+- **A52.2.2** — Angels created on second day of creation.
+- **A52.2.3** — Angels created on third day of creation.
+- **A52.2.4** — Archangels created on first, angels on third day of creation.
+- **A52.2.5** — Angels created on fifth day with other winged creatures.
+- **A52.3** — Material of which angels are created (fire, water and snow).
+- **A54** — Rebel angels.
+- **A54.1** — Angel of sea rebels at world's creation; put to death by God.
+- **A60** — Marplot at creation.
+  *An evil opponent attempts to undo or mar the work of the creator.*
+- **A61** — Coyote as marplot at creation.
+- **A63** — Devil as marplot at creation.
+- **A63.1** — Devil works during God's sleep at creation.
+- **A63.2** — Devil plans to drown God at time of creation.
+- **A63.3** — Devil and God wrestle at time of creation.
+- **A63.4** — Devil and God create animals.
+  *Wolf created as God's dog. The devil creates goats to destroy things.*
+- **A63.4.1** — God and the devil torment each other with their creations.
+  *Devil pesters God with gnats. God makes a fire and safeguards himself; God plagues the devil with fleas devil is unable to find means of protecting himself.*
+- **A63.5** — Lucifer causes fall of man.
+- **A63.5.1** — Satan seduces Adam to sin because he is jealous of him.
+- **A63.6** — Devil in serpent form tempts first woman (Satan and Eve).
+- **A63.7** — Rebel god is author of all poisonous things.
+- **A63.7.1** — Poisonous water created by the devil.
+- **A63.8** — Satan attempts to create another world.
+- **A67** — God makes things and tosses them into the air; what he catches is good for mankind, what opponent catches is bad.
+- **A70** — Creator: miscellaneous motifs.
+- **A71** — Creator tries to devour his son, the culture hero.
+- **A72** — Original creator followed by transformers.
+  *These demigods change the original creation into the present forms.*
+- **A73** — Lonely creator.
+  *The creator is tired of solitude and therefore inaugurates the creation.*
+- **A74** — Reluctant creator.
+- **A74.1** — Creation on condition that Israel accept Tora.
+- **A74.2** — Creator repents of creating certain things.
+- **A75** — Creator as ancestor of heaven and earth.
+- **A76** — Creator's death.
+- **A77** — Creator's works survive him.
+- **A78** — Creator goes to make afterworld.
+- **A81** — Creator goes to sky.
+- **A84** — Creator of animals.
+- **A84.1** — Creator of buffaloes.
+- **A85** — Creation match between goddess-wife, god-husband.
+- **A87** — Creator drunk from beverage he invents.
+- **A12** — Hermaphroditic creator.
+
+## Deity
+
+- **A100** — Deity.
+- **A101** — Supreme god.
+  *One god chief of all other gods. (Often not worshipped as other gods are.)*
+- **A101.1** — Supreme god as creator  .
+- **A102** — Characteristics of deity.
+- **A102.1** — Omniscient god.
+- **A102.2** — All-seeing god.
+- **A102.3** — Immutable god.
+- **A102.4** — Omnipotent god.
+- **A102.5** — Omnipresent god.
+- **A102.6** — Eternal god.
+- **A102.7** — Holy god.
+- **A102.8** — Sleepless god.
+- **A102.9** — Invisible god.
+- **A102.10** — Unity of God.
+- **A102.11** — Purity of God.
+- **A102.12** — Perfect God.
+- **A102.13** — Loving kindness of God.
+- **A102.14** — Goodness of God.
+- **A102.15** — Modesty of God.
+- **A102.16** — Justice of God.
+- **A102.17** — Anger of God.
+- **A102.18** — Imperfect god, subject to death and rebirth.
+- **A102.19** — Conflict between God's justice and mercy.
+- **A103** — Father-god.
+- **A104** — The making of gods.
+- **A104.1** — Living person becomes god.
+- **A104.2** — Dead body becomes god.
+- **A104.3** — Miscellaneous objects become gods.
+- **A104.4** — Spirits become gods.
+- **A106** — Opposition of good and evil gods.
+- **A106.0.1** — Gods and the demons quarrel over supremacy.
+- **A106.1** — Revolt of bad gods against good.
+- **A106.1.1** — Goddess rebels against her father for forbidding her marriage.
+- **A106.2** — Revolt of evil angels against God.
+- **A106.2.1** — Revolting devil banished to hell.
+- **A106.2.1.1** — Banished devil appears on earth only on day of dark moon.
+- **A106.2.1.2** — Demon (opposed to God) allowed to earth four times a year (but must let people know who he is and not deceive them).
+- **A106.2.2** — Satan's fall from heaven.
+- **A106.3** — Created beings rebel against God.
+- **A107** — Gods of darkness and light.
+  *Darkness thought of as evil, light as good.*
+- **A108** — God of the living and the dead in the otherworld.
+- **A108.1** — God of the dead.
+- **A109** — Deity: miscellaneous motifs.
+- **A109.1** — God as a triad.
+- **A109.2** — Goddess as mother of Pacific Ocean.
+- **A110** — Origin of the gods.
+- **A111** — Parents of the gods.
+- **A111.1** — Mother of the gods.
+- **A111.2** — Father of the gods.
+- **A111.3** — Ancestor of the gods.
+- **A111.3.0.1** — God of double sex carries within him seed of gods.
+- **A111.3.1** — God dwells with his grandfathers.
+- **A111.3.2** — Sea creatures as ancestors of goddess.
+- **A111.3.3** — Great bird as ancestor of gods.
+- **A112** — Birth of gods.
+- **A112.1** — God from incestuous union.
+- **A112.1.1** — God from father-daughter incest.
+  *Adonis.*
+- **A112.1.1.1** — Goddess of music and dance born of incestuous union (Brahma and daughter).
+- **A112.2** — Male and female creators beget gods.
+- **A112.3** — Gods born from various parts of creator's body.
+- **A112.4** — God as son of giant.
+- **A112.4.1** — God as son of giantess.
+- **A112.4.2** — Goddess as daughter of giant.
+- **A112.5** — God as son of nine giantesses.
+- **A112.6** — Gods as sons of supreme god.
+- **A112.7** — God born from peculiar part of parent's body.
+- **A112.7.1** — God born from mother's ear.
+- **A112.7.2** — God born from mother's armpit.
+- **A112.7.3** — Goddess born from mother's eyes.
+- **A112.7.4** — God born after prematurely short pregnancy.
+- **A112.8** — God from adulterous union.
+- **A112.9** — Gods borne by human woman.
+- **A112.9.1** — Elementary spirits borne by human woman.
+- **A112.10** — Divine child cast out at birth.
+- **A112.11** — Child born from union of God with hen.
+- **A113** — Totemistic gods.
+  *Gods which have animal associations; e.g., Athena with the owl, Venus with the sparrow.*
+- **A114** — Gods born from object.
+- **A114.1** — Deity born from sea-foam.
+  *Aphrodite.*
+- **A114.1.1** — Goddess born from sweat of rock washed by sea.
+- **A114.1.1.1** — God born of another god's sweat.
+- **A114.1.1.2** — Origin of lesser gods from spittle of great god.
+- **A114.2** — God born from egg.
+- **A114.2.1** — Deity born in shape of egg.
+- **A114.3** — Deity born from skull.
+- **A114.4** — Deity born from tree.
+- **A115** — Emergence of deity.
+- **A115.1** — First deity grows out of primeval chaos.
+- **A115.2** — God issues from earth.
+- **A115.3** — Deity arises from mist.
+- **A115.4** — Deity emerges from darkness of underworld.
+  *Mangia (Cook Is.)*
+- **A115.5** — Emergence of gods from above and below.
+- **A115.6** — Deity arises from shell of darkness where he has been for million ages.
+- **A115.7** — Gods emerge from hole in tree.
+- **A116** — Twin gods.
+- **A116.1** — Twin gods one mortal, other immortal.
+- **A116.2** — Twin goddesses (or trinity of goddesses).
+- **A116.2.1** — Twin daughters of a god.
+- **A117** — Mortals become gods.
+- **A117.1** — First men created with eternal life become gods.
+- **A117.2** — Mortal translated to heaven and deified.
+- **A117.3** — In extreme old age spirits become gods.
+- **A117.4** — Mortal transfigured to god on mountain top.
+- **A117.5** — Gods are spirits of deified dead.
+- **A118** — Self-created deity.
+- **A119** — Origin of gods miscellaneous.
+- **A119.1** — God made by magic.
+- **A119.2** — Goddess produced by heat of earth.
+- **A119.3** — Arrival of the gods in particular country.
+- **A120** — Nature and appearance of the gods.
+- **A120.1** — God as shape-shifter.
+- **A120.2** — Size-changing god.
+- **A120.3** — Incorporeal god.
+- **A120.4** — Formless gods.
+- **A121** — Stars as deities.
+- **A121.1** — Moon as deity.
+- **A121.2** — Sun as deity.
+- **A122** — God half mortal, half immortal.
+  *Hair, skin, flesh, bones and marrow are mortal; mind, voice, breath, eye, and ear are immortal. (prajapati).*
+- **A123** — Monstrous gods.
+- **A123.1** — God monstrous as to body.
+- **A123.1.1** — Three-bodied goddess.
+  *Hekate has three bodies standing back to back and looking in three directions.*
+- **A123.1.2** — God with two joined bodies.
+- **A123.1.3** — God with good looking and ugly bodies.
+- **A123.1.4** — God with body of earthquake (whirlwind, etc. ).
+- **A123.1.5** — God with body of caterpillars.
+- **A123.1.6** — God with body of stream of blood.
+- **A123.1.7** — Goddess with three supernatural bodies: fire, cliff, sea.
+- **A123.2** — God unusual as to face.
+- **A123.2.1** — God with many faces.
+- **A123.2.1.1** — God with two faces.
+- **A123.2.1.2** — God with three faces.
+- **A123.2.1.3** — God with four faces.
+- **A123.2.1.4** — God with five faces.
+- **A123.2.1.5** — God with six faces.
+- **A123.2.2** — God's unusual mouth.
+- **A123.2.2.1** — Maggots squirm from mouth of man-eating god.
+- **A123.2.2.2** — Goddess with eight mouths.
+- **A123.3** — God unusual as to eyes.
+- **A123.3.1** — God with many eyes.
+- **A123.3.1.1** — Three-eyed god.
+- **A123.3.1.2** — God with hundred eyes.
+- **A123.3.1.3** — God with thirteen eyes.
+- **A123.3.1.4** — God with thousand eyes.
+- **A123.3.1.4.1** — Goddess with thousand eyes.
+- **A123.3.2** — God with flashing eyes.
+- **A123.4** — God monstrous as to head.
+- **A123.4.1** — God with many heads.
+- **A123.4.1.1** — God with three heads.
+- **A123.4.1.2** — God with seven heads.
+- **A123.4.1.3** — God with eight heads.
+- **A123.4.2** — God with head of stone.
+- **A123.5** — God unusual as to arms.
+- **A123.5.1** — God with many arms.
+  *Siva has ten arms.*
+- **A123.5.2** — Marvels concerning God's arm and fingers.
+- **A123.6** — God unusual at to legs (feet).
+- **A123.6.1** — God with three legs.
+- **A123.7** — God unusual as to color.
+- **A123.7.1** — Many-colored god.
+- **A123.7.2** — Black god(dess).
+- **A123.8** — Goddess with one-and-a-half buttocks.
+- **A123.9** — Lotus plants grow from navel of Vishnu.
+- **A123.10** — God (deity) girdled with snakes; on his forehead shines the moon.
+- **A123.11** — God with tail.
+  *Mangaia (Cook Is.)*
+- **A124** — Luminous god.
+- **A124.0.1** — God with luminous countenance.
+- **A124.1** — God with blazing eye.
+- **A124.2** — White god.
+- **A124.3** — Goddess with body full of fire.
+- **A124.4** — God's radiance upon Moses' face.
+- **A124.5** — God in form of comet.
+- **A125** — Deity in human form.
+  *(The human form is assumed in most mythologies.)*
+- **A125.1** — Goddess of war in shape of hag.
+- **A125.1.1** — Goddess of war in shape of (red) woman.
+- **A125.2** — God with red beard.
+- **A125.3** — God with gold teeth.
+- **A125.4** — Beautiful goddess.
+- **A128** — Mutilated god.
+- **A128.1** — Blind god.
+- **A128.2** — One-eyed god.
+  *Odin.*
+- **A128.2.1** — God with Evil Eye.
+- **A128.2.2** — God with single eye, through lid of which passes a polished handle with which lid is lifted.
+- **A128.3** — Legless and armless deity supported on animal.
+- **A128.3.1** — God with one leg (foot).
+- **A128.4** — God with one hand.
+  *Hand cut or bitten off.*
+- **A128.5** — Lame god.
+- **A128.5.1** — God with thick (iron) shoe.
+- **A131** — Gods with animal features.
+- **A131.1** — God as part man, part fish.
+- **A131.2** — God with elephant's face.
+- **A131.3** — Deity with animal's head.
+- **A131.3.1** — Deity with cat's head.
+- **A131.3.2** — Goddess with pig's head.
+- **A131.3.3** — God with ram's head.
+- **A131.4** — God in tiger's skin.
+- **A131.5** — God with goat-feet.
+- **A131.6** — Horned god.
+- **A131.7** — Winged god.
+- **A131.8** — Goddess with pig's teeth.
+- **A132** — God in animal form.
+- **A132.0.1** — God in successive animal forms.
+- **A132.0.1.1** — God takes form successively of ants, scorpion, and cobra.
+- **A132.0.1.2** — God in three forms: gecho, shark, or priest.
+- **A132.1** — Snake-god.
+- **A132.1.1** — Deity has snake-children.
+- **A132.2** — Monkey as god.
+- **A132.3** — Equine god (goddess).
+- **A132.3.1** — Horse-god.
+- **A132.3.1.1** — Mule-god.
+- **A132.3.2** — Horse-goddess.
+- **A132.3.3** — Ass-god.
+- **A132.4** — Stag-god.
+- **A132.5** — Bear-god (goddess).
+- **A132.6** — Bird deity.
+- **A132.6.1** — Bird-god.
+- **A132.6.2** — Goddess in form of bird.
+- **A132.6.3** — Cock-god.
+- **A132.6.4** — Female deities as fly-catchers.
+- **A132.6.5** — Pigeon-god.
+- **A132.7** — Swine-god.
+- **A132.8** — Dog (wolf)-god.
+- **A132.9** — Bull-god.
+- **A132.9.1** — Cow as god.
+- **A132.10** — Tiger-god.
+- **A132.11** — Seal-god.
+- **A132.12** — Eel-god.
+- **A132.13** — Fish-god.
+- **A132.14** — Ram-god.
+- **A132.15** — God as tortoise.
+- **A133** — Giant god.
+- **A133.1** — Giant god drinks lakes dry.
+  *(Indra).*
+- **A133.2** — Giant goddess bestrides entire land.
+  *One foot is in the north of the country and the other is in the south.*
+- **A133.2.1** — Giant god goes with three steps through the world.
+- **A133.2.2** — Heaven as God's throne, earth His footstool.
+- **A133.3** — Giant orderly of the gods.
+- **A134** — Dwarf god.
+- **A135** — Man-eating god (goddess).
+- **A136** — Gods with unusual transportation.
+- **A136.1** — God rides unusual animal.
+- **A136.1.1** — Deity rides boar.
+- **A136.1.2** — God rides unusual horse.
+- **A136.1.2.1** — Sleipnir: eight-legged horse of Odin.
+- **A136.1.3** — God rides a bull.
+- **A136.1.4** — God rides bird.
+- **A136.1.4.1** — God rides swan.
+- **A136.1.5** — God rides flying elephant.
+- **A136.1.6** — Deity rides a buffalo.
+- **A136.1.7** — Deity rides a lion.
+- **A136.1.8** — Goddess flies in bird's plumage.
+- **A136.2** — God's (goddess's) wagon drawn by unusual animals.
+- **A136.2.1** — Goddess has team of sparrows.
+- **A136.2.2** — Goddess's chariot drawn by one-footed horse.
+- **A136.3** — God's chariot goes through the air.
+- **A136.3.1** — Chariot of fire drawn by four steeds of fire.
+- **A137** — Pictorial representations of gods.
+- **A137.1** — God with hammer.
+- **A137.1.1** — God with axe.
+- **A137.2** — God with club.
+- **A137.3** — God with wheel.
+- **A137.3.1** — Wheel symbol.
+- **A137.3.1.1** — Swastika (hooked cross).
+- **A137.4** — God (goddess) with basket.
+- **A137.4.1** — God carries brothers and sisters on his back in basket.
+- **A137.5** — God (goddess) with cornucopia.
+- **A137.6** — Squatting god.
+- **A137.7** — The bull with three cranes.
+- **A137.8** — Small-pox deity rides nude on an ass with the half of a winnowing fan for an umbrella and with a swing in one hand and a broom in the other.
+- **A137.9** — Goddess represented as mounted on a drake, attended by eight chief snakes attended by snake jewels.
+- **A137.10** — God represented as king, world as his kingdom.
+- **A137.11** — God represented in cloud.
+- **A137.12** — God represented as bridegroom.
+- **A137.13** — God represented as priest.
+- **A137.14** — God represented with weapon.
+- **A137.14.1** — God represented with bow of fire.
+- **A137.14.1.1** — God represented with arrow of flames.
+- **A137.14.2** — God represented with spears as torches.
+- **A137.14.3** — God represented with clouds as shield.
+- **A137.14.4** — God represented with lightning flashes as sword.
+- **A137.15** — God represented on high throne surrounded by angels.
+- **A137.16** — God represented as meteor.
+- **A137.17** — God represented as among seven sheaths of fire.
+- **A137.18** — God with long white beard and white moustache.
+- **A138** — God's ineffable name.
+- **A139** — Nature and appearance of the gods miscellaneous.
+- **A139.1** — Gods (supernatural beings) have many names.
+- **A139.2** — Tortoise footstool of God.
+- **A139.3** — Dragon god.
+- **A139.4** — Vampire goddess.
+- **A139.5** — God's voice.
+- **A139.5.1** — God's voice shatters mountain.
+- **A139.5.2** — God's voice causes thunder.
+- **A139.6** — God's words.
+- **A139.7** — Distinctive aroma of gods.
+- **A139.8** — God appears as an object.
+- **A139.8.1** — God as a tree trunk.
+- **A139.8.2** — Goddess appears as coral reef.
+- **A139.8.3** — Smoldering fire of volcano as head of goddess.
+- **A139.8.4** — God of the wind in shape of kite.
+- **A139.8.5** — Goddess in form of tree.
+- **A139.8.6** — God in shape of an image.
+- **A139.9** — Extraordinary physical characteristics of gods.
+- **A139.9.1** — Goddess with red urine.
+- **A139.9.2** — Gods have ichor, not blood: can be wounded but not killed.
+- **A139.9.3** — Gods covered with red and yellow feathers.
+- **A139.10** — God with myriad natures.
+- **A139.11** — Gods recognized by natural phenomena associated with their worship color, scent, etc.
+- **A139.12** — Long-suffering God.
+- **A139.13** — Temperamental goddess.
+- **A139.14** — Ugly god.
+- **A139.15** — Greedy god.
+- **A140** — Gods as workmen.
+- **A141** — God as craftsman.
+  *Hephaistos.*
+- **A141.1** — God makes automata and vivifies them.
+- **A141.2** — God builds temple in heaven and brings it later to earth.
+- **A141.3** — God bores hole in Hell to cause great heat on earth.
+- **A141.4** — God lays foundations of earth.
+- **A142** — Smith of the gods.
+- **A142.0.1** — God as blacksmith.
+- **A142.1** — Brazier of the gods.
+- **A143** — Carpenter (wright) of the gods.
+- **A144** — Physician of the gods.
+- **A145** — Champions of the gods.
+- **A147** — Gods as fishers.
+- **A150** — Daily life of the gods.
+- **A151** — Home of the gods.
+  *Elysium, Avalon, earthly paradise.*
+- **A151.0.1** — Home of god where he is the only living one.
+- **A151.0.2** — God's abode known to none.
+- **A151.1** — Home of gods on high mountain.
+  *Mt. Olympus.*
+- **A151.1.1** — Home of gods inside of hill.
+- **A151.1.2** — Home of gods in cave.
+- **A151.1.3** — Home of gods in volcano crater.
+- **A151.1.4** — Gods live in cloudland.
+- **A151.2** — Garden of the gods.
+- **A151.3** — Home of the gods under the sea.
+- **A151.3.1** — Gods live in spring.
+- **A151.3.2** — Home of gods on island.
+- **A151.4** — Palaces of the gods.
+- **A151.4.1** — God's temple of jewels.
+- **A151.4.2** — Palace of gods with door at each end for sun's journey.
+- **A151.4.3** — Golden mansions of gods.
+- **A151.4.4** — House of god with pillars made of dead chief's bones.
+- **A151.5** — City of gods (God).
+- **A151.6** — God's home on heavenly bodies.
+- **A151.6.1** — God (Indra) has palace on Milky Way.
+- **A151.6.2** — Sun and moon as habitations of gods.
+- **A151.7** — Deity lives in forest.
+- **A151.7.1** — Deity resides in tree.
+- **A151.7.1.1** — God's home under tree of life.
+- **A151.8** — God in sea of milk.
+- **A151.9** — God originally resident among men.
+- **A151.10** — God dwells at particular point on earth.
+- **A151.10.1** — Home of God the ark and the temple.
+- **A151.11** — God's spirit dwells among mortals.
+- **A151.12** — God's landing place (on island).
+- **A151.13** — God dwells alone in darkness.
+- **A151.14** — Various other dwelling places of gods.
+- **A152** — God's throne.
+- **A152.1** — God's two thrones (of mercy and of justice).
+- **A152.2** — Flames surround God's throne.
+- **A152.3** — God's throne on wheels.
+- **A152.4** — Attendants around God's throne.
+- **A152.5** — Heavenly curtain surrounds God's throne.
+- **A152.6** — Footstool before divine throne.
+- **A152.7** — Bearers of God's throne.
+- **A152.8** — Heavenly throne has Jacob's face engraved on it.
+- **A152.9** — God's throne becomes hot because of activities on earth.
+- **A153** — Food of the gods.
+  *Ambrosia.*
+- **A153.1** — Theft of ambrosia.
+  *Food of the gods stolen.*
+- **A153.2** — Magic food gives immortality to gods.
+- **A153.2.1** — Gods' food gives supernatural growth.
+- **A153.3** — Banquets of the gods.
+- **A153.3.1** — Moon steals food from banquet of the gods.
+- **A153.3.2** — Sun, moon and wind dine with their uncle and aunt, thunder and lightning.
+- **A153.4** — Magic food rejuvenates the gods.
+- **A153.5** — Food of gods: meat of "cow of plenty".
+- **A153.6** — Why gods only accept blood.
+- **A153.7** — God's preference for cooked food.
+- **A153.8** — Cannibal gods.
+- **A153.9** — Gods nourished by air.
+- **A154** — Drink of the gods.
+- **A154.1** — Magic drink gives immortality to gods.
+- **A154.2** — Theft of magic mead by Odin.
+- **A154.3** — Gods discover liquor.
+- **A154.4** — Milk of the gods.
+- **A155** — Animals of the gods (cf.   +A136).
+- **A155.1** — Cattle of the sun.
+- **A155.2** — Horses of the gods.
+- **A155.3** — Birds of the gods.
+- **A155.4** — Gods keep mosquitoes as pets.
+- **A155.5** — God's elephant.
+- **A155.5.1** — God has enormous elephant.
+- **A155.6** — Goddess sleeps on bed of snakes.
+- **A155.7** — God has his dairies and buffaloes.
+- **A156** — Precious properties of the gods.
+- **A156.1** — Jewels of the gods.
+- **A156.2** — God's crown.
+- **A156.3** — God's scepters.
+- **A156.4** — God's seal.
+- **A156.5** — Chariot of the gods.
+- **A157** — Weapons of the gods.
+- **A157.1** — Thunderweapon.
+  *Stone weapons (axes) brought down by thunderbolt (from Thunder God).*
+- **A157.1.1** — Thunderbolt as gods' weapon.
+- **A157.2** — God's arrows.
+- **A157.3** — God's spear.
+- **A157.4** — God's shield.
+- **A157.5** — God's sword.
+- **A157.6** — God's bow.
+- **A157.7** — Hammer of thunder god.
+- **A158** — Clothing of gods.
+- **A159** — Daily life of the gods miscellaneous.
+- **A159.1** — Deity's special drum.
+- **A160** — Mutual relations of the gods.
+- **A161** — Hierarchy of gods.
+- **A161.1** — Division of control of universe among gods.
+- **A161.2** — King of the gods.
+- **A161.3** — Queen of the gods.
+- **A161.4** — God presides over all male spirits.
+- **A161.5** — Eldest god born in front, younger at back.
+- **A162** — Conflicts of the gods.
+- **A162.1** — Fight of the gods and giants.
+- **A162.1.0.1** — Recurrent battle (everlasting fight).
+- **A162.2** — Combat between god of light and dragon of ocean.
+- **A162.3** — Combat between thundergod and devil.
+- **A162.3.1** — Devil (ogre) steals thunder's instruments.
+- **A162.3.2** — Thunder and lightning slay devils.
+- **A162.4** — Brahma cursed by other gods: now has no temples.
+- **A162.5** — God reborn of human woman to avenge self on giant.
+- **A162.6** — Battle between God's orderly (giant) and plague.
+- **A162.7** — Single combat between gods.
+- **A162.8** — Rebellion of lesser gods against chief.
+- **A163** — Contests among the gods.
+- **A163.1** — Game between gods.
+- **A163.1.1** — Gods play chess.
+- **A164** — Marriage or liaison of gods.
+- **A164.1** — Brother-sister marriage of the gods.
+- **A164.1.1** — Mother-son marriage of the gods.
+- **A164.2** — Adultery among the gods.
+- **A164.3** — Polygamy among the gods.
+- **A164.3.1** — Krishna plays cards with his three wives.
+- **A164.4** — Matriarchy among the gods.
+- **A164.5** — Polyandry among the gods.
+- **A164.6** — God as lover of giantess.
+- **A164.7** — Jealous wife of god.
+- **A165** — Attendants and servants of the gods.
+- **A165.1** — Animals as attendants of god.
+- **A165.1.1** — Ravens as attendants of god.
+- **A165.1.2** — Eagle as god's bird.
+- **A165.1.3** — Red sea-bird god's pet.
+- **A165.2** — Messenger of the gods.
+- **A165.2.0.1** — Deity's messenger can assume any guise he wishes.
+- **A165.2.1** — Animals as messengers of the gods.
+- **A165.2.1.1** — Wild beasts as messengers of the gods.
+- **A165.2.1.1.1** — Wolves as god's dogs.
+- **A165.2.1.1.2** — Tiger as god's messenger.
+- **A165.2.1.1.3** — Elephant as god's messenger.
+- **A165.2.1.1.4** — Bears as God's messengers.
+- **A165.2.1.1.5** — Leopards as God's messengers.
+- **A165.2.1.1.6** — Lions as God's messengers.
+- **A165.2.2** — Birds as messengers of the gods.
+- **A165.2.2.1** — Cock as ambassador of god.
+- **A165.2.3** — Angels as God's messengers.
+- **A165.2.4** — Powers of nature (sun, moon, etc.)   as God's messengers.
+- **A165.3** — Cupbearer of the gods.
+- **A165.3.1** — Cupbearer of the gods is god of smith-work.
+- **A165.3.2** — Cupbearer of the gods controls waters.
+- **A165.4** — Watchman of the gods.
+- **A165.4.1** — Demons as watchmen of the gods upon earth.
+- **A165.5** — Doorkeeper of the gods.
+- **A165.6** — Scribe of the gods.
+- **A165.7** — Army of the gods.
+- **A165.8** — Magician of the gods.
+- **A165.9** — Fisherman of the gods.
+- **A166** — Dancers of the gods.
+- **A167** — Assembly of gods.
+- **A167.1** — Council of the gods.
+- **A168** — Family of gods.
+- **A169** — Mutual relations of the gods miscellaneous.
+- **A169.1** — Judge and tribunal of the gods.
+- **A170** — Deeds of the gods.
+- **A171** — Gods ride through air.
+- **A171.0.1** — God drives chariot over waves.
+- **A171.0.2** — God ascends to heaven.
+- **A171.0.3** — God descends from heaven.
+- **A171.0.3.1** — God descends on rainbow.
+- **A171.0.3.2** — God descends in form of shooting star.
+- **A171.1** — God rides through air on wind-swift horse.
+- **A171.1.1** — God rides through air in chariot.
+- **A171.1.2** — Valkyries ride through air and water.
+- **A171.2** — God flies in bird plumage.
+- **A171.3** — God flies in pillar of floating clouds, thunder, and lightning.
+- **A172** — Gods intervene in battle.
+- **A173** — Gods deposed for a time.
+- **A173.1** — In god's absence his function ceases.
+  *Death, reproduction, etc., suspended until the god' s return.*
+- **A173.2** — Gods imprisoned.
+- **A175** — God reduces the elements to order.
+- **A175.1** — God supplies reproductive energy to all things.
+- **A176** — God ordains ceremonies and regulations.
+- **A177** — God as thief.
+- **A177.1** — God as dupe or trickster.
+- **A178** — God as prophet.
+- **A179** — Deeds of the gods miscellaneous.
+- **A179.1** — God as rath-builder.
+- **A179.2** — God given dominion over floating island.
+- **A179.3** — God deliberately has enemies kill him.
+- **A179.4** — Head of god bitten off by shark.
+- **A179.5** — Deity reincarnated.
+- **A179.6** — God has power to create men.
+- **A179.7** — God divests self of earthly raiment and clothes self with lightning.
+- **A179.8** — God hides from sun in shadow of a cloud.
+- **A179.9** — God plays with leviathan.
+- **A180** — Gods in relation to mortals.
+- **A181** — God serves as menial on earth.
+- **A181.1** — God clears plains.
+- **A181.2** — God as cultivator.
+- **A182** — God reveals himself to mortals.
+- **A182.0.1** — God does not reveal himself; men unable to endure his glory.
+- **A182.0.2** — Human intellect unable to conceive God's essence.
+- **A182.1** — God reveals secrets (mysteries) to mortals.
+- **A182.1.1** — Household gods speak to explain events.
+- **A182.2** — God gives name to child.
+- **A182.3** — God (angel) speaks to mortal.
+- **A182.3.0.1** — God speaks to Moses from bush.
+- **A182.3.0.1.1** — Angel speaks to Patrick from bush that merely seems to burn.
+- **A182.3.0.2** — God speaks to saint in prison.
+- **A182.3.0.3** — Saint speaks with God each Thursday.
+- **A182.3.0.3.1** — Saint goes to heaven every Thursday (each day) and talks with angels.
+- **A182.3.0.4** — God does not directly address women; uses interpreter.
+- **A182.3.0.5** — God speaks from mountain.
+- **A182.3.1** — God consoles mortal.
+- **A182.3.2** — God rebukes mortal.
+- **A182.3.3** — God blesses mortal.
+- **A182.3.4** — God makes promises to mortal.
+- **A182.3.4.1** — God in form of fakir visits king and gives him advice.
+- **A182.3.4.2** — God promises mortal prosperity for man and offspring.
+- **A182.3.5** — God advises mortal.
+- **A182.3.6** — Moon-god, overcome in contest with mortal, threatens to withold rain and game.
+- **A183** — Deity invoked.
+- **A183.1** — Male god invoked in east; female in west.
+- **A184** — God as founder and protector of certain peoples.
+- **A184.1** — God as protector of Israel.
+- **A185** — Deity cares for favorite individuals.
+- **A185.1** — God helps mortal in battle.
+- **A185.2** — Deity protects mortal.
+- **A185.2.1** — God rescues sleeping man from attack.
+- **A185.2.2** — God makes man's hand rigid so he can no longer torment captive.
+- **A185.2.3** — God makes sword drop from assailant's hands.
+- **A185.3** — Deity teaches mortal.
+- **A185.4** — Deity buries dead mortal.
+- **A185.5** — Deity assists at man's wedding.
+- **A185.6** — Deity particular friend to one mortal.
+- **A185.6.1** — God kisses mortal.
+- **A185.6.1.1** — Kiss of God causes painless death.
+- **A185.7** — God prepares food for mortal.
+- **A185.8** — Deity promises to restore city.
+- **A185.9** — Covenant between God and mortal.
+- **A185.10** — Deity accompanies mortal on journey as guide.
+- **A185.11** — God rewards mortal for pious act.
+- **A185.12** — Deity provides man with soul.
+- **A185.12.1** — God resuscitates man.
+- **A185.12.2** — God removes mortal's soul.
+- **A185.13** — God puts mortal to test.
+- **A185.14** — God controls mortals' sinning.
+- **A185.14.1** — God causes mortals' sin.
+- **A185.14.2** — God witholds mortal from sinning.
+- **A185.15** — God establishes peace between mortals.
+- **A185.16** — God pities mortal.
+- **A185.17** — God visits sick mortal.
+- **A187** — Gods and men judge each other.
+- **A187.1** — God as judge of men.
+- **A187.2** — Mortal as umpire of quarrel between gods.
+- **A188** — Gods and goddesses in love with men.
+- **A188.1** — Philandering god.
+- **A188.2** — Gods as ancestors of mankind.
+- **A189** — Gods in relation to mortals miscellaneous.
+- **A189.0.1** — "Gods and not-gods".
+- **A189.1** — Mortal as ally of gods.
+- **A189.1.1** — Man as helper of thundergod.
+- **A189.2** — God summoned by weeping.
+- **A189.3** — Man cheats a god in throwing dice.
+- **A189.4** — God jealous of a mortal.
+- **A189.5** — Goddess' throne shakes when some mischance befalls her faithful worshipper.
+- **A189.6** — Deity appears before human being after prayers.
+- **A189.7** — Deity ascertains destiny of newborn babe and inscribes it upon his forehead.
+- **A189.8** — Accountants of god keep lists of good and bad acts of human beings.
+- **A189.9** — Early period when gods and men lived together, gods ruling men, ordaining how they should live and originating various customs.
+- **A189.10** — Goddesses come down to earth by a silken thread, are offended by raja and produce drought.
+- **A189.11** — Mortal adopted son by god.
+- **A189.12** — Goddess protects animals from hunters.
+- **A189.13** — Gods forced by mortals to take refuge underground.
+- **A189.14** — God's enemies.
+- **A189.15** — God as fructifier of mankind and the earth.
+- **A189.16** — Gods give divinity to mortal.
+- **A189.17** — Night the period of gods, day the period of mankind.
+- **A190** — Gods: miscellaneous motifs.
+- **A191** — Goddess rejuvenates self when old.
+- **A191.1** — Great age of the gods.
+- **A192** — Death or departure of the gods.
+- **A192.1** — Death of the gods.
+- **A192.1.1** — Old god slain by young god.
+- **A192.1.2** — God killed and eaten.
+- **A192.2** — Departure of gods.
+- **A192.2.1** — Deity departs for heaven (skies).
+- **A192.2.1.1** — Deity departs for moon.
+- **A192.2.2** — Divinity departs in boat over sea.
+- **A192.2.3** — Divinity departs to submarine home.
+- **A192.2.4** — Divinity departs in column of flame.
+- **A192.3** — Expected return of deity.
+- **A192.4** — Divinity becomes mortal.
+- **A193** — Resurrection of gods.
+- **A194** — Divinity's emotions.
+- **A194.1** — Divinity weeps.
+- **A194.2** — God's vengeance.
+- **A194.3** — God's jealousy.
+- **A194.4** — God's joy.
+- **A195** — Divinity's companions.
+- **A195.1** — God dealing with his angels.
+- **A195.2** — Wisdom as God's companion.
+- **A195.3** — Bird as the shadow of a god.
+- **A196** — Deity's limitations.
+- **A196.1** — Fate controls gods.
+- **A196.2** — Decree of gods irrevocable.
+- **A196.2.1** — Deity changes decision.
+- **A197** — Deity controls elements.
+- **A199** — Gods additional motifs.
+- **A199.1** — Spirit of deity animates earthen jar when it is placed beneath banyan tree.
+- **A199.2** — God has magic vision only from his throne.
+- **A199.3** — Deity's child becomes fire as soon as he is born.
+- **A199.4** — Wind drives buffaloes for god.
+- **A199.5** — God's day is one thousand years.
+- **A199.6** — Deity authenticates sacred writings in heaven.
+- **A199.7** — Drums and flutes off-shore announce approach of gods.
+- **A162.2** — Combat between god of light and dragon of ocean.
+
+## God of the upper world
+
+- **A200** — God of the upper world.
+- **A205** — Witch-woman of upper world.
+- **A210** — Sky-god.
+- **A210.1** — Sky-goddess.
+- **A211** — God of heaven.
+- **A216** — God of the air.
+- **A220** — Sun-god.
+- **A220.0.1** — Sun-god commits adultery.
+- **A220.0.2** — Sun-god couples with the moon.
+- **A220.1** — Sun-goddess.
+- **A220.2** — The sun-god and his family.
+- **A221** — Sun-father.
+- **A222** — Sun-god bitten by snake, leaves earth for heaven.
+- **A225** — Son of the sun.
+- **A226** — Sun father-in-law.
+- **A227** — Two sun-gods.
+- **A227.1** — Male sun-god while ascending; female while setting.
+- **A227.2** — One sun-god for night; another for day (Osiris, Horus).
+- **A240** — Moon-god.
+- **A240.1** — Moon-goddess.
+- **A250** — Star-god.
+- **A251** — God of morning star.
+- **A252** — God of evening star.
+- **A253** — God of north star.
+- **A253.1** — Goddess of north star.
+- **A255** — Star-deity and drought-demon fight.
+- **A260** — God of light.
+- **A260.1** — Goddess of light.
+- **A270** — God of dawn.
+- **A270.1** — Goddess of dawn.
+- **A280** — Weather-god.
+- **A281** — Storm-god.
+- **A281.1** — Storm-goddess.
+- **A282** — Wind-god.
+- **A282.0.1** — Wind-goddess.
+- **A282.0.1.1** — Facial features of wind-goddess reversed.
+- **A282.0.2** — Wind-angel.
+- **A282.1** — God of whirlwind.
+  *Typhon. He is represented as having serpents' heads on his shoulders, as having a voice like the sound of many beasts and eyes which flash fire.*
+- **A283** — Cloud-god.
+- **A283.1** — Cloud-angel.
+- **A284** — God of thunder.
+- **A284.0.1** — Angel of thunder.
+- **A284.1** — Goddess of thunder.
+- **A284.2** — Thunderbird.
+  *A mythical giant bird usually thought of as a thunder-god.*
+- **A284.3** — Appearance of thunder-spirit.
+- **A284.3.1** — Thunder god or spirit has very long mouth.
+- **A284.3.2** — Thunder spirit lives in world below earth.
+- **A285** — God of lightning.
+- **A285.0.1** — Angel of lightning.
+- **A285.1** — Lightning weapon of the gods.
+- **A287** — Rain-god.
+- **A287.0.1** — Rain-god and wind-god brought back in order to make liveable weather.
+  *Have been banished by sun-god.*
+- **A287.1** — Rain-goddess.
+- **A287.2** — St. Peter as ruler for the air and rain.
+  *Often misunderstands the orders of God.*
+- **A288** — Rainbow-goddess.
+- **A289** — Other weather-gods.
+- **A289.1** — Frost-god.
+
+## God of the underworld
+
+- **A300** — God of the underworld.
+- **A300.1** — Goddess of underworld.
+- **A302** — Angel of hell.
+- **A305** — Demigod of underworld.
+- **A307** — Deity ruler of lowest heaven.
+- **A308** — Warrior chieftain of underworld.
+- **A310** — God of the world of the dead.
+- **A310.1** — Goddess of world of the dead.
+- **A310.2** — God of the slain.
+- **A310.3** — God of the hanged.
+- **A310.4** — God of suicide.
+- **A311** — Conductor of the dead.
+- **A316** — Goddess divides time between upper and lower worlds.
+  *Persephone spends six months on earth and six in Hades.*
+- **A317** — Demon god lies in wait for spirits descending to underworld.
+- **A318** — Rank of the gods in Hades.
+
+## God of earth
+
+- **A400** — God of earth.
+- **A400.0.1** — Gods of earth.
+- **A400.1** — Goddess of earth.
+- **A400.2** — Angel of earth.
+- **A401** — Mother Earth.
+  *The earth is conceived of as the mother of all things (cf. +A431.1).*
+- **A401.1** — Mother Earth pregnant with Adam.
+- **A405** — Nature gods.
+- **A410** — Local gods.
+- **A411** — Household gods.
+- **A411.1** — Door-gods.
+- **A411.2** — Kitchen-gods.
+- **A411.3** — Dairy-god.
+- **A411.4** — Hearth-god.
+- **A412** — City-gods.
+- **A413** — God of roads (streets).
+- **A413.1** — God of cross-roads.
+- **A414** — God of boundaries.
+- **A415** — God of clans or nations.
+- **A417** — Gods of the Quarters.
+  *A god or spirit for each of the world-quarters, north, south, east, and west.*
+- **A417.1** — Beast guardians of the four quarters.
+- **A418** — Deity of particular mountain.
+- **A418.1** — Angel of mountains.
+- **A419** — Local gods miscellaneous.
+- **A419.1** — Deity of particular forest.
+- **A419.1.1** — Angel of the bush.
+- **A419.2** — Deity of the deserts.
+- **A419.2.1** — Angel of the deserts.
+- **A419.3** — Gods of seat-braces on canoe.
+- **A420** — God of water.
+- **A420.1** — Water-goddess.
+- **A421** — Sea-god.
+- **A421.0.1** — Angel of the deep.
+- **A421.1** — Sea-goddess.
+- **A421.1.1** — Sea-queen and hand maidens entice lovers.
+- **A423** — Waves as girls, daughters or widows of the sea-god.
+- **A425** — River-god.
+- **A425.0.1** — Angel of rivers.
+- **A425.1** — River goddess.
+- **A425.1.1** — Stream is wife of deity.
+- **A427** — God of springs.
+- **A427.1** — Goddess of springs and wells.
+  *In Greek myth, the nymphs were regarded as deities of springs. In Babylonian, Ishtar, the goddess of fertility had this function.*
+- **A430** — God of vegetation.
+- **A430.0.1** — Angel in charge of vegetation.
+- **A430.1** — Goddess of vegetation.
+- **A430.1.1** — Goddess of splendor of spring.
+- **A430.1.2** — Goddess of autumn leaves.
+- **A431** — God of fertility.
+- **A431.1** — Goddess of fertility.
+- **A431.1.1** — In absence of goddess of fertility, no reproduction of life.
+- **A431.1.2** — Goddess of fertility of wild forest plants.
+- **A431.1.3** — Goddess causes famine.
+- **A431.1.4** — Goddess of dryness and sterility.
+- **A432** — God of agriculture.
+- **A432.0.1** — God plants fields.
+- **A432.0.2** — Plowman god.
+- **A432.1** — Goddess of agriculture.
+- **A433** — Gods or goddesses of special crops.
+  *Mangaia (Cook Is.)*
+- **A433.1** — Corn-god (goddess).
+- **A433.1.1** — God of rice-fields.
+- **A433.2** — The seven grain sisters.
+- **A433.3** — God of the vine.
+- **A433.4** — God (goddess) of fruit.
+- **A433.5** — God (angel) of grass.
+- **A434** — Goddess (god) of flowers.
+- **A435** — God of trees and forests.
+- **A435.1** — Bamboo goddess.
+- **A435.2** — Fig tree as god.
+- **A440** — God of animals.
+- **A440.1** — Goddess of animals.
+- **A441** — God (goddess) of domestic animals.
+- **A441.1** — God of domestic beasts.
+- **A441.1.1** — Goddess of buffaloes.
+- **A441.1.2** — God of flocks.
+- **A441.2** — God of domestic fowls.
+- **A443** — God (goddess) of wild animals.
+- **A443.1** — God of wild beasts.
+- **A443.2** — God of wild fowls.
+- **A443.2.1** — God of owls.
+- **A445** — God of fish.
+- **A445.0.1** — Angel of fishes.
+- **A445.1** — God of the squid.
+- **A445.2** — God of eels.
+- **A446** — God of reptiles.
+- **A446.1** — God of lizards.
+- **A446.1.1** — God whose shadow on earth is a lizard.
+- **A446.2** — God of the cutworm.
+- **A450** — God of trades and professions.
+- **A450.1** — God "of many arts".
+- **A451** — Artisan-god.
+- **A451.1** — God of smith-work.
+- **A451.1.1** — Goddess of smith-work.
+- **A451.2** — God of carpenters.
+- **A451.2.1** — God as canoe builder.
+- **A451.3** — God of handicrafts.
+- **A451.3.1** — Goddess of weaving and spinning.
+- **A451.4** — Goddess of pottery.
+- **A452** — God of hunting.
+- **A452.1** — Goddess of hunting.
+- **A453** — Shepherd-god.
+- **A454** — God of healing.
+- **A454.0.1** — Angel of healing (Raphael).
+- **A454.1** — Goddess of healing.
+- **A455** — God of fishing.
+- **A456** — God of sailors.
+- **A456.1** — Goddess of sailors.
+- **A457** — God of thieves.
+- **A459** — God of trades and professions miscellaneous.
+- **A459.1** — God or goddess of skiing (or snow-shoes).
+- **A460** — Gods of abstractions.
+- **A461** — God of wisdom.
+- **A461.1** — Goddess of wisdom.
+- **A462** — God of beauty.
+- **A462.1** — Goddess of beauty.
+- **A463** — God of fate.
+- **A463.0.1** — God of fate in shape of golden frog.
+- **A463.1** — The Fates.
+  *Goddesses who preside over the fates of men.*
+- **A463.1.1** — The Fates weave.
+- **A463.1.2** — Three fates in house in woods allot destiny to people.
+- **A464** — God of justice.
+- **A464.1** — Goddess of justice.
+- **A465** — God of the arts.
+- **A465.0.1** — The Nine Muses, patronesses of the arts.
+- **A465.1** — God of poetry.
+- **A465.1.1** — Goddess of poetry.
+- **A465.2** — God of music.
+- **A465.2.0.1** — God as harper.
+- **A465.2.1** — Goddess of music.
+- **A465.3** — God of eloquence and learning.
+- **A465.3.0.1** — God of eloquence and learning as inventor of ogam alphabet.
+- **A465.3.1** — Goddess of eloquence and learning.
+- **A465.4** — God of the dance.
+- **A465.4.1** — Goddess of the dance.
+- **A465.5** — God of pictorial art.
+- **A465.5.1** — God of tattooing.
+- **A466** — Goddess of fame.
+- **A467** — God of happiness.
+- **A467.1** — Angel of peace.
+- **A468** — The three Graces.
+- **A471** — God of prophecy.
+- **A471.1** — Goddess of prophecy.
+- **A472** — God of sleep.
+- **A472.0.1** — Angel of insomnia.
+- **A472.1** — Goddess of sleep.
+- **A473** — God of wealth.
+- **A473.0.1** — Angel of poverty.
+- **A473.1** — Goddess of wealth.
+- **A473.1.1** — Goddess of prosperity.
+- **A474** — Gods of youth and age.
+- **A474.1** — God of youth.
+- **A474.1.1** — Goddess of youth.
+- **A474.2** — God (goddess) of longevity.
+- **A475** — God of love.
+- **A475.0.1** — Cupid with arrows of lead and gold.
+- **A475.0.2** — Marriage-god.
+- **A475.1** — Goddess of love.
+- **A475.1.1** — Goddess of love with thousand faces.
+- **A475.1.1.1** — Goddess of thousand eyes discovered by lousing.
+- **A476** — Goddess of chastity.
+- **A477** — Goddess of childbirth.
+- **A477.1** — Goddess of cradle.
+- **A478** — God of disease.
+- **A478.1** — Goddess of pestilence.
+- **A478.2** — God (goddess) of smallpox.
+- **A478.3** — God (goddess) of cholera.
+- **A478.4** — God of fevers.
+- **A478.5** — Devil of leprosy.
+- **A478.6** — Angel (demon) of blindness.
+- **A481** — God of intoxication (or of wine).
+- **A482** — God of gambling (luck).
+- **A482.1** — Goddess of ill-luck.
+- **A482.1.1** — Spirit of ill-luck a son of a god.
+- **A482.2** — Goddess of good luck (Lakshmi).
+- **A483** — God of mercy.
+- **A483.0.1** — Angel of mercy.
+- **A483.1** — Goddess of mercy.
+- **A484** — God of oaths.
+- **A484.1** — Goddess of oaths.
+- **A485** — God of war.
+- **A485.1** — Goddess of war.
+- **A485.2** — Valkyries (shield-maidens).
+  *Demigoddesses who attend battle.*
+- **A485.3** — God of single-combats.
+- **A486** — The Furies.
+  *Goddesses of vengeance.*
+- **A487** — God of death.
+- **A487.0.1** — Death kills only those whose time it is to die.
+- **A487.1** — Goddess of death.
+- **A488** — God of destruction.
+- **A489** — Gods of abstractions miscellaneous.
+- **A489.1** — Goddess of protection.
+- **A489.2** — God of strength.
+- **A489.3** — God of fear.
+- **A489.3.1** — Angel of fear.
+- **A489.4** — God of laughter.
+- **A490** — Miscellaneous gods of the earth.
+- **A491** — God of travelers.
+- **A492** — God of metals.
+- **A493** — God of fire.
+- **A493.0.1** — Angel of fire.
+- **A493.1** — Goddess of fire.
+- **A493.2** — God of the furnace.
+- **A494** — Food-goddess.
+- **A495** — Mountain-god.
+- **A496** — God of the seasons.
+- **A496.1** — God of spring.
+- **A497** — Echo.
+- **A497.1** — Echo invisible.
+- **A498** — Deity of stone.
+- **A499** — Other deities.
+- **A499.1** — Python-goddess.
+- **A499.2** — Goddess of the hair.
+- **A499.3** — God of stones.
+- **A499.4** — God of sorcery.
+- **A499.4.1** — Goddess of sorcery.
+- **A499.5** — God of dreams.
+- **A499.6** — God of poison.
+- **A499.7** — Goddess of the parasol.
+
+## Demigods and culture heroes
+
+- **A500** — Demigods and culture heroes.
+- **A501** — Groups of demigods.
+- **A501.1** — Seven demigods.
+- **A502** — Heroes or demigods as fourth race of men.
+- **A504** — Male virgin demigod.
+- **A506** — Half-spirit, half-man.
+- **A510** — Origin of the culture hero (demigod).
+- **A510.1** — Culture hero as god.
+- **A510.2** — Culture hero reborn.
+- **A511** — Birth and rearing of culture hero (demigod).
+- **A511.1** — Birth of culture hero.
+- **A511.1.1** — Culture hero snatched from mother's side.
+- **A511.1.1.1** — River flows from corpse of mythical mother of culture hero.
+- **A511.1.2** — Culture hero speaks before birth.
+- **A511.1.2.1** — Twin culture heroes quarrel before birth.
+- **A511.1.2.2** — Culture hero in mother's womb indicates direction to be taken by her.
+- **A511.1.3** — Culture hero incarnated through birth from virgin.
+- **A511.1.3.1** — Demigod son of king's unmarried sister (daughter) by god.
+- **A511.1.3.2** — Demigod son of king's unmarried sister by her brother.
+- **A511.1.3.3** — Immaculate conception of culture hero.
+- **A511.1.4** — Magic origin of culture hero.
+- **A511.1.4.1** — Origin of culture hero from bursting stone.
+- **A511.1.4.2** — Hero formed by god out of mother's apron.
+- **A511.1.4.3** — Birth of culture heroes from human bones swallowed by jaguar's human wife.
+- **A511.1.4.4** — Culture hero creates a companion from a toenail.
+- **A511.1.5** — Culture hero son of mortal (half-mortal) father.
+- **A511.1.6** — Culture hero posthumous child.
+- **A511.1.7** — Culture hero born three times.
+- **A511.1.8** — Culture hero son of animal.
+- **A511.1.8.1** — Culture hero son of deer mother.
+- **A511.1.8.2** — Culture hero offspring of woman and jaguar.
+- **A511.1.8.3** — Mythical lizards parents of culture hero.
+- **A511.1.9** — Culture hero born from egg.
+- **A511.2** — Care of culture hero.
+- **A511.2.1** — Abandonment of culture hero at birth.
+- **A511.2.1.1** — Abandoned culture hero captured by use of net.
+- **A511.2.2** — Nursing of culture hero.
+- **A511.2.2.1** — Culture hero suckled by wolf.
+- **A511.2.2.2** — Culture hero cared for by tiger.
+- **A511.2.3** — Culture hero is hidden in order to escape enemies.
+- **A511.3** — Education of culture hero.
+- **A511.3.1** — Culture hero reared in seclusion.
+- **A511.3.2** — Culture hero reared (educated) by extraordinary (supernatural) personages.
+- **A511.4** — Growth of culture hero.
+- **A511.4.1** — Miraculous growth of culture hero.
+- **A512** — Parentage of culture hero.
+- **A512.1** — Culture hero's grandmother.
+- **A512.2** — Culture hero creator's son.
+- **A512.3** — Culture hero as son of god.
+- **A512.4** — Sun as father of culture hero.
+- **A513** — Coming of culture hero (demigod).
+- **A513.1** — Demigods descend from heaven.
+- **A513.2** — Culture hero arrives (and departs) in boat.
+- **A515** — Pair of culture heroes.
+- **A515.1** — Culture heroes brothers.
+- **A515.1.1** — Twin culture heroes.
+- **A515.1.1.1** — Twin culture heroes sired by two fathers.
+- **A515.1.1.2** — Twin culture heroes one foolish, one clever.
+- **A515.1.1.3** — Twin culture heroes conceived of as sun and moon.
+- **A515.1.2** — Sworn brothers as culture heroes.
+- **A515.2** — Father and son as culture heroes.
+- **A515.3** — Culture hero has blood brother.
+- **A515.4** — Culture hero has faithful attendant.
+- **A515.5** — Culture hero fights with (encounters) son without recognizing him.
+- **A516** — Expulsion and return of culture hero.
+- **A520** — Nature of the culture hero (demigod).
+- **A520.1** — Gods as culture heroes.
+- **A521** — Culture hero as dupe or trickster.
+- **A522** — Animal as culture hero.
+- **A522.1** — Beast as culture hero.
+- **A522.1.1** — Dog as culture hero.
+- **A522.1.1.1** — Culture hero acts as watch-dog; named "Hound".
+- **A522.1.2** — Rabbit as culture hero.
+- **A522.1.3** — Coyote as culture hero.
+- **A522.1.4** — Fox as culture hero.
+- **A522.1.5** — Mink as culture hero.
+- **A522.2** — Bird as culture hero.
+- **A522.2.1** — Blue Jay as culture hero.
+- **A522.2.2** — Raven as culture hero.
+- **A522.2.3** — Hawk as culture hero.
+- **A522.2.4** — Aquatic bird as culture hero.
+- **A522.3** — Other animals as culture hero.
+- **A522.3.1** — Spider as culture hero.
+- **A523** — Giant as culture hero.
+- **A523.1** — Giant sword of culture hero.
+- **A524** — Extraordinary possessions of culture hero.
+- **A524.1** — Culture hero's extraordinary animals.
+- **A524.1.1** — Culture hero has marvelous dogs.
+- **A524.1.2** — Culture hero has marvelous horses.
+- **A524.2** — Extraordinary weapons of culture hero.
+- **A525** — Good and bad culture heroes.
+- **A525.1** — Culture hero fights with his elder brother.
+- **A525.2** — Culture hero (god) slays his grandfather.
+- **A526** — Physical characteristics of culture hero (demigod).
+- **A526.1** — Culture hero can be wounded.
+- **A526.2** — Culture hero as mighty hunter.
+- **A526.3** — Culture hero has irresistible beauty spot (ball seirc).
+- **A526.4** — Culture hero has three heads of hair of different colors.
+- **A526.5** — Culture hero has seven pupils in each eye, seven toes on each foot, seven fingers on each hand.
+- **A526.5.1** — Culture hero with different colored eyes, one brown, one green.
+- **A526.6** — Culture hero, when angry, subject to contortions.
+- **A526.7** — Culture hero performs remarkable feats of strength and skill.
+- **A526.8** — Culture hero can turn feet and knees backwards.
+- **A526.9** — Lightning flashes from armpits of hero.
+- **A527** — Special powers of culture hero.
+- **A527.1** — Culture hero precocious.
+- **A527.1.1** — Divine twins make selves a bow and arrow.
+- **A527.2** — Culture hero has knowledge-giving member (thumb, tooth).
+- **A527.3** — Culture hero as magician (drai).
+- **A527.3.1** — Culture hero can transform self.
+- **A527.3.1.1** — Culture hero assumes ugly and deformed guise.
+- **A527.4** — Culture hero as poet (musician).
+- **A528** — Culture hero has supernatural helpers.
+- **A530** — Culture hero establishes law and order.
+- **A530.1** — Culture hero completes work of creator.
+- **A531** — Culture hero (demigod) overcomes monsters.
+- **A531.1** — Culture hero spares certain evil spirits.
+  *Old Age, Cold, Poverty, and Hunger beg the culture hero not to destroy them because of their real usefulness to man.*
+- **A531.1.1** — Culture hero banishes demons.
+- **A531.2** — Culture hero banishes snakes.
+- **A531.3** — Culture hero exterminates race of tigers.
+- **A531.4** — Culture hero conquers sea monster.
+- **A531.4.1** — Demigod conquers great octopus.
+- **A532** — Culture hero tames winds in caves.
+- **A533** — Culture hero regulates rivers.
+- **A533.1** — Culture hero stays current of river.
+- **A535** — Culture hero swallowed and recovered from animal.
+- **A536** — Demigods fight as allies of mortals.
+- **A536.1** — Culture hero (saint) defends Ireland against foreign invasions.
+- **A537** — Culture heroes clear plains.
+- **A538** — Culture hero builds raths.
+- **A541** — Culture hero teaches arts and crafts.
+- **A541.1** — Culture hero invents and teaches the Irish language.
+- **A541.2** — Culture hero as god of agriculture.
+- **A545** — Culture hero establishes customs.
+- **A546** — Culture hero establishes social system.
+- **A547** — Culture hero dispenses food and hospitality.
+- **A560** — Culture hero  's (demigod's) departure.
+- **A561** — Divinity's departure for west.
+- **A562** — Divinity's departure for east.
+- **A564** — Remarkable longevity of culture heroes.
+- **A565** — Dying culture hero.
+  *The culture hero teaches people how to die by dying himself.*
+- **A566** — Culture hero returns to upper world.
+- **A566.1** — Return of mortal reincarnation of celestial being to the country of the gods after his mission has been accomplished on earth.
+- **A566.2** — Culture hero ascends to heaven guided by blind ancestress.
+- **A567** — Divinity retires to the end of the world.
+- **A570** — Culture hero still lives.
+- **A571** — Culture hero asleep in mountain.
+- **A571.1** — Culture hero still alive in hollow hill.
+- **A571.2** — Culture hero still alive on mysterious island.
+- **A572** — Culture hero still keeps watch over earth.
+- **A572.1** — Culture hero still resides in the zenith.
+- **A575** — Departed deity grants requests to visitors.
+- **A580** — Culture hero  's (divinity's) expected return.
+  *Divinity or hero is expected to return at the proper time and rescue his people from their misfortunes.*
+- **A581** — Culture hero (divinity) returns.
+- **A581.1** — Culture hero returns and assists mortals.
+- **A581.2** — Culture hero returns and aids followers in battle.
+- **A581.3** — Culture hero returns to prove power of saint.
+- **A590** — Demigods and culture heroes miscellaneous.
+- **A591** — Semi-divine hero granted free access to men's wives.
+- **A592** — Culture heroes and descendants.
+- **A592.1** — Demigod and witch woman of upper world have son.
+- **A592.2** — Virgin daughter of culture hero.
+- **A592.2.1** — Daughter of culture hero gives birth to boy.
+
+## Creation of the universe
+
+- **A600** — Creation of the universe.
+- **A601** — Universe created in specified time and order.
+- **A601.1** — Universe created in five periods of time.
+- **A601.2** — Universe created in six days.
+- **A605** — Primeval chaos.
+- **A605.1** — Primeval darkness.
+- **A605.2** — Primeval cold.
+- **A610** — Creation of universe by creator.
+  *The creator is existing before all things.*
+- **A610.1** — All things created in pairs (heaven and earth, etc.  )
+- **A610.2** — Creation of heaven, earth, and hell.
+- **A611** — Fiat creation.
+  *Universe is created at command of creator.*
+- **A611.0.1** — Creator uses particular formula (letters) to create universe.
+- **A611.1** — Druids as creators.
+- **A612** — Creation: materialization of creator's thinking.
+  *Creator "thinks outward in space"  and thus produces the universe.*
+- **A612.1** — World-soul.
+  *The universe a manifestation of the creator.*
+- **A613** — Creation from creator's tears.
+- **A614** — Universe from parts of creator's body.
+  *Ymir makes the world from his members mountains from bones, cliffs from teeth, heavens from skull, etc.*
+- **A614.1** — Universe from parts of man's body.
+- **A615** — Universe as offspring of creator.
+  *The Sky Father begets various parts of the universe by his various wives.*
+- **A615.1** — Universe from creator's masturbation with water, with stone, and with earth.
+- **A615.2** — Universe from copulation of various objects to produce others.
+- **A617** — Creation of universe from clam-shell on primeval water by creator.
+- **A617.1** — Creation of universe from clay pot set afloat on primeval waters.
+- **A617.2** — Creation of universe from calabash.
+- **A618** — Universe created by various activities of creator.
+- **A618.1** — Universe coughed into being.
+- **A618.2** — Universe created by spitting.
+- **A620** — Spontaneous creation of universe.
+- **A620.1** — Spontaneous creation evolutionary type.
+  *From primeval chaos gradually arise worlds and life.*
+- **A620.2** — Spontaneous encroachment of heavens and earth checked by creator.
+- **A621** — Universe from congealed vapor.
+- **A621.1** — Creation from vapor-produced primeval giant.
+  *Vapors from half-frozen primeval river origin of giant Ymir, from whom universe is created.*
+- **A622** — Universe created out of fire world.
+- **A623** — Universe created out of ice and mist.
+- **A625** — World parents: sky-father and earth-mother as parents of the universe.
+  *The sky-father descends upon the earth-mother and begets the world.*
+- **A625.1** — Heaven-mother earth-father.
+- **A625.2** — Raising of the sky.
+  *Originally the sky is near the earth (usually because of the conjunction of the sky-father and earth-mother). It is raised to its present place.*
+- **A625.2.1** — Heaven and earth originally connected by navel string.
+  *Navel string cut.*
+- **A625.2.2** — Why the sky receded upward: it was struck by a woman's pestle.
+- **A625.2.3** — Raising the sky: striking with broom.
+  *Old woman's hump strikes clouds as she sweeps. She strikes at sky with broom and thus raises it.*
+- **A625.2.4** — Deity clothes his father the sky after he has separated him from earth.
+- **A625.2.5** — After sky is lifted, plants and shrubs begin to grow.
+- **A630** — Series of creations.
+  *The present universe is the last of a succession of creations.*
+- **A631** — Pre-existing world of gods above.
+  *Such a world is assumed before the real creation of the universe. Though this belief is not explicitly set forth in many mythologies, it seems to be implied in most of the North American Indian systems.*
+- **A632** — Succession of creations and cataclysms.
+  *From the ruins of each earlier creation a new one is raised.*
+- **A633** — Earlier universe opposite of present.
+  *Everything in the earlier world was the reverse of the present world.*
+- **A636** — New creation shouted away.
+  *It is unstable and therefore unsatisfactory.*
+- **A640** — Other means of creating the universe.
+- **A641** — Cosmic egg.
+  *The universe brought forth from an egg.*
+- **A641.1** — Heaven and earth from egg.
+  *They are the two halves of an egg shell. Eros escapes as they are separated.*
+- **A641.2** — Creation from duck's eggs.
+  *Upper vault from half shell, lower vault from half shell, moonbeams from whites, sunshine from yellows, starlight from motley parts, clouds from dark parts.*
+- **A642** — Universe from body of slain giant.
+  *Ymir.*
+- **A642.1** — Primeval woman cut in pieces: houses, etc., made from her body.
+- **A644** — Universe from pre-existing rocks.
+  *Originally rocks are assumed and everything is made from them.*
+- **A645** — Creation of universe: genealogical type.
+  *A begets B, who begets C, etc. Finally the universe is brought forth in its present form.*
+- **A647** — Universe from cosmic fowl.
+- **A650** — The universe as a whole.
+- **A651** — Hierarchy of worlds.
+  *A series of worlds, one above the other.*
+- **A651.0.1** — Nine worlds.
+- **A651.0.2** — Four world systems.
+- **A651.1** — Series of upper worlds.
+- **A651.1.0.1** — Highest of celestial worlds consists of twenty heavens.
+- **A651.1.1** — Three heavens.
+- **A651.1.1.1** — Third sky above prevents earth being burned by sun.
+- **A651.1.1.2** — Region above the three worlds.
+- **A651.1.2** — Four heavens.
+- **A651.1.3** — Five heavens.
+- **A651.1.4** — Seven heavens.
+  *A series of seven upper worlds.*
+- **A651.1.5** — Eight heavens.
+- **A651.1.6** — Nine heavens.
+- **A651.1.6.1** — The nine ranks (orders) of heaven.
+- **A651.1.7** — Ten heavens.
+- **A651.1.8** — Series of upper worlds miscellaneous.
+- **A651.1.8.1** — Seventeen-storied heaven.
+- **A651.2** — Series of lower worlds.
+- **A651.2.0.1** — Creator lives in lowest sky beneath us.
+- **A651.2.1** — Two lower worlds.
+- **A651.2.2** — Three lower worlds.
+- **A651.2.3** — Seven lower worlds.
+- **A651.3** — Worlds above and below.
+- **A651.3.1** — Seven worlds above and below.
+  *An angel upholds the seven worlds on his shoulders. Under him in turn are: rock, bull, fish, vast sea, air, fire, and serpent.*
+- **A651.3.2** — Worlds above and below miscellaneous.
+- **A652** — World-tree.
+  *Tree extending from lowest to highest world.*
+- **A652.1** — Tree to heaven.
+- **A652.1.1** — Tree to heaven from goddess' necklace which she hangs on branch.
+- **A652.2** — Tree hanging from sky.
+  *A tree hangs upside down in the sky. By its branches men pass back and forth to the upper world.*
+- **A652.3** — Tree in upper world.
+- **A652.4** — Sky as overshadowing tree.
+  *Shadowing the earth.*
+- **A653** — Earth under umbrella.
+- **A654** — Primary elements of universe.
+  *(Earth, air, fire, water, etc.).*
+- **A655** — World as egg.
+  *The two halves are heaven and earth.*
+- **A657** — River connecting earth and upper and lower worlds.
+- **A657.1** — Bridge connecting earth and heaven.
+- **A657.2** — Heaven and earth touch each other at east, west, and south.
+- **A658** — Size and distances of the universe.
+- **A658.1** — Nine days' fall from heaven to earth; the same from earth to hell.
+- **A658.1.1** — Nine nights' riding from heaven (or earth) to hell.
+- **A658.2** — Five hundred years travel across universe.
+- **A659** — The universe as a whole miscellaneous.
+- **A659.1** — Music of the spheres.
+- **A659.2** — Big lake under the earth.
+- **A659.3** — River's source where sky and earth meet.
+- **A659.4** — Each world corresponds to different color.
+- **A660** — Nature of the upper world.
+- **A661** — Heaven.
+  *A blissful upper world.*
+- **A661.0.1** — Gate of heaven.
+- **A661.0.1.1** — Gate of heaven guarded by clap of thunder and mysterious sword.
+- **A661.0.1.1.1** — Doors of heaven guarded by rivers of fire.
+- **A661.0.1.1.2** — Veils of fire and ice before chief door of heaven.
+- **A661.0.1.2** — Saint Peter as porter of heaven.
+- **A661.0.1.3** — Archangels Michael and Ariel as porters of two of the doors of heaven.
+- **A661.0.1.4** — Abersetus as guardian of river of fire at one of the doors of heaven.
+- **A661.0.1.5** — Virgins with iron rods as guardians of two of the doors in heaven.
+- **A661.0.2** — Music in heaven.
+- **A661.0.2.1** — Heavenly music caused by four columns under Lord's chair.
+- **A661.0.2.2** — Music produced by precious stones in heaven.
+- **A661.0.3** — Chairs in heaven.
+- **A661.0.4** — Cleansing fountain in heaven.
+- **A661.0.5** — Bridge of heaven.
+- **A661.0.5.1** — Soul-bridge: easy for righteous to cross, more difficult for others.
+- **A661.0.6** — Windows in heaven: sixty-six (seventy-two) windows in the firmament.
+- **A661.0.7** — Self-illuminating precious stones in heaven.
+- **A661.0.8** — Sweet odor in heaven.
+- **A661.0.9** — Heaven surrounded by seven walls.
+- **A661.0.10** — Land of the saints surrounded by fiery circle.
+- **A661.1** — Valhalla.
+  *The hall of warriors who go to Odin. They die and are resurrected daily.*
+- **A661.1.0.1** — Valhalla has five hundred and forty doors.
+- **A661.1.0.2** — Goat (Heidr '  n) in Valhalla gives mead.
+- **A661.1.0.3** — Hog (Soehr n  mnir) in Valhalla gives meat.
+- **A661.1.0.4** — Deer (Eikthyrnir) in Valhalla fills the fountain Hvergelmir.
+- **A661.1.0.5** — Cock in Valhalla awakens the gods.
+- **A661.1.1** — Inhabitants of heaven divided into companies.
+- **A661.1.2** — Saint sees vision of three cities in heaven: a city of gold, a city of silver, a city of glass.
+- **A661.2** — The eight paradises.
+- **A661.3** — Five trees of paradise.
+- **A661.4** — Girls dancing in heaven.
+- **A662** — Upper world (heaven) as a mountain.
+  *The sky is the hollowed under side of the mountain.*
+- **A663** — The plains of heaven.
+- **A665** — Support of the sky.
+- **A665.0.1** — God stabilizes the sky.
+- **A665.1** — God of space upholds sky.
+- **A665.2** — Pillar supporting sky.
+- **A665.2.0.1** — Pillars supporting sky.
+- **A665.2.1** — Four sky-columns.
+  *Four columns support the sky.*
+- **A665.2.1.1** — Four gods at world-quarters support the sky.
+- **A665.2.1.2** — Four dwarfs support the sky.
+- **A665.2.1.3** — Sky extended by means of pillars.
+- **A665.3** — Mountain supports sky.
+- **A665.3.1** — Four mountains support sky.
+- **A665.4** — Tree supports sky.
+- **A665.5** — Sky held against earth by great octopus.
+- **A665.6** — Serpent supports sky.
+- **A666** — Ladder to heaven (applied to saint).
+- **A666.1** — Eight (symbolical) steps of the ladder of heaven.
+- **A666.2** — Rodent gnaws away ladder to other world and thus ghosts remain on earth.
+- **A667** — Language of heaven.
+- **A669** — Nature of the upper world miscellaneous.
+- **A669.1** — Judges in the upper world.
+- **A669.2** — Sky of solid substance.
+- **A670** — Nature of the lower world.
+- **A671** — Hell.
+  *Lower world of torment.*
+- **A671.0.1** — Hell located to the north.
+- **A671.0.1.1** — Other locations for hell.
+- **A671.0.2** — Creation of hell.
+- **A671.0.2.1** — Fire in hell.
+  *Christ created fire in hell from his blood; formerly hell was cold.*
+- **A671.0.3** — Entrance to cave as gate to hell.
+- **A671.0.4** — Hell confused with fairy land.
+- **A671.0.5** — Size and arrangements of hell.
+- **A671.1** — Doorkeeper of hell.
+- **A671.2** — Horrible sights in hell.
+- **A671.2.1** — Serpents in hell.
+- **A671.2.1.1** — Adders in hell.
+- **A671.2.2** — Rivers of blood in hell.
+- **A671.2.2.1** — Rivers of poison in hell.
+- **A671.2.2.2** — River in hell filled with weapons.
+- **A671.2.2.3** — Rivers of fire in hell.
+- **A671.2.2.4** — Rivers of black water in hell.
+- **A671.2.2.5** — Four (three) rivers in hell.
+- **A671.2.2.6** — Other rivers in hell.
+- **A671.2.3** — Tree in hell made of living heads of the dead.
+- **A671.2.4** — The fires of hell.
+- **A671.2.4.1** — Sea of fire in hell.
+- **A671.2.4.2** — Islands in sea of fire in hell.
+- **A671.2.4.3** — Fiery showers in hell.
+- **A671.2.4.4** — Burning plains in hell.
+- **A671.2.4.5** — Fiery glens in hell.
+- **A671.2.4.6** — Fiery wheels in hell.
+- **A671.2.4.7** — Fiery chains in hell.
+- **A671.2.4.8** — Fiery sticks in hell.
+- **A671.2.4.9** — Fiery stones in hell.
+- **A671.2.4.10** — Fiery nails in hell.
+- **A671.2.4.11** — Fiery columns in hell.
+- **A671.2.4.12** — Swift, flaming winds in hell.
+- **A671.2.4.13** — Four fires in hell.
+- **A671.2.5** — Dragons in hell.
+- **A671.2.6** — Wolf in hell.
+- **A671.2.7** — Gnats in hell.
+- **A671.2.8** — Toads in hell.
+- **A671.2.9** — Scorpions in hell.
+- **A671.2.10** — Griffins in hell.
+- **A671.2.11** — Birds made of iron in hell.
+- **A671.2.12** — Lions in hell.
+- **A671.2.13** — Scratching cats in hell.
+- **A671.2.14** — Tigers in hell.
+- **A671.3** — Frigidity of hell.
+- **A671.3.1** — Coldness in hell.
+- **A671.3.2** — Rugged, icy mountains in hell.
+- **A671.3.3** — Alternate heat and cold in hell.
+- **A671.4** — Well in hell (Hvergelmir).
+- **A671.5** — Gate around hell.
+- **A671.6** — Beings born in hell have long bodies and cling with long nails to walls.
+- **A672** — Stygian river.
+  *River in lower world. In Greek myth five such rivers in Hades, Styx (hate), Acheron (mourning), Kokytus (lamentation), Lethe (forgetfulness) and Pyrephlegethon (flame).*
+- **A672.1** — Ferryman on river in lower world (Charon).
+- **A672.1.1** — Charon exacts fee to ferry souls across Styx.
+- **A672.2** — Maiden at the bridge to hell.
+- **A673** — Hound of hell.
+  *Cerberus (monstrous dog) guards the bridge to the lower world.*
+- **A673.1** — Dogs in hell.
+- **A673.2** — Cock of hell.
+- **A675** — Judges in the lower world.
+- **A676** — Ship of hell.
+- **A677** — Workmen and tradesmen of hell.
+- **A677.1** — Smith of hell.
+- **A677.2** — Miller of hell.
+- **A678** — In other world one room contains the dead, another contains souls of the unborn waiting to enter the wombs of women, and a third contains all the evil spirits.
+- **A681** — Sun in the underworld.
+- **A682** — Hole to lower world up which people come.
+- **A689** — Nature of the lower world miscellaneous.
+- **A689.1** — Dark puddles in hell.
+- **A689.2** — Foul odor in hell.
+- **A689.3** — Hunger in hell.
+- **A689.3.1** — Dogs incited to devour souls in hell.
+- **A690** — Miscellaneous worlds.
+- **A692** — Islands of the blest.
+- **A692.1** — Overseas otherworld in the west.
+- **A693** — Intermediate future world.
+  *Residence for those whose good and evil deeds exactly counterbalance.*
+- **A694** — Christian paradise.
+- **A694.1** — Christian paradise (Terra Repromissionis) corresponding to pagan Celtic otherworld (Ireland).
+- **A695** — Moon as next world.
+- **A696** — World of serpents.
+- **A697** — Various Buddhist otherworlds.
+- **A697.1** — Brahma world.
+- **A697.2** — Tusita world.
+- **A697.2.1** — Years are days in Tusita world.
+- **A697.3** — Deva world.
+
+## Creation of the heavenly bodies
+
+- **A700** — Creation of the heavenly bodies.
+- **A700.1** — Heavenly bodies from objects thrown into sky.
+  *The Christ Child throws mud pies into the sky and creates sun, moon, and stars.*
+- **A700.2** — Heavenly bodies vomited up by creator.
+- **A700.3** — A woman has four children: sun, moon, fire, and water.
+- **A700.4** — Heavenly bodies created after the plant world.
+- **A700.5** — Sun, moon, and stars forged by smith.
+- **A700.6** — Sun and moon purchased.
+- **A700.7** — Sun, moon, and stars nourished on fire.
+- **A700.8** — Sun, moon, and darkness as god's three children.
+- **A701** — Creation of the sky.
+- **A701.0.1** — Creation of firmament.
+- **A701.1** — Origin of sky from egg brought from primeval water.
+- **A701.2** — Origin of sky from Ymir's skull.
+- **A702** — Nature of the sky.
+- **A702.1** — Sky of water.
+  *The sky consists of water.*
+- **A702.2** — Sky as solid vault (tent).
+- **A702.3** — Sky supported by north star ("nail of the north") around which it revolves.
+- **A702.3.1** — Celestial bodies attached to a wheel in heaven around which they move.
+- **A702.4** — Why the sky is blue.
+- **A702.5** — Marriage of earth and sky.
+- **A702.6** — Sky measured by bird.
+- **A702.7** — Clouds as props of the sky.
+- **A702.8** — Sky is black because once raised by means of dirty stick.
+- **A702.9** — Sky immortal, changing skin like a snake.
+- **A703** — Angels arrange course of heavenly bodies.
+- **A705** — Origin and nature of clouds.
+- **A705.1** — Origin of clouds.
+- **A705.1.1** — Creator makes clouds from own vitals.
+- **A705.1.2** — Clouds as tapa beaten out by woman in moon.
+- **A705.2** — Nature of clouds (covered with skin).
+- **A710** — Creation of the sun.
+- **A711** — Sun as man who left earth.
+  *Man, usually of supernatural birth, ascends to the sky and becomes the sun.*
+- **A711.1** — Sun and moon as uncle and nephew who ascended to the sky.
+- **A711.2** — Sun as a cannibal.
+- **A711.3** — Originally a moon but no sun.
+- **A711.4** — Originally no sun.
+- **A712** — Sun as fire rekindled every morning.
+- **A712.1** — Moon from light, sun from fire.
+- **A713** — Sun and moon from cave.
+- **A713.1** — Sun and moon from belly of a fish.
+- **A714** — Sun from object thrown into sky.
+- **A714.1** — Sun and moon placed for eyes in the sky.
+- **A714.2** — Sun and moon placed in top of tree.
+  *Hero makes the sun and moon and fastens them to the top of the "World Tree"  (cf. +A652), but they give no light at first.*
+- **A714.3** — Sun from fire flung into sky.
+- **A714.4** — Sun and moon metal mirrors in sky.
+- **A714.5** — Sun as grindstone full of fire.
+- **A714.6** — Sun and moon as spangle which falls from creator's forehead into his own urine.
+- **A714.7** — Sun and moon as eyes of Rama which he tore out after his brother's death.
+- **A714.8** — Wooden circles that were the sun and moon animated after human sacrifice of blood.
+- **A715** — Sun born of first couple.
+- **A715.1** — Sun and moon born from a woman.
+- **A715.2** — Sun and moon born from a goddess impregnated by the wind.
+- **A715.3** — Sun and moon born from an ogre.
+- **A715.4** — Sun and moon from breasts of mother earth.
+- **A715.5** — Sun as offspring of moon.
+- **A715.6** — Sun and moon born of lizard.
+- **A716** — Dispute at creation of sun.
+  *God and devil discuss creation. God plans two suns; devil persuades him to create only one.*
+- **A716.1** — Four suns at first: culture hero shoots three down.
+- **A717** — Hero makes sun and moon from tree and sends them alternately into sky.
+- **A717.1** — Hero makes sun and moon from tree and vivifies them with blood of creator's son.
+- **A718** — Sun from transformation.
+- **A718.1** — Sun from head of youth offered in sacrifice.
+- **A718.2** — Sun and moon as divine bodies of gods.
+- **A718.3** — Sun from fruit kernels thrown into water of flood.
+- **A718.4** — Sun from transformed maggots.
+- **A719** — Creation of sun miscellaneous.
+- **A719.1** — Sun emerges from lake.
+- **A719.2** — After world catastrophe, new sun reappears and starts new epoch.
+- **A719.3** — Sun created on fourth day of creation.
+- **A720** — Nature and condition of the sun.
+- **A720.1** — Formerly seven suns.
+- **A720.2** — Formerly great heat of sun causes distress to mankind.
+- **A721** — Sun kept in box.
+- **A721.0.1** — Sun and moon kept in pots when they do not shine.
+- **A721.0.2** — Sun shut up in pit.
+- **A721.0.3** — Sun kept in a case.
+- **A721.1** — Theft of sun.
+  *The sun, which is kept by a monster, is stolen and brought to earth.*
+- **A721.2** — Sun swallowed and spit out.
+  *In theft of sun, the raven (or devil) thus succeeds.*
+- **A721.2.1** — Great darkness due to awk swallowing the sun.
+- **A721.3** — Stolen sun restored to sky.
+- **A721.4** — Pale sun made right again by using egg, yellow grass, etc.
+- **A721.5** — Sun falls but is lifted back to sky and tied to it.
+- **A722** — Sun's night journey.
+  *Around or under the earth.*
+- **A722.1** — Sun's night journey in golden goblet.
+  *Helios'  chariot is conveyed eastward at night in a golden goblet (or bed).*
+- **A722.2** — Sun's night journey with reversed face.
+  *It returns from west to east by the same way that it came, but it turns its light side to the sky and leaves the earth in darkness.*
+- **A722.3** — Sun's night journey: in land of dead.
+- **A722.4** — Sun at night closes doors.
+  *In evening goes home and shuts doors and windows.*
+- **A722.5** — Sun at night lowers arm.
+  *The sun, a man, lies with arm uplifted. The shining comes from his armpits. When his arm is lowered the shining ceases.*
+- **A722.5.1** — Sun bathes in stream of fire at night.
+- **A722.5.2** — Sun led through stream to cool off heat at night; otherwise might consume earth.
+- **A722.6** — Sun hidden at night because afraid to wander.
+- **A722.7** — Mountain where sun goes through.
+- **A722.7.1** — Sun at night enters fissure between sky and earth.
+- **A722.8** — Sun sits on back of a male buffalo.
+- **A722.9** — At dawn sun comes to play with the moon.
+- **A722.10** — Sun and moon to remain half their time in underworld.
+- **A722.11** — Sun worships God by night.
+- **A722.12** — Visible sun is the "pet" of real sun.
+- **A722.13** — Sun is man during day.
+- **A723** — Boat of the sun.
+- **A724** — Chariot of the sun.
+- **A724.1** — Charioteer of the sun.
+  *Sun drives his horses and chariot across sky.*
+- **A724.1.0.1** — Coyote rides with sun.
+- **A724.1.1** — Pha l  ton.
+  *Sun entrusts his chariot to another (his son) and the horses run away. The world is almost burnt up.*
+- **A724.1.2** — Chariot of sun accompanied by angels.
+- **A724.2** — The sun a golden bowl on the rim of which sits a peacock; both bowl and peacock are in a crystal box, which rests on a flying chariot.
+- **A725** — Man controls rising and setting of sun.
+- **A725.1** — Sun does not set for a year through power of saint.
+- **A726** — Daily course of sun across sky.
+- **A726.1** — Sun and moon make daily tour under direct orders of God.
+- **A726.2** — Wings of sun.
+- **A727** — Raising the sun.
+  *Originally low, it is raised little by little by conjurors.*
+- **A727.1** — Sun originally so hot that it threatens all life.
+- **A728** — Sun caught in snare.
+- **A728.1** — Sun-snarer: burnt mantle.
+  *A boy is angered because the sun burned his mantle. He makes a snare and catches the sun and delays him so that everything is burning up. A mouse finally gnaws the snare in two.*
+- **A728.2** — Sun-snarer: fast sun.
+  *The sun goes too fast to dry clothing. The hero snares the sun's legs with a rope as he is climbing up from the underworld. He releases the sun upon the promise to go more slowly.*
+- **A728.3** — Sun visits earth in form of black bull, caught by man, thus causing night.
+- **A728.4** — Sun and moon carried through sky by animals.
+  *Speed depends upon hour and season.*
+- **A731** — Sun as king of sky and earth.
+- **A731.1** — Sun sits on throne.
+- **A731.2** — Crown of the sun.
+- **A732** — The sun's animals.
+- **A732.1** — Cattle and sheep of the sun.
+  *350 of each (= days and nights of the lunar year).*
+- **A732.2** — Horse of the sun.
+- **A732.2.1** — Slave shoots arrow into leg of sun's horse.
+- **A733** — Heat and light of the sun.
+- **A733.1** — Why sunlight is so much stronger than moonlight.
+- **A733.2** — Mortal cannot look at sun since God's name is engraved on it.
+- **A733.3** — Two faces of the sun: fire, directed toward earth; hail, directed toward heaven.
+- **A733.4** — Beams of light are snares with which sun is tied to earth.
+- **A733.5** — Sun dries out earth with its heat.
+- **A734** — Sun hides.
+- **A734.1** — Sun hides in cave.
+- **A735** — Pursuit of sun by moon.
+- **A735.1** — Moon tied to sun so that when sun sinks moon is dragged up to light earth.
+- **A735.2** — Sun and moon pursued by dark planet in black chariot.
+- **A736** — Sun as human being.
+- **A736.1** — Sun and moon as man and woman.
+- **A736.1.1** — Sun sister and moon brother.
+  *Brother visits sister at night. She marks him to identify him. He flees and she follows with flaming brand. She is sun and he the moon.*
+- **A736.1.2** — Sun-brother and moon-sister.
+- **A736.1.3** — Sun and moon as lovers.
+- **A736.1.4** — Sun and moon married.
+- **A736.1.4.1** — Sun and moon quarrel when sun eats up all their children but two.
+- **A736.1.4.1.1** — Moon kills sun's children.
+- **A736.1.4.2** — Moon, sun are sister and brother, wife and husband.
+- **A736.1.4.3** — Creator separates sun and moon to prevent birth of more stars.
+- **A736.2** — Sun as woman.
+- **A736.3** — Sun and moon as brothers.
+- **A736.3.1** — Sun and moon as twin brothers.
+- **A736.3.2** — Sun and moon brothers: sun clever, moon stupid.
+- **A736.3.3** — Sun and his brother rise and set alternately.
+- **A736.4** — Sun and moon as sisters, daughters of sky-god.
+- **A736.5** — Children of the sun.
+- **A736.5.1** — Son of sun so hot no one can hold it.
+- **A736.5.2** — Children from union with the sun turn into bit of blood in daytime as soon as they are exposed to sun; take human form (shape) again at sunset.
+- **A736.6** — Sun and moon as friends.
+- **A736.7** — Sun's affection for human girl rouses moon's jealousy.
+- **A736.7.1** — Sun marries woman.
+- **A736.8** — Original moon changed into sun and sun into moon.
+- **A736.9** — Sun cursed by moon.
+- **A736.10** — Human son of sun.
+- **A736.11** — Contest between sun and moon.
+- **A737** — Causes of eclipses (sun or moon).
+- **A737.0.1** — Origin of eclipse of moon.
+- **A737.1** — Eclipse caused by monster devouring sun or moon.
+- **A737.2** — Cause of eclipses: mother's curse laid upon her third son.
+- **A737.3** — Toad causes eclipses of the sun.
+- **A737.4** — Ghosts of the sun's children return to cause eclipse.
+- **A737.5** — Moon's eclipse caused by moon's interfering between attacker and person attacked.
+- **A737.6** — Eclipses caused by animal hiding sun behind his body.
+- **A737.7** — Eclipses from quarrels between moon and sun.
+- **A737.8** — Eclipses when sun smears his face on account of mourning.
+- **A737.8.1** — Sun hides face in shame: eclipse.
+- **A737.9** — Eclipse as punishment by deity.
+- **A737.10** — Eclipses because sun cannot endure tragic happenings of history.
+- **A737.11** — Partial eclipses because of ailments of sun or moon.
+- **A738** — Attributes of sun.
+- **A738.1** — Physical attributes.
+- **A738.1.1** — Sun and moon are balls of feathers.
+- **A738.1.2** — Sun a fat woman walking across sky.
+- **A738.2** — Mental powers and disposition of sun.
+- **A738.2.1** — Religious sun and moon.
+- **A738.2.2** — Sun endowed with wisdom and passion.
+- **A738.3** — Sun's healing powers.
+- **A738.4** — Sun's power over plants.
+- **A739** — Nature and condition of the sun miscellaneous.
+- **A739.1** — Sun at the edge of the sky.
+- **A739.2** — War with the sun.
+- **A739.3** — Each of sun brothers works for a month and plays for the other eleven; were they to work all together, the world would be burned up by the heat.
+- **A739.4** — Reason for variations in seasonal heat of sun.
+- **A739.5** — Why the sun is red.
+- **A739.6** — Sun sets and refuses to rise: must be coaxed back from underworld.
+- **A739.7** — Sun's all-seeing eye.
+- **A739.8** — Sun as caretaker of the poor.
+- **A739.9** — Sun has weapons of iron to repel enemies.
+- **A740** — Creation of the moon.
+- **A741** — Moon from object (person) thrown into sky.
+- **A741.1** — Moon is water slung into sky.
+- **A741.2** — Chest of sacrificed youth becomes the moon.
+- **A741.3** — Moon as grinder which brings fire out of the sun.
+- **A742** — Moon made from shining fragments.
+  *A cap is opened and shining things fall out. Children pick them up and put them into a box. At the end of the month the box is full. The full moon shines when all the fragments are gathered together.*
+- **A743** — Moon from transformed object.
+- **A743.1** — Origin of moon from shell.
+- **A744** — Heavenly smith is hammering on the moon.
+- **A745** — Family of the moon.
+- **A745.1** — Moon born from first couple.
+- **A745.2** — Mother of the moon: the most distant star in the sky.
+- **A745.3** — Moon younger brother of the sun.
+- **A747** — Person transformed to moon.
+- **A750** — Nature and condition of the moon.
+- **A751** — Man in the moon.
+  *A man is said to be seen in the moon. Various explanations are given as to how he came to be there.*
+- **A751.1** — Man in moon is person thrown or sent there as punishment.
+- **A751.1.1** — Man in moon has punishment for burning brush on Sunday.
+- **A751.1.2** — Man in moon is put there as punishment for cursing God.
+- **A751.1.3** — Man in moon as punishment for disdainful sacrifice (Cain).
+- **A751.1.4** — Man in moon banished there for stealing bundle of thorns.
+- **A751.2** — Man in the moon a rabbit (hare, other animal).
+- **A751.3** — Frog in moon.
+- **A751.3.1** — Man in moon a frog which has jumped into person's face and remains there.
+- **A751.4** — Man in the moon: tarring of the moon.
+  *Man sets out to tar the moon and remains with his tar-bucket in the moon.*
+- **A751.5** — Man in the moon from scratches or paint.
+- **A751.5.1** — Man in the moon: moon's face scratched by hare in retaliation for injury to hare.
+- **A751.5.2** — Man in the moon: dung (ashes) on moon's face smeared there by sun.
+- **A751.5.2.1** — Moon wants to marry his sister the sun.
+  *She is angered and throws hot ashes on his face.*
+- **A751.5.3** — Mark of her mother's hand to be seen on moon's shoulder.
+- **A751.5.4** — Mark of tiger's paw on moon.
+- **A751.5.5** — Moon spots are tattoo marks.
+- **A751.6** — Cotton tree and nettles on moon.
+- **A751.6.1** — Spots on moon a banyan tree planted there by creator to diminish its light.
+- **A751.7** — Two children in moon with yoke and bucket.
+- **A751.8** — Woman in the moon.
+- **A751.8.1** — Man in the moon is an old woman busy with her spindle.
+- **A751.8.2** — Man in moon is a woman threshing corn with a dog by her side.
+- **A751.8.3** — Goddess in moon with calabash at her side.
+- **A751.8.4** — Woman in moon's oven seen on clear nights.
+- **A751.8.5** — Girl with tree carried to moon and is seen there.
+- **A751.8.6** — Goddess in moon beating tapa beneath tree.
+- **A751.9** — Miscellaneous images on moon.
+- **A751.9.1** — Rows of palm trees (black spots) on the moon.
+- **A751.9.2** — Bag in the moon.
+- **A751.9.3** — Giant in moon.
+- **A751.10** — Particular individual is man in the moon.
+- **A751.10.1** — Joshua as man in the moon.
+- **A751.10.2** — Jacob as man in the moon.
+- **A751.11** — Other marks on the moon.
+- **A753** — Moon as a person.
+- **A753.1** — Moon as wooer.
+  *The moon is enamored of a mortal.*
+- **A753.1.1** — Moon abducts woman.
+- **A753.1.2** — Moon (man) cohabits with woman.
+- **A753.1.3** — Moon (goddess, woman) cohabits with mortal man.
+- **A753.1.4** — Moon married to mortal woman.
+- **A753.1.4.1** — Moon married to son of sky-god.
+- **A753.1.4.2** — Moon is wife to all twelve brothers of the sun and they have her a month at a time because she ate up her sisters.
+- **A753.1.5** — Moon and mortal have child.
+- **A753.2** — Moon has house.
+- **A753.3** — Moon as person miscellaneous.
+- **A753.3.1** — Moon deceives sun.
+- **A753.3.2** — Moon steals from a garden.
+- **A753.3.3** — During day moon stays with his mother under the earth.
+- **A753.3.4** — Moon endowed with wisdom and passion.
+- **A754** — Moon kept in box.
+- **A754.1** — Moon buried in pit.
+- **A754.1.1** — Moon falls into pit but is rescued by man.
+- **A755** — Causes of moon's phases.
+- **A755.1** — Moon's phases caused by its being put in box.
+- **A755.2** — Moon's phases caused by watcher's death.
+  *Moon is hung in tree and is tended by four men. As one dies it loses a quarter. Later it is united in the lower world.*
+- **A755.3** — Moon's waning caused by her sickness.
+- **A755.3.1** — Sacrifice made to free moon from sickness and allow waxing.
+- **A755.4** — Moon cut in two by sun: hence waxes and wanes.
+- **A755.4.1** — Moon cut in half.
+- **A755.4.2** — Moon stolen and divided into quarters.
+- **A755.4.3** — Moon's phases caused by animals gnawing at edge.
+- **A755.5** — Moon's phases caused by feeding or starving.
+- **A755.6** — Moon's phases as punishment for moon's misdoing.
+- **A755.7** — Moon's waning caused by menstrual period.
+- **A756** — Moon as sun's representative at night.
+- **A757** — Moon-boat.
+- **A757.1** — Moon-chariot.
+- **A758** — Theft of moon.
+  *Moon is kept by a monster. It is stolen and brought to earth.*
+- **A759** — Condition and nature of the moon miscellaneous.
+  *For eclipse of the moon see +A737, where both eclipses of the sun and moon are handled.*
+- **A759.1** — Moon has wooden weapons, therefore vulnerable.
+- **A759.2** — Sun and moon as divine hero's wedding presents.
+- **A759.3** — Why the moon is pale.
+- **A759.4** — Moon is hare covered with silver, which lives in crystal house with fifteen windows.
+  *It rests on a chariot and travels around Mount Meru.*
+- **A759.5** — Formerly seven moons.
+- **A759.6** — Moon under direct control of deity.
+- **A759.7** — Planet Mars lies on moon to impart warmth to her lest she freeze the earth.
+- **A760** — Creation and condition of the stars.
+- **A760.1** — Stars created by creator.
+- **A760.2** — Star from union of girl with peacock.
+- **A761** — Ascent to stars.
+  *People or animals ascend to the sky and become stars.*
+- **A761.1** — River taken to sky becomes star.
+  *Eridanos.*
+- **A761.2** — Chariot from heaven takes couple to live with sages in the Great Bear.
+- **A761.3** — Stars as transformed lovers.
+- **A761.4** — Stars as fires in the hearths of ghosts.
+- **A761.5** — Stars are men peering through holes in sky.
+- **A761.6** — Stars thought of as living beings.
+- **A762** — Star descends as human being.
+- **A762.1** — Star-husband.
+  *Star takes mortal maiden as wife.*
+- **A762.2** — Mortal marries star-girl.
+- **A763** — Stars from objects thrown into sky.
+- **A763.1** — Stars from arrows shot at sky.
+- **A763.2** — Stars hung by god in heavens to decorate it.
+- **A764** — Stars as pieces of the moon.
+- **A764.1** — Stars as children of the moon.
+- **A764.1.1** — Stars as children of sun eaten by their father.
+  *Hence no stars in the day.*
+- **A764.1.2** — Sun eats all his own children except morning star, while moon keeps all her children in hiding.
+- **A764.1.3** — Stars as children of sun and moon.
+- **A764.2** — Stars as drops of the moon's blood.
+- **A764.3** — Most brilliant stars children of the sun; others are children of the moon.
+- **A764.4** — Stars are transformed spittle of the moon.
+- **A765** — Naming the stars.
+  *The "Great Star" names the stars.*
+- **A766** — Origin of constellations.
+- **A767** — Stars sing together.
+- **A769** — Creation of the stars miscellaneous.
+- **A769.1** — Stars are trees growing on the clouds.
+- **A769.2** — Stars rebel against God.
+- **A769.3** — Stars supervised by angels.
+- **A769.4** — Speaking stars.
+- **A769.5** — Sun gives light to stars.
+- **A770** — Origin of particular stars.
+- **A771** — Origin of the Great Bear (Ursa Major).
+- **A771.1** — Origin of the Southern Cross.
+  *Analogous legends in the southern hemisphere with those of Ursa Major in the northern.*
+- **A772** — Origin of Orion.
+- **A773** — Origin of the Pleiades.
+- **A773.1** — Pleiades a princess and six suitors among whom she could not choose.
+- **A773.2** — Pleiades six repudiated wives.
+  *They have been cast out for apparent infidelity.*
+- **A773.3** — Pleiades girls who died of grief.
+- **A773.4** — Pleiades seven illegitimate children.
+- **A773.5** — Pleiades from hunters marooned in sky after felling world-tree.
+- **A773.6** — Pleiades as swarm of bees.
+- **A773.7** — Two stars from Great Bear constellation transferred to Pleiades.
+- **A774** — Origin of the North Star.
+- **A775** — Origin of Hyades.
+- **A776** — Origin of constellation Lyra.
+- **A776.1** — Origin of Vega (Alpha Lyrae).
+- **A777** — Origin of constellation Scorpio.
+- **A778** — Origin of the Milky Way.
+- **A778.0.1** — Origin of Magellanic Clouds.
+- **A778.1** — Milky Way a hunting party.
+- **A778.1.1** — Milky Way is the Wild Hunt.
+- **A778.2** — Milky Way as a road.
+- **A778.2.1** — Milky Way as path of souls (demons).
+- **A778.3** — Milky Way as a river.
+- **A778.4** — Milky Way as a stitched seam in the sky.
+- **A778.5** — Milky Way as milk from breast of a woman.
+- **A778.6** — Milky Way as the sperma of the gods.
+- **A778.7** — Milky Way as path of a bird of passage.
+- **A778.8** — Milky Way is smoke (ashes).
+- **A778.9** — Milky Way as race track.
+- **A778.10** — Abyss at end of Milky Way.
+- **A779** — Origin of stars miscellaneous.
+- **A779.1** — Origin of Coal Sack.
+- **A779.2** — Origin of constellation Aquila.
+- **A779.3** — Origin of constellation Argo.
+- **A780** — The planets (comets, etc.  )
+- **A780.1** — Planets supervised by angels.
+- **A781** — Origin of Venus (planet).
+- **A781.1** — Origin of Morning Star.
+- **A781.2** — Origin of Evening Star.
+- **A782** — Origin of Jupiter (planet).
+- **A786** — Origin of comets.
+- **A787** — Relation of the planets to human life.
+- **A788** — Origin of meteors.
+- **A788.1** — Falling stars as pieces of the moon.
+- **A788.2** — Shooting star one that has come down to graze.
+- **A788.3** — Shooting stars spirits coming down to earth to make woman pregnant.
+- **A788.4** — Shooting stars are star-dung.
+- **A788.5** — Shooting stars are unfaithful wives.
+- **A790** — The heavenly lights.
+- **A790.1** — Heavenly lights originate from firmament.
+- **A791** — Origin of the Rainbow.
+- **A791.1** — Rainbow as bow of deity.
+- **A791.2** — Rainbow as snake.
+- **A791.3** — Rainbow made as bridge by the gods.
+- **A791.4** — Rainbow has three colors.
+- **A791.5** — Rainbow is a transformed king; the lesser rainbow is the king's wife.
+- **A791.6** — Rainbow from gods' emptying their drinking cups.
+- **A791.7** — Rainbow is horse of rain-god.
+- **A791.8** — Rainbow comes out of an anthill.
+- **A791.8.1** — Rainbow lives in a hole.
+- **A791.9** — Origin of rainbow: transformed butterflies (souls of lovers).
+- **A791.10** — Rainbow as covenant between creator and men.
+- **A795** — Origin of the Northern Lights (Aurora Borealis).
+- **A796** — Origin of the signs of the zodiac.
+- **A797** — Origin of colors at sunrise and sunset.
+
+## Creation of the earth
+
+- **A800** — Creation of the earth.
+- **A801** — Earth born of Chaos.
+- **A802** — China first land to appear in our world.
+- **A810** — Primeval water: In the beginning everything is covered with water.
+- **A810.1** — God and Devil fly together over primeval water.
+- **A810.2** — Primeval water to subside in a specified time.
+- **A810.2.1** — Waters of heaven would engulf earth were it not for firmament.
+- **A811** — Earth brought up from bottom of primeval water.
+- **A811.1** — Earth originates from fish brought from bottom of sea.
+  *The fish is hacked with knives; hence, mountains.*
+- **A811.2** — Earth brought up by three gods.
+- **A812** — Earth Diver.
+  *From a raft in the primeval sea, the creator sends down animals to try to bring up earth. After a number of animals have failed, one (often the muskrat) succeeds. The earth is made from the bit brought up.*
+- **A812.1** — Devil as Earth Diver.
+  *Satan dives for earth at instance of God. Succeeds only third time (by use of right formula). He hides the earth under his tongue. It swells, and he must be rescued by God.*
+- **A812.2** — Earth from egg from bottom of sea recovered by bird.
+- **A812.3** — Creator sends crow, after creating her, to scout for earth-nucleus.
+- **A813** — Raft in primeval sea.
+  *Creator is on the raft and there creates the earth.*
+- **A813.1** — Earth in form of raft supported by spirits.
+- **A813.2** — Lotus-leaf raft in primeval sea.
+- **A813.3** — Creator rests on tree or stake.
+- **A814** — Earth from object thrown on primeval water.
+- **A814.1** — Earth from stone thrown on primeval water.
+- **A814.2** — Earth from sand strewn on primeval water.
+- **A814.3** — Earth from decayed matter on primeval water.
+- **A814.4** — Earth from tree grown in primeval water.
+- **A814.5** — Earth from steam made by fire thrown into primeval water.
+- **A814.6** — Earth scattered in a circuit in four directions on primeval water.
+- **A814.7** — Earth from primeval water mixed with seeds of tobacco.
+- **A814.8** — Earth from lotus seed placed on water.
+- **A814.9** — Earth from egg breaking on primeval water.
+- **A814.10** — Earth from creator's spittle falling on primeval water.
+- **A814.10.1** — Earth from spittle of primeval potter spreading on surface of water.
+- **A815** — Earth from turtle's back.
+  *Earth erected on back of a turtle floating in primeval water.*
+- **A815.1** — Earth from serpent's head.
+  *Earth reared on head of serpent floating in primeval water.*
+- **A816** — Earth rises from sea.
+- **A816.1** — Stone emerges from primeval water.
+  *Devil sits on the stone, which becomes a mountain.*
+- **A816.2** — Ocean under this world.
+- **A816.3** — God causes primeval sea to roll back and leave bare all the hills.
+- **A817** — Earth let down from sky on to primeval ocean.
+- **A820** — Other means of creation of earth.
+- **A821** — Earth made of lac.
+- **A822** — Earth made by mud shaken from back of primeval boar.
+- **A822.1** — World is transformed mud parrot in golden cage.
+- **A823** — Earth made by cups of earth placed on spider's web.
+- **A824** — Earth made by transformation of broken ground.
+- **A825** — Earth made by first couple dancing on bit of cloth laid on water.
+- **A826** — Earth sets like curds.
+- **A827** — Earth made by drying up of primeval water.
+- **A828** — Earth from worm scratched by creator's nails.
+- **A828.1** — Earth excreted by worm.
+- **A830** — Creation of earth by creator.
+- **A831** — Earth from body of person (animal).
+- **A831.1** — Earth from body of son of deity.
+- **A831.2** — Earth from giant's body (Ymir).
+- **A831.3** — Earth by sacrifice of son and daughter of first couple.
+- **A831.4** — Earth by murder of first brother and sister.
+- **A831.5** — Earth from the body of murdered child.
+- **A831.6** — Earth from body of slain animal.
+- **A831.7** — Earth from body of divine suicide.
+- **A831.8** — Gods create the earth from their dead victim's blood and bones.
+- **A831.9** — Earth created from Adam's body.
+- **A832** — Creation because of creator's lonesomeness.
+  *Dissatisfied at being alone in center of primeval water, God creates the earth.*
+- **A833** — Earth from creator's cuticle.
+- **A835** — Earth from nut in devil's mouth.
+  *God throws a nut over his left shoulder. The devil catches it in his mouth. The nut grows rapidly and the devil spits it out.*
+- **A835.1** — Earth created from snow under divine throne.
+- **A836** — Creator prepared earth's nucleus as one would a rice cake.
+- **A837** — Creator creates earth piecemeal.
+- **A840** — Support of the earth.
+- **A841** — World-columns.
+  *Four (two, etc.) columns or supports sustain the earth.*
+- **A841.0.1** — The four world-columns fastened immovably by two gods with their mother's hairs.
+- **A841.1** — Four world-cords.
+  *Earth is suspended from the sky by cords at four corners.*
+- **A841.2** — Four maidens as earth-supports.
+  *One is at each of the cardinal points.*
+- **A841.3** — Twelve iron pillars steady the earth.
+- **A841.4** — Four earth-nails.
+- **A842** — Atlas.
+  *A man supports the earth on his shoulders.*
+- **A842.1** — Goddess standing on her head supports earth.
+- **A842.2** — Old woman supports earth on her head.
+- **A843** — Earth supported on post.
+  *The post has an old woman as guardian. When she is hungry the post shakes, causing earthquakes.*
+- **A843.1** — Earth supported on cross of wood.
+- **A844** — Earth rests on animal's back.
+- **A844.1** — Earth rests on turtle's back.
+- **A844.2** — Earth supported by bull.
+- **A844.3** — Earth supported by fish.
+- **A844.4** — Earth supported by frog.
+- **A844.5** — Earth rests on the horns of a bull who rests upon a fish.
+- **A844.6** — Earth rests on tortoise, serpent, elephant.
+- **A844.7** — Earth rests on elephant's back.
+- **A844.8** — Earth rests on cobra's head.
+- **A844.9** — Earth supported on great boar's tusk.
+- **A844.10** — Earth supported on vast number of birds' legs.
+- **A844.11** — Earth rests on leviathan.
+- **A844.12** — Serpent supports the earth.
+- **A849** — Support of the earth miscellaneous.
+- **A849.1** — Earth founded on stone.
+- **A849.2** — Earth rests on God's arm.
+- **A849.3** — Earth supported by prop.
+- **A850** — Changes in the earth.
+- **A851** — How the earth became oblong.
+  *God the Father situated on one side of the earth, the Son on the other.*
+- **A852** — Making the earth smaller.
+  *Earth made too large. God learns from devil by trickery how to make it smaller.*
+- **A853** — Making the earth larger.
+  *Gradually extended during creation.*
+- **A853.1** — Doubling size of the earth.
+  *Increase of population necessitates change.*
+- **A855** — Opposite of present.
+  *Everything on the earth courses of rivers, height of mountains, human reproduction, etc. are at first the reverse of the present condition.*
+- **A856** — Hardening of the earth.
+  *At first it is soft, but is hardened by sun's rays.*
+- **A856.1** — Primeval earth hardened by wind.
+- **A856.2** — Ground, previously all wet, dries up when first woman cuts her little finger and blood drips on ground.
+- **A857** — Steadying the earth.
+- **A857.1** — Why earth becomes warm and wet: two huge copper vessels steaming over fire are underneath earth.
+- **A857.2** — Creator's giant servant puts a valley where earth's crust is heavy and a mountain where it is light so as to stabilize it.
+- **A857.3** — Creator's giant servant puts trees to hold earth together where it slipped.
+- **A857.3.1** — Roots created to hold land firm.
+- **A870** — Nature and condition of the earth.
+- **A871** — Earth square with four quarters.
+- **A871.0.1** — Taprobane at eastern end of the world.
+- **A871.0.2** — Unextinguishable fire at end of earth.
+- **A871.1** — Four streams from four corners of earth.
+- **A871.2** — Four rivers, rising in paradise, water primitive world.
+- **A872** — River that flows around the world.
+- **A872.1** — Seven seas encircle the world.
+- **A873** — Above and below the earth are great clouds.
+- **A875** — Earth wheel-shaped (flat and round).
+- **A875.1** — Navel of the earth.
+  *Omphalos, the central point on the earth disc.*
+- **A875.1.1** — Mountain at center of earth.
+- **A875.2** — Well in the midst of earth from which eleven rivers originate.
+- **A876** — Midgard Serpent.
+  *A serpent surrounds the earth.*
+- **A876.1** — The leviathan that surrounds the globe.
+- **A878** — Earth-tree.
+  *Tree of life or fate.*
+- **A878.1** — Stream of paradise from roots of world-tree.
+- **A878.1.1** — Other streams from roots of earth-tree.
+- **A878.1.2** — Three wells under the three roots of earth-tree.
+- **A878.2** — Lake of milk by tree of life.
+- **A878.3** — Animals at earth-tree.
+- **A878.3.1** — Snake at roots of earth-tree.
+- **A878.3.2** — Hart(s) eating of the earth-tree.
+- **A878.3.3** — Chattering squirrel in the earth-tree.
+- **A878.3.4** — Wise eagle in the earth-tree.
+- **A878.3.5** — Hawk in the earth-tree.
+- **A878.3.6** — Golden cock in earth-tree.
+- **A878.4** — Earth-tree furnishes health-giving and hunger-satisfying sap.
+- **A881** — Zones of earth corresponding to Zodiac.
+
+## Topography general considerations
+
+- **A900** — Topography general considerations.
+- **A901** — Topographical features caused by experiences of primitive hero (demigod, deity).
+  *Footprints of the gods, thoroughfares of heroes, etc.*
+- **A901.1** — Topographical changes or landmarks due to battle between gods.
+- **A901.2** — Natural features because of combat of huge rock columns with each other.
+- **A902** — Topographical features of the earth arranged by creator.
+- **A902.1** — Two creators go by different route to establish features of the earth.
+- **A903** — Topographical features caused by animals.
+- **A910** — Origin of water features general.
+- **A910.1** — Waters created on first day of creation.
+- **A910.2** — Waters created as punishment.
+- **A910.3** — Bodies of water in primitive abyss sink.
+- **A910.4** — Bodies of water remnant of flood.
+- **A910.5** — Waters created by divine twins.
+- **A911** — Bodies of water from tears.
+- **A913** — Origin of tides.
+- **A913.1** — Tidal wave or surge marks place of death of person.
+- **A913.2** — Tide caused by breathing of sea-monster.
+- **A913.3** — Ebb-tide goes to great whirlpool.
+- **A913.4** — Tub that drips at high tide but holds water at low tide.
+- **A914** — Mountains push water westward.
+- **A915** — Why waters do not engulf the earth.
+- **A917** — Quarrel between earth and waters.
+- **A918** — Male and female waters.
+- **A920** — Origin of the seas.
+- **A920.1** — Origin of lakes.
+- **A920.1.0.1** — Origin of particular lake.
+- **A920.1.1** — Inexhaustible buckets as source of lakes.
+- **A920.1.2** — Lakes from digging of primeval ox.
+- **A920.1.3** — Lake bursts forth to drown thief.
+- **A939.1** — River bursts from well in pursuit.
+- **A920.1.4** — Lakes burst forth to commemorate birth, death, battle, etc., of primitive hero .
+- **A920.1.5** — Lakes originate from tears.
+- **A920.1.5.1** — Lakes originate from belches.
+- **A920.1.6** — Lake from urine of horse.
+- **A920.1.7** — Lake created by fairies.
+- **A920.1.7.1** — Lake bursts forth to quell fairy war.
+- **A920.1.8** — Lake bursts forth to drown impious people.
+- **A920.1.8.1** — Lake from violating tabu.
+- **A920.1.9** — Lake bursts forth where island is plowed out.
+- **A920.1.10** — Lakes made by giant or devil.
+- **A920.1.11** — Woman transformed to pool of water.
+- **A920.1.12** — Lake bursts forth where blind king plucks rushes.
+- **A920.1.13** — Lake of milk formed through virtue of saint.
+- **A920.1.14** — Lakes are daughters of the gods.
+- **A920.1.15** — Origin of the Dead Sea.
+- **A920.1.16** — Lake originally filled with palm wine.
+- **A920.2** — Origin of sea channels.
+- **A921** — Ocean the son of Earth and Heaven.
+- **A922** — Ocean made from blood.
+- **A923** — Ocean from creator's sweat.
+- **A923.1** — Ocean from urine.
+- **A924** — Miscellaneous origins of the ocean.
+- **A924.1** — Origin of sea from overturned calabash.
+- **A924.2** — Origin of sea from rotting snakes.
+- **A924.3** — Sea released from tree-top.
+- **A924.4** — Sea from earth excavation.
+- **A925** — Origin of various qualities of the sea.
+- **A925.1** — Origin of high sea waves.
+- **A925.2** — Origin of sea's color.
+- **A925.3** — Origin of foul odor of sea.
+- **A925.4** — Origin of fresh water welling up in sea.
+- **A925.5** — Origin of mournful sound of sea.
+- **A925.6** — Origin of surf.
+- **A925.7** — Origin of shining patches beneath sea.
+- **A928** — Giant drinks up ocean.
+- **A930** — Origin of streams.
+- **A930.1** — Creator of rivers.
+- **A930.1.1** — Snake as creator of rivers and lakes.
+- **A931** — Meander-pursuit.
+- **A933** — River from urine of goddess (giantess).
+- **A933.1** — River from the slaver of the Fenris-wolf.
+- **A933.2** — River from vagina of first woman.
+- **A934** — Various origins of rivers.
+- **A934.1** — Rivers from digging of primeval ox.
+- **A934.2** — Rivers formed where certain stones are placed.
+  *Each of seven children are to go in a different direction, to walk a mile and put down a stone, then another mile and a stone, etc. Thus rivers are formed.*
+- **A934.3** — Rivers burst forth to commemorate birth, death, battle, etc., of primitive hero.
+- **A934.4** — Rivers where god drags his staff.
+- **A934.5** — Rivers originate through saint's prayer during drought.
+- **A934.6** — Hail-storm leaves twelve chief rivers in Ireland.
+- **A934.7** — River bursts from well in pursuit.
+- **A934.8** — Rivers from mythical well.
+- **A934.9** — Stream unexpectedly bursts from side of mountain.
+- **A934.10** — Origin of river: from a girl drowned in a well.
+- **A934.11** — River from transformation.
+- **A934.11.1** — Girl reincarnated as river so god Vishnu can lie in its bed in the form of a stone.
+- **A934.11.2** — Person transforms self to river.
+- **A934.11.3** — Goddess in anger breaks herself into five parts: hence, five branches of a river.
+- **A934.11.4** — Origin of river: transformed flowing honey.
+- **A934.12** — Peacock shows rivers the way to the big valley so they will not go round and round.
+- **A935** — Origin of falls (cataracts).
+- **A937** — Why there is no mist on a certain river: fanned away with a pair of eagle's wings.
+- **A938** — Rivers and streams offspring of marriage of Ocean and his sister.
+- **A940** — Origin of other bodies of water.
+- **A941** — Origin of springs.
+- **A941.0.1** — Origin of a particular spring.
+- **A941.1** — Springs originate from horse's hoof-prints.
+- **A941.1.1** — Spring from urine of horse.
+- **A941.1.2** — Spring breaks forth where fairy horse lies down.
+- **A941.2** — Springs originate from tears.
+- **A941.3** — Spring from striking earth with sword.
+- **A941.3.1** — Spring breaks forth where magic spear strikes ground.
+- **A941.3.2** — Spring where god throws his staff or spear.
+- **A941.4** — Spring breaks forth to commemorate experiences of hero (deity).
+- **A941.4.1** — Spring breaks forth to commemorate place of death or burial.
+- **A941.4.2** — Spring breaks forth at primitive hero's need.
+- **A941.4.2.1** — Spring breaks forth at need of demigod's warriors.
+- **A941.5** — Spring breaks forth through power of saint.
+- **A941.5.0.1** — Fountain breaks forth through power of Virgin Mary.
+- **A941.5.0.2** — Wells break forth at birth of Christ.
+- **A941.5.1** — Spring breaks forth where saint smites rock.
+- **A941.5.2** — Many-colored fountain breaks forth where saint strikes earth with his foot.
+- **A941.5.3** — Spring breaks forth through power of saint at place where leper pulls out clump of rushes.
+- **A941.5.4** — Spring breaks forth where animal delivers book left behind by saint.
+- **A941.5.5** — Spring breaks forth where saint's stolen cow is found.
+- **A941.5.6** — Cloth from goddess, when spread by holy man over a spot, causes water to spring from earth.
+- **A941.5.7** — Origin of springs where deity dug.
+- **A941.5.8** — Spring from innocent king's blood.
+- **A941.6** — Breaking forth of springs partial cause of Flood.
+- **A941.7** — Springs from beneath magic (holy) object.
+- **A941.7.1** — Spring from beneath world-tree.
+- **A941.7.2** — Spring from roots of sacred tree when arrow is shot into it.
+- **A941.7.3** — Stream from under holy of holies in temple.
+- **A942** — Origin of hot springs (geysers).
+- **A942.1** — Hot springs rise where Christ bathed his feet.
+- **A942.2** — Origin of salt springs.
+- **A950** — Origin of the land.
+- **A951** — Contours of land caused by plowing of goddess.
+- **A951.1** — River valley licked out by giant beast.
+- **A951.2** — Contours of land caused by rooting of swine.
+- **A951.3** — Contours of land caused by occult hero driving harrow.
+- **A952** — Land rises out of sea.
+- **A953** — Land thrown down from heaven.
+- **A954** — Land born from goddess.
+- **A955** — Origin of islands.
+- **A955.0.1** — Islands created by order of deity.
+- **A955.1** — Islands as deity's stepping-stones.
+- **A955.2** — Island created by shooting arrow.
+- **A955.3** — Origin of island's shape and position.
+- **A955.3.1** — Origin of an island's shape.
+- **A955.3.2** — Origin of island's position.
+- **A955.3.2.1** — Primeval hero moves islands into their present position.
+- **A955.4** — Island plowed out by goddess.
+- **A955.5** — Islands from cow and calf transformed by evil eye of one-eyed god.
+- **A955.6** — Islands from stones cast by giantess.
+- **A955.7** — Islands from webs woven by primeval spiders.
+- **A955.8** — Island fished-up by demigod (hero).
+- **A955.9** — Goddess gives birth to islands.
+- **A955.10** — Islands from transformed object or person.
+- **A955.11** — Islands originally form continent, later separated.
+- **A955.12** — Old woman as guardian of floating islands of the gods.
+- **A956** — Origin of peninsulas.
+- **A957** — Origin of desert.
+- **A960** — Creation of mountains (hills).
+- **A961** — Mountains from primeval animal.
+- **A961.1** — Hills from flapping of primeval bird.
+  *Hills and valleys are formed from the flapping of a giant turkey-buzzard when the earth is still plastic.*
+- **A961.2** — Mountains from hacked-up fish drawn from bottom of primeval water.
+  *Earth originates from a fish drawn from the water. It is hacked up and thus made to form mountains.*
+- **A961.3** — Mountain from accident to primeval lizard.
+  *Lizard passing through a mountain is broken; his fore and hinder parts become mountains.*
+- **A961.4** — Mountains spring from scattered parts of slain giant serpent's body.
+- **A961.5** — Mountains (cliffs) from bones of killed giant.
+- **A962** — Mountains (hills) from ancient activities of god (hero).
+- **A962.1** — Mountain from part of deity's (hero's) body.
+- **A962.2** — Mountains made with God's hand.
+- **A962.3** — Mountains from primeval journeys of a god.
+- **A962.4** — Mountains pressed together by God.
+- **A962.5** — Mountains made with the hand.
+- **A962.6** — Mountains originated from primeval journeys of the first man.
+- **A962.7** — Hills from hero's striking (earth) with sword.
+- **A962.8** — Origin of hills and ridges: pieces of shattered god's head.
+- **A962.9** — Mountains and hills are former sons, daughters of gods.
+- **A962.10** — Hills represent loads from culture-hero's shoulders.
+- **A963** — Mountains from stones (soil, sand) dropped or thrown.
+- **A963.1** — Mountains from stones dropped from giant's clothes.
+  *He carries the stones in his clothes but loses them as he walks.*
+- **A963.2** — Mountains from breaking of God's sieve.
+  *He is sifting stones and the bottom of the sieve breaks, letting huge stones and mountains fall through.*
+- **A963.3** — Soil dropped to form mountains.
+- **A963.4** — Mountains and hills from stones thrown by giant at church.
+- **A963.5** — Hills from stones cast by giants.
+- **A963.6** — Hill from anvil (cast by supernatural smith).
+- **A963.7** — Hill from sand left by passersby.
+- **A963.8** — Hill as unfinished tower built in the likeness of Nimrod's tower.
+- **A963.9** — Clay soil dropped from sky to form hill.
+- **A964** — Mountains (hills) from ancient contest (fight).
+- **A964.1** — Holes in hills result of fight between gods.
+- **A964.2** — Mountains fight each other: cause of their present shape.
+- **A964.2.1** — Mountains fight each other for honor of being the spot for the revelation.
+- **A964.3** — Battle of demons: hills torn up.
+- **A965** — Origin of mountain chain.
+- **A965.1** — One mountain in love with another stretches leg out to meet her: origin of a mountain chain.
+- **A966** — Origin of volcanoes.
+- **A967** — Origin of mounds.
+- **A967.1** — Mounds from horns cast by cattle.
+- **A968** — Origin of cliffs.
+- **A968.1** — Cliffs become hard.
+  *Were formerly soft but become hard by God's order.*
+- **A968.2** — Cliff from lovers' leap.
+  *Lovers in despair throw themselves from a high place. This becomes a cliff.*
+- **A969** — Creation of mountains and hills miscellaneous.
+- **A969.1** — Mountain from buried giant.
+- **A969.2** — Cloud on lofty male mountain induced by a beautiful female mountain to bow to her feet: hence their present shape.
+- **A969.3** — Mountains and valleys formed from great fire.
+- **A969.4** — Hills because sky asked earth to wrinkle up its feet.
+- **A969.5** — Water freezes and forms mountains.
+- **A969.6** — Hill brought to country as adopted child.
+- **A969.7** — Origin of mountains as punishment.
+- **A969.8** — Origin of crevasse.
+- **A969.9** — Mountain or hills from actions of the devil.
+- **A970** — Origin of rocks and stones.
+- **A971** — Origin of rocks from breaking of God's sieve.
+- **A972** — Indentions on rocks from prints left by man (beast).
+- **A972.1** — Indentions on rocks from imprint of gods and saints.
+- **A972.1.1** — Indentions on rocks from footprints of Christ.
+- **A972.1.2** — Priest stamps on stone to prove truth of pope; print is still visible.
+- **A972.1.3** — Footprints of holy man are still seen in stone where he stood to preach.
+- **A972.2** — Indentions on rocks from footprints of fairies (angels, devils).
+- **A972.2.1** — Indention on rock from footprint of angel.
+- **A972.2.2** — The devil's footprint.
+- **A972.3** — Holes in stones caused by piercing by saint's finger.
+- **A972.3.1** — Holes in stone caused by saint (warrior).
+- **A972.3.1.1** — Indentions on rock from weapons (limbs) of robbers through power of saint.
+- **A972.3.1.2** — Indentions on rocks from footprints of saint's cow.
+- **A972.4** — Imprint of horse in rocks.
+- **A972.5** — Indentions on rocks from marks of various persons.
+- **A972.5.1** — Indentions on rocks from head of infant hero (saint).
+- **A972.5.2** — Chasms between rocks mark "leaps" of giants, heroes, etc.
+- **A972.5.3** — Indentions on rock from paws of King Arthur's dog.
+- **A972.5.4** — Indentions on rocks from weapons, knees, and elbows (of persons slain by hero).
+- **A972.5.5** — Rocks or hill-tops flat because persons (gods) slept or cooked on them.
+- **A972.5.6** — Hole in stone caused by weapon of warrior.
+- **A972.6** — Indentions on rocks caused by giants.
+- **A972.7** — Great fish killed by hero and cut into sixteen pieces: the great stones may still be seen.
+- **A973** — Origin of stones: punishment for discourtesy.
+  *Jesus asks a man what he is sowing. He answers, "Stones." Jesus turns the crop to stones. This is how stones originate.*
+- **A974** — Rocks from transformation of people to stone.
+- **A974.1** — Certain stones are druids transformed by power of saint.
+- **A974.2** — Certain stones are transformed giants.
+- **A975** — Why stones became hard.
+  *By God's order.*
+- **A975.1** — Why stones no longer grow.
+  *Devil sows stones; God sends cold to prevent their growing.*
+- **A975.1.1** — Why stones no longer grow: punishment for injuring foot of holy person.
+- **A975.2** — Why certain rock produces fire when struck with steel.
+- **A975.2.1** — Fire producing rock result of contest between god of fire and god of rain.
+- **A976** — Why rocks at river are covered with moss.
+- **A977** — Origin of particular stones or groups of stones.
+- **A977.1** — Giant responsible for certain stones.
+- **A977.2** — Devil throws stones.
+- **A977.2.1** — Devil and man throw stones in contest.
+- **A977.2.2** — The devil throws stones at church or churchmen.
+- **A977.2.3** — Devil throws down quoits when he is told that it is wrong to play on Sunday.
+  *They remain as stones to this day.*
+- **A977.3** — Devil drops stones.
+- **A977.3.1** — The devil drops stones from apron.
+- **A977.4** — The devil turns object or animal to stone which is still seen.
+- **A977.5** — Origin of particular rock.
+- **A977.5.1** — Certain stones are cheeses transformed by saint.
+- **A977.5.2** — Pile of stones in certain chapel formed of fragments of salmon transformed by saint.
+- **A977.5.3** — Stone column is membrum virile of ancient hero.
+- **A977.5.4** — Two rocks from split and transformed lapdog.
+- **A978** — Origin of minerals.
+- **A978.1** — Origin of minerals from body of dead culture hero.
+- **A978.2** — Iron created to punish cedar's pride.
+- **A978.3** — Origin of emeralds from marvelous vase broken into pieces.
+- **A979** — Other stories about stone origins.
+- **A979.1** — Stone rent at time of crucifixion.
+- **A980** — Origin of particular places.
+- **A983** — Origin of valleys or hollows.
+- **A984** — Pillars of Hercules at Gibraltar set up by Hercules.
+- **A986** — Bridge of the Gods.
+  *A conflict of the gods breaks a primeval bridge and thus causes a rapid in a river (the Columbia River at The Dalles, Oregon).*
+- **A988** — Cairn marks burial place.
+- **A989** — Origin of particular places miscellaneous.
+- **A989.1** — Dark brown patches on soil mark place where marvelous cow (Glas) and her calf lay.
+- **A989.2** — Roads marked out by supernatural cows.
+- **A989.3** — Certain stones are druids' (saints') seats (chairs).
+- **A989.4** — Pile of stones (cairn) marks site of battle.
+- **A990** — Other land features.
+- **A991** — Origin of villages.
+- **A992** — Origin of sacred places.
+- **A992.1** — Origin of sacred post (placed there by ancestral culture hero).
+- **A992.2** — Sacred place where thunderbolt fell down.
+- **A992.3** — Ground bursts open and a temple rises from it.
+- **A994** — Five great roads of Ireland "discovered" on night of king's birth.
+- **A995** — Origin of cities.
+- **A996** — Origin of settlements (places later to be settled).
+- **A997** — Origin of boundaries.
+- **A998** — Origin of clay.
+
+## World catastrophe
+
+- **A1000** — World catastrophe.
+  *The world is destroyed. The incidents are usually the same whether a final destruction is thought of or a destruction which may be overcome by a renewal of the earth.*
+- **A1001** — Series of world catastrophes.
+- **A1002** — Doomsday.
+  *Catastrophes precede the Day of Judgment.*
+- **A1002.1** — Widespread calamity when feast of John the Baptist shall fall on certain day.
+- **A1002.2** — Signs before the Day of Judgment.
+- **A1002.2.1** — No rainbow for fifteen years before the Day of Judgment.
+- **A1002.2.2** — Bleeding wood as sign of Doomsday.
+- **A1002.2.3** — Talking stone as sign of Doomsday.
+- **A1002.2.4** — Unusual migration of birds as sign of Doomsday.
+- **A1003** — Calamity as punishment for sin.
+- **A1005** — Preservation of life during world calamity.
+- **A1005.1** — Preservation of life of certain persons in Ireland during Flood.
+- **A1005.2** — Inclosure made during world calamity and only best types of animals and men preserved.
+- **A1005.3** — Holy Land not ravaged by deluge.
+- **A1006** — Renewal of world after world calamity.
+- **A1006.1** — New race from single pair (or several) after world calamity.
+- **A1006.2** — New race from incest after world calamity.
+- **A1006.3** — New race made of red earth after world calamity.
+- **A1006.4** — New race from union of girl and rat.
+- **A1006.5** — Ireland repopulated by persons who escape flood.
+- **A1006.6** — Ireland, waste for centuries after flood, is repopulated by immigrants.
+- **A1006.7** — Whole tribe descended from lone woman-survivor of doomed city.
+- **A1006.8** — One bear-child escapes death, is ancestor of all bears.
+- **A1006.9** — After world-fire life recreated from tree.
+- **A1007** — World calamity will begin in Palestine.
+- **A1009** — World catastrophes miscellaneous.
+- **A1009.1** — First race of men perishes when sun first rises.
+- **A1009.2** — Animate and inanimate objects attempt to destroy humanity.
+- **A1009.3** — Large stone falls from sky killing all but one couple.
+- **A1010** — Deluge.
+  *Inundation of whole world or section.*
+- **A1010.1** — Sun and moon do not shine during deluge.
+- **A1010.2** — Great flood lasts eight months.
+- **A1011** — Local deluges.
+- **A1011.1** — Flood partially caused by breaking forth of springs.
+- **A1011.2** — Flood caused by rising of river.
+- **A1011.3** — God's promise never to destroy world by water does not apply to local floods.
+- **A1012** — Flood from fluids of the body.
+- **A1012.1** — Flood from tears.
+- **A1012.1.1** — Flood from Adam's tears of repentance.
+- **A1012.1.2** — Flood from tears of grieving lover.
+- **A1012.2** — Flood from urine.
+- **A1012.2.1** — Flood caused by loosing fairy horse and allowing it to stale.
+- **A1012.3** — Flood from blood.
+- **A1012.3.1** — Flood from slain giant's blood.
+- **A1013** — Flood from belly.
+  *It flows from pierced belly of monster.*
+- **A1013.1** — Vomiting of a whale causes flood.
+- **A1015** — Flood caused by gods or other superior beings.
+- **A1015.1** — Flood from conflict of gods.
+  *Sea god and rain god.*
+- **A1015.1.1** — Flood from conflict of monsters (giant animals).
+- **A1015.2** — Spirit causes deluge.
+- **A1015.3** — Flood caused by deity stamping on floor of heavens.
+- **A1016** — Pseudo-scientific explanations of the flood.
+- **A1016.1** — Flood from animals' boring into ground (turtles, crawfishes, etc.).
+- **A1016.2** — Deluge produced by hot liquid which burns as it floods.
+- **A1016.3** — Flood caused by melting of ice after great spell of cold.
+- **A1016.4** — Flood from broken calabashes of water.
+- **A1016.5** — Making mountains out of flat earth causes flood.
+- **A1016.6** — Moon falls into sea and causes flood by overflowing.
+- **A1016.7** — Flood whenever shard at earth's core moves.
+- **A1017** — Flood caused to satisfy emotional need.
+- **A1017.1** — Desire of man for sun causes flood.
+- **A1017.2** — Flood caused by prayer.
+- **A1017.3** — Flood caused by curse.
+- **A1018** — Flood as punishment.
+- **A1018.1** — Flood as punishment for breaking tabu.
+- **A1018.2** — Flood as punishment for incest.
+- **A1018.3** — Flood brought as revenge for injury.
+- **A1019** — Deluge miscellaneous.
+- **A1019.1** — Subsidence of earth beneath flood.
+- **A1019.2** — Serpent king causes flood by damming rivers.
+- **A1019.3** — Flood because earth has become too thickly populated.
+- **A1019.4** — Flood puts out world-fire.
+- **A1020** — Escape from deluge.
+- **A1021** — Deluge: escape in boat (ark).
+- **A1021.0.1** — Persons excluded from Noah's ark build another ark and sail to Ireland.
+- **A1021.0.2** — Escape from deluge in wooden cask (drum).
+- **A1021.0.3** — Deluge: escape in gourd.
+- **A1021.0.4** — Deluge: escape on floating tree.
+- **A1021.0.5** — Deluge: escape in hollow tree trunk.
+- **A1021.0.6** — Deluge: escape on floating building.
+- **A1021.1** — Pairs of animals in ark.
+- **A1021.2** — Bird scouts sent out from ark.
+- **A1022** — Escape from deluge on mountain.
+- **A1023** — Escape from deluge on tree.
+- **A1024** — Escape from deluge in cave.
+- **A1025** — Escape from deluge on island.
+- **A1026** — Escape from deluge on foot.
+- **A1027** — Rescue from deluge by fish.
+- **A1028** — Bringing deluge to end.
+- **A1028.1** — Trickster sticks spear in ground and leads water to sea, ending deluge.
+- **A1028.2** — Birds fill sea with dirt and overcome flood.
+- **A1029** — Escape from deluge miscellaneous.
+- **A1029.1** — Marvelous tree survives deluge.
+- **A1029.2** — (Four) persons who, in four quarters of the world, survived the flood and thus preserved ancient tradition.
+- **A1029.3** — Escape from deluge in pot or jar.
+- **A1029.4** — Flood: refuge in huge gourds with seven rooms in each.
+- **A1029.5** — Escape from deluge in box or basket.
+- **A1029.6** — Survivors of flood establish homes.
+- **A1030** — World-fire.
+  *A conflagration destroys the earth. Sometimes (as with the flood legends) the tradition is somewhat local and does not refer to an actual destruction of the whole earth; sometimes the fire marks the end of the world.*
+- **A1031** — Causes of world-fire.
+- **A1031.1** — A "flame of fire swifter than a blast of wind" as punishment for the sin of the Irish.
+- **A1031.2** — World-fire after theft of fire.
+- **A1031.3** — Evil demons set world on fire.
+- **A1031.4** — Fall of sun causes world-fire.
+- **A1031.4.1** — All countries burned while the wife of sun god pours fire from a small bowl.
+- **A1031.5** — World-fire because of man's arrogance.
+- **A1031.6** — Miscellaneous reasons for world-fire.
+- **A1035** — Quenching the world-fire.
+- **A1035.1** — Rain invoked to destroy world-fire.
+- **A1035.2** — Creator puts out world-fire with his staff.
+- **A1036** — Earth recreated after world-fire.
+- **A1038** — Men hide from world-fire and renew race.
+- **A1039** — World-fire miscellaneous.
+- **A1039.1** — Vulture sent out as scout to see whether earth has cooled from world-fire.
+- **A1040** — Continuous winter destroys the race.
+  *Spoken of as "Fimbulwinter". It ushers in the end of the world.*
+- **A1045** — One pair escapes continuous winter and renews race.
+- **A1046** — Continuous world-eclipse.
+- **A1046.1** — World-eclipse ended by bat making sun smile.
+- **A1050** — Heavens break up at end of world.
+- **A1051** — Behavior of stars at end of world.
+- **A1051.1** — Stars fall down at end of world.
+- **A1051.2** — End of world when stars in one constellation overtake those in another.
+- **A1052** — Behavior of sun at end of world.
+- **A1052.1** — Sun devoured by monster at end of world.
+- **A1052.2** — Sun shining at night as sign of Doomsday.
+- **A1052.3** — End of world when four (seven) suns appear in sky.
+- **A1053** — Behavior of moon at end of world.
+- **A1053.1** — Moon shining by day as sign of Doomsday.
+- **A1057** — Seven days silence in whole universe at the end of the world.
+- **A1058** — End of world when culture hero removes one of the world-props.
+- **A1060** — Earth-disturbances at end of world.
+- **A1061** — Earth sinks into sea at end of world.
+- **A1061.1** — Earthquakes at the end of the world.
+- **A1062** — Mountains fall together at end of world.
+- **A1063** — Water-disturbances at end of world.
+- **A1063.1** — Sea makes extraordinary noise and throws out fishes at end of world.
+- **A1063.2** — Sea water mixes with fresh water at end of the world.
+- **A1065** — Continuous drought at end of world.
+- **A1066** — Sun will lock moon in deep ditch in earth's bottom and will eat up stars at end of world.
+- **A1067** — Extraordinary wind at end of the world.
+- **A1068** — Sun thrown on fire: period of darkness, rain.
+- **A1069** — Flow of molten metal at end of world.
+- **A1070** — Fettered monster's escape at end of world.
+  *Giant, or monster, is fettered in depths of the earth. His movement causes earthquakes. When he succeeds in freeing himself from the fetters and escapes, the world will end.*
+- **A1070.1** — Birth of monsters as sign at end of world.
+- **A1071** — Fettering of underground monster.
+- **A1071.1** — Underground monster fettered by trick.
+  *Is persuaded to try on fetters.*
+- **A1071.2** — Forging of chain for fettered monster.
+  *Smiths hit once in three or four times on the bare anvil. All of these blows go to forging chains for the monster (devil).*
+- **A1072** — Form of fettered monster.
+- **A1072.1** — Fettered monster in human form.
+- **A1072.2** — Fettered monster as ferocious animal.
+- **A1072.3** — Fettered monster as snake.
+- **A1072.4** — Fettered monster as dragon.
+- **A1074** — Fettered monster's captivity.
+- **A1074.1** — Monster fettered with sword just out of reach.
+  *If he reaches it he will free himself.*
+- **A1074.2** — Fettered monster's vain attempt to reach sword with man's help.
+  *Could he reach it he would escape.*
+- **A1074.3** — Fettered monster questions visitor.
+  *He asks "Are lambs still being produced?" or the like; i.e. is nature still normal? He must remain fettered till he hears that nature's laws no longer hold.*
+- **A1074.4** — Fettered monster preyed upon by vulture.
+- **A1074.5** — Fettered monster kept just out of reach of water.
+  *The water is always drunk by vulture as he is ready to take it.*
+- **A1074.6** — Fettered monster vainly loosens his stake.
+  *Each time he loosens it, it is driven in the ground.*
+- **A1074.7** — Fettered monster's weakened chains renewed by supernatural power.
+  *Are almost licked in two by dog but then renewed.*
+- **A1074.8** — Fettered monster's weakened chains renewed by stroke of a smith.
+- **A1075** — End of world heralded by coming of Antichrist, a gigantic destructive one-eyed monster.
+- **A1075.1** — Signs before the birth of Antichrist.
+- **A1080** — Battle at end of world.
+  *Armageddon.*
+- **A1080.1** — Horse shall wade in blood at Armageddon.
+- **A1081** — Battle of the gods at end of world.
+- **A1082** — Battle of gods and monster at end of world.
+- **A1082.1** — Battle of gods and giants at end of world.
+- **A1082.2** — Odin battles Fenris Wolf at end of world.
+- **A1082.2.1** — Other gods battle Fenris wolf at end of world.
+- **A1082.2.2** — God battles hound of hell at end of world.
+- **A1082.3** — Thor battles Midgard serpent at end of world.
+- **A1082.3.1** — End of world to come at disease and death of snake encircling the world.
+- **A1082.4** — God battles Leviathan at end of world.
+- **A1082.5** — God conquers Satan at end of world.
+- **A1082.6** — Battle of saints with Lucifer at end of world.
+- **A1082.7** — Battle of angels with Leviathan and Behemoth at end of world.
+- **A1084** — Prophecy of defeat in battle as sign of end of the world.
+- **A1085** — End of the gods.
+- **A1087** — Monsters kill each other off at end of world.
+- **A1090** — World calamities and renewals: miscellaneous motifs.
+- **A1091** — Natural laws inoperative at end of world.
+- **A1091.1** — Three horses from dove's egg on last day.
+- **A1093** — End of world announced by trumpet.
+- **A1095** — The Messianic Age.
+- **A1097** — Extraordinary man at end of the world.
+- **A1099** — World calamities additional motifs.
+- **A1099.1** — World destroyed by rain of stones.
+- **A1099.2** — World devoured by ogre.
+- **A1099.3** — World turned topsy-turvy and eaten by an earthworm.
+
+## Establishment of natural order
+
+- **A1100** — Establishment of natural order.
+- **A1101** — The four ages of the world.
+  *A development of the present order through four stages or periods, the golden, silver, bronze, and iron ages, or the like.*
+- **A1101.1** — Golden age.
+  *A former age of perfection.*
+- **A1101.1.1** — Reign of peace and justice (under certain king).
+- **A1101.1.2** — Even trees could speak in golden age.
+- **A1101.1.3** — Former age: spirits and ogres lived with men, and gods appeared in human guise.
+- **A1101.2** — Reversal of nature in former age.
+- **A1101.2.1** — Formerly men plowed and cattle were their masters.
+- **A1101.2.2** — Formerly men ate grass: cattle ate rice and pulse.
+- **A1101.2.3** — Formerly men dumb: birds and animals talked.
+- **A1101.2.4** — Formerly men could go safely beneath the sea.
+- **A1102** — Why powers of nature work on Sabbath.
+- **A1103** — Nature transformed by God once in seven years.
+- **A1110** — Establishment of present order: waters.
+- **A1111** — Impounded water.
+  *Water is kept by monster so that mankind cannot use it. A hero defeats the monster and releases the water. (The monster is sometimes a giant frog.)*
+- **A1113** — God promises never again to destroy world by water.
+- **A1115** — Why the sea is salt.
+- **A1115.1** — Why the sea is salt: because of wrecked salt ship.
+- **A1115.2** — Why the sea is salt: magic salt mill.
+  *Stolen by sea-captain, who takes it aboard and orders it to grind. It will stop only for its master; ship sinks and mill keeps grinding salt.*
+- **A1115.3** — Why the sea is salt: heavy rain showers on ashes of wood burnt by primeval fire.
+- **A1116** — Origin of sea-waves.
+- **A1116.1** — Sea-waves are (manes of) sea-god's horses.
+- **A1117** — Origin of foam on waters.
+- **A1118** — Origin of swirling motion of water.
+  *Animals and birds scratch in it.*
+- **A1119** — Establishment of present order: waters miscellaneous.
+- **A1119.1** — Why sea is blue.
+- **A1119.2** — Why sea waters are warm: kept so by Leviathan.
+- **A1119.3** — Origin of sea's unpleasant odor.
+- **A1120** — Establishment of present order: winds.
+- **A1121** — Breathing of deity (spirit) causes winds.
+- **A1122** — Cave of winds.
+  *Winds originally confined in caves.*
+- **A1122.1** — Hole of winds: stopper destroyed.
+  *The hole is stopped with a wooden stopper, which is destroyed. The country dries up.*
+- **A1122.2** — Wind a bird dwelling in mountain-hole.
+- **A1122.3** — Lost wind found in hollow tree: has been banished and is needed by men.
+- **A1122.4** — Wind comes through holes in sky when gut covering is cut.
+- **A1123** — Winds as children of titans (giants).
+- **A1125** — Winds caused by flapping wings.
+  *A giant bird causes the wind with his wings. The wings are cut by the culture hero so that the bird cannot flap so hard.*
+- **A1125.1** — Wind caused by flapping of ears of giant.
+- **A1126** — Wind caused by wind-god's movements.
+  *When the son of the wind lies down, the wind blows.*
+- **A1127** — Winds of the four quarters established.
+- **A1127.1** — Effect of the four winds on weather.
+- **A1127.1.1** — North wind tempers fury of south wind.
+- **A1127.1.2** — South wind causes heat and hurricanes.
+- **A1127.2** — Gentle west wind said to be exhausted from fleeing deity.
+- **A1128** — Regulation of winds.
+- **A1128.1** — Angels' wings protect earth from winds.
+- **A1128.2** — When wind-spirit is awake it storms; asleep, it is calm.
+- **A1129** — Establishment of present order: winds miscellaneous.
+- **A1129.1** — Colors of winds.
+- **A1129.1.1** — Creator establishes twelve winds, each a different color.
+- **A1129.2** — Origin of monsoon: from chewed skin and spit of pair of divine friends eating guavas.
+- **A1129.3** — Wind is blind.
+- **A1130** — Establishment of present order: weather phenomena.
+- **A1130.1** — Angels set over clouds, winds, and rains.
+- **A1130.2** — Origin of storms in sixth heaven.
+- **A1131** — Origin of rain.
+- **A1131.0.1** — Regulation of rains.
+- **A1131.0.2** — Why it rains most in the hills.
+- **A1131.1** — Rain from tears.
+- **A1131.1.1** — Rain from urine.
+- **A1131.2** — Rainy weather sent by saint as punishment.
+- **A1131.3** — Rain from sea in upper world.
+- **A1131.4** — Rain from container in sky.
+- **A1131.4.1** — Rain kept in waterskin dragged along sky floor.
+- **A1131.5** — Rain from rain-god (rain spirit).
+- **A1131.6** — Rain shed by stars.
+- **A1132** — Origin of dew.
+- **A1133** — Origin of clouds.
+- **A1133.1** — Origin of clouds from Ymir's brain.
+- **A1133.2** — Origin of clouds: creator ornaments the sky with clouds so that the mountains are sometimes shaded.
+- **A1133.3** — Clouds as smoke rising to sky.
+- **A1133.4** — Clouds as God's shield.
+- **A1134** — Origin of mist (fog).
+- **A1135** — Origin of wintry weather.
+- **A1135.1** — Origin of cold in winter.
+- **A1135.1.1** — Origin of cold: sun turns fiery face upward.
+- **A1135.2** — Origin of snow.
+- **A1135.2.1** — Snow from feathers or clothes of a witch (Frau Holle).
+- **A1135.3** — Origin of frost.
+- **A1135.4** — Origin of hail.
+- **A1137** — Causes of hot weather: God bores hole in hell.
+- **A1141** — Origin of lightning.
+- **A1141.1** — Lightning as fiery snake.
+- **A1141.2** — Lightning from flashing sword.
+- **A1141.3** — Lightning from heavenly horses striking hoofs against stars.
+- **A1141.4** — Lightning as god's whip.
+- **A1141.5** — Lightning as God's messenger.
+- **A1141.6** — Lightning produced by deity.
+- **A1141.7** — Lightning from fire.
+- **A1141.7.1** — Lightning as torches of invisible dancers.
+- **A1141.8** — Origin of lightning other motifs.
+- **A1142** — Origin of thunder.
+- **A1142.0.1** — Origin of thunderbolt.
+- **A1142.1** — Creator's (deity's) voice makes thunder.
+- **A1142.2** — Thunder from flying dragon.
+- **A1142.3** — Persons escape to sky and become thunder.
+- **A1142.4** — Origin of thunder clouds: from wings of mountains.
+- **A1142.5** — Thunder is sound of God's gun.
+- **A1142.5.1** — Thunder caused by God beating his weapon.
+- **A1142.5.1.1** — Thunder from crashing of stones in moon as goddess beats tapa.
+- **A1142.5.1.2** — Thunder from thunder-spirit beating his children.
+- **A1142.6** — Cause of thunder: sounds of the horses' hoofs as gods play ball.
+- **A1142.6.1** — Thunder from clashing weapons of warring spirits in sky.
+- **A1142.7** — Thunder from deity separating the winds which try to unite.
+- **A1142.8** — Thunder is noise of waterskin which rain-god drags along sky floor.
+- **A1142.9** — Thunder made by giants in sky.
+- **A1142.9.1** — Thunder the drums of dead.
+- **A1145** — Cause of earthquakes.
+- **A1145.1** — Earthquakes from movements of subterranean monster.
+- **A1145.2** — Earthquakes from movements of sea-monster.
+- **A1147** — Origin of stormy sky.
+- **A1147.1** — Origin of red sky (blood).
+- **A1148** — Origin of tornado sunsets; i.e., peculiar sunsets foreboding tornadoes.
+- **A1150** — Determination of seasons.
+- **A1150.1** — Establishment of times for sowing and reaping.
+- **A1151** — Theft of the seasons.
+  *Certain seasons are lacking. A culture hero steals the season from a monster and brings it to his people.*
+- **A1152** — Boneless man turned over to produce seasons.
+- **A1153** — Seasons produced by marriage of North and South.
+- **A1154** — Genealogy of summer and winter.
+- **A1155** — Why days lengthen in spring.
+- **A1156** — Why days shorten in autumn: the real sun sets very early because the red cockscomb plant, used to kill his brother sun with, grows to its full height during this time.
+- **A1157** — Causes of seasons deities push sun back and forth at solstices.
+- **A1160** — Determination of the months.
+- **A1161** — February's shortage of days.
+  *Days stolen by January and March.*
+- **A1170** — Origin of night and day.
+- **A1171** — Origin of day.
+- **A1171.1** — Opening of creator's eyes creates day.
+- **A1171.2** — Windows in firmament shed light.
+- **A1171.3** — Angels of the day:  Jewish: Neuman.
+- **A1171.4** — Origin of day: son of the night and the dawn.
+- **A1172** — Determination of night and day.
+  *After much discussion, the relative length of these divisions is determined.*
+- **A1172.1** — Regulation of sunshine.
+- **A1172.2** — Wallet containing night and day.
+- **A1172.3** — Night and day have steeds and chase each other.
+- **A1174** — Origin of night.
+- **A1174.1** — Night (darkness) in package.
+  *Released.*
+- **A1174.2** — Why some nights are dark and some light.
+- **A1174.3** — Purchase of night.
+  *Originally no night. Culture hero goes to distant land and buys it. He introduces sleep, etc. Cock to crow for day.*
+- **A1174.3.1** — Night stolen and kept in jar.
+- **A1174.4** — Night caused by deity wrapping himself in dark mantle.
+- **A1177** — Why sun shines on Saturday (Friday).
+- **A1178** — Origin of "yesterday" and "today."
+- **A1179** — Origin of night and day miscellaneous.
+- **A1179.1** — Origin of twilight.
+- **A1179.1.1** — Twilight reflection of fires of hell.
+- **A1179.2** — Origin of dawn.
+- **A1179.2.1** — Dawn reflection of roses of paradise.
+- **A1180** — Establishment of present order miscellaneous motifs.
+- **A1181** — Determination of world center.
+  *By reaching to its ends.*
+- **A1182** — Determination of world quarters.
+  *The four cardinal points.*
+- **A1185** — Wings cut from flying mountains.
+  *In beginning mountains have wings. They are cut off by thunderbolt.*
+- **A1186** — Measuring the world.
+- **A1187** — Creator appoints a chief for each class of created things: Lucifer for demons, Sion for mountains, etc.
+- **A1191** — All things receive names.
+- **A1195** — Origin of echo.
+- **A1196** — Why salt disappeared from forests.
+
+## Creation of man
+
+- **A1200** — Creation of man.
+- **A1201** — Man created to rule the earth.
+- **A1205** — Unacceptable gods as first inhabitants of earth.
+- **A1210** — Creation of man by creator.
+- **A1211** — Man made from creator's body.
+- **A1211.0.1** — Man springs into existence from deity's body by his mere thinking.
+- **A1211.1** — Man from dirt mixed with creator's blood.
+- **A1211.2** — Man from sweat of creator.
+- **A1211.3** — Man from spittle of creator.
+- **A1211.3.1** — Being made from spittle of the gods.
+- **A1211.4** — Man made from creator's eye.
+- **A1211.5** — Man made from dirt rubbed from creator's (hero's) body.
+- **A1211.5.1** — Man made from broken off toenail of creator.
+- **A1211.6** — Primeval human pair spring from two drops of urine of creator (woman from half-drop).
+- **A1211.7** — First man the result of maid having licked semen-stained loin cloth of creator's teacher.
+- **A1211.8** — Primeval crab pulls first five living creatures out of his side.
+- **A1212** — Man created in creator's image.
+- **A1215** — Man originates from god who comes to earth.
+- **A1216** — Man as offspring of creator.
+- **A1216.1** — Mankind from masturbation of creator with earth.
+- **A1217** — Devil's unsuccessful attempt to vivify his creations as God has done.
+  *Succeeds only in making animal.*
+- **A1217.1** — Rebel angels oppose creation of man.
+- **A1218** — Man created by co-operation of the gods.
+- **A1220** — Creation of man through evolution.
+- **A1220.1** — Progressive degeneration to present race of men.
+- **A1221** — Mankind from unusual primeval mating.
+- **A1221.1** — Mankind begotten by giant's two feet.
+  *He touches one foot with the other and begets progeny.*
+- **A1221.2** — Mankind from "Peace and Quiet fructified by Light."
+- **A1221.3** — Mankind from mating of pairs of reeds.
+- **A1221.4** — Mankind from mating of tree and vine.
+- **A1221.5** — Mankind from mating of frog and "daughter of fire."
+- **A1221.6** — Mankind from human-animal mating.
+- **A1222** — Mankind originates from eggs.
+- **A1224** — Descent of man from animals.
+- **A1224.0.1** — Mankind is descended from marriage of human being and animal.
+- **A1224.1** — Mankind descended from tadpoles.
+- **A1224.2** — Mankind descended from worms or larvae.
+- **A1224.3** — Woman created from dog's tail.
+  *Eve.*
+- **A1224.4** — Mankind born from a cow.
+- **A1224.5** — Descent of men from monkeys.
+- **A1224.5.1** — Men are monkeys who have lost their tails.
+- **A1224.6** — Mankind descended from fish.
+- **A1224.7** — Creation of man by creator from ants.
+  *He commands them to become men.*
+- **A1225** — First men undeveloped.
+  *Rudimentary and amorphous, gradually assume present shape.*
+- **A1225.1** — First couple organically united.
+  *Like Siamese twins.*
+- **A1225.2** — Man originally without hands and feet.
+  *Boy steals them from Python, and afterward men have them.*
+- **A1225.2.1** — Man given hands, feet, mouth and nose by monkey.
+- **A1226** — Man created after series of unsuccessful experiments.
+- **A1226.1** — Creator makes man out of butter first; it would not stand up and melted.
+- **A1227** — Different types of men produced from one original type.
+- **A1230** — Emergence or descent of first man to earth.
+- **A1231** — First man descends from sky.
+- **A1231.1** — Mankind from featherless bird sent from sky.
+- **A1232** — Mankind ascends from under the earth.
+- **A1232.1** — Mankind from bones of dead brought from underworld.
+- **A1232.2** — Mankind emerges from lake.
+  *A woman and boy. They marry and populate earth.*
+- **A1232.2.1** — Mankind emerges from water.
+- **A1232.3** — Mankind emerges from caves.
+- **A1232.3.1** — Mankind emerges from a pit.
+- **A1234** — Mankind emerges from ground.
+- **A1234.1** — Earth as virgin mother of Adam.
+- **A1234.1.1** — Primeval human pair spring from womb of Mother Earth.
+- **A1234.2** — Mankind emerges from mountain.
+- **A1234.3** — Spontaneous generation.
+  *Scientists find child on deserted island. They suggest that he has emerged from the ground.*
+- **A1234.4** — Earth gives birth to woman.
+- **A1236** — Mankind emerges from tree.
+- **A1236.1** — Mankind emerges from buds on trees.
+- **A1236.2** — Tribes emerge from melon.
+- **A1240** — Man made from mineral substance.
+- **A1241** — Man made from clay (earth).
+- **A1241.1** — Man made from piece of clay thrown on ground.
+- **A1241.2** — Man made from sand sprinkled with water.
+- **A1241.3** — Man made from clay image and vivified.
+- **A1241.4** — Man made from earth reddened with blood of human sacrifice.
+- **A1241.4.1** — Man from clay and animal's blood.
+- **A1241.5** — Man made of earth brought from four different places.
+- **A1245** — Man created from stones.
+- **A1245.1** — New race from stones thrown over head after deluge.
+- **A1245.2** — Mankind from vivified stone image.
+- **A1245.3** — Mankind from cleft rock.
+- **A1245.4** — Mankind from salty stone (ice block) licked by cow.
+  *(Audhumla).*
+- **A1245.5** — Man born from mountains.
+- **A1246** — Mankind originates from shell.
+- **A1247** — Mankind originates from metals.
+- **A1250** — Man made from vegetable substance.
+- **A1251** — Creation of man from tree.
+- **A1252** — Creation of man from wood.
+- **A1252.1** — Mankind from vivified wooden image.
+- **A1253** — Creation of man from fruit (nut).
+- **A1253.1** — Creation of man from fruit.
+- **A1253.1.1** — Creation of man from fig.
+- **A1253.1.2** — First man born from apple.
+- **A1253.2** — Creation of man from nut.
+- **A1253.2.1** — Creation of woman from coconut.
+  *The first man throws a coconut on the ground and thus creates the first woman.*
+- **A1253.2.2** — Men from long nuts, women from short ones.
+- **A1254** — Man created from seeds.
+- **A1254.1** — New race from seeds thrown over head after deluge.
+- **A1255** — Man made from plant.
+- **A1255.1** — Man from sugar-cane stalks.
+- **A1255.2** — Man from ears of corn.
+- **A1256** — Man made from herb.
+- **A1256.1** — Man made from grass.
+- **A1260** — Mankind made from miscellaneous materials.
+- **A1260.1** — Man made from combination of different objects.
+- **A1260.1.1** — Man made of four elements.
+- **A1260.1.2** — Man made of substances from eight different sources.
+- **A1260.1.3** — Adam's body made of eight (four) things.
+  *Body, earth; bones, stones; veins, roots; blood, water; hair, grass; thoughts, wind; spirit, clouds or warmth, fire; cold, air; dryness, earth; instability, water.*
+- **A1260.1.4** — Seven substances employed in composition of human body.
+- **A1260.1.5** — Man made of clay with bones of stone, with blood of water and with vines for veins.
+- **A1261** — Man made from water.
+- **A1261.1** — Man created from sea-foam.
+- **A1261.2** — Man created from egg formed from sea-foam.
+- **A1262** — Man created from sweat.
+- **A1262.1** — Man created from sweat, heat, and breath.
+- **A1263** — Man created from part of body.
+- **A1263.1** — Man created from blood.
+- **A1263.1.1** — Man created from blood-clot.
+- **A1263.1.2** — Man from blood of game animal.
+- **A1263.2** — Man created from fingernail.
+- **A1263.3** — Man created from rubbings of skin.
+- **A1263.4** — Man created from spittle of holy person.
+- **A1263.5** — Man created from animal horns that bloomed and bore him as fruit.
+- **A1263.6** — Man created from culture hero's genitals.
+- **A1263.7** — Man created from animal bone.
+- **A1265** — Men created from sown dragon's teeth.
+- **A1266** — Man created from food.
+- **A1266.1** — Man made from meat-ball.
+- **A1268** — Man created from ashes (cinders).
+- **A1268.1** — Tribe born from fire.
+- **A1270** — Primeval human pair.
+- **A1270.1** — Primeval human pair live in innocence.
+- **A1271** — Origin of first parents.
+- **A1271.1** — Sun, moon, and stars bring forth first parents.
+  *Sun and moon beget son; morning and evening star beget daughter; these, the first parents, are at first without understanding, but it is awakened later by demigods.*
+- **A1271.2** — Sun and moon beget stones and birds: these transformed to first parents.
+  *Baining of New Britain: Dixon 110.*
+- **A1271.3** — First parents children of god.
+- **A1271.4** — First parents originate from gold which is from body of first man.
+  *Born fifteen years old.*
+- **A1273** — Twin first parents.
+- **A1273.1** — Incestuous first parents.
+- **A1275** — Creation of first man's (woman's) mate.
+- **A1275.1** — Creation of first woman from man's rib.
+- **A1275.1.1** — Deity creates princess from prince's body and gives her to him.
+- **A1275.2** — First man split in two to form mate.
+- **A1275.3** — Of ten original men one magically changes sex.
+- **A1275.4** — Creator makes woman and then begets man by her.
+- **A1275.5** — Man creates a woman from melted butter, sour milk, sour cream and curds offered on the waters.
+- **A1275.6** — First woman's mate made from transformed tree.
+- **A1275.7** — First man created from nothing wanders until he finds mate.
+- **A1275.8** — Why Eve was not made at first along with Adam.
+- **A1275.9** — First man descends on earth, falls in love with and marries a fairy.
+- **A1275.10** — First created man catches woman in his snare.
+- **A1276** — Man chosen as best gift by primeval women.
+  *In beginning only women on earth. Deity kills one by accident and promises anything as reparation. They choose man.*
+- **A1277** — Offspring of first parents.
+- **A1277.1** — First parents devour offspring.
+- **A1277.2** — Primeval human pair allowed to bear all children they wish.
+- **A1277.3** — Son of first human couple murdered by tiger sent by god; his head becomes the sun, his chest the moon, and his blood gives the red earth its color.
+- **A1277.4** — First man and woman bring in children and clothe them.
+- **A1279** — Primeval human pair miscellaneous.
+- **A1279.1** — Of first parents husband so hideous he is kept hidden.
+- **A1280** — First man (woman).
+- **A1281** — Condition of first man (woman).
+- **A1281.1** — First man covered with horny substance.
+- **A1281.2** — Man at first covered with hair.
+- **A1281.2.1** — Change of animal and human skin in ancient times.
+- **A1281.3** — Man at first naked.
+- **A1281.4** — Men originally self-luminous.
+- **A1281.5** — First man created circumcised.
+- **A1281.6** — Adam at first nameless.
+- **A1281.6.1** — Adam's name composed of initial letters of four stars from the four quarters of the heavens.
+- **A1282** — The mother of men.
+- **A1282.1** — Mother of the world gives birth to three sons.
+- **A1285** — Activities of first man.
+- **A1285.1** — First man made chief over whole world.
+- **A1285.1.1** — In response to Adam's prayer, God sends him to earth to be father of mankind.
+- **A1290** — Creation of man other motifs.
+- **A1291** — Man created by supernatural creature, not deity.
+- **A1291.1** — Man created by angels.
+- **A1293** — Devil in God's absence puts sickness in Adam's body.
+- **A1295** — Creation in covered vessel.
+  *Men (or animals) created in a basket or from a bundle, or from under a blanket.*
+- **A1296** — Multiplication of man by fragmentation.
+- **A1297** — First human being killed by jealous brothers (reptiles and insects).
+
+## Ordering of human life
+
+- **A1300** — Ordering of human life.
+- **A1301** — Men at first as large as giants.
+- **A1310** — Arrangement of man's bodily attributes.
+- **A1310.1** — Change in bodily form at fall of man.
+  *Adam's body was formerly horn-like.*
+- **A1310.2** — Assembling the body.
+- **A1310.3** — Why men are clothed in skin.
+- **A1310.4** — Why women have marks on the belly.
+- **A1311** — Origin of hands and feet.
+- **A1311.1** — The lizard hand.
+  *Man's hand is modeled on that of the lizard.*
+- **A1311.2** — Why God changed right hand into left.
+  *Man loses hand with which he gives devil a box on ears.*
+- **A1311.3** — Origin of fingernails.
+- **A1312** — Origin of human skeleton.
+- **A1312.1** — Origin of knee-caps.
+  *A stone that magically joins self to woman's body.*
+- **A1312.2** — Why an uneven number of ribs.
+- **A1313** — Origin of sex-organs.
+- **A1313.0.1** — Origin of eunuchs.
+- **A1313.0.2** — Origin of sex differentiations.
+- **A1313.1** — Origin of male sex-organs.
+- **A1313.2** — Origin of female sex-organs.
+- **A1313.2.1** — Origin of clitoris.
+- **A1313.3** — Misplaced genitalia.
+  *Originally genitals are misplaced. They are properly arranged by the culture hero.*
+- **A1313.3.1** — Vaginal teeth broken.
+  *Women originally had toothed vaginas. Culture hero breaks teeth so that women will be harmless to men.*
+- **A1313.4** — Origin of women's breasts.
+- **A1313.4.1** — Women at first with breasts on their foreheads.
+- **A1313.5** — Origin of placenta.
+- **A1315** — Origin of hair and beard.
+- **A1315.1** — Why men become gray-headed.
+- **A1315.2** — Origin of bald heads.
+- **A1315.3** — Origin of beard.
+- **A1315.4** — Origin of hair around mouth and eyes.
+  *Original dispute between Hair and Stomach. Stomach compelled to stay on inside of man. Hair stands on guard at mouth and eyes to see that Stomach does not escape.*
+- **A1315.5** — Origin of pubic hairs.
+- **A1315.6** — Origin of eyelashes.
+- **A1316** — Origin of facial features.
+- **A1316.0.1** — Man at first with two faces, separated at birth of first woman.
+- **A1316.1** — Distribution of noses.
+  *The earlier comers receive big noses, the later small.*
+- **A1316.1.1** — Forming of the nose.
+  *Nose was made from clay taken from the posterior of the already created man.*
+- **A1316.2** — Why men blink.
+- **A1316.3** — Origin of eyes.
+- **A1316.3.1** — Distribution of eyes.
+- **A1316.3.2** — Why there are one-eyed women.
+- **A1316.3.3** — Men originally blind: eyes opened by accident.
+- **A1316.4** — Origin of ears.
+- **A1316.5** — Origin of tongue.
+- **A1316.6** — Origin of teeth.
+- **A1317** — Origin of urine and excreta.
+- **A1319** — Origin of other bodily attributes.
+- **A1319.1** — Origin of Adam's apple.
+  *Forbidden fruit sticks in Adam's throat.*
+- **A1319.2** — Why men lack tails.
+- **A1319.3** — Why ear-wax is inside the ear.
+- **A1319.4** — Why the posterior of man is large.
+- **A1319.5** — Origin of the liver.
+- **A1319.6** — Origin of blood.
+- **A1319.7** — Why the center of man's eye is black: blackened by spirits to make themselves invisible.
+- **A1319.8** — Origin of sweat.
+- **A1319.9** — Origin of sneezing.
+- **A1319.10** — Origin of itching.
+- **A1319.11** — Origin of the sensation of tickling.
+- **A1319.12** — Originally man rejuvenated himself by snake-like change of skin.
+- **A1319.12.1** — Why man does not change his skin: ancient contest lost by toad, representing man, won by lizard.
+- **A1319.13** — Why man's neck is its present size.
+- **A1319.14** — Origin of man's skin.
+- **A1320** — Determination of span of life.
+- **A1321** — Men and animals readjust span of life.
+  *At first, thirty years are given to all animals and to man. For the animals it is too long, for man too short. Man is given a portion of animals' lives. Years 1 30 vigorous (man's own); 30 48 burdens and blows (ass's); 48 60 no teeth (dog's); 60 70 foolish (monkey's).*
+- **A1321.1** — Why children learn to walk later than animals.
+- **A1322** — Determination of relation between birth-rate and death-rate.
+- **A1323** — Long span of life for first man.
+- **A1325** — Short span of life for first men.
+- **A1326** — Why babies die so easily.
+- **A1330** — Beginnings of trouble for man.
+- **A1331** — Paradise lost.
+  *Original happy state forfeited because of one sin.*
+- **A1331.1** — Paradise lost because of forbidden fruit (drink).
+- **A1331.1.1** — Paradise lost because of forbidden food.
+- **A1331.2** — Paradise lost because of brother-sister incest.
+- **A1331.2.1** — Paradise lost because first woman is seduced.
+- **A1333** — Confusion of tongues.
+  *Originally all men speak same language. Because of a sin they come to speak different languages.*
+- **A1333.1** — Confusion of tongues partly due to lack of understanding of difference between the word for "stick" and the word for "stone."
+- **A1335** — Origin of death.
+- **A1335.1** — Origin of death from falsified message.
+- **A1335.1.1** — Origin of death: wrong messenger goes to God.
+- **A1335.2** — Origin of death from bad creator's unsuccessful imitation.
+  *The bad creator attempts in vain to endow his creations with life like the good creator. Fails and thus introduces death.*
+- **A1335.3** — Origin of death from unwise choice.
+  *Choice between two bundles, one containing tempting articles, the other everlasting life. People choose the large bundle and lose everlasting life.*
+- **A1335.4** — Origin of death when early people put on new skins.
+  *Child fails to recognize mother, who puts old skin back on.*
+- **A1335.5** — Origin of death: serpent given immortality instead of man.
+  *Renews his skin.*
+- **A1335.6** — Origin of death: punishment for scorning deity.
+- **A1335.6.1** — Origin of death: disrespectful answer to God.
+- **A1335.7** — First son who died before his father after the Flood.
+- **A1335.8** — Origin of death because world is overpopulated.
+- **A1335.9** — Origin of death because people weary of living.
+- **A1335.9.1** — Death sent into the world by culture hero (God) when he got tired of man.
+- **A1335.10** — Men die because a snake comes to prey on mankind while creator rests.
+- **A1335.11** — God of world of the dead demands that men die so he will have subjects.
+- **A1335.12** — Death origin: God sends a woman to sell poisoned curds to man.
+- **A1335.13** — God sends centipede down to introduce death into the world through its poisoned sting.
+- **A1335.14** — Death comes into the world by treachery of the gods: stick used by man for scratching his back is changed into cobra.
+- **A1335.15** — God punishes man by killing his child: origin of death.
+- **A1336** — Origin of murder.
+- **A1337** — Origin of disease.
+- **A1337.0.1** — Disease caused by the gods.
+- **A1337.0.1.1** — Pestilence brought to man in box by messenger from creator.
+- **A1337.0.2** — Disease caused by ghosts.
+- **A1337.0.3** — Disease caused by witchcraft.
+- **A1337.0.4** — Disease caused by menstrual blood.
+- **A1337.0.5** — Disease as punishment.
+- **A1337.0.6** — Disease to prevent man enjoying himself too much.
+- **A1337.0.7** — Origin of sickness and misfortune: monstrous births from brother-sister incestuous union.
+- **A1337.1** — Origin of ulcers.
+- **A1337.2** — Origin of cholera.
+- **A1337.3** — Origin of epilepsy.
+- **A1337.4** — Origin of fever.
+- **A1337.5** — Origin of itch.
+- **A1337.6** — Origin of leprosy.
+- **A1337.7** — Origin of smallpox.
+- **A1337.8** — Origin of illness from fire and cold.
+- **A1338** — Origin of physical defects.
+  *Wicked people entering heaven on rope fall to earth and are injured.*
+- **A1338.1** — Origin of cripples.
+- **A1339.1** — Origin of blindness.
+- **A1341** — Origin of war among men.
+- **A1341.1** — Origin of battle-shouting.
+- **A1341.2** — Origin of duelling.
+- **A1341.3** — Origin of thefts and quarrels.
+- **A1342** — Origin of quarrelling.
+- **A1343** — Origin of lying.
+- **A1344** — Origin of tears and sighs.
+- **A1344.1** — The "three first cries that made their way to God": the cry of the blood of Abel, etc.
+- **A1345** — Origin of hunger.
+- **A1345.1** — Origin of thirst.
+- **A1346** — Man to earn bread by sweat of his brow.
+- **A1346.1** — Man must work as punishment for theft of fire.
+- **A1346.2** — Man must labor for a living: at first everything too easy.
+  *Full crops produce themselves, trees drop sugar etc.*
+- **A1346.2.1** — Cotton at first already spun into threads.
+- **A1346.2.2** — First people have everything they wish (life without work).
+- **A1346.2.3** — Men are too happy: pain and sickness created.
+- **A1346.2.4** — Canoes at one time self-propelling.
+- **A1348** — Mankind's escape from trouble.
+- **A1348.1** — Wren helps mankind restore prosperity to the world.
+- **A1350** — Origin of sex functions.
+- **A1351** — Origin of childbirth.
+- **A1351.1** — Origin of childbirth pains.
+- **A1351.2** — Origin of abortions.
+- **A1352** — Origin of sexual intercourse.
+- **A1352.1** — Origin of unrestricted sexual intercourse between husband and wife.
+- **A1352.2** — Means of persuading persons to intercourse.
+- **A1352.3** — Former intercourse by navel.
+- **A1355** — Origin of menstruation.
+- **A1355.1** — Origin of menstruation Eve and the serpent.
+  *It is a punishment because Eve had intercourse with the serpent.*
+- **A1355.1.1** — Origin of menstruation: punishment because Eve ate forbidden fruit.
+- **A1355.2** — Origin of menstruation Virgin Mary's garment.
+  *She hides her garment and a maiden finds it.*
+- **A1355.3** — Previously men menstruated.
+- **A1357** — Culture hero teaches women how to rear their children.
+- **A1358** — Origin of sterility among women.
+- **A1360** — Man's growth and maturity.
+- **A1361** — Why children are helpless for so long.
+- **A1365** — Why a lad at puberty is energetic and later lazy.
+- **A1370** — Origin of mental and moral characteristics.
+- **A1371** — Why women are bad.
+- **A1371.1** — Bad women because of head exchanged with devil.
+  *Devil (serpent) and woman fight. St. Peter cuts off their heads and exchanges them.*
+- **A1371.2** — Bad women combination of nine different animals.
+- **A1371.3** — Bad women from transformed hog and goose.
+  *Peter, having only one daughter, foolishly promises her to three men. He asks the Lord to create two others. This request is granted. The first creature he meets on two successive mornings he is to greet, and they will be transformed. He meets a hog and a goose. His two new daughters have these characteristics.*
+- **A1372** — Origin of other special characteristics of women.
+- **A1372.1** — Why women are prattlers.
+- **A1372.2** — Why women laugh much.
+  *When Eve sees her first child she laughs over its smallness.*
+- **A1372.3** — Why women are roving.
+- **A1372.4** — Why women have a treble voice.
+- **A1372.5** — Why women are deceitful.
+- **A1372.6** — Why some women are good-looking.
+- **A1372.7** — Origin of pleasant and unpleasant women.
+  *Contest arranged by Virgin Mary laughter forbidden for some time.*
+- **A1372.8** — Why women never have leisure.
+  *Because they refused to show God the way, saying they had no time.*
+- **A1372.9** — Why women are subservient to men.
+- **A1372.10** — Why women keep washing themselves.
+- **A1373** — Why women attract men.
+- **A1373.1** — Why good-looking but soft, useless women attract men.
+- **A1375** — Origin of jealousy and selfishness.
+- **A1375.1** — Why some married people quarrel and accuse each other of infidelity.
+- **A1376** — Why man excels woman.
+- **A1377** — Origin of laziness.
+- **A1381** — Origin of bravery.
+- **A1381.1** — Why people do not fear earthquakes.
+- **A1382** — Origin of fear.
+- **A1382.1** — Why man is fearful in the jungle.
+- **A1383** — Origin of shame for nakedness.
+- **A1383.1** — Shame for nakedness appears to first woman.
+  *(Leaves for clothes).*
+- **A1384** — Origin of evil inclinations.
+- **A1384.1** — Origin of evil inclinations: punishment for fall of man.
+- **A1384.2** — Evil inclination enters body at time of conception.
+- **A1386** — Origin of drunkenness.
+- **A1388** — Origin of hatred.
+- **A1388.1** — Hate released among mankind.
+- **A1390** — Ordaining of human life miscellaneous.
+- **A1391** — Why other members must serve belly.
+  *Result of a debate between members of the body.*
+- **A1391.1** — Why all limbs are dependent on body.
+- **A1392** — First walk by Adam.
+- **A1394** — Men live by the breath of the gods.
+- **A1399** — Ordaining of human life additional motifs.
+- **A1399.1** — Origin of laughter.
+- **A1399.2** — Origin of dreams.
+- **A1399.2.1** — Origin of sleep.
+- **A1399.3** — Origin of spitting.
+- **A1399.4** — Origin of coughing.
+
+## Acquisition of human culture
+
+- **A1400** — Acquisition of human culture.
+- **A1401** — Culture originated by previous race of men.
+- **A1402** — The gods build houses, and fashion tools.
+- **A1403** — God teaches people to work.
+- **A1404** — Gods teach people all they know.
+- **A1405** — Culture originated by ancestor of tribes.
+- **A1410** — Acquisition of livable environment.
+- **A1411** — Theft of light.
+  *Light originally absent is stolen by culture hero.*
+- **A1411.1** — Light kept in box (basket).
+  *Stolen.*
+- **A1411.2** — Theft of light by being swallowed and reborn.
+  *The hero transforms himself to a particle. The daughter of the guardian of light swallows him as she is drinking water. He is reborn. As a child in the house he steals light.*
+- **A1412** — Origin of light miscellaneous.
+- **A1412.1** — Light originated from shield of old cobra supporting the earth.
+- **A1412.2** — Origin of light: souls of dead in heaven.
+- **A1412.3** — Acquisition of daylight by culture hero.
+- **A1414** — Origin of fire.
+- **A1414.1** — Origin of fire rubbing sticks.
+- **A1414.1.1** — Fire drill invented.
+- **A1414.2** — Origin of fire found in person's own body.
+- **A1414.3** — Origin of fire children strike rocks together, accidentally produce fire.
+- **A1414.4** — Origin of fire gift from god (supernatural person).
+- **A1414.5** — Origin of flint and tinder.
+- **A1414.6** — Bird as guardian of primordial fire.
+- **A1414.7** — Repository of fire.
+- **A1414.7.1** — Tree as repository of fire.
+- **A1414.7.2** — Rock as repository of fire.
+- **A1414.7.3** — Cave as repository of fire.
+- **A1415** — Theft of fire.
+  *Mankind is without fire. A culture hero steals it from the owner.*
+- **A1415.0.1** — Fire witheld from men as punishment.
+- **A1415.0.2** — Original fire property of one person (animal).
+- **A1415.1** — Fire stolen in hollow reed.
+- **A1415.1.1** — Fire carried from heaven in fingernails.
+- **A1415.2** — Theft of fire by animals.
+- **A1415.2.1** — Theft of fire by bird.
+- **A1415.3** — Theft of fire trick exchange.
+  *Child of fire-owner is stolen and then given back in exchange for fire.*
+- **A1415.4** — Vain attempts to circumvent theft of fire.
+- **A1416** — Country ridded of ogres and made peaceful.
+- **A1417** — Theft of tablets of fate.
+  *From heaven by bird Zu.*
+- **A1420** — Acquisition of food supply for human race.
+- **A1420.1** — Origin of food from body of slain food-goddess.
+- **A1420.2** — Gods teach how to seek and prepare food.
+- **A1420.3** — Creator of food items.
+- **A1420.4** — Food originally obtained without effort.
+- **A1420.5** — After Fall first parents fed and clothed from one palm-tree.
+- **A1420.6** — At beginning people start to eat the earth.
+- **A1421** — Hoarded game released.
+  *Animals are kept imprisoned by malevolent creature. Released by culture hero.*
+- **A1421.0.1** — Hoarded rice made available once more to men by culture hero.
+- **A1421.1** — Man given dominion over beasts.
+- **A1421.1.1** — Man rules all animals.
+  *God gives greatest strength to lion, but because of man's wisdom lion is in his power.*
+- **A1422** — Assignment of edible animals.
+  *Certain animals may be eaten by man.*
+- **A1422.0.1** — Animals sources of food because they were once unfaithful, disobedient wives of a visitor from god-country.
+- **A1422.0.2** — What animals are to be eaten by man.
+- **A1422.1** — Why men may eat hares.
+- **A1422.1.1** — Why Santals eat entrails of hare.
+- **A1422.2** — Why Birhors eat flesh of monkeys and baboons.
+- **A1422.3** — Why the wild boar is hunted by man for food: once a faithless wife killed by her husband.
+- **A1423** — Acquisition of vegetables and cereals.
+- **A1423.0.1** — Hoarded plants released.
+- **A1423.1** — Origin of yams (sweet potatoes, taro).
+- **A1423.2** — Acquisition of rice.
+- **A1423.3** — Origin of coconut.
+- **A1423.4** — Acquisition of manioc.
+- **A1425** — Origin of seed.
+- **A1425.0.1** — Hoarded seeds.
+- **A1425.1** — All the kinds of seed in a bamboo that culture hero cuts down.
+- **A1426** — Acquisition of food supply miscellaneous.
+- **A1426.1** — Discovery of oil.
+- **A1426.2** — Acquisition of ale.
+- **A1426.2.1** — Introduction of brewing.
+- **A1426.2.2** — Origin of rice-beer.
+- **A1427** — Acquisition of spiritous liquors.
+- **A1427.0.1** — Liquor discovered when birds get drunk.
+- **A1427.0.2** — Liquor discovered by rain-god.
+- **A1427.0.3** — Intoxicating drink first used at the wedding feast of the first couple.
+- **A1427.0.4** — Creator gives liquor to his servant giant to drink.
+- **A1427.1** — Acquisition of brandy.
+  *Devil teaches how to burn brandy.*
+- **A1427.2** — Origin of whiskey.
+- **A1428** — Acquisition of wine.
+- **A1429** — Acquisition of food supply miscellaneous.
+- **A1429.1** — Discovery of oil (edible).
+- **A1429.2** — Origin of yeast: wasp stole it from the old woman underneath the earth.
+- **A1429.3** — Acquisition of water.
+- **A1429.3.1** — First wells dug.
+- **A1429.3.2** — Gods provide drinkable water.
+- **A1429.4** — Acquisition of salt.
+- **A1430** — Acquisition of other necessities.
+- **A1431** — Origin of coal.
+- **A1432** — Acquisition of metals.
+- **A1432.1** — Origin of iron.
+- **A1432.1.1** — Iron at first was made for food, not for weapons.
+- **A1432.2** — Acquisition of gold.
+- **A1432.2.1** — Gold comes from gourd received from fishes.
+- **A1432.3** — Acquisition of brass.
+- **A1432.4** — Acquisition of copper.
+- **A1433** — Acquisition of money.
+- **A1433.0.1** — First money received from kettle which two dead men try in vain to carry from hell to heaven.
+- **A1433.1** — Origin of gold coins.
+- **A1433.2** — Origin of silver coins.
+- **A1433.2.1** — Silver coins from pumpkin received from fishes.
+- **A1433.3** — Origin of shell money.
+- **A1435** — Acquisition of habitations.
+- **A1435.0.1** — Origin of cave-digging.
+- **A1435.1** — Acquisition of guest-houses.
+- **A1435.2** — Origin of raths (duns, stone forts).
+- **A1435.2.1** — Raths marked out with brooch.
+- **A1435.3** — Origin of grass huts to replace caves as dwellings.
+- **A1436** — Acquisition of vehicles.
+- **A1437** — Acquisition of clothing.
+- **A1438** — Origin of medicine (healing).
+- **A1438.1** — Origin of medicine: shaman sent down by the Creator equipped with it.
+- **A1439** — Acquisition of other necessities.
+- **A1439.1** — Acquisition of marble.
+- **A1439.2** — Origin of dyes.
+- **A1439.3** — Origin of rubber S. Am.
+- **A1439.4** — Origin of cauldrons.
+- **A1440** — Acquisition of crafts.
+- **A1440.1** — Assignment of crafts and professions: creator opens shop and from it distributes plough, pen, bottle, pair of scales, fishing-net and loom to various groups.
+- **A1440.2** — Origin of distribution of work.
+- **A1440.3** — Patriarchs because of long life made inventions.
+- **A1441** — Acquisition of agriculture.
+- **A1441.1** — Origin of plowing.
+- **A1441.2** — Origin of custom of yoking oxen.
+- **A1441.3** — Origin of water wheel and rice growing.
+- **A1441.4** — Origin of sowing and planting.
+- **A1441.4.1** — Origin of periodic sowing.
+- **A1441.5** — Origin of onion-growing.
+- **A1442** — Origin of milling.
+- **A1443** — Origin of domestication of animals.
+- **A1443.1** — First shepherder.
+- **A1445** — Acquisition of building crafts.
+- **A1445.1** — Origin of boat-building.
+- **A1445.2** — Origin of carpentry.
+- **A1445.2.1** — Why carpenters are found everywhere: flood scatters them on raft over world.
+- **A1445.2.2** — Man learns housebuilding from wasp.
+- **A1446** — Acquisition of tools.
+- **A1446.0.1** — Culture hero steals tools for men.
+- **A1446.1** — Origin of the saw.
+  *Invented by devil.*
+- **A1446.2** — Origin of the axe.
+- **A1446.3** — Origin of the ox-goad.
+- **A1446.4** — Origin of the adze.
+- **A1446.5** — Acquisition of household implements.
+- **A1446.5.1** — Origin of the broom.
+- **A1446.5.2** — Origin of the pestle.
+- **A1446.5.3** — Origin of the grindstone.
+- **A1446.5.4** — Origin of the winnowing-fan.
+- **A1446.5.5** — Origin of baskets.
+- **A1446.5.6** — Origin of the oil-press.
+- **A1447** — Origin of metal-working.
+- **A1447.1** — Origin of the bellows.
+- **A1447.2** — Origin of blacksmith work.
+- **A1447.3** — Origin of goldsmith work.
+- **A1447.4** — Origin of smelting.
+- **A1448** — Origin of mining.
+- **A1451** — Origin of pottery.
+- **A1452** — Origin of charcoal making.
+- **A1453** — Origin of cloth-making.
+- **A1453.1** — Origin of spinning.
+- **A1453.2** — Origin of weaving.
+- **A1453.3** — Origin of dyeing.
+- **A1453.4** — Origin of leaf-dress.
+- **A1453.5** — Origin of bark-cloth.
+- **A1453.6** — Creator paints on clay models of men clothes that they are to wear.
+- **A1453.7** — Origin of raffia cloth.
+- **A1454** — Origin of shoemaking.
+- **A1455** — Origin of cooking.
+- **A1455.1** — Origin of the domestic hearth.
+- **A1456** — Origin of distilling.
+  *Learned from devil.*
+- **A1457** — Origin of fishing.
+- **A1457.1** — Origin of the fish hook.
+- **A1457.2** — Origin of custom of catching fish by day as well as by night.
+- **A1457.3** — Origin of the net for fishing.
+- **A1457.4** — Origin of fishing stations.
+- **A1457.5** — Origin of fish-traps.
+- **A1457.6** — Origin of fish ponds.
+- **A1458** — Origin of hunting.
+- **A1458.1** — Origin of pitfall.
+- **A1459** — Acquisition of crafts miscellaneous.
+- **A1459.1** — Acquisition of weapons.
+- **A1459.1.1** — Origin of bows and arrows.
+- **A1459.1.2** — Introduction of broad-headed spears into Leinster.
+- **A1459.1.2.1** — Origin of obsidian-tipped spears.
+- **A1459.1.3** — Origin of sling-stones.
+- **A1459.1.4** — Invention of gai bulga.
+- **A1459.1.5** — Origin of horse-whips.
+- **A1459.2** — Acquisition of seamanship (sailing, etc.).
+- **A1459.3** — Acquisition of sorcery.
+- **A1460** — Acquisition of arts.
+- **A1460.1** — Arts taught man by angel.
+- **A1461** — Acquisition of music.
+- **A1461.1** — Origin of violin.
+- **A1461.2** — Origin of lyre.
+  *Hermes makes it from a tortoise.*
+- **A1461.2.1** — Origin of harp.
+- **A1461.3** — Origin of organ.
+- **A1461.4** — Origin of the use of the rattle.
+- **A1461.5** — Origin of whistle.
+- **A1461.6** — Origin of shepherd's pipe.
+- **A1461.7** — Origin of nose-flute.
+- **A1462** — Origin of dancing.
+- **A1464** — Origin of literary arts.
+- **A1464.1** — Acquisition of poetry.
+- **A1464.1.1** — First poetry composed in imitation of tones of hammer on anvil.
+- **A1464.2** — Origin of hymn.
+- **A1464.2.1** — Origin of particular song.
+- **A1464.3** — Origin of satire.
+- **A1465** — Origin of decorative art.
+- **A1465.1** — Origin of tattooing.
+- **A1465.2** — Origin of embroidery.
+- **A1465.3** — Origin of ornaments.
+- **A1465.3.1** — Origin of gadaba ornaments.
+- **A1465.3.2** — Origin of designs on cloth.
+- **A1465.3.3** — Origin of metal ornaments.
+- **A1465.4** — Origin of polishing stone.
+- **A1465.5** — Origin of wood carving.
+- **A1465.6** — Origin of masks.
+- **A1466** — Origin of church bells.
+- **A1466.1** — First church bell built on model of bluebell.
+- **A1468** — Origin of games of skill (indoor).
+- **A1468.1** — Invention of chess game.
+- **A1470** — Beginning of social relationships.
+- **A1471** — Origin of commerce.
+- **A1471.1** — Origin of trade between two places.
+- **A1471.2** — Origin of weights and measures.
+- **A1472** — Beginning of division of labor.
+- **A1472.1** — Division of labor: religious and lay activities.
+- **A1473** — Origin of slavery.
+- **A1480** — Acquisition of wisdom and learning.
+- **A1481** — Origin of human wisdom.
+  *It is kept hidden by monster and is later stolen. It escapes and spreads through the world.*
+- **A1482** — Origin of language.
+- **A1482.1** — Hebrew the language of the inhabitants of heaven.
+- **A1484** — Origin of reading and writing.
+- **A1484.1** — Origin of ogam inscriptions.
+- **A1484.2** — Origin of alphabet.
+- **A1485** — How people learned about calculating time and the seasons.
+- **A1487** — Origin of sciences.
+- **A1487.1** — Origin of astronomy.
+- **A1487.1.1** — Origin of astrology.
+- **A1487.2** — Origin of medical books.
+- **A1490** — Acquisition of culture miscellaneous.
+- **A1491** — Origin of art of walking on stilts.
+- **A1495** — Origin of outdoor games.
+- **A1495.1** — Origin of ball game.
+- **A1435.1** — Acquisition of guest-houses.
+
+## Origin of customs general
+
+- **A1500** — Origin of customs general.
+- **A1501** — Tribal customs established by diviner.
+  *(Man who sees future.)*
+- **A1502** — All customs for the year established.
+- **A1503** — Creator gives men customs and songs before their emergence.
+- **A1510** — Origin of eating customs.
+- **A1511** — Origin of time for meals.
+- **A1511.1** — Mealtimes from confused message from God.
+- **A1512** — Origin of custom of not eating in the dark: devil eats from plates.
+- **A1514** — Origin of compulsory drinking at feast.
+- **A1514.1** — Origin of drinking ceremonies.
+- **A1515** — Origin of custom of eating certain animals.
+- **A1515.1** — Origin of custom of eating flesh of buffalo.
+- **A1516** — Origin of cannibalism.
+- **A1517** — Origin of eating tabus.
+- **A1518** — Why food is cooked.
+- **A1520** — Origin of hunting and fishing customs.
+- **A1525** — Origin of customs: game-division.
+- **A1526** — Why Indians cache their meat.
+- **A1527** — Custom of catching fish with nets.
+- **A1528** — Why one presents stranger with first fish caught.
+- **A1530** — Origin of social ceremonials.
+- **A1533** — Origin of peace ceremonies.
+- **A1534** — Origin of "guesting."
+- **A1535** — Origin of secular feasts.
+- **A1535.1** — Origin of the potlatch.
+  *A feast of the Indians of the Northwest Coast of America in which large amounts of property are given away to the guests. These feasts must be returned.*
+- **A1535.2** — Origin of games and fairs.
+- **A1535.3** — Origin of games (fair) at Telltown (Tailtiu).
+- **A1535.4** — Origin of feast of Tara.
+- **A1535.5** — Festival of Beltane.
+- **A1535.6** — Origin of horse-racing.
+- **A1537** — Origin of social etiquette.
+- **A1537.1** — Origin of wishing long life to person who sneezes.
+- **A1539** — Origin of social ceremonials miscellaneous.
+- **A1539.1** — Origin of seating arrangements in royal hall.
+- **A1540** — Origin of religious ceremonials.
+- **A1541** — Origin of religious feasts and fasts.
+- **A1541.1** — Origin of feast for the dead.
+- **A1541.1.1** — Origin of grave-digging Irish myth: Cross.
+- **A1541.1.2** — Communion feast to placate dead.
+- **A1541.2** — Origin of feasts in honor of certain god (goddess).
+- **A1541.2.1** — Origin of feast for Zise.
+- **A1541.3** — Origin of Hallowe'en.
+- **A1541.3.1** — Origin of Hallowe'en as a mystic night.
+- **A1541.4** — Origin of Sabbath.
+- **A1541.4.0.1** — Holy day established on seventh day.
+- **A1541.4.1** — Origin of Sabbath from a feast to Venus.
+- **A1541.4.2** — Origin of dragon festival.
+- **A1541.5** — Origin of passover.
+- **A1541.6** — Origin of Pentecost.
+- **A1541.7** — Origin of religious fasts.
+- **A1542** — Origin of religious dances.
+- **A1542.1** — Origin of particular manner of dancing.
+- **A1542.2** — Origin of particular dance.
+- **A1542.2.1** — Origin of crocodile dance.
+- **A1543** — Origin of religious songs (chants).
+- **A1543.1** — Origin of the death chant.
+- **A1544** — Origin of religious images (idols).
+- **A1544.0.1** — Why Jews do not worship idols.
+- **A1545** — Origin of sacrifices.
+- **A1545.1** — Regulations for sacrifices.
+- **A1545.2** — Animal substituted for human sacrifice.
+- **A1545.3** — Origin of animal sacrifices.
+- **A1545.3.1** — Origin of dog sacrifices.
+- **A1545.3.2** — Origin of calf sacrifices.
+- **A1545.3.3** — Origin of cock sacrifice.
+- **A1545.4** — Custom of sacrifice begun at harvest and sowing times.
+- **A1545.5** — Origin of human sacrifice.
+- **A1545.5.1** — Origin of the custom of wife self-sacrifice (suttee).
+- **A1545.6** — Why animal bones only are used in sacrifice.
+- **A1546** — Origin of worship.
+- **A1546.0.1** — Origin of symbols of worship.
+- **A1546.0.2** — Origin of prayers.
+- **A1546.0.3** — Origin of calf-statues in temples.
+- **A1546.1** — Origin of worship of rivers.
+- **A1546.2** — Origin of worship of particular god(s).
+- **A1546.3** — Origin of Christian worship.
+- **A1546.3.1** — First convert to Christianity in Ireland.
+- **A1546.3.2** — First monk, first pilgrim.
+- **A1546.4** — Origin of Jewish worship.
+- **A1546.5** — Origin of worship from holy books.
+- **A1546.6** — Origin of fire worship.
+- **A1546.7** — Origin of animal worship.
+- **A1546.7.1** — Origin of crocodile worship.
+- **A1547** — Origin of funeral customs.
+- **A1547.1** — Origin of funeral sacrifices.
+- **A1547.2** — Origin of lute-playing at funerals.
+- **A1547.3** — Origin of lamentations for the dead.
+- **A1548** — Origin of tithing.
+- **A1549** — Origin of religious ceremonials miscellaneous.
+- **A1549.1** — Origin of commemorative religious meal (to memorialize death or actions of ancestor or holy person).
+- **A1549.2** — Origin of sundry religious ceremonials  Jewish: Neuman.
+- **A1549.3** — Origin of religious games.
+- **A1549.4** — Origin of penance for sin.
+- **A1550** — Origin of customs of courtship and marriage.
+- **A1551** — Why women do not woo.
+- **A1552** — Marriage between close relatives.
+- **A1552.1** — Why brothers and sisters do not marry.
+- **A1552.2** — Origin of royal marriages with close relatives.
+- **A1552.3** — Brother-sister marriage of children of first parents.
+- **A1553** — Origin of exogamy and endogamy.
+- **A1553.1** — Origin of exogamy.
+- **A1554** — Origin of love-songs.
+- **A1555** — Origin of marriage.
+- **A1555.1** — Origin of wedding ceremony.
+- **A1555.1.1** — Origin of custom of throwing fruits on bridal couple.
+- **A1555.2** — Origin of custom of purchasing wives.
+- **A1555.3** — Why umbrellas are used to welcome bride to new home.
+- **A1556** — Origin of sexual restrictions.
+- **A1556.1** — Beginning of law against rape.
+- **A1556.2** — Origin of celibacy.
+- **A1556.3** — Origin of adultery.
+  *It occurs in the primeval human family.*
+- **A1556.3.1** — Origin of decrying female sinners.
+- **A1556.4** — Origin of jus primae noctis.
+- **A1557** — Why woman is master of her husband.
+- **A1558** — Origin of divorce.
+- **A1559** — Origin of customs of courtship and marriage miscellaneous.
+- **A1559.1** — Origin of the village dormitory.
+- **A1560** — Origin of customs connected with birth.
+- **A1562** — Origin of medical treatment during pregnancy.
+- **A1562.1** — Origin of charms for pregnant women.
+- **A1565** — Origin of diet during confinement.
+- **A1566** — Parents learn how to wean their children.
+- **A1567** — Origin of circumcision.
+- **A1567.1** — Why dust is strewn on wound at circumcision.
+- **A1570** — Origin of regulations within the family.
+- **A1571** — Origin of code of conduct between husband and wife.
+- **A1571.1** — Why husband and wife shall not exchange hats.
+- **A1575** — Origin of relation of mother and children.
+- **A1575.1** — Why a mother has prior claim on her children.
+- **A1576** — Origin of code of conduct for parents toward children of polygamous marriage.
+- **A1577** — Origin of personal names.
+- **A1577.1** — Adam named from first letters of four stars.
+- **A1578** — Origin of family insignia.
+- **A1578.1** — Origin of family crests.
+- **A1579** — Origin of regulation within the family miscellaneous.
+- **A1579.1** — Why children are not left alone in the house to sleep.
+- **A1580** — Origin of laws.
+- **A1580.1** — Origin of justice.
+- **A1580.1.1** — First judgment in Ireland.
+- **A1580.2** — Laws given directly by deity.
+- **A1581** — Origin of special penalties.
+- **A1581.1** — Origin of penalty for murder.
+- **A1581.2** — Origin of penalty for theft.
+- **A1582** — Origin of government.
+- **A1583** — Origin of kingdom.
+- **A1585** — Origin of laws: division of property in a family.
+- **A1586** — First surety.
+- **A1587** — Origin of tabus.
+- **A1587.1** — Tabus instituted by God or creator.
+- **A1587.2** — Tabus instituted by culture hero.
+- **A1589** — Origin of laws miscellaneous.
+- **A1589.1** — Why women are disqualified as witness in court.
+- **A1590** — Origin of other customs.
+- **A1591** — Origin of burial.
+- **A1591.1** — Burial learned from watching raven bury its dead.
+- **A1592** — Origin of cremation.
+- **A1593** — Why men no longer know time of death.
+  *Custom changed when men began to repair fences with stalks when they knew they were to die the next day.*
+- **A1594** — Origin of physicians.
+- **A1594.1** — Establishment of doctor's fees.
+- **A1595** — Origin of tattooing.
+- **A1596** — Origin of army.
+- **A1596.1** — Origin of custom of paying soldiers.
+- **A1597** — Origin of custom of wearing a beard.
+- **A1597.1** — First men without beards: Cain, Abel.
+- **A1597.2** — Origin of custom of shaving.
+- **A1598** — Origin of customs of hospitality.
+- **A1599** — Origin of additional customs.
+- **A1599.1** — Origin of warning beacon.
+- **A1599.2** — Origin of erection of monuments to mark boundaries.
+- **A1599.3** — Why women wear veils in India.
+- **A1599.4** — Why the face must be wiped dry after washing.
+- **A1599.5** — Why in addressing anyone the second plural should be used.
+- **A1599.6** — Why earthworms are killed whenever earth is dug.
+- **A1599.7** — Why dagger must be always cleaned on the inside of the robe.
+- **A1599.8** — Inequalities of fortune among men, otherwise the work of the world will not go on.
+- **A1599.9** — Origin of custom of committing suicide by strangling.
+- **A1599.10** — Origin of witchcraft.
+- **A1599.11** — Origin of quarrels.
+- **A1599.11.1** — Origin of war.
+- **A1599.12** — Origin of covenanted friendships.
+- **A1599.13** — Why certain caste is kind to animals.
+- **A1599.14** — Why a lamp must be lighted in a house at least every fortnight.
+- **A1599.15** — Origin of begging.
+- **A1599.16** — Origin of allusive expression for the story of gods' incest and trickery.
+
+## Distribution and differentiation of peoples general
+
+- **A1600** — Distribution and differentiation of peoples general.
+- **A1601** — Number of nations of the world  (70, 72, 140).
+- **A1610** — Origin of various tribes.
+- **A1610.1** — Unworthy origin ascribed to hostile tribes.
+- **A1610.1.1** — Foreigners heads exchanged with those of devils in fight.
+- **A1610.2** — Couples placed to establish tribes.
+- **A1610.3** — Origin of races from mixed offspring of animal marriage.
+- **A1610.4** — Tribes from fruits of various trees.
+- **A1610.5** — Different tribes result from choice of things Sun offers people.
+- **A1610.6** — Tribes from clay models made by creator.
+- **A1611** — Origin of particular tribes.
+- **A1611.1** — Origin of American Indian tribes.
+- **A1611.1.1** — Origin of the Ojibwa.
+- **A1611.1.2** — Origin of Eskimo.
+- **A1611.2** — Origin of Gypsies.
+- **A1611.3** — Origin of various African tribes.
+- **A1611.3.1** — Origin of Bushmen.
+- **A1611.4** — Origin of various tribes of India.
+- **A1611.5** — Origin of various European peoples.
+- **A1611.5.1** — Origin of Greeks.
+- **A1611.5.2** — Origin of Italians.
+- **A1611.5.3** — Origin of Germans.
+- **A1611.5.4** — Origin of Celts.
+- **A1611.5.4.1** — Origin of women in Ireland.
+- **A1611.5.4.2** — Origin of the Maic Milid (Milesians, Gaels).
+- **A1611.5.4.3** — Origin of the Tuatha Di Danann regarded as an early tribe.
+- **A1611.6** — Origin of various Near Eastern peoples.
+- **A1614** — Origin of white and colored races.
+- **A1614.1** — Negroes as curse on Ham for laughing at Noah's nakedness.
+- **A1614.1.1** — Origin of luchrupain (leprechauns, dwarfs, pygmies) from curses of Ham.
+- **A1614.1.2** — Origin of "goat-heads" from curse of Ham.
+- **A1614.2** — Races dark-skinned from bathing after white men.
+  *All peoples bathe in the river, the white man first, then in turn, the Spaniard, the Indian, and the negro each becoming darker because of the condition of the water.*
+- **A1614.3** — Light and dark-skinned peoples made from light and dark coconuts.
+- **A1614.4** — Origin of tribes from choices made.
+- **A1614.4.1** — Origin of tribes from kinds of meat they choose.
+- **A1614.4.1.1** — Origin of race colors from eating of ox.
+  *Those who eat livers are black; those who eat lungs and blood are red.*
+- **A1614.4.2** — Origin of different peoples according to choice of chairs.
+- **A1614.4.3** — Origin of different peoples according to choice of bows and arrows or else guns, horses and cattle.
+- **A1614.5** — Negroes made from left-over scraps at creation.
+- **A1614.6** — Origin of light and dark skin color.
+- **A1614.7** — Indians and whites from different legs of first man.
+- **A1614.8** — Black tribe because woman is put on fire.
+- **A1614.9** — Origin of white man.
+- **A1616** — Origin of particular languages.
+- **A1616.1** — Cold before theft of fire impedes speech: explanation of difficulty of certain languages.
+- **A1616.2** — Origin of Irish language.
+- **A1617** — Origin of place-name.
+- **A1618** — Origin of inequalities among men.
+- **A1620** — Distribution of tribes.
+- **A1621** — Reasons for difference in population sizes in different areas.
+- **A1630** — Wandering of tribes.
+- **A1631** — Emergence of tribe from lower world.
+- **A1631.1** — Emergence of tribe from lower world stopped by fat woman or pregnant woman who becomes lodged in the hole of egress.
+- **A1631.2** — Tribe climbs down from sky to earth.
+- **A1640** — Origin of tribal subdivisions.
+- **A1641** — Characteristics of tribal subdivisions.
+- **A1650** — Origin of different classes social and professional.
+- **A1650.1** — The various children of Eve.
+  *Eve has so many children that she is ashamed when God pays her a visit. She hides some of them and they fail to receive the blessing that God gives those in sight. Thus arises the differences in classes and peoples.*
+- **A1650.2** — Custom of differentiating social classes by color of dress introduced.
+- **A1650.3** — Origin of different trades.
+- **A1650.3.1** — Why some men are good basket-makers.
+- **A1650.3.2** — How God distributed professions: according to the bodily appearance of men.
+- **A1641** — Origin of castes.
+- **A1651.0.1** — Attitude to untouchables.
+- **A1651.1** — Origin of castes from instructions received in dream.
+- **A1651.2** — Caste determined by what kind of tree one catches while crossing a river.
+- **A1653** — Origin of royalty.
+- **A1653.1** — Origin of kings (from god(s)).
+- **A1653.2** — Origin of a king's family from a fairy prince.
+- **A1654** — Origin of priesthood (shamanism, etc.)
+- **A1654.1** — Origin of priests.
+- **A1654.2** — Origin of diviners.
+- **A1655** — Origin of peasantry.
+- **A1655.1** — Why peasant is always busy: he is eager to produce food for all living beings.
+- **A1656** — Origin of noblemen.
+- **A1656.1** — Origin of Polish noblemen: from wheat dough that a bitch devours.
+- **A1657** — Origin of slaves.
+- **A1657.1** — Origin of subject tribes (aithech-thuatha).
+- **A1657.2** — Origin of the Fir Bolg ("Men of the Sacks"); so-called because as slaves they were forced to carry earth in sacks (builg).
+- **A1658** — Origin of professional warriors.
+- **A1658.1** — Origin of fiana (bands of professional warriors).
+- **A1659** — Origin of different classes miscellaneous.
+- **A1659.1** — Origin of the Fomorians (giants).
+- **A1659.1.1** — Fomorians descended from Ham (or Cain).
+- **A1660** — Characteristics of various peoples in personal appearance.
+- **A1661** — Hair and beard of various peoples.
+- **A1661.1** — How the white man got his beard.
+- **A1661.2** — Why the white man has short hair.
+- **A1661.3** — Why Canaanites have curly hair.
+- **A1662** — Peculiar smell of body.
+- **A1662.1** — Why Jews smell bad.
+  *They rubbed Christ's body with garlic.*
+- **A1663** — Heads of various people.
+- **A1663.1** — Why Babylonians are round headed.
+- **A1664** — Beauty of various peoples.
+- **A1665** — Feet of various peoples.
+- **A1665.1** — Why Africans have bad feet.
+- **A1666** — Eyes of various peoples.
+- **A1666.1** — Why Canaanites have red eyes.
+- **A1666.2** — Why Palmyrenes have narrow eyes.
+- **A1667** — Intelligence of various people.
+- **A1667.1** — Why Europeans know more than natives.
+- **A1670** — Characteristics of various peoples in industry and warfare.
+- **A1671** — Tribal characteristics labor.
+- **A1671.1** — Why the negro works.
+- **A1673** — Tribal characteristics industry.
+- **A1673.1** — Why the Haidas surpass in certain industries.
+- **A1674** — Tribal characteristics stealing.
+- **A1674.1** — Why it is not a sin for a Gypsy to steal: helpful at crucifixion.
+- **A1674.2** — Why Russians like thefts and robberies.
+- **A1675** — Tribal characteristics warfare.
+- **A1676** — Tribal characteristics bravery or cowardice.
+- **A1676.1** — Why the Chittagongs are not as brave as they used to be.
+- **A1680** — Characteristics of various peoples in habits.
+- **A1681** — Tribal characteristics eating.
+- **A1681.1** — Why Indians chew spruce gum.
+- **A1681.2** — Why Jews do not eat pork.
+- **A1681.3** — Why the Muria eat snakes.
+- **A1681.4** — Why the Agaria eat rats.
+- **A1683** — Tribal characteristics dress.
+- **A1683.1** — Why Russians wear their shirts outside their breeches.
+- **A1683.1.1** — Why Russians wear red shirts.
+- **A1683.2** — Why a certain tribe wear clothes like dogs (supposed descendants of a bitch mother).
+- **A1683.3** — Origin of custom of wearing mantles.
+- **A1683.4** — Why certain peoples go nude.
+- **A1683.4.1** — Why Canaanites go nude.
+- **A1683.5** — Why certain peoples wear only loincloths.
+- **A1687** — Tribal characteristics decoration.
+- **A1687.1** — Why Zusi girls rub flour on their faces as they grind.
+- **A1689** — Other origins and originators.
+- **A1689.1** — Why Bhuiya yoke the cow and the bullock together to the plough.
+- **A1689.2** — Why Agaria are not afraid of fire.
+- **A1689.3** — Why the Gond and Baiga are omnivorous.
+- **A1689.4** — Why Saora wave axes and swords and shout while dancing.
+- **A1689.5** — Why the Kamar offer liquor to gods and spirits.
+- **A1689.6** — Why Jews read and write from right to left: because of the ugly name of the king of the Jews.
+- **A1689.7** — Origin of the Russian calendar.
+- **A1689.8** — Why Chapperbands coin false money for a living.
+- **A1689.9** — Why Chenchu women are ugly.
+- **A1689.10** — Why the Agaria are cultivators.
+- **A1689.11** — Why one people is superior in power to another.
+- **A1689.11.1** — English more powerful than Hindus since latter were late at distribution of qualities.
+  *(Both defecating, but Hindu must wash, while Englishman uses paper.)*
+- **A1689.12** — Why Egyptians are fond of asses.
+- **A1689.13** — Why Jews keep aloof from other peoples.
+- **A1690** — Distribution and differentiation of people miscellaneous.
+- **A1691** — Differentiation between "free" (saer) and "unfree" (daer).
+
+## Creation of animals
+
+- **A1700** — Creation of animals.
+- **A1701** — Creation of animals by God.
+- **A1702** — Creation of animals by creator.
+- **A1703** — Culture hero creates useful animals.
+- **A1704** — All animals created in couples.
+- **A1705** — Animals created to serve man.
+- **A1710** — Creation of animals through transformation.
+- **A1711** — Animals from transformations after deluge or world calamity.
+- **A1713** — Creator sent for water: Meantime animals assume present forms.
+- **A1714** — Animals from various transformed objects.
+- **A1714.1** — Animals from transformed cloth.
+- **A1714.2** — Animals from bark thrown on ground.
+- **A1714.3** — Animals created from earth.
+- **A1714.3.1** — Buffaloes emerge from earth, the first man holding the tail of last one.
+- **A1715** — Animals from transformed man.
+- **A1715.1** — Animals from Pharaoh's drowned army.
+  *From the army crossing the Red Sea came the various animals.*
+- **A1715.2** — Animals from men transformed for discourtesy to God (Jesus).
+- **A1715.3** — Seven whistlers are the souls of the Jews who crucified Christ.
+- **A1715.4** — Animals from transformed men according to favorite food.
+  *One man asks for flesh, one for blood, etc. They are changed to mice, cats, and bugs.*
+- **A1715.5** — Animals from transformed survivors of shipwreck.
+- **A1716** — Animals from transformed ogre or giant.
+- **A1716.1** — Animals from different parts of body of slain giant.
+  *Giant person, cow, ox, etc.*
+- **A1724** — Animals from transformed parts of the body (animal or human).
+- **A1724.1** — Animals from body of slain person.
+- **A1724.1.1** — Animals from severed fingers of woman.
+- **A1724.2** — Animals from transformed hair.
+- **A1724.3** — All living things from Jesus' spattered blood.
+- **A1725** — Animals from parts of body of deity or saint.
+- **A1725.1** — Animals from spittle of deity (saint).
+- **A1725.2** — Animals from body dirt of deity (hero).
+- **A1727** — Primordial animal mutilated to produce present form.
+- **A1730** — Creation of animals as punishment.
+- **A1731** — Creation of animals as punishment for beating forbidden drum.
+- **A1732** — Creation of animals to take revenge.
+- **A1733** — Creation of animals as punishment for incest.
+- **A1734** — Animals from frogs sent as one of Egypt's plagues.
+- **A1750** — Animals created through opposition of devil to god.
+- **A1751** — The devil's animals and God's.
+  *In the contest between God and the devil, certain animals are made by each.*
+- **A1751.1** — Mouse created by Lucifer; cat by Michael to destroy mouse.
+- **A1755** — Devil's unsuccessful creation produces certain animals.
+- **A1756** — Devil produces animals only in God's name.
+  *He tries unsuccessfully without using God's name.*
+- **A1757** — Dualism of animal creation.
+- **A1758** — Animals created while god Mahadeo quarrels with his wife.
+- **A1770** — Creation of animals from unusual primeval mating.
+- **A1771** — Animals from mating of sun and moon.
+- **A1772** — Animals born from primeval mating of snake and person.
+- **A1790** — Creation of animals other motifs.
+- **A1791** — Giant ox ancestor of all animals.
+- **A1792** — Animals vomited up by creator.
+- **A1793** — Animals emerge from tree.
+- **A1795** — Animals drop from clouds.
+
+## Creation of mammals
+
+- **A1800** — Creation of mammals.
+- **A1810** — Creation of felidae.
+- **A1811** — Creation of cat.
+- **A1811.1** — Cat from transformed eagle.
+  *Eagle mistakes stick of wood for fish and gets feet caught. Wind blows off feathers and makes hair.*
+- **A1811.2** — Creation of cat: sneezed from lion's nostrils.
+  *Devil as mouse gnaws hole in bottom of ark. Noah asks lion's help. Lion sneezes and cat comes from lion's nostril and eats mouse.*
+- **A1811.3** — Cat of divine origin; is really praying when he purrs.
+- **A1815** — Creation of tiger.
+- **A1817** — Creation of jaguar.
+- **A1820** — Creation of mustelidae.
+- **A1821** — Creation of otter.
+- **A1821.1** — Creation of sea otter.
+- **A1824** — Creation of marten.
+- **A1830** — Creation of canidae and other carnivora.
+- **A1831** — Creation of dog.
+- **A1831.1** — Dog created as watch-dog for Jesus.
+  *Jesus, left to watch the herd, creates the dog to drive off the wolf.*
+- **A1831.2** — First lapdog in Ireland.
+- **A1832** — Creation of fox.
+- **A1833** — Creation of wolf.
+- **A1833.1** — Devil makes wolf; God gives him life.
+- **A1833.2** — Wolf from man transformed by magician.
+- **A1833.3** — Wolf as God's dog.
+- **A1834** — Creation of coyote and other canidae.
+- **A1834.1** — Creation of coyote.
+- **A1834.2** — Creation of jackal.
+- **A1834.3** — Creation of hyena.
+- **A1836** — Creation of bear.
+- **A1837** — Origin of seal.
+- **A1838** — Origin of walrus.
+- **A1840** — Creation of rodentia.
+- **A1853** — Creation of mouse.
+- **A1853.1** — Creation of mouse by devil in ark.
+- **A1853.1.1** — Mice engendered after flood from rottenness: no mice on ark.
+- **A1854** — Creation of rat.
+- **A1854.1** — Why we have rats: one escapes from slaughter of rats.
+- **A1856** — Creation of hare (rabbit).
+- **A1857** — Creation of mongoose.
+- **A1858** — Creation of porcupine.
+- **A1860** — Creation of primata.
+- **A1861** — Creation of monkey.
+- **A1861.1** — Monkeys from children hidden by Eve when God visited her.
+- **A1861.2** — Creation of monkeys: old woman thrown into fire.
+  *In unsuccessful imitation of Christ, the smith throws an old woman into the fire. She becomes a monkey.*
+- **A1861.3** — Creation of monkey: lazy man.
+- **A1862** — Creation of ape.
+- **A1863** — Creation of baboon.
+- **A1870** — Creation of ungulata.
+- **A1871** — Creation of hog (pig).
+- **A1871.0.1** — God's urine used to make pig.
+- **A1871.1** — Origin of wild boar.
+- **A1871.2** — Origin of peccary.
+- **A1872** — Creation of hippopotamus.
+- **A1873** — Creation of camel.
+- **A1875** — Origin of deer.
+- **A1875.0.1** — First deer in Ireland introduced by Tuatha Di Danann.
+- **A1875.1** — Origin of reindeer.
+- **A1876** — Creation of moose (elk).
+- **A1876.1** — Creation of caribou.
+- **A1877** — Creation of cow.
+- **A1877.1** — First cattle in Ireland.
+- **A1878** — Creation of bison (buffalo).
+- **A1878.1** — Origin of wild and domestic buffalo.
+- **A1881** — Creation of horse.
+- **A1881.0.1** — Horse lives from time of Adam on.
+- **A1881.1** — Creation of white horse.
+  *Man takes skin of horse and substitutes a white bedspread.*
+- **A1882** — Creation of ass.
+- **A1882.1** — Creation of ass: proud horse.
+- **A1884** — Creation of sheep.
+- **A1884.0.1** — First sheep in Ireland.
+- **A1884.1** — Creation of mountain sheep.
+- **A1885** — Creation of goat.
+- **A1887** — Creation of elephant.
+- **A1889** — Creation of ungulata miscellaneous.
+- **A1889.1** — Creation of tapir.
+- **A1890** — Creation of other mammals.
+- **A1893** — Creation of mole.
+- **A1895** — Creation of bat.
+- **A1896** — Creation of anteater.
+- **A1897** — Creation of armadillo.
+
+## Creation of birds
+
+- **A1900** — Creation of birds.
+- **A1901** — Various birds from Pharaoh's drowned army.
+- **A1903** — God makes birds, devil reptiles.
+- **A1904** — The oldest bird.
+- **A1910** — Creation of passeriformes.
+- **A1911** — Creation of lark.
+- **A1912** — Creation of thrush (nightingale).
+- **A1912.1** — Creation of thrush.
+- **A1912.2** — Creation of nightingale.
+- **A1912.3** — Creation of robin.
+- **A1917** — Creation of swallow.
+- **A1918** — Creation of titmouse.
+- **A1919** — Creation of crow (raven).
+- **A1921** — Creation of jay.
+- **A1922** — Creation of magpie.
+- **A1924** — Creation of blackbird.
+- **A1926** — Creation of finch.
+- **A1927** — Creation of sparrow.
+- **A1928** — Creation of myna (bird).
+- **A1930** — Creation of faiconiformes.
+- **A1931** — Creation of vulture.
+- **A1937** — Creation of hawk.
+- **A1938** — Creation of kite.
+- **A1940** — Creation of charidriiformes.
+- **A1941** — Creation of plover (known as seven whistlers).
+- **A1942** — Origin of snipe.
+- **A1942.1** — Snipe from man admitted neither to heaven nor to hell.
+- **A1944** — Creation of sandpiper.
+- **A1944.1** — Creation of sandpiper: Pharaoh's cook calls drowned army to dinner.
+- **A1945** — Creation of gull.
+- **A1945.1** — Gull from transformed cat.
+  *A cat catches a strong fish with her claws. The fish carries the cat on its back to the sea, where the gull originates from the cat.*
+- **A1945.2** — Gull a transformed ravished maiden.
+  *While he is sleeping, the maiden the hero has stolen is ravished by another man. The hero thereupon turns her into a gull.*
+- **A1946** — Creation of quail.
+- **A1947** — Creation of pigeon.
+- **A1947.1** — Creation of sea pigeon.
+- **A1948** — Creation of dove.
+- **A1950** — Creation of coraciiformes.
+- **A1951** — Creation of the kingfisher.
+- **A1952** — Creation of hoopoe.
+  *Transformed shepherd.*
+- **A1957** — Creation of woodpecker.
+- **A1957.1** — Woodpecker from devil's herdsman transformed.
+  *The devil strikes his herdsman so that he turns into a bird who continually calls after his beloved cow.*
+- **A1958** — Creation of owl.
+- **A1958.0.1** — The owl is a baker's daughter who objected to the size of the dough put into the oven for Jesus when he appeared in her house as a beggar.
+- **A1960** — Creation of ciconiiformes.
+- **A1965** — Creation of bittern.
+- **A1965.1** — Bittern from Pilate transformed.
+- **A1965.2** — Bittern from transformed shepherd.
+- **A1966** — Creation of stork.
+- **A1970** — Creation of miscellaneous birds.
+- **A1975** — Creation of diver (bird).
+- **A1981** — Origin of swan.
+- **A1981.0.1** — Origin of swans from two fowls fed in Urd's well.
+- **A1983** — Creation of duck.
+- **A1988** — Creation of chicken.
+- **A1992** — Creation of crane.
+- **A1993** — Creation of cuckoo.
+- **A1993.1** — Cuckoo a transformed baker.
+- **A1994** — Creation of parrot.
+- **A1996** — Creation of peacock.
+- **A1997** — Creation of papiha.
+
+## Creation of insects
+
+- **A2000** — Creation of insects.
+- **A2001** — Insects from body of slain monster.
+  *Usually the monster is burnt; sometimes the insects come from his head, sometimes from his body as it burns.*
+- **A2001.1** — Insects from brains, blood, and bones of slain helpful animal.
+- **A2002** — Origin of insects from various experiences of saint.
+- **A2002.1** — The god Mahadeo turns wood chips into insects.
+- **A2003** — Origin of insects: released from sack.
+  *God places them in a sack and gives it to hare to carry to stream. He must not look in the sack. When he does so the insects escape. The hare laughs and this is the cause of his split lip.*
+- **A2004** — Insects from devil's post-hole.
+  *Devil is given enough land to dig a post-hole. From this come all kinds of insects. To stop them a burning log is put in the hole. Insects therefore hate smoke.*
+- **A2005** — Origin of insects: God throws sand on lazy shepherds.
+- **A2006** — Origin of insects: monstrous births from brother-sister incest.
+- **A2010** — Creation of hymenoptera.
+- **A2011** — Creation of ant.
+- **A2011.1** — Creation of ant by devil.
+- **A2011.2** — Creation of ant: avaricious man transformed.
+- **A2012** — Creation of bee.
+- **A2012.0.1** — Creation of honey-bees: transformed man.
+- **A2012.1** — Creation of bee to provide wax for candles in church.
+- **A2012.2** — First bees in Ireland.
+- **A2012.3** — God sends stinging bees to punish men.
+- **A2013** — Creation of hornet.
+- **A2020** — Creation of coleoptera.
+- **A2021** — Creation of beetle.
+- **A2021.1** — Beetle's special sacredness.
+- **A2030** — Creation of diptera.
+- **A2031** — Creation of fly.
+- **A2031.1** — Creation of fly: punishment for laziness.
+- **A2031.2** — Flies on the ark.
+  *Noah tries to keep them out. Devil says that either the flies go in or he does. Noah chooses the lesser of two evils. Later the devil slips in nevertheless.*
+- **A2032** — Creation of flea.
+- **A2032.1** — Creation of flea: punishment for laziness.
+- **A2032.2** — Creation of flea: to give women work.
+- **A2032.3** — Origin of flea: from squirrel.
+- **A2032.4** — Creation of flea: God plagues the devil with fleas.
+- **A2033** — Creation of gnat.
+- **A2033.0.1** — Gnats created by devil to worry God.
+- **A2033.1** — Origin of gnats in Lapland.
+- **A2034** — Origin of mosquitoes.
+- **A2034.1** — Deity's wife creates mosquitoes to drive her husband out of jungle.
+- **A2034.1.1** — Mosquitoes created by goddess to make sleeping outside impossible to men.
+- **A2034.1.2** — Deity creates mosquitoes to irritate other gods.
+- **A2034.2** — Mosquitoes from bones of slain demon flung into the air.
+- **A2034.3** — Mosquitoes from ashes of bad woman.
+- **A2040** — Creation of lepidoptera.
+- **A2041** — Creation of butterfly.
+- **A2050** — Creation of hemiptera.
+- **A2051** — Creation of louse.
+- **A2051.1** — Louse created to give women work.
+- **A2052** — Creation of bugs.
+- **A2053** — Creation of maggots.
+- **A2060** — Creation of orthoptera.
+- **A2061** — Creation of cockroach.
+- **A2061.1** — Origin of cockroach in Finland.
+- **A2062** — Origin of locust.
+- **A2063** — Creation of cricket.
+- **A2064** — Creation of grasshopper.
+- **A2070** — Creation of miscellaneous insects.
+- **A2091** — Origin of spider.
+- **A2091.1** — Arachne transformed to spider: vies with goddess in spinning.
+- **A2092** — Origin of scorpion.
+- **A2092.1** — Origin of leaf-scorpion.
+- **A2093** — Origin of mantis.
+- **A2094** — Creation of fireflies.
+- **A2095** — Creation of lac insects.
+
+## Creation of fish
+
+- **A2100** — Creation of fish.
+- **A2110** — Creation of particular fishes.
+- **A2111** — Creation of pike.
+- **A2112** — Creation of mullet.
+- **A2115** — Origin of olachen.
+- **A2121** — Creation of mackerel.
+- **A2122** — Origin of bonito.
+- **A2125** — Origin of salmon.
+- **A2126** — Origin of flounder.
+- **A2126.0.1** — Origin of flounder from Virgin Mary's half-eaten fish.
+- **A2126.1** — Origin of sole.
+- **A2127** — Origin of catfish.
+- **A2131** — Creation of eel.
+- **A2132** — Creation of prawns.
+- **A2135** — Origin of whale.
+- **A2135.1** — Origin of narwhal.
+- **A2135.2** — Creation of leviathan.
+- **A2137** — Creation of sharks: from a savage tribe.
+- **A2140** — Creation of reptiles.
+- **A2145** — Creation of snake (serpent).
+- **A2145.0.1** — Origin of horned serpent.
+- **A2145.1** — Snake from blood of slain monster.
+  *Medusa.*
+- **A2145.2** — Snake preserved in ark: to stop hole with tail.
+- **A2145.3** — Snake created to suck poison from earth.
+- **A2145.4** — Snake from devil's slaver.
+- **A2145.5** — Adder harmful to holy person transformed to blindworm.
+- **A2146** — Creation of crocodile.
+- **A2147** — Creation of tortoise (turtle).
+- **A2148** — Creation of lizard.
+- **A2148.1** — Creation of chameleon.
+- **A2148.2** — Origin of salamander.
+- **A2160** — Origin of amphibia.
+- **A2161** — Origin of toad.
+- **A2162** — Origin of frog.
+- **A2170** — Origin of miscellaneous animal forms.
+- **A2171** — Origin of crustaceans.
+- **A2171.1** — Origin of crayfish.
+- **A2171.1.1** — Crayfish from devil's fleas shaken off in water.
+- **A2171.2** — Creation of crab.
+- **A2171.3** — Origin of lobster.
+- **A2171.4** — Origin of shrimp.
+- **A2181** — Origin of snail.
+- **A2182** — Origin of worm.
+- **A2182.1** — Origin of silkworm.
+- **A2182.2** — Origin of leech.
+- **A2182.3** — Origin of earth-worm.
+- **A2182.4** — Origin of cutworm.
+- **A2182.5** — Origin of multipede.
+
+## Cause of animal characteristics
+
+- **A2200** — Cause of animal characteristics.
+- **A2201** — All qualities of animals appear with their creation.
+- **A2210** — Animal characteristics: change in ancient animal.
+- **A2211** — Animal characteristics: accidental action of ancient animal.
+- **A2211.1** — Lynx views country from mountainside: cause of his squint.
+- **A2211.2** — Rabbit laughs: cause of hare-lip.
+- **A2211.3** — Wolf falls out of nest: cause of straight back.
+- **A2211.4** — Why some whales die on land: first whale did so.
+- **A2211.5** — Shrew blows nose into snout.
+  *Sent after fire, he finds but a little which he tries to revive by hard blowing.*
+- **A2211.6** — Spider carries large stone on head and drops it: hence spiders under stones.
+- **A2211.7** — Birds cling to sky in flood: cause of tail colors.
+- **A2211.8** — Lizard dips head in palm-oil: cause of red head.
+- **A2211.9** — Lizard swallows fish bone: hence head bobs up and down.
+- **A2211.10** — Tortoise left out in rain: hard shell develops.
+- **A2211.11** — How rattlesnake became harmful: earthworm feeds him chili pepper.
+- **A2211.12** — Buffalo helps tiger quench fire: white mark left on buffalo's neck where tiger held on while being ducked in water.
+- **A2211.13** — Stag defeated by snail vomits his gall-bladder.
+- **A2211.14** — Rat defecates on octopus's head: origin of tubercles on head.
+- **A2211.15** — Goddess scatters pubic hairs on fish: why he has so many bones.
+- **A2212** — Animal characteristics from great fear.
+- **A2212.1** — Frightened rabbit puts head in charred tree: hence black ears.
+- **A2212.2** — Frightened animals scatter: cause of present habitat of each.
+- **A2213** — Animal characteristics from squeezing or stretching ancient animal.
+- **A2213.1** — Ancient animal squeezed: hence small size.
+- **A2213.2** — Animal pressed: hence facial or bodily marks.
+- **A2213.2.1** — Wildcat's (Lynx's) face mashed in.
+- **A2213.2.2** — Tortoise pressed into earth: hence humpy back.
+- **A2213.2.3** — Baboon pressed on hot, flat rock: hence bald place on his back.
+- **A2213.2.4** — Why lobster is shallow: insulted cattle step on it.
+- **A2213.3** — Animals' size increased by stretching.
+- **A2213.4** — Animal characteristics changed by stretching.
+- **A2213.4.1** — Coyote's muzzle pulled out long.
+- **A2213.4.2** — Fox's tail pulled out long.
+- **A2213.4.3** — Mouse's nose pulled out long.
+- **A2213.5** — Animal characteristics from being struck.
+- **A2213.5.1** — Mole struck on head in attempt to steal fire: hence his flat head.
+- **A2213.5.2** — Fish struck by coconut: hence flat tail.
+- **A2214** — Animal characteristics from dropping ancient animal from air.
+- **A2214.1** — Swallow thrown on his tail: cause of split tail.
+- **A2214.2** — Ant thrown from heaven: hence narrow waist.
+  *God decides dispute between ant and spider in spider's favor.*
+- **A2214.3** — Unicorn thrown from ark and drowned: hence no longer exists.
+- **A2214.4** — Crab thrown to ground: breaks into small pieces.
+  *Hence crabs are small.*
+- **A2214.5** — Tortoise hurled on rock: half falls on land, half in water.
+  *Therefore amphibious.*
+- **A2214.5.1** — Tortoise dropped by eagle: hence cracks in his shell.
+- **A2214.6** — Bat falls from high perch due to extreme heat of sun's rays, breaks bones, etc.
+  *Hence peculiar feet and nose.*
+- **A2215** — Animal characteristics from throwing members at ancient animal.
+- **A2215.1** — Stick (leaf) thrown at animal's rump: hence tails.
+- **A2215.2** — Hare runs away at creation; almost loses tail.
+  *When, as the most timid of all beasts, he runs away, God throws a tail at him from a pile of tails.*
+- **A2215.3** — Bowl placed on turtle's back: hence his shell.
+- **A2215.4** — Red fruit thrown at rail's (bird's) head: hence red lump on head.
+- **A2215.5** — Fox struck with churn-dash: hence white tail.
+- **A2215.6** — God throws diver's feet after him; hence his feet reach backward.
+- **A2216** — Animal characteristics: members bitten or cut off.
+- **A2216.1** — Bear fishes through ice with tail: hence lacks tail.
+- **A2216.2** — Devil pulls off goats' tails: hence lack tails.
+- **A2216.3** — Moon splits hare's lip with hatchet: hence hare-lip.
+- **A2216.4** — Bush-rat bites off tortoise's tail: hence tortoise's short tail.
+- **A2216.5** — Hawk's tail cut in two by sword as he is being transformed.
+  *Cause of his forked tail.*
+- **A2216.6** — God as falcon has tail cut off: hence falcon's short tail.
+- **A2216.7** — Formerly animals have ears like elephant's: hare bites them off.
+- **A2217** — Appearance of animal from marking or painting.
+- **A2217.1** — Birds painted their present colors.
+- **A2217.2** — Chipmunk's back scratched: hence his stripes.
+  *As he is trying to escape, bear catches him with his claws and marks him permanently.*
+- **A2217.3** — Marks on certain fish from fingerprints.
+- **A2217.3.1** — Marks on certain fish from St. Peter's fingerprints.
+- **A2217.3.2** — Marks on certain fish from devil's fingerprints.
+- **A2218** — Animal characteristics from burning or singeing.
+- **A2218.1** — Raven caught in smoke-hole: hence is black.
+- **A2218.1.1** — Animal scorches self while putting out fire in land of fire, woe and darkness.
+- **A2218.2** — Jackal carries sun in bag on back; burns his back black.
+- **A2218.3** — Animal who steals fire scorched: cause of his color.
+- **A2218.4** — Coyote burnt when hay is set afire: hence yellow patch behind his ears.
+- **A2218.5** — Robin steals fire, has breast scorched.
+- **A2218.6** — Raven singes feet on hot stones: why its wings clap when it flies.
+- **A2218.7** — Rabbit burns self under chin when he steals an ember.
+- **A2218.8** — Eel burned by torch: hence red eyes.
+- **A2219** — Other accidents to ancient animal.
+- **A2219.1** — Animal has color spilled on him: cause of his color.
+- **A2219.2** — Cow swallows book; cause of maniplies in stomach.
+- **A2219.3** — Only one serpent had sting: fed poison to the rest.
+- **A2220** — Animal characteristics as reward.
+- **A2220.1** — Hedgehog's skin reward for good deed.
+- **A2221** — Animal characteristics reward for pious act.
+- **A2221.1** — Animals blessed for honoring infant Jesus.
+- **A2221.2** — Animals blessed for good services at crucifixion.
+- **A2221.2.1** — Flies on Christ's body rewarded.
+  *They look like nails and prevent more nails being driven. They may eat at the king's table.*
+- **A2221.2.2** — Blood from cross on robin redbreast: He helps Jesus; rewarded with red breast.
+- **A2221.2.3** — Blood of scourged Christ on certain spiders.
+- **A2221.2.4** — Swallows lift Christ's crown of thorns from his brow: why their nests are not destroyed.
+- **A2221.2.4.1** — Swallows put on mourning at crucifixion: have never taken it off.
+- **A2221.2.4.2** — Crossbill, attempting to draw thorn from the crown of thorns, twists bill in the attempt.
+- **A2221.3** — Markings on animals as recollections of Christ's life and sufferings.
+- **A2221.4** — Ant collects incense and myrrh for Christ: grows thin in middle.
+- **A2221.5** — Animal blessed for helping holy fugitive.
+- **A2221.5.1** — Ox helps patriarch who in joy kisses him on the lips: hence no hair on ox's lips.
+- **A2221.6** — Animal blessed for obedience to deity.
+- **A2221.6.1** — Bird coloring as reward for obedience to deity.
+- **A2221.7** — Dove returns to ark in obedience to Noah: receives sheen of raven.
+- **A2221.8** — Squirrel's markings and immunity from falling as reward by deity.
+- **A2221.9** — Why sheep walk with bowed heads: they have remained so after having bowed to God.
+- **A2221.10** — Sheep helpful to the Lord: get wool.
+- **A2221.11** — Deity rewards animal for bringing him water: cause of present characteristics.
+- **A2222** — Animal characteristics reward for hospitality.
+- **A2222.1** — Thrush's hospitality to peacock rewarded by being given motley coat of feathers.
+- **A2223** — Animal characteristics reward for helpfulness.
+- **A2223.1** — Cat helps man build house: may occupy chimney corner.
+- **A2223.2** — Bird carries deity (his daughter) home from land of skulls: given brilliant plumage.
+- **A2223.3** — Mouse gathers rice for man: may eat a little of his rice daily.
+- **A2223.4** — Pike helps Christ cross stream: made king of fishes.
+- **A2223.5** — Dog guards master's life and wealth: may eat before other animals.
+- **A2223.6** — Tortoise given hard shell when it ferries rice-goddess across stream.
+- **A2223.7** — Ravens show Adam how to bury dead: are born with white feathers.
+- **A2223.8** — Chameleon saves hero's life: may change color.
+- **A2229** — Animal characteristics as reward miscellaneous.
+- **A2229.1** — Dog rescues cow's teats from fire: origin of his black muzzle.
+- **A2229.2** — Dog lets devil into church to steal: rewarded with dog-skin.
+- **A2229.3** — Owl will not betray curate: therefore may live in steeple.
+- **A2229.4** — Fly steals fire from spider: may eat everywhere.
+  *Spider brings fire from hell. Fly steals it from him on the way.*
+- **A2229.5** — Cuckoo delivers other birds from their cruel king: they agree to hatch out cuckoo's young.
+- **A2229.6** — Bird has red spot on its tail as reward for having moved woman's organ to its present position.
+- **A2230** — Animal characteristics as punishment.
+- **A2231** — Animal characteristics: punishment for impiety.
+- **A2231.1** — Animal characteristics: punishment for discourteous answer to God (saint).
+- **A2231.1.1** — Discourteous answer: why cow (horse) is always eating.
+  *When God (Peter) wants to use the cow (horse) the excuse is made that she (he) is eating. Curse: "May you always be eating!"*
+- **A2231.1.2** — Discourteous answer: flounder's crooked mouth.
+  *When God asks him where he is going, instead of answering he turns to go toward God. His mouth becomes crooked.*
+- **A2231.1.3** — Discourteous answer: why crab has eyes behind.
+- **A2231.1.4** — Discourteous answer: tortoise's shell.
+  *Zeus celebrates a wedding and invites the animals. Tortoise is late. Why? "I like my house." "May you bear your house always."*
+- **A2231.2** — Animal characteristics: punishment for hostility at crucifixion.
+- **A2231.2.1** — Crane will not weep at crucifixion: must suffer thirst in August and break bills.
+  *Is the only bird who will not weep.*
+- **A2231.2.2** — Swallows torment Christ on cross: lose voice.
+- **A2231.3** — Animal characteristics: punishment for working on holy day.
+- **A2231.3.1** — Cuckoo builds nest on Annunciation Day: has no nest.
+- **A2231.3.2** — Bees work on Sabbath: may not get honey from red clover.
+- **A2231.4** — Frog fails to honor infant Jesus: loses tail.
+- **A2231.5** — Spider vies with Virgin Mary in spinning: cursed.
+- **A2231.6** — Spider steals thread from Christ: has thread in back of body.
+- **A2231.7** — Animal harmful to holy person cursed.
+- **A2231.7.1** — Animal cursed for betraying holy fugitive.
+- **A2231.7.1.1** — Beetle cursed for betraying Holy Family on way to Egypt; beetle now has its eyes always on the ground.
+- **A2231.7.2** — Animal cursed for refusing to carry holy fugitive across stream.
+- **A2231.7.3** — Tortoise cursed for going under water while ferrying rice-goddess: people will be able to kill it with iron-made spears.
+- **A2231.8** — Toad refuses to weep over its dead children: dries up when dead.
+  *Cursed by Virgin Mary.*
+- **A2231.9** — Fish in deluge deride God: are flattened with blow.
+  *They mock God for his powerlessness over them.*
+- **A2231.10** — Crab beats deity's forbidden drum: eyes lift out of body.
+- **A2231.11** — Beetle demands return of gold from God: must hum.
+  *In his overweening pride he hits fence and ever afterward has hummed.*
+- **A2231.12** — Buffaloes fail to come at god's leavetaking: now are killed by tigers.
+- **A2231.13** — Loris refuse to look at sun who comes out when they are dancing: hence never looks at sun.
+- **A2232** — Animal characteristics: punishment for immoderate request.
+  *Dissatisfied animal finds that when his request is granted he is worse off than before.*
+- **A2232.1** — Camel asks for horns: punishment, short ears.
+- **A2232.2** — Bees pray for sting: punishment, first sting suicidal.
+- **A2232.3** — Beetle makes immoderate request; ant moderate: inverse awards.
+  *Creator hears wishes of animals. Beetle wants strong, noble appearance. Ant is modest. Beetle punished by being made to creep on ground. Ant is given own castle.*
+- **A2232.4** — Griffin disdains to go on ark; drowned: hence extinct.
+- **A2232.5** — Animals ask for goddess's perfume: punishment, bad odor.
+- **A2232.6** — Birds who aspire to blackbird's coat punished.
+- **A2232.7** — Peacock given ugly feet so as to prevent too great arrogance.
+- **A2232.8** — Dog's embassy to Zeus chased forth; dogs seek ambassador: why dogs sniff each other under leg.
+- **A2232.9** — Ants ask God to give them wings: wind blows them away.
+- **A2232.10** — Raven attempts to imitate dove: punished with awkward gait.
+- **A2232.11** — Donkeys ask immediate reward from God: eat their own excrements.
+- **A2233** — Animal characteristics: punishment for laziness.
+- **A2233.1** — Animals refuse to help dig well (make road) and are punished.
+- **A2233.1.1** — Animals refuse to help dig well: may not drink from river or spring.
+- **A2233.1.2** — Snake refuses to help make road: dies on road.
+- **A2233.1.3** — Shrew refuses to help make road: dies on road.
+- **A2233.1.4** — Sloth refuses to help make road: may not look upon sun.
+- **A2233.2** — Dog will not help build house: must remain out of doors.
+- **A2233.2.1** — Too cold for hare (dog) to build house in winter, not necessary in summer: must go without house.
+- **A2233.3** — Owl as watchman goes to sleep: does not see by day.
+  *He is placed as watchman of wren who is imprisoned in a mousehole.*
+- **A2233.4** — Grasshopper builds no house for winter; ant strikes him blind: therefore born blind.
+- **A2233.4.1** — Bird neglects to build nest: goes without.
+- **A2234** — Animal characteristics: punishment for disobedience.
+- **A2234.1** — Raven does not return to Noah: must suffer thirst and break bill.
+- **A2234.1.1** — Raven does not return to ark in obedience to Noah: black color is resulting punishment.
+- **A2234.2** — Animals eat deity's forbidden fruit: punished.
+- **A2234.3** — Lemur looks where forbidden: has big eyes.
+- **A2234.4** — Hare weeps for mother when forbidden: moon hits him and cleaves lip.
+- **A2235** — Animal characteristics caused by animal's lateness at distribution of qualities.
+- **A2236** — Animal characteristics: punishment for planning man's downfall.
+- **A2236.1** — What creature has sweetest blood: gnat's tongue torn out.
+  *Assembly to decide who has the sweetest blood so that it may be the food for the serpent. Gnat discovers that man has the sweetest blood. Rather than let him tell this secret, swallow tears out his tongue. Gnat can only buzz.*
+- **A2236.2** — Animal characteristics: punishment for carrying devil into paradise.
+- **A2236.2.1** — Snake carries devil into paradise: loses feet.
+- **A2236.2.2** — Peacock has snake carry devil into paradise: cursed with ugly voice and feet.
+- **A2236.3** — Animal punished for not warning of devil's temptation in Eden.
+- **A2236.4** — Magpie tells man he is to die next day: no tongue and long tail.
+  *God pulls out his tongue and makes his tail long for doing this forbidden thing.*
+- **A2236.5** — Animal punished for not heralding dawn.
+- **A2236.6** — Nit tries to bore through man's head: must remain at edge of hair.
+- **A2236.7** — Jay carries sulphur to devil in hell: must be quiet at noon.
+- **A2236.8** — Cat commanded to pray so as not to slay man: why cat purrs.
+- **A2237** — Animal characteristics punishment for meddling.
+- **A2237.1** — Animal reveals mistress's adultery: punished by master.
+- **A2238** — Animal characteristics: punishment for greed.
+- **A2238.1** — Rabbit (frog) eats seed-grain from fields: nose closed during sowing season.
+- **A2238.2** — Ring-dove eats man's grain: man may kill him.
+  *Similarly francolin and guinea fowl.*
+- **A2238.3** — Fish eat other fish: guilty must swim deep.
+- **A2238.4** — Diver eats nests of small birds: must not nest away from water.
+- **A2239** — Animal characteristics from miscellaneous punishments.
+- **A2239.1** — Hare punished for perjury: eyes deep in head.
+- **A2239.2** — Fly punished for failing to answer question: is speechless, buzzes and associates with foul things.
+- **A2239.3** — Ass betrays deity's secret: hence his ugly bray.
+- **A2239.3.1** — Owl reveals deity's secret: power of speech removed.
+- **A2239.4** — Woodpecker punished for stinginess.
+- **A2239.5** — Animals punished for assaulting women.
+- **A2239.6** — Ass has cross on shoulders from being struck by Balaam.
+- **A2239.7** — Crocodile is punished for trying to attack man he is carrying: has only half tongue.
+- **A2239.8** — Animal punished for hardheadedness (frog toothless, mole sightless).
+- **A2239.9** — Why mouse is crushed whenever she crosses a road: elephant's curse.
+- **A2239.10** — Why elephant hurts himself when running through the grass: mouse's curse.
+- **A2240** — Animal characteristics: obtaining another's qualities.
+- **A2241** — Animal characteristics: borrowing and not returning.
+  *Animal borrows a member (or quality) from another and refuses to return it.*
+- **A2241.1** — Stag's horns borrowed from dog.
+- **A2241.2** — Owl's wings borrowed from rat (or other animal).
+- **A2241.3** — Partridge's voice borrowed from tortoise.
+- **A2241.4** — Cuckoo borrows food from other birds.
+- **A2241.5** — Nightingale borrows blindworm's eye.
+  *Each has one eye. Nightingale borrow's blindworm's and will not return it.*
+- **A2241.6** — Jay borrows cuckoo's skin.
+- **A2241.7** — Squirrel borrows coney's tail.
+  *When coney's tail is not returned, he goes in shame to live among rocks.*
+- **A2241.8** — Boy borrows python's hands and feet: hence python lacks them.
+- **A2241.9** — Hornbill borrows tomtit's bill.
+- **A2241.10** — Beaver borrows muskrat's tail and never gives it back.
+- **A2241.11** — Monkey borrows tail from deer and refuses to return it.
+- **A2242** — Animal characteristics: obtaining for feast and not returning.
+- **A2243** — Animal characteristics: lending and refusing to receive back.
+- **A2243.1** — Spider hands box to ant and refuses to take it back: hence ants carry huge loads.
+- **A2245** — Animal characteristics: stolen from another animal.
+- **A2245.1** — Thrush steals woodcock's song.
+- **A2247** — Animal characteristics: exchange of qualities.
+- **A2247.1** — Buffalo and cow exchange hides: hence bad fitting hides.
+- **A2247.2** — Snake and turtle exchange head for fangs.
+  *Explains snake's fangs and snake-like head of turtle.*
+- **A2247.3** — Rhinoceros exchanges his red hide for hippopotamus's black.
+- **A2247.4** — Dove and magpie exchange eggs dove's seven for magpie's two: why dove has two eggs.
+- **A2247.5** — Toad trades his tail for mole's eyes.
+- **A2247.6** — Beaver and muskrat exchange tails.
+- **A2250** — Animal characteristics: result of contest.
+- **A2250.1** — Cock and ptarmigan in contest: winner to live in town.
+- **A2250.1.1** — Man and tiger in contest: winner to live in town.
+- **A2250.2** — Lizard wins contest with toad: why snakes and lizards change their skins.
+- **A2251** — Animal characteristics from contest in carrying.
+- **A2251.1** — Ant carries load as heavy as himself.
+  *Defeats bear, raven (or other bird). Various explanations.*
+- **A2252** — Animal characteristics determined by race.
+- **A2252.1** — Race of animals to see where each shall live.
+- **A2252.2** — Race of ox and horse: ox must labor.
+  *Horse wins and ox must serve as draft animal.*
+- **A2252.3** — Race of culture hero with ostrich: ostrich loses beautiful feathers.
+- **A2252.4** — Flounder complains in race: crooked mouth.
+  *In race between fish he cries out in jealousy because herring is winning. He is punished with crooked mouth.*
+- **A2253** — Animal characteristics from jumping contest.
+- **A2253.1** — Dog burned in jumping contest over fire: enmity between dog and hare.
+- **A2254** — Bird characteristics from flying contests.
+- **A2255** — Animal characteristics result of lawsuit.
+- **A2255.1** — Wool on his forehead awarded sheep in lawsuit.
+  *He is given the privilege of keeping it when the rest of his body is shorn.*
+- **A2255.2** — Lizard loses lawsuit: must bob his head.
+  *Lizard and ant accused of theft of king's crow. Ant pours boiling water down lizard's throat. When case is tried, lizard cannot talk but only bobs head up and down. Adjudged guilty and condemned to bob his head eternally.*
+- **A2256** — Animal characteristics from contest in watching.
+- **A2256.1** — Hare and man contest in watching for leaf to fall off tree.
+  *First one to succeed may eat other. Hare loses.*
+- **A2257** — Animal characteristics from duel.
+- **A2257.1** — Why tiger does not attack wild boar until latter is old: result of duel.
+- **A2258** — Animal characteristics: as a result of quarrel.
+- **A2260** — Animal characteristics from transformation.
+- **A2261** — Animal characteristics from transformation of animal.
+- **A2261.1** — Shepherd transformed to bird still calls sheep: explanation of bird cries.
+  *Usually told of hoopoe and bittern.*
+- **A2261.2** — Spider transformed for greediness: now occupies dark corners.
+- **A2261.3** — Catfish transformed from woman still carries women's tatoo marks.
+- **A2261.3.1** — Catfish transformed from children still carry marks of children's knife holder.
+- **A2261.4** — Woodpecker transformed from stingy woman: therefore stingy.
+- **A2261.5** — Weeping man turned into owl; still bewails sorrows.
+- **A2261.6** — Snipe messenger for warriors because he was a messenger when a man.
+- **A2262** — Animal characteristics from transformation of implement (or other object).
+- **A2262.1** — Horse originally had eyes on feet: put out and became eyelike marks.
+- **A2262.2** — Pegs driven into backs of baboons become tails.
+- **A2262.3** — Serpent steals from God's coat a stick for his back.
+- **A2270** — Animal characteristics from miscellaneous causes.
+- **A2271** — Animal characteristics learned from another animal.
+- **A2271.1** — Thrush teaches dove to build nest.
+- **A2271.2** — Sparrow taught to sing by lark but not sufficiently: where sparrow got voice.
+- **A2272** — Animal characteristics: imitation of other animal or object.
+- **A2272.1** — Animal cries: imitation of sounds.
+- **A2272.1.1** — Nightingale hears boy call oxen: learns her song.
+- **A2272.1.2** — Cricket hears water hiss on hot iron: learns his song.
+- **A2272.1.3** — Garden warbler hears smith beat iron: learns his song.
+- **A2272.2** — Lizard's tail imitated from snake's.  Finnish: Aarne FFC VIII 20 No. 110, XXXIII 55 No. 110.
+- **A2275** — Animal habit a reminiscence of former experience.
+- **A2275.1** — Animal cries a lament for person lost when animal was transformed.
+- **A2275.2** — Animal cries a lament over animal's transformation.
+- **A2275.3** — Animal cries reminiscent of former life as man.
+- **A2275.4** — Animal cries recall ancient adventure.
+  *The ancient animal cries out in difficulty. The present animal has the same cry.*
+- **A2275.4.1** — Green pigeon cheated out of its chick: is always mourning.
+- **A2275.5** — Animal's seeking attitude from ancient loss.
+  *The ancient animal loses something. Its descendants are forever seeking for the lost object. This explains the characteristic bearing of certain animals.*
+- **A2275.5.1** — Hog loses pancake in mud: still seeks it.
+- **A2275.5.2** — Hawk (vulture) loses grandmother: still hovers and seeks her.
+- **A2275.5.3** — Bat, diver, and thornbush shipwrecked.
+  *Bat brought money, bush put on clothes, and diver brought leather. All shipwrecked. Diver is looking for his leather. Bush looks for his clothers and holds fast to all passers-by. Bat is abroad only at night to escape creditors.*
+- **A2275.5.4** — Dolphins seek King Solomon's ring.
+  *He loses his magic ring in the sea. They are sent by God to get it. This is why they go up and down in the sea.*
+- **A2275.5.5** — Dog loses his patent right; seeks it: why dogs look at one another under the tail.
+- **A2275.6** — Son accidentally kills father, who returns to life as cuckoo and tells people when to sow grain.
+- **A2281** — Enmity between animals from original quarrel.
+- **A2281.1** — Cat loses dog's certificate: enmity between cats and dogs.
+  *Dog is given a certificate of nobility. Through cat's carelessness it is lost.*
+- **A2281.1.1** — Cat garbles message from man to tiger: enmity between man and tiger.
+- **A2281.1.2** — Quarrel of dog and cat about which was higher caste.
+- **A2281.2** — Squirrel steals dog's needle: enmity between them.
+- **A2281.3** — Why cat and dog fight: dog ate up cat's part in master's reward.
+- **A2282** — Present habitat of animals result of ancient quarrel.
+- **A2283** — Two animals learn songs together one successfully, the other unsuccessfully.
+- **A2284** — Origin of animal characteristics: animal persuaded into self-injury.
+- **A2284.1** — Animal persuaded to amputate limb: therefore lacks it.
+- **A2284.2** — Bustard persuaded to kill all but two children: has but two eggs.
+- **A2284.3** — Worm, thinking that world is coming to end, blinds self so as not to see calamity.
+- **A2284.4** — Elephant tricked into eating own testicles.
+  *Has them inside.*
+- **A2284.5** — Coyote persuaded to break leg: therefore has thin right leg.
+- **A2284.6** — Jackal persuades hyena to jump and break foot.
+  *Latter has short left hind foot.*
+- **A2286** — Animal characteristics established by deity.
+- **A2286.0.1** — God makes serpent ugly.
+- **A2286.1** — Creation interrupted since God must go to a fire.
+- **A2286.1.0.1** — Animal characteristics because creator had not enough time to finish what he began.
+- **A2286.1.1** — Creation of hog incomplete since God has to go to a fire: cause of hog's round snout.
+- **A2286.2** — Animal characteristics result of contest between God and devil.
+- **A2286.2.1** — Devil's animals devour God's.  God makes white fish, devil a pike to eat it up; God a worm, devil a frog to eat it, etc. (Cf. +A1751.)
+- **A2286.2.2** — Devil gives horse four eyes; God reduces them to two.
+- **A2286.2.3** — Devil's cows one-horned; God makes them two-horned.
+- **A2286.2.4** — God changes color (tails) of devil's cows.
+  *Devil makes all animals of same color (or all tailless). When God makes them of different colors (or with tails) devil no longer recognizes them.*
+- **A2287** — Jesus causes animal characteristics.
+- **A2287.1** — Jesus drives evil spirits into hogs: hence short snouts.
+- **A2287.1.1** — Jesus drives evil spirits into hogs: hence "toes" on back of foreleg.
+- **A2291** — Animal characteristics obtained during deluge.
+- **A2292** — Animal characteristics: change for convenience.
+- **A2294** — Wild animals lose their ferocity through fear of Behemoth.
+
+## Origin of animal characteristics: body
+
+- **A2300** — Origin of animal characteristics: body.
+- **A2300.1** — Shape of bee's body.
+- **A2301** — Animal's body made larger.
+- **A2301.1** — Mouse's body made larger.
+- **A2301.2** — Spider's body made larger.
+- **A2301.3** — Coyote's body made larger.
+- **A2301.4** — Bat's body made larger.
+- **A2301.5** — Flying-squirrel's body made larger.
+- **A2302** — Animal's body made smaller.
+- **A2302.1** — Mouse's body made smaller.
+- **A2302.2** — Hazel-cock's body made smaller.
+- **A2302.3** — Squirrel's body made smaller.
+- **A2302.4** — Eagle's body made smaller.
+- **A2302.5** — Wolf's body made smaller.
+- **A2302.6** — Lice made smaller.
+- **A2305** — Origin of animal's flat body.
+- **A2305.1** — Origin of fish's flat body.
+- **A2305.1.1** — Origin of steel-head salmon's flat body.
+- **A2305.1.2** — Origin of flounder's flat body.
+- **A2305.1.3** — Why lobster is flat.
+- **A2305.2** — Why bedbug is flat.
+- **A2306** — Why animal is slippery.
+- **A2306.1** — Why eel is slippery.
+- **A2310** — Origin of animal characteristics: body covering.
+- **A2311** — Origin of animal's skin.
+- **A2311.1** — Origin of dog's skin.
+- **A2311.2** — Origin of cat's skin.
+- **A2311.3** — Origin of wolf's skin.
+- **A2311.4** — Origin of hedgehog's skin.
+- **A2311.5** — Origin of porcupine's skin.
+- **A2311.6** — Origin of cow's and buffalo's hides.
+- **A2311.7** — Why crocodile has rough skin.
+- **A2311.8** — Why frog has rough skin.
+- **A2311.9** — Why snakes and lizards change skins.
+- **A2312** — Origin of animal shell.
+- **A2312.1** — Origin of tortoise's shell.
+- **A2312.1.1** — Origin of cracks in tortoise's shell.
+- **A2312.2** — Origin of snail's shell.
+- **A2312.3** — Origin of dents in crab's shell.
+- **A2313** — Origin of bird's feathers.
+- **A2313.1** — Origin of cuckoo's feathers.
+- **A2313.2** — Origin of magpie's feathers.
+  *Exchanges with dove.*
+- **A2313.3** — Origin of peacock's feathers.
+- **A2313.4** — Origin of nkundak's feathers.
+- **A2313.5** — Why young ravens have white feathers.
+- **A2315** — Origin of fish's scales.
+- **A2315.1** — Origin of shell-fish's black scales.
+- **A2315.2** — Origin of alligator's scales.
+- **A2317** — Why certain animals are bare of covering.
+- **A2317.1** — Why swine's belly is bare.
+- **A2317.2** — Why fly is bald.
+- **A2317.3** — Why buzzard is bald.
+- **A2317.4** — Why crow's head is bald.
+- **A2317.5** — Why raven is bald.
+- **A2317.6** — Why magpie is bald.
+- **A2317.7** — Why vulture is bald.
+- **A2317.8** — Why bat is bald.
+- **A2317.9** — Why bird's feet are bare.
+- **A2317.10** — Why baboon has bare place on back.
+- **A2317.11** — Why john-crow has bald head.
+- **A2317.12** — Why opossum has bare tail.
+- **A2317.12.1** — Why kangaroo-rat's tail is not bushy.
+- **A2317.12.2** — Why jackal has bare tail.
+- **A2317.12.3** — Why rat's tail is round and without any hair.
+- **A2320** — Origin of animal characteristics: head.
+- **A2320.1** — How snake got small head.
+- **A2320.1.1** — Why weaver bird's head is small.
+- **A2320.2** — How turtle got snake-like head.
+- **A2320.3** — How lizard got red head.
+- **A2320.3.1** — Origin of mudhen's red head.
+- **A2320.4** — Why crab has no head.
+- **A2320.5** — Why bird's head is so large.
+- **A2320.6** — Why crocodile has marks of water pot on head.
+- **A2320.7** — Why palm-rat has swollen head.
+- **A2321** — Origin of bird crests.
+- **A2321.1** — Origin of goose's crest.
+- **A2321.2** — Origin of hoopoe's crest.
+- **A2321.3** — Origin of woodpecker's crest.
+- **A2321.4** — Origin of crested-lark's crest.
+- **A2321.5** — Origin of kingfisher's crest.
+- **A2321.6** — Origin of nkundak's crest.
+- **A2321.7** — Origin of buzzard's crest.
+- **A2321.8** — Origin of red lump on rail's head.
+- **A2321.9** — Origin of willow-grouse's crest.
+- **A2321.10** — Origin of cock's red crest.
+- **A2321.10.1** — Why the cock's comb becomes white when he is angry.
+- **A2321.11** — Origin of woodpecker's crest.
+- **A2322** — Origin of hair and mane.
+- **A2322.1** — How buffalo got hair under chin.
+- **A2322.3** — How zebra got its mane.
+- **A2322.4** — How goat got his beard.
+- **A2322.4.1** — How goat got his mane.
+- **A2322.5** — Why sheep may keep wool which grows on his forehead.
+- **A2322.6** — Why the gorilla and chimpanzee have hair all over the body.
+  *Punishment for not guarding possessions at creation.*
+- **A2325** — Origin of animals' ears.
+- **A2325.1** — Why rabbit has long ears.
+- **A2325.2** — Why hare's ears are black.
+- **A2325.3** — Why ass has long ears.
+- **A2325.4** — Why camel has short ears.
+- **A2325.5** — Why zebra has long ears.
+- **A2325.6** — Why cat has jagged ears.
+- **A2325.7** — Why camel has no ears.
+- **A2325.8** — Why serpent has no ears.
+- **A2326** — Origin and nature of animal's horns.
+- **A2326.1** — How animals got horns.
+- **A2326.1.1** — How stag got antlers.
+  *From camel.*
+- **A2326.1.1.1** — Why deer has antlers: as reward for not cheating.
+- **A2326.1.2** — How caribou got antlers.
+  *Exchanged his teeth for walrus's horns.*
+- **A2326.1.3** — How sheep got horns.
+- **A2326.1.4** — How ox got horns.
+  *Exchanged for horse's teeth.*
+- **A2326.1.5** — How goats got horns.
+- **A2326.1.6** — How horned-viper got horns.
+- **A2326.2** — Why some animals have no horns.
+- **A2326.2.1** — Why cats have no horns.
+- **A2326.2.2** — Why dog has no horns: they were stolen by deer (goat).
+- **A2326.2.3** — Originally cock had horns.
+- **A2326.3** — Nature of animal's horns.
+- **A2326.3.1** — Why cows have two horns.
+- **A2326.3.2** — How stag got long antlers.
+- **A2326.3.3** — Why antelope's antlers reach backward.
+- **A2326.3.4** — Why buffalo's horns are bent.
+- **A2326.3.5** — Why mountain-sheep's horns are close together.
+- **A2330** — Origin of animal characteristics: face.
+- **A2330.1** — How wildcat got his mashed face.
+- **A2330.2** — How lynx got his squint.
+- **A2330.3** — Why monkey's face is black.
+- **A2330.4** — Origin of marks on tiger's face.
+- **A2330.5** — Why flea's face is red.
+- **A2330.6** — Why pheasant's cheeks are red.
+- **A2330.7** — Why dove's head is marked as it is.
+- **A2330.8** — Why rail (bird) has red forehead.
+- **A2332** — Origin and nature of animals' eyes.
+- **A2332.1** — Origin of animals' eyes.
+- **A2332.1.1** — How mouse got his eyes.
+- **A2332.1.2** — How fly got his eyes.
+- **A2332.1.3** — How herring got his eyes.
+- **A2332.1.4** — How fox got his eyes.
+  *Stole from birch tree.*
+- **A2332.1.5** — Where owl got his eyes.
+- **A2332.2** — Number of animal's eyes.
+- **A2332.2.1** — Why horse has only two eyes.
+- **A2332.3** — Size of animals' eyes.
+- **A2332.3.1** — Why lemur has big eyes.
+- **A2332.3.2** — Why zabi's eyes are narrow: because he laughs so hard.
+- **A2332.3.3** — Why caribou has small eyes.
+- **A2332.4** — Shape and position of animal's eyes.
+- **A2332.4.1** — Why hare has deep-set eyes.
+- **A2332.4.2** — Why crab lifts eye out of body or has eye behind.
+- **A2332.4.3** — Why frog's eyes bulge out.
+- **A2332.5** — Color of animal's eyes.
+- **A2332.5.1** — Why coyote has yellowish eyes.
+- **A2332.5.2** — Why cuckoo has red eyes.
+- **A2332.5.3** — Why water-hen has red eyes.
+- **A2332.5.4** — Why toad has red eyes.
+- **A2332.5.5** — Why turkey has red eyes.
+- **A2332.5.6** — Why wooddove has green eyes.
+- **A2332.5.7** — Why wild duck has red eyes.
+  *Dances for trickster.*
+- **A2332.5.8** — Why herring's eyes are red.
+- **A2332.6** — "Blindness" in animals.
+  *Animals really or supposedly blind.*
+- **A2332.6.1** — Why blindworm has no eyes.
+- **A2332.6.2** — Why giant lizard is blind.
+  *Chose poison instead of eyes.*
+- **A2332.6.3** — Why grasshopper is born blind.
+- **A2332.6.4** — Why worm is blind.
+- **A2332.6.5** — Why mole is blind.
+- **A2332.6.6** — Why owl is blind by day.
+- **A2332.6.7** — Why elephant sees half-blindly.
+- **A2332.6.8** — Why leech is blind.
+- **A2332.6.9** — Why bee is blind.
+- **A2335** — Origin and nature of animal's nasal organ (nose, snout, proboscis, etc.).
+- **A2335.1** — Origin of animal's nose.
+- **A2335.2** — Nature of animal's nose.
+- **A2335.2.1** — Why deer has white mark on nose.
+  *From white ashes.*
+- **A2335.2.2** — Why lynx has short, blunt nose.
+- **A2335.2.3** — Why raven has nose marked as if it had been broken off.
+- **A2335.2.4** — Why hare's nose is closed during sowing season.
+- **A2335.2.5** — Why steer has no hair on his nose.
+- **A2335.3** — Origin and nature of animal's proboscis.
+- **A2335.3.1** — Origin of anteater's proboscis.
+  *Transformed digging-stick.*
+- **A2335.3.2** — Why tapir has long nose.
+- **A2335.4** — Origin and nature of animal's snout (muzzle).
+- **A2335.4.1** — Why hog has short snout.
+- **A2335.4.2** — Why hog has round snout.
+  *Creation of hog incomplete since God had to go to fire.*
+- **A2335.4.3** — Why dog has black muzzle.
+- **A2335.4.4** — Why coyote has long muzzle.
+- **A2335.4.5** — Why the wolf's muzzle is black.
+- **A2335.4.6** — Why rat has long snout.
+- **A2341** — Origin and nature of animal's mouth.
+- **A2341.1** — Why flounder's mouth is crooked.
+- **A2341.2** — Why animal's mouth is large.
+- **A2341.2.1** — Why opossum's mouth is large.
+- **A2341.2.2** — Why zebra's mouth is large.
+- **A2341.3** — Why animal's mouth is closed.
+- **A2341.3.1** — Why serpent's mouth is closed.
+- **A2342** — Origin and nature of animal's lips.
+- **A2342.1** — Why hare's lip is split.
+- **A2342.2** — Why ox has no hair on his lips.
+- **A2343** — Origin and nature of bird's beak.
+- **A2343.1** — Origin of bird's long beak.
+- **A2343.1.1** — Where kingfisher got his long beak.
+- **A2343.1.2** — Where snipe got his long beak.
+- **A2343.1.3** — Why loon has big beak.
+- **A2343.1.4** — Where hornbill got his big beak.
+- **A2343.2** — Why bird's beak is colored.
+- **A2343.2.1** — Why parrot's beak is black.
+- **A2343.2.2** — Why toucan's beak is black.
+- **A2343.3** — Origin of other features of birds' beak.
+- **A2343.3.1** — Why starling's beak is split.
+- **A2343.3.2** — Why woodpecker has sharp beak.
+- **A2344** — Origin and nature of animal's tongue.
+- **A2344.1** — Why animal has short tongue.
+- **A2344.1.1** — Why crocodile has short tongue.
+- **A2344.1.1.1** — Why crocodile has half a tongue.
+- **A2344.1.1.2** — Why crocodile has no tongue.
+- **A2344.1.2** — Why alligator has short tongue.
+- **A2344.2** — Why animal has no tongue.
+- **A2344.2.1** — Why gnat has no tongue.
+- **A2344.2.2** — Why eel has no tongue.
+- **A2344.2.3** — Why swallow has no tongue.
+- **A2344.2.4** — Why titmouse has no tongue.
+- **A2344.2.5** — Why cormorant has no tongue.
+- **A2344.2.6** — Why magpie has no tongue.
+- **A2344.3** — Cause of color of animal's tongue.
+- **A2344.3.1** — Why sheep's tongue is black.
+- **A2345** — Origin and nature of animal's teeth.
+- **A2345.1** — Where horse got his upper teeth.
+  *Borrowed them from buffalo.*
+- **A2345.2** — Where coyote got his long teeth.
+- **A2345.3** — Where reindeer got his small teeth.
+- **A2345.4** — Where walrus got his tusks.
+  *Traded antlers with caribou for tusks.*
+- **A2345.5** — Where snake got his fangs.
+- **A2345.6** — How elephant got its tusks.
+- **A2345.7** — Why animal lacks teeth.
+- **A2345.7.1** — Why cow has no upper teeth.
+- **A2345.7.2** — Why frog has no teeth.
+- **A2345.7.3** — Why caribou has no teeth.
+- **A2345.8** — Why hen has no teeth.
+- **A2345.9** — Why gorilla and chimpanzee have large teeth in mouth: punishment for neglecting possessions.
+- **A2346** — Origin and nature of insect's sting.
+- **A2346.1** — Why bees die after they sting.
+- **A2346.2** — Why bee's sting is no longer fatal to man.
+- **A2350** — Origin of animal characteristics: trunk.
+- **A2351** — Origin and nature of animal's neck.
+- **A2351.1** — Why camel's neck bends upwards.
+- **A2351.2** — Why eagle-owl's head turns on its neck.
+- **A2351.3** — Where Jahrvogel (rhytidoceros) got its necklace.
+  *Borrowed form dove.*
+- **A2351.4** — Origin of animal's long neck.
+- **A2351.4.1** — Origin of stork's long neck.
+- **A2351.4.2** — Why magpie has long neck.
+- **A2351.4.3** — Origin of antelope's long neck.
+- **A2351.5** — Why tortoise's neck is outstretched toward the sky: is looking for his wife, the star.
+- **A2351.6** — Where horse got arched neck: arches neck to kick tiger from rear; remains so.
+- **A2351.7** — Why munia wears his crop on the back of his neck.
+- **A2353** — Origin and nature of animal's breast.
+- **A2353.1** — Why apia (bird) is flat-chested.
+  *Told wife that he was going away to dine. Was too late for his meal.*
+- **A2353.2** — Why robin has red breast.
+- **A2353.3** — Elephant loses its breasts.
+- **A2353.4** — Why bears do not have breasts for nursing.
+- **A2354** — Origin and nature of animal's belly.
+- **A2354.1** — Why flounder is flat-bellied.
+- **A2355** — Origin and nature of animal's waist.
+- **A2355.1** — Why animal has small waist.
+- **A2355.1.1** — Why spider has small waist.
+- **A2355.1.2** — Why ant has small waist.
+- **A2356** — Origin and nature of animal's back.
+- **A2356.1** — Origin of animal's back.
+- **A2356.1.1** — Origin of snake's back.
+  *From a stick.*
+- **A2356.2** — Origin of shape of animal's back.
+- **A2356.2.1** — Why frog has hunchback.
+- **A2356.2.2** — Why wolf has straight back.
+- **A2356.2.3** — Why cat has arched back.
+- **A2356.2.4** — Why certain fish have bowed backs.
+- **A2356.2.5** — Why water-hen has broad back.
+- **A2356.2.6** — Why bear has hump on back.
+- **A2356.2.7** — Why ass has cross on back (shoulders).
+- **A2356.2.8** — Why spider has thread in back of body.
+- **A2356.2.9** — Why tortoise has humpy back.
+- **A2356.2.10** — Why helldiver has flat stern.
+  *Culture hero kicked him.*
+- **A2356.2.11** — Why alligator has rough back.
+- **A2356.2.12** — Why cow's body has hollow on one side.
+- **A2356.2.13** — Why camel has humped back.
+- **A2356.3** — Origin of color of animal's back.
+- **A2356.3.1** — Why eagle's back is brown.
+- **A2356.3.2** — Why jackal has black back.
+- **A2356.3.3** — Why wolverine has peculiar marks on back.
+- **A2356.3.4** — Why spider has markings on back.
+- **A2362** — Origin and nature of animal's buttocks.
+- **A2362.1** — Why monkey's buttocks are red.
+- **A2363** — Origin and nature of animal's teats.
+- **A2363.1** — Why cow has so few teats.
+- **A2364** — Origin and nature of animal's loins.
+- **A2364.1** — Why wolverine has red hair on loins.
+- **A2365** — Origin and nature of animal's genitals.
+- **A2365.1** — Nature of animal's testicles.
+- **A2365.1.1** — Why elephant has testicles inside.
+  *Persuaded to eat them.*
+- **A2365.2** — Nature of animal's penis.
+- **A2365.2.0.1** — Why goat's and cat's members are as they are.
+- **A2365.2.1** — Why animal's penis is large (long).
+- **A2365.2.1.1** — Why horse's penis is long.
+- **A2365.2.1.2** — Why elephant's penis is large.
+- **A2365.2.1.3** — Why donkey's penis is large.
+- **A2367** — Animal characteristics: inside of body.
+- **A2367.1** — Animal characteristics: bones.
+- **A2367.1.1** — Why sucker has small bones in body.
+- **A2367.2** — Animal characteristics: internal markings.
+- **A2367.2.1** — Why grizzly bears have three stripes on inside of stomach.
+- **A2367.3** — Animal characteristics: blood.
+- **A2367.3.1** — Origin of serpent's blood and venom.
+- **A2370** — Animal characteristics: extremities.
+- **A2371** — Origin and nature of animal's legs.
+- **A2371.1** — Origin of animal's legs.
+- **A2371.2** — Shape of animal's legs.
+- **A2371.2.1** — Why sheep has thin legs.
+- **A2371.2.2** — Why hog has "toes" on back of foreleg.
+  *Mark of devil's teeth.*
+- **A2371.2.3** — Why ravens have crooked legs and walk lame.
+- **A2371.2.4** — Why bears have short, crooked legs.
+- **A2371.2.5** — Why there is meat in front of the caribou's lower legs.
+- **A2371.2.6** — Why coyote's right leg is thin.
+- **A2371.2.7** — Why horse has eye-like marks on forelegs.
+- **A2371.2.8** — Why he-goat has shaggy legs.
+  *Braved the wolf, who tore his legs.*
+- **A2371.2.9** — Why diver (loon) holds legs backward.
+- **A2371.2.10** — Why kangaroo has short front legs.
+- **A2371.2.11** — Why hare has short pair of legs.
+- **A2371.2.12** — Why daddy-long-legs has long legs.
+- **A2371.3** — Why animal lacks legs.
+- **A2371.3.1** — Why snake has no legs.
+- **A2371.4** — Origin of color of animal's legs.
+- **A2371.4.1** — Why curlew has red legs.
+- **A2371.4.2** — Why fox's legs are black.
+- **A2375** — Origin and nature of animal's feet.
+- **A2375.1** — Where animal got feet.
+- **A2375.2** — Nature of animal's feet.
+- **A2375.2.1** — Why partridge has pretty feet.
+  *Exchanged with peacock. (Also told of jay and flamingo.)*
+- **A2375.2.2** — Why peacock has ugly feet.
+- **A2375.2.3** — Why dog has hairy paws.
+  *Stole from rabbit.*
+- **A2375.2.4** — Why rabbits have soft pads on feet.
+- **A2375.2.5** — Why hyena has short left hind foot.
+  *Deceived into jumping by jackal.*
+- **A2375.2.6** — Why mole has hand like man.
+- **A2375.2.7** — Why mole's "hands" are turned backward.
+- **A2375.2.8** — Explanation of duck's feet.
+- **A2375.2.9** — Why toad has no thumbs.
+- **A2375.2.10** — Why the guinea fowl has red feet.
+  *Cheated and could not stand the ordeal of hot oil poured on his feet.*
+- **A2376** — Animal characteristics: claws and hoofs.
+- **A2376.1** — Why cow has cloven hoof.
+- **A2376.1.1** — Why ass does not have cloven hoof.
+- **A2376.2** — Dog's claws as grains under paws.
+  *In the great famine, God leaves the dog grain under his paws. From this grows new seed.*
+- **A2376.3** — Why porcupine has only four claws.
+- **A2376.4** — How crab got its claws.
+- **A2376.5** — Why crab has legs like teeth of a comb.
+- **A2377** — Animal characteristics: wings.
+- **A2377.1** — Why emu has no wings.
+- **A2378** — Origin and nature of animal's tail.
+- **A2378.1** — Why animals have tail.
+- **A2378.1.1** — Where baboon got tail.
+- **A2378.1.2** — Where rat got tail.
+- **A2378.1.3** — Where lizard got tail.
+  *From the snake.*
+- **A2378.1.4** — Where mole got tail.
+  *Traded eyes for it.*
+- **A2378.1.5** — Where squirrel got tail.
+- **A2378.1.6** — Where beaver got tail.
+- **A2378.1.7** — How dog got its tail.
+- **A2378.1.8** — How monkey got its tail.
+- **A2378.1.9** — How peacock got its tail.
+- **A2378.2** — Why animals lack tail.
+- **A2378.2.1** — Why quail has no tail.
+  *Tricks crab into pulling out tail instead of killing her. Says that gripping her neck would not hurt but that pulling tail will be fatal.*
+- **A2378.2.2** — How goats lost tails.
+- **A2378.2.3** — How frogs lost tails.
+- **A2378.2.4** — How bear lost tail.
+- **A2378.2.5** — Why hydrax has no tail.
+- **A2378.2.6** — How frog lost tail.
+- **A2378.2.7** — How toad lost tail.
+- **A2378.2.8** — Why flies lack tail.
+- **A2378.3** — Why animal has long tail.
+- **A2378.3.1** — How magpie got long tail.
+- **A2378.3.2** — How muskrat got long, thin tail.
+- **A2378.3.3** — How wolf got long tail.
+- **A2378.3.4** — Why fox has long tail.
+- **A2378.4** — Why animal has short tail.
+- **A2378.4.1** — Why hare has short tail.
+- **A2378.4.2** — Why bear has short tail.
+- **A2378.4.3** — Why marmot has short tail.
+- **A2378.4.4** — Why tortoise has short tail.
+- **A2378.4.5** — Why jackal's tail is short.
+- **A2378.4.6** — Why monkey has short tail.
+- **A2378.4.7** — Why crow has short tail.
+- **A2378.5** — Why animal has forked tail.
+- **A2378.5.1** — Why swallow has forked tail.
+- **A2378.5.2** — Why hawk has forked tail.
+- **A2378.6** — Why animal has bushy tail.
+- **A2378.6.1** — Why fox has bushy tail.
+- **A2378.7** — Why animal has flat tail.
+- **A2378.7.1** — Why beaver has flat tail.
+- **A2378.7.2** — Why magpie's tail is like a chisel.
+- **A2378.8** — Origin of color of animal's tail.
+- **A2378.8.1** — Why end of fox's tail is white.
+- **A2378.8.1.1** — Why end of fox's tail is black.
+- **A2378.8.2** — Why tail of West African grey parrot is red.
+- **A2378.8.3** — Why tip of weasel's tail is black.
+- **A2378.8.4** — Why tip of ermine's tail is black.
+- **A2378.8.5** — Why minivet has red tail.
+- **A2378.8.6** — Why swallow has black feathers in tail and only two feathers.
+- **A2378.8.7** — Why bird has two beautiful feathers in his tail.
+- **A2378.9** — Nature of animal's tail miscellaneous.
+- **A2378.9.1** — Why king-salmon is thick around root of tail.
+- **A2378.9.1.1** — Why salmon has tapering tail.
+- **A2378.9.2** — Why baboons have crooked tails.
+- **A2378.9.3** — Why hares have cotton tail.
+  *Deity rubs cotton on hare.*
+- **A2378.9.4** — Why deer's tail tastes like liver.
+- **A2378.9.5** — Why rat's tail looks like a folded leaf.
+- **A2380** — Animal characteristics: other bodily features.
+- **A2381** — Flesh of animal.
+- **A2381.1** — Why hog has good flesh.
+- **A2382** — Why animal is a hybrid.
+- **A2382.1** — Magpie is a hybrid of dove and raven; was not baptized by water of the flood in Noah's time.
+- **A2385** — Excrements of animals.
+- **A2385.1** — Why dung of ass is triangular.
+- **A2385.2** — Why red dog's excrement contains animal hair.
+- **A2385.3** — Honey as excrement of bees.
+- **A2385.4** — Why cat hides its excreta.
+- **A2386** — Gall-bladder of animal.
+- **A2391** — Nature of bird's eggs.
+- **A2391.1** — Why canary's eggs are yellow.
+
+## Animal characteristics: general appearance
+
+- **A2400** — Animal characteristics: general appearance.
+- **A2401** — Cause of animal's beauty.
+- **A2402** — Cause of animal's ugliness.
+- **A2402.1** — Cause of serpent's ugliness.
+- **A2402.2** — How ostrich lost beautiful feathers.
+- **A2410** — Animal characteristics: color and smell.
+- **A2411** — Origin of color of animal.
+- **A2411.1** — Origin of color of mammals.
+- **A2411.1.1** — Origin of color of felidae.
+- **A2411.1.1.1** — Color of leopard.
+- **A2411.1.1.2** — Color of jaguar.
+- **A2411.1.2** — Origin of color of mustelidae.
+- **A2411.1.2.1** — Why weasel is white with dark tip to tail.
+- **A2411.1.2.1.1** — Why weasel is part black.
+- **A2411.1.2.2** — Color of ermine.
+- **A2411.1.2.3** — Color of otter.
+- **A2411.1.2.4** — Color of skunk.
+- **A2411.1.2.5** — Color of mink.
+  *Singed by sun.*
+- **A2411.1.3** — Color of canidae and other carnivora.
+- **A2411.1.3.1** — Color of fox.
+- **A2411.1.3.2** — Color of coyote.
+- **A2411.1.4** — Origin of color of rodentia.
+- **A2411.1.4.1** — Color of squirrel.
+- **A2411.1.4.2** — Color of beaver.
+- **A2411.1.4.3** — Color of rat.
+- **A2411.1.4.4** — Color of hare.
+- **A2411.1.4.4.1** — Why hare is grey in summer.
+- **A2411.1.5** — Origin of color of primata.
+- **A2411.1.5.1** — Color of monkey.
+- **A2411.1.5.1.1** — Why ape has red back.
+- **A2411.1.5.2** — Color of baboon.
+- **A2411.1.5.2.1** — Why baboon's face and hands are black.
+- **A2411.1.6** — Origin of color of ungulata.
+- **A2411.1.6.1** — Color of horse.
+- **A2411.1.6.2** — Color of hippopotamus.
+- **A2411.1.6.3** — Red color of bush-buck.
+  *From blood.*
+- **A2411.1.6.4** — Color of cow.
+- **A2411.1.6.5** — Color of deer.
+- **A2411.1.6.6** — Color of elk.
+- **A2411.1.6.7** — Color of rhinoceros.
+- **A2411.1.7** — Origin of color of other mammals.
+- **A2411.1.7.1** — Origin of color of hyena.
+- **A2411.2** — Origin of color of bird.
+- **A2411.2.1** — Origin of color of passeriformes.
+- **A2411.2.1.1** — Color of thrush.
+- **A2411.2.1.2** — Color of water-ousel.
+- **A2411.2.1.3** — Color of wag-tail.
+- **A2411.2.1.4** — Color of swallow.
+- **A2411.2.1.5** — Color of raven.
+- **A2411.2.1.6** — Color of crow.
+- **A2411.2.1.7** — Color of rook.
+- **A2411.2.1.8** — Color of jay.
+- **A2411.2.1.9** — Color of blackbird.
+- **A2411.2.1.10** — Color of magpie.
+- **A2411.2.1.11** — Color of sparrow.
+- **A2411.2.1.12** — Color of goldfinch.
+- **A2411.2.1.13** — Color of red-bird.
+- **A2411.2.1.14** — Color of canary.
+- **A2411.2.1.15** — Color of trumpet-bird (psophia crepitans).
+- **A2411.2.1.16** — Color of starling.
+- **A2411.2.1.17** — Color of martin.
+- **A2411.2.2** — Origin of color of falconiformes.
+- **A2411.2.3** — Origin of color of charidriiformes.
+- **A2411.2.3.1** — Color of woodcock.
+- **A2411.2.4** — Origin of color of caraciiformes.
+- **A2411.2.4.1** — Color of woodpecker.
+- **A2411.2.4.2** — Color of owl.
+- **A2411.2.5** — Origin of color of ciconiiformes.
+- **A2411.2.5.1** — Color of cormorant.
+- **A2411.2.5.2** — Color of heron.
+- **A2411.2.5.3** — Color of stork.
+- **A2411.2.5.3.1** — Why stork has black back.
+- **A2411.2.5.4** — Color of gull.
+- **A2411.2.6** — Origin of color of other birds.
+- **A2411.2.6.1** — Color of loon.
+- **A2411.2.6.2** — Color of swan.
+- **A2411.2.6.3** — Color of goose.
+- **A2411.2.6.4** — Color of duck.
+- **A2411.2.6.5** — Color of turkey.
+- **A2411.2.6.6** — Color of guinea-fowl.
+- **A2411.2.6.7** — Color of peacock.
+- **A2411.2.6.8** — Color of partridge.
+- **A2411.2.6.9** — Color of pheasant.
+- **A2411.2.6.10** — Color of cuckoo.
+- **A2411.2.6.11** — Color of parrot.
+- **A2411.3** — Origin of color of insect.
+- **A2411.3.1** — Origin of color of bee.
+- **A2411.3.2** — Color of spider.
+- **A2411.4** — Origin of color of fish.
+- **A2411.4.1** — Color of halibut.
+- **A2411.4.2** — Color of perch.
+- **A2411.4.3** — Color of burbot.
+- **A2411.5** — Color of reptiles and other animal forms.
+- **A2411.5.1** — Color of turtle.
+- **A2411.5.2** — Color of frog.
+- **A2411.5.3** — Color of snail.
+- **A2411.5.4** — Color of mussel.
+- **A2411.5.5** — Why earthworm is red at one end.
+- **A2411.5.6** — Color of chameleon.
+- **A2411.5.6.1** — Why chameleon can change his color.
+- **A2411.5.7** — Color of shrimp.
+- **A2412** — Origin of animal markings.
+- **A2412.0.1** — Creator sends two deities to tatoo all creatures: origin of animal markings.
+- **A2412.1** — Markings of mammals.
+- **A2412.1.1** — White markings on deer.
+- **A2412.1.2** — Spots on leopard.
+- **A2412.1.3** — Why coyote has yellow patch behind his ears.
+- **A2412.1.4** — Why kangaroo-rat has white band around his body.
+- **A2412.1.5** — Why elephant has white marks on its body.
+- **A2412.1.6** — Why peccary has spots.
+- **A2412.2** — Markings on birds.
+- **A2412.2.1** — Markings on tail-feathers of ruffed grouse.
+- **A2412.2.2** — Markings of francolin.
+- **A2412.3** — Markings on insects.
+- **A2412.3.1** — Why louse has mark on his back.
+- **A2412.3.2** — Origin of butterflies' marks.
+- **A2412.4** — Markings on fish.
+- **A2412.4.1** — Markings on sun-fish.
+- **A2412.4.2** — Markings on king-salmon.
+- **A2412.4.2.1** — Why salmon has purple belly.
+- **A2412.4.3** — Markings on cod-fish.
+  *From devil's fingers.*
+- **A2412.4.4** — Cross on crab's back.
+- **A2412.4.5** — Markings on flying fish.
+- **A2412.5** — Markings on other animals.
+- **A2412.5.1** — Markings on tortoise's back.
+- **A2412.5.2** — Why toads have warts on their backs.
+- **A2412.5.2.1** — Why frog is spotty all over.
+- **A2413** — Origin of animal's stripes.
+- **A2413.1** — Stripes of zebra.
+- **A2413.2** — Stripes of chipmunk.
+- **A2413.3** — Stripes of squirrel.
+- **A2413.4** — Stripes of tiger.
+- **A2413.5** — Stripes of alligator.
+- **A2413.6** — Stripes of cony.
+- **A2413.7** — Stripes on trout.
+- **A2416** — Origin and nature of animal's smell.
+- **A2416.1** — Bad smell of goat.
+- **A2416.2** — Burnt smell of mink.
+- **A2416.3** — Bad smell of skunk.
+- **A2416.4** — Burnt smell of wolverine.
+- **A2416.5** — Why ram smells bad.
+- **A2416.6** — Why bugs smell bad.
+- **A2416.7** — Why herrings have bad odor.
+- **A2420** — Animal characteristics: voice and hearing.
+- **A2421** — How animal got voice.
+- **A2421.1** — How night-swallow got voice.
+- **A2421.2** — How woodcock got voice.
+  *Traded with turkey.*
+- **A2421.3** — Where crow got voice.
+  *Traded with thunder-bird.*
+- **A2421.4** — How partridge got voice.
+  *Borrowed from tortoise.*
+- **A2421.4.1** — How quail got voice.
+- **A2421.5** — How nkundak got voice.
+- **A2421.6** — Why cocks crow.
+- **A2421.7** — Voice of peewit.
+- **A2421.8** — Why cat purrs.
+- **A2422** — How animal lost voice (or power of speech).
+- **A2422.1** — Why dog lost his power of speech.
+- **A2422.1.1** — Why dogs do not speak.
+- **A2422.2** — Why sheep do not speak.
+  *Curse of Virgin Mary.*
+- **A2422.3** — Why white crow is dumb.
+- **A2422.4** — Why tortoise has no voice.
+- **A2422.5** — Why fly has no voice.
+- **A2422.6** — Why raven cannot talk.
+- **A2422.7** — Why frogs cannot speak.
+- **A2422.8** — Why cormorant cannot speak.
+- **A2422.9** — Why swallows lost voice.
+- **A2422.10** — Why cock does not speak.
+- **A2423** — General quality of animal's voice.
+- **A2423.1** — Animal's ugly voice.
+- **A2423.1.1** — Woodcock's ugly voice.
+  *Exchanged with thrush.*
+- **A2423.1.2** — Peacock's ugly voice.
+- **A2423.1.3** — Loon's ugly voice.
+- **A2423.1.4** — Why ass brays.
+- **A2423.1.5** — Why hornbill speaks through his nose.
+- **A2423.1.6** — Origin of snail's monotonous voice.
+- **A2423.2** — Animal's pleasing voice.
+- **A2423.2.1** — Thrush's beautiful voice.
+  *Exchanged with woodcock.*
+- **A2423.2.2** — Cuckoo's sweet voice.
+- **A2425** — Origin of animal cries.
+- **A2425.1** — How dog began to bark.
+- **A2425.2** — Origin of birds' morning-songs (from singing angels).
+- **A2426** — Nature and meaning of animal cries.
+- **A2426.1** — Cries of mammals.
+- **A2426.1.1** — Cry of bush-cat.
+- **A2426.1.2** — Cry of squirrel.
+- **A2426.1.2.1** — Squirrel's call: asks whether viper (who ate up his children) is his friend.
+- **A2426.1.3** — Why hog grunts.
+- **A2426.1.4** — The hedgehog's cry.
+- **A2426.1.5** — Why dog barks after thief.
+- **A2426.1.6** — Why bats cry as they fly.
+- **A2426.2** — Cries of birds.
+- **A2426.2.1** — Nightingale's song.
+- **A2426.2.2** — Garden warbler's song.
+- **A2426.2.3** — Bittern's song.
+- **A2426.2.4** — Hoopoe's song.
+- **A2426.2.5** — Cuckoo's song.
+- **A2426.2.6** — Cawing of crow.
+- **A2426.2.7** — Croaking of raven.
+- **A2426.2.8** — Why dove coos.
+- **A2426.2.9** — Why goose quacks.
+- **A2426.2.10** — Why duck quacks.
+- **A2426.2.11** — What parrot says.
+- **A2426.2.12** — Meaning of swallow's song.
+- **A2426.2.13** — Cackling of guinea hen.
+- **A2426.2.15** — Why certain species of eagle cries like a baby: spirit of tortured baby became an eagle.
+- **A2426.2.16** — Origin of cry of brain-fever bird.
+- **A2426.2.17** — Origin of owl's cries.
+- **A2426.2.18** — Origin and meaning of cock's cry "cock-a-doodle-do".
+- **A2426.2.18.1** — Why cock crows on roof with neck stretched out.
+- **A2426.3** — Sounds of insects.
+- **A2426.3.1** — Beetle's hum.
+- **A2426.3.2** — Gnat's buzz.
+- **A2426.3.3** — Fly's buzz.
+- **A2426.3.4** — Cricket's chirp.
+- **A2426.3.5** — Mosquito's buzz.
+- **A2426.3.6** — Speech of fireflies.
+- **A2426.4** — Other animal cries.
+- **A2426.4.1** — Frog's croak.
+- **A2426.4.1.1** — Frogs formerly were ducks stolen from Eden by Cain.
+  *God changed them to frogs; and so frogs sound like ducks in the spring.*
+- **A2426.4.1.2** — Why frog croaks in wet weather.
+- **A2426.4.2** — Toad's croak.
+- **A2427** — Why animal howls (cries out) at night.
+- **A2427.1** — Why jackal cries in the night.
+- **A2427.2** — Why dog howls at night.
+- **A2427.2.1** — Why dogs howl when man is dying.
+- **A2427.3** — Why owl hoots at night.
+- **A2428** — Animal's hearing.
+- **A2428.1** — How animal lost hearing.
+- **A2430** — Animal characteristics: dwelling and food.
+- **A2431** — Birds' nests.
+- **A2431.1** — How bird learned to build nest.
+- **A2431.2** — Why bird has no nest.
+- **A2431.2.1** — Why cuckoo has no nest.
+- **A2431.2.1.1** — Crow hatches cuckoo's egg.
+- **A2431.2.2** — Why heron has no nest.
+- **A2431.3** — Nature of birds' nests.
+- **A2431.3.1** — Dove's nest.
+- **A2431.3.2** — Diver's nest.
+- **A2431.3.3** — Ring-dove's nest.
+  *Exchanged with gull.*
+- **A2431.3.4** — Gull's nest.
+  *Exchanged with ringdove.*
+- **A2431.3.5** — Swallow's nest.
+- **A2431.3.5.1** — Why swallow does not like green trees for her nest.
+- **A2431.3.6** — Crow's nest.
+- **A2431.3.6.1** — Why crow cannot enter sparrow's nest.
+- **A2431.3.6.2** — Why crow's nest is not tightly built.
+- **A2431.3.6.3** — Why crow must build nests far from people's houses.
+- **A2431.3.7** — Sparrow's nest.
+- **A2431.3.7.1** — Why sparrow may build nest near people's houses; reward for hospitality.
+- **A2431.3.8** — Turkey's nest.
+- **A2431.3.8.1** — Why brush turkey nests on the ground.
+- **A2432** — Dwelling of other animal than bird.
+- **A2432.1** — Why ant lives in ant-hill.
+- **A2432.2** — Why wasp has nest.
+- **A2432.3** — Beaver's dwelling.
+- **A2432.4** — Porcupine's dwelling.
+- **A2432.5** — Muskrat's dwelling.
+- **A2432.6** — Bear's den.
+- **A2432.7** — Wart-hog's burrow.
+- **A2432.8** — Bee's hive.
+- **A2432.9** — Why fly lives on dung heap.
+- **A2432.10** — Why the elephant lives without a hut.
+- **A2433** — Animal's characteristic haunt.
+- **A2433.1** — Establishment of animal haunt.
+- **A2433.1.1** — Animal haunt established by contest (race).
+- **A2433.1.2** — Animals change their type of dwelling-place.
+- **A2433.1.3** — Place to live given as patent right to dog.
+- **A2433.2** — Various haunts of animals.
+- **A2433.2.1** — Animals that live in woods.
+- **A2433.2.1.1** — Why small ants live in houses while driver ants must live in bush.
+- **A2433.2.1.2** — Why gorilla and chimpanzee live in forests: punishment for neglecting their possessions.
+- **A2433.2.2** — Animals that inhabit water.
+- **A2433.2.3** — Animals that live alone.
+- **A2433.2.3.1** — Why leopard walks alone.
+  *He killed treacherously his saviors and all animals deserted him.*
+- **A2433.2.4** — Animals that live with men.
+- **A2433.2.4.1** — Why the chimpanzee lives with men.
+- **A2433.3** — Haunts of various animals mammals.
+- **A2433.3.1** — Cat's characteristic haunt.
+- **A2433.3.1.1** — Why cat keeps chimney-corner.
+- **A2433.3.2** — Dog's characteristic haunt.
+- **A2433.3.3** — Why hare lives in bush.
+- **A2433.3.4** — Why hyena stays in burrow.
+- **A2433.3.5** — Why coney lives among rocks.
+- **A2433.3.6** — Why hog lives in sty.
+- **A2433.3.7** — Why rams live at home.
+- **A2433.3.8** — Why goat lives with men.
+- **A2433.3.9** — Why squirrel lives in tree.
+- **A2433.3.9.1** — Why squirrel stays hidden in jungle.
+- **A2433.3.10** — Why muskrats live in water.
+- **A2433.3.11** — Why porcupine lives in high places in mountains.
+- **A2433.3.12** — Why beaver lives along rivers.
+- **A2433.3.13** — Why elk lives in woods.
+- **A2433.3.14** — Why wolf lives in woods.
+- **A2433.3.15** — Why elephant does not live in town.
+- **A2433.3.16** — Why lion stays away from settlement.
+- **A2433.3.17** — Why bear lives where he does.
+- **A2433.3.18** — Why leopard lives where he does.
+- **A2433.3.19** — Why monkey lives in tree.
+- **A2433.3.19.1** — Why monkey has first fruits of harvest in every field.
+- **A2433.3.20** — Why mole lives underground.
+- **A2433.3.21** — Why tiger lives in jungle.
+- **A2433.4** — Haunts of birds.
+- **A2433.4.1** — Why owl lives where he does.
+- **A2433.4.2** — Why cock lives in town.
+- **A2433.4.3** — Why ptarmigan lives in country.
+- **A2433.4.4** — Why parrot lives in tree.
+- **A2433.4.5** — Why kingfisher lives in the air.
+- **A2433.4.6** — Why fowls never shut their doors at night.
+- **A2433.5** — Haunts of insects.
+- **A2433.5.1** — Why nit lives at edge of hair.
+- **A2433.5.2** — Why fly lives amid filth.
+- **A2433.5.3** — Haunts of spider.
+- **A2433.5.3.1** — Why spider lives under stones.
+- **A2433.5.4** — Why beetles live in manure.
+- **A2433.5.5** — Why ants are lords of the bush.
+- **A2433.5.6** — Why butterflies haunt urine-impregnated places.
+- **A2433.5.7** — Why cockroaches live in houses.
+- **A2433.6** — Haunts of reptiles, etc.
+- **A2433.6.1** — Haunts of tortoise (turtle).
+- **A2433.6.1.1** — Why tortoise lives in logs in stream.
+- **A2433.6.1.2** — Why turtle lays eggs on beach.
+- **A2433.6.2** — Why oyster lives in salt water.
+- **A2433.6.3** — Haunts of crab.
+- **A2433.6.3.1** — Why crabs live in water.
+- **A2433.6.3.2** — Why crabs burrow in sand.
+- **A2433.6.3.3** — Why common crab lives underground.
+- **A2433.6.4** — Why iguana lives in stream.
+- **A2433.6.5** — Why leeches live in water.
+- **A2433.6.6** — Habitation of frog.
+- **A2433.6.7** — Why toad lives in cold place.
+- **A2433.6.8** — Habitat of snake.
+- **A2433.6.9** — Why thousand-legged worm avoids sun.
+- **A2434** — Habitat of animal.
+  *The country or locality in which animal is found.*
+- **A2434.1** — Why certain animals are found everywhere.
+- **A2434.1.1** — Why birds are everywhere.
+- **A2434.1.2** — Why bluebirds are everywhere.
+- **A2434.1.3** — Why snowbirds are everywhere.
+- **A2434.1.4** — Why black ants are everywhere.
+- **A2434.1.5** — Why jackal may go everywhere.
+- **A2434.2** — Why certain animals are absent from countries.
+- **A2434.2.1** — Why porcupines and skunks do not live on Cape Breton Island.
+- **A2434.2.2** — Why foxes do not live on a certain island: driven out by a god.
+- **A2434.2.3** — Why there are no snakes in Ireland.
+- **A2434.3** — Why animals live in certain countries.
+- **A2434.3.1** — Why locusts live in certain Pueblo towns.
+- **A2434.3.2** — Why there are wild turkeys in a certain Pueblo town.
+- **A2434.3.3** — Why elephant lives in Nigeria.
+- **A2435** — Food of animal.
+- **A2435.1** — Assignment of food to animal.
+- **A2435.1.1** — Why certain birds may not drink out of river.
+- **A2435.1.2** — How tiger formerly cooked its food and why it changed.
+- **A2435.2** — Nature of animal's food.
+- **A2435.2.1** — Why animals eat everything without salt.
+- **A2435.2.2** — Why certain animals are carnivorous.
+- **A2435.3** — Food of various animals mammals.
+- **A2435.3.1** — Food of dog.
+- **A2435.3.2** — Food of cat.
+- **A2435.3.3** — Food of bear.
+- **A2435.3.4** — Food of wolf.
+  *Man.*
+- **A2435.3.5** — Food of wolverine.
+- **A2435.3.6** — Why moose eat willows.
+- **A2435.3.7** — Food of mouse.
+- **A2435.3.7.1** — Why mice eat grease and salmon.
+- **A2435.3.8** — Why ant-bear eats insects.
+- **A2435.3.9** — Food of tiger.
+- **A2435.3.9.1** — Why tigers eat dogs.
+- **A2435.3.9.2** — Why tigers eat uncooked food.
+- **A2435.3.9.3** — Why tigers eat human flesh.
+- **A2435.3.9.4** — Why tiger eats buffalo.
+- **A2435.3.10** — Food of rat.
+- **A2435.3.10.1** — Why rat may eat rice.
+  *Brings original rice-plant from pond.*
+- **A2435.3.11** — Food of reindeer.
+- **A2435.3.12** — Food of hare.
+- **A2435.3.12.1** — Why hare never drinks from rivers or streams.
+- **A2435.3.13** — Food of squirrel.
+- **A2435.3.14** — Food of pig.
+- **A2435.3.14.1** — Why pigs feed on excreta.
+- **A2435.3.15** — Why wildcats come and eat chickens.
+- **A2435.3.16** — Food of jaguar.
+- **A2435.3.16.1** — Why jaguars eat men.
+- **A2435.3.17** — Food of leopard.
+- **A2435.3.17.1** — Why leopards eat men.
+- **A2435.4** — Food of birds.
+- **A2435.4.1** — Food of cuckoo.
+- **A2435.4.2** — Why crane suffers thirst.
+- **A2435.4.3** — Why raven suffers thirst.
+- **A2435.4.4** — Food of eagle.
+- **A2435.4.5** — Food of buzzard.
+- **A2435.4.5.1** — Carrion as food of vultures.
+- **A2435.4.6** — Food of hawks.
+- **A2435.4.7** — Food of crow.
+  *Why crows peck at flesh of men.*
+- **A2435.4.7.1** — Why crow eats excrement.
+- **A2435.4.8** — Food of cock.
+- **A2435.4.8.1** — Why cock scratches for food.
+- **A2435.4.9** — Food of owl.
+- **A2435.4.9.1** — Why owl eats no grain.
+- **A2435.4.9.2** — Why owl drinks no water.
+- **A2435.4.10** — Food of jackdaw.
+- **A2435.4.11** — Food of wren.
+- **A2435.4.11.1** — Why wren eats no berries.
+- **A2435.5** — Food of insects.
+- **A2435.5.1** — Why bees may not get honey from red clover.
+- **A2435.5.1.1** — Why bees eat their own children.
+- **A2435.5.2** — Insect fries human blood and eats it.
+- **A2435.6** — Food of fish, reptiles, etc.
+- **A2435.6.1** — Food of tortoise.
+- **A2435.6.2** — Food of snake.
+- **A2435.6.2.1** — Snake sucks milk from woman's breast.
+- **A2435.6.3** — Why leech feeds on human blood.
+- **A2435.6.6** — Food of hawks.
+- **A2436** — Why animals lack fire.
+  *Sent to steal fire but are lazy and fail.*
+- **A2440** — Animal characteristics: carriage.
+- **A2441** — Animal's gait or walk.
+- **A2441.1** — Animal's gait or walk mammals.
+- **A2441.1.0.1** — Animals (and men) hop because ground is often so dry that it cracks: they have to jump over the cracks.
+- **A2441.1.1** — Cause of monkey's walk.
+- **A2441.1.2** — Why baboon walks on all fours.
+- **A2441.1.3** — Cause of dog's walk.
+- **A2441.1.4** — Cause of hyena's walk.
+- **A2441.1.5** — Cause of wolverine's walk.
+- **A2441.1.6** — Cause of skunk's walk.
+- **A2441.1.7** — Cause of elephant's walk.
+- **A2441.1.8** — Cause of ox's walk.
+- **A2441.1.9** — Cause of leopard's walk.
+- **A2441.1.10** — Cause of cat's walk.
+- **A2441.1.11** — Cause of hare's hopping gait.
+- **A2441.1.12** — Cause of sheep's walk.
+- **A2441.2** — Cause of bird's walk.
+- **A2441.2.1** — Why raven hops.
+- **A2441.2.2** — Graceful step of dove.
+- **A2441.3** — Cause of insect's walk.
+- **A2441.3.1** — Why beetle creeps on ground.
+- **A2441.3.2** — Cause of flea's movement.
+- **A2441.3.3** — Cause of fly's movement.
+- **A2441.4** — Cause of movement of reptile, etc.
+- **A2441.4.1** — Why snake does not go on the road.
+- **A2441.4.2** — Cause of crab's walk.
+- **A2441.4.3** — Cause of toad's hop.
+- **A2441.4.4** — Cause of chameleon's movement.
+- **A2442** — Method and position of bird's flight.
+- **A2442.1** — High and low flight of birds.
+- **A2442.1.1** — Why some birds cannot fly high.
+- **A2442.1.2** — Why parrots fly high.
+- **A2442.2** — Flight of various birds.
+- **A2442.2.1** — Why raven claps wings in flying.
+- **A2442.2.2** — Why cuckoo flies with difficulty, and sings with wings spread.
+- **A2442.2.3** — Why lapwing flies in curves.
+- **A2442.2.4** — Bluejay's flight.
+- **A2442.2.5** — Hawk's flight.
+- **A2442.2.6** — Water-birds' flight and diving.
+- **A2442.2.7** — Wild-goose's flight.
+- **A2442.2.8** — Eagle's flight.
+- **A2442.3** — How birds began to fly.
+- **A2444** — Animal's method of swimming.
+- **A2444.1** — Why some fish swim deep; others shallow.
+- **A2444.2** — Why dolphins swim up and down.
+- **A2444.3** — How salmon swims.
+- **A2450** — Animal's daily work.
+- **A2451** — Animal's occupation: carrying.
+- **A2451.1** — Why ants carry large bundles.
+- **A2452** — Animal's occupation: hunting.
+- **A2452.1** — Why dogs hunt.
+- **A2452.2** — Why stork must hunt for living.
+- **A2452.3** — Why hawks put heads of mice, etc.
+  *on pile of stones.*
+- **A2453** — Animal's occupation: collecting.
+- **A2453.1** — Why ant collects resin.
+- **A2455** — Animal's occupation: stealing.
+- **A2455.1** — Why wolf is thief.
+- **A2455.2** — Why swallow is thief.
+- **A2455.3** — Why raven is thief.
+  *Because he has none of ten commandments and carries a black stamp on his breast.*
+- **A2455.4** — Why hen does not know how to steal.
+- **A2455.5** — Why wolverine is a thief.
+- **A2456** — Animal's occupation: boring.
+- **A2456.1** — Why woodpecker bores in wood.
+- **A2456.2** — Why wood-worm bores wood.
+- **A2457** — Animal's occupation: rolling.
+- **A2457.1** — Why tumble-bug rolls in dung.
+- **A2460** — Animal characteristics: attack and defense.
+- **A2461** — Animal's means of defense.
+- **A2461.1** — Hare sleeps with open eyes as defense.
+- **A2461.2** — Toad remains still when he hears footsteps (defense).
+- **A2461.3** — Killer-whale uses dorsal fin as weapon.
+- **A2461.4** — Why deer run, stop, and run on again (defense).
+- **A2462** — Animal's habits when attacked.
+- **A2462.1** — Why squirrel barks when attacked.
+- **A2462.2** — Why beaver splashes his tail in water and dives when attacked.
+- **A2462.3** — Why mouse does not defend self against cat.
+- **A2463** — Animal's means of attack.
+- **A2463.1** — Why leopard cannot capture animal who passes him on right side.
+- **A2464** — Why animal does not attack.
+- **A2464.1** — Why lion does not attack dog.
+- **A2465** — Means of capturing animal.
+- **A2465.1** — Why fish are caught in nets.
+- **A2466** — Animal's habits when caught.
+- **A2466.1** — Why opossum plays dead when caught.
+- **A2466.2** — Why turtle beats with forelegs when caught.
+- **A2468** — Animal's behavior at death.
+- **A2468.1** — Why shrew dies on road.
+- **A2468.2** — Why toad dries up when dead.
+- **A2468.3** — Why dragon dies by means of fire.
+- **A2470** — Animal's habitual bodily movements.
+- **A2471** — Why animals continually seek something.
+- **A2471.1** — Why dogs look at one another under tail.
+- **A2471.1.1** — Why dogs sniff at one another.
+- **A2471.2** — Why hogs inspect one another: seek pancake.
+- **A2471.3** — Why hawk (vulture) hovers over camp-fire: seeks grandmother.
+- **A2471.4** — Why diver always looks at sea.
+- **A2471.5** — Why lynx squints: is looking afar at view.
+- **A2471.6** — Why dog is always looking.
+- **A2471.6.1** — Why dog looks back at person who has beaten him.
+- **A2471.6.2** — Why dogs howl, looking at sky.
+- **A2471.7** — What hawks are looking for.
+- **A2471.8** — Why mason-wasp looks for fireplace.
+- **A2471.9** — Why animals always look down.
+- **A2472** — Why animals ruminate.
+- **A2472.1** — Why cows ruminate.
+- **A2473** — Why animals lift their legs.
+- **A2473.1** — Why dogs lift their legs.
+- **A2473.1.1** — Why dogs leave droppings at crossroads.
+- **A2473.2** — Why pigs in mud lift their legs.
+- **A2474** — Why some animals continually shake head.
+- **A2474.1** — Why lizard bobs head up and down.
+- **A2474.2** — Why hare shakes head.
+- **A2474.3** — Why owl shakes head.
+- **A2475** — Why animals scent from distance.
+- **A2475.1** — Why deer scent people from distance.
+- **A2476** — Why animals move mouth, nose, etc.
+- **A2476.1** — Why rabbit continually moves mouth.
+- **A2477** — Why animals root in ground.
+- **A2477.1** — Why hog roots in ground.
+- **A2477.2** — Why hen scratches in ground.
+- **A2478** — Why certain animals are continually eating.
+- **A2478.1** — Why zebra is continually eating.
+- **A2479** — Other habitual bodily movements of animals.
+- **A2479.1** — Why wagtail moves tail up and down.
+- **A2479.2** — Why hare skips about like a leaf.
+- **A2479.3** — Why jackals make noise at night when seeking food.
+- **A2479.4** — Why the hedgehog draws himself up: shame at sight of a good man.
+- **A2479.6** — Why caterpillars climb trees.
+- **A2479.7** — Why ants fall upon every man.
+- **A2479.8** — Why dog snaps every fly.
+  *Fly laughed at dog's (feigned) death.*
+- **A2479.9** — Why flies fly around ox's eyes.
+- **A2480** — Periodic habits of animals.
+- **A2481** — Why animals hibernate.
+- **A2481.1** — Why bears hibernate.
+- **A2482** — Why animals migrate.
+- **A2482.1** — Why swallows migrate.
+- **A2482.2** — Why caribou migrate.
+- **A2482.3** — Why wren does not migrate.
+- **A2483** — Why animals shed periodically.
+- **A2483.1** — Why snake sheds skin.
+- **A2484** — Why animals crowd together seasonally.
+- **A2484.1** — Why fish come in seasonally.
+- **A2486** — Why animals lay eggs as they do.
+- **A2486.1** — Why raven lays eggs in March.
+- **A2486.2** — Why bustard hatches but two eggs.
+- **A2486.3** — Why dove lays but two eggs.
+- **A2486.4** — How birds began to lay eggs.
+- **A2489** — Animal's periodic habits miscellaneous.
+- **A2489.1** — Why cock wakes man in morning.
+- **A2489.1.1** — Why cock crows to greet sunrise.
+- **A2490** — Other habits of animals.
+- **A2491** — Why certain animals avoid light.
+- **A2491.1** — Why bat flies by night.
+- **A2491.1.1** — Why bat sleeps by day.
+- **A2491.2** — Why owl avoids daylight.
+- **A2491.3** — Why mole burrows underground.
+- **A2491.4** — Tiger cursed with short sight in day time: good sight only at night.
+- **A2491.5** — Why grasshoppers and locusts hide in day.
+- **A2492** — Why certain animals go in herds.
+- **A2492.1** — Why jackals do not go in herds.
+- **A2492.2** — Why birds do not live in societies.
+- **A2493** — Friendships between the animals.
+- **A2493.0.1** — Former friendship between domestic and wild animals.
+- **A2493.1** — Friendship of prairie-dog and owl.
+- **A2493.2** — Friendship of bat and owl.
+- **A2493.3** — Friendship of tiger and buffalo.
+- **A2493.4** — Friendship between man and dog.
+- **A2493.5** — Friendship between deer and fish.
+- **A2493.6** — Friendship between squirrel and quail.
+- **A2493.7** — Friendship between leopard-cat and squirrel.
+- **A2493.7.1** — Friendship between leopard-cat and night-jar.
+- **A2493.8** — Friendship between leopard and goat.
+- **A2493.9** — Friendship of cat and mouse.
+- **A2493.9.1** — Oath of friendship between cat and rat.
+- **A2493.10** — Friendship of fox and titmouse.
+- **A2493.11** — Friendship between jackal and crocodile.
+- **A2493.11.1** — Friendship between jackal and alligator.
+- **A2493.11.2** — Friendship between jackal and elephant.
+- **A2493.11.3** — Friendship between jackal and tiger.
+- **A2493.11.3.1** — Jackal and tiger as business partners.
+- **A2493.11.4** — Friendship between jackal and partridge.
+- **A2493.12** — Friendship between turtle and heron.
+- **A2493.12.1** — Friendship between turtle and wallaby.
+- **A2493.13** — Friendship between hare and parrot.
+- **A2493.14** — Friendship between monkey and elephant.
+- **A2493.14.1** — Friendship between monkey and tiger.
+- **A2493.14.2** — Friendship between monkey and lion.
+- **A2493.14.3** — Friendship between monkey and stork.
+- **A2493.14.4** — Friendship between monkey and rabbit.
+- **A2493.14.5** — Friendship between partridge, monkey and elephant.
+- **A2493.15** — Friendship between wolf and ass.
+- **A2493.16** — Friendship between cock and dog.
+- **A2493.17** — Friendship between tiger and deer (fawn).
+- **A2493.18** — Friendship between cat and tiger.
+- **A2493.19** — Friendship between crab and cobra.
+- **A2493.20** — Friendship between frog and cricket.
+- **A2493.21** — Friendship between grasshopper and dungbeetle.
+- **A2493.22** — Friendship between goat and hog.
+- **A2493.23** — Friendship between louse and crow.
+- **A2493.24** — Friendship between cow and tiger, calf and cub.
+- **A2493.25** — Friendship between snake and crow.
+- **A2493.26** — Friendship between parrot and maina.
+- **A2493.27** — Friendship between bird and crab.
+- **A2493.28** — Friendship between mouse and butterfly.
+- **A2493.29** — Friendship between ant and pheasant.
+- **A2493.30** — Friendship between tiger and lion.
+- **A2493.30.1** — Friendship between lion and jackal.
+- **A2493.30.2** — Friendship between cow and lioness.
+- **A2493.31** — Friendship between dog and elephant.
+- **A2493.32** — Friendship between antelope, woodpecker and tortoise.
+- **A2493.33** — Friendship between pike and crawfish.
+- **A2493.34** — Friendship of hen and duck.
+- **A2493.34.1** — Friendship between hen and sparrow.
+- **A2493.35** — Why we know that the parrot comforts and helps man.
+- **A2494** — Why certain animals are enemies.
+- **A2494.1** — The cat's enemies.
+- **A2494.1.1** — Enmity between cat and mouse.
+- **A2494.1.2** — Enmity between cat and dog.
+- **A2494.1.3** — Enmity between cat and hare.
+- **A2494.1.4** — Enmity between cat and rat.
+- **A2494.1.5** — Enmity between cat and hen.
+- **A2494.1.6** — Enmity between cat and tiger.
+- **A2494.1.7** — Enmity between cat and spider.
+- **A2494.1.8** — Enmity between civet cat and chicken.
+- **A2494.2** — The leopard's enemies.
+- **A2494.2.1** — Enmity between leopard and antelope.
+- **A2494.2.2** — Enmity between leopard and lion.
+- **A2494.2.3** — Enmity between leopard and goat.
+- **A2494.2.4** — Enmity between leopard and deer.
+- **A2494.2.5** — Enmity between dog and leopard.
+- **A2494.2.6** — Enmity between leopard and sheep.
+- **A2494.2.7** — Enmity between leopard and monkey.
+- **A2494.3** — The hyena's enemies.
+- **A2494.3.1** — Enmity between hyena and ass.
+- **A2494.3.2** — Enmity between hyena and jackal.
+- **A2494.3.3** — Enmity between hyena and weasel.
+- **A2494.3.4** — Enmity between hyena and cow.
+- **A2494.3.5** — Enmity between hyena and wildcat.
+- **A2494.4** — The dog's enemies.
+- **A2494.4.0.1** — Dog driven away from other animals because of his barking.
+- **A2494.4.1** — Enmity between dog and squirrel.
+- **A2494.4.2** — Enmity between dog and crocodile.
+- **A2494.4.3** — Enmity between dog and mouse.
+- **A2494.4.4** — Enmity between dog and rabbit.
+- **A2494.4.5** — Enmity between dog and fox.
+- **A2494.4.6** — Enmity between dog and cat.
+- **A2494.4.7** — Enmity between dog and lion.
+- **A2494.4.8** — Enmity between dog and bull.
+- **A2494.4.9** — Enmity between dog and tiger.
+- **A2494.4.10** — Enmity between dog and cow.
+- **A2494.4.11** — Enmity between dog and rooster.
+- **A2494.4.12** — Enmity between fowl and dog.
+- **A2494.4.13** — Enmity between palm rat and dog.
+- **A2494.5** — The jackal's enemies.
+- **A2494.5.1** — Enmity between jackal and wild hen.
+- **A2494.5.2** — Enmity between jackal and kite.
+- **A2494.5.3** — Enmity between jackal and crab.
+- **A2494.5.4** — Enmity between jackal and alligator.
+- **A2494.6** — The rabbit's enemies.
+- **A2494.6.1** — Enmity between lynx and rabbit.
+- **A2494.6.2** — Enmity between rabbit and coyote.
+- **A2494.6.3** — Enmity between fisher and rabbit.
+- **A2494.7** — The lion's enemies.
+- **A2494.7.1** — Enmity between monkey and lion.
+- **A2494.7.2** — Enmity between lion and wolf.
+- **A2494.7.3** — Enmity between lion and man.
+- **A2494.8** — The bear's enemies.
+- **A2494.8.1** — Enmity between bears and goats.
+- **A2494.8.2** — Enmity between bear and ant.
+- **A2494.9** — Enemies of fox.
+- **A2494.9.1** — Enmity between baboon and fox.
+- **A2494.9.2** — Enmity between fox and chicken.
+- **A2494.10** — The tiger's enemies.
+- **A2494.10.1** — Enmity between tiger and man.
+- **A2494.10.2** — Enmity between tiger and boar.
+- **A2494.10.3** — Enmity between tiger and bear.
+- **A2494.11** — The elephant's enemies.
+- **A2494.11.1** — Enmity between elephant and thousand-leg.
+- **A2494.11.2** — Enmity between crocodile and elephant.
+- **A2494.11.3** — Enmity between elephant and ant.
+- **A2494.12** — Miscellaneous enmities of mammals.
+- **A2494.12.1** — Enmity between panther, antelope, and tortoise.
+- **A2494.12.2** — Enmity between mongoose and snake.
+- **A2494.12.3** — Enmity between ox and antelope.
+- **A2494.12.3.1** — Enmity between cattle and snails.
+- **A2494.12.4** — Enmity between coyote and meadowlark.
+- **A2494.12.5** — Enmity between raven and mink.
+- **A2494.12.6** — Enmity between marten and squirrel.
+- **A2494.12.7** — Enmity between deer and terrapin.
+- **A2494.12.8** — Enmity between rat and spider.
+- **A2494.12.9** — Enmity between chimpanzee and man.
+- **A2494.12.10** — Enmity between porcupine and snail.
+- **A2494.13** — Enmities of birds.
+- **A2494.13.1** — Enmity between crow and owl.
+- **A2494.13.2** — Enmity between kite and crow.
+- **A2494.13.3** — Enmity between fowl and cockroach.
+- **A2494.13.4** — Enmity between owl and mouse.
+- **A2494.13.4.1** — Enmity between owl and fowl.
+- **A2494.13.5** — Enmity between crow and prairie-dog.
+- **A2494.13.6** — Enmity between raven and marshsnipe.
+- **A2494.13.7** — Enmity between raven and mink.
+- **A2494.13.8** — Enmity between woodpecker and weaver-bird.
+- **A2494.13.9** — Enmity between bird and rat.
+- **A2494.13.10** — The hen's enemies.
+- **A2494.13.10.1** — Enmity between hen and all other animals.
+- **A2494.13.10.2** — Enmity between hen, beetle, and duck.
+- **A2494.13.10.3** — Enmity between hawk and hen.
+- **A2494.13.10.4** — Enmity between falcon and hen.
+- **A2494.13.10.5** — Enmity between hen and tiger.
+- **A2494.13.10.6** — Enmity between birds of prey and chickens.
+- **A2494.13.11** — The starling's enemies.
+- **A2494.13.11.1** — Enmity between grasshopper and starling.
+- **A2494.13.11.2** — Enmity between starling and locust.
+- **A2494.13.11.3** — Enmity between parrot and starling.
+- **A2494.13.12** — Enmity between fowl and falcon.
+- **A2494.14** — The insects' enemies.
+- **A2494.14.1** — Enmity between spider and fly.
+- **A2494.14.2** — Enmity between spider and wasp.
+- **A2494.14.3** — Why stinging flies sit on eyes of cattle.
+- **A2494.15** — The fish's enemies.
+- **A2494.16** — Enemies of reptiles and other animal forms.
+- **A2494.16.1** — Enmity between frog and snake.
+- **A2494.16.2** — Enmity between chameleon and lizard.
+- **A2494.16.3** — Enmity between cobra and viper.
+- **A2494.16.4** — Enmity between bird and lizard.
+  *Latter muddies water.*
+- **A2494.16.5** — Enmity between crab and spider.
+- **A2494.16.6** — Enmity between earthworm and rattlesnake.
+- **A2494.16.7** — Enmity between octopus and rat.
+- **A2495** — Animal's treatment of its excrements (urine).
+- **A2495.1** — Why cat buries its excrements.
+- **A2495.2** — Why ass smells his own excrements.
+- **A2495.3** — Why donkeys always urinate when others begin.
+- **A2496** — Sexual intercourse of animals.
+- **A2496.1** — Why dogs get stuck in copulation.
+- **A2496.2** — Copulation of serpents.
+- **A2496.3** — Why men, fish and serpents face each other in copulation.
+- **A2497** — Monogamy among animals.
+- **A2497.1** — Monogamous life of dove.
+- **A2499** — Other habits of animals: miscellaneous.
+- **A2499.1** — Why tigers do not kill women who run away after quarreling with their husbands.
+
+## Animal characteristics miscellaneous
+
+- **A2500** — Animal characteristics miscellaneous.
+- **A2510** — Utility of animals.
+- **A2510.1** — Why reindeer has so many qualities.
+- **A2511** — Why flesh of animal is good.
+- **A2511.1** — Why black bears are better eating than grizzly bears.
+- **A2512** — Animal useful because of power of scenting.
+- **A2512.1** — Why dog can follow animal's scent.
+- **A2513** — Why certain animals serve men.
+- **A2513.0.1** — Existence of animals depends upon existence of man.
+- **A2513.1** — Origin of dog's service.
+  *Dog must serve and obey man for meager recompense.*
+- **A2513.1.1** — Dog looks for the most powerful master.
+  *Stays for good in man's service, since man fears no one.*
+- **A2513.2** — How cat was domesticated.
+- **A2513.3** — How pig was domesticated.
+- **A2513.4** — Why goat lives with man.
+- **A2513.5** — Why ox serves man.
+- **A2515** — Animal useful for bearing burdens.
+- **A2515.1** — Why ox is draft animal.
+- **A2520** — Disposition of animals.
+- **A2521** — Why animal is sad.
+- **A2521.1** — Why turtle-dove is sad.
+- **A2522** — Why animal is disliked.
+- **A2522.1** — Why sparrow is disliked.
+- **A2522.2** — Why shrike is disliked.
+- **A2522.3** — Why white ants are a pest.
+- **A2522.4** — Why skunk is disliked.
+- **A2522.5** — Why crow is disliked.
+- **A2522.6** — Why wren is disliked.
+- **A2522.7** — Why fly is hated.
+- **A2523** — Why animal is evil.
+- **A2523.1** — Why hog has evil spirit.
+- **A2523.2** — Why snakes are proud.
+- **A2523.2.1** — Why rattlesnake is dangerous.
+- **A2524** — Why animal is pugnacious (brave, bold).
+- **A2524.1** — Why grizzly bears are pugnacious.
+- **A2524.2** — Why sandpiper (machetis pugnax) fights.
+- **A2524.3** — Why bears attack men.
+- **A2524.4** — Why fish attack anything they find.
+- **A2524.5** — Why lion is brave.
+- **A2524.6** — Why dog is bold.
+- **A2525** — Why animals are deceptive.
+- **A2525.1** — Why hare is deceptive.
+- **A2525.2** — Why crab is cunning.
+- **A2525.3** — Why fox is sly.
+- **A2526** — Why animals are unrestrained.
+- **A2526.1** — Why dog lacks restraint.
+- **A2527** — Why animal is vain.
+- **A2527.1** — Why cock is vain and selfish.
+- **A2527.2** — Why peacock is vain.
+- **A2528** — Why animal is strong.
+- **A2528.1** — Why leopard is strong.
+- **A2531** — Why animal is harmless.
+- **A2531.0.1** — Wild animals lose their ferocity.
+- **A2531.1** — Why water serpents are not venomous.
+- **A2531.2** — Why grizzly bear is peaceable.
+- **A2531.3** — Why elephant is peaceable.
+- **A2531.3.1** — Why elephant flees when cock crows.
+- **A2532** — Why animals are venomous.
+- **A2532.1** — Why snakes are venomous.
+- **A2532.2** — Why hairy caterpillar is venomous.
+- **A2534** — Why animal is timorous.
+- **A2534.1** — Why crab is afraid in dark.
+- **A2536** — Animals of good omen.
+- **A2536.1** — Why swallow brings good luck.
+- **A2536.2** — Why ring-dove brings good luck.
+- **A2536.3** — Why spider brings good luck.
+- **A2537** — Why animal is stupid.
+- **A2537.1** — Why fish is stupid.
+- **A2537.2** — Why ass is stupid.
+- **A2540** — Other animal characteristics.
+- **A2541** — Why animal is sacred.
+- **A2541.1** — Why bee is sacred.
+- **A2541.2** — Why stork is holy.
+- **A2542** — Why animal is cursed.
+- **A2542.1** — Why magpie is cursed.
+- **A2542.1.1** — Magpie refuses to get into ark, sits around outside, jabbering over drowned world, is unlucky.
+- **A2542.2** — Why spider is cursed.
+- **A2545** — Animal given certain privilege.
+- **A2545.1** — Why flies may eat anywhere.
+- **A2545.2** — Why cat eats first.
+- **A2545.3** — Why dog eats first.
+- **A2545.4** — Dog granted proper food.
+- **A2545.5** — Why wild pigs ravage rice-fields.
+- **A2546** — Animal granted patent of nobility.
+- **A2546.1** — Dog granted patent of nobility.
+- **A2546.2** — Wolf granted patent of nobility.
+- **A2547** — Why certain animal is king.
+- **A2547.1** — Why certain bird is king of birds.
+- **A2551** — Why game is easy to hunt.
+- **A2552** — Why game animals are elusive.
+- **A2555** — Why certain animals are swift.
+- **A2555.1** — Why sheep is a good runner.
+- **A2561** — Why certain animals are sterile.
+- **A2561.1** — Why mule is sterile.
+- **A2571** — How animals received their names.
+- **A2571.0.1** — Adam gives name to all animals.
+- **A2571.0.2** — Adam names male animals, Eve, female.
+- **A2571.0.3** — God gives animals their name on first Sabbath.
+- **A2571.0.4** — Names of animals explained by their characteristics.
+- **A2571.1** — How the blackbird (merulus) received its name.
+- **A2575** — Quarrels introduced among animals.
+- **A2576** — Why monkeys do not fall from trees.
+- **A2577** — Why tiger cannot come down a tree head foremost.
+- **A2578** — Why animal has long life.
+- **A2578.1** — Why daddy-long-legs has long life.
+- **A2578.2** — Why eagle has long life.
+- **A2581** — Why tiger lacks some qualities of cats: cat, his teacher, omitted to teach him all he knew.
+- **A2582** — Why certain animals are plentiful.
+- **A2582.1** — Why pigs are plentiful.
+- **A2584** — Why particular animals are not found in certain place.
+- **A2584.1** — Why certain district is free of mosquitoes.
+- **A2584.2** — Why ants no longer live on the back of the hare.
+- **A2585** — Why there is enmity between certain animals and man.
+- **A2585.1** — Origin of enmity between serpent and man.
+
+## Origin of plants
+
+- **A2600** — Origin of plants.
+- **A2601** — Origin of plants: creator sends down the insects, who plant them.
+- **A2602** — Planting the earth.
+- **A2610** — Creation of plants by transformation.
+- **A2611** — Plants from body of slain person or animal.
+- **A2611.0.1** — Plants from grave of dead person or animal.
+- **A2611.0.2** — Plants from foetus or body of stillborn child.
+- **A2611.0.3** — Human placenta transformed into plant.
+- **A2611.0.4** — Parts of body of god transformed into plants.
+- **A2611.0.4.1** — Women transformed into flowers.
+- **A2611.0.5** — Parts of human or animal body transformed into plants.
+- **A2611.1** — Corn from body of slain person.
+- **A2611.2** — Tobacco from grave of bad woman.
+- **A2611.2.1** — Tobacco from grave of virgin.
+- **A2611.3** — Coconut tree from head of slain monster.
+- **A2611.4** — Pepper plant from body of slain person.
+- **A2611.5** — Mandrake from blood of person hanged on gallows.
+- **A2611.6** — Hair transformed into plants.
+- **A2611.6.1** — Grass from hair of slain person.
+- **A2611.7** — Origin of rue: from drops of Christ's blood.
+- **A2612** — Plants from tears.
+- **A2612.1** — Tears of Adam and Eve leaving paradise become trees.
+- **A2612.2** — Tears of Mary at Annunciation become daisies.
+- **A2612.3** — God's tears become peas.
+- **A2613** — Plant from spittle.
+- **A2613.1** — Mushroom from spittle of deity.
+- **A2615** — Object transformed to plant.
+- **A2615.1** — Mary hides in ground nail to be used for cross: origin of thistles.
+- **A2615.2** — Plant from mother's milk.
+- **A2615.3** — Canoe transformed into coconut tree.
+- **A2615.4** — Seaweed becomes vegetation.
+- **A2616** — One plant transformed into another.
+- **A2617** — Plants from transformed person (animal).
+- **A2617.1** — Living boys or girls transformed into plants.
+- **A2617.2** — Living animals transformed into plants.
+- **A2620** — Plants originate from experience of holy person.
+- **A2621** — Plants from tread of holy person.
+- **A2621.1** — Flowers from under the feet of Virgin Mary.
+- **A2621.2** — Plants from tread of goddess.
+- **A2622** — Peter lets key of heaven fall: origin of "Heaven Key" (primrose).
+  *Peter hears that duplicate key to heaven has been made. In his excitement he lets his key drop to earth. It is returned by an angel. Where it dropped are the "Heaven Keys".*
+- **A2623** — St. Peter's grass.
+  *Created by the saint as medicine for snakebite.*
+- **A2624** — Origin of plant from staff of holy person.
+- **A2624.1** — Origin of thorn tree from staff of Joseph of Arimathea.
+- **A2625** — Plants from clothing of deity.
+- **A2630** — Other types of plant origins.
+- **A2631** — Origin of plant as punishment.
+- **A2631.1** — Punishment for first murder: thistles, etc.
+  *Until murder was committed, only useful plants grew on earth; since then, thistles.*
+- **A2631.1.1** — Punishment for Fall of Man: thistles, etc.
+- **A2632** — Origin of plant as reward.
+- **A2632.1** — Willow shelters Holy Family: becomes weeping willow.
+- **A2632.2** — Origin of tree for crucifixion of Christ.
+  *Planted by Adam's son on the grave of primeval father.*
+- **A2634** — Plants created by direct divine agency.
+- **A2650** — Origin of flowers.
+- **A2651** — Origin of daisy.
+- **A2653** — Origin of primrose.
+- **A2654** — Origin of "Mary's bed straw" (thymus serpyllum).
+- **A2655** — Origin of bindweed (convolvulus sepium).
+- **A2656** — Origin of rose.
+- **A2656.1** — Origin of mossrose.
+- **A2656.2** — Origin of York and Lancaster rose.
+  *From dust and blood of slain of War of the Roses a variety of rose unknown before that time.*
+- **A2657** — Origin of forget-me-not.
+- **A2658** — Origin of lady-slipper (calceolaria hybrida).
+- **A2661** — Origin of snowdrop (galanthus nivatis).
+- **A2662** — Origin of hellebore.
+- **A2663** — Origin of clove.
+- **A2664** — Origin of mandrake.
+- **A2665** — Origin of wild morning glory.
+- **A2665.1** — Origin of narcissus.
+- **A2666** — Origin of rue.
+- **A2680** — Origin of other plant forms.
+- **A2681** — Origin of trees.
+- **A2681.1** — Origin of weeping willow.
+- **A2681.2** — Origin of oak.
+- **A2681.3** — Poplars from weeping maidens transformed by god.
+- **A2681.4** — Origin of birch trees.
+- **A2681.4.1** — First birch trees in Ireland.
+- **A2681.5** — Origin of palms.
+- **A2681.5.1** — Origin of coconut tree.
+- **A2681.6** — Origin of bamboo.
+- **A2681.7** — Origin of sandalwood tree.
+- **A2681.8** — Origin of dammar tree.
+- **A2681.9** — Origin of mulberry tree.
+- **A2681.10** — Origin of banyan tree.
+- **A2681.11** — Origin of breadfruit tree.
+- **A2681.12** — Origin of palm-wine tree.
+- **A2681.13** — Origin of cedar tree.
+- **A2682** — Origin of creepers.
+- **A2683** — Origin of grass.
+- **A2684** — Origin of cultivated plants.
+- **A2684.1** — Origin of flax.
+- **A2684.2** — Origin of hemp.
+- **A2684.2.1** — Origin of sorghum.
+- **A2684.3** — Origin of cotton plant.
+- **A2685** — Origin of cereals.
+- **A2685.1** — Origin of corn.
+- **A2685.1.1** — Origin of maize.
+- **A2685.2** — Origin of straw.
+  *Formerly whole blade became grain. Straw left for dog.*
+- **A2685.3** — Origin of rye.
+- **A2685.4** — Origin of barley.
+- **A2685.5** — Origin of manioc.
+- **A2686** — Origin of vegetables.
+- **A2686.1** — Origin of mushroom.
+- **A2686.2** — Origin of peas.
+- **A2686.3** — Origin of pepper plant.
+- **A2686.3.1** — Origin of kava plant.
+- **A2686.4** — Origin of edible roots.
+- **A2686.4.1** — Origin of sweet potato.
+- **A2686.4.2** — Origin of taro.
+- **A2686.4.3** — Origin of yams.
+- **A2686.5** — Origin of turmeric.
+- **A2686.6** — Origin of beans.
+- **A2686.7** — Origin of gourds.
+- **A2686.8** — Origin of cinnamon.
+- **A2687** — Origin of fruits.
+- **A2687.1** — Origin of blood-oranges.
+- **A2687.2** — Origin of melons.
+- **A2687.3** — Origin of berries.
+- **A2687.4** — Origin of pumpkin.
+- **A2687.5** — Origin of banana.
+- **A2688** — Origin of weeds.
+- **A2688.1** — Origin of thistles.
+- **A2688.1.1** — Origin of thorn-bush.
+- **A2691** — Origin of narcotic plants.
+- **A2691.1** — Origin of coffee.
+- **A2691.2** — Origin of tobacco.
+- **A2691.3** — Origin of ganja.
+- **A2691.4** — Origin of opium.
+- **A2691.5** — Origin of betel.
+- **A2692** — Origin of poisonous plants.
+
+## Origin of plant characteristics
+
+- **A2700** — Origin of plant characteristics.
+- **A2710** — Plant characteristics as reward.
+- **A2711** — Plant blessed for pious act.
+- **A2711.1** — Plant blessed for help at Jesus' birth.
+- **A2711.2** — Trees blessed that made the cross.
+- **A2711.2.1** — Elder tree is never struck by lightning because it was used in making the cross.
+- **A2711.3** — Plant blessed for helping holy fugitive.
+- **A2711.4** — Tree protects Jesus from rain: is green all year.
+- **A2711.4.1** — Hazel gives Virgin Mary shelter.
+  *Blessed.*
+- **A2711.4.2** — Thistle serves as milk-cup for Virgin Mary: white spots on leaves.
+- **A2711.4.3** — Plant receives name because of service to Virgin Mary.
+- **A2711.5** — Rowan helps Thor out of river.
+- **A2711.6** — How the plum tree came to be so hardy: blessed by Ram.
+- **A2711.7** — Fig tree stays with the angels: rewarded with sap of all other trees.
+- **A2720** — Plant characteristics as punishment.
+- **A2721** — Plant cursed for impious act.
+- **A2721.1** — Plant cursed for disservice to child Jesus.
+- **A2721.2** — Plant cursed for disservice at crucifixion.
+- **A2721.2.1** — Tree cursed for serving as cross.
+- **A2721.2.1.1** — Aspen cursed for serving as cross.
+- **A2721.2.1.2** — Poplar cursed for serving as cross.
+- **A2721.2.1.3** — Cottonwood cursed for serving as cross.
+- **A2721.2.1.4** — Elder cursed for serving as cross.
+- **A2721.2.2** — Indentations on plants from Christ's biting them at crucifixion.
+- **A2721.3** — Plant punished for ungracious answer to holy person.
+- **A2721.3.1** — Man tells Jesus he is sowing stones.
+  *"You shall get stones." Why peas do not soften in boiling.*
+- **A2721.3.2** — Farmer tells begging monk that potatoes are hard as stones: why potatoes are hard.
+- **A2721.4** — Plant cursed for betraying holy fugitive.
+- **A2721.5** — Tree on which Judas hanged himself cursed.
+- **A2721.6** — Why the mogli flower and the lime are cursed by gods.
+- **A2721.7** — Trees fail to come at god's leavetaking, now bear bitter fruit.
+- **A2721.8** — Barren trees as punishment of earth for disobedience at man's fall.
+- **A2722** — Plant punished for disobedience.
+- **A2722.1** — Plantain disobeys mother: hence bears but one stalk.
+- **A2723** — Plant punished for discontent.
+- **A2723.1** — Discontented pine-tree: cause of pine needles.
+  *Pine tree given silk leaves, glass leaves, etc. Always discontented. Finally has needles again.*
+- **A2723.2** — God changes nature of plant to punish wastefulness of man: yield of plant is decreased.
+- **A2725** — Plant punished for tardiness.
+- **A2725.1** — Ash-tree late at distribution of qualities at creation: therefore buds last.
+- **A2726** — Plant punished for tale-telling.
+- **A2726.1** — Curse of tale-telling banana affects all others.
+- **A2730** — Miscellaneous reasons for plant characteristics.
+- **A2731** — Plant characteristics from transformation.
+- **A2731.1** — Trickster's burnt flesh becomes gum on trees.
+- **A2731.2** — Plant characteristics from tears.
+- **A2731.2.1** — Plant characteristics from Virgin Mary's tears.
+- **A2731.2.1.1** — Plant characteristics from Virgin Mary's milk.
+- **A2731.3** — Blood from wizard becomes red grain of cedar.
+  *Bleeding head of wizard who tries to kill the sun placed on top of a tree.*
+- **A2731.4** — Why agar-tree has magic properties.
+  *A transformed magician.*
+- **A2733** — Poppy characteristics from series of reincarnations.
+  *Opium produces each of the appropriate qualities.*
+- **A2734** — Plant characteristics from object thrown by devil.
+- **A2734.1** — Devil throws sand at aspen: hence rough bark.
+  *Angered because aspens will not cease quivering.*
+- **A2734.2** — Devil throws tar at tree: hence tar in tree-heart.
+- **A2736** — Evil spirit in spite puts bark and thorns on tree.
+- **A2738** — Christ puts knots in wood.
+  *Peter, angry at carpenters wants Christ to have iron knots in wood. Christ does make hard knots but not iron.*
+- **A2741** — Plant characteristics from accident to original plant.
+- **A2741.1** — Bean laughs till it splits: cause of black stripe.
+- **A2741.2** — Yams dropped by bird and split: why some are good and some bad.
+- **A2741.3** — Sky rests on top of trees: hence flat leaves.
+- **A2741.4** — Bush loses clothes in shipwreck: hence catches passerby looking for clothes.
+- **A2741.5** — Why khijur leaves are long and narrow: split with an arrow.
+- **A2742** — Plant characteristics from exchange of qualities.
+- **A2743** — Plant characteristic because plant belongs to the devil.
+- **A2743.1** — Fuschia belongs to devil: hence ball and red petals.
+- **A2750** — Interior and bark of plant.
+- **A2751** — Bark of plant.
+- **A2751.1** — Origin of bark on plants.
+- **A2751.2** — Texture of bark of plant.
+- **A2751.2.1** — Why aspen's bark is rough.
+- **A2751.2.2** — Why bark of red willow is thin.
+- **A2751.2.3** — Why tinsa tree has no bark at bottom of trunk.
+- **A2751.3** — Markings on bark of plant.
+- **A2751.3.1** — Indentions in stem of reed.
+- **A2751.3.2** — Crosses on certain trees.
+- **A2751.4** — Color of bark of plant.
+- **A2751.4.1** — Why birch has white bark.
+- **A2751.4.2** — Why ebony tree is black.
+- **A2751.4.3** — Why tamarind bark is black.
+- **A2751.4.4** — Why bark of saja and tinsa is white.
+- **A2751.4.5** — Why broom-corn is covered with blood-red spots.
+- **A2751.4.6** — Why kava plant is grey.
+- **A2752** — Thorns on plants.
+- **A2752.1** — Why bombax tree has thorns.
+- **A2755** — Internal parts of plant.
+- **A2755.1** — Origin of red grain of cedar.
+- **A2755.2** — Origin of blood-colored sap in trees.
+- **A2755.2.1** — Why the saja tree has no sap.
+- **A2755.3** — Origin of tar in heart of trees.
+- **A2755.3.1** — Origin of amber in poplar trees.
+- **A2755.3.2** — Origin of gum in myrrh tree.
+- **A2755.4** — Origin of knots in wood.
+- **A2755.4.1** — Why there are knots on the saja tree.
+- **A2756** — Why the bamboo has nodes.
+- **A2757** — Why certain reeds are hollow.
+- **A2760** — Leaves of plant.
+- **A2760.1** — Why all trees have leaves.
+- **A2761** — Shape of leaves of plant.
+- **A2761.1** — Why oak-leaves are indented.
+- **A2761.2** — Why vine-leaves are hand-shaped.
+- **A2761.3** — Why plant-leaves are flat.
+- **A2762** — Movement of leaves.
+- **A2762.1** — Why aspen-leaves tremble.
+- **A2762.2** — Why poplar-leaves tremble.
+- **A2762.3** — Why pipal leaves tremble.
+- **A2763** — Why certain leaves have holes in them.
+- **A2764** — Why certain leaves are hollow.
+- **A2764.1** — Why taro leaves are hollow.
+- **A2765** — Why leaves are evergreen.
+- **A2766** — Why certain tree bleeds.
+- **A2766.1** — Why elder tree bleeds when cut.
+- **A2767** — Origin of tree's needles.
+- **A2767.1** — Origin of pine-needles.
+- **A2768** — Why leaves hang head downward.
+- **A2769** — Leaves of plant miscellaneous.
+- **A2769.1** — Why tamarind leaves are small.
+- **A2770** — Other plant characteristics.
+- **A2771** — Budding and bearing of plant.
+- **A2771.1** — Why ash-tree buds last.
+- **A2771.2** — Why plantain bears but one stalk.
+- **A2771.3** — Why sago bears fruit from the stem.
+- **A2771.4** — Why banana bears fruit from crown of tree.
+- **A2771.4.1** — Why rice has ears only at top.
+- **A2771.5** — Trees bear first buds to commemorate reign of primitive hero.
+- **A2771.6** — Why certain willow tree bears fruit when fruit trees bear.
+- **A2771.7** — Why sorrel grows on certain rock every winter.
+- **A2771.8** — Why tree has bitter fruit.
+- **A2771.8.1** — Why olive is bitter.
+- **A2771.8.2** — Why laurel tree is bitter.
+- **A2771.9** — Why big trees have small fruit.
+- **A2771.10** — Why willow flowers do not bear fruit.
+- **A2772** — Color of plants.
+- **A2772.1** — Origin of rose's color.
+- **A2772.2** — Why end of rush is black.
+- **A2772.3** — Why the heartsease (polygonum persicaria) has red stripes.
+- **A2772.4** — Why ebony tree has black wood and smoke-colored leaves.
+- **A2774** — Why trees remain fixed.
+- **A2774.1** — Why ayikha-bush is firmly rooted.
+- **A2775** — Why certain trees are dwarfed.
+- **A2775.0.1** — Why plants no longer reach sky.
+- **A2776** — Why certain plants are cursed.
+- **A2776.1** — Why birch is cursed.
+- **A2776.2** — Why weeping-willow is cursed.
+- **A2777** — Why certain plants (trees) are blessed.
+- **A2777.1** — Why fig tree is chief priest of the trees.
+- **A2777.2** — King of trees.
+- **A2778** — Why certain tree is tall.
+- **A2778.1** — Why coconut tree is tall.
+- **A2778.2** — Why palm is tall.
+- **A2781** — Origin of plant names.
+- **A2782** — Origin of combustible property of wood.
+- **A2783** — Medicinal properties of trees.
+- **A2785** — Origin of shape of particular tree.
+- **A2785.1** — Origin of shape of wiliwili tree.
+- **A2788** — Why certain tree is hardy.
+- **A2791** — Sundry characteristics of trees.
+- **A2791.1** — Why trees do not talk.
+  *All ask to be spared when man begins cutting them.*
+- **A2791.2** — Why lightning spares the nut-tree.
+- **A2791.3** — How banyan got its milk.
+- **A2791.4** — Why no one can find flower of wild fig.
+- **A2791.5** — Why tamarind fruit is sour.
+- **A2791.7** — Why some trees have no fruit.
+- **A2791.8** — Why sap comes from top of palm.
+- **A2791.9** — Why fruit of sago palm looks like an eye.
+- **A2791.10** — Why sago palm gives abundant sap.
+- **A2791.11** — Why fruit of date palm looks like breasts of old woman.
+- **A2791.12** — Why the bija tree is often struck by lightning.
+- **A2791.13** — Why the roots of the banyan hang down.
+- **A2792** — Sundry characteristics of shrubs.
+- **A2792.1** — Why bush holds on to passer-by.
+- **A2793** — Sundry characteristics of grains and vegetables.
+- **A2793.1** — Why bean has black stripe.
+- **A2793.1.1** — Why beans bear everywhere.
+- **A2793.2** — Why grain of wheat is divided.
+- **A2793.2.1** — Why wheat must be planted in one year and harvested in the next.
+- **A2793.3** — Why some yams are good, some bad.
+- **A2793.4** — Why potatoes are hard.
+- **A2793.5** — Why grain grows only at top of stalk (punishment for men's sinfulness).
+- **A2793.5.1** — Why corn does not yield in the middle.
+- **A2793.6** — Origin of shapes of grain.
+- **A2793.7** — Why rice is so abundant.
+- **A2793.8** — Why millet is red on top.
+- **A2793.9** — Why buckwheat produces twice a year.
+- **A2794** — Sundry characteristics of vegetables.
+- **A2794.1** — Why mushrooms are slimy.
+- **A2794.2** — Why yams are small but plentiful in certain place.
+- **A2795** — Sundry characteristics of flowers.
+- **A2795.1** — Why some flowers have no scent.
+
+## A2800
+
+- **A2811** — Origin of silk.
+- **A2812** — Origin of musk.
+- **A2813** — Origin of honey.
+- **A2814** — Origin of spices.
+- **A2815** — Origin of floating webs in summer.
+- **A2816** — Origin of smoke.
+- **A2817** — Origin of the will-o'-the-wisp (jack-o'-lantern).
+- **A2817.1** — Smith outwits devil, is admitted to neither heaven nor hell.
+  *The devil gives him a light to find his way back in the dark; he is known as the will-o'-the-wisp or jack-o'-lantern.*
+- **A2817.2** — Will-o'-the-wisp is girl cursed by her mother for gathering plants for dyestuffs on Sunday.
+  *Will-o'-the-wisp is seen where girl disappeared.*
+- **A2823** — Origin of churning stick.
+- **A2824** — Origin of drum.
+- **A2825** — Origin of canes: from whip thrust into ground.
+- **A2826** — Origin of shells.
+- **A2827** — Origin of pearls.
+- **A2828** — Origin of particular kinds of basket.
+- **A2831** — Origin of demons.
+- **A2834** — Origin of fish drug.
+- **A2847** — Origin of scum on stagnant water.
+- **A2849** — Miscellaneous origins.
+- **A2849.1** — Miscellaneous Jewish origins.
+- **A2851** — The four characteristics of wine.
+  *Devil helps Noah plant vineyard and kills various animals over it. These illustrate the four qualities of wine. peacock: brilliant colors; ape: jokes; lion: boldness; hog: drunkenness.*
+- **A2853** — Why sexes differ in form and temperament.
+- **A2854** — Why men like tobacco, but spit when smoking.
+  *Adam in paradise spat upon the tobacco plant.*
+- **A2855** — Trees classified as "pleasant trees, herb trees, shrub trees."
+- **A2861** — Why men become old.
+- **A2862** — Why spirits are invisible.
+- **A2871** — Why soil in certain country is poor.
+- **A2872** — Why coral is soft.
+- **A2875** — Why babies have soft spots in head.
+- **A2877** — Why palm oil is red.

@@ -1,0 +1,2390 @@
+# E. The Dead
+
+> Motif-Index of Folk-Literature · 2223 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Resuscitation
+
+- **E0** — Resuscitation.
+- **E1** — Person comes to life.
+- **E1.1** — Saint cut into pieces or decapitated comes back to life.
+- **E1.2** — Dead man re-enters body and speaks of experience in heaven.
+- **E2** — Dead tree comes to life.
+- **E3** — Dead animal comes to life.
+- **E4** — Sun revived by own power after being killed by moon.
+- **E10** — Resuscitation by rough treatment.
+- **E11** — Resuscitation by beating.
+- **E11.1** — Second blow resuscitates.
+  *First kills.*
+- **E11.2** — Resuscitation by striking with arrow.
+- **E11.3** — Resuscitation by touching body during conjuration.
+- **E12** — Resuscitation by decapitation.
+- **E12.1** — Red thread on neck of person who has been decapitated and resuscitated.
+- **E12.2** — Head of decapitated person is replaced backwards.
+  *Later is readjusted.*
+- **E13** — Resuscitation by jumping (stepping) over.
+- **E13.1** — Resuscitation by stepping on corpse.
+- **E14** — Resuscitation by dismemberment.
+- **E15** — Resuscitation by burning.
+- **E15.0.1** — Bone of man being burned jumps out of fire.
+- **E15.1** — Resuscitation by boiling.
+- **E15.2** — Resuscitation by sweating.
+- **E15.3** — Resuscitation by stewing.
+- **E16** — Resuscitation by stinging.
+  *Corpse is laid on an ant-heap.*
+- **E17** — Resuscitation by licking corpse.
+- **E17.1** — Resuscitation when snake licks bite he has inflicted upon his victim.
+- **E18** — Resuscitation by tickling.
+- **E21** — Resuscitation by withdrawal of wounding instrument.
+- **E21.1** — Resuscitation by removal of poisoned apple.
+  *By shaking loose the apple from the throat of the poisoned girl the prince brings her to life.*
+- **E21.1.1** — Resuscitation by removal of poisoning cobra flesh from dead man's mouth.
+- **E21.2** — Resuscitation when strangling corset-lace breaks.
+  *Girl laced so tightly in corset that she faints. Brothers carry her to her grave. They stumble. Corset-lace breaks and girl revives.*
+- **E21.3** — Resuscitation by removal of poisoned comb.
+- **E21.4** — Resuscitation by removal of poisoned slippers.
+- **E21.5** — Resuscitation by sucking poison from wound.
+- **E23** — Resuscitation by catching in snare.
+- **E25** — Resuscitation my frightening dead.
+- **E26** — Resuscitation by shouting at dead.
+- **E26.1** — Resuscitation by command to arise.
+- **E27** — Resuscitation by slinging against something.
+- **E29** — Resuscitation by rough treatment miscellaneous.
+- **E29.1** — Resuscitation by biting victim's bone.
+- **E29.2** — Resuscitation by rubbing victim's bones on ground.
+- **E29.3** — Resuscitation by pricking anus.
+- **E29.4** — Resuscitation by plucking the flower into which one is incarnated.
+- **E29.4.1** — Resuscitation by felling the tree into which one is incarnated and splitting trunk into two parts.
+- **E29.5** — Resuscitation by cutting off heads of birds which contained the soul of dead person.
+- **E29.6** — Resuscitation by urinating on dead man's bone.
+- **E29.7** — Resuscitation by striking with lightning.
+- **E30** — Resuscitation by arrangement of members.
+  *Parts of a dismembered corpse are brought together and resuscitation follows.*
+- **E30.1** — Felled tree restored by reassembling all cut parts.
+- **E31** — Limbs of dead voluntarily reassemble and revive.
+- **E32** — Resuscitated eaten animal.
+- **E32.0.1** — Eaten person resuscitated.
+- **E32.1** — Insect swallowed by man comes out alive.
+- **E32.2** — Animals which devour each other are restored to their original forms by command of a saint.
+- **E32.3** — Dismembered pigs come alive again if only bones are preserved.
+- **E33** — Resuscitation with missing member.
+  *In reassembling the members, one has been inadvertently omitted. The resuscitated person or animal lacks this member.*
+- **E33.1** — Cooked part of white cow is brown after resuscitation.
+- **E34** — Resuscitation with misplaced head.
+- **E34.1** — Resuscitation with head on backwards.
+- **E35** — Resuscitation from fragments of body.
+- **E35.1** — Resuscitation by sewing parts of body together.
+- **E37** — Resuscitation by assembling members and leaving in cask for certain time.
+- **E37.1** — Failure to resuscitate because of premature disturbance of members to be left in cask for certain time.
+- **E38** — Resuscitation by replacement of soul.
+- **E38.1** — Resuscitation by returning dead person's soul (breath) to body.
+- **E41** — Resuscitation from excrement of one who has eaten person (animal).
+- **E42** — Resuscitation from ashes of dead man.
+- **E42.1** — Resuscitation from dust.
+- **E50** — Resuscitation by magic.
+- **E52** — Resuscitation by magic charm.
+- **E53** — Resuscitation by fetish.
+- **E53.1** — Resuscitation by mummified dog.
+  *Dog is kept in box. Revives and resuscitates dead hero.*
+- **E53.2** — Resuscitation of dead by making image of deceased of breadfruit wood.
+  *When spirit enters this, image disappears and person is found alive.*
+- **E55** — Resuscitation by music.
+- **E55.1** — Resuscitation by song.
+- **E55.2** — Resuscitation by playing flute.
+- **E55.3** — Resuscitation by blowing trumpet.
+- **E55.4** — Resuscitation by playing violin.
+- **E55.5** — Resuscitation by playing guitar.
+- **E58** — Resuscitation by weeping (tears).
+- **E58.1** — Resuscitation by universal weeping.
+  *Return of deity from dead granted if all men will weep. One person refuses.*
+- **E61** — Resuscitation by shooting arrow.
+- **E62** — Resuscitation by vigil at tomb.
+  *Vigil is for stated time, three weeks and three days, or the like.*
+- **E62.1** — Resuscitation by fasting.
+- **E63** — Resuscitation by prayer.
+- **E63.1** — Body placed in building and worshipped until it comes to life.
+- **E63.2** — Resuscitation by nine-day dance and prayers.
+- **E64** — Resuscitation by magic object.
+- **E64.1** — Resuscitation by staff.
+- **E64.1.1** — Staff of life and death.
+  *Black staff kills; brown one restores to life.*
+- **E64.1.1.1** — Silver stick kills; gold one restores to life.
+- **E64.1.1.2** — Leaves of life and death.
+- **E64.1.1.3** — Fly-whisk of life and death.
+- **E64.2** — Resuscitation by magic cauldron.
+- **E64.3** — Resuscitation by magic bell.
+- **E64.3.1** — Resuscitation by saint's bell.
+- **E64.4** — Resuscitation by magic bachall.
+- **E64.4.1** — Resuscitation by saint's bachall.
+- **E64.5** — Resuscitation by magic cup.
+- **E64.5.1** — Resuscitation by Holy Grail.
+- **E64.6** — Resuscitation by candle.
+- **E64.7** — Resuscitation by book.
+- **E64.7.1** — Resuscitation by manuscript.
+- **E64.8** — Resuscitation by perfume.
+- **E64.8.1** — Resuscitation by heavenly fragrance.
+- **E64.9** — Resuscitation by magic feather.
+- **E64.10** — Resuscitation by piece of felt.
+- **E64.11** — Resuscitation by magic robe (blanket).
+- **E64.12** — Resuscitation by sacred relics.
+- **E64.13** — Resuscitation by ring.
+- **E64.14** — Resuscitation by magic bag.
+- **E64.15** — Resuscitation by magic gold.
+- **E64.16** — Resuscitation by animal's tail.
+- **E64.16.1** — Resuscitation by yak's tail.
+- **E64.17** — Resuscitation by magic stone.
+- **E64.18** — Resuscitation by leaf.
+- **E64.19** — Resuscitation from bird dung.
+- **E64.20** — Resuscitation by magic baskets.
+- **E64.21** — Resuscitation by handkerchief.
+- **E65** — Resuscitation by kiss.
+- **E66** — Resuscitation by breathing on corpse.
+- **E66.1** — Resuscitation of cremated man by blowing on the ashes.
+- **E67** — Resuscitation by talking to corpse.
+- **E68** — Apparently dead persons revived when certain thing happens.
+  *Proper prince appears, or the like.*
+- **E71** — Resuscitation by wishing.
+- **E72** — Resuscitation by smelling of moss.
+- **E73** — Resuscitation by incantation.
+- **E74** — Resuscitation by waving magic object.
+- **E75** — Resuscitation by writing deity's name.
+- **E79** — Resuscitation by magic miscellaneous.
+- **E79.1** — Resuscitation by passing helpful animal over corpse.
+- **E79.1.1** — Resuscitation by bird flying over dead.
+- **E79.2** — Resuscitation by reversing positions of two blocks of wood.
+- **E79.3** — Resuscitation by touch of eagle.
+- **E80** — Water of Life.
+  *Resuscitation by water.*
+- **E80.1** — Resuscitation by bathing.
+- **E80.1.1** — Resuscitation by bathing in milk.
+- **E80.2** — Resuscitation by wet cloth over corpse.
+- **E80.3** — Resuscitation by water (in basket, overnight).
+- **E80.4** — Resuscitation by holy water.
+- **E80.4.1** — Resuscitation by dew from heaven.
+- **E82** — Water of life and death.
+  *One water kills, the other restores to life.*
+- **E84** — Water of death.
+- **E90** — Tree of Life.
+- **E90.1** — Sun and moon steal wonderful tree which revives dead man or animal.
+
+## Resuscitation by medicines
+
+- **E100** — Resuscitation by medicines.
+- **E101** — Resuscitation by salve (oil).
+- **E102** — Resuscitation by magic liquid.
+- **E102.1** — Resuscitation by magic milk.
+- **E102.2** — Resuscitation by sprinkling ambrosia.
+- **E105** — Resuscitation by herbs (leaves).
+- **E106** — Resuscitation by magic apple.
+- **E107** — Resuscitation by magic pill.
+- **E108** — Resuscitation by magic powder.
+- **E108.1** — Resuscitation by magic powder blown into nose.
+- **E113** — Resuscitation by blood.
+- **E113.1** — Resuscitation by animal's blood.
+- **E113.1.1** — Resuscitation by raven's blood.
+- **E114** — Resuscitation by spittle.
+- **E115** — Resuscitation by wax from deer's ear.
+- **E116** — Resuscitation by use of animal fat.
+- **E117** — Resuscitation by gall of slain giant.
+- **E120** — Other means of resuscitation.
+- **E121** — Resuscitation by supernatural person.
+- **E121.1** — Resuscitation by a god.
+- **E121.1.1** — Resuscitation by concerted effort of the gods.
+- **E121.1.2** — Resuscitation by power of goddess.
+- **E121.1.3** — Man sent back to earth by Death, for it is not yet his time to die.
+- **E121.1.3.1** — Hero resuscitated by his bride, daughter of king of death.
+- **E121.2** — Resuscitation by Christ.
+- **E121.3** — Resuscitation by Virgin Mary.
+- **E121.4** — Resuscitation by saint.
+- **E121.4.1** — The cooked and revived child.
+  *Saint to a woman: "Cook me what you like most." Gullible woman cooks son. Saint revives child.*
+- **E121.5** — Resuscitation by holy man (priest, etc.).
+- **E121.5.1** — Resuscitation by rabbi.
+- **E121.5.2** — Resuscitation through prayers of holy man.
+- **E121.5.3** — Resuscitation by prophet.
+- **E121.6** — Resuscitation by demon.
+- **E121.6.1** — Resuscitation by demon's entering corpse.
+- **E121.7** — Resuscitation by magician.
+- **E121.7.1** — Resuscitation by druid.
+- **E121.8** — Resuscitation by fairy.
+- **E122** — Resuscitation by animals.
+- **E122.1** — Resuscitation by cuckoo.
+- **E122.2** — Resuscitation by snake.
+- **E125** — Resuscitation by relative.
+- **E125.1** — Resuscitation by son.
+- **E125.2** — Resuscitation by sister(s).
+- **E125.3** — Resuscitation by brother.
+- **E127** — Resuscitation by friends.
+- **E132** — Resuscitation through ashes thrown on funeral pyre.
+- **E133** — Resuscitation by warming dead man.
+- **E134** — Resuscitation by laying flesh on pyre and covering with cloth.
+- **E134.1** — Resuscitation by covering body for certain time.
+- **E136** — Resuscitation by heavenly voice.
+- **E138** — Resuscitation by carrying corpse to its home.
+- **E138.1** — Deer foster parent of hero comes alive from its burial hill when youth returns to spot and carries him off to jungle again.
+- **E141** — Resuscitation: ghosts deceived so that they cannot find way back to grave.
+- **E142** — Resuscitation by polishing sword that contains dead man's life.
+- **E149** — Means of resuscitation miscellaneous.
+- **E149.1** — Human bone, found in demon's stomach wrapped in silk with bow and arrow, becomes a boy.
+- **E149.2** — Resuscitation of decapitated princess by hero by imitating ogre's actions of night before: passing sword three times up and down her throat.
+- **E149.3** — Resuscitation from touch of a child at his first walking.
+- **E150** — Circumstances of resuscitation.
+- **E151** — Repeated resuscitation.
+  *A person dies and is resuscitated repeatedly.*
+- **E152** — Body still warm restored to life.
+- **E155** — Periodic resuscitation.
+- **E155.1** — Slain warriors revive nightly.
+  *Continue fighting the next day.*
+- **E155.1.1** — Constant replacement of fighters.
+  *In contest between gods and demons, latter are constantly slain and replaced.*
+- **E155.1.2** — Soldiers of magic army constantly revived.
+- **E155.2** — Annual resuscitation of a god.
+- **E155.3** — Nightly resuscitation of man with external soul.
+  *When enemy takes off necklace containing the soul he revives, but dies again when it is put on.*
+- **E155.4** — Person dead during day, revived at night.
+- **E155.4.1** — Woman alive by day, dead by night.
+- **E155.5** — Slain pigs revive nightly.
+- **E155.5.1** — Calf, slain at night, alive next day through power of saint.
+- **E155.6** — King eaten every morning: revived daily.
+- **E156** — Gradual resuscitation one organ at a time.
+- **E161** — Killed game revives and flies away.
+- **E162** — Resuscitation impossible after certain length of time.
+- **E162.0.1** — Resuscitation after great length of time.
+- **E162.1** — Resuscitation even possible after three days.
+- **E162.2** — Dead man tries in vain to come back to life.
+- **E163** — Man kept alive by consecrated sword.
+- **E165** — Resuscitation of wife by husband giving up half his remaining life.
+- **E165.1** — One man prays either to keep friend from death or for both to die.
+  *Both allowed to live.*
+- **E165.2** — Husband resuscitated after wife's nose is cut off and thrown over grave.
+- **E166** — Return from dead granted for definite time.
+- **E167** — Man given ability to return to life if killed.
+- **E168** — Cooked animal comes to life.
+- **E168.1** — Roasted cock comes to life and crows.
+- **E171** — Flayed animal resuscitated.
+- **E174** — Bones wrapped in sheepskin inscribed with holy name revive.
+- **E174.1** — Ashes of burnt hero revive.
+- **E175** — Death thought sleep.
+  *Resuscitated person thinks he has been sleeping. He exclaims, "How long I have been asleep!"*
+- **E176** — Resuscitation in order to baptize.
+- **E177** — Resuscitated man relates visions of beyond.
+- **E178** — Resurrection at Judgment Day.
+- **E181** — Means of resuscitation learned.
+- **E181.1** — Husband advised how to resuscitate his wife: lift her up and turn her around so her head rests upon the brick which had been under her feet.
+- **E181.1.1** — Man advised how to resuscitate his mother: break waternuts on her head: she would revive and live one year for each nut broken.
+- **E181.2** — Student revives whole family following instructions given by demon.
+- **E182** — Dead body incorruptible.
+  *Beard and fingernails continue to grow.*
+- **E185** — Resuscitation when murder is discovered.
+- **E185.1** — Resuscitation after murderer is buried in the earth, wood laid over him, and a lighted lamp on its top.
+- **E186** — Failure at resuscitation.
+- **E186.1** — Attempted resuscitation fails because of overanxiety.
+
+## Malevolent return from the dead
+
+- **E200** — Malevolent return from the dead.
+- **E210** — Dead lover's malevolent return.
+- **E211** — Dead sweetheart haunts faithless lover.
+- **E211.1** — Dead sweetheart in the form of a white rabbit follows seducer.
+- **E211.2** — Dead sweetheart appears to seducer every evening, even after he has married another woman.
+- **E212** — Dead lover sets tasks.
+  *If girl does not perform them (or answer his questions) he will carry her off.*
+- **E214** — Dead lover haunts faithless sweetheart.
+- **E214.1** — Dead lover returns to dance with fickle sweetheart at her wedding.
+- **E215** — The Dead Rider (Lenore).
+  *Dead lover returns and takes sweetheart with him on horseback. She is sometimes saved at the grave by the crowing of the cock, though the experience is usually fatal.*
+- **E217** — Fatal kiss from dead.
+- **E218** — Spells to recall dead lover.
+  *Boiling dead man's head, bones, or carcass in a pot, or burning a piece of lover's clothing or cat in a hot oven.*
+- **E220** — Dead relative's malevolent return.
+- **E221** — Dead spouse's malevolent return.
+  *Usually to protest with survivor because of evil ways.*
+- **E221.1** — Dead wife haunts husband on second marriage.
+- **E221.2** — Dead wife returns to reprove husband's second wife.
+- **E221.2.1** — Dead wife returns to reprove husband's second wife for abusing her step-children.
+- **E221.3** — Dead husband returns to reprove wife's second husband (lover).
+- **E221.4** — Dead husband returns to protest wife's spending his money.
+- **E221.5** — Dead wife torments husband who has let her die of neglect.
+- **E222** — Dead mother's malevolent return.
+- **E222.0.1** — Mother haunts daughter.
+- **E222.1** — Mother's ghost tries to tear daughter to pieces.
+- **E222.2** — Dead mother haunts daughter who marries against mother's will.
+- **E222.3** — Dead mother returns to invoke curse on murderer-son.
+- **E225** — Ghost of murdered child.
+- **E225.1** — Ghost of abortion.
+- **E226** — Dead brother's return.
+- **E226.1** — Dead brother reproves sister's pride.
+- **E228** — The dead daughter reproaches her mother for putting her dowery into coffin.
+- **E229** — Dead relative's malevolent return miscellaneous.
+- **E229.1** — "If I were not your next of kin."
+  *Ghost tells man that otherwise he would tear him into pieces.*
+- **E230** — Return from dead to inflict punishment.
+- **E231** — Return from dead to reveal murder.
+- **E231.1** — Ghost tells name of murderer.
+- **E231.2** — Ghost skeleton points lance at murderer.
+- **E231.3** — Ghost light hovers over hiding place of body of murdered person.
+- **E231.4** — Noise of chains leads to buried ghost.
+- **E231.5** — Ghost returns to murderer, causes him to confess.
+- **E232** — Return from the dead to slay wicked person.
+- **E232.1** — Return from dead to slay own murderer.
+- **E232.2** — Ghost returns to slay man who has injured it while living.
+- **E232.3** — Ghost kills man who interferes with ghostly activity.
+- **E232.4** — Ghost returns to slay enemies.
+- **E234** — Ghost punishes injury received in life.
+- **E234.0.1** — Ghost returns to demand vengeance.
+- **E234.1** — Ghost slaps face of son who cheated him out of property.
+  *A cancer grows on son's face.*
+- **E234.2** — Ghost stampedes stolen cattle being driven past his ranch.
+- **E234.3** — Return from dead to avenge death (murder).
+- **E234.4** — Ghost an unjustly executed man.
+  *Real murderer found.*
+- **E235** — Return from dead to punish indignities to corpse, or ghost.
+- **E235.1** — Ghost punishes person who mocks him.
+- **E235.2** — Ghost returns to demand proper burial.
+- **E235.2.1** — Dead man speaks demanding proper funeral rites.
+- **E235.2.2** — Ghost returns because corpse was not properly burned.
+- **E235.3** — Return from dead as punishment for trying to raise ghost.
+- **E235.4** — Return from dead to punish theft of part of corpse.
+- **E235.4.1** — Return from dead to punish theft of golden arm from grave.
+- **E235.4.2** — Return from dead to punish theft of leg from grave.
+- **E235.4.3** — Return from dead to punish theft of bone from grave.
+- **E235.4.4** — Return from dead to punish theft of liver from man on gallows.
+- **E235.4.5** — Return from dead to punish theft of skull.
+- **E235.4.6** — Return from dead to punish theft of teeth.
+- **E235.5** — Return from dead to punish kicking of skull.
+- **E235.6** — Return from dead to punish disturber of grave.
+- **E235.7** — Return from the dead to capture thief.
+- **E235.8** — Corpse of saint sits up and looks at people who open grave and come to claim his body.
+- **E236** — Return from dead to demand stolen property.
+- **E236.1** — Return from dead to demand clothing stolen from grave.
+- **E236.1.1** — Return from dead to demand ring stolen from corpse.
+- **E236.2** — Return from dead to demand stolen children.
+- **E236.3** — Return from the dead to warn thief that he will be punished.
+- **E236.4** — Return from the dead because last will was not fulfilled.
+- **E236.4.1** — Ghost appears at time of death, foils lawyer who is counterfeiting a will for the newly-deceased.
+- **E236.4.2** — Ghost appears to remind his brother of the terms of his will.
+- **E236.5** — Return from dead to demand money stolen from corpse.
+- **E236.6** — Ghost drives away his relatives who are trying to get estate from his wife.
+- **E236.7** — Ghostly noises disturb village until stolen church plate is returned.
+- **E236.8** — Ghost seeks repayment of stolen money.
+- **E238** — Dinner with the dead.
+  *Dead man is invited to dinner. Takes his host to other world.*
+- **E238.1** — Dance with the dead.
+  *Girl invites dead to come from grave and dance with her. Difficult escape.*
+- **E241** — Ghosts punish intruders into ghost town.
+- **E242** — Ghosts punish intruders into mass (procession) of ghosts.
+- **E243** — Ghosts attack bishop who has suspended priest for singing for all Christian souls.
+- **E245** — Ghosts punish failure to provide for their wants.
+  *Haunt man because he does not leave food and drink for them.*
+- **E246** — Ghosts punish failure to sacrifice to them.
+- **E247** — Ghost kills man who had had ghost exorcised for too short a time.
+- **E250** — Bloodthirsty revenants.
+- **E251** — Vampire.
+  *Corpse which comes from grave at night and sucks blood.*
+- **E251.1** — Vampire's power overcome.
+- **E251.1.1** — Vampire's power overcome by endurance and prayer.
+  *Hero continues to pray without looking or speaking while vampire punishes him.*
+- **E251.1.2** — Hand of vampire severed by cutting off hand of drawn figure.
+- **E251.2** — Vampire brought to life.
+- **E251.2.1** — Vampire brought to life through endurance of punishment by her victim.
+- **E251.2.2** — Prince plucks from grave of vampire a flower which later becomes a girl.
+- **E251.2.3** — Vampire brought to life by being fed human food and drink.
+- **E251.3** — Deeds of vampires.
+- **E251.3.1** — Vampires eat corpses.
+- **E251.3.1.1** — Ghosts roast girl daily in oven and devour her flesh.
+- **E251.3.2** — Vampire milks cows dry.
+- **E251.3.3** — Vampire sucks blood.
+- **E251.3.4** — Ghost sucks people's breath.
+- **E251.4** — Form of Vampire.
+- **E251.4.1** — Vampire with elephant face.
+- **E251.4.2** — Vampire with ass's ears.
+- **E251.4.3** — Vampire with eyes of owls.
+- **E251.4.4** — God with form and characteristics of vampire.
+- **E251.5** — Vampire plant.
+- **E253** — Ghost tries to kill person for food.
+- **E255** — Ghosts flay corpse.
+- **E256** — Ghosts eat corpse.
+- **E257** — Ghosts seek firewood to roast man.
+- **E259** — Bloodthirsty revenants miscellaneous.
+- **E259.1** — Corpse bites off woman's nose.
+- **E259.2** — Ghosts may eat only female animals.
+- **E260** — Other malevolent revenants.
+- **E261** — Wandering ghost makes attack.
+  *Unprovoked and usually unmotivated.*
+- **E261.1** — Wandering skull pursues man.
+- **E261.1.1** — Ghost's flying head attacks slayer.
+- **E261.1.2** — Speaking skull tells about previous life, reveals future events, etc.
+- **E261.1.3** — Hero attacked by revenant with half a head, carrying man with half a body.
+- **E261.2** — Dead arises when shroud bursts and pursues attendant.
+- **E261.2.1** — Coffin bursts; dead arises and pursues attendant.
+- **E261.3** — Man attacked on Christmas night by dancing ghosts.
+- **E261.4** — Ghost pursues man.
+- **E261.4.1** — Ghost of witch in her coffin chases man.
+- **E261.5** — Ghost beats living man with whip.
+- **E262** — Ghost rides on man's back.
+- **E263** — Adulteress returns from dead as devastating dragon.
+- **E264** — Ghost drives priest into oven.
+- **E265** — Meeting ghost causes misfortune.
+- **E265.1** — Meeting ghost causes sickness.
+- **E265.1.1** — Blow received from a spirit at night; that side paralyzed.
+- **E265.1.2** — Ghost of father slaps son's face; a cancer grows there.
+- **E265.1.3** — Ghost strikes man in face, making his mouth crooked.
+- **E265.2** — Meeting ghost causes person to go mad.
+- **E265.3** — Meeting ghost causes death.
+- **E266** — Dead carry off living.
+- **E266.1** — Ghost of suicide drags people into stream.
+- **E266.1.1** — Ghost claims a life every seven years by drowning person in river.
+- **E266.2** — Ghost leads people to commit suicide.
+- **E267** — Dead tears living to pieces.
+- **E268** — Ghost (revenant) kills by spewing water from his mouth on Hallowe'en.
+- **E271** — Sea-ghosts.
+  *Ghosts which haunt the sea.*
+- **E271.1** — Ghost brings disaster on sailors.
+- **E271.2** — Sea-ghost predicting death.
+- **E272** — Road-ghosts.
+- **E272.1** — Ghost rides in cart.
+  *Horse can scarcely pull cart, later dies or goes mad.*
+- **E272.2** — Ghost rides behind rider on horse.
+- **E272.3** — Ghost frightens people off bridge into stream.
+- **E272.4** — Ghost chases pedestrian on road.
+- **E272.5** — Ghost misleads traveler on road.
+- **E273** — Churchyard ghosts.
+- **E273.1** — Ghosts prevent burial of corpse.
+- **E274** — Gallows ghost.
+  *Ghost haunts gallows.*
+- **E275** — Ghost haunts place of great accident or misfortune.
+- **E275.1** — Ghost haunts mine after tragedy.
+- **E276** — Ghosts haunt tree.
+- **E278** — Ghosts haunt spring.
+- **E279** — Malevolent revenants miscellaneous.
+- **E279.1** — The ghost haunts outside at night in human shape.
+- **E279.2** — Ghost disturbs sleeping person.
+- **E279.3** — Ghost pulls bedclothing from sleeper.
+- **E279.4** — Ghost haunts park, terrifies watchers.
+- **E279.5** — Ghost violently brands drunkard with "D".
+- **E279.6** — Ghost punishes person who molests him.
+- **E279.7** — Ghosts blow smithy into air.
+- **E280** — Ghosts haunt buildings.
+- **E281** — Ghosts haunt house.
+  *(It is sometimes hard to tell whether haunters are supposed to be ghosts or familiar spirits of some kind.)*
+- **E281.0.1** — Ghost kills man who stays in haunted house.
+- **E281.1** — Hungry ghosts haunt house seeking food.
+- **E281.2** — Ghostly horse enters house and puts hoofs on breast of sleeper.
+- **E281.3** — Ghost haunts particular room in house.
+- **E282** — Ghosts haunt castle.
+- **E283** — Ghosts haunt church.
+- **E284** — Ghost haunts cloister.
+- **E285** — Ghost haunts well, prevents drawing water after dark.
+- **E290** — Malevolent return from the dead miscellaneous.
+- **E291** — Ghosts protect hidden treasure.
+- **E291.1** — Person burying treasure kills person to supply guardian ghost.
+- **E291.2** — Form of treasure-guarding ghost.
+- **E291.2.1** — Ghost in human form guards treasure.
+- **E291.2.2** — Ghost animal guards treasure.
+- **E292** — Ghost causes storms.
+- **E293** — Ghosts frighten people (deliberately).
+- **E293.1** — Ghost scares thief, prevents theft.
+- **E293.2** — Ghost scares card players.
+- **E299** — Miscellaneous acts of malevolent ghosts.
+- **E299.1** — Ghost causes machinery to run unattended.
+- **E299.2** — Ghost prevents removal of box from abbey.
+  *The box takes on miraculous weight.*
+- **E299.3** — Ghost upsets farmers' wagons.
+- **E299.4** — Ghost breaks windows.
+- **E299.5** — Ghost unties boats, setting them adrift.
+
+## Friendly return from the dead
+
+- **E300** — Friendly return from the dead.
+- **E310** — Dead lover's friendly return.
+- **E311** — Return from dead to return and ask back love tokens.
+- **E320** — Dead relative's friendly return.
+- **E321** — Dead husband's friendly return.
+- **E321.1** — Dead husband sends his ring to his wife.
+- **E321.2** — Dead husband returns and lives with his wife.
+  *He is invisible to others.*
+- **E321.2.1** — Dead husband returns, helps wife knit socks, piece quilts.
+  *She shows his work as proof.*
+- **E321.2.2** — Dead man visits his wife every night.
+- **E321.3** — Dead husband returns, asks wife to make him coffee.
+- **E321.4** — Ghost often visits his widow and her new husband.
+- **E321.5** — Ghost appears often to wife and daughter.
+- **E322** — Dead wife's friendly return.
+- **E322.1** — Dead wife returns and bears children for husband.
+- **E322.2** — Dead wife returns to wake husband.
+- **E322.2.1** — Dead wife returns and asks husband to go with her to spirit world.
+- **E322.3** — Wife in heaven by day, with husband by night.
+- **E322.4** — Dead wife returns in form of bird.
+- **E322.5** — Man carries his dead wife with him.
+- **E322.6** — Dead wife returns to live with her husband until his death.
+- **E322.7** — Dead wife returns to another person to have him write a letter to her husband.
+- **E322.8** — Return from dead and remarriage to husband.
+- **E322.9** — Man talks to dead wife in grave.
+- **E323** — Dead mother's friendly return.
+- **E323.1** — Dead mother returns to see baby.
+- **E323.1.1** — Dead mother returns to suckle child.
+- **E323.1.2** — Dead mother returns to care for neglected baby.
+- **E323.2** — Dead mother returns to aid persecuted children.
+- **E323.2.1** — Dead mother (in animal form) returns to aid persecuted children.
+- **E323.3** — Dead mother called up from grave to give her son charms.
+- **E323.4** — Advice from dead mother.
+- **E323.5** — Mother returns to search for dead child.
+- **E323.6** — Mother returns to encourage daughter in great difficulties.
+- **E323.7** — Dead mother makes son strong.
+- **E324** — Dead child's friendly return to parents.
+  *Frequently to stop weeping.*
+- **E324.1** — Voice of son answers his mother from the grave only when called by his pet name.
+- **E324.2** — Ghost family visits grave of father.
+- **E325** — Dead sister's friendly return.
+- **E326** — Dead brother's friendly return.
+- **E327** — Dead father's friendly return.
+- **E327.1** — Dead father returns to daughter to stop her weeping.
+- **E327.2** — Dead father returns to encourage daughter in childbirth.
+- **E327.3** — Dead father returns to clear son's name of crime.
+- **E327.4** — Ghost of father returns to rebuke child.
+- **E327.5** — Dead father returns in form of bird.
+- **E330** — Locations haunted by non-malevolent dead.
+- **E332** — Non-malevolent road ghosts.
+- **E332.1** — Ghost appears at road and stream.
+- **E332.2** — Person meets ghost on road.
+- **E332.3** — Ghost on road asks traveler for ride.
+- **E332.3.1** — Ghost rides on horseback with rider.
+- **E332.3.2** — Ghost rides in carriage, disappears suddenly at certain spot.
+- **E332.3.3** — Ghost asks for ride in automobile.
+- **E332.3.3.1** — The Vanishing Hitchhiker.
+  *Ghost of young woman asks for ride in automobile, disappears from closed car without the driver's knowledge, after giving him address to which she wishes to be taken. Driver asks person at address about the rider, finds she has been dead for some time. (Often driver finds that ghost has made similar attempts to return, usually on anniversary of death in automobile accident. Often ghost leaves some item such as a scarf or a traveling bag in car.)*
+- **E332.3.3.2** — Deity as ghostly rider.
+- **E333** — Non-malevolent churchyard ghost.
+- **E334** — Non-malevolent ghost haunts scene of former misfortune, crime, or tragedy.
+- **E334.1** — Ghost haunts scene of former crime or sin.
+- **E334.2** — Ghost haunts burial spot.
+- **E334.2.1** — Ghost of murdered person haunts burial spot.
+- **E334.2.2** — Ghost of person killed in accident seen at death or burial spot.
+- **E334.2.3** — Ghost of tragic lover haunts scene of tragedy.
+- **E334.3** — Ghost of person abandoned by faithless lover.
+- **E334.4** — Ghost of suicide seen at death spot or near by.
+- **E334.5** — Ghost of soldier haunts battlefield.
+- **E336** — Non-malevolent mine ghosts.
+- **E336.1** — Helpful mine ghosts.
+- **E336.2** — Mine ghosts annoy miners.
+- **E337** — Ghost reenacts scene from own lifetime.
+- **E337.1** — Sounds of re-enacted actions.
+- **E337.1.1** — Murder sounds heard just as they must have happened at time of death.
+- **E337.1.2** — Sounds of accident re-enact tragedy.
+- **E337.1.3** — Sounds of revelry heard.
+- **E337.1.4** — Sounds of driving cattle: horse's hoofs, whip-popping, calling to cattle, rattle of spurs: ghost of slain cowboy.
+- **E337.2** — Re-enactment of tragedy seen.
+- **E337.3** — Lovers' tragedy re-enacted.
+- **E338** — Non-malevolent ghost haunts building.
+- **E338.1** — Non-malevolent ghost haunts house or castle.
+- **E338.2** — Non-malevolent ghost haunts church.
+- **E338.3** — Non-malevolent ghost haunts cloister.
+- **E340** — Return from dead to repay obligation.
+- **E341** — The grateful dead.
+- **E341.1** — Dead grateful for having corpse ransomed.
+  *Corpse is being held unburied because of nonpayment of debts. Hero pays debt and secures burial of corpse.*
+- **E341.1.1** — Dead grateful for having been spared indignity to corpse.
+  *Kind man has given it burial.*
+- **E341.2** — Dead grateful for food.
+- **E341.3** — Dead grateful for prayers.
+- **E341.4** — Dead grateful for clothes (shirt).
+- **E341.5** — Grateful priest returns to save gambler from devil.
+- **E342** — Dead return to fulfill bargain.
+- **E345** — Dead returns to repair injury.
+- **E345.1** — Dead returns to replace boundary marks he has removed.
+- **E351** — Dead returns to repay money debt.
+- **E352** — Dead returns to restore stolen goods.
+- **E353** — Dead man asks that certain girl be married to him because in life he seduced her.
+- **E360** — Other reasons for friendly return from the dead.
+- **E361** — Return from the dead to stop weeping.
+- **E361.1** — Tear from upper world of mortals falls on departed in lower world.
+  *Dead brother sends message of comfort to living.*
+- **E361.2** — Return from dead to give consoling message.
+- **E361.3** — Dead son tells mother that no mortal escapes death.
+- **E363** — Ghost returns to aid living.
+- **E363.1** — Ghost aids living in emergency.
+- **E363.1.1** — Ghost substitutes for bride on her wedding journey.
+- **E363.2** — Ghost returns to protect the living.
+- **E363.3** — Ghost warns the living.
+- **E363.4** — Dead reassures living.
+- **E363.5** — Dead provide material aid to living.
+- **E363.5.1** — Ghost of murdered girl appears and lends jewels needed for a ball in exchange for flowers.
+- **E363.6** — Ghost aids living otherwise.
+- **E364** — Dead returns to say farewell.
+- **E365** — Return from dead to ask forgiveness.
+- **E365.1** — Return of the dead to grant forgiveness.
+- **E366** — Return from dead to give counsel.
+- **E366.1** — Laughing skull advises hero.
+- **E366.2** — Hanged man warns youth against visiting sweetheart.
+  *Takes youth's place and receives shot meant for him.*
+- **E366.3** — Talking bones of eaten man advise hero.
+- **E367** — Return from dead to preach repentance.
+- **E367.1** — Person who has spent two years in hell speaks of importance of religious experience.
+- **E367.2** — Saint returns from dead to give blessing.
+- **E367.3** — Return from dead to prophesy coming of Christ.
+- **E367.4** — Return from dead to convert to Christianity.
+- **E367.5** — Ghost of woman chides unbeliever.
+- **E368** — Pupil returns from dead to warn master of futility of his studies.
+- **E371** — Return from dead to reveal hidden treasure.
+- **E371.1** — Return from dead to reveal whereabouts of stolen goods.
+- **E371.2** — Return from dead to repeat forgotten epic.
+- **E371.3** — Poet sings day after his death.
+- **E372** — Return from the dead to seek hidden treasure.
+- **E373** — Ghosts bestow gifts on living.
+- **E373.1** — Money received from ghosts as reward for bravery.
+  *A voice says: "I am letting it fall." The man: "Let it." Money falls to the ground.*
+- **E373.2** — Sword received from summoned dead father.
+- **E373.3** — Woman's hand rises from grave and gives man performing vigil letter of salvation.
+- **E373.4** — Dead returns to supply tribe with money demanded by landlord.
+- **E374** — Dead returns to life and tells of journey to land of dead.
+- **E374.1** — Return of the dead to keep promise and tell of land of the dead.
+  *Two friends promise each other that the first to die will do so.*
+- **E375** — Return from dead to prevent flight of thief.
+- **E376** — Ghost returns to confess misdeed.
+- **E376.1** — Saint returns from dead to exonerate cleric.
+- **E377** — Return from dead to teach living.
+- **E377.1** — Dead poet leaves grave mound to teach poem to herdsman: latter becomes great poet.
+- **E379** — Friendly return from the dead other motifs.
+- **E379.1** — Return from dead to rescue from drowning.
+- **E379.2** — Anchorite's body rises out of river in favor to disciple.
+- **E379.3** — Return from dead to protect friends.
+- **E379.4** — Ghost as confederate of man.
+- **E379.5** — Return from dead to make up enough men to perform ritual.
+- **E380** — Ghost summoned.
+- **E380.1** — Summoning souls punished: in hour of man's death they overwhelm him.
+- **E381** — Ghost summoned by weeping.
+- **E382** — Ghost summoned by pouring blood of sacrifices into trench.
+- **E383** — Ghosts summoned by sacred book.
+- **E384** — Ghost summoned by music.
+- **E384.1** — Ghost summoned by beating drum.
+- **E384.2** — Ghost raised inadvertently by whistling.
+- **E384.3** — Ghost summoned by blast on horn (whistle).
+- **E385** — Vigil of husband at wife's grave calls her forth.
+- **E385.1** — Husband ignored or discouraged by ghost wife.
+- **E386** — Other means of summoning ghost.
+- **E386.1** — Ghost summoned by holy water.
+- **E386.2** — Ghost summoned by charm.
+- **E386.3** — Ghosts summoned by calling them by name.
+- **E386.4** — Walking around a grave twelve times backward will raise the ghost.
+- **E386.5** — Light remark about what person would do if ghost appeared causes ghost to appear.
+- **E387** — Reasons for summoning of ghosts.
+- **E387.1** — Ghost summoned in order to talk to it.
+- **E387.1.1** — Dead called from their graves to make statement.
+- **E387.2** — Ghost summoned to get something from it.
+- **E387.2.1** — Father summoned to get his sword.
+- **E387.3** — Ghost summoned for purposes of necromancy.
+- **E389** — Ghost summoned miscellaneous.
+- **E389.1** — Ghost must be summoned by king else he appears head downward.
+- **E389.2** — Summoned ghost audible and visible only to person who has summoned him.
+- **E390** — Friendly return from the dead miscellaneous.
+
+## Ghosts and revenants miscellaneous
+
+- **E400** — Ghosts and revenants miscellaneous.
+- **E401** — Voices of dead heard from graveyard.
+- **E401.0.1** — Ghostly voice heard on battlefield.
+- **E402** — Mysterious ghostlike noises heard.
+  *(Song, animal cries, footsteps, etc.) (Cf. +E337.1, +E236.7.)*
+- **E402.1** — Noises caused by ghost of person.
+- **E402.1.1** — Vocal sounds of ghost of human being.
+- **E402.1.1.1** — Ghost calls.
+- **E402.1.1.2** — Ghost moans.
+- **E402.1.1.3** — Ghost cries and screams.
+- **E402.1.1.4** — Ghost sings.
+- **E402.1.1.5** — Ghost snores.
+- **E402.1.1.6** — Ghost sobs.
+- **E402.1.2** — Footsteps of invisible ghost heard.
+- **E402.1.3** — Invisible ghost plays musical instrument.
+- **E402.1.3.1** — Ghost sounds conch shell.
+- **E402.1.4** — Invisible ghost jingles chains.
+- **E402.1.5** — Invisible ghost makes rapping or knocking noise.
+- **E402.1.6** — Crash as of breaking glass, though no glass is found broken.
+- **E402.1.7** — Ghost slams door.
+- **E402.1.8** — Miscellaneous sounds made by ghost of human being.
+- **E402.2** — Sounds made by invisible ghosts of animals.
+- **E402.2.1** — Crowing of ghost rooster.
+- **E402.2.2** — Braying of ghost donkey.
+- **E402.2.3** — Hoofbeats of ghost horse.
+- **E402.3** — Sound made by ghostly object.
+- **E402.4** — Sound of ethereal music.
+- **E410** — The unquiet grave.
+- **E410.1** — Ground trembles or rumbles when ghost rises from grave.
+- **E410.2** — Ghost shakes off earth when he rises from grave.
+- **E411** — Dead cannot rest because of sin.
+- **E411.0.1** — Hand of sinner sticks out of grave.
+- **E411.0.2** — Unquiet dead sinner taken to priest for absolution.
+- **E411.0.2.1** — Return from dead to do penance.
+- **E411.0.2.2** — Unconfessed person cannot rest in grave.
+- **E411.0.3** — Horse unable to draw evil dead man.
+- **E411.0.3.1** — Dead body cannot be moved from where it lies.
+- **E411.0.4** — Sinner wanders between earth and heaven.
+- **E411.0.5** — Other dead drive sinner from graveyard.
+- **E411.0.5.1** — Rich man dragged from grave by demons in hallowed ground and flung into grave in unblessed ground.
+- **E411.0.6** — Earth rejects buried body.
+- **E411.0.7** — Demons cast evil man from grave leaving only his shroud.
+- **E411.0.8** — Saint's body miraculously moves so that it is laid properly north and south, not northeast and southwest.
+- **E411.1** — Murderer cannot rest in grave.
+- **E411.1.1** — Suicide cannot rest in grave.
+- **E411.1.1.1** — Suicides must walk the earth until time for their natural death.
+- **E411.2** — Adulterous person cannot rest in grave.
+- **E411.2.1** — Priest's concubine cannot rest in grave.
+- **E411.2.2** — The devil's concubine haunts after her death.
+- **E411.3** — Perjurer cannot rest in grave.
+- **E411.4** — Usurer cannot rest in grave.
+- **E411.5** — Swindler cannot rest in grave.
+- **E411.6** — Person who never said "good morning" cannot rest in grave.
+- **E411.7** — Monk who dies without his cowl cannot rest in grave.
+- **E411.8** — Pilate appears periodically at Mt. Pilatus and washes his hands.
+- **E411.9** — Magician who has sold his soul to the devil hires his servant to bury him properly: the coffin bursts.
+- **E411.10** — Persons who die violent or accidental deaths cannot rest in grave.
+- **E412** — Person under religious ban cannot rest in grave.
+- **E412.1** — Excommunicated person cannot rest in grave.
+- **E412.2** — Unbaptized person cannot rest in grave.
+- **E412.2.1** — Unchristened person cannot rest in grave nor enter heaven.
+- **E412.2.2** — Mother of unbaptized child cannot rest in grave.
+- **E412.3** — Dead without proper funeral rites cannot rest.
+- **E412.3.1** — Dead man comes back because he was buried without a cap.
+- **E412.3.2** — Naked ghost asks for shirt and promises luck on market for man.
+- **E412.3.2.1** — Ghost asks to wash his shirt.
+- **E412.3.3** — Dead man asks for shoes (was buried without them).
+- **E412.4** — Child cursed by father cannot rest in grave.
+- **E412.5** — Ghost of church desecrator cannot rest.
+- **E413** — Murdered person cannot rest in grave.
+- **E414** — Drowned person cannot rest in peace.
+- **E414.1** — Person otherwise killed by accident cannot rest in grave.
+- **E415** — Dead cannot rest until certain work is finished.
+- **E415.1** — Ghost returns to hunt lost article.
+- **E415.1.1** — Ghost unlaid until iron he hid in life is found.
+- **E415.1.2** — Return from dead to uncover secretly buried treasure.
+- **E415.2** — Dead rich man returns to rebuke his children who have kept the money he promised to the church.
+- **E415.3** — Ghost of priest cannot rest because he failed to say certain masses for the dead.
+- **E415.4** — Dead cannot rest until money debts are paid.
+- **E416** — Man who removes landmarks cannot rest in grave.
+- **E417** — Dead person speaks from grave.
+- **E419** — Other restless dead.
+- **E419.1** — Soul wanders and demands that a temple be built for him.
+- **E419.2** — Dead find no rest since someone daily knocks at grave.
+- **E419.3** — Dead find no rest since grass is pulled on grave.
+- **E419.4** — Dead move when cemetery is moved.
+- **E419.5** — Dead arise when one plays organ for first time in church.
+- **E419.6** — Lovers buried apart found in one grave each morning.
+- **E419.7** — Person with missing bodily member cannot rest in grave.
+- **E419.8** — Ghost returns to enforce its burial wishes or to protest disregard of them.
+- **E419.9** — Ghost flits between two graves reputed to contain body.
+- **E419.10** — Concern of ghost about belongings of its lifetime.
+- **E419.11** — People who bury metal cannot rest in grave.
+- **E419.12** — Fate of ghosts of persons eaten by tigers.
+- **E420** — Appearance of revenant.
+- **E421** — Spectral ghosts.
+- **E421.1** — Invisible ghosts.
+- **E421.1.1** — Ghost visible to one person alone.
+- **E421.1.1.0.1** — First-born of a family cannot see ghosts.
+- **E421.1.1.1** — Persons born at midnight can see ghosts.
+- **E421.1.1.2** — Only sorcerers can see ghosts.
+- **E421.1.2** — Ghost visible to horses alone.
+- **E421.1.3** — Ghost visible to dogs alone.
+- **E421.1.4** — Ghosts visible only to sheep.
+- **E421.1.5** — Ghosts visible only to seals.
+- **E421.1.6** — Ghost visible only to wild fowls.
+- **E421.2** — Ghosts cast no shadow.
+- **E421.2.1** — Ghost leaves no footprints.
+- **E421.3** — Luminous ghosts.
+- **E421.3.1** — Ghost as glowing wheel.
+- **E421.3.2** — Ghost as firebrand.
+- **E421.3.3** — Ghost with glowing face.
+- **E421.3.4** — Ghost as fiery bull.
+- **E421.3.5** — Ghosts in glowing wagon.
+- **E421.3.6** — Ghosts as dogs with glowing tongues and eyes.
+- **E421.3.7** — Flames issue from corpse's mouth.
+- **E421.4** — Ghosts as shadow.
+- **E421.5** — Ghost seen by two or more persons; they corroborate the appearance.
+- **E422** — The living corpse.
+  *Revenant is not a specter but has the attributes of a living person. He wanders about till his "second death", complete disintegration in the grave.*
+- **E422.0.1** — Hanged man thirsty; demands water to drink.
+- **E422.1** — Body of living corpse.
+- **E422.1.1** — Headless revenant.
+- **E422.1.1.1** — Two-headed ghost.
+- **E422.1.1.2** — Revenant with ball of fire in place of head.
+- **E422.1.1.3** — Actions of headless revenant.
+- **E422.1.1.3.1** — Headless ghost rides horse.
+- **E422.1.1.4** — Headless ghost carries head under arm.
+- **E422.1.2** — Armless revenant.
+- **E422.1.3** — Revenant with ice-cold hands.
+- **E422.1.4** — Revenant with cold lips.
+- **E422.1.5** — Revenant with bad breath.
+- **E422.1.6** — Revenant with chicken feet.
+- **E422.1.6.1** — Ghost with feet twisted backward.
+- **E422.1.6.2** — Revenant with thin legs.
+- **E422.1.7** — Revenant with chip of resin between teeth.
+- **E422.1.8** — Revenant with peculiar nails.
+- **E422.1.9** — Living corpse returns every night, shows gradual wasting away of body.
+- **E422.1.10** — Dismembered corpse.
+- **E422.1.10.1** — Dismembered corpse reassembles.
+- **E422.1.11** — Revenant as part of body.
+- **E422.1.11.1** — Revenant as an eye.
+- **E422.1.11.2** — Revenant as face or head.
+- **E422.1.11.3** — Ghost as hand or hands.
+- **E422.1.11.4** — Revenant as skeleton.
+- **E422.1.11.5** — Revenant as blood.
+- **E422.1.11.5.1** — Ineradicable bloodstain after bloody tragedy.
+- **E422.2** — Color of revenant.
+- **E422.2.1** — Revenant red.
+- **E422.2.2** — Revenant green.
+- **E422.2.3** — Revenant gray.
+- **E422.2.4** — Revenant black.
+- **E422.3** — Size of revenant.
+- **E422.3.1** — Revenant as small man.
+- **E422.3.2** — Revenant as a very large man (giant).
+- **E422.4** — Dress of revenant.
+- **E422.4.1** — Revenant with hat of birch.
+- **E422.4.2** — Ghost with bonnet pulled down over her face.
+- **E422.4.3** — Ghost in white.
+- **E422.4.4** — Revenant in female dress.
+- **E422.4.5** — Revenant in male dress.
+- **E422.4.6** — Revenant in red cap.
+- **E423** — Revenant in animal form.
+- **E423.1** — Revenant as domestic animal.
+- **E423.1.1** — Revenant as dog.
+- **E423.1.1.1** — Color of ghostly dog.
+- **E423.1.1.2** — Features of ghostly dog.
+- **E423.1.1.2.1** — Headless ghostly dog.
+- **E423.1.1.2.2** — Human-headed ghostly dog.
+- **E423.1.2** — Revenant as cat.
+- **E423.1.3** — Revenant as horse.
+- **E423.1.3.1** — Revenant as three-legged horse.
+- **E423.1.3.2** — Revenant as mare.
+- **E423.1.3.3** — Revenant as headless horse.
+- **E423.1.3.4** — Revenant as white horse.
+- **E423.1.3.5** — Actions of ghostly horse.
+- **E423.1.4** — Revenant as ass.
+- **E423.1.5** — Revenant as swine.
+- **E423.1.6** — Revenant as lamb.
+- **E423.1.7** — Revenant as ram.
+- **E423.1.8** — Revenant as cow.
+- **E423.1.8.1** — Revenant as calf.
+- **E423.1.9** — Revenant as goat.
+- **E423.2** — Revenant as wild animal.
+- **E423.2.1** — Revenant as bear.
+- **E423.2.2** — Revenant as rabbit (hare).
+- **E423.2.3** — Revenant as fox.
+- **E423.2.4** — Revenant as hedgehog.
+- **E423.2.5** — Revenant as seal.
+- **E423.2.6** — Revenant as deer.
+- **E423.2.7** — Revenant as wolf.
+- **E423.2.8** — Revenant as rat.
+- **E423.2.9** — Revenant as "man-monkey".
+- **E423.2.10** — Revenant in tiger form.
+- **E423.2.11** — Revenant as mouse.
+- **E423.2.12** — Revenant as squirrel.
+- **E423.3** — Revenant as bird.
+- **E423.3.1** — Revenant as dove.
+- **E423.3.2** — Revenant as swan.
+- **E423.3.3** — Revenant as partridge.
+- **E423.3.4** — Revenant as raven.
+- **E423.3.5** — Revenant as owl.
+- **E423.3.6** — Revenant as hen.
+  *Sometimes with chickens.*
+- **E423.3.7** — Revenant as goose.
+- **E423.3.8** — Revenant as crow.
+- **E423.3.9** — Revenant as sea-gull.
+- **E423.3.10** — Revenant as duck.
+- **E423.3.11** — Revenant as bean-goose.
+- **E423.4** — Revenant as frog.
+- **E423.5** — Revenant as snake (serpent).
+- **E423.6** — Revenant as centaur.
+- **E423.7** — Revenant as fly.
+- **E423.8** — Revenant as spider.
+- **E423.9** — Revenant as eel.
+- **E424** — Revenant as dwarf.
+- **E425** — Revenant in human form.
+- **E425.1** — Revenant as woman.
+- **E425.1.1** — Revenant as lady in white.
+- **E425.1.2** — Revenant as naked woman.
+- **E425.1.3** — Revenant as seductive woman.
+- **E425.1.4** — Revenant as woman carrying baby.
+- **E425.1.5** — Revenant as woman riding hog.
+- **E425.1.6** — Revenant as horrible female figure.
+  *Covered with snakes and toads.*
+- **E425.1.7** — Revenant as woman with seal's head.
+- **E425.2** — Revenant as man.
+- **E425.2.1** — Revenant as old man.
+- **E425.2.2** — Revenant as man with horse's head.
+- **E425.2.3** — Revenant as priest or parson.
+- **E425.2.4** — Revenant as American Indian.
+- **E425.2.5** — Revenant as piper.
+- **E425.3** — Revenant as child.
+- **E426** — Revenant as object.
+- **E426.1** — Ghost in shape of a bag.
+- **E426.2** — Revenant as a rolling cask.
+- **E430** — Defense against ghosts and the dead.
+- **E431** — Precautions at funeral against revenant.
+- **E431.0.1** — Test for presence of demons in corpses.
+- **E431.1** — Burial service read into hat to prevent dead walking.
+- **E431.2** — Water thrown on corpse to prevent return.
+- **E431.3** — Mould thrown on corpse to prevent return.
+- **E431.4** — Coffin carried through hole in wall to prevent return of dead.
+- **E431.5** — Limbs of dead fettered to prevent return.
+- **E431.6** — Turf laid on breast of dead to prevent return.
+- **E431.7** — Beheaded man's head laid at feet to prevent return.
+- **E431.7.1** — Beheaded man's head laid at back to prevent return.
+- **E431.7.2** — Decapitating in order to prevent return.
+- **E431.7.2.1** — Head of beheaded man separated from body (by walking between them) to prevent return.
+- **E431.8** — Dog buried alive to prevent ghosts from walking.
+- **E431.9** — Ashes of dead thrown on water to prevent return.
+- **E431.9.1** — Head of corpse thrown on water to prevent return.
+- **E431.9.2** — Corpses thrown in water to prevent return.
+- **E431.10** — Corpse buried under stone so that sun will not shine on him again.
+- **E431.10.1** — Corpse buried under stones.
+- **E431.11** — Coin placed in mouth of dead to prevent return.
+- **E431.12** — Pins stuck in soles of dead man's feet to prevent return.
+- **E431.13** — Corpse burned to prevent return.
+- **E431.14** — Tall wall around grave to prevent return.
+- **E431.15** — People touch corpse before burial to avoid seeing ghost of dead person after burial.
+- **E431.16** — Burial of suicide to prevent walking.
+- **E431.16.1** — Suicide buried head (or face) downward.
+  *(If corpse moves it. only goes deeper into ground.)*
+- **E431.16.2** — Suicide buried with stake through heart (body).
+- **E431.16.3** — Suicide buried at crossroads.
+- **E431.17** — Criminals buried at crossroads to prevent walking.
+- **E431.18** — Body cut up and buried in vessels, buried in bag.
+- **E431.19** — Burial of corpse at midnight to prevent walking.
+- **E431.20** — Coffin with iron band made to keep corpse from returning as tiger.
+- **E432** — Ghost deceived.
+- **E432.1** — Haunting ghost deceived so that he cannot find road to return.
+- **E432.2** — Dead man visiting wife deceived by wife's absurd actions "no more absurd than ghost visiting wife".
+- **E432.3** — Woman drying hair scares soul returning from the dead.
+- **E433** — Ghosts placated by sacrifices.
+- **E433.1** — Mould put on table for the dead.
+- **E433.2** — Possessions buried with dead.
+- **E433.3** — Animals sacrificed so that dead have food on way to other world.
+- **E433.4** — Ghosts pleased by human sacrifices.
+- **E433.4.1** — Ghosts killed by sacrifice of buffaloes.
+- **E434** — Magic protection against revenants.
+- **E434.1** — Hiding from ghosts under church bell.
+- **E434.2** — Hiding from ghosts in pulpit.
+- **E434.3** — Ghosts cannot cross rapid stream.
+- **E434.4** — Ghosts cannot pass crossroads.
+- **E434.5** — Steel as protection against revenants.
+- **E434.6** — Keys as protection against revenants.
+- **E434.7** — Knives as protection against revenants.
+- **E434.8** — Ghost cannot pass cross or prayerbook.
+- **E434.8.1** — Ghost cannot harm person wearing a cross.
+- **E434.9** — Candle light protection against ghost.
+- **E434.10** — Ghost cannot cross new door sill.
+- **E436** — Ghost detected.
+- **E436.1** — Ghost detected by strewing ashes.
+  *Their footprints remain in the ashes.*
+- **E436.2** — Cats crossing one's path sign of ghosts.
+- **E436.3** — Bats flying in house sign of ghosts.
+- **E437** — Revenants banished.
+- **E437.1** — Revenants banished to glaciers and uninhabited places.
+- **E437.2** — Ghost laid in body of water.
+- **E437.3** — Ghost driven into body of dead crow, buried under path.
+- **E437.4** — Ghost laid under stone.
+- **E437.5** — Ghost laid under tree.
+- **E437.6** — Ghost laid and confined inside building.
+- **E437.7** — Ghost laid and confined in sheepfold.
+- **E439** — Other protection against revenants.
+- **E439.1** — Revenant forced away by shooting.
+- **E439.2** — Dwarfs magically keep ghosts from rising.
+- **E439.3** — Dog saves man from malevolent living corpse.
+  *Dog killed, man safe.*
+- **E439.4** — Seeds of poppy poured into revenant's mouth.
+- **E439.5** — Revenant forced away by fire.
+- **E439.6** — Ghosts cannot come near spayed bitch.
+- **E439.7** — Ghost will not approach a light left burning.
+- **E439.8** — Ghost will vanish if seer walks around it nine times.
+- **E439.9** — Ghost will not return if door is removed and hung backwards.
+- **E439.10** — Ghost will not come near person who anoints self with new honey.
+- **E440** — Walking ghost "laid".
+- **E441** — Ghost laid by reburial.
+- **E441.1** — Ghost laid when leg is buried.
+- **E441.2** — Ghost laid by placing stones in throat of the corpse.
+- **E441.3** — Corpse exhumed and heart cremated to lay ghost.
+- **E442** — Ghost laid by piercing grave (corpse) with stake.
+- **E442.1** — Hunting woman beaten with sticks of rowan-tree and ankles of corpse tied with branches of same tree.
+- **E442.2** — Ghost laid by burial outside village on far side of stream, with four iron nails driven into the corners of the grave.
+- **E443** — Ghost exorcized and laid.
+- **E443.0.1** — Laying ghost causes great storm.
+- **E443.0.2** — Protection during ghost-laying ceremony.
+- **E443.1** — Ghost laid by blessing grave.
+- **E443.2** — Ghost laid by prayer.
+- **E443.2.1** — Ghost laid by saying masses.
+- **E443.2.1.1** — The dead man: "Sell my golden teeth and pay for a mass for my soul."
+- **E443.2.2** — Ghost laid by formulistic prayer.
+- **E443.2.3** — Ghost laid by confessor to priest.
+- **E443.2.4** — Ghost laid by priest (minister).
+- **E443.2.4.1** — Ghost laid by group of ministers.
+  *By prayer and services, usually with "bell, book, and candle" or some modification of the procedure.*
+- **E443.3** — Ghosts exorcized by name.
+- **E443.4** — Ghost laid by raising a cross.
+- **E443.5** — Ghost laid by adjuring it to leave "in the name of God."
+- **E443.6** — Ghost laid by baptizing children in its presence.
+- **E443.7** — Ghost laid by fasting.
+- **E443.8** — Ghost laid by Bible.
+- **E443.9** — Ghost laid by consecrated water.
+- **E444** — Ghost laid by talisman.
+- **E445** — Ghost laid by barring off.
+- **E445.1** — Ghost comes through certain crevice: when this is barred she never returns.
+- **E446** — Ghost killed and thus finally laid.
+- **E446.1** — Corpse magically killed and laid.
+- **E446.2** — Ghost laid by burning body.
+- **E446.2.1** — Ghost laid by burning lock of hair.
+- **E446.3** — Ghost laid by decapitating body.
+- **E446.3.1** — Ghost laid by beating body to pieces.
+- **E446.4** — Slain ghost carried off by other ghosts.
+- **E446.5** — Ghost laid by pushing it into water.
+- **E451** — Ghost finds rest when certain thing happens.
+- **E451.1** — Ghost laid when crime has been confessed.
+- **E451.1.1** — Corpse cannot be laid until after he has confided the secret of magic charms.
+- **E451.2** — Ghost laid when penance is done.
+- **E451.3** — Ghost laid when vow is fulfilled.
+- **E451.4** — Ghost laid when living man speaks to it.
+- **E451.4.1** — Ghost asked to identify self "in name of God."
+- **E451.5** — Ghost laid when treasure is unearthed.
+- **E451.5.1** — Money must be distributed to beggars so that ghost may be laid.
+- **E451.6** — Beggar's ghost laid when pig bought with money taken from him is brought to his grave.
+  *Sinks in grave.*
+- **E451.7** — Bearded woman ghost laid by shaving her.
+- **E451.8** — Ghost laid when house it haunts is destroyed or changed.
+- **E451.9** — Ghost laid when revenge is accomplished.
+- **E451.10** — Ghost laid when rest of poem is recited.
+- **E452** — Ghost laid at cockcrow (dawn).
+- **E452.1** — Dead quiescent during day.
+- **E452.2** — Ghost invisible during day.
+- **E453** — Ghost transformed into animal.
+- **E454** — Ghost is laid by giving it a never-ending or impossible task.
+- **E456** — Man raises corpses and gets their shrouds, then "lays" them again.
+- **E459** — Other exorcism practices.
+- **E459.1** — Ghost demands a body and soul before it will agree to be laid.
+  *Monk provides cock and sole of shoe.*
+- **E459.2** — Ghost laid when bones are brought to home country from foreign soil.
+- **E459.3** — Ghost laid when its wishes are acceded to.
+- **E459.4** — Ghost bound and jailed.
+- **E459.5** — Ghost laid at midnight.
+- **E459.6** — Ghost laid by burying bell from church in one pond, the clapper in another.
+  *If the two ever come together again, the ghost can walk.*
+- **E459.7** — Ghost laid when his skull is thrown into the Ganges.
+- **E460** — Revenants in conflict.
+- **E461** — Fight of revenant with living person.
+- **E461.1** — Revenant challenged to combat.
+- **E461.2** — Fight of living person with dead in the grave.
+- **E462** — Revenant overawed by living person.
+- **E463** — Living man in dead man's shroud.
+  *Refuses to let corpse return to grave before he tells how to resuscitate woman living man has killed.*
+- **E464** — Revenant tricked or jeered into a bottle, corked up and put in safe place.
+- **E465** — Revenant rewards its conqueror.
+- **E467** — Revenants fight each other.
+- **E467.1** — Two dead men struggle over living man.
+- **E470** — Intimate relations of dead and living.
+- **E471** — Ghost kisses living person.
+- **E472** — Revenant sleeps in same bed with living but without contact.
+- **E474** — Cohabitation of living person and ghost.
+  *This usually involves sexual relations.*
+- **E474.1** — Offspring of living and dead person.
+- **E477** — Body in coffin moves so as to make room for his recently deceased friend.
+- **E480** — Abode of the dead.
+- **E480.1** — Abode of animal souls.
+- **E480.2** — Three worlds of dead.
+- **E480.3** — Men must enter spirit world armed.
+- **E481** — Land of the dead.
+- **E481.0.1** — Spain as land of the dead.
+- **E481.0.2** — Quarrel of dead and living causes removal of dead to own land.
+- **E481.1** — Land of dead in lower world.
+- **E481.1.1** — Old woman ruler of dead in lower world.
+- **E481.1.2** — Houses in lower world of dead.
+- **E481.2** — Land of dead across water.
+- **E481.2.0.1** — Island of the dead.
+- **E481.2.1** — Bridge to land of dead.
+- **E481.2.1.1** — Frightening thing at bridge to land of dead.
+- **E481.2.1.2** — Unstable bridge to land of dead.
+- **E481.2.2** — Boat to land of dead.
+- **E481.3** — Abode of dead in mountain.
+- **E481.3.1** — Abode of the dead in hills, barrows.
+- **E481.3.2** — Abode of the dead in stones.
+- **E481.4** — Beautiful land of dead.
+  *(Rosengarten).*
+- **E481.4.1** — Avalon.
+- **E481.5** — Ghost lives midway between heaven and earth.
+- **E481.6** — Land of dead in one of the cardinal directions.
+- **E481.6.1** — Land of dead in north.
+- **E481.6.2** — Land of dead in west.
+- **E481.6.3** — Land of dead in east.
+- **E481.7** — Icy inferno.
+- **E481.8** — Land of dead in sky.
+- **E481.8.1** — Account book of men summoned to death kept in heaven.
+- **E481.8.2** — Moon as land of dead.
+- **E481.8.3** — Venus as land of dead.
+- **E481.8.4** — Dead in house of cloud.
+- **E481.9** — King of world of dead.
+- **E482** — Land of shades.
+  *Everything is done by unseen people.*
+- **E485** — Land of skulls.
+- **E485.1** — Land of skeletons.
+- **E487** — Glowing beds of dead.
+  *Youth in land of dead puts staff into one of the beds. The iron glows and the wood burns.*
+- **E489** — Abode of the dead miscellaneous.
+- **E489.1** — Dead awaken after three days to new life and great wisdom.
+- **E489.2** — Life in land of dead contrary to ours.
+  *People grow younger and smaller till they become nothing and are reborn.*
+- **E489.3** — Forgetting Charon's fee.
+  *Philosopher forgets to put coin in mouth before death (Charon's fee). Charon: "Don't you know the custom?" Answer: "Yes, but I couldn't put off dying for a quarter!"*
+- **E489.4** — Man's spirit in land of dead prophesies his own future death.
+- **E489.5** — Dancing in afterworld.
+- **E489.6** — Culture hero gambles with ruler of the afterworld: result, death or increase in game.
+- **E489.7** — Judas Iscariot appears in midst of sea on rock washed alternately by fiery and icy waves.
+- **E489.8** — Why living cannot go to land of the dead.
+- **E489.9** — In land of dead the dead walk on grass without bending it and on mud without sinking.
+- **E489.10** — Land of dead "in Abraham's bosom".
+- **E489.11** — Inhabitants of land of dead have great thirst.
+- **E490** — Meetings of the dead.
+- **E491** — Procession of the dead.
+- **E492** — Mass (church service) of the dead.
+  *Held at midnight.*
+- **E493** — Dead men dance.
+- **E494** — Ball game in lower world.
+- **E495** — Wedding of the dead.
+- **E495.1** — Ghostly marriage party.
+- **E495.2** — Marriage (ceremony) to a ghost.
+- **E496** — Ghosts gathered on a bridge.
+- **E497** — Fighting warriors show the way of their past life and of their death.
+- **E499** — Meetings of the dead miscellaneous.
+- **E499.1** — Gay banquet of the dead.
+- **E499.2** — Orchestra of ghosts.
+- **E499.3** — Pot so heavy with ghosts that girl cannot lift it.
+- **E499.4** — Dead in lower world complain about odor of human visitor.
+
+## Phantom hosts
+
+- **E500** — Phantom hosts.
+- **E501** — The Wild Hunt.
+- **E501.1** — Leader of the Wild Hunt.
+- **E501.1.1** — King as wild huntsman.
+- **E501.1.2** — Nobleman as wild huntsman.
+- **E501.1.3** — Rich man as wild huntsman.
+- **E501.1.4** — Forester as wild huntsman.
+- **E501.1.5** — Freemason as wild huntsman.
+- **E501.1.6** — Saint as leader of wild hunt.
+- **E501.1.7** — Historic or romantic hero as leader of wild hunt.
+- **E501.1.7.1** — King Herla as wild huntsman.
+- **E501.1.7.2** — Theodoric as wild huntsman.
+- **E501.1.7.3** — Wild Edric as leader of Wild Hunt.
+- **E501.1.8** — Woman as leader of wild hunt.
+  *Favorites are Herodias, Diana, Frau Holle.*
+- **E501.1.8.1** — Herodias as leader of wild hunt.
+- **E501.1.8.2** — Artemis as leader of wild hunt.
+- **E501.1.8.3** — Hecate as leader of wild hunt.
+- **E501.2** — Participants in wild hunt.
+- **E501.2.1** — Knights in wild hunt.
+- **E501.2.2** — Ladies in wild hunt.
+- **E501.2.3** — Witches in wild hunt.
+- **E501.2.4** — Courtisans in wild hunt.
+- **E501.2.5** — Churchmen in wild hunt.
+- **E501.2.6** — Soldiers in wild hunt.
+- **E501.2.7** — Unbaptized children in wild hunt.
+- **E501.3** — Wild huntsmen wander because of sin.
+- **E501.3.1** — Wild huntsman wanders because of cruelty.
+- **E501.3.2** — Wild huntsman wanders because of suicide.
+- **E501.3.3** — Wild huntsman wanders because of parricide.
+- **E501.3.4** — Wild huntsman wanders because of unshriven death.
+- **E501.3.5** — Wild huntsman wanders for failure to keep fast day.
+- **E501.3.6** — Wild huntsman wanders for hunting on Sunday.
+- **E501.3.7** — Wild huntsman wanders because he wished to continue hunt after death.
+- **E501.3.8** — Wild huntsman wanders for disturbing church service.
+- **E501.3.9** — Wild huntsmen cannot die until evil in world has been made right and things return as they had been.
+- **E501.3.10** — Wild huntswoman wanders because of murder of daughter.
+- **E501.4** — Animals follow wild huntsman.
+- **E501.4.0.1** — Animals in wild hunt reincarnation of murdered person.
+- **E501.4.1** — Dogs in wild hunt.
+- **E501.4.1.1** — Enormous pack of dogs in wild hunt.
+  *Overcome people by their mass.*
+- **E501.4.1.2** — Dogs with fiery tongues in wild hunt.
+- **E501.4.1.3** — Dogs with fiery eyes in wild hunt.
+- **E501.4.1.4** — Dogs with eyes hanging out over mouth in wild hunt.
+- **E501.4.1.5** — Black dogs in wild hunt.
+- **E501.4.1.6** — Three-legged dogs in wild hunt.
+- **E501.4.1.7** — Winged dogs in wild hunt.
+- **E501.4.1.8** — Dogs in single file in wild hunt.
+- **E501.4.1.9** — Dogs on leash in wild hunt.
+- **E501.4.1.10** — Baying dogs in wild hunt.
+- **E501.4.2** — Wild huntsman's horse.
+- **E501.4.2.1** — White horse in wild hunt.
+- **E501.4.2.2** — Black horse in wild hunt.
+- **E501.4.2.3** — Brown horse in wild hunt.
+- **E501.4.2.4** — Horse in wild hunt breathes fire.
+- **E501.4.2.5** — Horse with fiery eyes in wild hunt.
+- **E501.4.2.6** — Two-legged horse in wild hunt.
+- **E501.4.2.7** — Headless horse in wild hunt.
+- **E501.4.3** — Boar (sow) in wild hunt.
+- **E501.4.3.1** — One-eyed sow in wild hunt.
+- **E501.4.3.2** — Blind wild boar in wild hunt.
+- **E501.4.4** — Two ravens follow wild huntsman.
+- **E501.4.5** — Owl (ghost of nun) in wild hunt.
+- **E501.5** — Object of wild hunt's pursuit.
+- **E501.5.1** — Wild hunter pursues a woman.
+- **E501.5.1.1** — Naked woman pursued and cut in two by rider.
+- **E501.5.1.2** — Prostitutes pursued in wild hunt.
+- **E501.5.1.3** — Witches pursued in wild hunt.
+- **E501.5.2** — Fairies pursued in wild hunt.
+- **E501.5.3** — Wood-spirits pursued in wild hunt.
+- **E501.5.4** — Unbaptized children pursued in wild hunt.
+- **E501.5.5** — Animals pursued in wild hunt.
+- **E501.5.5.1** — Hare pursued in wild hunt.
+- **E501.5.5.2** — Deer pursued in wild hunt.
+- **E501.6** — Ghostly warner of wild hunt's approach.
+- **E501.7** — Personal appearance of wild huntsmen.
+- **E501.7.1** — Wild huntsmen headless.
+- **E501.7.2** — Wild huntsmen with deer-heads.
+- **E501.7.3** — Wild huntsmen with heads on backward.
+- **E501.7.4** — Wild huntsmen carrying skull under arms.
+- **E501.7.5** — Wild huntsmen with entrails stringing from open bodies.
+- **E501.7.6** — Wild huntsmen luminous.
+- **E501.7.6.1** — Wild huntsmen exhale fire.
+- **E501.7.6.2** — Wild huntsmen have fiery eyes.
+- **E501.7.6.3** — Wild huntsmen leave fiery tracks.
+- **E501.7.6.4** — Wild huntsmen surrounded by fire.
+- **E501.7.7** — Wild huntsmen with long hair.
+- **E501.8** — Clothing of wild huntsmen.
+- **E501.8.1** — Wild huntsmen dressed in black.
+- **E501.8.2** — Wild huntsmen dressed in red.
+- **E501.8.3** — Wild huntsmen dressed in white.
+- **E501.8.4** — Wild huntsmen dressed in ancient costume.
+- **E501.8.5** — Wild huntsmen belted and tied up.
+- **E501.8.6** — Wild huntsman with black fur cap and white staff.
+- **E501.9** — Wild huntsmen invisible.
+- **E501.10** — Objects as part of wild hunt.
+- **E501.10.1** — Empty shoe follows wild hunt.
+- **E501.10.2** — Worn-out broom at head of wild hunt.
+- **E501.10.3** — Wagon accompanies wild hunt.
+- **E501.11** — Time of appearance of wild hunt.
+- **E501.11.1** — Wild hunt appears at night.
+- **E501.11.1.1** — Wild hunt appears at midnight.
+- **E501.11.1.2** — Wild hunt abroad until cockcrow.
+- **E501.11.1.3** — Wild hunt appears on St. John's Night.
+- **E501.11.1.4** — Wild hunt appears on stormy nights.
+- **E501.11.2** — Wild hunt appears at certain seasons.
+- **E501.11.2.1** — Wild hunt appears in winter.
+- **E501.11.2.2** — Wild hunt appears between Christmas and Twelfth Night.
+- **E501.11.2.3** — Wild hunt appears on feast-days.
+- **E501.11.3** — Wild hunt appears periodically.
+- **E501.11.3.1** — Wild hunt appears every seven years.
+- **E501.11.3.2** — Wild hunt appears yearly at same moment.
+- **E501.12** — Place of appearance of wild hunt.
+- **E501.12.1** — Wild hunt appears in woods.
+- **E501.12.2** — Wild hunt appears in churchyard.
+- **E501.12.3** — Wild hunt appears at crossroads.
+- **E501.12.4** — Wild hunt appears by body of water.
+- **E501.12.5** — Wild hunt appears by hill or mountain.
+- **E501.12.6** — Wild hunt appears in a field.
+- **E501.12.6.1** — Wild hunt appears in old battlefield.
+- **E501.12.7** — Wild hunt appears at desert spot.
+- **E501.12.8** — Wild hunt appears at castle.
+- **E501.12.9** — Wild hunt appears over city.
+- **E501.12.10** — Wild hunt appears at old mill.
+- **E501.13** — Phenomena at appearance of wild hunt.
+- **E501.13.1** — Wild hunt heralded by noise.
+- **E501.13.1.1** — Wild hunt heralded by detonation.
+- **E501.13.1.2** — Wild hunt heralded by rattle of chains.
+- **E501.13.1.3** — Wild hunt heralded by clash of swords.
+- **E501.13.1.4** — Wild hunt heralded by ringing of bells.
+- **E501.13.2** — Wild hunt heralded by music.
+- **E501.13.3** — Wild hunt heralded by noise of horses.
+- **E501.13.3.1** — Wild hunt heralded by stamping of horses.
+- **E501.13.3.2** — Wild hunt heralded by neighing of horses.
+- **E501.13.4** — Wild hunt heralded by baying of hounds.
+- **E501.13.5** — Wild hunt heralded by shouts of huntsmen.
+- **E501.13.6** — Wild hunt heralded by storm.
+- **E501.13.7** — Wild hunt heralded by fire.
+- **E501.14** — Course of wild hunt.
+- **E501.14.1** — Wild hunt chases in air.
+- **E501.14.1.1** — Wild hunt in air very close to ground.
+- **E501.14.2** — Wild hunt courses in particular direction.
+- **E501.14.3** — Wild hunt goes thrice around pond.
+- **E501.14.4** — Wild hunt goes several times around a hill.
+- **E501.14.5** — Wild hunt goes around the entire earth.
+- **E501.14.6** — Wild hunt goes through houses when front and back doors are on a line.
+- **E501.15** — Behavior of wild huntsmen.
+- **E501.15.1** — Wild huntsman blows horn.
+- **E501.15.2** — Wild huntsman has his horse beaten.
+- **E501.15.3** — Wild huntsman makes people carry him on their backs.
+- **E501.15.4** — Wild huntsman repays with leaves (shavings) that turn to gold.
+- **E501.15.5** — Living smith must repair wagon belonging to wild hunt.
+- **E501.15.6** — Behavior of wild huntsman's dogs.
+- **E501.15.6.1** — Wild huntsman asks people to hold his dogs.
+- **E501.15.6.2** — Wild huntsman turns his dogs loose on those he meets.
+- **E501.15.6.3** — Bite of wild huntsman's dogs drives other dogs mad.
+- **E501.15.6.4** — Wild huntsman's dogs cannot pass over grave.
+  *Must be lifted over.*
+- **E501.15.6.5** — Wild huntsman's dog cannot be dislodged from house it has entered.
+- **E501.15.6.6** — Wild huntsman's dogs eat dough, bread, meal, etc.
+- **E501.15.6.7** — Wild huntsman's dog when seized becomes stick (black coal).
+- **E501.15.7** — Wild huntsman waters his horse.
+- **E501.15.8** — Wild huntsman lives in room on farm.
+- **E501.16** — Phenomena at disappearance of wild hunt.
+- **E501.16.1** — Wild hunt disappears with loud noise.
+- **E501.16.2** — Wild hunt disappears with movement of tree tops.
+- **E501.16.3** — Wild hunt disappears with blast of wind.
+- **E501.16.4** — Wild hunt disappears in column of fire.
+- **E501.16.5** — Wild hunt disappears during storm.
+- **E501.17** — Evading or combating the wild hunt.
+- **E501.17.1** — Wild hunt powerless against certain persons.
+- **E501.17.1.1** — Wild hunt powerless against herdsmen.
+- **E501.17.1.2** — Wild hunt powerless against churchmen.
+- **E501.17.2** — Wild hunt powerless beyond certain range.
+- **E501.17.3** — Wild hunt powerless at crossroads.
+- **E501.17.4** — Wild hunt's power evaded.
+- **E501.17.4.1** — Power of wild hunt evaded by prayer.
+- **E501.17.4.2** — Power of wild hunt evaded by formula.
+- **E501.17.4.3** — Power of wild hunt evaded by sacrificing to huntsman's dogs.
+- **E501.17.4.4** — Power of wild hunt evaded by silence.
+- **E501.17.5** — Wild hunt avoided.
+- **E501.17.5.1** — Wild hunt avoided by keeping on one's road.
+  *Sometimes in middle of road or on right side of road.*
+- **E501.17.5.2** — Wild hunt avoided by getting out of its course.
+- **E501.17.5.3** — Wild hunt avoided by keeping in house with windows closed.
+- **E501.17.5.4** — Wild hunt avoided by throwing self to earth.
+- **E501.17.5.5** — Wild hunt avoided by staying within circle.
+- **E501.17.5.6** — Wild hunt avoided by holding bread.
+- **E501.17.5.7** — Wild hunt avoided by holding certain plant.
+- **E501.17.5.8** — Sound of wild hunt avoided by sticking fingers in ears.
+- **E501.17.6** — Wild huntsman pacified.
+- **E501.17.6.1** — Wild huntsman pacified by sacrifice.
+- **E501.17.6.2** — Wild huntsman pacified with food.
+- **E501.17.7** — Wild huntsman released from wandering.
+- **E501.17.7.1** — Wild huntsman released from wandering by mould from Christ's grave.
+- **E501.17.8** — Wild hunt forced to depart.
+- **E501.17.8.1** — Wild hunt frightened away by scolding.
+- **E501.18** — Evil effects of meeting wild hunt.
+- **E501.18.1** — Wild hunt harmful to certain persons.
+- **E501.18.1.1** — Wild hunt harmful to mockers.
+- **E501.18.1.2** — Wild hunt harmful to thieves.
+- **E501.18.1.3** — Wild hunt harmful to the curious.
+- **E501.18.1.3.1** — Wild hunt throws down man's dead child when asked for part of game.
+- **E501.18.2** — Wild hunt throws human flesh on persons who see it.
+  *This cannot be removed.*
+- **E501.18.3** — Wild hunt throws horses' feet on persons who see it.
+  *This cannot be removed.*
+- **E501.18.4** — Wild hunt carries person off.
+- **E501.18.5** — Wild hunt throws person to ground.
+- **E501.18.6** — Sight of wild hunt renders person insane.
+- **E501.18.7** — Sight of wild hunt blinds person.
+- **E501.18.8** — Sight of wild hunt causes swelling of head.
+- **E501.18.9** — Sight of wild hunt causes one to stick axe or knife in foot.
+- **E501.18.10** — Sight of wild hunt causes death.
+- **E501.19** — Remedy for effects of seeing wild hunt.
+- **E501.19.1** — Effects of wild hunt remedied by seeing it a year later in same place.
+- **E501.19.2** — Effects of wild hunt remedied by asking the huntsmen for salt.
+- **E501.19.3** — Effects of wild hunt remedied by asking the huntsmen for parsley.
+- **E501.19.4** — Effects of wild hunt remedied by asking to partake in booty of hunt.
+  *This booty is the same kind as the hunt has already thrown down.*
+- **E501.19.5** — Effects of wild hunt remedied by eating part of flesh thrown down by it.
+- **E501.19.6** — Effects of wild hunt remedied by prayer.
+- **E501.20** — Wild hunt as omen.
+- **E501.20.1** — Wild hunt as omen of disaster.
+- **E501.20.1.1** — Wild hunt as omen of war.
+- **E501.20.1.2** — Wild hunt as omen of pestilence.
+- **E501.20.2** — Wild hunt as omen of plentiful year.
+- **E501.20.3** — Wild hunt as weather omen.
+- **E502** — The Sleeping Army.
+  *Soldiers killed in battle come forth on occasions from their resting place (hill, grave, grotto) and march about or send their leader to do so.*
+- **E510** — Phantom sailors and travelers.
+- **E511** — The Flying Dutchman.
+  *A sea captain because of his wickedness sails his phantom ship eternally without coming to harbor.*
+- **E511.1** — Reason for Flying Dutchman's punishment.
+- **E511.1.1** — Flying Dutchman sails because of cruelty.
+- **E511.1.2** — Flying Dutchman sails because of pact with Devil.
+- **E511.1.3** — Flying Dutchman sails because he defied the storm.
+- **E511.2** — Flying Dutchman's ship.
+- **E511.2.1** — Flying Dutchman has dead men as sailors.
+- **E512** — Phantom cart driver wanders because of blasphemy.
+  *"Peter Rugg the Missing Man." Boasts that he will reach home despite storm or never see his home again. He always travels in hard shower of rain or just ahead of one.*
+- **E520** — Animal ghosts.
+- **E521** — Ghost of domestic beast.
+- **E521.1** — Ghost of horse.
+- **E521.1.1** — Headless ghost of horse.
+- **E521.1.2** — Three-legged ghost of horse.
+- **E521.1.3** — Ghost of race horse wins race in competition with living horses.
+- **E521.2** — Ghost of dog.
+- **E521.2.1** — Ashes of dead dog speak.
+- **E521.2.2** — Headless ghost of dog.
+- **E521.3** — Ghost of cat.
+- **E521.4** — Ghost of calf.
+- **E521.5** — Ghost of hog.
+- **E521.5.0.1** — Headless ghost of hog.
+- **E521.5.1** — Ghost of sow.
+- **E522** — Ghost of wild beast.
+- **E522.1** — Ghost of fox (Cf.  +E423.2.3.)
+- **E522.2** — Ghost of bear.
+- **E523** — Ghost of fish.
+- **E524** — Ghost of bird.
+- **E524.1** — Ghost of goose.
+- **E524.2** — Ghost of cock.
+- **E524.2.1** — Cooked cock crows.
+- **E530** — Ghosts of objects.
+- **E530.1** — Ghost-like lights.
+- **E530.1.1** — Ghost light follows ghost.
+- **E530.1.2** — Ball of fire haunts murderer.
+- **E530.1.3** — Ghost light haunts burial spot.
+- **E530.1.4** — Ghost light on farm indicates that occupants will move shortly.
+- **E530.1.5** — Ghost light indicates impending calamity.
+- **E530.1.6** — Ghost light serves as death omen.
+- **E530.1.7** — Ghost light indicates route funeral will take.
+- **E531** — Ghost-like building.
+- **E532** — Ghost-like picture.
+- **E533** — Ghostly bell.
+- **E533.1** — Ghostly bell sounds from under water.
+- **E533.2** — Self-tolling bell.
+- **E534** — Phantom spinning-wheel makes noise.
+- **E535** — Ghostlike conveyance (wagon, etc.).
+- **E535.1** — Phantom coach and horses.
+- **E535.2** — Ghostly wagon.
+- **E535.3** — Ghost ship.
+- **E535.3.1** — Phantom canoe.
+- **E535.3.2** — Phantom boat.
+- **E535.4** — Phantom railway train.
+- **E538** — Ghoulish ghost objects.
+- **E538.1** — Spectral coffin.
+- **E538.2** — Ghostly rope of suicide appears.
+- **E539** — Other ghostly objects.
+- **E539.1** — Oven door jumps into room; money thought to be under spot where it lands.
+- **E539.2** — Pot jumps in house to indicate money hidden underneath it.
+- **E539.3** — Ghostly wool-packs roll over fields, down hill.
+- **E539.4** — Ghostly chair.
+- **E539.4.1** — Ghostly chair in cellar jumps up and down on three legs, points with fourth at spot on floor.
+  *Witnesses dig up body from under floor.*
+- **E539.5** — Coal in bin jumps around and gurgles.
+- **E540** — Miscellaneous actions of revenants.
+- **E541** — Revenants eat.
+- **E541.1** — Food placed out for returning souls of dead.
+- **E541.2** — Ghost eats living human beings.
+- **E541.3** — Dead come forth and eat grave-offerings.
+- **E541.4** — Revenants drink.
+- **E541.4.1** — Amputated head asks for drink.
+- **E541.5** — Dead beg food from living.
+- **E542** — Dead man touches living.
+- **E542.1** — Ghostly fingers leave mark on person's body.
+- **E542.1.1** — Ghostly fingers leave mark on man's hand.
+- **E542.1.2** — Ghost touches man's neck, leaves impression of hand on neck.
+- **E542.1.3** — Ghost strikes man on mouth; leaves his mouth crooked.
+- **E542.1.4** — Ghost strikes man on face.
+- **E542.1.4.1** — Ghost strikes man on face: cancer grows there.
+- **E542.1.4.2** — Ghost strikes man on face: marks remain permanently.
+- **E542.2** — Dead man's hand touches birthmark and thus removes it.
+- **E542.3** — Ghost throws man into ditch, leaving his side numb.
+- **E542.4** — Ghost touches man's hat, scorching it and turning lock of his hair white.
+- **E543** — Dead drag boat to strand.
+- **E544** — Ghost leaves evidence of his appearance.
+- **E544.1** — Ghost leaves object after appearance.
+- **E544.1.1** — Ghost leaves behind a crucifix.
+- **E544.1.2** — Ghost leaves a ring with the living.
+- **E544.1.3** — Ghost of drowned man leaves puddle of salt water where he stands.
+- **E544.2** — Ghost pulls off blanket from sleeper.
+- **E545** — The dead speak.
+- **E545.0.1** — Words uttered from the tomb.
+- **E545.0.2** — The dead are silent.
+- **E545.1** — Conversation between the dead.
+- **E545.2** — Dead predict death.
+- **E545.3** — Dead announce own death.
+- **E545.4** — Dead will not speak of their condition.
+- **E545.5** — Questions to dead are dangerous.
+- **E545.6** — Dead speak on Hallowe'en.
+- **E545.6.1** — Thirsty when hanged, corpse asks for water on Hallowe'en.
+- **E545.7** — Holy man converses with entombed dead.
+- **E545.8** — Fairy converses with dead.
+- **E545.9** — Dead holy man begs grave-digger not to bury sinner on top of him.
+- **E545.10** — Corpse exclaims over miracle.
+- **E545.11** — Ghost chooses own requiem.
+- **E545.12** — Ghost directs man to hidden treasure.
+- **E545.13** — Man converses with dead.
+- **E545.14** — The dead hear saint's bell.
+- **E545.15** — Saint after his death gives directions where he wants to be buried.
+- **E545.16** — Dead predict calamity or disaster.
+- **E545.16.1** — Dead predict war.
+- **E545.17** — The dead foretell the future.
+- **E545.18** — Ghost asks to be taken to former home.
+- **E545.19** — Addressing the dead.
+- **E545.19.1** — The dead cannot speak until spoken to.
+- **E545.19.2** — Proper means of addressing ghosts.
+- **E545.20** — Part of ghost speaks.
+- **E545.20.1** — Strand of hair from drowned woman speaks.
+- **E545.21** — Heads of slain people in magician's house advises hero.
+- **E545.22** — Conversation between God and Adam's corpse.
+- **E545.23** — Dead must be answered in whispers.
+- **E546** — The dead sing.
+- **E547** — The dead wail (Cf.  +E402ff.)
+- **E547.1** — The dead groan.
+- **E548** — Dead make music on their ribs.
+- **E551** — Dead man sobs.
+- **E552** — Ghost in form of bear sneezes.
+- **E553** — Ghost becomes log during day.
+- **E554** — Ghost plays musical instrument.
+- **E554.1** — Ghost plays organ.
+- **E555** — Dead man smokes pipe.
+- **E556** — Ghost drinks.
+- **E556.1** — Ghost drinks liquor.
+- **E556.1.1** — The dead man asks for whiskey.
+- **E557** — Dead man writes.
+- **E557.1** — Ghost writes on wall the answers to problems of person in trouble.
+- **E558** — Ghosts forced to labor.
+- **E561** — Dead person spins.
+- **E561.1** — Sight of dead woman spinning drives people insane.
+- **E562** — Dead person weaves.
+- **E563** — Dead person knits.
+- **E564** — Man who has died and returned to life becomes diviner.
+- **E565** — Ghosts clank chains.
+- **E567** — Dead person threshes.
+- **E568** — Revenant lies down and sleeps.
+- **E568.1** — Revenant leaves impression of body in bed.
+- **E571** — Ghostly barber.
+- **E572** — Ghost walks through solid substance.
+- **E573** — Ghost tried in court.
+- **E574** — Appearance of ghost serves as death omen.
+- **E575** — Ghost as omen of calamity or ill fortune.
+- **E576** — Dead man praises God.
+- **E576.1** — Dead intercedes before God for mortal.
+- **E577** — Dead persons play games.
+- **E577.1** — Dead persons play ball.
+- **E577.2** — Dead persons play cards.
+- **E577.2.1** — Playing cards with a dead man (ghost).
+- **E577.3** — Dead persons bowl.
+- **E578** — Dead persons build fires.
+- **E578.1** — Revenants want to warm themselves.
+- **E578.2** — Ghosts warm themselves around fire.
+- **E581** — Dead person rides.
+- **E581.1** — Whirlwind as ghost's vehicle.
+- **E581.2** — Ghost rides horse.
+- **E581.2.1** — Ghost jumps on horse behind man.
+- **E581.3** — Ghost rides cow.
+- **E581.4** — Ghost rides bus.
+- **E581.4.1** — Ghost rides on bus, disappears before it crosses bridge.
+- **E581.5** — Ghost rides heavy iron chest.
+- **E581.6** — Ghost rides giant demijohn.
+- **E581.7** — Ghost sails over sound on bundle of straw.
+- **E582** — Dead person drives horses.
+- **E583** — Dead persons draw chariot.
+- **E585** — Dead person visits earth periodically.
+- **E585.1** — Dead person visits earth every seven years.
+- **E585.2** — Spectre rides to castle every seven years.
+- **E585.3** — Revenant revisits earth every day.
+- **E585.3.1** — Revenant revisits earth nightly.
+- **E585.4** — Revenant revisits earth yearly.
+- **E586** — Dead returns soon after burial.
+- **E586.0.1** — Ghost returns before burial.
+- **E586.1** — Dead returns on burial day.
+- **E586.2** — Dead returns third day after burial.
+- **E586.3** — Dead return second day after burial.
+- **E586.4** — Dead sent back to life because his name is not in heavenly roll.
+- **E587** — Ghosts walk at certain times.
+- **E587.1** — Ghosts walk at midday.
+- **E587.2** — Ghosts walk on Hallowe'en.
+- **E587.2.1** — Ghost most numerous on St. Thomas Eve and St. Thomas Day.
+- **E587.3** — Ghosts walk from curfew to cockcrow.
+- **E587.4** — Spirits are always in the air.
+- **E587.5** — Ghost walk at midnight.
+- **E587.6** — Ghosts walk at full moon.
+- **E588** — Ghost leaves stench behind.
+- **E591** — Ghost travels under ground.
+- **E592** — Ghost carries burden.
+- **E592.1** — Ghost carries own dead body.
+- **E592.2** — Ghost carries coffin on back.
+- **E593** — Ghost takes things from people.
+- **E593.1** — Ghost steals collar of priest.
+  *Evil therefore befalls priest.*
+- **E593.2** — Ghost steals book from priest.
+- **E593.3** — If no lamp is lighted in a house for a period of fourteen days, ghosts take it for their dwelling.
+- **E593.4** — Ghost takes bones from grave.
+- **E593.5** — Ghost steals food and treasure.
+- **E594** — Dead man wanders with torch.
+- **E595** — Cures by transferring disease to dead.
+  *Ghoulish charm used for this purpose.*
+- **E596** — Living person in service of a dead man.
+- **E596.1** — Ghost works for human being.
+- **E597** — Corpse leaps up in emotion at saint's passing nearby.
+- **E598** — Death and return to life rids man of disease.
+- **E599** — Other actions of revenants.
+- **E599.1** — Ghost searches for breath.
+- **E599.2** — Ghostly corpses seen on floor of house, disappear when coroner comes.
+- **E599.3** — Ghost watches (follows) its own corpse.
+- **E599.4** — Ghost asks alms (from one who does not know that asker has died) at usual place and time.
+- **E599.5** — Ghost travels swiftly.
+- **E599.6** — Ghosts move furniture.
+- **E599.7** — Ghost carries lantern.
+- **E599.8** — Ghost vanishes when taken home.
+- **E599.9** — Ghost seen in two places simultaneously.
+- **E599.10** — Playful revenant.
+- **E599.11** — Locked doors open at touch of ghosts.
+- **E599.12** — Human being transported by a ghost.
+- **E599.13** — Dead person bathes.
+
+## Reincarnation
+
+- **E600** — Reincarnation.
+  *Return from the dead in another form.*
+- **E600.1** — Origin of reincarnation: miscarried message of immortality.
+- **E600.2** — Science of reincarnation taught.
+- **E601** — Reincarnation: former lives remembered.
+- **E601.1** — Man by magic sees his wives in their former incarnations as dog and sow.
+- **E601.2** — Reincarnated benefactor helped by man he has befriended in former life.
+- **E601.3** — Punishments earned on one life paid in next reincarnation.
+- **E602** — Reincarnation in form determined at death.
+- **E603** — Limited number of souls in world necessitates reincarnation.
+- **E604** — Definite number of reincarnations.
+- **E604.1** — Seven reincarnations.
+- **E605** — Reincarnation in another human form.
+- **E605.1** — Reincarnation with change of sex.
+- **E605.1.1** — Reincarnation: woman reborn as man.
+- **E605.1.2** — Man reborn as woman.
+- **E605.2** — Reincarnation: god reborn as man.
+- **E605.2.1** — Reincarnation: spirit reborn as man.
+- **E605.3** — Reincarnation: man becomes god.
+- **E605.4** — Reincarnation: man becomes spirit.
+- **E605.5** — Reincarnation: prince becomes common man.
+- **E605.6** — Reincarnation: common man becomes prince.
+- **E605.7** — Man reincarnated as child.
+- **E605.7.1** — Reincarnation as child which is within a fish.
+- **E605.8** — Horse-headed men reborn as money-lenders.
+- **E605.9** — Reincarnation as conjurer.
+- **E606** — Reasons for reincarnation.
+- **E606.1** — Reincarnation as punishment for sin.
+- **E606.2** — Reincarnation to complete unfinished work.
+- **E607** — Methods of reincarnation.
+- **E607.1** — Bones of dead collected and buried.
+  *Return in another form directly from grave.*
+- **E607.1.1** — Bones of dead collected and thrown into river.
+- **E607.2** — Person transforms self, is swallowed and reborn in new form.
+- **E607.2.1** — Person is swallowed and then reborn.
+- **E607.2.2** — Rebirth by crawling into woman's womb.
+- **E607.3** — Hauling canoe over dead man's body causes return from dead in new form.
+- **E607.4** — Reincarnation by fasting.
+- **E607.5** — Cauldron of regeneration (reincarnation).
+- **E610** — Reincarnation as animal.
+- **E610.1** — Reincarnation: man to animal to man.
+- **E610.1.1** — Reincarnation: boy to bird to boy.
+  *Boy returns as bird, who later becomes the boy.*
+- **E610.1.2** — Reincarnation: man to fish to man.
+- **E611** — Reincarnation as domestic animal.
+- **E611.1** — Reincarnation as horse.
+- **E611.1.1** — Reincarnation: man as horse-head.
+- **E611.1.2** — Reincarnation as donkey.
+- **E611.2** — Reincarnation as cow.
+- **E611.2.0.1** — Divinity reincarnated as cow.
+- **E611.2.1** — Reincarnation as bull.
+- **E611.2.1.0.1** — Divinity reincarnated as bull.
+- **E611.2.1.1** — Reincarnation as bullock.
+- **E611.2.2** — Reincarnation as an ox.
+- **E611.2.3** — Reincarnation as calf.
+- **E611.2.4** — Reincarnation as a buffalo.
+- **E611.3** — Man reincarnated as swine.
+- **E611.3.1** — Man reincarnated as wild boar.
+- **E611.4** — Man reincarnated as goat.
+- **E611.5** — Man reincarnated as cat.
+- **E611.5.1** — God reincarnated as cat.
+- **E611.6** — Man reincarnated as dog.
+- **E612** — Reincarnation as wild animal.
+- **E612.1** — Reincarnation as lion.
+- **E612.2** — Reincarnation as wolf.
+- **E612.3** — Reincarnation as hare.
+- **E612.4** — Reincarnation as fox.
+- **E612.5** — Reincarnation as deer.
+- **E612.6** — Reincarnation as seal.
+- **E612.7** — Reincarnation as mongoose.
+- **E612.8** — Reincarnation as bear.
+- **E612.9** — Reincarnation as hyena.
+- **E612.10** — Reincarnation as jackal.
+- **E612.11** — Reincarnation as elephant.
+- **E612.12** — Reincarnation as monkey.
+- **E612.13** — Reincarnation as rat.
+- **E612.14** — Reincarnation as otter.
+- **E613** — Reincarnation as bird.
+- **E613.0.1** — Reincarnation of murdered child as bird.
+- **E613.0.2** — Reincarnation of unbaptized child as bird.
+- **E613.0.3** — Reincarnation of old maids as birds.
+- **E613.0.4** — Reincarnation of drowned persons as birds.
+- **E613.0.5** — Severed heads of monster become birds.
+- **E613.0.6** — Reincarnation of girl eaten by tiger as bird.
+- **E613.1** — Reincarnation as duck.
+- **E613.1.1** — Reincarnation as sheldrake.
+- **E613.2** — Reincarnation as owl.
+- **E613.3** — Reincarnation as hawk.
+- **E613.3.1** — Reincarnation as eagle.
+- **E613.4** — Reincarnation as swallow.
+- **E613.5** — Reincarnation as cuckoo.
+- **E613.6** — Reincarnation as dove.
+- **E613.6.1** — Reincarnation as pigeon.
+- **E613.7** — Reincarnation as raven.
+- **E613.8** — Reincarnation as quail.
+- **E613.8.1** — Reincarnation as partridge.
+- **E613.9** — Reincarnation as heron.
+- **E613.9.1** — Reincarnation as crane.
+- **E613.10** — Reincarnation as goose.
+- **E613.11** — Reincarnation as peacock.
+- **E613.12** — Reincarnation as parrot.
+- **E614** — Reincarnation as reptile.
+- **E614.1** — Reincarnation as snake.
+- **E614.2** — Reincarnation as lizard.
+- **E614.3** — Reincarnation as crocodile.
+- **E614.4** — Reincarnation as tortoise.
+- **E614.5** — Reincarnation as iguana.
+- **E615** — Reincarnation as amphibian.
+- **E615.1** — Reincarnation as frog.
+- **E616** — Reincarnation as insect.
+- **E616.1** — Reincarnation as bee.
+- **E616.2** — Reincarnation as butterfly.
+- **E616.3** — Reincarnation as flea.
+- **E616.4** — Reincarnation as weevil.
+- **E616.5** — Reincarnation as bedbug.
+- **E617** — Reincarnation as fish.
+- **E617.1** — Reincarnation as salmon.
+- **E617.2** — Reincarnation as goldfish.
+- **E617.3** — Reincarnation as shark.
+- **E617.4** — Reincarnation as whale.
+- **E618** — Reincarnation as worm.
+- **E618.1** — Reincarnation as leech.
+- **E629** — Reincarnation as animal miscellaneous.
+- **E629.1** — Reincarnation as scorpion.
+- **E629.2** — Reincarnation as crab.
+- **E630** — Reincarnation in object.
+- **E631** — Reincarnation in plant (tree) growing from grave.
+- **E631.0.1** — Twining branches grow from graves of lovers.
+- **E631.0.1.1** — Tops of trees from lovers' graves show shapes of their heads.
+- **E631.0.1.2** — Tablets made of trees from lovers' graves magically unite.
+- **E631.0.2** — Flower from grave bears letters.
+  *These commemorate the buried person.*
+- **E631.0.2.1** — Flower with "ave" on leaves.
+  *Crows from tomb as reward for faithful sayings of "Ave Maria".*
+- **E631.0.3** — Plant from blood of slain person.
+- **E631.0.3.1** — Red plant from blood of slain person.
+- **E631.0.4** — Speaking and bleeding trees.
+  *Reincarnated persons.*
+- **E631.0.5** — Tree from innocent man's blood.
+- **E631.0.5.1** — Dry branch on innocent man's grave blossoms as proof of innocence.
+- **E631.0.6** — Tree from sinner's grave.
+- **E631.1** — Flower from grave.
+- **E631.1.1** — Lily from grave.
+- **E631.1.2** — Rose from grave.
+- **E631.1.3** — Reincarnation as lotus.
+- **E631.1.4** — Reincarnation as cockscomb.
+- **E631.2** — Grass does not grow on murderer's grave.
+- **E631.2.1** — Reincarnation as a grass straw.
+- **E631.3** — Herbs grow from grave of healer.
+- **E631.4** — Dead ogress reincarnated as bramble-bush which prevents escape of fugitive.
+- **E631.5** — Reincarnation as plant.
+- **E631.5.1** — Reincarnation as tobacco plant.
+- **E631.5.2** — Reincarnation as peanut plant.
+- **E631.5.3** — Reincarnation as eggplant.
+- **E631.6** — Reincarnation in tree from grave.
+- **E632** — Reincarnation as musical instrument.
+  *The Singing Bone. A musical instrument made from the bones of a murdered person, or from a tree growing from the grave, speaks and tells of the crime.*
+- **E632.1** — Speaking bones of murdered person reveal murder.
+- **E633** — Reincarnation as dish.
+  *Bones made into dish. These speak.*
+- **E635** — Reincarnation as fountain.
+- **E636** — Reincarnation as water.
+- **E636.1** — Reincarnation as bag of water.
+- **E637** — Reincarnation as ball (of gold and iron).
+- **E641** — Reincarnation as whirlwind.
+- **E642** — Reincarnation as stone.
+- **E642.0.1** — Reincarnation as salt.
+- **E642.1** — Dead lovers are now two stones lying together.
+- **E643** — Reincarnation as smoke.
+- **E643.1** — Smoke from funeral fires of two lovers mingles in sky.
+- **E644** — Reincarnation as rainbow.
+- **E645** — Reincarnation as mineral.
+- **E645.1** — Reincarnation of slain boy as gold and silver.
+- **E646** — Reincarnation as meteor.
+- **E648** — Reincarnation: man-object-man.
+- **E648.1** — Reincarnation: woman - bird - nettles - stone - woman.
+- **E648.2** — Reincarnation: man - woman - stone image.
+- **E649** — Reincarnation to object miscellaneous.
+- **E649.1** — Reincarnation as hill.
+  *Head made into hill.*
+- **E649.2** — Reincarnation as flour vat.
+  *Stomach made into flour vat.*
+- **E649.3** — Reincarnation as hoe.
+  *Feet made into hoe.*
+- **E649.3.1** — Reincarnation as hoe-handle.
+  *Back made into hoe-handle.*
+- **E649.4** — Reincarnation as mussel shell.
+  *Ears made into mussel shell.*
+- **E649.5** — Reincarnation as currants.
+  *Eyes made into currants.*
+- **E650** — Reincarnation: other forms.
+- **E651** — God reincarnated as dwarf.
+- **E652** — God reincarnated as monster.
+- **E653** — Reincarnation: man as nature spirit.
+- **E653.1** — Reincarnation: man as water spirit.
+- **E653.2** — Reincarnation: man as tree spirit.
+- **E656** — Reincarnation: animal to man.
+- **E656.1** — Men who behave irrationally (without plans) reincarnations of animals.
+- **E657** — Reincarnation: animal to god.
+- **E658** — Reincarnation: animal to other animal.
+- **E670** — Repeated reincarnation.
+- **E671** — Reincarnation: man - object - object.
+- **E671.1** — Reincarnation: body becomes marble wall; robe, grass; eyes, pools, etc.
+- **E690** — Reincarnation: miscellaneous.
+- **E691** — Reincarnation: animal to object.
+- **E691.1** — Reincarnation: snake into flowers.
+- **E692** — Reincarnation as punishment.
+- **E692.1** — Bad woman cursed to be reborn as bat.
+- **E692.2** — Mean person reborn as hyena.
+- **E692.3** — Tricky potter reborn as crab.
+- **E692.4** — Jealous woman reborn as chilly.
+- **E692.5** — Cruel woman reborn as firefly.
+- **E692.6** — Youth reincarnated as root in punishment for incest.
+- **E693** — Reincarnation for revenge.
+- **E693.1** — Drowned girl reborn as leech to take revenge on murderers.
+- **E693.2** — Woman reborn as bedbug to take revenge on husband.
+- **E693.3** — Woman reborn as scorpion to take revenge on husband.
+- **E694** — Reincarnation as compensation.
+- **E694.1** — Hungry ghost reborn as jackal.
+- **E694.2** — Frustrated woman reborn as tobacco plant.
+- **E694.3** — Frustrated boy reborn as lizard.
+- **E694.4** — Childless woman reborn as fish.
+- **E695** — Gradual reincarnation man to tiger.
+- **E696** — Reincarnated person restored to original form.
+- **E696.1** — Bird, reincarnated murdered girl, resumes her original form when persecutor's blood is poured on her.
+- **E697** — Vulture eats only those who will be reborn as human beings in their next birth.
+
+## The Soul
+
+- **E700** — The Soul.
+- **E700.1** — Names given the soul.
+- **E701** — Soul of object.
+- **E701.1** — Soul of the earth.
+- **E701.2** — Soul of water.
+- **E701.3** — Soul of tree.
+- **E701.4** — Soul of fire.
+- **E701.5** — Soul of corn.
+- **E702** — Composition of the soul.
+- **E703** — Creation of souls.
+- **E705** — Soul forgets everything at birth.
+- **E706** — Abode of unborn souls.
+- **E707** — Person with more than one soul.
+- **E708** — Soul sustained on pleasant odors.
+- **E710** — External soul.
+  *A person (often a giant or ogre) keeps his soul or life separate from the rest of his body.*
+- **E710.1** — Ferocious animal guardian of separable soul of ogress.
+- **E710.2** — External soul avenges murder.
+- **E711** — Soul kept in object.
+- **E711.1** — Soul in egg.
+- **E711.1.1** — Soul in three separate eggs.
+- **E711.2** — Soul in plant.
+- **E711.2.1** — Soul in calabash (gourd).
+- **E711.2.2** — Soul in flower.
+- **E711.2.3** — Soul in chilly plant.
+- **E711.2.4** — Soul in pomegranate.
+- **E711.2.5** — Soul in coconut.
+- **E711.2.6** — Soul in bamboo.
+- **E711.3** — Soul in jewel.
+- **E711.4** — Soul in necklace.
+- **E711.5** — Soul in sack.
+- **E711.6** — Life in stick.
+- **E711.7** — Soul in stone.
+- **E711.8** — Soul in golden apple.
+- **E711.9** — Soul in golden ball.
+- **E711.10** — Soul in sword.
+- **E711.11** — Soul in snow.
+- **E711.12** — Soul in dice.
+- **E711.13** — Soul in arrow.
+- **E711.14** — Soul in axe.
+- **E711.15** — Soul in bird cage.
+- **E712** — Hidden soul (life).
+- **E712.1** — Soul hidden in tree.
+- **E712.2** — Soul hidden in safe.
+- **E712.3** — Soul hidden in urn.
+- **E712.4** — Soul hidden in box.
+- **E712.5** — Soul hidden in pillar.
+- **E712.6** — Soul hidden in fish basket.
+- **E712.7** — Soul hidden in water bottle.
+- **E713** — Soul hidden in a series of coverings.
+  *This motif is combined with several others. Usually the soul will be hidden in an egg, in a duck, in a well, in a church, or a similar series.*
+- **E713.1** — Soul hidden in apple (ball) in a salmon which appears every seven years in certain fountain.
+- **E714** — Soul (or life) kept in special part of body.
+- **E714.1** — Soul (life) in the blood.
+- **E714.2** — Serpent's life in its gold crown.
+- **E714.3** — Soul in head.
+- **E714.3.1** — Troll's life in his brother's forehead.
+- **E714.4** — Soul (life) in the heart.
+- **E714.4.1** — Eaten heart gives one the owner's qualities.
+- **E714.5** — Soul (life) in the liver.
+- **E714.6** — Soul (life) in the breath.
+- **E714.7** — Soul (life) in left hand.
+- **E714.7.1** — Soul (life) in thumb.
+- **E714.8** — Monster with life in his neck.
+  *(One vulnerable place.)*
+- **E714.9** — Giant's soul in a mole in the hollow of his palm.
+- **E714.10** — Ogre's soul in "pale spot" below his right ear.
+- **E714.11** — Life (soul) in entrails.
+- **E714.12** — Soul in hair.
+- **E714.13** — Soul fastened to spine.
+- **E715** — Separable soul kept in animal.
+- **E715.1** — Separable soul in bird.
+- **E715.1.1** — Separable soul in duck.
+- **E715.1.2** — Separable soul in crop of sparrow.
+- **E715.1.3** — Separable soul in parrot.
+- **E715.1.3.1** — Ogre's life in parrot's feather in man's pocket.
+- **E715.1.3.2** — Ogre with life in parrot, speaks from inside parrot.
+- **E715.1.4** — Soul in crane.
+- **E715.1.5** — Soul in starling.
+- **E715.1.6** — Soul in raven.
+- **E715.2** — Separable soul in fish.
+- **E715.3** — Separable soul in insect.
+- **E715.3.1** — Separable soul in bee.
+- **E715.3.2** — Separable soul in fly.
+- **E715.3.3** — Separable soul in hornet.
+- **E715.4** — Separable soul in wild animal.
+- **E715.4.1** — Separable soul in deer.
+- **E715.4.2** — Separable soul in wolf.
+- **E715.4.3** — Separable soul in walrus.
+- **E715.4.4** — Separable soul in seal.
+- **E715.5** — Separable soul in snake.
+- **E715.5.1** — Separable soul in toad.
+- **E715.6** — Separable soul in hydra's head.
+- **E718** — Multiple separable souls: ogre's separable spirits live in a tree (plant), fish, honey bee.
+- **E720** — Soul leaves or enters the body.
+- **E720.1** — Souls of human beings seen in dream.
+- **E721** — Soul journeys from the body.
+- **E721.0.1** — Mark inflicted on wandering soul seen on body after soul's return.
+- **E721.1** — Soul wanders from body in sleep.
+  *Dreams explained as experiences of the soul on these wanderings.*
+- **E721.1.1** — Sleeper not to be awakened, since soul is absent.
+- **E721.1.2** — Soul of sleeper prevented from returning to his body.
+- **E721.1.2.1** — Soul of sleeper prevented from returning when it is captured in animal form.
+- **E721.1.2.2** — Soul of sleeper prevented from returning by moving the sleeper's body.
+- **E721.1.2.3** — Soul of sleeper prevented from returning by burning the body.
+- **E721.1.2.3.1** — Body dismembered so soul cannot return.
+- **E721.1.2.4** — Soul of sleeper prevented from returning to his body when soul as bee leaves body and enters hole in wall beside which he is sleeping.
+- **E721.1.2.5** — Frightened soul cannot return to body.
+- **E721.2** — Body in trance while soul is absent.
+- **E721.3** — Wandering soul cause of sickness.
+- **E721.3.1** — Madness from spirit leaving body: comes back with cough.
+- **E721.4** — Wandering soul detained by ghosts.
+- **E721.5** — Wandering soul assumes various shapes.
+- **E721.5.1** — Wandering soul assumes shape of wolf.
+- **E721.6** — On return to body soul crosses on scythe-blade as bridge.
+- **E721.7** — Soul leaves body to visit hell (heaven).
+- **E721.8** — Soul leaves body to converse with dead.
+- **E721.9** — Soul of embryo wanders.
+- **E721.10** — Soul takes voyage.
+- **E722** — Soul leaves body at death.
+- **E722.1** — Form of soul as it leaves body at death.
+- **E722.1.1** — Soul as black or white spirit over coffin.
+  *Black if condemned. Can be seen by peeping between horse's ears.*
+- **E722.1.2** — Soul as black or white entity.
+  *Black if condemned.*
+- **E722.1.3** — Soul leaves body as small point of light.
+- **E722.1.4** — Soul leaves the body in form of bird.
+- **E722.2** — Manner of soul's leaving body.
+- **E722.2.1** — Soul borne away on cloud.
+- **E722.2.2** — Soul borne away on wind.
+- **E722.2.3** — Roof taken off above sick man who cannot die.
+  *This done so that the soul can escape.*
+- **E722.2.4** — Condemned soul forked from body by Satan.
+- **E722.2.5** — Saved soul leaps from body on hearing heavenly music.
+- **E722.2.6** — Doors fly open when one dies.
+- **E722.2.7** — Soul weeps when departing from body.
+- **E722.2.8** — Soul reluctant to leave body.
+- **E722.2.8.1** — Soul lingers in body at death.
+- **E722.2.8.2** — Soul hovers over body, reluctant to part.
+- **E722.2.9** — Dead friends come for dying man's soul.
+- **E722.2.10** — Soul taken away by God (angel).
+- **E722.2.10.1** — Chariot of gods bears astral bodies of dead to heaven.
+- **E722.2.11** — Soul leaves body through eye.
+- **E722.2.12** — Soul leaves body because of God's kiss on mouth.
+- **E722.3** — Circumstances of soul on leaving dead body.
+- **E722.3.1** — Soul cannot go far from grave.
+- **E722.3.1.1** — Soul remains about dead body.
+- **E722.3.2** — Soul wanders till corpse decays.
+- **E722.3.3** — Soul visits places of birth, death, baptism, and burial after leaving body.
+- **E723** — Wraiths of persons separate from body.
+- **E723.1** — Person sees his own wraith.
+- **E723.1.1** — Person sees his own wraith; the wraith saves his life.
+- **E723.2** — Seeing one's wraith a sign that person is to die shortly.
+- **E723.3** — Wraith takes place of person unable to do duty at the necessary time.
+- **E723.4** — Wraith does what person wishes to do but is unable to do in the flesh.
+- **E723.4.1** — Wraith returns to home and goes to bed while body is at home of friends in deep reverie.
+- **E723.4.2** — Wraith of murderer tells authorities where to find girl he has murdered.
+  *The murderer is in church at the time.*
+- **E723.4.3** — Wraith of debtor tries to find his creditor at time of death.
+- **E723.4.4** — Wraith of dying woman goes to see children for last time before death.
+- **E723.4.5** — Wraith gives information of death in family.
+- **E723.4.6** — Wraith investigates welfare of absent person.
+- **E723.5** — Wraith of sweetheart stays in room where lover has died.
+  *It disappears only after her death at far distant point twenty years after death of lover.*
+- **E723.6** — Appearance of his wraith as announcement of person's death.
+- **E723.7** — Actions of wraith.
+- **E723.7.1** — Wraith speaks.
+- **E723.7.2** — Wraith rings doorbell.
+- **E723.7.3** — Wraith opens and closes door.
+- **E723.7.4** — Wraith slams gate.
+- **E723.7.5** — Wraith selects wood for coffin.
+- **E723.7.6** — Wraith binds grain in field.
+- **E723.7.7** — Wraith rides horse.
+- **E723.7.8** — Wraiths of persons drowning appear in dripping clothes.
+- **E723.8** — Appearance of wraith as calamity omen.
+- **E723.8.1** — Wraith appears before mine disaster.
+- **E725** — Soul leaves one body and enters another.
+- **E725.1** — Soul leaves man's body and enters animal's.  *Bolte Reise der Stshne Giaffers 208; India: Thompson-Balys.
+- **E725.2** — Ghost possesses girl and she speaks in dialect unknown to her.
+- **E726** — Soul enters body and animates it.
+- **E726.1** — Soul received at birth.
+- **E726.2** — Soul of unborn son comes out of mother's mouth (in form of stone), is kept by her, and later is given to son.
+- **E726.3** — Soul reunited with body.
+- **E727** — Relation of body to soul.
+- **E727.1** — Debate of body and soul.
+  *Soul having left body enters into debate with the body concerning relative merits of body and soul.*
+- **E727.1.1** — Soul curses body.
+- **E727.2** — Soul as vital principle.
+- **E727.3** — Body dependent on soul.
+- **E728** — Evil spirit possesses person.
+- **E728.1** — Evil spirit cast out of person.
+- **E728.1.1** — Evil spirit cast out of person by killing and resuscitating.
+- **E730** — Soul in animal form.
+- **E730.1** — Souls of animals.
+- **E731** — Soul in form of mammal.
+- **E731.1** — Soul in form of dog.
+- **E731.2** — Soul in form of cat.
+- **E731.3** — Soul in form of mouse.
+- **E731.4** — Soul in form of weasel.
+- **E731.5** — Soul in form of hare.
+- **E731.6** — Soul in form of seal.
+- **E731.7** — Soul in form of bat.
+- **E731.8** — Soul in form of bear.
+- **E731.9** — Soul in form of wolf.
+- **E731.10** — Soul in form of fox.
+- **E731.11** — Soul in form of lion.
+- **E731.12** — Soul in form of hog.
+- **E731.13** — Soul in form of bull.
+- **E731.14** — Soul in form of deer.
+- **E732** — Soul in form of bird.
+- **E732.1** — Soul in form of dove.
+- **E732.2** — Soul in form of crow.
+- **E732.3** — Soul in form of hen.
+- **E732.4** — Soul in form of magpie.
+- **E732.5** — Soul in form of seagull.
+- **E732.6** — Soul in form of eagle.
+- **E732.7** — Soul in form of swan.
+- **E732.8** — Soul in form of raven.
+- **E732.9** — Soul in form of hawk, or falcon seen in dream.
+- **E733** — Soul in form of reptile.
+- **E733.1** — Soul in form of serpent.
+- **E734** — Soul in form of insect.
+- **E734.1** — Soul in form of butterfly.
+- **E734.2** — Soul in form of bee.
+- **E734.3** — Soul in form of spider.
+- **E734.4** — Soul in form of wasp.
+- **E734.5** — Soul in form of cricket.
+- **E734.6** — Soul in form of beetle.
+- **E734.7** — Soul in form of fly.
+- **E734.8** — Soul in form of grasshopper.
+- **E735** — Soul in form of fish.
+- **E736** — Soul in form of amphibian.
+- **E736.1** — Soul in form of frog.
+- **E736.2** — Soul in form of toad.
+- **E738** — Soul in form of a mythical animal.
+- **E738.1** — Soul in form of dragon.
+- **E740** — Other forms of the soul.
+- **E741** — Soul in form of heavenly body.
+- **E741.1** — Soul in form of star.
+- **E741.1.1** — Shooting star signifies that someone is dying.
+  *One star for each person. At his death it falls.*
+- **E741.1.1.1** — New star for each birth.
+  *A star in the sky for each person.*
+- **E741.1.1.2** — Star as sign of birth of hero.
+- **E741.1.2** — Shooting star signifies a birth.
+  *Stars are the dead. When they fall they are being reborn. At death they are replaced in the sky.*
+- **E742** — Soul as light.
+- **E742.1** — Soul as taper (candle).
+- **E742.2** — Soul as will-o-the-wisp.
+  *Appears as a ball or fire or a figure in a fiery garment.*
+- **E742.3** — Souls of dead as Aurora Borealis.
+- **E743** — Soul as shadow.
+- **E743.1** — Soul as smoke.
+- **E743.2** — Soul as reflection or image.
+- **E744** — Soul as weather phenomenon.
+- **E744.1** — Soul as mist (fog).
+- **E744.2** — Soul as cloud.
+- **E744.3** — Soul as whirlwind.
+- **E745** — Soul as object.
+- **E745.1** — Soul as feather.
+- **E745.2** — Soul as needle.
+- **E745.3** — Soul as straw.
+- **E745.4** — Soul as flower.
+- **E745.4.1** — Soul as lotus flower.
+- **E745.5** — Soul as fruit.
+- **E745.5.1** — Souls as golden apples.
+  *Later turn into birds and fly away.*
+- **E745.5.2** — Soul as bulb.
+- **E745.6** — Soul as ghi (clarified butter).
+- **E747** — Soul as mannikin (child).
+- **E747.1** — Soul as small replica of body.
+- **E748** — The soul as a guardian spirit.
+- **E750** — Perils of the soul.
+- **E750.0.1** — Soul cannot enter heaven till body is buried.
+- **E750.1** — Souls wander after death.
+- **E750.1.1** — Virgins condemned to wander at death.
+- **E750.2** — Perilous path for soul to world of dead.
+- **E750.2.1** — Dead person of good life goes over bridge to otherworld without fear.
+- **E750.2.2** — Perilous valley in (on way to) land of dead.
+- **E750.2.3** — Branching tree as roadway for souls.
+- **E750.3** — Journey of soul to world of dead on reindeer.
+- **E750.4** — Soul leaves possessions on road to final resting place.
+- **E751** — Souls at Judgment Day.
+- **E751.0.1** — There are to be two resurrections.
+- **E751.1** — Souls weighed at Judgment Day.
+- **E751.2** — Souls await Judgment Day in shapes of birds.
+- **E751.3** — Souls of Irish to be judged by St. Patrick on Judgment Day.
+- **E751.4** — Four (five) groups on Judgment Day.
+- **E751.5** — Souls of sinners to spend seven years under waters of the sea before Doomsday.
+- **E751.6** — Resurrection to take place on Sunday.
+- **E751.7** — Judgment day on Monday.
+- **E752** — Lost souls.
+- **E752.1** — Soul in jeopardy after leaving body.
+- **E752.1.1** — Devil in disguise hunts souls.
+- **E752.1.2** — Fiends play ball with a soul.
+- **E752.1.2.1** — Demons amuse themselves by plaguing souls in hell.
+- **E752.1.3** — Souls of dead captured on leaving corpse.
+- **E752.2** — Soul carried off by demon (Devil).
+- **E752.3** — Raven carries off souls of damned.
+- **E752.4** — Lost soul in raven feathers.
+- **E752.5** — Hell-hounds accompany soul to lower world.
+- **E752.6** — Soul bound for hell given sight of heaven.
+- **E752.7** — Lost soul gnawed by worms.
+- **E752.7.1** — Abandoned souls feed on spiders and night moths.
+- **E752.8** — Souls of dead eaten by sky-spirits.
+- **E752.9** — Souls of wicked eaten by deity.
+- **E752.10** — Precautions taken with corpse before burial to prevent evil spirits from getting, using body.
+- **E752.10.1** — Corpse must be watched carefully before burial.
+- **E752.10.2** — Light must be kept burning by corpse to keep evil spirits away.
+- **E754** — Saved souls.
+- **E754.1** — Condemned soul recovered.
+- **E754.1.1** — Condemned soul saved by prayer.
+- **E754.1.1.1** — Demons powerless over souls commended to God before sleep.
+- **E754.1.2** — Condemned soul saved by Virgin Mary.
+- **E754.1.3** — Condemned soul saved by penance.
+- **E754.1.4** — Condemned soul saved by holy person.
+- **E754.1.5** — Condemned soul released by God.
+- **E754.1.6** — Condemned soul released from hell by Christ.
+- **E754.1.7** — Few grains of earth from river bed translates soul destined to an evil future to Paradise.
+- **E754.1.8** — Condemned soul released because of tears of living.
+- **E754.2** — Saved soul goes to heaven.
+- **E754.2.0.1** — Souls of warriors go to Valhalla.
+- **E754.2.1** — Souls carried to heaven by doves.
+- **E754.2.2** — Souls carried to heaven by angels.
+- **E754.2.2.1** — Angels of death fail to bring soul to heaven.
+- **E754.2.3** — Dead and living go together to gate of heaven.
+- **E754.2.4** — Dead children invited to eat at God's table.
+- **E754.3** — Burial in certain ground assures going to heaven.
+- **E754.4** — Soul of hermit who fasts to death for worldly fame would be damned but for past good deeds.
+- **E754.5** — Souls carried to heaven in chariot of light.
+- **E754.6** — Souls climb pillars of smoke and light on way to heaven.
+- **E754.7** — Souls of pious as angels.
+- **E755** — Destination of the soul.
+- **E755.0.1** — Resurrected boys choose to return to heaven.
+- **E755.0.2** — Angels separate souls going to heaven or hell.
+- **E755.0.3** — Souls of dead presented to Adam.
+- **E755.1** — Souls in heaven.
+- **E755.1.1** — Heavenly hierarchy.
+- **E755.1.2** — River in heaven burns wicked and gives joy to righteous.
+- **E755.1.3** — Souls on way to heaven pass through Garden of Eden.
+- **E755.1.4** — Sixty thousand Jewish souls in heaven.
+- **E755.2** — Souls in hell (Hades).
+- **E755.2.0.1** — Souls leave hell on Sundays.
+- **E755.2.1** — Souls of drowned in heated kettles in hell.
+- **E755.2.1.1** — Souls in hell wrenched from bodies with hot pitchforks by devils.
+- **E755.2.2** — Souls in chains in hell.
+- **E755.2.3** — Lost soul to serve as porter in hell for seven years.
+- **E755.2.4** — Ghosts gather wood for hell fires.
+- **E755.2.4.1** — Hell fires kindled according to sins of sinners.
+- **E755.2.5** — Icy hell.
+- **E755.2.6** — Dead flailed by demons.
+- **E755.2.7** — Devils torment sinners in hell.
+- **E755.2.8** — Dialogue between Christ and the souls in hell.
+- **E755.2.8** — Series of hells.
+- **E755.3** — Souls in purgatory.
+- **E755.3.1** — Soul in purgatory sends letter bidding his son reward one who has prayed him from purgatory.
+- **E755.4** — Other destinations of souls.
+- **E755.4.1** — Souls of dead imprisoned in tree.
+- **E755.4.2** — Soul of dead in a temple.
+- **E756** — Contest over souls.
+- **E756.1** — Devils and angels contest for man's soul.
+- **E756.2** — Soul won from devil in card game.
+- **E756.3** — Raven and dove fight over man's soul.
+- **E756.4** — Saint wrests soul from demons.
+- **E756.4.1** — Soul of gambler won by saint in dice game.
+  *Dice miraculously split to make higher score for saint.*
+- **E756.5** — Saved soul of woman assists her husband's soul in battle against demons.
+- **E757** — The soul prays.
+- **E758** — Rejoicing at arrival of rich man in heaven.
+  *Event so rare as to cause rejoicing. Poor man enters unnoticed.*
+- **E759** — The soul miscellaneous.
+- **E759.1** — Soul strives to be heard by the living.
+- **E759.2** — Angel gives soul information concerning mortal.
+- **E760** — Life Index.
+  *Object or animal has mystic connection with person. Changes in one correspond to changes in the other.*
+- **E761** — Life token.
+- **E761.1** — Blood as life token.
+- **E761.1.1** — Life token: water turns to blood.
+- **E761.1.2** — Life token: horn fills with blood.
+- **E761.1.3** — Life token: track fills with blood.
+- **E761.1.3.1** — Life token: earth, water, or blood in footprint.
+  *Earth: dead by disease; water: drowned; blood: killed in battle.*
+- **E761.1.4** — Life token: blood of fish calls out.
+- **E761.1.5** — Life token: blood boils.
+- **E761.1.5.1** — Blood stops boiling.
+- **E761.1.6** — Life token: blood changes color.
+- **E761.1.7** — Life token: comb drips blood.
+- **E761.1.7.1** — Life token: gloves drip blood.
+- **E761.1.7.2** — Life token: scissors (razor, knife) drip blood.
+- **E761.1.8** — Life token: cloth becomes bloody.
+- **E761.1.9** — Life token: hero's horse stands in stable in blood up to his knees.
+- **E761.1.10** — Life token: milk becomes bloody.
+- **E761.1.11** — Life token: roof spouts of castle run with blood.
+- **E761.1.12** — Life token: meal ground in mill is the color of blood.
+- **E761.1.13** — Blood stops flowing from wound when captives escape.
+- **E761.2** — Life token: staff stuck in ground.
+- **E761.2.1** — Life token: staff stuck in ground shakes.
+- **E761.2.2** — Life token: staff stuck in ground falls.
+- **E761.3** — Life token: tree (flower) fades.
+- **E761.3.1** — Life token: bamboo stalks grow with joints upside down.
+- **E761.3.1.1** — Life token: bananas ripen from bottom up.
+- **E761.3.2** — Lifen token: fruit decays on tree.
+- **E761.3.3** — Life token: fruit falls from tree.
+- **E761.3.4** — Life token: trees prostrate themselves.
+- **E761.4** — Life token: object darkens or rusts.
+- **E761.4.1** — Life token: knife stuck in tree rusts (becomes bloody).
+- **E761.4.2** — Life token: picture burns black.
+- **E761.4.3** — Life token: mirror becomes black (misty).
+- **E761.4.4** — Life token: ring rusts.
+- **E761.4.5** — Life token: silver object turns dark.
+- **E761.4.6** — Life token: charm dries.
+- **E761.4.7** — Life token: sword rusts.
+- **E761.4.8** — Life token: beads cling together.
+- **E761.4.9** — Life token: milk turns dark.
+- **E761.5** — Life token: object breaks (bursts).
+- **E761.5.1** — Life token: pot breaks.
+- **E761.5.2** — Life token: zither string breaks.
+- **E761.5.3** — Life token: ring springs asunder.
+- **E761.5.4** — Life token: cup springs asunder.
+- **E761.5.5** — Life token: stone breaks.
+- **E761.5.5.1** — Life token: stones prostrate themselves.
+- **E761.5.6** — Life token: sheaves prostrate themselves.
+- **E761.6** — Life token: troubled liquid.
+- **E761.6.1** — Life token: troubled water.
+- **E761.6.2** — Life token: milk becomes red.
+- **E761.6.3** — Life token: boiling liquid.
+- **E761.6.4** — Life token: beer foams.
+- **E761.6.5** — Life token: wine turns to vinegar.
+- **E761.6.6** — Life token: milk becomes agitated in pan at death of relative.
+- **E761.7** — Life token: miscellaneous.
+- **E761.7.1** — Life token: ring presses finger.
+- **E761.7.2** — Life token: spring goes dry.
+- **E761.7.3** — Life token: leaves full from tree.
+- **E761.7.4** — Life token: light goes out.
+- **E761.7.5** — Life token: dogs pulling on leash.
+- **E761.7.6** — Life token: bird sent each day to tell of hero's condition; when owl comes it will be to announce death.
+- **E761.7.7** — Life token: bird feathers sink in river at hero's death.
+- **E761.7.8** — Life token: great wind blows.
+- **E761.7.9** — Life token: flaming shield goes out.
+- **E761.7.10** — Life token: armor rattles at home when owner is killed away from home.
+- **E761.7.11** — Life token: music box plays by itself as owner awaits burial.
+- **E761.7.12** — Life token: arrow falls down.
+- **E761.7.13** — Life token: paddy productive or unproductive.
+- **E761.7.14** — Life token: rings will exchange places on girls' fingers.
+- **E761.7.15** — Life token: direction dagger points determines if ogress has been killed.
+- **E765** — Life dependent on external object or event.
+  *Person's life is mystically connected with something else and comes to an end when that thing is destroyed.*
+- **E765.1** — Life bound up with light (flame).
+- **E765.1.1** — Life bound up with candle.
+  *When the candle goes out, person dies.*
+- **E765.1.2** — Life bound up with burning brand (torch).
+- **E765.1.3** — Life-lights in lower world.
+  *Each light mystically connected with the life of a person. When light is extinguished, person dies.*
+- **E765.2** — Life bound up with that of animal.
+  *Person to live as long as animal lives.*
+- **E765.3** — Life bound up with object.
+- **E765.3.0.1** — Life bound up with magic object.
+  *When magic object is lost, person dies.*
+- **E765.3.1** — Person to live as long as church stands.
+- **E765.3.2** — Life bound up with calabash.
+  *As calabash grows, so does girl.*
+- **E765.3.3** — Life bound up with tree.
+- **E765.3.4** — Girl lives until her cowslip is pulled.
+- **E765.3.5** — Man's magic contains his life essence.
+- **E765.4** — Life bound up with external event.
+  *Death to come when certain thing happens.*
+- **E765.4.1** — Father will die when daughter marries.
+- **E765.4.2** — Mother will die when daughter is wooed.
+- **E765.4.3** — Father will die when daughter bears son.
+- **E765.4.3.1** — Father (and mother) will die on same day as daughter.
+- **E765.4.4** — Person will die year he marries.
+- **E765.4.5** — Person will die when he drinks from horn.
+- **E765.4.6** — Snake can die only if it gives away hoarded treasure.
+- **E765.4.7** — Man dies when tortoise shell is dug up.
+- **E765.5** — One person's life dependent on another's.  Penzer I 131.
+- **E766** — Object dies or stops when owner dies.
+- **E766.1** — Clock stops at moment of owner's death.
+- **E766.2** — Tree dies when owner dies.
+- **E766.3** — Post falls when owners lose estate.
+- **E767** — Affinity of person and object.
+- **E767.1** — Ash pole appears at doorway several times on day owner's daughter dies.
+  *(It is used for coffin rests. The pole has previously mysteriously escaped being used for other purposes.)*
+- **E767.2** — Clothes of wicked person burn when owner dies.
+- **E770** — Vital objects.
+  *Objects that have life in them.*
+- **E771** — Ring with life in it.
+- **E772** — Sickle with life in it.
+- **E780** — Vital bodily members.
+  *They possess life independent of the rest of the body.*
+- **E780.1** — Vital body: kills attacking enemies.
+- **E780.2** — Animal bodily members transferred to person or other animal retains animal powers and habits.
+- **E781** — Eyes successfully replaced.
+- **E781.1** — Substituted eyes.
+  *Lost eyes are replaced by those of another person or animal.*
+- **E781.1.1** — Prince regains his eyesight after theft of eyes from water maidens.
+- **E781.2** — Eyes bought back and replaced.
+- **E781.3** — Eyes borrowed by animal.
+  *Later returned.*
+- **E782** — Limbs successfully replaced.
+- **E782.0.1** — Substituted limbs.
+  *Man borrows various limbs and successfully uses them.*
+- **E782.1** — Hands restored.
+- **E782.1.1** — Substituted hand.
+  *Man exchanges his hand for that of another.*
+- **E782.2** — Substituted ribs (chariot ribs).
+- **E782.3** — Arms restored.
+- **E782.3.1** — Substituted arm.
+  *Injured arm replaced by another.*
+- **E782.4** — Horse's leg cut off and replaced.
+- **E782.4.1** — Substituted leg.
+  *Injured leg replaced by another.*
+- **E782.4.2** — Severed leg(s) regrow(s).
+- **E782.5** — Substituted tongue.
+- **E783** — Vital head.
+  *Retains life after being cut off.*
+- **E783.1** — Head cut off and successfully replaced.
+- **E783.2** — Severed head regrows.
+- **E783.2.1** — Origin of Pegasus from neck of slain Medusa.
+- **E783.3** — Severed head reddens and whitens.
+- **E783.4** — Severed head opens eyes.
+- **E783.5** — Vital head speaks.
+- **E783.6** — Headless body vital.
+- **E783.7** — Headless man lives four (seven) years.
+- **E783.8** — Dead head grateful for burying it.
+- **E784** — Flesh regrows.
+- **E785** — Vital skin.
+  *Retains life after death of owner.*
+- **E785.1** — Substituted skin.
+- **E785.1.1** — Ewe's hide grafted to skinless head of wounded man.
+- **E786** — Heart successfully replaced.
+- **E787** — Stomach borrowed by animal.
+  *Later returned.*
+- **E788** — Severed pap regrows when woman bears child.
+- **E789** — Vital bodily members miscellaneous.
+- **E789.1** — Organs exchanged with those of animal.
+- **E790** — The soul miscellaneous.
+- **E791** — Man who forgets to count himself dies immediately after.

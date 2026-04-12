@@ -1,0 +1,1911 @@
+# G. Ogres
+
+> Motif-Index of Folk-Literature · 1745 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Ogres
+
+- **G0** — Ogres.
+  *For a good discussion of the general concept and of the various kinds of ogres see Saintyves Contes de Perrault 299ff.;*
+- **G10** — Cannibalism.
+- **G11** — Kinds of cannibals.
+- **G11.0.1** — Cannibalistic god.
+- **G11.0.1.1** — As result of fraud, Saturn swallows stone instead of infant Jove.
+- **G11.0.1.2** — Father of goddess as cannibal.
+- **G11.1** — Cannibal dwarfs.
+- **G11.2** — Cannibal giant.
+- **G11.2.1** — Giant devours any person who fails to do his bidding.
+- **G11.3** — Cannibal witch.
+- **G11.4** — Negro cannibal.
+- **G11.5** — Water cannibal.
+- **G11.6** — Man-eating woman.
+- **G11.6.1** — Female ogre changes men into tigers and eats women.
+- **G11.6.2** — Woman who marries tiger is fed human nails regularly.
+- **G11.6.3** — Old woman calls beasts together to join her in feast on human flesh.
+- **G11.6.4** — Woman devours her husband.
+- **G11.7** — Cannibalistic king.
+- **G11.8** — Cannibal meteor.
+- **G11.8.1** — Stars as cannibals.
+- **G11.9** — Ogre schoolmaster.
+  *Girl sees schoolmaster eat human flesh. Refuses to tell him what she saw. He persecutes her.*
+- **G11.10** — Cannibalistic spirits.
+- **G11.10.1** — Cannibalistic spirits in upper world.
+- **G11.11** — Cannibal with extraordinary features.
+- **G11.11.1** — Albino twins with cannibal appetite.
+- **G11.11.2** — Hairless cannibal.
+- **G11.12** — Cannibal with winnowing tray and pestle.
+- **G11.13** — Gambling cannibal.
+- **G11.14** — Jungle-man as cannibal.
+- **G11.15** — Cannibal demon.
+- **G11.16** — Army of cannibal monsters.
+- **G11.17** — Seven-mouthed cannibal ogre.
+- **G11.18** — Cannibal tribe.
+- **G11.18.1** — Cannibal people driven from land.
+- **G12** — Transformation in order to eat own kind.
+  *Man transforms self to animal and eats men.*
+- **G13** — Spiritual exaltation from eating human flesh.
+- **G13.1** — Ritual cannibalism: corpse of hero (demigod) eaten to acquire his strength.
+- **G13.2** — Ogre eats beautiful girl hoping to have her beauty.
+- **G15** — Human being devoured daily.
+- **G15.1** — Giant eats men on New Year's Day.
+- **G17** — Ogre seduces sleeping girl in order to devour her.
+- **G18** — Haunts of cannibals.
+- **G18.1** — Cannibals live at cemetery.
+- **G20** — Ghouls.
+  *Persons eat corpses.*
+- **G20.1** — Devil as husband eats corpses.
+- **G21** — Female eater of corpses.
+- **G23** — People who eat their parents when they die, saying: they carried us in their bodies when we were born; now we shall do the same for them.
+- **G25** — Abandoned infant lives by eating corpse of murdered father.
+- **G27** — Moon made to eat wife's corpse by mother-in-law.
+- **G30** — Person becomes cannibal.
+- **G31** — Children flee from father who turns cannibal.
+- **G33** — Child born as cannibal.
+- **G33.1** — Cannibal disenchanted by overcoming it.
+  *Becomes maiden.*
+- **G34** — Human child brought up by ogress becomes a man-eater.
+- **G36** — Taste of human flesh leads to habitual cannibalism.
+- **G36.1** — Husband becomes cannibal from eating wife's breast.
+  *She cuts off her breasts and cooks them to feed her family. The husband thus acquires a longing for human flesh.*
+- **G36.2** — Human blood (flesh) accidentally tasted: brings desire for human flesh.
+- **G36.2.1** — People fear that boy who eats raw birds will eat them when he grows older.
+- **G37** — Girl seduced by brother becomes cannibal ogre.
+- **G50** — Occasional cannibalism.
+- **G51** — Person eats own flesh.
+- **G51.1** — Person eats self up.
+- **G55** — People who eat child become supernatural.
+- **G60** — Human flesh eaten unwittingly.
+- **G61** — Relative's flesh eaten unwittingly.
+- **G61.1** — Child recognizes relative's flesh when it is served to be eaten.
+- **G61.1.1** — Girl avoids eating her mother's flesh by spilling the meat and the soup in the pen.
+- **G61.2** — Mother recognizes child's flesh when it is served to be eaten.
+- **G62** — Murderer caused to eat victim's flesh unwittingly.
+  *Sickens and dies.*
+- **G63** — Unwitting cannibalism: scavenger in wedding feast finds basket of noses put there by hero and thinks it full of meat.
+- **G64** — Human flesh being cooked speaks out.
+- **G70** — Occasional cannibalism deliberate.
+- **G70.1** — Hungry seamen eat human flesh.
+- **G71** — Unnatural children eat parent.
+- **G71.1** — Girl attempts to eat parents but they escape.
+- **G72** — Unnatural parents eat children.
+- **G72.1** — Woman plans to eat her children.
+- **G72.2** — Starving woman abandoned in cave eats newborn child.
+- **G72.3** — Girl child fed on infant boys' flesh to make her grow faster.
+- **G72.4** — Voice of slain and eaten child comes from the heart of cannibal.
+- **G73** — Girls eat their sister.
+- **G73.1** — Brothers eat their sister.
+- **G73.2** — Brother eats brother.
+- **G74** — Man eats friend.
+- **G75** — Father takes his daughter to cannibal to be eaten.
+- **G76** — Aged person eaten.
+- **G77** — Husband eats wife.
+- **G78** — Cannibalism during plague.
+- **G78.1** — Cannibalism in time of famine.
+- **G79** — Occasional cannibalism deliberate miscellaneous.
+- **G79.1** — Animal-wife devours her husband.
+- **G79.2** — Woman eats daughter-in-law.
+- **G80** — Other motifs dealing with cannibals.
+- **G81** — Unwitting marriage to cannibal *Type 311; *MacCulloch Childhood 291ff.
+- **G81.1** — Cannibal marries wife by force.
+- **G82** — Cannibal fattens victim.
+- **G82.1** — Cannibal cuts captive's finger to test fatness.
+- **G82.1.1** — Captive sticks out bone instead of finger when cannibal tries to test his fatness.
+- **G83** — Cannibal sharpens knife to kill captive.
+- **G83.1** — Ogress whets teeth to kill captive.
+- **G84** — Fee-fi-fo-fum.
+  *Cannibal returning home smells human flesh and makes exclamation.*
+- **G85** — Ungrateful cannibal.
+  *Eats offered food and then threatens hosts.*
+- **G86** — Cannibals cut off parts of children's bodies.
+- **G86.1** — Cannibal ogress gives finger of one girl to her frightened sister.
+- **G87** — Cannibal crunching human bone says noise is only eating of peas.
+- **G88** — Cannibal has long tooth and long nail.
+- **G88.1** — Men with iron claws eat girl.
+- **G88.2** — Man-eater with two great tusks on which he hangs the carcasses of the dead.
+- **G91** — Cannibalism brings madness.
+- **G91.1** — Man forced to eat dead father's heart goes mad.
+- **G91.1.1** — Man forced to eat dead father's heart struck dumb.
+- **G91.2** — Cannibalism causes death.
+- **G92** — Cannibal hard to lift.
+- **G93** — Cannibal breaks wind as means of attack.
+- **G94** — Cannibal's gigantic meal.
+- **G94.1** — Ogress takes travelers out of cave and devours them one by one.
+- **G94.2** — Cannibal ogres eat daily ten men, ten women, ten children from the same tribe.
+- **G95** — Old man says his arm is getting thin indicates desire for human flesh.
+
+## Giant ogre
+
+- **G100** — Giant ogre.
+  *Polyphemus.*
+- **G100.1** — Giant ogre (Fomorian).
+- **G101** — Giant gambler as ogre.
+- **G105** — Valley of the one hundred giants.
+- **G110** — Possessions of giant ogres.
+- **G111** — Giant ogres possess castle.
+- **G112** — Giant's fields fertile; others arid.
+- **G120** — Physical characteristics of giant ogres.
+- **G121** — Blind giant ogre.
+- **G121.1** — Three giants with one eye.
+  *They pass it around.*
+- **G121.1.1** — One-eyed giant (ogre).
+- **G122** — Giant's hair grows into rock.
+  *He is thus kept from falling from cliff.*
+- **G123** — Giant ogress with breasts thrown over her shoulder.
+- **G124** — Skeleton giant.
+- **G125** — Fire-spewing giantess.
+- **G126** — Giant ogre in shape of animal.
+- **G126.1** — Giant ogre in the shape of a cat.
+- **G126.2** — Giant ogre in shape of horse.
+- **G130** — Customs of giant ogres.
+- **G131** — Giant ogre never crosses water.
+- **G150** — Giant ogres miscellaneous.
+- **G151** — Two giants with one axe.
+  *They throw it back and forth to each other.*
+- **G152** — Giant herdsman.
+  *Hideous beastlike giant guards a herd of wild fighting animals. Herdsman can seize one of them in such a way as to make rest beg mercy.*
+- **G152.1** — Giant with tree for herding-stick.
+- **G154** — Giant hacked so that a staircase is made up his body.
+  *Hero climbs up and kills him.*
+- **G156** — King of the giants.
+- **G157** — Giant ogre's prodigious speed.
+- **G158** — Giant's shriek heard five miles away.
+- **G161** — Giant issues out of tiny vessel.
+- **G162** — Giant lives in a castle in the air.
+- **G171** — Giant roasts camels, elephants for food on crater of volcano.
+
+## Witch
+
+- **G200** — Witch.
+- **G201** — Three witch sisters.
+  *Sometimes simply three hags.*
+- **G201.1** — Three witches (hags) deformed from much spinning.
+- **G202** — Beneficent witches.
+- **G203** — Origin of witches.
+- **G203.1** — Witch daughter of fairy and man.
+- **G203.2** — Witches come forth at emergence of mankind.
+- **G204** — Girl in service of witch.
+- **G205** — Witch stepmother.
+- **G206** — Witch has (three) giant sons.
+- **G207** — Male witch.
+- **G210** — Form of witch.
+- **G210.0.1** — Witch invisible.
+- **G211** — Witch in animal form.
+- **G211.1** — Witch in form of domestic beast.
+- **G211.1.1** — Witch in form of horse.
+- **G211.1.1.1** — Witch in form of headless horse.
+- **G211.1.1.2** — Witch as horse shod with horseshoes.
+- **G211.1.2** — Witch in form of mule.
+- **G211.1.3** — Witch in form of cow.
+- **G211.1.4** — Witch in form of sheep.
+- **G211.1.5** — Witch in form of goat.
+- **G211.1.6** — Witch in form of hog.
+- **G211.1.7** — Witch in form of cat.
+- **G211.1.8** — Witch in form of dog.
+- **G211.2** — Witch in form of wild beast.
+- **G211.2.1** — Witch in form of bear.
+- **G211.2.2** — Witch in form of wolf.
+- **G211.2.3** — Witch in form of fox.
+- **G211.2.4** — Witch in form of deer.
+- **G211.2.4.1** — Witch in form of stag.
+- **G211.2.5** — Witch in form of mouse.
+- **G211.2.6** — Witch in form of rat.
+- **G211.2.7** — Witch in form of hare.
+- **G211.2.7.1** — Witch as hare allows self to be coursed by dogs for pay or for sport.
+- **G211.2.8** — Witch as raccoon.
+- **G211.2.9** — Witch as hedgehog.
+- **G211.2.10** — Witch in form of bat.
+- **G211.3** — Witch in form of domestic bird.
+- **G211.3.1** — Witch in form of hen.
+- **G211.3.1.1** — Witch in form of rooster.
+- **G211.3.2** — Witch in form of duck.
+- **G211.3.3** — Witch in form of goose (gosling).
+- **G211.4** — Witch in form of wild bird.
+- **G211.4.1** — Witch in form of crow.
+- **G211.4.2** — Witch in form of partridge.
+- **G211.4.3** — Witch in form of heath hen.
+- **G211.4.4** — Witch in form of owl.
+- **G211.4.5** — Witch in the form of buzzard.
+- **G211.5** — Witch in form of an insect.
+- **G211.5.1** — Witch in form of fly.
+- **G211.5.2** — Witch in form of bee.
+- **G211.5.3** — Witch in form of beetle.
+- **G211.6** — Witch in amphibian form.
+- **G211.6.1** — Witch in form of toad.
+- **G211.6.2** — Witch in form of crocodile.
+- **G211.7** — Witch in form of fish.
+- **G211.7.1** — Witch in form of whale.
+- **G211.8** — Witch in form of reptile.
+- **G211.8.1** — Witch in form of snake.
+- **G211.9** — Witch in form of mythical animal.
+- **G211.9.1** — Witch in form of dragon.
+- **G212** — Witch in form of object.
+- **G212.1** — Witch in form of blade of straw.
+- **G212.2** — Witch in form of cookstove.
+- **G212.3** — Witch in form of a scroll.
+- **G212.4** — Witch in form of a tree.
+- **G212.5** — Witch in form of ball of fire.
+- **G213** — Witch with extraordinary eyes.
+- **G213.1** — One-eyed witch.
+- **G213.2** — Witch with red eyes.
+- **G213.3** — Witch with receding eyes.
+- **G213.4** — Witch with blazing eyes.
+- **G214** — Witch with extraordinary teeth.
+- **G214.1** — Witch with long teeth.
+- **G214.2** — Witch with iron teeth.
+- **G214.3** — Witch with nine rows of teeth.
+- **G214.4** — Witch with twisted tusks (reaching to her shoulders).
+- **G215** — Witch extraordinary as to head.
+- **G215.1** — Seven-headed witch.
+- **G216** — Witch with extraordinary feet.
+- **G216.1** — Witch with goose feet.
+- **G217** — Witch with enormous hands.
+- **G219** — Form of witch miscellaneous.
+- **G219.1** — Witch with iron members.
+- **G219.2** — Witch (troll-woman) with beard.
+- **G219.3** — Witch has long nails.
+- **G219.4** — Witch with very long hair.
+- **G219.5** — Wrinkled witch.
+- **G219.6** — Witch is twisted, bony (has lumps on body).
+- **G219.7** — Black witch.
+- **G219.8** — Tailed witch.
+- **G219.8.1** — Witch with fifteen tails.
+- **G219.8.2** — Witch with knife-like tail.
+- **G219.9** — Witch's back covered with nails and broken glass.
+- **G220** — Characteristics of witches.
+- **G220.0.1** — Black" and "white" witches.
+  *Malevolent and benevolent.*
+- **G220.0.2** — Sex of witches.
+  *Both men and women are called witches.*
+- **G221** — Strength of witches.
+- **G221.1** — Strength of witches in hair.
+- **G221.1.1** — Witch's hair has power to bind or to transform.
+- **G221.2** — Strength of witches depends on their touching earth.
+- **G221.3** — Witch has extraordinary bodily strength.
+- **G221.3.1** — Witch marks stone with finger marks.
+- **G221.4** — Witch cannot be hurt if she looks attacker in the face.
+- **G222** — Luminous witches.
+- **G222.1** — When devil combs witches, sparks fly.
+- **G222.2** — Luminous witch-boat.
+  *Carries fishermen to bottom of sea.*
+- **G223** — Head of beheaded witch mends if rubbed with salt.
+- **G224** — Source of witch's magic.
+- **G224.1** — Witch's charm opposite of Christian.
+  *Must be "Without God and Holy Mary" instead of "With God, etc." (Cf. +G224.5.)*
+- **G224.2** — Witch's salve.
+  *Source of magic power.*
+- **G224.3** — Witches get their powers from books.
+- **G224.4** — Person sells soul to devil in exchange for witch powers.
+- **G224.5** — Witch's power received by altering religious ceremony.
+- **G224.6** — Witch power acquired by standing on manure pile, swinging red lantern, looking over shoulder.
+- **G224.7** — Witch gets power by licking brew made from a serpent.
+- **G224.8** — Person gets witch power by walking twelve times around a church backward at midnight.
+- **G224.9** — Witch power is inherited.
+- **G224.10** — Witch power is transferred from one person to another.
+- **G224.11** — Witch power from bone ("witch bone").
+- **G224.11.1** — Witch bone from toad.
+- **G224.11.2** — Witch bone from cat.
+- **G224.12** — Word charm gives witch power.
+- **G224.13** — Other sources of witch's power.
+- **G224.13.1** — Witch uses bottle of horse-nail stumps to bewitch people.
+- **G224.14** — Witches renew powers periodically.
+- **G225** — Witch's familiar spirit.
+- **G225.0.1** — Witch feeds animal familiar with her own blood.
+- **G225.0.2** — Familiar is given to witch by devil when person becomes witch.
+- **G225.0.3** — Familiars do work for witch.
+- **G225.0.4** — Bullets will not harm witch's familiars.
+- **G225.0.5** — Familiar's abode is magician's cellar.
+- **G225.0.5.1** — Familiar's abode is hearth of magician.
+- **G225.0.6** — Familiar comes at nightfall and disappears at cockcrow.
+- **G225.0.7** — Familiar to be fed on human meat.
+- **G225.1** — Insect as witch's familiar.
+  *(Fly, bee, gnat, spider.)*
+- **G225.2** — Horse as witch's companion.
+- **G225.3** — Cat as servant of witch.
+- **G225.4** — Toad as witch's familiar.
+- **G225.5** — Witch has an army of dragons, lions and bears.
+- **G225.6** — Dog as witch's familiar.
+- **G225.7** — Other animal as witch's familiar.
+- **G225.7.1** — Magician's familiar a pig.
+- **G225.7.2** — Magician's familiar a viper.
+- **G225.8** — Minor devil or imp as witch's familiar.
+- **G229** — Characteristics of witches miscellaneous.
+- **G229.1** — Soul of witch leaves the body.
+- **G229.1.1** — Witch who is out of skin is prevented from reentering it when person salts or peppers skin.
+- **G229.2** — Witch carries her children in her own body.
+- **G229.3** — Witches lack bread and salt.
+- **G229.4** — Invulnerability of witches.
+- **G229.4.1** — Witch can be killed only by certain lance.
+- **G229.4.2** — Witch can catch bullets and send them back.
+- **G229.4.3** — Witch's body does not bleed when stuck with sharp object.
+- **G229.4.4** — Witch says her knees are beads (liver is lead, stomach is copper, or the like).
+- **G229.5** — Beautiful witch.
+- **G229.6** — Witch's body melts stone she sits on.
+- **G229.7** — Blue lights follow witches.
+- **G229.8** — Fire burns up and crackles when wizard passes fireplace.
+- **G230** — Habitat of witches.
+- **G231** — Witch dwells on cliff.
+- **G232** — Witch dwells on glass mountain.
+- **G233** — Witch lives in fairy mound.
+- **G234** — Witch resides in tree.
+- **G235** — Witch lives in monastery.
+- **G236** — Witch lives in forest.
+- **G240** — Habits of witches.
+- **G241** — Witch rides.
+- **G241.1** — Witch rides on unusual animal.
+- **G241.1.1** — Witch rides on wolf.
+- **G241.1.2** — Witch rides on goat.
+- **G241.1.3** — Witch rides on dog.
+- **G241.1.4** — Witch rides on cat.
+- **G241.1.4.1** — Witch rides on black cat.
+- **G241.1.5** — Witch rides on whale.
+- **G241.1.6** — Witch rides on cattle.
+- **G241.1.7** — Witch rides on tiger.
+- **G241.2** — Witch rides on person.
+- **G241.2.1** — Witch transforms man to horse and rides him.
+- **G241.2.1.1** — Witch transforms person by means of magic bridle.
+- **G241.2.2** — Person enchanted by witch's salve so as to be ridden by witch.
+- **G241.3** — Witch rides on horse.
+- **G241.3.1** — Witch rides on horses transformed from straw.
+- **G241.3.2** — Witch rides horses through air.
+- **G241.3.3** — Witch's horse or witch leaves mark on church steeple as he goes over.
+- **G241.4** — Witch rides on object.
+- **G241.4.1** — Witches ride on tubs using goose wings for oars.
+- **G241.4.2** — Witches travel on water in eggshells.
+- **G241.4.3** — Witch travels over water in a sieve or a riddle.
+- **G241.4.4** — Witches ride on bee-hives.
+- **G242** — Witch flies through air.
+- **G242.1** — Witch flies through air on broomstick.
+- **G242.1.1** — Witch smears fat on brooms in preparation for flight.
+- **G242.1.2** — Witch rides stalk of broom (ragwort).
+- **G242.2** — Witch flies as whirlwind.
+- **G242.3** — Witch flies through air on leaf.
+- **G242.4** — Witches ride tree through the air.
+- **G242.5** — Other objects that bear witches aloft.
+- **G242.6** — Witches use magic aids for flying.
+- **G242.7** — Person flying with witches makes mistake and falls.
+- **G242.8** — Person imitates witch by putting ointment in eye: eye blinded.
+- **G243** — Witch's sabbath.
+  *A meeting of witches in which church services are burlesqued.*
+- **G243.1** — Obeisance to devil at witch's sabbath.
+- **G243.1.1** — Witches kiss devil's tail.
+- **G243.2** — Parody of church ceremony at witch's sabbath.
+- **G243.2.1** — Witch's rosary consists of goat dung.
+- **G243.3** — Witches have sexual intercourse with devil or his minions.
+- **G243.3.1** — Witch gives birth to toads and snakes after union with devil.
+- **G243.4** — Witches worship demon.
+- **G244** — Witch spins.
+- **G244.1** — Witch winds yarn.
+- **G245** — Witch bathes.
+- **G245.1** — Witch transforms self into snake when she bathes.
+- **G246** — Witches bake bread.
+- **G247** — Witches dance.
+- **G247.1** — Witches dance with devil at witch's holiday.
+- **G248** — Witches feast on rich food and drink.
+- **G248.1** — Man joins feast of witches.
+- **G249** — Habits of witches miscellaneous.
+- **G249.1** — Witches drive herds of deer.
+- **G249.2** — Witches scream.
+- **G249.3** — Witch enters and leaves house by chimney.
+- **G249.4** — Witch returns late home and leaves early.
+- **G249.5** — Witches boil cauldron of wizardry (cook dog).
+- **G249.6** — Witch followed by husband; dies when discovered.
+- **G249.7** — Witches go through keyholes.
+- **G249.8** — Witches open doors and windows.
+- **G249.9** — Witches vanish from prison.
+- **G249.10** — Witches can see in the dark.
+- **G249.10.1** — Witches use eyes of animals to travel at night.
+  *They leave their own eyes at home, substitute those of an animal.*
+- **G249.11** — Witches rock empty chairs.
+- **G250** — Recognition of witches.
+- **G250.1** — Man discovers his wife is a witch.
+- **G251** — Witch recognized by seeing wandering soul return.
+- **G251.1** — Witch recognized by seeing wasp (beetle) enter her mouth while asleep.
+  *Only when it enters can she be awakened.*
+- **G251.1.1** — Separable soul of witch in parrot.
+- **G251.2** — Witch recognized when skin of witch is found with soul absent.
+- **G252** — Witch in form of cat has hand cut off: recognized next morning by missing hand.
+- **G252.0.1** — A cat in form of an old woman has hand cut off; recognized next morning by missing paw.
+- **G252.1** — Witch killed as whale.
+  *She herself is sitting at home.*
+- **G252.2** — Goat's tongue pierced with sharp needle; consequently, witch is sick with pierced tongue.
+- **G252.3** — Bird's neck broken: rakshasa dies.
+- **G253** — Witch's horns discovered by lousing her.
+- **G254** — Witch known by inability to rise from chair with four-leaf clover under it.
+- **G254.1** — Witch cannot rise if ring lies under her chair.
+- **G254.2** — Witch known by inability to rise from chair with salt under cushion.
+- **G255** — Witch known by hose unbound on one leg.
+- **G257** — Charms to cause witch to reveal herself.
+- **G257.1** — Burning object forces witch to reveal herself: sympathetic magic.
+- **G257.2** — Reading Bible backwards causes witch to reveal herself.
+- **G257.3** — Turning table, cutting notches in it causes witch to reveal herself.
+- **G257.4** — Taking tile from witch's house forces her to reveal herself.
+- **G257.5** — Person puts man's breeches over cow's head; the cow stops in front of witch's house.
+- **G257.6** — Person places three notched elder twigs under bowl.
+  *Witch is forced to remove them, thus revealing herself.*
+- **G259** — Witch recognition miscellaneous methods.
+- **G259.1** — Witch recognized by looking in or through magic object.
+- **G259.2** — Witch recognized by odor.
+- **G259.3** — Witch may be recognized by absence of bleeding when she is pricked with pins.
+- **G259.4** — Witch may be recognized after death by great weight of corpse.
+- **G259.5** — Witch stretches out her hand and brings water from ocean without getting out of her bed; is recognized.
+- **G260** — Evil deeds of witches.
+- **G261** — Witch steals children.
+- **G261.1** — Witch steals child with hand through chimney.
+- **G262** — Murderous witch.
+- **G262.0.1** — Lamia.
+  *Witch who eats children.*
+- **G262.0.1.1** — Lamia devours her lover.
+- **G262.1** — Witch sucks blood.
+  *Striges.*
+- **G262.1.1** — Witch's cat as sucker of blood.
+- **G262.1.2** — Witch sucks blood from woman's or child's breasts.
+- **G262.1.3** — Witches suck blood from the navel of a child without anyone knowing it.
+- **G262.2** — Witch eats person's entrails (heart).
+- **G262.3** — Witch in animal form kills.
+- **G262.3.1** — Witch in form of she-goat kills men.
+- **G262.3.2** — Witch as cat causes death.
+- **G262.4** — Witch kills with aid of witch-ball (hair rolled in beeswax).
+  *The ball is sometimes found in the mouth of dead victims.*
+- **G262.5** — Witch takes out man's liver.
+- **G263** — Witch injures, enchants or transforms.
+- **G263.0.1** — Witch (female demon) has persons she has enchanted as servants.
+- **G263.1** — Witch transforms person to animal.
+- **G263.1.0.1** — Witch transforms her lovers into animals.
+- **G263.1.1** — Witch transforms man to bear.
+- **G263.1.2** — Witch transforms person to seal.
+- **G263.1.3** — Witch transforms man to cow.
+- **G263.1.4** — Witch transforms husband into dog.
+- **G263.1.5** — Witch transforms man to bird.
+- **G263.1.5.1** — Witch transforms man to crow.
+- **G263.1.5.2** — Witch transforms man to dove.
+- **G263.2** — Witch transforms man to object.
+- **G263.2.1** — Witch transforms to stone.
+- **G263.2.1.1** — Witch transforms man into soapstone.
+- **G263.2.2** — Witch transforms man to tree.
+- **G263.3** — Witch causes other transformation.
+- **G263.3.1** — Witch transforms townspeople into witches.
+- **G263.3.2** — Witch transforms girl into man.
+- **G263.4** — Witch causes sickness.
+- **G263.4.0.1** — Illness caused by curse of witch.
+- **G263.4.1** — Witch causes toothache.
+- **G263.4.2** — Witch causes fits.
+- **G263.4.3** — Witch cripples or lames through illness.
+- **G263.4.4** — Witch makes person dumb.
+- **G263.4.5** — Witch makes person blind.
+- **G263.5** — Witch revives dead.
+- **G263.6** — Witchcraft causes maiden to hate lover.
+- **G263.7** — Witch causes insanity.
+- **G263.8** — Witch makes person lousy.
+- **G264** — La Belle Dame Sans Merci.
+  *Witch entices men with offers of love and then deserts or destroys them.*
+- **G264.0.1** — Ogress bathes in pool, is transformed into beautiful maiden, and becomes king's favorite wife.
+- **G264.1** — Woman is death of all who behold her.
+- **G264.2** — Witch's kisses disfigure person.
+- **G264.3** — Female ogre seduces men with charm (words).
+- **G264.3.1** — Witch disguised becomes queen, devours king's horses nightly.
+- **G264.4** — Fairy-like witch marries man and causes him misfortune.
+- **G265** — Witch abuses property.
+- **G265.1** — Witch scatters tools at night.
+- **G265.2** — Witch drowns foal.
+- **G265.3** — Witch rides horse at night.
+- **G265.3.1** — Witch's hair on horse becomes iron.
+- **G265.4** — Witches cause disease or death of animals.
+- **G265.4.0.1** — Witch punishes owner for injury or slight by killing his animals.
+- **G265.4.1** — Witch causes death of animals.
+- **G265.4.2** — Witch causes illness of animals.
+- **G265.5** — Witch maims animals.
+- **G265.6** — Witch causes animals to behave unnaturally.
+- **G265.6.1** — Witch causes pigs to behave unnaturally.
+- **G265.6.1.1** — Witch causes pigs to dance.
+- **G265.6.2** — Witch causes cattle to behave unnaturally.
+- **G265.6.2.1** — Witch causes cattle to run about wildly.
+- **G265.6.3** — Witch causes horse to behave unnaturally.
+- **G265.6.4** — Witch causes dog to behave unnaturally.
+- **G265.6.4.1** — Witch causes dog to dance on hind legs.
+- **G265.7** — Witch controls actions of animals.
+- **G265.8** — Witch bewitches objects.
+- **G265.8.1** — Witch bewitches household articles.
+- **G265.8.2** — Witch bewitches clothing.
+- **G265.8.3** — Witch bewitches implements and machinery.
+- **G265.8.3.1** — Witch bewitches gun.
+- **G265.8.3.1.1** — Gun bewitched so that it will not hit target.
+- **G265.8.3.1.2** — Witch throws bullets back at shooter.
+- **G265.8.3.2** — Witch bewitches wagon.
+- **G265.8.4** — Object bewitched miscellaneous.
+- **G265.8.4.1** — Witch causes hangman's rope to dance so that it cannot be tied to hang her.
+- **G265.8.4.2** — Witch bewitches goose eggs so that they do not hatch.
+- **G265.8.5** — Witch bewitches buildings.
+- **G265.9** — Witches ruin crop.
+- **G265.9.1** — Witch kills balsam plant after owner refuses to give some to the witch.
+- **G265.10** — Witches bewitch trees.
+- **G265.10.1** — Witches shake fruit off trees to punish owner.
+- **G266** — Witches steal.
+- **G266.1** — Invisible witches steal goods in market.
+- **G267** — Man pursued by witches.
+- **G269** — Evil deeds of witches miscellaneous.
+- **G269.1** — Witch begs man to scratch her back: kills him.
+- **G269.1.1** — Witch pretends sickness and kicks helper into pit.
+- **G269.2** — Witch asks for snuff so that she may seize man.
+  *He offers it to her on point of spear and escapes.*
+- **G269.3** — Witch harnesses man and leads him to dance.
+- **G269.3.1** — Witch rides man to dance.
+- **G269.4** — Curse by disappointed witch.
+- **G269.4.1** — Curse by other angry ogres or ogresses.
+- **G269.5** — Witch causes haunted houses.
+- **G269.6** — Witch eats up visitor's bow.
+- **G269.7** — Witch estranges brothers.
+- **G269.8** — Ship wrecked by witch.
+- **G269.9** — Witch cuts steaks from hero's body.
+- **G269.10** — Witch punishes person who incurs her ill will.
+- **G269.10.1** — Witch kills person as punishment.
+- **G269.11** — Witch causes deformity.
+- **G269.11.1** — Witch causes person to become hunchbacked.
+- **G269.11.2** — Witch causes person's arm to wither.
+- **G269.12** — Witch causes person to break limbs.
+- **G269.12.1** — Witch breaks bridegroom's leg when slighted by bride.
+- **G269.13** — Witch causes person to fall from height.
+- **G269.14** — Witch causes person to be burned.
+- **G269.15** — Witch scratches person.
+- **G269.16** — Witch causes gun to explode, injuring person.
+- **G269.17** — Invisible witch sticks victim with pins.
+- **G269.18** — Witch pushes man around on floor (witch is invisible).
+- **G269.19** — Witches as ducks pinch victim.
+- **G269.20** — Witch prevents woman from putting one foot on floor.
+- **G269.21** — Witch torments person by making him act in ridiculous manner.
+- **G269.21.1** — Witch causes person to break wind in presence of others.
+- **G269.21.2** — Witch causes person to mew like cat and neigh like horse.
+- **G269.21.3** — Witch causes man to strip naked and imitate a jockey riding himself.
+- **G269.22** — Witch makes girl believe her lover has ass's head.
+- **G269.23** — Witch causes lovers on stile to think they are surrounded by water.
+- **G269.24** — Witch makes man believe a dead bull is alive and chasing him.
+- **G269.25** — Witch causes person to spin around on bedpost.
+- **G269.26** — Witch stands person on her head.
+- **G270** — Witch overcome or escaped.
+- **G271** — Witch exorcised.
+- **G271.1** — Witch exorcised by burning stick.
+- **G271.2** — Witch exorcised by use of religious ceremony, object, or charm.
+- **G271.2.1** — Sign of the cross marked on bewitched object breaks witch spell.
+- **G271.2.1.1** — Cross marked on horn and forehead of cow causes bewitched cow to give normal amount of milk.
+- **G271.2.2** — Witch exorcised by holy water.
+- **G271.2.3** — Name of deity breaks witch's spell.
+- **G271.2.4** — Priestly exorcism for witch.
+- **G271.2.5** — Bible used in exorcism of witch.
+- **G271.2.6** — Dust from communion table breaks spell.
+- **G271.3** — Use of salt in exorcism of witch.
+- **G271.4** — Exorcism by use of sympathetic magic.
+- **G271.4.1** — Exorcism by burning object for sympathetic magic.
+- **G271.4.2** — Exorcism by injuring image of witch.
+- **G271.4.3** — Breaking spell by destroying image of victim used by the witch in torturing the victim.
+- **G271.4.4** — Breaking spell on animal by bleeding or maiming animal.
+  *Witch suffers same loss or injury.*
+- **G271.4.5** — Breaking spell by beating the person or object bewitched.
+  *This injures the witch.*
+- **G271.4.6** — Breaking spell by sticking sharp object into tracks of witch.
+  *This pains or paralyzes her.*
+- **G271.4.7** — Breaking spell by burying bottle of water, preventing witch from urinating until the bottle is emptied.
+- **G271.4.8** — Breaking spell by shooting bewitched object.
+- **G271.4.9** — Breaking spell on animal by pulling three hairs from tail.
+- **G271.4.10** — Breaking spell by burying animal alive.
+- **G271.4.11** — Breaking spell on cream by holding churn handle hard against bottom of churn.
+  *This paralyzes the witch.*
+- **G271.5** — Exorcism by violent treatment of the witch in person.
+- **G271.6** — Exorcism of witch by countercharm.
+- **G271.7** — Exorcism of witch by special burial practice.
+- **G271.8** — Exorcism by means of ghoulish charm.
+- **G271.9** — Sick child from witchcraft is put on anvil; smith strikes violently but brings hammer down gently, three times.
+- **G271.10** — Person removes string with thirteen knots from child's mouth.
+- **G272** — Protection against witches.
+- **G272.1** — Steel powerful against witches.
+- **G272.2** — Magic herb protects from witch.
+- **G272.2.1** — Rowan wood (quicken, etc.) protects against witches.
+- **G272.2.2** — Witchhazel used for protection against witches.
+- **G272.2.3** — Hawthorn used as protection against witches.
+- **G272.2.4** — Bay leaves used as protection against witches.
+- **G272.3** — Knife in bed as protection against witches.
+- **G272.4** — Fires burnt in streets to ward off witches.
+- **G272.5** — Protection from witch by spitting.
+- **G272.6** — Sieve as protection against witches.
+- **G272.7** — Object across door protects from witch.
+- **G272.7.1** — Beam across door protects from witch.
+- **G272.7.2** — Broom across door protects from witch.
+- **G272.8** — Pouring water on fire from new cup protects from witch.
+- **G272.9** — Reversing the poker protects from witch.
+- **G272.10** — Stopped bottle as protection against witches.
+- **G272.11** — Horseshoe hung up as protection against witches.
+- **G272.12** — Straws as protection against witch.
+- **G272.13** — Stone with a hole through it protects against witches.
+- **G272.14** — Witch kept under control by means of a magic iron nail driven in her head.
+- **G272.15** — Witch controlled by means of magic spells.
+- **G272.16** — Salt protects against witches.
+- **G272.16.1** — Salt put into churn before churning to protect cream from witch.
+- **G272.17** — Burning thatch from home of witch protects against witch.
+- **G272.18** — Grass from new grave protects against witches.
+- **G273** — Witch rendered powerless.
+- **G273.1** — Witch powerless when one makes sign of cross.
+- **G273.1.1** — Witch powerless from lightbeam sent by saint.
+- **G273.2** — Witch powerless when person speaks before she does.
+- **G273.3** — Witch powerless at cockcrow.
+- **G273.4** — Witch powerless to cross stream.
+- **G273.4.1** — If witch grabs horse's tail on bridge, man is safe from her.
+- **G273.5** — Witches powerless at crossroads.
+- **G273.5.1** — Witch burned by furrows drawn round her home.
+- **G273.6** — Witch rendered powerless by drawing blood from her.
+- **G273.7** — Objects driven into tracks of witch immobilize her.
+- **G273.7.1** — Straw driven into witch's track immobilizes her.
+- **G273.7.2** — Steel driven into witch's track immobilizes her.
+- **G274** — Witch snared.
+- **G274.1** — Witch snared by setting out milk.
+  *Witches attracted by milk.*
+- **G275** — Witch defeated.
+- **G275.1** — Witch carried off by devil.
+- **G275.1.1** — Witch carried off by devil's crew.
+- **G275.2** — Witch overcome by helpful dogs of hero.
+- **G275.3** — Witch burned.
+- **G275.3.0.1** — Witch can be destroyed only by burning her to death.
+- **G275.3.1** — Witch burned by burning bewitched animal.
+- **G275.3.2** — Witch's heart (lungs, stomach) impossible to burn.
+- **G275.4** — Seven-headed witch defeated by throwing egg at each head.
+- **G275.4.1** — Witch killed, as egg with her soul is crushed against her forehead.
+- **G275.5** — Witch forced to divulge her secret powers.
+- **G275.5.1** — Witch bribed to divulge her secret powers.
+- **G275.6** — Witch surrendered by sons.
+- **G275.7** — Witch bound and beaten.
+- **G275.7.1** — Witch beheaded.
+- **G275.8** — Hero kills witch.
+- **G275.8.1** — Witch killed by placing salt or pepper inside skin while it is laid aside.
+- **G275.8.2** — Witch overcome by help of fairy.
+- **G275.9** — Fighting and wrestling with witch.
+- **G275.10** — Witch as participater in battle.
+- **G275.11** — Witches punished in hell.
+- **G275.12** — Witch in the form of an animal is injured or killed as a result of the injury to the animal.
+- **G275.13** — Rough treatment of object causes injury or death to witch.
+- **G275.14** — Witch out of body while traveling at night is injured; witch's body is injured at home.
+- **G275.15** — Witch overcome by threats.
+- **G275.15.1** — Witch overcome by threatening with sword.
+- **G276** — Escape from witch.
+- **G276.1** — Hen put in witch's hair to scratch while maid escapes.
+- **G277** — Testing of witches.
+- **G278** — Death of witch.
+- **G278.1** — Marvelous manifestations at death of witch.
+- **G279** — Witch overcome or escaped miscellaneous.
+- **G279.1** — Overpowered witch-maid commits suicide.
+- **G279.2** — Theft from witch.
+- **G279.2.1** — Gold stolen from witch.
+- **G280** — Witches miscellaneous motifs.
+- **G281** — Consecrated wafer kept in mouth in order to be a witch.
+- **G281.1** — Witch gives away consecrated wafer after service.
+- **G282** — Witches punish lazy spinning women.
+- **G283** — Witches have control over weather.
+- **G283.1** — Witch raises winds.
+- **G283.1.1** — Methods witch uses to raise wind.
+- **G283.1.2** — Reason why witch raises wind.
+- **G283.1.2.1** — Witch raises contrary wind to keep ship in port.
+- **G283.1.2.2** — Witch raises wind to aid becalmed boat.
+- **G283.1.2.3** — Witch raises wind to sink ships of people who have injured her.
+- **G283.1.2.4** — Witch raises wind to winnow grain.
+- **G283.1.2.5** — Witch raises wind to blow man's fleeces away.
+- **G283.1.2.6** — Witch raises wind to break up enemy's lumber pound.
+- **G283.1.3** — Witch sells power to control winds.
+- **G283.2** — Witch keeps winds from blowing.
+- **G283.2.1** — Witch keeps wind from blowing by putting cat under barrel.
+- **G283.3** — Witch produces rain or snow.
+- **G283.4** — Witch produces clear weather.
+- **G284** — Witch as helper.
+- **G285** — Witches avoid religious ceremonies.
+- **G285.1** — At communion witches spit out wine over shoulder.
+- **G286** — Initiation into witchcraft.
+- **G286.1** — Women learn witchcraft by masking as men.
+  *Hence women are witches.*
+- **G287** — Witches married to fairies.
+- **G288** — Witch escapes from locked room.
+- **G291** — Witch executed for engaging in witchcraft.
+- **G292** — Witch makes man engage in dangerous contests.
+- **G299** — Other witch motifs.
+- **G299.1** — Witch calls up spirits of dead, causes them to walk on water.
+- **G299.2** — Witch is heard struggling with devil.
+
+## Other ogres
+
+- **G300** — Other ogres.
+- **G301** — Monsters.
+  *Usually not clearly defined.*
+- **G302** — Demons.
+  *Malevolent creatures (not usually further defined).*
+- **G302.1** — Origin of demons and their companions.
+- **G302.1.1** — Demons: soul of the giants who perished in the flood.
+- **G302.1.2** — Evil spirits born of echo in chaos.
+- **G302.2** — Varieties of demons.
+- **G302.2.1** — Kingdom of demons.
+- **G302.2.2** — Devil King.
+- **G302.3** — Form of demon.
+- **G302.3.0.1** — Demon's size changed at will.
+- **G302.3.1** — Demon as fiery pillar.
+- **G302.3.2** — Demon in animal form.
+- **G302.3.3** — Demon in form of old woman.
+- **G302.4** — Physical characteristics of demons.
+- **G302.4.1** — Six characteristics of demons: three like angels, three like men.
+- **G302.4.2** — Invisibility of demons.
+- **G302.4.3** — Demons have only souls but no bodies.
+- **G302.4.4** — Demons cast no shadow.
+- **G302.4.5** — Feet of demons.
+- **G302.4.5.1** — Demons have cock-feet.
+- **G302.5** — Haunts of demons.
+- **G302.5.1** — Desert the abode of demons.
+- **G302.5.2** — Egypt as abode of demons.
+- **G302.5.3** — Demons present at discussion in academies.
+- **G302.6** — Circumstances of demons' appearance.
+- **G302.6.1** — Demons appear only at stated times.
+- **G302.7** — Mortal experiences of demons.
+- **G302.7.1** — Sexual relation between man and demons.
+- **G302.7.2** — Demons marry among themselves.
+- **G302.8** — Demon's helpers.
+- **G302.9** — Deeds of demons.
+- **G302.9.1** — Demons attack men.
+- **G302.9.2** — Demons abduct men and torment them.
+- **G302.9.3** — Demons tempt men.
+- **G302.9.4** — Demons injure and strangle little children.
+- **G302.9.5** — Demons help Satan.
+- **G302.9.6** — Demons fool men in their dreams.
+- **G302.9.7** — Enormous quantities of food eaten by demons.
+- **G302.9.8** — Demons teach men idolatry.
+- **G302.9.9** — Demons goad man to treachery.
+- **G303** — Devil.
+  *(The Devil, Satan, The Bad Man, Old Nick, etc.)+1 Not clearly differentiated, especially in German tradition, from the stupid ogre.*
+- **G303.1** — The origin of the devil and his companions.
+- **G303.1.1** — The devil originates from God.
+- **G303.1.1.1** — God creates the devil (Satan) from his own shadow.
+- **G303.1.1.2** — Devil originates from God's spittle.
+- **G303.1.1.2.1** — The devil originates from the spittle of an evil man.
+- **G303.1.1.3** — God changes an angel into the devil, because he tried to imitate God in creating the world.
+- **G303.1.1.4** — God creates the devil by striking a stone with his whip.
+- **G303.1.2** — God discovers the devil.
+- **G303.1.2.1** — God finds the devil sitting under a tree which was made by his throwing his staff into the water.
+- **G303.1.2.2** — God finds the devil under a stone.
+- **G303.1.2.3** — God discovers the devil in a piece of solid foam.
+- **G303.1.3** — The devil is created without the special aid of God.
+- **G303.1.3.1** — The devil is developed from man.
+- **G303.1.3.2** — The devil is created out of a bubble.
+- **G303.1.3.3** — The devil is created out of sea-foam.
+- **G303.1.3.4** — Pagan gods became devils.
+- **G303.1.3.5** — Satan created out of hell fire.
+- **G303.1.4** — The devil creates other devils.
+- **G303.1.4.1** — The devil creates devils by casting water behind himself.
+- **G303.1.4.2** — Devils are created from sparks produced by Satan's striking two stones together.
+- **G303.1.5** — Five devils created by Adam create other devils in the same manner.
+  *Adam has created five devils by wetting five fingers with dew and shaking them behind him; God had commanded him to wet one finger.*
+- **G303.1.6** — Devils are created from sinful priests.
+- **G303.1.7** — Tuatha De Danann as demons (fallen angels).
+- **G303.1.8** — Two devils (male and female) extracted from corpse's belly.
+- **G303.2** — Names applied to the devil.
+- **G303.2.1** — Devil calls himself "Puss".
+- **G303.2.2** — Devil is called "the black one".
+- **G303.2.3** — Devil says his name is "Millearces" (thousand ways to lead men to sin).
+- **G303.2.4** — Gaelic titles given to the devil:  the worthless one; the one whom I will not mention; yon one; the one big one; the one from the abyss; the mean mischievous one; the big sorrow; the son of cursing; the big grizzled one; the bad one; the bad spirit; Black Donald.
+- **G303.3** — Forms in which the devil appears.
+- **G303.3.0.1** — Devil in hideous form.
+- **G303.3.1** — The devil in human form.
+- **G303.3.1.0.1** — Devils in guise of human beings require remarkable quantity of food.
+- **G303.3.1.1** — The devil as a large, strong man.
+- **G303.3.1.2** — The devil as a well-dressed gentleman.
+- **G303.3.1.3** — The devil as a distinguished-looking knight.
+- **G303.3.1.3.1** — Devil as a ribald traveler.
+- **G303.3.1.4** — Devil appears in the form of a man who is repugnantly ugly.
+- **G303.3.1.5** — The devil as a little, gray old man.
+- **G303.3.1.6** — The devil as a black man.
+- **G303.3.1.7** — Devil as a huntsman.
+- **G303.3.1.8** — Devil in form of priest.
+- **G303.3.1.8.1** — Devil as a hermit.
+- **G303.3.1.8.2** — Devil as ascetic.
+- **G303.3.1.9** — Devil in form of pilgrim.
+- **G303.3.1.10** — Devil as a peasant.
+- **G303.3.1.11** — Devil as three gentlemen.
+  *They come for a dying man.*
+- **G303.3.1.12** — Devil in form of woman.
+  *Lures man.*
+- **G303.3.1.12.1** — Devil in form of woman lures and punishes women.
+  *Introduces men disguised as women to seduce impious nuns.*
+- **G303.3.1.12.2** — Devil as a beautiful young woman seduces man.
+- **G303.3.1.12.3** — Devil appears as a beautiful black wench.
+- **G303.3.1.12.4** — Devil appears as old woman to seduce monk from cloister.
+- **G303.3.1.12.5** — Devil (in queen's form) insatiable, although she copulates with all men and horses.
+- **G303.3.1.13** — Devil as cook.
+- **G303.3.1.14** — Devil as student.
+- **G303.3.1.15** — Devil appears as a Jew.
+- **G303.3.1.16** — Devil appears as a child.
+- **G303.3.1.17** — Devils appear as ladies and gentlemen.
+- **G303.3.1.18** — Devil as shoemaker.
+- **G303.3.1.19** — Devil as merchant.
+- **G303.3.1.20** — Devil appears in shape of a dead man while hidden in his corpse or skin.
+- **G303.3.1.21** — The devil as a great hairy man.
+- **G303.3.1.22** — Devil as astrologer.
+- **G303.3.1.23** — Satan disguised as beggar.
+- **G303.3.1.24** — Satan as very old man.
+- **G303.3.1.25** — Satan disguised as king.
+- **G303.3.2** — The devil in superhuman from.
+- **G303.3.2.1** — Devil appears as Christ.
+- **G303.3.2.1.1** — Devil as crucifix.
+- **G303.3.2.2** — Devil (Satan) appears as an angel.
+- **G303.3.2.3** — Devil as a dwarf.
+- **G303.3.2.4** — Devil in form of dragons and monsters of various sorts.
+- **G303.3.2.5** — Devil appears as Virgin Mary.
+- **G303.3.3** — The devil in animal form.
+- **G303.3.3.1** — Devil in form of domestic beast.
+- **G303.3.3.1.1** — Devil in form of dog.
+- **G303.3.3.1.2** — Devil in form of a cat.
+- **G303.3.3.1.3** — Devil as horse.
+- **G303.3.3.1.4** — Devil in form of cow (bull, ox).
+- **G303.3.3.1.5** — Devil in form of swine.
+- **G303.3.3.1.6** — Devil in form of goat.
+- **G303.3.3.1.7** — Devil in form of ram.
+- **G303.3.3.2** — Devil in form of wild beast.
+- **G303.3.3.2.1** — Devil in form of wolf.
+- **G303.3.3.2.2** — Devil in form of fox.
+- **G303.3.3.2.3** — Devil in form of hare.
+- **G303.3.3.2.4** — Devil in form of mouse.
+- **G303.3.3.2.5** — Devil in form of lion.
+- **G303.3.3.2.6** — Devil in form of squirrel.
+- **G303.3.3.2.7** — Devil in form of monkey.
+- **G303.3.3.2.8** — Devil in form of deer.
+- **G303.3.3.2.9** — Devil in form of hyena.
+- **G303.3.3.2.10** — Devil in form of a terrifying elephant.
+- **G303.3.3.3** — Devil in form of bird.
+- **G303.3.3.3.1** — Devil in form of raven.
+- **G303.3.3.3.2** — Devil in form of crow.
+- **G303.3.3.3.3** — Devil in form of black bird.
+- **G303.3.3.3.4** — Devil in form of woodcock.
+- **G303.3.3.3.5** — Devil in form of cock.
+- **G303.3.3.3.6** — Devil in form of owl.
+- **G303.3.3.4** — Devil in form of insect.
+- **G303.3.3.4.1** — Devil in form of gnat.
+- **G303.3.3.4.2** — Devil in form of spider.
+  *Hangs from the clouds.*
+- **G303.3.3.4.3** — Devil in form of wasp.
+- **G303.3.3.4.4** — Devil in form of fly.
+- **G303.3.3.5** — Devil in form of fish.
+- **G303.3.3.6** — Devil in form of reptile.
+- **G303.3.3.6.1** — Devil in form of snake.
+  *Sneaks into the ark.*
+- **G303.3.3.7** — Devil in form of amphibian.
+- **G303.3.3.7.1** — Devil in form of toad.
+- **G303.3.3.8** — Miscellaneous other animal forms in which the devil appears: bear; ant; wild goose.
+- **G303.3.4** — Devil in form of inanimate objects.
+- **G303.3.4.1** — Devil in form of wheel on wagon.
+- **G303.3.4.2** — Devil as a black ball.
+- **G303.3.4.2.1** — Devil as a ball of fire.
+- **G303.3.4.3** — Devil (Black Donald) as a bunch of ferns.
+  *Rolls down hill.*
+- **G303.3.4.4** — Devil as wind.
+- **G303.3.4.4.1** — Devil as whirlwind.
+  *Persons met by him are killed or maimed.*
+- **G303.3.4.5** — Devil as a barrel.
+  *Rolls and is impossible to catch.*
+- **G303.3.4.6** — Devil in shape of a stone.
+- **G303.3.4.7** — Devil in the form of a sheaf.
+- **G303.3.4.8** — Devil in form of round bowl.
+- **G303.3.4.9** — Devil in form of house.
+- **G303.3.4.10** — Devil in form of ungainly bundle.
+- **G303.3.4.11** — Devil as stream of water.
+- **G303.3.5** — Devil changes shape.
+- **G303.3.5.1** — Devil becomes larger and larger.
+- **G303.3.5.2** — Devil becomes smaller and smaller.
+- **G303.3.5.3** — Devil becomes heavier and heavier.
+  *Animal taken into cart becomes so heavy that horses are unable to pull cart. If it is brought home it turns to stone or tree-stump.*
+- **G303.3.6** — Forms into which the devil cannot change.
+- **G303.3.6.1** — Devil cannot change into pike.
+- **G303.3.6.2** — Devil cannot change into dove.
+- **G303.3.6.3** — Devil cannot change into lamb.
+- **G303.3.6.3.1** — The devil cannot change into a sheep.
+- **G303.4** — The devil's physical characteristics.
+- **G303.4.1** — The devil's head.
+- **G303.4.1.1** — Devil has ninety-nine heads.
+- **G303.4.1.2** — Devil's eyes.
+- **G303.4.1.2.1** — Devil with eye in middle of forehead.
+- **G303.4.1.2.2** — Devil with glowing eyes.
+- **G303.4.1.2.3** — Two beams of fire shoot from devil's eyes.
+- **G303.4.1.2.4** — Devil has saucer eyes.
+- **G303.4.1.2.5** — Devil has passionate look in eyes.
+- **G303.4.1.2.6** — Devil has no eyebrows.
+- **G303.4.1.2.7** — Devil is blind.
+- **G303.4.1.3** — Devil's beard.
+- **G303.4.1.3.1** — Devil has a red beard.
+- **G303.4.1.4** — Devil's nose.
+- **G303.4.1.4.1** — Devil has a long nose.
+- **G303.4.1.4.2** — Devil has only one nostril or is without nostrils at all.
+- **G303.4.1.5** — Devil's teeth.
+- **G303.4.1.5.1** — Devil has shining teeth.
+  *Girl wishes to marry man whose teeth shine. Such a man appears and they marry. When he removes his hat she finds he is the devil.*
+- **G303.4.1.5.2** — One of devil's teeth grows down to the earth; another to sky.
+- **G303.4.1.6** — Devil has horns.
+- **G303.4.1.6.1** — Devil has two horns.
+- **G303.4.1.6.2** — Devil child born with horns.
+- **G303.4.1.7** — The devil's face.
+- **G303.4.1.7.1** — Devil's face is black.
+- **G303.4.1.8** — Devil's hair.
+- **G303.4.1.8.1** — Devil's hair blood-red.
+- **G303.4.1.8.2** — Devil has three golden hairs.
+- **G303.4.2** — The devil's wings.
+- **G303.4.2.1** — The devil has six wings.
+- **G303.4.2.2** — The devil has twelve wings.
+- **G303.4.3** — The devil's thumb.
+- **G303.4.3.1** — Devil has glowing thumb.
+- **G303.4.3.2** — Devil's thumb the size of two fists.
+- **G303.4.4** — Devil has claws.
+- **G303.4.4.1** — Devil has five claws.
+- **G303.4.4.2** — Devil has claws on his feet.
+  *One can tell a devil by claws protruding through his shoes.*
+- **G303.4.5** — The devil's feet and legs.
+- **G303.4.5.1** — Devils have only one leg.
+  *They broke one leg when trying to run away from God's attack to protect himself from them.*
+- **G303.4.5.1.1** — Devil has only one foot.
+  *The wolf which he made has eaten the other.*
+- **G303.4.5.1.2** — Devil's shoes are empty.
+- **G303.4.5.2** — Devil has a broken foot.
+  *He limps.*
+- **G303.4.5.3** — Devil has horse's foot.
+- **G303.4.5.3.1** — Devil detected by his hoofs.
+  *While playing cards the devil drops a card on the floor and his partners notice his monstrous feet.*
+- **G303.4.5.3.2** — Devil's footprints without any toes.
+- **G303.4.5.4** — The devil has goat feet.
+- **G303.4.5.4.1** — Devil is betrayed by his goat hoofs.
+- **G303.4.5.5** — Devil has pig's foot.
+- **G303.4.5.6** — Devil's knees are backwards.
+- **G303.4.5.7** — Devil has no heels.
+  *Bitten off by wolf who was created by devil.*
+- **G303.4.5.8** — Devil has club foot.
+- **G303.4.5.9** — Devil has cock's feet.
+- **G303.4.6** — The devil's tail.
+- **G303.4.6.1** — A little girl recognizes the devil by his tail.
+- **G303.4.6.2** — Boy recognizes devil when he fans fire with his tail.
+- **G303.4.7** — Devil speaks with voice of a he-goat.
+- **G303.4.8** — Miscellaneous characteristics of devil.
+- **G303.4.8.1** — Devil has sulphurous odor.
+- **G303.4.8.2** — Devil holds molten coin in mouth.
+- **G303.4.8.2.1** — Devil holds fire in his hands.
+- **G303.4.8.3** — Devil claims to be 7,777 years old.
+- **G303.4.8.4** — Devil never eats in an inn.
+  *Devil's coachman observes this.*
+- **G303.4.8.5** — Devil carries a thorn stick.
+- **G303.4.8.6** — Devil is swift of foot.
+- **G303.4.8.7** — Devil with pitchfork.
+- **G303.4.8.8** — Devil laughs (weeps) when men weep (laugh).
+- **G303.4.8.9** — Devil all speckled and spotted.
+- **G303.4.8.10** — Devil's hand marks person he touches.
+- **G303.4.8.11** — Devil in animal form cannot be hit by bullets.
+- **G303.4.8.12** — Devil picks up live coals to light pipe.
+- **G303.4.8.13** — Devil invisible.
+- **G303.5** — How the devil is dressed.
+- **G303.5.1** — Devil is dressed in black.
+- **G303.5.1.1** — Devil in a black cloak.
+- **G303.5.2** — Devil is dressed in green.
+- **G303.5.2.1** — Devil in green clothing with hat.
+- **G303.5.2.2** — Devil as a hunter in green.
+- **G303.5.2.3** — Devil wears a bright green coat.
+- **G303.5.3** — The devil dressed in red.
+- **G303.5.4** — Devil dressed in blue clothes.
+- **G303.5.5** — Devil dressed in hunting clothes.
+- **G303.6** — Circumstances of the devil's appearance.
+- **G303.6.1** — When the devil appears.
+- **G303.6.1.1** — Devil appears at midnight.
+- **G303.6.1.2** — Devil comes when called upon.
+- **G303.6.1.2.1** — Devil writes into book names of those who call on him.
+- **G303.6.1.3** — Devil appears to claim soul offered to devil in jest.
+- **G303.6.1.4** — Devil appears when a woman looks at herself in the mirror after sunset.
+- **G303.6.1.5** — Devil appears when cards are played.
+- **G303.6.1.6** — Devil invoked through medium of a black dog.
+- **G303.6.1.7** — Devil appears on Hallowe'en.
+- **G303.6.2** — People to whom the devil appears.
+- **G303.6.2.1** — Devil appears invisible among dancers.
+- **G303.6.2.2** — Devil appears at meetings of witches.
+- **G303.6.2.3** — Devil appears among youths who jest while they say their evening prayers.
+- **G303.6.2.4** — Devil visible to one who walks in minister's (or minister's wife's) holy shoes (galoshes).
+- **G303.6.2.5** — Devil appears to persons ready to abandon their integrity.
+- **G303.6.2.6** — Devil appears to minister's serving man to warn of impending disaster to the house.
+- **G303.6.2.7** — Devil appears to girl who prays over pit where she has thrown the bodies of her babies.
+- **G303.6.2.8** — Devil appears to dying man.
+- **G303.6.2.9** — Devil appears to saint (cleric).
+- **G303.6.2.9.1** — Saint is able to see devils.
+- **G303.6.2.10** — Devil appears to scholar.
+- **G303.6.2.11** — Devil appears to Eve.
+- **G303.6.2.12** — Devil hides in clothes of people running from storm.
+- **G303.6.2.13** — Devil appears to person who cuts both ends off loaf of bread.
+- **G303.6.2.14** — Devil appears to Sabbath breakers.
+- **G303.6.2.15** — Devil appears when person steals.
+- **G303.6.2.15.1** — Devil causes boy to make noise of wind breaking after he has stolen bushel of corn to pay for shoes.
+- **G303.6.3** — Natural phenomena accompanying the devil's appearance.
+- **G303.6.3.1** — Devil is followed by a thunderstorm.
+- **G303.6.3.1.1** — The devil appears during thunderstorm, seeking shelter among people.
+- **G303.6.3.2** — Devil comes in the whirlwind.
+- **G303.6.3.3** — Devil and the wind travel together.
+- **G303.6.3.4** — Devil appears in an intense light and with strong odor of sulphur.
+- **G303.6.3.5** — Devil's coming heralded by piercing whistle.
+- **G303.7** — How the devil travels.
+- **G303.7.1** — Devil rides horse.
+- **G303.7.1.1** — Devil rides on black horse.
+- **G303.7.1.2** — Devil's horses are transformed men.
+- **G303.7.1.2.1** — Devil's horse has human feet.
+- **G303.7.1.2.2** — Devil (gentleman) invites traveler into his wagon.
+  *Explains that his horses are Earl X, etc. (Cf. +G303.25.17.1.)*
+- **G303.7.1.2.3** — Devil (gentleman) invites girls into his sleigh.
+- **G303.7.1.3** — Devil rides horse at night hunting lost souls over the heath.
+- **G303.7.2** — Devil rides away on an ass.
+  *Angered because God has not invited him to his wedding.*
+- **G303.7.3** — Devil drives horse and wagon.
+- **G303.7.3.1** — Devil in wagon drawn by two black horses carries off impious people.
+- **G303.7.3.2** — Devil drives carriage drawn by horses whose nostrils shoot fire.
+- **G303.7.3.3** — Devil in coach drawn by headless horses.
+- **G303.7.3.4** — Devil pursues man from carriage drawn by four white horses.
+- **G303.7.3.5** — Devil travels in coach drawn by four blood-red horses, the hoofs of which strike fire from the pavement.
+- **G303.7.4** — Devil comes in a cart.
+- **G303.7.5** — Devil drives several teams of oxen.
+- **G303.7.6** — Devil rides on hog, drives another.
+- **G303.7.7** — Devil drives six he-goats.
+- **G303.7.8** — Devil rides cow until she goes mad.
+- **G303.7.9** — Devil flies like bird.
+- **G303.8** — Devil's expulsion from heaven and his present haunts.
+- **G303.8.1** — Devil driven from heaven.
+- **G303.8.1.1** — God has Elias drive devils from heaven.
+  *They use thunder, lightning, and rain for forty days.*
+- **G303.8.1.2** — Archangels Michael and Gabriel drive Satan and other devils from heaven to earth.
+- **G303.8.1.2.1** — Devil becomes an angel.
+  *Forced by monk, devil sings a hymn and becomes a white angel as he was before the sin.*
+- **G303.8.2** — Devils carry away the sun when they fall from heaven.
+- **G303.8.3** — The devil in hell.
+- **G303.8.3.1** — Devil is thrust into hell by God.
+- **G303.8.3.2** — Devil builds himself a castle and calls it hell.
+- **G303.8.3.3** — Devil's house is visible on the way to hell.
+- **G303.8.4** — Devil lives in a church.
+- **G303.8.4.1** — Devil bound with huge chain near northern side of Tamdrup church.
+- **G303.8.4.2** — Devil in each stone of church built with ill-gotten wealth.
+- **G303.8.5** — Devil in interior of earth.
+  *Banished there by God as punishment for trying to usurp God's rule of the world.*
+- **G303.8.6** — Devil and his servants live where perjurers dwell.
+- **G303.8.7** — Devil's abode is between hoofs of swine.
+- **G303.8.8** — Devil lives in the water.
+- **G303.8.9** — Devils in woman's train.
+- **G303.8.9.1** — Devil in fold of knight's cloak.
+- **G303.8.10** — Devil in dragon's head on a shield.
+  *Is expelled by a knight (Percival).*
+- **G303.8.11** — Devil in a stone.
+- **G303.8.12** — Devil in the stable wrapped in horse-hide.
+  *Devil chases youth as he hides himself.*
+- **G303.8.13** — Devil in the woods.
+- **G303.8.13.1** — Youth meets devil in woods.
+- **G303.8.13.2** — Forest devil the one which fell in the forest when driven from heaven.
+- **G303.8.13.3** — Devil in woods to gather nuts on Christmas Eve.
+- **G303.8.14** — Devils dwell in heathen idols, as well as portraits and images.
+- **G303.8.15** — Devil hidden in a corpse.
+- **G303.9** — Deeds of the devil.
+- **G303.9.1** — The devil as a builder.
+- **G303.9.1.1** — Devil as builder of bridges.
+- **G303.9.1.2** — Devil as builder of dams.
+- **G303.9.1.3** — Devil as builder of mill.
+- **G303.9.1.4** — Devil as builder of walls.
+- **G303.9.1.5** — Devil as builder of palaces (chvteaux).
+- **G303.9.1.6** — Devil as builder of churches.
+- **G303.9.1.7** — Devil builds a road.
+- **G303.9.1.8** — Devil builds a ditch.
+- **G303.9.1.9** — Devil builds two islands in a lake.
+- **G303.9.1.10** — Devil builds an inn for a man in competition with a church being built.
+- **G303.9.1.11** — Devil builds Mont Saint Michel.
+- **G303.9.1.12** — Devil helps build Halberstadt Cathedral thinking a tavern is being built.
+- **G303.9.1.13** — Devil builds a building.
+- **G303.9.1.14** — Satan builds idol.
+- **G303.9.1.15** — Satan builds another world.
+- **G303.9.2** — The devil performs deeds of unusual strength.
+- **G303.9.2.1** — Devil pulls up tree to goad his oxen.
+- **G303.9.2.2** — Devil builds road for farmer in one day.
+- **G303.9.2.3** — Devil plows and plants grain for farmer in one day.
+- **G303.9.2.4** — Devil and Drake carry waters of English Channel from Dartmoor to Plymouth.
+- **G303.9.2.5** — Devil and Michael Scott carry tide an additional five miles up River Wansbeck.
+- **G303.9.3** — The devil hires out.
+- **G303.9.3.1** — Devil hires out to a farmer.
+- **G303.9.3.1.1** — The devil takes service with a farmer in return for the bread he stole.
+  *Punishes the evil landowner and makes his master prosperous.*
+- **G303.9.3.2** — Devil is employed as a midwife.
+- **G303.9.3.3** — Devils help people at work, but are feared nevertheless.
+- **G303.9.3.4** — The devil is always to blame.
+  *Even when he tries to be helpful to man.*
+- **G303.9.4** — The devil as a tempter.
+- **G303.9.4.0.1** — Satan causes storm to destroy property of man he tempts.
+- **G303.9.4.0.2** — Satan smites man he tempts with leprosy.
+- **G303.9.4.1** — Devil gives Eve two grains of corn.
+  *One is for her and one for Adam.*
+- **G303.9.4.2** — Devil persuades man to commit suicide.
+- **G303.9.4.2.1** — The devil teaches man how to hang himself.
+- **G303.9.4.3** — Devil tries to get man to kill his bride (wife).
+- **G303.9.4.4** — Devil tempts cleric (hermit).
+- **G303.9.4.5** — Devils appear to knight to try to call him from doing penance.
+- **G303.9.4.5.1** — Devil by trick conjures vision to make idolators of believers.
+- **G303.9.4.5.2** — Disguised devil as messenger to adulterous people.
+- **G303.9.4.5.3** — Satan stops men from praying.
+- **G303.9.4.6** — Devil tempts saints.
+- **G303.9.4.6.1** — Devil instructs saint on virtues by which to attain Heaven.
+- **G303.9.4.7** — Devil tempts girl.
+- **G303.9.4.7.1** — Devil and girl.  "
+  *Are you lonely? " Girl: "No, devil, with God and angels.*
+- **G303.9.4.8** — Devil tempts youth to deny Virgin.
+  *Promises youth riches.*
+- **G303.9.4.9** — Devil tries to move repentant sinner to despair.
+- **G303.9.4.10** — Woman worships the devil.
+- **G303.9.5** — The devil as an abductor.
+- **G303.9.5.1** — Devil abducts girl: has her hang about his neck and he flees to hell.
+- **G303.9.5.2** — Devil carries away a lord on his back.
+- **G303.9.5.3** — Devil compels two miners to follow him.
+- **G303.9.5.4** — Devil carries man through air as swift as wind (thought).
+- **G303.9.5.5** — Devil combs Mme.  Anna's hair while he takes her away.
+- **G303.9.5.6** — Man temporarily abducted by devil.
+- **G303.9.5.7** — Devil carries a Jew to hell.
+- **G303.9.5.8** — Devil takes violinist when he needs a good fiddler in hell.
+- **G303.9.6** — The devil fights.
+- **G303.9.6.0.1** — The devil is armed.
+- **G303.9.6.1** — Devil fights with man.
+- **G303.9.6.1.1** — Devil is overcome by man in fight.
+  *Man pulls out one of his horns and beats him with it.*
+- **G303.9.6.1.2** — Satan fights Israel.
+- **G303.9.6.2** — Satan attacks saints.
+- **G303.9.6.2.1** — Devil inflames saint's injured eye.
+- **G303.9.7** — The devil advises human beings.
+- **G303.9.7.1** — Devil advises young girl not to go to a castle.
+  *Later, when she returns pregnant she says that the devil advised her to serve at the castle. He slaps her and tells her she is lying.*
+- **G303.9.7.2** — Devil exhorts youth to enjoy himself and not to think of God.
+  *When the youth has grown old the devil says, "It is now too late to think of God.*
+- **G303.9.7.3** — The devil advises a suspicious husband.
+  *The Ring of Hans Garvel. Appears in a dream and hands the husband a ring. " When you wear this ring you will be sure of your wife. " He awakens to understand the obscene implication.*
+- **G303.9.7.4** — Devil disguised as man tells of trip to heaven and hell.
+  *Heaven is full of wretches who weep, fast, and pray. Hell is full of wealth, power, and good living.*
+- **G303.9.8** — Miscellaneous actions of the devil.
+- **G303.9.8.1** — Devil spins and knits.
+- **G303.9.8.2** — Devil plays fiddle at wedding.
+  *Causes bad luck (kills bridegroom).*
+- **G303.9.8.3** — Devil sings (dances) on grave.
+- **G303.9.8.4** — Devil causes salamander to appear in glass of rum, drinks it.
+- **G303.9.8.5** — Devil engages in drinking contest with man for purse of gold.
+  *Gold causes man to become miser.*
+- **G303.9.8.6** — Satan asks God to put man into his power (Job).
+- **G303.9.8.7** — Satan makes wager with God about mortal's piety.
+- **G303.9.8.8** — Satan prays to God.
+- **G303.9.8.9** — Satan chants songs of praise to God.
+- **G303.9.8.10** — Satan weeps.
+- **G303.9.8.11** — Satan as blasphemer.
+- **G303.9.9** — Pranks played by the devil.
+- **G303.9.9.1** — Devil prevents moving of little stone by sitting on it.
+- **G303.9.9.2** — Devil interrupts mass by pretended battle.
+- **G303.9.9.3** — Devil steals knight's cloak.
+- **G303.9.9.4** — Devil takes an unbaptized child out of the cradle and lays a wooden log in its place.
+- **G303.9.9.5** — Devil piles sand in ocean so that vessels may run aground.
+- **G303.9.9.6** — Devil leads and misguides people.
+- **G303.9.9.7** — Trying all night to catch an animal (really devil).
+- **G303.9.9.8** — Taking snuff with the devil.
+- **G303.9.9.9** — Devil challenges boys to play a disc-game.
+  *Can be defeated only with rowan-sticks.*
+- **G303.9.9.10** — Exchanging things with the devil.
+  *The cheat appears later.*
+- **G303.9.9.11** — The devil as tailor to a dandy.
+  *The dandy demands clothes sewed without thread. The devil disguised as a tailor makes them. In church the dandy's clothes fall to pieces, leaving him naked.*
+- **G303.9.9.12** — Devil engages in horse race with man.
+- **G303.9.9.13** — Devil flies away with sentry box.
+- **G303.9.9.14** — Devil drinks church well dry at one draught.
+- **G303.9.9.15** — Devil stampedes horses of general.
+- **G303.9.9.16** — Devil takes place of girl man is embracing in private place.
+  *The man goes mad.*
+- **G303.9.9.17** — Devil as crow misleads travelers, puts out their lights.
+- **G303.9.9.18** — Devil moves seats in church.
+- **G303.9.9.19** — Devil plays marbles in church.
+- **G303.9.9.20** — Satan entangles ram's horns on the altar.
+- **G303.9.9.21** — Satan liberates caught deer.
+- **G303.10** — Allies and possessions of the devil.
+- **G303.10.1** — Cat as follower of the devil.
+- **G303.10.2** — Toad as follower of the devil.
+- **G303.10.3** — Snake as follower of the devil.
+- **G303.10.4** — Dancers as followers of the devil.
+- **G303.10.4.0.1** — Devil haunts dance halls.
+- **G303.10.4.1** — Devil dances with a maid until she dies.
+- **G303.10.4.2** — Two devils come to a dance-loving maid and play when she bathes.
+- **G303.10.4.3** — Devil teaches a dance-loving maid to dance.
+- **G303.10.4.4** — Devil appears to girl who wants an escort for a dance.
+- **G303.10.4.5** — Devil dances with maid and puts his claws through her hands.
+- **G303.10.5** — Where the devil can't reach, he sends an old woman.
+- **G303.10.6** — Devil in league with a freemason.
+- **G303.10.7** — Devil gives luck with fishing and hunting.
+- **G303.10.8** — Horses are offspring of the devil.
+  *One cannot trust them.*
+- **G303.10.9** — An all-red, all-black, or all-white calf the property of the devil.
+- **G303.10.10** — Lizards are offspring of the devil.
+- **G303.10.11** — The spurge-laurel is the devil's bush.
+- **G303.10.12** — The devil owns the reeds.
+- **G303.10.13** — Thistles and nettles are the devil's vegetables.
+- **G303.10.14** — The bagpipe is the devil's bellows.
+- **G303.10.15** — Devil has a hound.
+- **G303.10.16** — Devil has a servant.
+- **G303.10.17** — Bird as messenger of devil.
+- **G303.10.18** — Angels of Satan.
+- **G303.10.19** — Devil's well.
+- **G303.11** — The relatives of the devil.
+- **G303.11.1** — The devil's wife.
+- **G303.11.1.1** — The devil's son is with his mother at night in his father's place.
+- **G303.11.2** — The devil's son.
+- **G303.11.2.1** — The devil and his son fight over division of the earth.
+- **G303.11.2.2** — The devil's children and grandchildren do his work for him.
+- **G303.11.3** — The devil's mother.
+- **G303.11.3.1** — Devil's mother rides a goat.
+- **G303.11.4** — The devil's grandmother.
+- **G303.11.4.1** — Devil's grandmother keeps house for devil.
+  *Is an old wrinkled woman with red eyes who locks up hell.*
+- **G303.11.4.2** — Devil's grandmother is bleaching when it snows.
+- **G303.11.5** — The devil's daughter.
+- **G303.11.5.1** — The devil and his nine daughters.
+- **G303.12** — Marital experiences of the devil.
+- **G303.12.1** — Devil wooes an innkeeper's daughter.
+- **G303.12.2** — Devil marries a widow who maltreats him.
+- **G303.12.3** — Devil marries old maid who proves to be a termagant and a miser.
+- **G303.12.4** — Devil visits woman and founds a family.
+- **G303.12.5** — Devil marries girl.
+- **G303.12.5.1** — Girl married to a devil.
+  *Despairing of ever finding herself a husband, the old maid exclaims: "I would marry even the devil, were he to marry me. " The devil takes her at her word.*
+- **G303.12.5.2** — Devil marries disdainful girl; she escapes.
+- **G303.12.5.3** — Devil marries girl whose rich mother refuses to let her marry common young men of community.
+- **G303.12.5.4** — Devil wooes woman;  she discovers identity in time to escape with aid of minister who swallows candle after getting devil to promise she could live as long as the candle lasted.
+- **G303.12.5.5** — Girl married to devil escapes with answers to his riddles.
+- **G303.12.5.6** — Girl wooed by devil is saved by magic herb she wears.
+- **G303.12.5.7** — Devil takes form of girl's lover and takes advantage of her.
+  *She meets lover on way home, learns what has happened, dies.*
+- **G303.12.6** — Devil in guise of woman woos man.
+- **G303.12.6.1** — Man marries a she-devil He catches her as succubus and marries.
+  *Some years later his wife's brothers invite them to a feast (wedding) and he gets gifts or wife's dowry.*
+- **G303.12.7** — Devil's sexual relations with mortals.
+- **G303.12.7.1** — Satan's sexual intercourse with Eve.
+- **G303.13** — The stupid devil.
+- **G303.13.1** — Devils do not know or understand thoughts of men.
+- **G303.13.2** — Devil works backward.
+  *Begins building at top of house.*
+- **G303.13.3** — Devil tries to wall in too large a piece of ground in a night and fails.
+- **G303.13.4** — The devil tries to learn a trade; he fails miserably at all but versemaking.
+  *He now loiters in alehouses, sings songs.*
+- **G303.13.5** — Simple-minded devil indicates how he can be driven away.
+- **G303.14** — Devil's unfinished work cannot be completed by human hands.
+  *One stone missing in church, etc.*
+- **G303.14.1** — The devil destroys by night what is built by day.
+- **G303.14.1.1** — Devil destroys Adam's work by night.
+- **G303.14.2** — Devil builds bridge except for one stone.
+  *No one dares to add the final stone.*
+- **G303.15** — Places haunted by the devil.
+- **G303.15.1** — Devil haunts premises about to be visited by calamity.
+- **G303.15.2** — Granary now haunted because of devil's defeat.
+- **G303.15.3** — Devil haunts a house.
+  *Finally is exorcised.*
+- **G303.15.4** — Devils haunt tree.
+- **G303.15.4.1** — Particular species of tree abode of devils.
+- **G303.15.5** — Ruins of a palace haunted by Satan.
+- **G303.15.6** — Satan appears at a feast where the poor are absent.
+- **G303.16** — How the devil's power may be escaped or avoided.
+- **G303.16.1** — By the help of the Virgin Mary the devil may be escaped.
+- **G303.16.2** — Devil's power over one avoided by prayer.
+- **G303.16.2.1** — Devil cannot take one who has read the Pater Noster.
+- **G303.16.2.1.1** — Devil cannot enter person who is thinking of God.
+- **G303.16.2.2** — Person saved from devil by prayer to Virgin.
+- **G303.16.2.3** — Devil's power avoided by blessing.
+- **G303.16.2.3.1** — Man escapes devils by reading Lord's blessing.
+- **G303.16.2.3.2** — Devil flees at pope's blessing.
+- **G303.16.2.3.3** — Devils disappear when priest blesses bread.
+- **G303.16.2.3.4** — A nun eating unblessed lettuce eats a demon.
+- **G303.16.2.3.5** — Blessing reveals seemingly pure stream to be devil's trap which kills whoever drinks from it.
+- **G303.16.2.4** — Devils driven away by hymn (psalm).
+- **G303.16.2.5** — Demon cannot hurt holy man or woman.
+- **G303.16.3** — Devil's power avoided by the cross.
+- **G303.16.3.1** — Devils driven away by cross.
+- **G303.16.3.2** — Devil cannot endure cross made by straps of knapsack.
+- **G303.16.3.3** — Devils put to flight by cross made of leaves.
+- **G303.16.3.4** — Devil made to disappear by making sign of the cross.
+- **G303.16.3.5** — Knight dismisses devil in name of cross.
+- **G303.16.3.6** — Devil made visible by making sign of cross.
+- **G303.16.4** — Words of religious comfort cause devil and his crew to vanish.
+- **G303.16.5** — Administering sacrament destroys devil's power.
+- **G303.16.5.1** — Chaplain administers sacrament and saves woman's soul from devil.
+- **G303.16.5.2** — Devil disappears when offered host.
+- **G303.16.6** — Man is rescued from devil by baptism.
+- **G303.16.7** — Devil is chased by holy water.
+- **G303.16.8** — Devil leaves at mention of God's name.
+- **G303.16.9** — Devil is made impotent by confession.
+- **G303.16.10** — Angels save person from the devil.
+- **G303.16.11** — Various holy persons save one from devil.
+- **G303.16.11.1** — Devil is driven out of a man by Peter.
+- **G303.16.11.2** — Devil prevented from revenge by pious priest.
+- **G303.16.11.3** — Person chases the devil away.
+  *Devil says, "You also have stolen once.*
+- **G303.16.11.4** — Saint expels devil to hell.
+- **G303.16.11.5** — Saint's dispute with devil.
+- **G303.16.12** — Ringing of churchbell causes devil to lose his power.
+- **G303.16.13** — Devil may be escaped by going to church every day.
+- **G303.16.14** — The devil exorcised.
+- **G303.16.14.1** — Priest chases devil away.
+- **G303.16.14.1.1** — Priest separates girl from devil's claws.
+- **G303.16.14.2** — Devil chased by the fumes of burning arsenic.
+- **G303.16.14.2.1** — Devil exorcised by burning wood.
+- **G303.16.14.3** — Devil overpowered or chased with a stick of rowan-tree.
+- **G303.16.14.3.1** — Why the devil fears the rowan-tree.
+- **G303.16.14.4** — The devil is exorcised with bell, book, and candle.
+- **G303.16.14.5** — Devil avoids cockscomb flowers.
+- **G303.16.15** — Devils leave hermit who turns other cheek when struck.
+- **G303.16.16** — Devil is cheated of his reward when priest dismisses mass early.
+- **G303.16.17** — Devil cannot enter a house with horseshoe over door.
+- **G303.16.18** — One must not whistle after sunset, else the devil will go along with one.
+- **G303.16.18.1** — Christians are prohibited from whistling in dark lest the devil appear.
+- **G303.16.19** — Miscellaneous ways in which the devil may be escaped or his power destroyed.
+- **G303.16.19.1** — Man secure from devil on horse.
+- **G303.16.19.2** — Devil goes with one if one spits on old castaway brooms.
+- **G303.16.19.3** — One is freed if he can set a task the devil cannot perform.
+- **G303.16.19.3.1** — Task for devil: sweeping and winnowing peas on ice.
+- **G303.16.19.3.2** — Task for devil: making needles.
+- **G303.16.19.3.3** — Task for devil: washing a Jew (Jewess), to rid him (her) of the evil smell.
+- **G303.16.19.4** — Devil (Satan) flees when cock is made to crow.
+- **G303.16.19.4.1** — Man imitates cock crowing: devil is deceived.
+- **G303.16.19.5** — Demon has to serve girl whom he cannot persuade to break vow of chastity.
+- **G303.16.19.6** — Man protected from devil by holding three-year old child through night.
+- **G303.16.19.7** — Devil comes out of man when monk recognizes devil's voice in man.
+- **G303.16.19.8** — Knight saved from devil by friends.
+- **G303.16.19.9** — Devil becomes powerless when called by name.
+- **G303.16.19.10** — Devil exorcised at time of Christ's Nativity.
+- **G303.16.19.11** — Devil frustrated by charity.
+- **G303.16.19.12** — Devil can't approach Christian girl.
+- **G303.16.19.13** — Devil cannot follow man over running water.
+- **G303.16.19.14** — Devil escaped by injuring him with silver bullet.
+- **G303.16.19.15** — Devil cannot enter magic circle made to keep him out.
+- **G303.16.19.16** — Devil can be driven away by sacrifice.
+- **G303.16.19.17** — Devil disappears because he is frightened.
+- **G303.16.19.17.1** — Devil frightened by a woman.
+- **G303.16.19.18** — Catching the devil.
+  *The devil is caught with the help of a sacred article (rosary, scapular) or some other thing (band for binding breeches, a switch of the rowan-tree).*
+- **G303.16.19.19** — Beating the devil.
+  *One must give him an odd number of strokes. Devil asks for one stroke more.*
+- **G303.16.19.20** — Devil is killed by hunter.
+  *A slake of tar remains.*
+- **G303.17** — The devil's disappearance from the world.
+- **G303.17.1** — When the devil disappears.
+- **G303.17.1.1** — Devil disappears when cock crows.
+- **G303.17.1.2** — Devil rebels and disappears on last day.
+- **G303.17.1.3** — Devil disappears after erection of Tabernacle.
+- **G303.17.2** — Physical circumstances of devil's disappearance.
+- **G303.17.2.1** — Devil detected, goes up chimney in smoke.
+- **G303.17.2.2** — Devil disappears in a whirlpool.
+- **G303.17.2.3** — Devil goes out through stove with great noise.
+- **G303.17.2.4** — Devil and sinful priest disappear amid blaze of fire in the river.
+- **G303.17.2.5** — Devil retreats into hell amid thunder and lightning.
+- **G303.17.2.6** — Devil disappears in a puddle.
+- **G303.17.2.7** — Devil disappears amid terrible rattle.
+- **G303.17.2.8** — Devil disappears amid terrible stench.
+- **G303.17.2.9** — Devil disappears in carriage drawn by four black horses.
+- **G303.17.3** — Why the devil has disappeared from the world.
+- **G303.17.3.1** — The devil dies of a nosebleed resulting from overheat.
+- **G303.17.3.2** — The devil dies when he is fastened in hell's door by his beard.
+- **G303.17.3.3** — Wolf eats the devil; therefore, devil no longer lives in the world.
+- **G303.17.3.4** — Devil has not been seen since he created the bramble.
+- **G303.17.3.5** — Satan punished in hell fire.
+- **G303.18** — Devil enters body of another.
+- **G303.18.0.1** — When devil leaves dead sinner's body, only bones remain.
+- **G303.18.1** — Devil enters body of dead boy.
+- **G303.18.2** — Devil in place of dead man in shroud (in dead man's skin).
+- **G303.18.3** — Devil blows skin off man who belongs to him and goes in the skin.
+- **G303.18.4** — Satan enters the Golden Calf.
+- **G303.19** — The devil takes the hindmost.
+- **G303.19.1** — The last belongs to the devil.
+- **G303.19.2** — Farmer has devil aid in reaping contest, loses his shadow when devil attempts to take hindmost.
+- **G303.20** — Ways in which the devil kills people.
+- **G303.20.1** — Devil kills man with fiery sword.
+- **G303.20.2** — Devil destroys hunting party with terrible wind.
+- **G303.20.3** — Devil strikes man dead with iron bar.
+  *Two men are fighting and devil thus kills one of them.*
+- **G303.20.4** — Devil strikes man dead with disease.
+- **G303.20.5** — The devil unpeels a bold woman's skin.
+- **G303.20.6** — Devil as black dog kills people.
+- **G303.20.7** — Satan swallows victim.
+- **G303.20.8** — Satan injures man.
+- **G303.20.9** — Satan slays the first born of the Egyptians.
+- **G303.21** — The devil's money.
+- **G303.21.1** — Devil's money becomes ashes.
+- **G303.21.2** — Devil's money becomes manure.
+- **G303.21.3** — The devil's money is hot.
+- **G303.22** — The devil helps people.
+- **G303.22.1** — Devil repays a kindness: returns coat lent him and brings the one who had shown him kindness back home when imprisoned.
+- **G303.22.2** — Magician recovers lost object with devil's help.
+- **G303.22.3** — Student is helped by devil when he can answer three questions in rhyme.
+- **G303.22.4** — Devil helps man place cart wheel when it becomes unfastened.
+- **G303.22.5** — Devil exhibits benevolence to impious people (to people who make an alliance with him: gives them riches, helps them in need).
+- **G303.22.6** — Devil helps person to steal.
+  *When thief blesses himself he is forsaken by the devil.*
+- **G303.22.7** — Devil helps ugly man win wife.
+- **G303.22.8** — Devil helps journeyman win wager with master.
+- **G303.22.9** — Devil comes and works with man who continues to work after night.
+- **G303.22.10** — Devil serves knight faithfully.
+  *Devil saves his life and that of his wife.*
+- **G303.22.11** — Devil as advocate of falsely condemned men.
+  *Carries off the judge.*
+- **G303.22.12** — Devil promises help to mistreated apprentice if youth will meet him by night in lonely spot.
+- **G303.22.13** — Devil saves heretic from fire, until priest brings host.
+- **G303.22.14** — Devil as helper in battle.
+- **G303.23** — The devil and the ark.
+- **G303.23.1** — Devil gets into the ark by hiding in shadow of Noah's wife.
+- **G303.24** — The devil in church.
+- **G303.24.1** — Devil accuses congregation of sins.
+- **G303.24.1.1** — Devil shows priest long parchment roll of sins of congregation.
+- **G303.24.1.2** — Devil writes faults of man on goat skin.
+- **G303.24.1.3** — Devil writes down names of men on a hide in church.
+  *Woman laughs when she sees him.*
+- **G303.24.1.4** — Devil stands in church door and writes down names of his own people on a sheepskin.
+- **G303.24.1.5** — Devil in church fills his sack with dissolute songs.
+- **G303.24.1.6** — Devil writes down all idle words spoken in church.
+  *His parchment is not long enough and he has to stretch it.*
+- **G303.24.1.7** — Devil writes names of those who sleep in church.
+- **G303.24.1.7.1** — Devil disturbs people in the church.
+- **G303.24.1.7.2** — Devil writes down names of those who look backwards in church.
+- **G303.24.1.8** — Devil writes down names of those who whisper in church.
+- **G303.24.1.9** — The devil has two books one book small for sins of clerics, erased by confession; the other large for unconfessed sins of lay folks.
+- **G303.24.2** — Devils worship host.
+- **G303.24.3** — Devil vexing friars caused to repent by singing "Te sanctum dominum".
+- **G303.24.4** — Devil destroys church steeple.
+- **G303.24.5** — Devil as dog chews up Bibles, hymnbooks, church accounts in church.
+- **G303.25** — Miscellaneous devil motifs.
+- **G303.25.1** — Wolf is the devil's craftiest enemy.
+- **G303.25.2** — Devils fear St. Isaac.
+- **G303.25.3** — Devil likes negligence in men more than anything else.
+- **G303.25.4** — Devil cooks folk in kettle.
+- **G303.25.5** — Devil's chair in hell made from thrown-away nail parings.
+- **G303.25.5.1** — From the parings of man's nails devils make little caps for themselves.
+- **G303.25.6** — Old woman gives chickens to devils.
+  *They do not accept them. She gives them to priests and they eat them.*
+- **G303.25.7** — Man shoots the devil with a silver gun.
+- **G303.25.7.1** — Devil shot with silver bullet.
+- **G303.25.8** — Devil follows corpse when a lawyer is buried.
+- **G303.25.8.1** — Devil follows corpse of a procurator.
+- **G303.25.9** — Ship with devil aboard sinks.
+- **G303.25.10** — Devil is blamed by monk for taking what does not belong to him.
+  *Devil denies accusation.*
+- **G303.25.11** — Devil takes place of woman who went to spend night with a priest.
+- **G303.25.12** — A farmer who trades horses with the devil is cheated.
+- **G303.25.13** — Devil buys a woman's hair; the silver coin which he gives in payment is changed to a piece of wood and she dies.
+- **G303.25.14** — The food and drink of the devils.
+- **G303.25.14.1** — Hideous food and drink at the night-spirits' (devils') feast.
+- **G303.25.14.2** — Devil roasts a toad.
+- **G303.25.15** — The devil's animals.
+- **G303.25.15.1** — Tailless fish as devil's hog.
+- **G303.25.16** — Possessions of the devil.
+- **G303.25.16.1** — Devil's pipe, gun or music.
+  *Man is blinded and gets such as gift or exchange from devil.*
+- **G303.25.17** — The devils' dances and feasts.
+- **G303.25.17.1** — Devil as gentleman invites a traveler to the feast (wedding).
+- **G303.25.17.2** — A musician engaged to play for the night-spirits (devils) dances.
+- **G303.25.17.3** — Devils arrange a wedding feast for a woman who hanged herself.
+- **G303.25.18** — Devil can touch man's body, not his soul.
+- **G303.25.19** — Parliament of devils.
+- **G304** — Troll as ogre.
+  *(For troll as underground spirit or mountain spirit see +F455.*
+- **G304.1** — Appearance of troll (ogre).
+- **G304.1.1** — Troll in animal form.
+- **G304.1.1.1** — Troll as fox.
+- **G304.1.1.2** — Troll as hare.
+- **G304.1.1.3** — Troll as goose.
+- **G304.1.1.4** — Troll as crow.
+- **G304.1.2** — Troll in form of object.
+- **G304.1.2.1** — Troll in form of cloud.
+- **G304.1.2.2** — Troll in form of key.
+- **G304.1.3** — Many-headed troll.
+- **G304.2** — Characteristics of trolls.
+- **G304.2.1** — Fire-producing troll.
+- **G304.2.1.1** — Troll lights fingers.
+- **G304.2.1.2** — Troll stretches neck so long that fire comes from lips.
+- **G304.2.2** — Troll's food.
+- **G304.2.2.1** — Troll's food gives men strength.
+- **G304.2.3** — Special powers of troll.
+- **G304.2.3.1** — Locks spring open for troll.
+- **G304.2.4** — Antipathies of trolls.
+- **G304.2.4.1** — Trolls cannot endure churchbells.
+- **G304.2.4.2** — Trolls afraid of bears.
+- **G304.2.5** — Troll bursts when sun shines on him.
+  *Or he may become stone.*
+- **G304.3** — Troll's possessions.
+- **G304.3.1** — Troll's castle.
+- **G304.3.1.1** — Golden door to troll's castle.
+- **G304.3.2** — Troll's animals.
+- **G304.3.2.1** — Troll has team of mice.
+- **G304.3.2.2** — Troll drives two he-goats.
+- **G304.3.2.3** — Troll has bear in stable.
+- **G304.3.2.4** — Troll has hares in stable.
+- **G305** — Earl king.
+  *Child-stealing ogre.*
+- **G306** — Rainbow as ogre.
+- **G307** — Jinn.
+- **G307.1** — Where jinn comes from.
+- **G307.1.1** — Jinn always appears out of strong wind.
+- **G307.2** — Form of jinn.
+- **G307.2.1** — Jinn can take any human form he chooses.
+- **G307.2.2** — Jinn unseen by anyone except person(s) he wishes should see him.
+- **G307.3** — Jinn kills whoever tries to occupy house he has chosen to live in.
+- **G307.4** — City infested by jinns deserted.
+- **G308** — Sea monster.
+- **G308.1** — Fight with sea (lake) monster.
+- **G308.2** — Water-monster.
+- **G308.3** — Herds of sea monsters on surface of sea.
+- **G308.4** — Lake made dangerous by haunting serpent (dragon, piist).
+- **G308.5** — Shark-man ogre, eater of children swimming.
+- **G308.6** — Lake monster has power to attract victims.
+- **G308.7** — Clam shell invites man down into sea so he can be eaten.
+- **G308.8** — Monsters of the sea: two whales of human parentage.
+- **G308.9** — Demon-octopus.
+- **G310** — Ogres with characteristic methods.
+- **G311** — Old man of the sea.
+  *Burr-woman. Ogre who jumps on one's back and sticks there magically.*
+- **G312** — Cannibal ogre.
+- **G312.1** — Pisaca.
+  *Drinks blood and eats human flesh. Eats corpses and makes living waste away.*
+- **G312.2** — Spirit-woman in rock devours men and cattle.
+- **G312.3** — Flesh-eating spirits live in trees.
+- **G312.4** — Man-eating ogre fries his victims in kettle of oil.
+- **G312.5** — Bhrat, fierce flesh-eating creatures made by Creator in fit of anger.
+- **G312.6** — Ogre eats only men's hearts.
+- **G312.7** — Ogress devours horses.
+- **G313** — Procrustes.
+  *Monster makes men fit his bed. Tall men sawed off, short men stretched.*
+- **G314** — Pine bender.
+  *Kills victims by springing tree.*
+- **G315** — Cycnus.
+  *Cuts off heads of strangers in order to build temple of heads.*
+- **G316** — Giant robber with club.
+- **G317** — Wrestling ogre.
+- **G321** — Cliff-ogre.
+  *Kicks victims over cliff.*
+- **G321.1** — Pusher-into-hole.
+- **G321.2** — Ogress at a spot along the road takes toll of lives.
+- **G322** — Piercer-of-souls: fishes men.
+- **G322.1** — Giant fisherman.
+  *Draws in ships with his line.*
+- **G323** — Brother-Dead.
+  *Trapper of game; silent; pursues trickster.*
+- **G327** — Swinging ogre.
+  *Girls who swing their lovers over pit, cut rope, and later devour them.*
+- **G328** — Rectum snakes.
+  *Snakes which creep into living man and devour him.*
+- **G328.1** — Serpent inside man's body eats all his food.
+- **G331** — Pot-tilter.
+  *Ogre who tilts a pot so that victims are drawn into it.*
+- **G332** — Sucking monster.
+  *Giant (sometimes a giant hall or cave) sucks in victims.*
+- **G332.1** — Ogre sucks victim's finger and drinks all his blood.
+- **G333** — Path between monsters.
+  *Scylla and Charybdis.*
+- **G334** — Ogre keeps human prisoners.
+- **G334.1** — Ogress has twenty captive princesses in cave.
+- **G335** — Ogre decapitates captive princess before he leaves palace; resuscitates her on return.
+- **G336** — Ogre draws victims under water.
+- **G336.1** — Demon drags beneath the water any person whose shadow falls on surface of water.
+- **G341** — Sharp-elbowed women.
+  *Kill with their elbows.*
+- **G341.1** — Ogre with sharpened leg.
+- **G342** — Demon with pointed head, red hair, and black face.
+- **G345** — Man with fire moccasins.
+  *They set fire to surroundings.*
+- **G345.1** — Ogress can make cold oven blaze by putting foot into it.
+- **G346** — Devastating monster.
+  *Lays waste to the land.*
+- **G346.0.1** — Devastating monster which comes out of a hole in evening.
+- **G346.1** — Devastating monster mews like cat.
+- **G346.2** — Devastating demon.
+  *Kills and eats people.*
+- **G346.3** — Amphibious monster.
+- **G346.3.1** — Amphibious tree-destroying monsters.
+- **G346.4** — Evil spirit drinks water supply dry.
+- **G347** — Ogre: karumba kills hero by medicines.
+- **G350** — Animal ogres.
+- **G351** — Domestic beast as ogre.
+- **G351.1** — Dog as ogre.
+- **G351.2** — Cat as ogre.
+  *Sucks blood.*
+- **G351.3** — Ferocious sow.
+- **G351.4** — Ogress in goat-form.
+- **G351.5** — Ogress in form of donkey.
+- **G352** — Wild beast as ogre.
+- **G352.1** — Wolf as ogre.
+- **G352.2** — Wild boar as ogre.
+- **G353** — Bird as ogre.
+- **G353.1** — Cannibal bird as ogre.
+- **G353.2** — Eagle as ogre.
+- **G353.3** — Duck as ogre.
+- **G354** — Reptile as ogre.
+- **G354.1** — Snake as ogre.
+- **G354.1.1** — Demon in the shape of serpent guards forest where treasure tree grows.
+- **G354.2** — Crocodile as ogre.
+- **G354.3** — Lizard as ogre.
+- **G360** — Ogres with monstrous features.
+- **G361** — Ogre monstrous as to head.
+- **G361.1** — Many-headed ogre.
+- **G361.1.1** — Two-headed ogre.
+- **G361.1.1.1** — Monster with two horns, each having human head on it.
+- **G361.1.2** — Three-headed ogre.
+- **G361.1.3** — Six-headed ogre.
+- **G361.1.4** — Seven-headed ogre.
+- **G361.1.5** — Ten-headed ogre.
+- **G361.2** — Great head as ogre.
+  *Head detached from body pursues or flies about doing damage.*
+- **G361.3** — Headless ogre.
+- **G362** — Ogre monstrous as to nose.
+- **G362.1** — Noseless ogre.
+- **G362.2** — Pug-nosed ogre.
+- **G363** — Ogre monstrous as to mouth.
+- **G363.1** — Ogre with flaming mouth.
+- **G363.2** — Large tusks grown from ogre's mouth.
+- **G363.3** — Diamond-toothed ogre.
+- **G365** — Ogre monstrous as to feet.
+- **G365.1** — Ogre with feet reversed.
+- **G365.2** — Ogress can extend leg or arm any distance.
+- **G366** — Ogre monstrous as to trunk.
+- **G366.1** — Ogres who have no belly.
+- **G367** — Ogre monstrous as to blood.
+- **G367.1** — Blood of five ogres colored yellow, red, white, green, black.
+- **G369** — Monstrous ogres miscellaneous.
+- **G369.1** — Rakshasa.
+  *Dog or ape-shaped; red hair and eyes; mouth reaching from ear to ear; ears pointed like spears; shape-changers; cannibals; three heads, five feet, four eyes, no fingers, bear-neck, horns. Attack women.*
+- **G369.1.1** — Rakshasas have power of extending bodies eighty miles.
+- **G369.1.2** — Rakshasa can be defeated by hero who has rakshasi blood in his veins.
+- **G369.1.3** — Rakshasa eats many of the domestic animals each night.
+- **G369.1.4** — Rakshasa eats horse, dog, and child.
+  *Suspected Ranis ordered for execution.*
+- **G369.1.5** — Man persecuted by a rakshasa in form of beautiful wench.
+- **G369.1.6** — Rakshasa hidden in deer's head swallows men.
+- **G369.1.7** — Rakshasa's mistress with her head severed lying in a pool of blood.
+- **G369.2** — Genie in form of smoke, taking shape with three wings, one on back.
+- **G369.3** — Ogre without a shadow.
+- **G369.4** — Ogre has head and tail of a cat.
+- **G369.5** — Ogre (demon) with long arm (demon hand) which is thrust down chimney (through door, etc. ) Irish myth: *Cross.
+- **G369.6** — One-breasted ogress.
+- **G369.7** — One-eyed demon.
+- **G370** — Ogres miscellaneous.
+- **G371** — Stone giants.
+  *(Stone coats.)*
+- **G371.1** — Ogre clothed in rock.
+- **G372** — Rain" as ogre in bull form.
+- **G375** — Wonderful birds guarded by monster.
+- **G376** — Ogre in shape of small boy.
+- **G377** — Tupilac.
+  *Monster made of parts of corpses of animals and vivified.*
+
+## Person falls into ogre's power
+
+- **G400** — Person falls into ogre's power.
+- **G401** — Children wander into ogre's house.
+- **G401.1** — Mistake of elder leads two brothers to the home of ogre.
+- **G402** — Pursuit of animal leads to ogre's house.
+- **G402.1** — Pursuit of bird leads to ogre's house.
+- **G402.2** — Pursuit of mongoose leads to witch's house.
+- **G403** — Ogre in animal form lures victim into captivity.
+- **G405** — Man on hunt falls into ogre's (witch's) power.
+- **G406** — Lost (marooned) person falls into ogre's power.
+- **G410** — Person betrayed into ogre's power.
+- **G411** — Person aids ogre and is captured.
+- **G412** — Children lured into ogre's house.
+- **G412.1** — Ogre's gingerbread house lures child.
+- **G413** — Ogre disguises voice to lure victim.
+- **G414** — Ogress invites boys to live in her house.
+- **G420** — Capture by ogre.
+- **G421** — Ogre traps victim.
+- **G422** — Ogre imprisons victim.
+- **G422.1** — Ogre imprisons victim in drum.
+- **G423** — Ball falling into water puts person into ogre's (witch's, water spirit's) power.
+- **G424** — Bridal party will not pass over bridge for fear of water-demon.
+- **G426** — Ogre draws girl over waterfall.
+- **G440** — Ogre abducts person.
+- **G441** — Ogre carries victim in bag (basket).
+- **G442** — Child-stealing demon.
+- **G442.1** — Ogre abducts new-born babe, keeping it captive for seven years.
+- **G442.2** — Child watched throughout night as protection against child-stealing demon.
+- **G450** — Falling into ogre's power miscellaneous.
+- **G451** — Following witch's fire into her power.
+- **G452** — Youth takes service with ogre.
+- **G455** — Falling into ogre's power through fascination with his daughter.
+- **G461** — Youth promised to ogre visits ogre's home.
+- **G461.1** — Boy in ogre's house sees many human heads placed in rows: heads smile and weep.
+- **G462** — Person as servant in ogre's house.
+- **G462.1** — Hero as giant's (ogre's) goatherd.
+- **G463** — Ogre guesses correctly and gets princess.
+- **G464** — Ogre tyrannizes over fairyland.
+- **G465** — Ogre sets impossible tasks.
+- **G466** — Lousing as task set by ogre.
+- **G475** — Ogre attacks intruders.
+- **G475.1** — Ogre attacks intruders in house in woods.
+- **G475.2** — Ogre attacks intruders on bridge.
+- **G476** — Ugly ogre terrifies women who flee and are drowned.
+- **G477** — Ogre kills men and rapes women.
+- **G478** — Ogre kills noisy children.
+
+## Ogre defeated
+
+- **G500** — Ogre defeated.
+- **G501** — Stupid ogre.
+- **G510** — Ogre killed, maimed, or captured.
+- **G510.1** — Defeated giant gives his daughter to victor.
+- **G510.2** — Secrets forced from overpowered monster.
+- **G510.3** — Defeated giant becomes friend and helper of victor.
+- **G510.4** — Hero overcomes devastating animal.
+- **G510.5** — Ogress with knife tail defeated by hunter.
+- **G511** — Ogre blinded.
+- **G511.1** — One-eyed giant (ogre) blinded (and killed) by arrow.
+- **G512** — Ogre killed.
+- **G512.0.1** — Hero kills trouble-making evil strong men.
+- **G512.0.2** — Ogre's daughter killed together with her father.
+- **G512.0.3** — Hero killing an ogress gains her adopted daughter for his wife.
+- **G512.1** — Ogre killed with knife (sword).
+- **G512.1.1** — Giant killed with magic knife.
+- **G512.1.2** — Ogre decapitated.
+- **G512.1.2.1** — Ogre's head and hands cut off and hung above city gate.
+- **G512.2** — Ogre stoned to death.
+- **G512.3** — Ogre burned to death.
+- **G512.3.1** — Ogre killed by throwing hot stones (metal) into his throat.
+- **G512.3.2** — Ogre burned in his own oven.
+- **G512.3.2.1** — Ogre's wife (daughter) burned in his own oven.
+- **G512.3.3** — Grass as fuel for burning ogre.
+- **G512.3.4** — Jinn falls into cauldron of boiling oil, thinking it is food.
+- **G512.4** — Ogre persuaded to go into hole: buried alive.
+- **G512.5** — Ogre killed by burning external soul.
+- **G512.5.1** — Ogre killed by burning feather containing his life.
+- **G512.6** — Giant killed by cutting his foot (feet) off.
+- **G512.6.1** — Giant's (ogre's) arm pulled (cut) off by defender of castle (house).
+- **G512.7** — Backbone of ogre's old mother broken.
+- **G512.8** — Ogre killed by striking.
+- **G512.8.1** — Ogre killed by striking with club.
+- **G512.8.2** — Ogre killed by striking with stones.
+- **G512.8.3** — Boy sends magic spear against six-headed ogre and slays him.
+- **G512.8.4** — Ogre whipped to death.
+- **G512.9** — Animal kills ogre.
+- **G512.9.1** — Ogre killed by helpful dogs.
+- **G512.9.2** — Ogre torn to pieces by birds.
+- **G512.10** — Ogre killed by lightning.
+- **G512.11** — Ogre drowned.
+- **G513** — Ogre killed and resuscitated so as to be of help to hero.
+- **G513.1** — Grateful ogre resuscitates his benefactor.
+- **G514** — Ogre captured.
+- **G514.0.1** — Demon must bring treasure to those who have released him.
+- **G514.1** — Ogre trapped in box (cage).
+- **G514.2** — Ogre imprisoned in his own house.
+- **G514.2.1** — Ogre imprisoned in cave.
+- **G514.3** — Ogre caught in noose and killed.
+- **G514.4** — Ogre captured while transformed to animal.
+- **G514.5** — Ogre tied to rock.
+- **G514.5.1** — Hero pegs ogress to boulder.
+- **G514.6** — Ogresses caught in flood of lava.
+- **G514.7** — Ogre captured with decoy smeared with tar.
+  *He is then killed and thrown into water.*
+- **G514.8** — Ogre captured by animal.
+- **G514.8.1** — Ogre captured by tortoise.
+- **G515** — Holy men keep devils under control.
+- **G519** — Ogre killed through other tricks.
+- **G519.1** — Ogre's wife killed through other tricks.
+- **G519.1.1** — Faithful hound kills ogre's wife.
+- **G519.1.2** — Man pretends to cut toenails of cannibal woman: kills her.
+- **G519.1.3** — Ogress lured in bridal bed and killed.
+- **G519.1.4** — Ogress tricked into falling into boiling spring.
+- **G519.2** — Ogre killed with his own iron bar.
+- **G519.3** — Cliff ogre thrown as food to his children.
+- **G519.4** — Ogre killed by blades falling in his food.
+- **G519.5** — Giant ogre tricked into running round a tree the branches of which catch the strokes of his iron bar, until he falls down dead.
+- **G520** — Ogre deceived into self-injury.
+- **G521** — Ogre made drunk and overcome.
+- **G522** — Ogre persuaded to drink pond dry bursts.
+- **G522.1** — Ogre drinks till he bursts turns into fog.
+- **G523** — Ogre kills self when he sees crumbs lying on his belly.
+- **G524** — Ogre deceived into stabbing himself.
+  *He imitates the hero who has stabbed a bag of blood.*
+- **G524.1** — Ogre deceived into hanging himself.
+- **G525** — Sea people give the ogre brandy (tar).
+- **G525.1** — Witch wishes to have as pretty teeth as man: drinks boiling oil.
+- **G526** — Ogre deceived by feigned ignorance of hero.
+  *Hero must be shown how to get into oven (or the like). Ogre shows him and permits himself to be burnt.*
+- **G527** — Giant killed by his own bucket of death water; captive princess tells him to wash.
+- **G528** — Stupid ogre duped into cutting off his own buttocks.
+- **G530** — Ogre's relative aids hero.
+- **G530.1** — Help from ogre's wife (mistress).
+- **G530.1.1** — Giant overcome and slain when his wife binds his hair to posts.
+- **G530.2** — Help from ogre's daughter (or son).
+- **G530.3** — Help from ogre's mother.
+- **G530.4** — Help from ogre's grandmother.
+- **G530.5** — Help from old woman in ogre's house.
+- **G530.6** — Ogre's maidservant as helper.
+- **G532** — Hero hidden and ogre deceived by his wife (daughter) when he says that he smells human blood.
+- **G534** — Ogre tells wife how people may evade his power.
+- **G535** — Captive woman in ogre's house helps hero.
+- **G537** — Ogre defeated with divine help.
+- **G537.1** — Ogre defeated with help of goddess.
+- **G550** — Rescue from ogre.
+- **G551** — Rescue from ogre by relative.
+- **G551.1** — Rescue of sister from ogre by brother.
+- **G551.2** — Rescue of sister from ogre by another sister.
+- **G551.3** — Rescue of children from ogre by brother.
+- **G551.3.1** — Rescue of children from giant (ogre) by hero (skillful companions).
+- **G551.4** — One brother rescues another from ogre.
+- **G551.4.1** — One foster brother rescues another from ogre.
+- **G551.5** — Cannibal is killed by his wife's relatives.
+- **G552** — Rescue from ogre by helpful animals.
+- **G555** — Rescue from ogre by means of singing.
+- **G556** — Recognition of captive's voice brings about rescue from ogre.
+  *Usually captive sings in the bag.*
+- **G560** — Ogre deceived into releasing prisoner.
+- **G561** — Ogre tricked into carrying his prisoners home in bag on his own back.
+- **G570** — Ogre overawed.
+- **G571** — Oaths (abusive speeches) drive ogres away.
+- **G572** — Ogre overawed by trick.
+- **G572.1** — Ogre deceived by throwing burning oil instead of spittle on him.
+- **G572.2** — Ogre deceived by showing sharp knife or sword for nose or tongue.
+- **G580** — Ogre otherwise subdued.
+- **G581** — Ogres chased away by fire.
+- **G582** — Giants appeased by feeding them.
+- **G582.1** — Demons bribed with food.
+- **G583** — Demons coerced by tabus of druids.
+- **G584** — Ogre polluting the wells driven away by shooting.
+- **G585** — Ogre tortured by not being allowed to sleep.
+
+## G600
+
+- **G610** — Theft from ogre.
+- **G610.1** — Stealing from ogre for revenge.
+- **G610.2** — Stealing from ogre to help a friendly king.
+- **G610.3** — Stealing from ogre as task.
+- **G612** — The one eye of the three giants stolen.
+- **G613** — Ogre's charm stolen.
+- **G614** — Killing of ogre's cattle, sheep, etc. brings on ogre's anger.
+- **G630** — Characteristics of ogres.
+- **G631** — Ogre so old that his eyelids must be propped up.
+- **G631.1** — Thousand year old ogre.
+- **G632** — Ogre who cannot endure daylight.
+- **G633** — North as abode of evil spirits.
+- **G634** — Genie sleeps with eyes open.
+- **G635** — Ogre revives after limbs are severed.
+- **G635.1** — Monster's returning head.
+  *Joins body after it has been severed.*
+- **G636** — Ogres powerless after cockcrow.
+- **G637** — Ogres live in trees.
+- **G638** — Ogre powerless to cross stream.
+- **G639** — Ogress lives in water.
+- **G650** — Unclassified ogre motifs.
+- **G651** — Ogre teaches smith how to transform sand in his smithy.
+- **G652** — Ogre sings constantly, usually own name.
+- **G653** — Ogre attracts attention by whistling.
+- **G655** — Ogre's ashes cast on stream cause rapids to stop.
+  *Also kill all creatures in the stream.*
+- **G661** — Ogre's secret overheard.
+- **G661.1** — Ogre's secret overheard from tree.
+- **G661.2** — Ogre's secret overheard by masking as bird.
+- **G665** — Vanquished ogre grants hero's three wishes.
+- **G671** — Wild man released from captivity aids hero.
+- **G672** — Hero in service of wild man.
+- **G674** — Ogre's wife jealous of him.
+- **G675** — Ogres harnessed to plow.
+- **G676** — Ogre carrying mortar and pestle.
+- **G677** — Ogress attracted by scent of sugar cane ravages city.
+- **G681** — Ogre gives riddle on pain of death.
+- **G682** — Large price exacted for curing ogre after wounding him.
+- **G683** — Cannibal offers wealth to save his life.
+- **G691** — Bodies of victims in front of ogre's house.
+- **G691.1** — Giants keep corpses on hand to eat.
+- **G691.2** — Widow(s) of ogre's victims seen at ogre's house.
+- **G691.3** — Maimed victims seen at ogre's house.
+- **G691.4** — Lost husband's bones found among cannibals.

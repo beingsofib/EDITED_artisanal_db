@@ -1,0 +1,1645 @@
+# Q. Rewards and Punishments
+
+> Motif-Index of Folk-Literature · 1511 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Rewards and punishments
+
+- **Q0** — Rewards and punishments.
+- **Q1** — Hospitality rewarded opposite punished.
+- **Q1.1** — Gods (saints) in disguise reward hospitality and punish inhospitality.
+  *Usually the hospitable person is poor, the inhospitable rich.*
+- **Q2** — Kind and unkind.
+- **Q3** — Moderate request rewarded; immoderate punished.
+- **Q3.1** — Woodsman and the gold axe.
+  *A woodsman lets his axe fall into the water. Hermes comes to his rescue. Takes out a gold axe but the woodsman says that it is not his. The same with a silver axe. Finally he is given his own axe and rewarded for his modest choice. His companion tries this plan and loses his axe.*
+- **Q3.2** — Lion divides slain bullock.
+  *The thief who demands half of the bullock driven off; the traveler who modestly withdraws invited to take half.*
+- **Q4** — Humble rewarded, haughty punished.
+- **Q5** — Laziness punished; industry rewarded.
+- **Q5.1** — Lazy jackal punished; industrious pig rewarded.
+- **Q5.2** — Lazy owl punished; industrious hummingbird rewarded.
+- **Q6** — Good thoughts rewarded, bad punished.
+- **Q6.1** — Foolishness brings a man to death, quiet calm to fortune.
+- **Q7** — Deity descends and makes king and wronged subject change places.
+- **Q10** — Deeds rewarded.
+- **Q20** — Piety rewarded.
+- **Q20.1** — Reward for service of god, hero, or ascetic for a period.
+- **Q20.2** — Fulfillment of precepts rewarded.
+- **Q21** — Reward for religious sacrifice.
+- **Q21.1** — Old woman gives her only cow believing she would receive a hundred in return from God.
+  *A bishop hearing of her faith sends her a hundred cows.*
+- **Q22** — Reward for faith.
+- **Q23** — Reward for securing converts.
+- **Q25** — Reward for carrying Christ across a stream.
+  *Christ is in the form of a child. (St. Christopher.)*
+- **Q25.1** — Boy risks life to carry leper across stream.
+  *Leper is Christ in disguise.*
+- **Q26** — Keeping fast rewarded.
+- **Q27** — Reward for faith: boy doomed to die saved (miraculously).
+- **Q28** — Reward for religious pilgrimage.
+- **Q32** — Reward for offering food to crucifix (Madonna).
+- **Q33** — Reward for saying of prayers.
+- **Q34** — Reward for austerities of hermit.
+- **Q35** — Reward for writing hymn.
+- **Q36** — Reward for repentance.
+- **Q36.1** — Reward for confession of sins.
+- **Q37** — Reward for carrying out dead man's request.
+- **Q38** — Reward for attendance on holy man.
+- **Q39** — Piety rewarded miscellaneous.
+- **Q39.1** — Asceticism rewarded.
+- **Q40** — Kindness rewarded.
+- **Q41** — Politeness rewarded.
+- **Q41.1** — Ogre appeased by being called uncle (aunt, etc.).
+- **Q41.2** — Reward for cleansing loathsome person.
+  *Cleansing eyelids, bathing, lousing etc.*
+- **Q42** — Generosity rewarded.
+- **Q42.1** — Spendthrift knight.
+  *Divides his last penny. He is later helped by the grateful person.*
+- **Q42.1.1** — Child divides last loaf with fairy (witch, etc.).
+  *Rewarded.*
+- **Q42.1.1.1** — Reward for giving last loaf.
+- **Q42.1.2** — Man who divides his food with beggar is later freed from captivity by him.
+- **Q42.1.3** — Excessive hospitality causes chieftain to become poor.
+- **Q42.2** — Reward for providing coffins for poor.
+- **Q42.3** — Generosity to saint (god) in disguise rewarded.
+- **Q42.4** — Man frees slave (incognito prince):  rewarded when slave becomes king.
+- **Q42.4.1** — Slave freed as reward for killing enemy's two slaves,  and given as much land as he can cultivate in three days.
+- **Q42.5** — Reward for generosity to king's buffoon.
+  *Ruler rewards herald who is generous to his buffoon.*
+- **Q42.6** — Reward for tearing out eye when demanded.
+- **Q42.7** — Reward for remitting tribute.
+- **Q42.8** — Saint gives a man all his credit for good deeds so that the man may go to heaven.
+  *Saint is then rewarded with even greater credit.*
+- **Q42.9** — Cobbler gives new pair of shoes to poor boy and says: "You can pay me when you become archbishop."
+  *Generously rewarded many years later.*
+- **Q43** — Reward for giving counsel.
+- **Q44** — Reward for almsgiving.
+- **Q44.1** — Reward to almsgiving monk given in form of restored honor and position.
+- **Q44.2** — Man pardoned for short accounts when it is learned that he has given the money to the poor as alms.
+- **Q44.3** — One rupee given away for charity incidentally brings back ten rupees.
+- **Q45** — Hospitality rewarded.
+- **Q45.1** — Angels entertained unawares.
+  *Hospitality to disguised saint (angel, god) rewarded.*
+- **Q45.1.1** — Three Nephites give blessings as reward for hospitality.
+  *(Mormon tradition.)*
+- **Q45.1.2** — King refuses to invite Patrick to feast.
+  *Poor man kills only cow and uses his only measure of meal to entertain Patrick. Patrick blesses his wife and son.*
+- **Q45.1.3** — Hospitality to saint repaid:  neither he nor his posterity will ever be hurt by venomous creatures.
+- **Q45.2** — Hospitality to devil repaid.
+- **Q45.2.1** — Man saves the unrecognized devil from thunder and is generously rewarded.
+- **Q45.3** — Hospitality to ascetic rewarded.
+- **Q45.3.1** — Hospitality to monk rewarded.
+- **Q45.4** — Revenge given up as reward for hospitality.
+- **Q45.5** — Hospitality repaid by attack on devastating enemy.
+- **Q45.6** — Hospitality repaid by magic procuring of provisions.
+- **Q46** — Reward for protecting fugitive.
+- **Q46.1** — Reward for protecting holy fugitive.
+- **Q47** — Kindness to orphans repaid by dead parents.
+- **Q51** — Kindness to animals rewarded.
+- **Q51.1** — Knight covers foal with his coat to protect it from storm.
+- **Q51.2** — Reward for kindness to tiger.
+- **Q53** — Reward for rescue.
+- **Q53.1** — Disguised king rewards rescuer from robbers.
+- **Q53.2** — Magic shirt and information about sought robbers as reward for rescue of poor fisherman.
+- **Q53.2.1** — Plenty of fishes as reward for rescue.
+- **Q53.3** — Maiden queen offers her hand as reward for rescuing her town.
+- **Q53.3.1** — Maiden gives her hand and riches to man who rescues her from trap.
+- **Q54** — Uprightness rewarded.
+- **Q54.1** — Ruler tries in vain to intimidate judge.
+  *Rewards him with high post.*
+- **Q54.2** — Captive knight freed for having kept his word.
+  *Is allowed to leave to collect ransom (or marry fiancie). When he returns his captor frees him (or raises ransom).*
+- **Q55** — Reward for sparing life when in animal form.
+- **Q56** — Love rewarded.
+- **Q56.1** — Ruler rewards man's love for his captive wife with riches and freedom.
+- **Q56.2** — Ruler rewards captives' love for each other.
+  *Sets them free and enriches them.*
+- **Q56.3** — Queen rewards love of man of low lineage by making him an ambassador.
+- **Q57** — Attendance on the sick rewarded.
+- **Q57.1** — Reward for shielding Mary in childbirth from gaze of onlookers.
+- **Q60** — Other good qualities rewarded.
+- **Q61** — Self-abnegation rewarded.
+- **Q61.1** — Monk who did not ask for position made abbot.
+  *He is given the bribe money paid by other ambitious monks.*
+- **Q61.2** — Devil spares abbot because of humility.
+- **Q62** — Reward for ability to keep secrets.
+- **Q64** — Patience rewarded.
+- **Q65** — Filial duty rewarded.
+- **Q65.1** — Supplying food to ungrateful stepmother rewarded.
+- **Q66** — Humility rewarded.
+- **Q66.1** — Humility before saint (god) in disguise rewarded.
+- **Q67** — Kingly duty rewarded.
+- **Q68** — Integrity rewarded.
+- **Q68.1** — Truth-speaking rewarded.
+- **Q68.2** — Honesty rewarded.
+- **Q72** — Loyalty rewarded.
+- **Q72.1** — Reward for loyalty to king.
+- **Q80** — Rewards for other causes.
+- **Q81** — Reward for perseverance.
+- **Q81.1** — Nobleman's perseverance wins him coveted place on reserved bench.
+  *Elected upon the death of one of its occupants.*
+- **Q82** — Reward for fearlessness.
+  *Reward given by devil or ghost.*
+- **Q82.1** — Snake helps girl who permits it to wind itself around her body.
+- **Q82.2** — Ferocious animal (lion, tiger, etc.) rewards man who does not fear it.
+- **Q83** — Reward for marital fidelity.
+- **Q83.1** — Reward for wife's fidelity.
+- **Q84** — Reward for stoic endurance of pain.
+- **Q85** — Reward for asking proper questions.
+- **Q86** — Reward for industry.
+- **Q86.1** — Reward to ant for industry.
+  *Ant has food all winter because she keeps it safe and dry by airing it in the sun.*
+- **Q87** — Reward for preservation of chastity.
+- **Q87.1** — Ruler marries maiden who has repulsed his advances.
+- **Q87.1.1** — Spurned ruler has the maiden marry highest ranking knight.
+- **Q87.1.2** — Married woman spurns king's offer of marriage.
+  *King honors her husband.*
+- **Q87.1.3** — Spurned suitor is offered girl by her mother.
+  *He rewards her refusal by a gift of money.*
+- **Q87.2** — Courtier rewarded for resisting princess's advances.
+  *When her father learns of the affair he rewards the courtier and has him marry his daughter.*
+- **Q87.3** — Reward for long-suffering nun: made abbess of convent.
+- **Q88** — Reward for proficiency.
+- **Q88.1** — Fra Lippo Lippi is freed by Moors because of his greatness as a painter.
+- **Q88.2** — Princess kisses ugly poet while he sleeps.
+  *Kisses not the ugly face but the divine mouth.*
+- **Q91** — Reward for cleverness.
+- **Q91.1** — Princess given in marriage to clever thief.
+- **Q91.2** — King rewards scullion for bon-mot.
+  *Makes him a valet.*
+- **Q91.3** — King rewards poem.
+- **Q91.4** — Answer rewarded with gold ring; message rewarded with purse with silver.
+- **Q93** — Reward for supernatural help.
+- **Q93.1** — Reward for bringing rain.
+- **Q93.2** — Reward for resuscitating dead.
+- **Q94** — Reward for cure.
+- **Q95** — Reward for musician.
+- **Q95.1** — Reward for flute-playing.
+
+## Nature of rewards
+
+- **Q100** — Nature of rewards.
+- **Q101** — Reward fitting to deed.
+- **Q101.1** — Reward like deed: liberal and munificent girl blessed with riches and prosperity.
+- **Q110** — Material rewards.
+- **Q111** — Riches as reward.
+- **Q111.1** — Hero made business partner of rich man.
+- **Q111.2** — Riches as reward (for hospitality).
+- **Q111.3** — Riches as reward for help against robbers.
+- **Q111.4** — Gold ring as reward.
+- **Q111.5** — Giant gives gold, silver and weapon as reward for good advice.
+- **Q111.6** — Treasure as reward.
+- **Q111.7** — Jewels as reward.
+- **Q111.8** — Large quantity of land as reward.
+- **Q112** — Half of kingdom as reward.
+- **Q112.0.1** — Kingdom as reward.
+- **Q112.0.1.1** — Kingdom as reward for piety.
+- **Q112.0.1.2** — Kingdom as reward for poem.
+- **Q112.0.1.3** — Kingdom as reward for finding abducted princess.
+- **Q112.0.2** — Half of property as reward.
+- **Q112.0.3** — Two thirds of kingdom as reward for finding abducted princesses.
+- **Q112.0.4** — One third of kingdom and the king's daughter as reward for getting victory-stone during the night.
+- **Q112.0.5** — Kingdom and hand of princess as reward for virtuous life.
+- **Q112.0.6** — Dominion over world as reward.
+- **Q112.0.7** — Reward: royal line of descendants.
+- **Q112.1** — Chieftainship as reward.
+- **Q112.2** — Reward: sovereignty for hour (day).
+- **Q112.3** — Reward: seat next to king.
+- **Q113** — Knighthood as reward.
+- **Q113.0.1** — High honors as reward.
+- **Q113.1** — Appointment to earldom as reward for good advice.
+- **Q113.2** — Appointment as page as reward.
+- **Q113.3** — High position as reward for piety.
+- **Q113.4** — Appointment to priesthood as reward.
+- **Q113.4.1** — Institution of priests and Levites as reward for observance of Sabbath.
+- **Q114** — Gifts as reward.
+- **Q114.0.1** — Gifts made to advisor.
+- **Q114.1** — Precious knife and belt as gift on unknown helper's spearshaft outside his tent.
+- **Q114.2** — Gifts as rewards for gifts.
+- **Q114.3** — Sword as reward.
+- **Q115** — Reward: any boon that may be asked.
+- **Q115.1** — Reward: any boon that may be asked king's wife demanded.
+- **Q115.2** — King promises daughter she may marry anyone she desires.
+- **Q115.3** — Reward: any boon that may be asked man asks only for son.
+- **Q116** — Favorable decree as reward.
+- **Q116.1** — Favorable decree as reward for helping holy person.
+- **Q121** — Freedom as reward.
+- **Q121.1** — Slaves freed as reward.
+- **Q135** — Wine as reward.
+  *Twelve jars of honey-sweet wine as reward for protection.*
+- **Q140** — Miraculous or magic rewards.
+- **Q141** — Reward: man's cows magically multiply.
+- **Q141.1** — Monks' who always shared with the poor receive supplies of flour or bread.
+- **Q141.2** — Plentiful game animals (fish) as reward.
+- **Q142** — Magic treasure as reward for humility.
+- **Q143** — Superior rebirth as reward.
+- **Q144** — Reward: hearing voice of God.
+- **Q144.1** — Hermit as reward for austerities hears voice of God.
+- **Q145** — Miraculously long life as reward.
+- **Q145.0.1** — Reward: happiness during last year of life.
+- **Q145.1** — Miraculously long life as reward for hospitality.
+- **Q145.1.1** — Health as reward for drink.
+- **Q145.2** — Miraculously long life as reward for integrity.
+- **Q146** — Reward: end of plague.
+- **Q147** — Supernatural manifestations at death of pious person.
+- **Q147.1** — Body of saint miraculously rolls over to make room in his grave for pious man.
+- **Q147.2** — Pope who has warred on wicked nobles refused burial in church.
+  *Magic wind blows doors open to show he has right to be buried there.*
+- **Q147.3** — Death by kiss from God.
+- **Q149** — Miraculous or magic reward miscellaneous.
+- **Q149.1** — Color (of animal) as reward for pious act.
+- **Q150** — Immunity from disaster as reward.
+- **Q150.1** — Rescue from deluge as reward.
+- **Q150.1.1** — Lot and family rewarded by being saved from destruction of city.
+- **Q150.2** — Loss of all evil and corruption as reward.
+- **Q151** — Life spared as reward.
+- **Q151.1** — Charitable man's death postponed.
+- **Q151.2** — Death passes by man who fed his stepmother.
+- **Q151.3** — Hospitable person saved from death.
+- **Q151.4** — Faithful old dog threatened with death proves his worth and is spared.
+- **Q151.5** — Humble man miraculously saved from drowning.
+- **Q151.6** — Life spared as reward for hospitality.
+- **Q151.7** — Life spared as reward for uprightness.
+- **Q151.8** — Life spared as reward for bravery and constancy.
+  *Centurion tells his enemies to kill him rather than attempt to win him.*
+- **Q151.9** — Resurrection as reward.
+- **Q151.10** — Honest brahman spared by tiger.
+- **Q151.11** — Man saved from lions as reward.
+- **Q151.12** — Pot of boiling oil thrown at compassionate woman does not harm her.
+- **Q151.13** — Women rewarded with their lives for excellent dancing.
+- **Q152** — City saved from disaster as reward.
+- **Q152.1** — Hospitality of a citizen saves a city from destruction.
+- **Q153** — Nature benign and fruitful during reign of good king.
+- **Q153.1** — Cows white-headed during reign of good king.
+- **Q154** — Immunity from death by violence as reward.
+- **Q154.1** — Descendants of man who endured pain without crying out not to meet violent deaths.
+- **Q156** — Victory as reward for piety.
+- **Q157** — Escape of hostages miraculously prevented as reward for piety.
+- **Q161** — Healing as reward.
+- **Q161.1** — Sight restored as reward.
+- **Q161.2** — Healing of disease as reward.
+- **Q161.3** — Hunchback healed as reward for kindness.
+- **Q162** — Invulnerability as reward for pious act.
+- **Q170** — Religious rewards.
+- **Q171** — Immunity from punishment for sin as reward.
+- **Q171.1** — Forgiveness of sin for acts of charity.
+- **Q171.1.1** — Husband forgiven for having killed jealous wife: builds monastery and becomes monk in it.
+- **Q172** — Reward: admission to heaven.
+- **Q172.0.1** — Fairy minstrel asks admission to heaven as reward for playing for saint.
+- **Q172.0.2** — Rewards in heaven.
+- **Q172.1** — Child taken to heaven: offers food to crucifix.
+- **Q172.2** — Man admitted to heaven for single act of charity.
+- **Q172.2.1** — The rich man's trial in heaven.
+  *A piece of bread given to a beggar is placed on the scales.*
+- **Q172.3** — Man admitted to heaven as reward for penance.
+- **Q172.4** — Palace being built in heaven for pious king.
+- **Q172.4.1** — Rooms in heaven are prepared for good man in heaven.
+  *The dead miser asks the living man to give him at least one of them.*
+- **Q172.5** — Numerous sinners to go to heaven as reward for man's writing hymn.
+- **Q172.6** — Heaven as reward for renouncement of long life.
+- **Q172.7** — Man admitted to heaven for remitting tribute.
+- **Q172.8** — Mother of saint admitted to heaven.
+- **Q172.8.1** — Saint goes to heaven every Thursday.
+- **Q172.9** — Deification as reward.
+- **Q173** — Saint made judge of doom for men of Ireland (as reward).
+- **Q174** — Reward: release from hell.
+- **Q174.1** — Release from hell as reward for repentance.
+- **Q174.1.1** — Saint's requests for releasing souls from hell.
+- **Q174.1.1.1** — Saint requests that on Doomsday he may bring out of hell, for every hair of his chasuble, seven condemned souls.
+- **Q174.1.1.2** — God grants to saint the boon that no one buried in any of his churches shall go to hell.
+- **Q174.1.1.3** — God grants to saint the boon that two persons are to be rescued from hell by him "to the end of the world."
+- **Q174.1.1.4** — Saint requests that any person appealing to him at death shall escape hell.
+- **Q175** — Reward: holy person to be buried and resurrected in one place.
+- **Q176** — God gives "peace and favorable weather" in consequence of enactment of good law.
+- **Q190** — Rewards miscellaneous.
+- **Q191** — Family line of good man rewarded.
+- **Q192** — Child given as reward for prayer.
+- **Q193** — Crowns and palms as reward.
+- **Q195** — Blessings.
+
+## Deeds punished
+
+- **Q200** — Deeds punished.
+- **Q210** — Crimes punished.
+- **Q210.1** — Criminal intent punished.
+- **Q211** — Murder punished.
+- **Q211.0.1** — God revenges murder after thirty years.
+- **Q211.0.2** — Enormity of kin murder.
+- **Q211.0.3** — Emperor punished for his many murders.
+  *He is carried to hell.*
+- **Q211.1** — Parricide punished.
+- **Q211.2** — Matricide punished.
+- **Q211.3** — Uxoricide punished.
+- **Q211.4** — Murder of children punished.
+- **Q211.4.1** — Queen expelled for poisoning stepson.
+- **Q211.4.2** — Woman murders son's wives.
+- **Q211.5** — Suicide punished.
+- **Q211.6** — Killing an animal revenged.
+- **Q211.6.1** — Punishment for flaying live calf.
+- **Q211.6.2** — Punishment for killing sacred whale.
+- **Q211.7** — Punishment for splitting head and eating man's brains.
+- **Q211.8** — Punishment for desire to murder.
+- **Q211.8.1** — Wounded king exacts fine from those intending to slay him.
+- **Q211.9** — Fratricide punished.
+- **Q211.9.1** — God punishes murder of brother-in-law by having murderer's male heirs die.
+- **Q211.9.2** — Punishment for killing foster brother.
+- **Q211.10** — Punishment for murder of co-wife.
+- **Q211.11** — Punishment for wholesale massacre of tribe.
+- **Q211.12** — Murder of parents punished by member of family.
+- **Q211.13** — Slave killed who killed enemy at owner's order.
+- **Q212** — Theft punished.
+- **Q212.1** — Theft from dwarf (witch) revenged.
+- **Q212.2** — Grave-robbing punished.
+- **Q212.3** — Punishment of theft: origin of sweating.
+- **Q212.4** — Stolen animal's meat impossible to cook.
+- **Q213** — Abduction punished.
+- **Q215** — Cannibalism punished.
+- **Q217** — Treason punished.
+- **Q220** — Impiety punished.
+- **Q220.1** — Devil plagues impious people.
+- **Q220.1.1** — Devil takes shape of old woman to punish impious nuns.
+  *Introduces them to three youths disguised as girls and brings about nuns' seduction. Nuns are stoned to death.*
+- **Q221** — Personal offences against gods punished.
+- **Q221.1** — Discourtesy to god punished.
+- **Q221.1.1** — Discourtesy to messengers of the Gods punished.
+- **Q221.2** — Punishment for opposition to Christ at crucifixion.
+- **Q221.3** — Blasphemy punished.
+- **Q221.4** — Seaman who defies God shipwrecked.
+- **Q221.4.1** — Dam builder remarks that God Almighty could not sweep completed dam away.
+  *The whole structure gives away, disappears.*
+- **Q221.4.2** — Man vows to recover loose boat or go to hell trying.
+  *He goes to hell.*
+- **Q221.4.3** — Party of horsemen detained by bad weather vow to reach town whether God will or no.
+  *The earth swallows them up.*
+- **Q221.5** — Disobedience to God punished.
+- **Q221.6** — Lack of trust in God punished.
+- **Q221.7** — Doubt of veracity of goddess' statement punished.
+- **Q221.8** — Theft from water-deity punished.
+- **Q222** — Punishment for desecration of holy places (images, etc.)  (Cf. +Q411.11, +Q415.7, +Q431.13, +Q491.1.2, +Q499.3, +Q551.6.5, +Q551.8.2, +Q552.17, +Q556.6, +Q557.7, +Q558.5, +Q558.14, +Q558.17, +Q558.18, +Q559.9.)
+- **Q222.0.1** — Stone in church sheds blood to foretell coming plunder of church.
+- **Q222.0.2** — Miraculous flow of blood from desecrated building or object.
+- **Q222.1** — Punishment for desecration of host.
+- **Q222.1.1** — Renegade priest punished by death for allowing heathen to defile the host.
+  *A knight slays the priest.*
+- **Q222.2** — Punishment for heaping indignities upon crucifix.
+- **Q222.3** — Foul portrayal of Jesus on the Cross brings punishment to the artist and the man responsible.
+- **Q222.4** — Magic storm as punishment for profaning of temple.
+- **Q222.5** — Punishment for desecrating church (shrine, idol).
+- **Q222.5.1** — Stones fall in churchyard, punish desecrators of church.
+- **Q222.5.2** — Magic storm as punishment for desecrating of temple.
+- **Q222.5.3** — Bold woman who danced naked in church is stricken with leprosy.
+- **Q222.5.4** — Thieves who attempt to steal from churches or shrines are miraculously rendered powerless to get out, and walk in a circle.
+- **Q222.5.5** — Desecrated church burned by burning straw carried by sparrow.
+  *(This is done through power of saint.)*
+- **Q222.5.6** — Hand stuck for beating an idol.
+- **Q222.6** — Punishment for desecration of holy temple utensils.
+- **Q223** — Punishment for neglect of services to gods (God).
+- **Q223.1** — Neglect to pray punished.
+- **Q223.2** — Neglect to thank gods punished.
+- **Q223.3** — Neglect to sacrifice punished.
+- **Q223.4** — Neglect to hear confessional punished.
+- **Q223.4.1** — Priest joins devils after death because he lets woman die without confession.
+- **Q223.5** — Neglect to attend church punished.
+- **Q223.6** — Failure to observe holiness of Sabbath punished.
+- **Q223.7** — Punishment for neglect of mass.
+- **Q223.7.1** — Virgin Mary appears to lady who neglected to hear mass.
+  *Woman awakens from trance to find piece of taper the Virgin took from her.*
+- **Q223.8** — Failure to do penance punished.
+  *Monk fails and becomes ill.*
+- **Q223.9** — Neglect to fast punished.
+- **Q223.9.1** — Neglect to fast punished by sight of dragon ready to carry man off to hell.
+- **Q223.9.2** — Musician flogged for eating a kid on Friday (day of fast).
+- **Q223.10** — Neglect to study scriptures punished.
+- **Q223.10.1** — Neglect to study Tora punished.
+- **Q223.11** — Failure to circumcise child punished.
+- **Q223.12** — Failure to finish period of mourning punished.
+- **Q223.13** — Neglect of clerical duties punished.
+- **Q223.13.1** — Monk neglecting to prostrate self at canonical hours expelled from monastery by saint and dies on seventh day.
+- **Q223.13.2** — Punishment (fine) for not giving benediction on finished work.
+- **Q223.14** — Punishment for failure to give customary offering to gods.
+- **Q224** — Punishment for betraying confessional.
+- **Q225** — Punishment for scoffing at religious teachings.
+- **Q225.1** — Heresy punished.
+- **Q225.2** — Punishment for denying pagan gods.
+- **Q225.3** — Punishment for doubting Buddha's religion.
+- **Q226** — Punishment for leaving holy orders.
+- **Q226.1** — Hermit leaving his cell to become robber falls and breaks his neck.
+  *He has seen a penitent robber's soul borne to heaven and resolves therefore to be a robber.*
+- **Q226.2** — Mutinous clerics expelled in shapes of swine.
+- **Q227** — Punishment for opposition to holy person.
+- **Q227.1** — Punishment for slaying king under holy protection.
+- **Q227.1.1** — Punishment for imprisoning person under holy protection.
+- **Q227.2** — Punishment for looking at saint's corpse.
+- **Q227.3** — Saint (hero) drives chariot over person who displeases him.
+- **Q228** — Punishment for trying to harm sacred animal.
+  *Glutton tries to kill a pig dedicated to St. Anthony. The pig turns upon him and tramples him severely.*
+- **Q231** — Brahmin punished for killing animal.
+- **Q232** — Punishment for change of religious faith.
+- **Q232.1** — Pagan punished by fellows for conversion to Christianity.
+- **Q232.2** — Punishment of Jew for apostasy.
+- **Q232.2.1** — Punishment for leaving Palestine.
+- **Q233** — Punishment for yielding to temptation by the devil.
+- **Q235** — Cursing punished.
+- **Q235.1** — Man put in moon for cursing God.
+  *He is now the man in the moon.*
+- **Q236** — Punishment for deceiving (divine) emperor.
+- **Q237** — Idolatry punished.
+- **Q240** — Sexual sins punished.
+- **Q241** — Adultery punished.
+- **Q241.1** — Desire to commit adultery punished.
+- **Q241.2** — Lover refuses to take back unfaithful paramour.
+- **Q242** — Incest punished.
+- **Q242.1** — Cohabitation of godfather and godmother punished.
+- **Q242.2** — Father-daughter incest punished.
+- **Q242.3** — Punishment for man who makes advances to sister-in-law.
+- **Q242.4** — Father of incestuous children punished.
+- **Q243** — Incontinence punished miscellaneous.
+- **Q243.0.1** — Punishment by extinction of royal line for sexual incontinence.
+- **Q243.0.2** — Suspected incontinence unjustly punished.
+- **Q243.1** — Prostitution punished.
+- **Q243.1.1** — Harlot punished by being burned (in hell).
+- **Q243.1.2** — Punishment for forcing a girl to become prostitute.
+- **Q243.2** — Seduction punished.
+- **Q243.2.1** — Attempted seduction punished.
+- **Q243.3** — Punishment for taking concubine.
+- **Q243.4** — Punishment for taking heathen wives.
+- **Q243.5** — Punishment for consorting with one of lower class.
+- **Q243.6** — Tiger instead of girl in box tears lecherous teacher to pieces.
+- **Q244** — Punishment for ravisher.
+- **Q244.0.1** — Ravisher is forced to marry girl and then is executed.
+- **Q244.1** — Punishment for attempted rape.
+- **Q244.2** — Knight who ravished nun captured when she miraculously appears before him on his horse and holds reins until he is taken.
+- **Q244.3** — Prostitute with venereal disease sent to lecherous king.
+- **Q245** — Punishment for refusal to marry after girl is pregnant.
+- **Q246** — Mortal's attempt to defile goddess punished.
+- **Q246.1** — Goddess killed for infidelity with mortal.
+- **Q247** — Punishment for desertion of fairy mistress.
+- **Q248** — Punishment for banishing wife at wish of paramour.
+- **Q251** — Punishment for refusal to have children.
+- **Q251.1** — Punishment for abortion.
+- **Q252** — Punishment for breaking betrothal.
+- **Q252.1** — Wife stealing punished with death.
+- **Q253** — Sodomy punished.
+- **Q253.0.1** — Sodomy punished by death.
+- **Q253.0.2** — Sodomist rebuked by youth.
+- **Q253.1** — Bestiality punished.
+- **Q253.2** — Homosexuality punished.
+- **Q254** — Girl punished for becoming pregnant.
+- **Q255** — Punishment of woman who prefers mortal lover to gods.
+- **Q256** — Punishment for clandestine lover of princess.
+- **Q257** — Refusal of conjugal relations punished.
+- **Q260** — Deceptions punished.
+- **Q261** — Treachery punished.
+- **Q261.1** — Intended treachery punished.
+- **Q261.2** — Treacherous wife punished.
+- **Q261.2.1** — Treacherous wife abandoned by lover for fear of treachery.
+- **Q262** — Impostor punished.
+- **Q263** — Lying (perjury) punished.
+- **Q263.1** — Death as punishment for perjury.
+- **Q265** — False judging punished.
+- **Q265.1** — Bribed false judge punished.
+- **Q265.1.1** — Unjust judges punished in hell.
+- **Q265.2** — Punishment for (undeserved) satire.
+- **Q265.2.1** — Blotches on face of satirist (judge) as punishment for wrongful satire (judgment).
+- **Q265.3** — Judge must yield bench to son because he had made a false judgment.
+- **Q265.4** — Punishment for undeserved curse.
+- **Q266** — Punishment for breaking promise.
+- **Q266.1** — Man promises more to church than he can possibly provide: punished.
+- **Q267** — Hypocrisy punished.
+- **Q267.1** — Devil comes for hypocrite.
+- **Q268** — Flattery punished.
+- **Q270** — Misdeeds concerning property punished.
+- **Q271** — Debtor punished.
+- **Q271.1** — Debtor deprived of burial.
+- **Q271.2** — Devil condemns rich man who does not repent until ready to die.
+- **Q271.3** — Woman on visit to world of dead may not return until she pays debt to dead.
+- **Q272** — Avarice punished.
+- **Q272.1** — Devil carries off rich man.
+- **Q272.1.1** — Devil carries off rich man at death.
+- **Q272.2** — Avaricious man has neck broken when top of his treasure chest falls on him.
+- **Q272.3** — Avaricious miser tries to eat his adored money and chokes to death.
+- **Q272.4** — Avaricious woman and her gold consumed by hell's fires which burn in her grave.
+- **Q273** — Usury punished.
+- **Q273.1** — Devil comes for usurer.
+- **Q273.1.1** — Dead usurer fed molten silver by devil.
+- **Q273.2** — Usurer refused burial.
+- **Q273.3** — Usurer punished in hell.
+- **Q273.4** — Church built by usurer's money made to collapse by devil.
+- **Q274** — Swindler punished.
+- **Q274.1** — Devils carry away stones of church built with ill-gotten money.
+- **Q274.2** — Devil suffocates swindling merchant.
+- **Q274.3** — Use of false weights and measures punished.
+- **Q275** — Remover of landmarks punished.
+  *Kuhn Sagen aus Westfalen I 40f.*
+- **Q276** — Stinginess punished.
+- **Q277** — Covetousness punished.
+- **Q280** — Unkindness punished.
+- **Q281** — Ingratitude punished.
+- **Q281.1** — Ungrateful children punished.
+- **Q281.1.1** — Devils carry off girl who abuses her mother.
+- **Q281.1.2** — Girl cruel to her mother is slain by God.
+- **Q281.2** — Ungrateful ruler is deposed.
+- **Q281.3** — Woman eats flesh and leaves cat only bones of fish cat has caught for them.
+  *Cursed by cat.*
+- **Q281.4** — Ungrateful king raises old woman's rent; miraculous punishment.
+- **Q283** — Irreverent young people punished by outraged old man.
+- **Q284** — Reproach concerning physical deformity (blemish) punished.
+- **Q285** — Cruelty punished.
+- **Q285.1** — Cruelty to animals punished.
+- **Q285.1.1** — Punishment for cutting off bird's tongue.
+- **Q285.1.1.1** — Man slits tongue of magpie so that it can learn to speak.
+  *His fingernails grow out like bird's claws as punishment.*
+- **Q285.1.2** — Punishment for breaking bird's nest.
+- **Q285.1.2.1** — Boy reaches into bird's nest for pigeon's eggs.
+  *A stone in the nest holds his hand for three days and nights. He is finally released by prayers.*
+- **Q285.2** — Cruelty to sick persons punished.
+- **Q285.3** — Cruel mutilation punished.
+- **Q285.4** — Slave-driving punished.
+- **Q286** — Uncharitableness punished.
+- **Q286.1** — Uncharitableness to holy person punished.
+- **Q286.2** — Priest will not bury dead unless paid in advance.
+  *Ruler has him buried alive with the corpse.*
+- **Q287** — Refusal to grant request punished.
+- **Q288** — Punishment for mockery.
+- **Q291** — Hard-heartedness punished.
+- **Q291.1** — St. Peter's mother dropped from heaven because of hardheartedness.
+  *She is permitted to go to heaven on a stalk, but is weighted down by people holding to her skirts. She shakes them off.*
+- **Q291.2** — Punishment of hard-hearted masters in other world.
+- **Q292** — Inhospitality punished.
+- **Q292.1** — Inhospitality to saint (god) punished.
+- **Q292.2** — Inhospitality to orphans punished.
+- **Q292.3** — Abuse of hospitality punished.
+- **Q295** — Monkey destroys nest of bird who has made sport of him.
+- **Q296** — Injustice punished.
+- **Q296.1** — Sack of flour pushed down on peasant who accuses his wife of theft from it.
+- **Q297** — Slander punished.
+
+## Contentiousness punished
+
+- **Q300** — Contentiousness punished.
+- **Q301** — Jealousy punished.
+- **Q302** — Envy punished.
+- **Q302.1** — Envy punished: the found purse.
+  *Three men find a purse. They are loath to pick it up, since they will have to divide. The king sees this and assigns them their proper punishments.*
+- **Q304** — Scolding punished.
+- **Q305** — War-making punished.
+- **Q306** — Quarrelsomeness punished.
+- **Q312** — Fault-finding punished.
+- **Q312.1** — Punishment for finding fault with God's works in heaven.
+- **Q312.2** — Devil carries off fault-finding people.
+- **Q312.3** — Punishment for finding fault with God's forgiveness of sin.
+- **Q312.4** — Fault-finding with God's handling of weather.
+- **Q313** — Bad temper punished.
+- **Q314** — Scandal-mongering punished.
+- **Q320** — Evil personal habits punished.
+- **Q321** — Laziness punished.
+- **Q321.1** — Women who will not sew are cast from community.
+- **Q322** — Dirtiness punished.
+- **Q323** — Unthriftiness punished.
+- **Q325** — Disobedience punished.
+- **Q326** — Impudence punished.
+- **Q327** — Discourtesy punished.
+- **Q330** — Overweening punished.
+- **Q331** — Pride punished.
+- **Q331.1** — Devil torments old man who has laid aside his humility.
+- **Q331.2** — Vanity punished.
+- **Q331.2.1** — Woman's vain display punished.
+- **Q331.2.1.1** — Devil impersonates woman's maid at her toilette.
+- **Q331.2.1.2** — Vain woman has her cheeks miraculously burned.
+- **Q331.2.1.3** — Husband rubs off paint from wife's cheeks.
+  *Threatens to scrape them the next time.*
+- **Q331.2.1.3.1** — Husband puts soot on wife's cheeks to discourage her from using paint.
+- **Q331.2.1.4** — Vain woman wears corset so tight that it stifles her to death.
+- **Q331.2.1.5** — Clothes-proud woman trips over long skirt.
+  *Devil laughs.*
+- **Q331.2.2** — Jackal demands to be praised as god: runs with pack of hounds.
+- **Q333** — Boldness punished.
+- **Q333.1** — "God has no use for me, and the devil will not take me."
+  *On the way home the bold woman is strangled by the devil.*
+- **Q338** — Immoderate request punished.
+- **Q338.1** — Request for immortality punished by transformation into tree.
+- **Q338.2** — The devil's likeness.
+  *A squire demands somebody to paint a living picture of the devil; when he sees it, he dies.*
+- **Q340** — Meddling punished.
+- **Q341** — Curiosity punished.
+- **Q342** — Inquisitiveness punished.
+- **Q380** — Deeds punished miscellaneous.
+- **Q381** — Punishment for gambling.
+- **Q385** — Captured animals avenge themselves.
+- **Q386** — Dancing punished.
+- **Q386.1** — Devil punishes girl who loves to dance.
+- **Q386.2** — Drunken dancers punished.
+- **Q387** — Jesting punished.
+- **Q387.1** — Devil carries off jester.
+- **Q388** — Freemasonry punished.
+- **Q388.1** — Freemasons forced to dance till they sweat blood.
+- **Q391** — Punishment for singing worldly songs.
+- **Q391.1** — Prince of devils gives up seat to man who goes to hell for singing worldly songs.
+- **Q392** — Punishment of evil magician who has caused plague.
+- **Q393** — Evil speech punished.
+- **Q393.1** — Punishment for talking too much.
+  *Monk punished in hell's fires for this fault.*
+- **Q393.2** — Gossiping punished.
+- **Q394** — Uxoriousness punished.
+- **Q395** — Disrespect punished.
+
+## Kinds of punishment general
+
+- **Q400** — Kinds of punishment general.
+- **Q401** — Chain of punishments.
+  *Horse must break leg, since he has broken leg of man who broke leg of dog which bit leg of fox.*
+- **Q402** — Punishment of children for parents' offenses.
+- **Q403** — Punishment not meted out to persons below twenty years.
+- **Q404** — Punishment comes in seventh generation.
+- **Q410** — Capital punishment.
+- **Q411** — Death as punishment.
+- **Q411.0.1** — Husband kills returning adulteress.
+- **Q411.0.1.1** — Adulterer killed.
+- **Q411.0.1.2** — Man (fairy) kills wife's lover.
+- **Q411.0.1.3** — Faithless wife (mistress) seized by husband's (lover's) poet, who leaps to death with her in his arms.
+- **Q411.0.1.4** — Death for repeated adultery.
+- **Q411.0.2** — Husband kills wife and paramour.
+- **Q411.1** — Punishment: winning as wife and then killing.
+- **Q411.2** — Undesired suitor hiding under girl's bed is killed.
+- **Q411.2.1** — Undesired suitor killed asleep in his tent.
+- **Q411.3** — Death of father (son, etc.) as punishment.
+- **Q411.4** — Death as punishment for treachery.
+- **Q411.4.1** — Man killed at once for treacherously slaying overlord.
+- **Q411.4.2** — Woman who disrobes to attract attention of hostile fighter killed.
+- **Q411.5** — Hero kills mutilators of girl.
+- **Q411.6** — Death as punishment for murder.
+- **Q411.7** — Death as punishment for ravisher.
+- **Q411.8** — A man in every house in the land killed as punishment for abduction by their king.
+- **Q411.9** — Death as punishment for reproach concerning physical deformity (blemish).
+- **Q411.10** — Death as punishment for impudence.
+- **Q411.10.1** — Man killed because of scornful singing.
+- **Q411.11** — Death as punishment for desecration of holy places (images, etc.).
+- **Q411.11.1** — Desecrating a sanctuary (saint's house) by murder punished.
+- **Q411.11.2** — Hanging as punishment for stealing from a church.
+- **Q411.12** — Maidens slain in revenge for deaths of young men.
+- **Q411.13** — Death as punishment for thievery.
+- **Q411.13.1** — Charge of theft avenged by assault.
+- **Q411.14** — Death as punishment for spying on uncanny persons.
+- **Q411.15** — Death as punishment for dropping on emperor's coat.
+- **Q412** — Punishment: millstone dropped on guilty person.
+- **Q413** — Punishment: hanging.
+- **Q413.0.1** — Threat of hanging.
+- **Q413.1** — Hanging as punishment for theft.
+- **Q413.2** — Hanging as punishment for adultery.
+- **Q413.3** — Hanging as punishment for imposture.
+- **Q413.4** — Hanging as punishment for murder.
+- **Q413.5** — Hanging as punishment for impudence.
+- **Q413.5.1** — Impudent suitor or his messenger hanged or threatened with hanging.
+- **Q413.6** — Hanging as punishment for denying pagan gods.
+- **Q413.7** — Hanging as punishment for silence about hidden treasure.
+- **Q413.8** — Hanging as punishment for treachery.
+- **Q413.8.1** — Hanging by one foot as punishment for treachery.
+- **Q414** — Punishment: burning alive.
+- **Q414.0.1** — Burning as punishment for uxoricide.
+- **Q414.0.2** — Burning as punishment for adultery.
+- **Q414.0.3** — Burning as punishment for incest (incontinence).
+- **Q414.0.3.1** — Burning monastery and monks in it as punishment for incontinence.
+- **Q414.0.4** — Burning as punishment for ravisher.
+- **Q414.0.4.1** — Ravisher's grave and body miraculously burnt.
+- **Q414.0.4.2** — Burning as punishment for abductor.
+- **Q414.0.5** — Burning as punishment for traitor.
+- **Q414.0.5.1** — Burning for traitor: unwittingly suggested by culprit.
+- **Q414.0.6** — Burning as punishment for impostor.
+- **Q414.0.6.1** — Burning as punishment for counterfeiting.
+- **Q414.0.7** — Innocent queen burned at stake.
+- **Q414.0.8** — Demons burn heretics at stake.
+- **Q414.0.9** — Burning as punishment for betraying the confessional.
+- **Q414.0.10** — Burning for witchcraft.
+- **Q414.0.11** — Burning for sodomy.
+- **Q414.0.12** — Burning as punishment for murder.
+- **Q414.0.12.1** — Woman saved from being burned as punishment for killing impudent suitor.
+- **Q414.0.13** — Burning as punishment for fratricide.
+- **Q414.1** — Punishment: boiling in oil (lead, tar).
+- **Q414.1.1** — Boiling in tar as punishment for impostor.
+- **Q414.2** — Punishment: imprisonment in white-hot iron house.
+- **Q414.3** — Punishment: burning and scattering ashes.
+- **Q414.3.1** — Punishment: crushing in rice mill and scattering ashes.
+- **Q414.4** — Punishment: dancing to death in red-hot shoes.
+- **Q414.5** — Punishment: king hung between two fires.
+- **Q414.6** — Woman cast on husband's funeral pyre as punishment.
+- **Q415** — Punishment: being eaten by animals.
+- **Q415.0.1** — Punishment: being eaten by demon.
+- **Q415.1** — Punishment: being eaten by dogs.
+- **Q415.1.1** — Punishment: transformation to deer which is devoured by dogs.
+- **Q415.1.2** — Punishment: tying man to horses and setting vicious hounds after him.
+- **Q415.2** — Mice devour hard-hearted man.
+  *(Hatto and the Mouse Tower.)*
+- **Q415.3** — Punishment: man eaten by worms (snake).
+- **Q415.3.1** — Cobras placed in boxes and given to cruel parents, so that they are bitten.
+- **Q415.4** — Punishment: being fed to lions (wild beasts).
+- **Q415.5** — Punishment: being devoured by tiger.
+- **Q415.6** — Bears devour the wicked.
+- **Q415.7** — Wolves kill person for quenching holy fire.
+- **Q415.7.1** — Wolves and birds eat bodies of slayers of poet.
+- **Q415.8** — Heretic preaching against God's creation worried to death by fly.
+- **Q415.9** — Punishment: being eaten by fish.
+- **Q416** — Punishment: drawing asunder by horses.
+- **Q416.0.1** — Quartering by horses as punishment for breaking betrothal.
+- **Q416.0.2** — Quartering by horses as punishment for murder.
+- **Q416.0.2.1** — Quartering by horses as punishment for uxoricide.
+- **Q416.0.3** — Quartering by horses as punishment for impostor.
+- **Q416.1** — Punishment: trampling (kicking) to death by horses.
+- **Q416.1.1** — Adulteress kicked to death by mule as punishment.
+- **Q416.2** — Punishment: dragging to death by a horse.
+- **Q416.2.1** — Punishment: drawing at the tails of horses.
+- **Q416.2.2** — Punishment: dragging to death tied to horns of a bull.
+- **Q416.3** — Punishment: trampling by elephants.
+- **Q416.3.1** — Punishment: being gored to death by elephant.
+- **Q417** — Punishment: dropping and dashing to pieces.
+- **Q417.1** — Murderess forced to leap from cliff.
+- **Q417.2** — Traitor thrown into pit so that he sticks to the waist and is then chased out of the country.
+- **Q417.3** — Bridge to world of dead cut from under wicked person so that he falls into hell.
+- **Q418** — Punishment by poisoning.
+- **Q418.1** — Murder of faithless wife with poisoned salad.
+- **Q418.2** — Venomous snake put into the mouth as punishment for murder of newborn children.
+- **Q421** — Punishment: beheading.
+- **Q421.0.1** — Beheading as punishment for debt.
+- **Q421.0.2** — Beheading as punishment for adultery.
+- **Q421.0.3** — Beheading as punishment for rape.
+- **Q421.0.4** — Beheading as punishment for murder.
+- **Q421.0.5** — Beheading as punishment for mutilation.
+- **Q421.0.6** — Beheading as punishment for incest.
+- **Q421.0.7** — Beheading as punishment for seduction.
+- **Q421.0.8** — Beheading for persecution of wife.
+- **Q421.1** — Heads on stakes.
+  *Punishment by beheading and placing the heads on stakes.*
+- **Q421.1.1** — Head cut off and hung on tree outside village.
+- **Q421.2** — Man beheaded in place where he turned his back on saint.
+- **Q421.3** — Punishment: cutting throat.
+- **Q422** — Punishment: stoning to death.
+- **Q422.0.1** — Punishment: beating to death.
+- **Q423** — Punishment: breaking upon a wheel.
+- **Q424** — Punishment: strangling.
+- **Q424.0.1** — Strangling as punishment for murder.
+- **Q424.1** — King strangles falcon when it kills eagle.
+- **Q424.2** — Strangling as punishment for adultery.
+- **Q424.3** — Man strangles friar for attempting to seduce his wife.
+- **Q425** — Punishment: suffocating.
+- **Q426** — Wolf cut open and filled with stones as punishment.
+- **Q426.1** — Punishment for murder by fatal enema.
+- **Q427** — Punishment: opening own veins and bleeding to death.
+- **Q428** — Punishment: drowning.
+- **Q428.1** — Drowning as punishment for adultery.
+- **Q428.2** — Magic swine cause robbers to be drowned.
+- **Q428.3** — Drowning as punishment for disturbing holy person.
+- **Q429** — Capital punishment miscellaneous.
+- **Q429.1** — Punishment: culprit eaten by cannibals.
+- **Q429.2** — Death at hands of foreign invaders as punishment.
+- **Q429.3** — Cutting into pieces as punishment.
+- **Q429.4** — Punishment: squeezing to death.
+- **Q430** — Abridgment of freedom as punishment.
+- **Q430.1** — Imposition of tabu as punishment.
+- **Q431** — Punishment: banishment (exile).
+- **Q431.0.1** — Saint prefers to die in exile.
+- **Q431.1** — Voluntary exile as punishment for murder.
+- **Q431.2** — Banishment for treachery.
+- **Q431.2.1** — Elder brothers banished for treachery.
+- **Q431.2.2** — Treachery punished by banishment to desert isle.
+- **Q431.2.3** — King's foster brothers banished for lawlessness.
+- **Q431.3** — Banishment because of disobedience.
+  *Maiden wants to become nun and not marry.*
+- **Q431.4** — Banishment till rose grows from table for preventing childbirth.
+- **Q431.5** — Banishment for seduction.
+- **Q431.5.1** — Banishment for attempted seduction.
+- **Q431.5.2** — Banishment for abduction of bride (girl).
+- **Q431.5.3** — Princes banished as punishment for lewd conduct with female subjects.
+- **Q431.6** — Banishment for rape.
+- **Q431.7** — Banishment for imposture.
+- **Q431.8** — Banishment as punishment for adultery.
+- **Q431.8.1** — Banishment as punishment for incest.
+- **Q431.9** — Banishment for murder.
+- **Q431.9.1** — Banishment for attempted murder.
+- **Q431.9.2** — Exile as punishment for parricide.
+- **Q431.10** — Banishment for assault on king's tax collectors.
+- **Q431.11** — Banishment as punishment for breach of faith with animals.
+- **Q431.12** — Banishment as punishment for fault-finding.
+- **Q431.13** — Banishment for desecration of holy places.
+- **Q431.14** — Berserks banished because of defeat.
+- **Q431.15** — Banishment as punishment for robbery.
+- **Q431.16** — Boy banished for breaking women's water pots.
+- **Q431.17** — Banishment for lying.
+- **Q431.18** — Banishment for association with those of another faith.
+- **Q431.19** — Banishment for laziness.
+- **Q432** — Punishment: ejectment.
+- **Q432.1** — Buzzard hatched by hawk ejected for fouling nest.
+- **Q432.2** — Adulteress ejected into street clad only in her shirt.
+- **Q433** — Punishment: imprisonment.
+- **Q433.1** — Imprisonment for adultery.
+- **Q433.1.1** — Adulteress confined in a cage.
+- **Q433.2** — Defeated giants imprisoned in lower world.
+- **Q433.3** — Zeus has embassy of dogs imprisoned for fouling his court.
+- **Q433.4** — Imprisonment for imposture.
+- **Q433.5** — Imprisonment for attempted seduction.
+- **Q433.6** — Priest imprisoned for incontinence.
+- **Q433.7** — Imprisonment for treachery.
+- **Q433.8** — Imprisonment for gambling.
+- **Q433.9** — Wicked son confined on island.
+- **Q433.10** — Earl hunting in the king's forest imprisoned.
+- **Q433.11** — Undesired suitor's messengers imprisoned.
+- **Q433.12** — Punishment: abridgment of freedom till extravagant boast is confirmed.
+- **Q433.13** — War prisoners shut up between stones.
+- **Q434** — Punishment: fettering.
+- **Q434.1** — Adulteress and paramour fettered.
+- **Q434.2** — War prisoners fettered.
+- **Q434.3** — Fettering to oak.
+- **Q435** — Magic imprisonment in cleft tree.
+- **Q436** — Excommunication from religious association as punishment.
+- **Q437** — Sale into slavery as punishment.
+- **Q437.1** — Criminal's wife and children sold into slavery.
+- **Q438** — Punishment: abandonment in forest.
+- **Q450** — Cruel punishments.
+- **Q450.1** — Torture as punishment.
+- **Q450.1.1** — Torture as punishment for murder.
+- **Q451** — Mutilation as punishment.
+- **Q451.0.1** — Hands and feet cut off as punishment.
+- **Q451.0.2** — Threat to cut off hand or foot.
+- **Q451.0.3** — Strong girl breaks impudent suitor's right hand and left foot.
+- **Q451.0.4** — Hands and feet cut off as punishment for robbery.
+- **Q451.1** — Hands cut off as punishment.
+- **Q451.1.1** — Hand cut off as punishment for theft.
+- **Q451.1.2** — Hand cut off for contempt of court.
+- **Q451.1.3** — Hand cut off for treachery.
+- **Q451.1.4** — Hand cut off (falls off) as punishment for murder.
+- **Q451.1.4.1** — Hand cut off as punishment for fornication.
+- **Q451.1.5** — Arms cut off as punishment for adultery.
+- **Q451.1.6** — Right hands cut off enemy's messengers.
+- **Q451.1.7** — Arms cut off as punishment for slandering.
+- **Q451.2** — Laming as punishment.
+- **Q451.2.0.1** — Limbs cut off (drop off) as punishment.
+- **Q451.2.0.2** — Boring hole through heel as punishment.
+- **Q451.2.0.3** — Hamstringing as punishment.
+- **Q451.2.1** — Youth lamed by man whose daughter he refuses to marry.
+- **Q451.2.2** — Feet cut off as punishment for theft.
+- **Q451.2.3** — Foot cut off as punishment for murder.
+- **Q451.2.4** — Legs cut off as punishment for adultery.
+- **Q451.3** — Loss of speech as punishment.
+- **Q451.3.1** — Dumbness as punishment for hiding children.
+- **Q451.3.2** — Dumbness as punishment for lying.
+- **Q451.3.3** — Dumbness as punishment for opposition to holy person.
+- **Q451.3.3.1** — Son stricken dumb as punishment for father's opposition to holy person.
+- **Q451.3.4** — Dumbness as punishment for blasphemy.
+- **Q451.4** — Tongue cut off as punishment.
+- **Q451.4.1** — Tongue cut off as punishment for theft.
+- **Q451.4.2** — Tongue cut out as punishment for gossip.
+- **Q451.4.3** — Tongue cut off as punishment for incest.
+- **Q451.4.4** — Tongue cut off as punishment for treachery.
+- **Q451.4.5** — Tongue cut out as punishment for murder.
+- **Q451.4.6** — Tongue cut out as punishment for fault-finding (satire).
+- **Q451.4.7** — Man pulls out his own tongue in remorse.
+- **Q451.4.8** — Tongue cut off as punishment for alleged adultery.
+- **Q451.4.8.1** — Tongue cut (bitten) off as punishment for unfaithfulness to wife.
+- **Q451.4.9** — Hanging by tongue as punishment.
+- **Q451.4.10** — Punishment: stretching tongue to enormous length.
+- **Q451.5** — Nose cut off as punishment.
+- **Q451.5.1** — Nose cut off as punishment for adultery.
+- **Q451.5.1.1** — Mistress's nose cut off as punishment for faithlessness.
+- **Q451.5.2** — Nose cut off as punishment for theft.
+- **Q451.5.3** — Nose of falsely accusing bishop bitten off.
+- **Q451.5.4** — Nose cut off as punishment for treachery.
+- **Q451.6** — Ears cut off as punishment.
+- **Q451.6.0.1** — Girl (fairy) bites off ear of ravisher.
+- **Q451.6.1** — Ears cut off as punishment for adultery.
+- **Q451.6.2** — Ear cut off as punishment for theft.
+- **Q451.7** — Blinding as punishment.
+- **Q451.7.0.1** — Loss of one eye as punishment.
+- **Q451.7.0.2** — Miraculous blindness as punishment.
+- **Q451.7.0.2.1** — Miraculous blindness as punishment for opposition to holy person.
+- **Q451.7.0.2.2** — Miraculous blindness as punishment for theft.
+- **Q451.7.0.2.3** — Miraculous blindness as punishment for disobedience.
+- **Q451.7.0.2.4** — Miraculous blindness as punishment for criminal intent.
+- **Q451.7.0.2.5** — Miraculous blindness as punishment for spying (on druids, fairies, witches, etc.).
+- **Q451.7.1** — Blinding as punishment for perjury.
+- **Q451.7.2** — Blinding as punishment for ravisher.
+- **Q451.7.2.1** — Blinding (of father) as punishment for ravisher.
+- **Q451.7.2.2** — Blinding as punishment for attempt to violate girl (queen).
+- **Q451.7.3** — Blinding as punishment for incest.
+- **Q451.7.4** — Blinding as punishment for murder.
+- **Q451.7.5** — Wicked son blinded.
+- **Q451.8** — Punishment: thong of leather cut from back.
+- **Q451.9** — Punishment: woman's breasts cut off.
+- **Q451.9.1** — Punishment: woman suspended by her breasts.
+- **Q451.10** — Punishment: genitalia cut off.
+- **Q451.10.1** — Punishment: castration.
+- **Q451.11** — Piecemeal mutilation as punishment.
+- **Q451.11.1** — Deception punished by piecemeal mutilation.
+- **Q451.12** — Lips sewed together as punishment for slander.
+- **Q451.13** — Punishment: head split into many pieces.
+- **Q451.14** — Adulteress's pregnant belly pierced with pounder.
+- **Q452** — Punishment: snake sucks woman's breasts.
+- **Q453** — Punishment: being bitten by animal.
+- **Q453.1** — Punishment: being bitten by ants.
+- **Q453.2** — Punishment: being bitten by scorpion.
+- **Q455** — Walling up as a punishment.
+- **Q455.1** — Walling up as punishment for murder of children.
+- **Q455.2** — Walling up as punishment for adultery.
+- **Q455.2.1** — Adulteress walled up with corpse of paramour.
+- **Q455.2.1.1** — Adulteress confined in room containing the corpse of her paramour.
+  *She becomes ill and dies.*
+- **Q456** — Burial alive as punishment.
+- **Q456.0.1** — Burial alive as punishment for adultery.
+- **Q456.0.2** — Burial alive as punishment for swindling.
+- **Q456.0.3** — Burial alive as punishment for disobedience to king.
+- **Q456.1** — Punishment: burial alive up to the breast (neck).
+- **Q456.1.1** — Cast-forth wife buried up to the waist for seven years and despitefully used.
+- **Q456.2** — Burial alive for uncharitableness.
+- **Q457** — Flaying alive as punishment.
+- **Q457.1** — Flaying alive as punishment for contesting with a god.
+- **Q457.2** — Devil flays impious person.
+- **Q457.3** — Flaying alive as punishment for adultery.
+- **Q457.4** — Flaying alive as punishment for opposition to holy person.
+- **Q458** — Flogging as punishment.
+- **Q458.0.1** — Flogging as punishment for adultery.
+- **Q458.0.2** — Flogging as punishment for disobedience to rulers.
+- **Q458.0.3** — Flogging as punishment for theft.
+- **Q458.0.4** — Flogging as punishment for imposture.
+- **Q458.0.5** — Flogging as punishment for reviling church.
+- **Q458.0.6** — Flogging as punishment for desire to commit adultery.
+- **Q458.1** — Daily beatings as punishment.
+- **Q458.2** — Flogging to death as punishment.
+- **Q458.2.1** — Brother flogs unchaste sister to death.
+- **Q458.2.2** — Flogging to death as punishment for theft.
+- **Q458.2.3** — Flogging to death as punishment for seduction.
+- **Q461** — Impalement as punishment.
+- **Q461.1** — Impalement as punishment for faithlessness.
+  *Enemy chief has the faithless widow of his victim impaled.*
+- **Q461.2** — Bodies from which limbs have been cut hung on stakes as punishment.
+- **Q461.3** — Impaling as punishment for adultery.
+- **Q462** — Crucifixion as punishment.
+- **Q462.1** — Punishment: nailing to pillar.
+- **Q462.2** — Punishment by hanging up by the feet.
+- **Q463** — Spiked-cask punishment.
+  *Rolling down hill in a cask with spikes on inside.*
+- **Q464** — Covering with honey and exposing to flies.
+- **Q465** — Throwing into a pit as punishment.
+- **Q465.1** — Throwing into pit of snakes as punishment.
+- **Q465.2** — Prisoners put into pit filled with corpses in order to starve.
+- **Q465.3** — Punishment: pushing into well.
+- **Q465.4** — Punishment: throwing into water-filled lime pit.
+- **Q466** — Embarkation in leaky vessel as punishment.
+- **Q466.0.1** — Embarkation in rudderless boat as punishment.
+- **Q466.0.2** — Punishment: setting adrift in boat.
+- **Q466.1** — Husband substitutes leaky vessel so that his wife and paramour are drowned.
+- **Q466.2** — Punishment: abandonment on cliff that is submerged at high tide.
+- **Q467** — Punishment by drowning.
+- **Q467.1** — Casting into water in sack (barrel) as punishment.
+- **Q467.2** — Thief cast into water in a sack containing a cock, a snake, and a monkey.
+  *He had stolen a sacred statue of gold.*
+- **Q467.3** — Punishment: drowning in swamp.
+- **Q467.3.1** — Punishment: sea-spell chanted by druidess causes rival to drown.
+- **Q467.4** — Man thrown into waterfall as punishment for alleged violating of princess.
+- **Q467.5** — Marooning as punishment.
+- **Q469** — Other cruel punishments.
+- **Q469.1** — Adulteress caused to fall down stairs from which steps have been removed.
+- **Q469.2** — Punishment: climbing red-hot rod.
+- **Q469.3** — Punishment: grinding up in a mill.
+- **Q469.4** — Punishment: millstone hung around neck.
+  *Woman has had desire to kill frog.*
+- **Q469.5** — Punishment: choking with smoke.
+  *This given a lawyer who has "sold smoke", i.e., idle words.*
+- **Q469.6** — Heart and liver of murderer torn out.
+- **Q469.6.0.1** — Heart of murderer cut out.
+- **Q469.6.1** — Heart and liver of son to be torn out.
+- **Q469.7** — Punishment: twisting entrails from body.
+- **Q469.7.1** — Man fettered with the entrails of his own sons as punishment for treachery.
+- **Q469.8** — Punishment: sawing in twain.
+- **Q469.9** — Punishment: boring hot irons through ears.
+- **Q469.9.1** — Punishment: tearing off flesh with hot pincers.
+- **Q469.9.2** — Punishment: piercing with needles.
+- **Q469.10** — Scalding as punishment.
+- **Q469.10.1** — Scalding as punishment for attempted seduction.
+- **Q469.10.2** — Scalding as punishment for theft.
+- **Q469.10.3** — Scalding as punishment for insult.
+- **Q469.11** — Baby son hurled into battle as punishment for desertion of fairy mistress.
+- **Q469.12** — Murderer torn limb from limb.
+- **Q469.13** — Hands in cleft log as punishment.
+- **Q470** — Humiliating punishments.
+- **Q471** — Spitting in face as punishment.
+- **Q471.1** — Persecuted queen meanly clothed and set where all are commanded to spit on her.
+- **Q471.2** — Beggar avenges self on queen who spits at him by disguising as prince and spitting in her face.
+- **Q472** — Branding as punishment.
+- **Q473** — Punishment: disgraceful journey through streets.
+- **Q473.0.1** — Insolvent debtor drawn through streets.
+- **Q473.0.2** — Corpse of adulteress drawn through streets.
+- **Q473.1** — Punishment: riding through street on bull.
+- **Q473.1.1** — Adulteress ridden through street on bull.
+- **Q473.2** — Punishment: tying to horse's tail.
+- **Q473.2.1** — Wife's paramour tied to horse's tail and conducted through streets.
+- **Q473.3** — Seducer, who had disguised as woman, is led naked through streets.
+- **Q473.4** — Importunate lover put asleep in street.
+- **Q473.5** — Punishment: sending out of town on donkeys.
+- **Q473.5.1** — Punishment: shaving head and covering with tar and driving forth on back of donkey to sound of drum.
+  *Stranger thinks he is being honored.*
+- **Q473.5.2** — Riding backwards on donkey as punishment.
+- **Q473.6** — Punishment: princess to display self on roof.
+- **Q474** — "Cucking-stool" as punishment.
+- **Q475** — Tar and feathers as punishment.
+- **Q475.1** — Tar and feathers as punishment for vanity.
+- **Q475.2** — Shower of pitch as punishment.
+- **Q476** — Exposing mistress's person (excepting face) to her husband (paramour's friends).
+- **Q478** — Frightful meal as punishment.
+- **Q478.1** — The Eaten Heart.
+  *Adulteress is caused unwittingly to eat her lover's heart.*
+- **Q478.1.1** — Man sends his daughter the heart of her lover.
+  *She pours poison over it and drinks the potion.*
+- **Q478.1.2** — Adulteress made to drink from paramour's skull.
+- **Q478.1.2.1** — Adulteress forced to eat out of lover's skull.
+- **Q478.1.3** — Adulteress punished by having skeleton of her former paramour hang in her room.
+- **Q478.1.4** — Adulteress forced to have lover's head before her at meals.
+- **Q478.2** — Adulteress compelled to eat with dog.
+- **Q478.3** — Adulteress compelled to eat a dog's leavings.
+- **Q478.4** — Punishment: using fat rendered from daughter's mutilated corpse to cook with and to light candles.
+- **Q478.5** — Punishment: eating ashes instead of food.
+- **Q478.5.1** — Punishment: eating ashes (coal) mixed with food.
+- **Q481** — Princess (queen) compelled to keep an inn.
+- **Q482** — Punishment: noble person must do menial service.
+- **Q482.1** — Princess serves as menial.
+- **Q482.1.1** — Second wife (slave) must serve as menial.
+- **Q482.2** — Queen placed in kitchen and abused by butcher.
+- **Q482.2.1** — Queen forced to do menial service rescued by son.
+- **Q482.2.2** — Queen ordered to go and live in woodcutter's house as servant.
+- **Q482.3** — Nobleman after death must serve as menial.
+- **Q482.4** — Cast-forth wife must sit at horse-block of palace and tell story to each newcomer and offer to carry him inside.
+- **Q482.5** — Queen made to scare crows away in fields.
+- **Q482.6** — Punishment: man must do women's work.
+- **Q483** — Princess must sell goods on market as punishment.
+- **Q483.1** — Condemned queen exposed in leather on market place.
+- **Q484** — Husband fondles second wife in presence of first as punishment for adultery.
+- **Q485** — Noble person must live in hovel.
+- **Q485.1** — Princess married to lowly hero must live in slave quarters.
+- **Q486** — Criminal's property destroyed as punishment.
+- **Q486.1** — Criminal's house burned down.
+- **Q486.1.1** — Sinful city burnt as punishment.
+- **Q487** — Adulteress forced to wear symbolic dress.
+  *Husband makes her dress in coarse cloth except for her undefiled parts which are covered with gold brocade.*
+- **Q488** — Cutting hair as punishment.
+- **Q488.1** — Lying goat punished by being half-shorn.
+- **Q488.2** — Head shaved as punishment.
+- **Q491** — Indignity to corpse as punishment.
+- **Q491.1** — Disgraceful burial as punishment.
+- **Q491.1.1** — Swindler buried on dungheap.
+- **Q491.1.2** — Burial in deserted barn as punishment for desecration of holy places.
+- **Q491.2** — Debtor's corpse flogged.
+- **Q491.3** — Devil beats wicked man's corpse.
+- **Q491.4** — Toads and snakes devour corpse of rich man in his grave.
+- **Q491.5** — Skull used as drinking cup.
+- **Q491.6** — Corpse of murderer mutilated.
+- **Q491.6.1** — Murderer's corpse cut into pieces.
+- **Q491.7** — Punishment: throwing dead body into river.
+- **Q492** — Woman must relight magic fires as punishment.
+  *Magician in revenge for ill-treatment causes the lights of the city to go out. They can be relighted only from the naked body of the woman in the public square. None can be relighted until all have applied their torches.*
+- **Q493** — Punishment: being saddled and ridden as horse.
+- **Q493.1** — Adulteress transformed to mare and stirruped.
+- **Q494** — Loss of social position as punishment.
+- **Q494.1** — Line of kingship taken from king who defies saint.
+- **Q494.1.1** — Uncharitable king loses power.
+- **Q494.2** — Removal from priesthood as punishment.
+- **Q495** — Punishment: unseemly exposure of body.
+- **Q495.1** — Lazy wife taken naked in bundle of straw to a wedding.
+- **Q497** — Beard shaved as punishment for murder.
+- **Q497.1** — Moustache pulled out as punishment.
+- **Q499** — Other humiliating punishments.
+- **Q499.1** — Humiliating kiss as punishment.
+- **Q499.1.1** — Humiliation through kissing a leper as punishment.
+- **Q499.2** — Humiliating death as punishment.
+- **Q499.2.1** — Humiliating death as punishment for adultery.
+- **Q499.2.2** — Humiliating death as punishment for taking concubine.
+- **Q499.3** — Sacrament refused as punishment for desecration of holy place.
+- **Q499.4** — Satirizing as punishment for refusal to grant request.
+- **Q499.4.1** — Satirizing as punishment for breaking treaty.
+- **Q499.5** — Debtor clerics forbidden churchly offices.
+- **Q499.6** — Penance for three years and a half for eating horseflesh.
+- **Q499.7** — Humiliating marriage as punishment.
+- **Q499.8** — Humiliating penance: king to rub nose five times on red hot griddle.
+
+## Tedious punishments
+
+- **Q500** — Tedious punishments.
+- **Q501** — Unremitting torture as punishment.
+- **Q501.1** — Punishment of Sisyphus.
+  *Must keep rolling a great stone up hill. It continually falls down.*
+- **Q501.2** — Punishment of Tantalus.
+  *Stands in a pool that ever recedes from his thirsty lips; branches of fruit spring away from him; stone over his head continually threatens to fall.*
+- **Q501.2.1** — When hungry man tries to gather fruit it flies out of his reach.
+- **Q501.2.2** — Punishment: delicious food always fills with maggots just as man is about to eat it.
+- **Q501.3** — Punishment of Loki.
+  *A serpent above him continually drops venom in his face.*
+- **Q501.4** — Punishment of Prometheus.
+  *Chained to a mountain with eagle preying on his vitals, which are restored nightly. (Punishment for theft of fire.)*
+- **Q501.5** — Punishment of Ixion.
+  *Lashed to a wheel which revolves continually.*
+- **Q501.6** — Punishment of Io.
+  *Transformed to cow with gadfly ceaselessly pursuing.*
+- **Q501.7** — Unremittent thirst as punishment.
+- **Q501.7.1** — Salt food without drink as punishment for man who accepts Christianity.
+- **Q501.8** — Ceaseless humming (singing) as punishment for immoderate request.
+- **Q501.9** — Spirit in hell must bathe people endlessly.
+- **Q502** — Wandering as a punishment.
+- **Q502.1** — The Wandering Jew.
+  *Ceaseless wandering with inability to die as punishment for blasphemy.*
+- **Q502.2** — Punishment: wandering till iron shoes are worn out.
+- **Q502.3** — Tribe's long wandering in wilderness as punishment.
+- **Q503** — Wandering after death as punishment.
+- **Q503.1** — Skull of suicide must roll in dust until it has saved a life.
+  *Man uses the skull to kill an owl that was about to kill a rabbit; thus after 777 years of rolling it has saved a life and is freed.*
+- **Q511** — Punishment: carrying corpse of murdered man.
+- **Q511.1** — Punishment: carrying corpse of murdered man until stone as long as murdered man is found.
+  *This is to be put on the grave.*
+- **Q511.2** — Punishment: carrying corpse of murdered man until another can be induced to take it.
+- **Q512** — Punishment: performing impossible task.
+- **Q512.0.1** — Performing impossible task as punishment for murder.
+- **Q512.1** — Punishment: filling leaky vessels with water from a bottomless jar.
+- **Q512.2** — Punishment: binding together sand and string.
+- **Q512.3** — Punishment: ridding country of pests.
+- **Q520** — Penances.
+- **Q520.0.1** — Substitutions for penances.
+- **Q520.1** — Murderer does penance.
+- **Q520.2** — Robber does penance.
+- **Q520.3** — Life-long penance for brother-sister marriage.
+- **Q520.4** — King who loved to give death sentence accepts penance of always postponing sentence until thirty days period of examination has passed.
+- **Q520.5** — Penance in wilderness as punishment for men who left holy orders to marry.
+- **Q520.6** — Warrior retires to a cloister which he later defends against robbers.
+- **Q521** — Tedious penances.
+- **Q521.1** — Doing penance till green leaves grow on a dry branch.
+- **Q521.1.1** — Penance: crawling on knees and watering a dry staff until it blooms.
+- **Q521.1.2** — Penance: carrying water in mouth from a distance and watering dry staff until it blooms.
+- **Q521.2** — Penance: carrying bag of stones (one for each murder) on the back until it falls off.
+- **Q521.3** — Penance: carrying iron hoop on head until it falls off.
+- **Q521.4** — Penance: pasturing black sheep until they become white.
+- **Q521.5** — Penance: ferryman setting people over a stream until relieved by another.
+- **Q521.6** — Penance: holding midnight mass until someone will make responses.
+- **Q521.7** — Penance to be done until seven spires of Benares are reduced to powder and rebuilt.
+- **Q522** — Self-torture as penance.
+- **Q522.1** — Self-crucifixion as penance.
+- **Q522.2** — Penance: killing oneself with wooden knife.
+- **Q522.3** — Penance: creeping naked through thorns.
+- **Q522.4** — Penance: pilgrimage with hands and loins weighted with iron.
+- **Q522.5** — Penance: iron band forged round a man's waist.
+- **Q522.6** — Penance: hanging for a thousand years head downward over a fire of chaff.
+- **Q522.7** — Penance: wearing friar's cord about bare skin.
+- **Q522.8** — Penance: man wears huge serpent coiled around him in lieu of clothing.
+- **Q523** — Humiliating penances.
+- **Q523.1** — Penance: crawling to Rome on knees.
+- **Q523.1.1** — Penance: crawling to grave on knees.
+- **Q523.2** — Penance: walking on all-fours like beast.
+- **Q523.3** — Penance: eating food offered to dogs.
+- **Q523.4** — Penance: living under stairs as mendicant.
+- **Q523.5** — Penance: planting garden and offering free hospitality to all.
+- **Q523.6** — Penance: slain cats, dogs, etc. to be hung up and covered with grain by man who has killed them.
+- **Q523.7** — Penance: seven years' service for seven days' neglect of religious duty.
+- **Q523.8** — Penance: performing all services asked for by anyone.
+- **Q523.9** — Penance: king to take off crown and lick spittle from ground.
+- **Q523.10** — Penance: fasting in sackcloth and ashes.
+- **Q524** — Fearful penances.
+- **Q524.1** — Penance: spending lonely night in cave.
+- **Q524.2** — Penance: lying the first night with every corpse brought to certain church.
+- **Q525** — Dangerous penances.
+- **Q525.1** — Penance: staying on rock in dashing sea.
+- **Q526** — Pilgrimage as penance.
+- **Q527** — Penance: inviting one Brahmin for dinner every Wednesday.
+- **Q535** — Negative penances.
+- **Q535.1** — Penance: not to speak.
+- **Q535.2** — Penance: lioness foregoes meat.
+  *Her two cubs are killed. The jackal tells her that he has had the same experience. She gives up eating meat and lives on grass.*
+- **Q535.3** — Refraining from sexual intercourse as penance.
+- **Q535.4** — Lone fasting as penance.
+- **Q537** — Penance: resisting temptation.
+- **Q537.1** — Penance: adulteress masks as monk and lives chastely in monastery.
+- **Q537.2** — Cleric tempts self among beautiful women, lives chastely.
+- **Q541** — Sitting (standing) in uncomfortable position as penance.
+- **Q541.1** — Penance: sitting in water.
+- **Q541.1.1** — Standing in (Jordan and Tigris) rivers as penance (by Adam and Eve).
+- **Q541.2** — Penance: standing in water for forty days.
+- **Q541.3** — Penance: Gregory on the stone.
+  *Standing on a stone (pillar) as penance for incest.*
+- **Q541.4** — Penance: keeping self suspended on two iron hooks placed under armpits.
+- **Q541.5** — Penance: staying for ten months rooted to one spot, with eyes closed, while birds build nests in one's hair.
+- **Q542** — Penance: giving all earnings to poor.
+- **Q544** — Penance: being locked in cellar (well) with key thrown into water.
+- **Q545** — Murderer's penance complete when he kills a greater murderer and prevents a crime.
+- **Q550** — Miraculous punishments.
+- **Q550.1** — Supernatural manifestations at death of wicked person.
+- **Q551** — Magic manifestations as punishments.
+- **Q551.1** — Undutiful son punished by toad clinging to face.
+- **Q551.1.1** — Betel-nut grows upon a person's knee as a punishment.
+- **Q551.2** — Punishment: animal skin grows on man's back.
+  *He had masked in the skin in order to cheat.*
+- **Q551.2.1** — Magic adhesion to object as punishment (for opposition to holy person).
+- **Q551.2.2** — Miraculous adhesion of objects to human hand as punishment for working on holy day.
+- **Q551.2.3** — Thief rendered unable to remove burden of stolen goods from his back.
+- **Q551.2.4** — Corpse of murdered man sticks to murderer's back.
+- **Q551.2.5** — Instrument or tool for unlawful work becomes attached to person holding it.
+- **Q551.2.6** — Sacrilege and blasphemy punished by magic adhesion.
+- **Q551.2.7** — Priest's concubine is unable to rise from stone.
+  *She is finally freed by prayers and repentance.*
+- **Q551.2.8** — Punishment for stinginess: bundle of fuel (pitcher of lime) sticks to man's head.
+- **Q551.2.8.1** — Punishment for cupidity: rich man's foot caught in church door:  extricated only when he sends money to beggar.
+- **Q551.3** — Punishment: transformation.
+- **Q551.3.1** — Punishment: transformation of lovers into lion and lioness for desecrating temple.
+  *They have had sexual relations in the temple. It was believed that lions do not mate with each other; hence their sin could not be repeated.*
+- **Q551.3.2** — Punishment: transformation into animal.
+- **Q551.3.2.1** — Punishment: Loki's son transformed into wolf which tears his brother to pieces.
+- **Q551.3.2.2** — Punishment: woman transformed into bird.
+- **Q551.3.2.3** — Punishment: transformation into frog.
+- **Q551.3.2.4** — Punishment: transformation into monkey.
+- **Q551.3.2.5** — Punishment: man transformed to a mass of worms.
+- **Q551.3.2.6** — Punishment: transformation to ass.
+- **Q551.3.2.7** — Punishment: transformation to dog.
+- **Q551.3.2.8** — Punishment: transformation to calf.
+- **Q551.3.3** — Punishment: calf's head in murderer's hand turns to corpse's head.
+- **Q551.3.3.1** — Punishment: melon in murderer's hand turns to murdered man's head.
+- **Q551.3.4** — Transformation to stone as punishment.
+- **Q551.3.4.1** — Scoffers turned to stone by saint.
+- **Q551.3.4.2** — Man curses wind; he is turned to stone, along with sack from which he is sowing.
+- **Q551.3.4.3** — Nun breaks her vow.
+  *She is turned to stone.*
+- **Q551.3.5** — Punishment: transformation into other object.
+- **Q551.3.5.1** — Punishment: transformation into falling star.
+- **Q551.3.5.2** — Punishment: transformation into tree.
+- **Q551.4** — Punishment: animals become sick.
+- **Q551.4.1** — Punishment: horses become sick.
+- **Q551.5** — Reincarnation as punishment.
+- **Q551.5.1** — Reincarnation into degraded form as punishment.
+- **Q551.5.1.1** — Punishment: man reborn as girl.
+- **Q551.5.1.2** — Punishment: king and queen reborn as children of scavenger.
+- **Q551.5.1.3** — Dying priest looks greedily on ripe plum: is reincarnated as insect feeding within plum.
+- **Q551.6** — Magic sickness as punishment.
+- **Q551.6.0.1** — Punishment: men stricken with leprosy.
+- **Q551.6.0.2** — Punishment: death from unknown disease before end of three days for having obtained food by force from monastery.
+- **Q551.6.1** — Magic sickness as punishment for lying (perjury).
+- **Q551.6.2** — Magic sickness as punishment for opposition to holy person.
+- **Q551.6.2.1** — Magic sickness as punishment for tanning shoes with bark from saint's tree.
+- **Q551.6.3** — Magic sickness as punishment for ingratitude.
+- **Q551.6.4** — Magic sickness as punishment for theft.
+- **Q551.6.5** — Magic sickness as punishment for desecration of holy places (images, etc.).
+- **Q551.6.5.1** — Magic manifestation: blood flows suddenly from mouth of blasphemer.
+- **Q551.6.5.2** — Magic manifestation: eyes fall out of head of blasphemer.
+- **Q551.6.6** — Emaciation caused by envy.
+- **Q551.6.7** — Magic sickness (death) as punishment for inhospitality.
+- **Q551.7** — Magic paralysis as punishment.
+- **Q551.7.1** — Magic paralysis as punishment for opposition to holy person.
+- **Q551.7.1.1** — Heretic suddenly becomes tongue-tied.
+- **Q551.7.2** — Magic paralysis as punishment for theft.
+- **Q551.7.3** — Magic paralysis as punishment for quarrelsomeness.
+- **Q551.8** — Deformity as punishment.
+- **Q551.8.1** — Deformity as punishment for false judging.
+- **Q551.8.2** — Deformity as punishment for desecration of holy places (images, etc.).
+- **Q551.8.3** — Deformity (putridity) as punishment for murder.
+- **Q551.8.4** — Man's eye bursts forth when he urges saint to marry.
+- **Q551.8.5** — Head falls off when man lies to saint.
+- **Q551.8.6** — Magic punishment: tongue protrudes from mouth of sinner and blindness follows.
+- **Q551.8.7** — Punishment: face distorted.
+- **Q551.9** — Miraculous burning as punishment.
+- **Q551.9.1** — Miraculous burning as punishment for opposition to holy person.
+- **Q551.9.2** — Magic burning to death as punishment for perjury.
+- **Q551.10** — Person miraculously lifted into air and dashed to death as punishment for blasphemy.
+- **Q551.10.1** — Person miraculously lifted into air and dashed to death as punishment for scoffing at church teachings.
+- **Q551.11** — Magic forgetfulness as punishment.
+- **Q551.12** — Premature aging as punishment.
+- **Q552** — Prodigy as punishment.
+- **Q552.0.1** — Death from elements as punishment for unjust judgment (by poets).
+- **Q552.1** — Death by thunderbolt as punishment.
+- **Q552.1.0.1** — Destruction of property by thunderbolt as punishment.
+- **Q552.1.0.1.1** — Thunderbolt demolishes fortress as punishment for disobedience (to saint).
+- **Q552.1.0.2** — Thunder slays people for disregard of him.
+- **Q552.1.1** — Lightning strikes monk who despises humility.
+- **Q552.1.2** — Ravisher killed by thunderbolt.
+- **Q552.1.3** — Impostor killed by lightning.
+- **Q552.1.4** — Death by thunderbolt as punishment for opposition to holy person.
+- **Q552.1.5** — Death by thunderbolt as punishment for treachery.
+- **Q552.1.6** — Death by thunderbolt as punishment for injustice.
+- **Q552.1.7** — Woman who accused saint of raping her is struck by lightning.
+- **Q552.1.8** — Infidel defies God to strike him with lightning.
+  *God does.*
+- **Q552.1.8.1** — Cattle thief calls on God to strike him with lightning if he has ever stolen a cow or calf.
+  *Lightning strikes him.*
+- **Q552.2** — Sinking of earth as punishment.
+- **Q552.2.0.1** — Quaking of earth as punishment.
+- **Q552.2.0.1.1** — Earth quakes when saint is opposed.
+- **Q552.2.1** — Land sinks and lake appears as punishment.
+- **Q552.2.2** — Grave sinks so that grave-robbers cannot get out.
+- **Q552.2.3** — Earth swallowings as punishment.
+- **Q552.2.3.1** — Girl sinks into earth for dancing in church.
+- **Q552.2.3.1.1** — Earth swallows man who opposes saint (holy man).
+- **Q552.2.3.1.2** — Earth swallows man as punishment for sacrilege (blasphemy, heresy, etc.).
+- **Q552.2.3.1.3** — Man who angers saint sinks into earth to his knees.
+- **Q552.2.3.2** — Earth swallows object as punishment.
+- **Q552.2.3.2.1** — Earth swallows mill in which saint's grain was refused grinding.
+- **Q552.2.3.2.2** — Earth swallows heretical city.
+- **Q552.2.3.2.3** — Island sinks for man's offense to saint.
+- **Q552.2.3.3** — Saint causes parricide to sink into earth to his knees.
+- **Q552.2.3.4** — Earth swallows man intending treachery.
+- **Q552.3** — Failure of crops during reign of wicked king.
+- **Q552.3.0.1** — Failure of crops as punishment for uncharitableness.
+- **Q552.3.0.2** — Failure of crops as punishment for murder.
+- **Q552.3.0.3** — Failure of crops and milk as punishment for adultery.
+- **Q552.3.0.4** — Failure of crops for mistreating the dead.
+- **Q552.3.1** — Famine as punishment.
+- **Q552.3.1.1** — Sterility of land as punishment for parricide.
+- **Q552.3.2** — Famine as punishment for oppression by victors.
+- **Q552.3.3** — Drought as punishment.
+- **Q552.3.4** — Food magically disappears.
+- **Q552.3.5** — Punishment for greed: streams of sugar, molasses, and milk from anchorite's tomb dry up and petrify because of townspeople's greed.
+- **Q552.3.6** — Punishment: water famine.
+- **Q552.3.7** — Murrain upon cattle as punishment.
+- **Q552.4** — Ear of stolen animal protrudes from thief's mouth.
+- **Q552.4.1** — Stolen animal cries out from stomach of thief.
+- **Q552.5** — Monstrous births as punishment for girl's pride.
+- **Q552.5.1** — Man who cuts off tongue of swallow has dumb children.
+- **Q552.6** — Rich lord who robs poor widow of her cow chokes on first mouthful.
+- **Q552.7** — Mary-image descends and chastises clerk who scoffs at its rude carving.
+- **Q552.8** — Dead cock rises, crows, and spatters scoffers so that they become leprous.
+- **Q552.9** — Punishment: woman who has prevented birth of children casts no shadow.
+- **Q552.10** — Plague as punishment.
+- **Q552.10.1** — Recurrent plague during reign of wicked king.
+- **Q552.11** — Punishment: meeting frightful apparition.
+  *(Ghost, mysterious animal, devil.)*
+- **Q552.12** — Punishment: shipwreck.
+- **Q552.13** — Fire from heaven as punishment.
+- **Q552.13.0.1** — Punishment by arrows of fire from heaven.
+- **Q552.13.0.2** — Sword (of fire) from heaven drawn upon sinners.
+- **Q552.13.0.3** — Gods pour torrents of hot ashes on kingdom as punishment.
+- **Q552.13.1** — Death by fire from heaven as punishment.
+- **Q552.13.1.1** — Death by fire from heaven as punishment for opposition to holy person.
+- **Q552.13.1.2** — Death by fire from heaven as punishment for scoffing at church teachings.
+- **Q552.13.2** — Destruction of property by fire from heaven as punishment.
+- **Q552.13.2.1** — City of king who opposed saint miraculously burned.
+- **Q552.13.2.2** — Church which refused to bury saint miraculously burned.
+- **Q552.13.3** — Fire from heaven consumes adulterous wife who has slandered an abbot.
+- **Q552.14** — Storm as punishment.
+- **Q552.14.0.1** — Storm as punishment for affront to disguised supernatural spirit.
+- **Q552.14.1** — Fortress built on Sunday destroyed by tempest.
+- **Q552.14.2** — Punishment: flood of mud after which crops of corn come up with black (smutted) ears.
+- **Q552.14.3** — Mass of sand advances like a tidal wave upon city.
+- **Q552.14.4** — Rain of stones as punishment.
+- **Q552.14.5** — Hail as punishment.
+- **Q552.15** — Punishment: cloud cuts off view of man promised all he can see for expelling saint.
+- **Q552.16** — Food and drink refused saint miraculously become putrid.
+- **Q552.16.1** — Food concealed from saint miraculously changed to stones.
+- **Q552.16.1.1** — Fishermen cut fish into pieces and claim that they have none.
+  *Saint says, "If you have none, may you have them; if you have, may they be stones." Pieces of fish are changed to stones.*
+- **Q552.16.1.2** — Women carrying cheeses concealed pretend that they are carrying webs or balls of thread.
+  *Saint changes cheeses to stones.*
+- **Q552.17** — Punishment: grave fills with sand when digger attempts to bury sinner over holy man.
+- **Q552.18** — Punishment: disappearance of ill-gotten gains.
+- **Q552.18.1** — Gold and silver demanded of saint disappear.
+- **Q552.18.1.1** — Cowl demanded as ransom from saint bursts into flame.
+- **Q552.18.2** — Drink refused saint disappears.
+- **Q552.18.3** — Payment for ransom disappears when prisoner is not released.
+- **Q552.19** — Miraculous drowning as punishment.
+- **Q552.19.0.1** — Drowning caused by magic wind as punishment of braggart.
+- **Q552.19.1** — Miraculous drowning as punishment for opposition to saint (holy man).
+- **Q552.19.2** — Miraculous drowning as punishment for desire to murder.
+- **Q552.19.3** — Miraculous drowning as punishment for theft.
+- **Q552.19.4** — Miraculous drowning as punishment for man's flight with stepmother.
+- **Q552.19.5** — Miraculous drowning as punishment for haughtiness.
+- **Q552.19.6** — Flood as punishment for murder (fratricide).
+- **Q552.20** — Eclipse as punishment.
+- **Q552.20.1** — Miraculous darkness as punishment.
+- **Q552.21** — Man vomits heart as punishment and lives without it till his death.
+- **Q552.22** — Punishment: city and inhabitants hurled down precipice.
+- **Q552.23** — Punishment: being suspended between heaven and earth.
+- **Q552.24** — Punishment: lava flow.
+- **Q552.25** — Earthquake as punishment.
+- **Q552.25.1** — Earthquake at dragon's death.
+- **Q552.25.2** — Earthquake at witch's death.
+- **Q553** — Divine favor withdrawn as punishment.
+- **Q553.1** — Virgin Mary withdraws the sacrament from a scoffer.
+- **Q553.2** — Punishment: angel ceases to appear to self-righteous hermit.
+- **Q553.3** — Sterility as punishment.
+- **Q553.3.1** — God refuses king a son on account of his many wars.
+- **Q553.3.0.1** — Sterility of women as punishment.
+- **Q553.3.2** — Children of incestuous father die without issue.
+- **Q553.3.3** — Sterility as punishment for breaking saint's covenant.
+- **Q553.3.4** — Sterility as punishment for parricide.
+- **Q553.3.5** — Sterility as punishment for uncharitableness to holy person.
+- **Q553.3.6** — Painful birth of children as punishment.
+- **Q553.3.7** — Punishment: reduced number of children.
+- **Q553.4** — Death of children as punishment.
+- **Q553.4.1** — Child taken from parents because they have ceased to think of God.
+- **Q553.5** — Punishment: small catch of fish for child-murderers.
+  *Fisherman and his wife have always caught three fishes. From greed they kill their child in order to have more fish for themselves. But they thereafter catch but two fishes.*
+- **Q553.6** — Failure in all efforts as punishment.
+- **Q553.7** — Rains withheld until king remembers to have monks' huts roofed as promised.
+- **Q554** — Mysterious visitation as punishment.
+- **Q554.1** — Punishment: devil carries off thief.
+- **Q554.2** — Devil in roof of church into which he thrusts voices of loud singers.
+- **Q554.3** — Mysterious stranger blows ashes into face of scoffer and chokes him to death.
+- **Q554.4** — Mysterious wolf enters church and kills blaspheming priest.
+- **Q554.5** — Mysterious animal punishes penitent.
+  *Returning from the pope he is met by a mysterious animal who jumps on his back. Then in the man's room, whither he has carried the animal, a three hours' noise is heard as of a fight. Neither man nor beast is found in the room.*
+- **Q554.6** — Cheaters visited by god in animal form.
+  *Frightened into restitution.*
+- **Q554.7** — Creditor in former existence comes to confiscate riches of unkind man in next existence.
+- **Q555** — Madness as punishment.
+- **Q555.1** — Madness as punishment for scoffer.
+- **Q555.2** — Madness as punishment for adulterer.
+- **Q555.3** — Madness as punishment for thieves.
+- **Q555.4** — Punishment for incest: father and son maddened; cut off their sexual organs.
+- **Q556** — Curse as punishment.
+- **Q556.0.1** — Curse threatened to enforce demand.
+- **Q556.0.2** — Voice from heaven pronounces curse of destruction on city.
+- **Q556.1** — Curse for participation in Crucifixion.
+- **Q556.2** — Mark of Cain.
+  *Permanent mark as curse on a murderer.*
+- **Q556.3** — Curse for leaving home.
+- **Q556.4** — Man has color of the dead as result of saint's curse for disobedience.
+- **Q556.4.1** — Child born with one eye blinded as result of saint's curse.
+- **Q556.5** — Saint decrees offenders will not be able to fortify their dwellings.
+  *Fences fall, earth gapes when dug.*
+- **Q556.6** — Curse for plundering church: king loses battles.
+- **Q556.7** — Curse for inhospitality.
+- **Q556.7.1** — Curse for enforced hospitality.
+- **Q556.8** — Curse for mockery.
+- **Q556.9** — Curse for banishing wife at wish of paramour.
+- **Q556.10** — Curse for murder.
+- **Q556.10.1** — Saint curses murderer with shortness of life here and hell beyond.
+- **Q556.11** — Curse for uncharitableness.
+- **Q556.12** — Curse for stealing.
+- **Q556.12.1** — Thievish abbot to be eaten by wolves: curse by saint.
+- **Q557** — Miraculous punishment through animals.
+- **Q557.1** — Poisonous toad sits on food of undutiful children.
+- **Q557.2** — Serpent chokes woman's undutiful son.
+- **Q557.3** — Eagle (ape) carries off ill-gotten gain.
+  *Makes away with the receipts of a merchant who had watered his wine.*
+- **Q557.4** — Mouse causes hair of thief to fall out.
+- **Q557.5** — Saint's pet crane pecks out eye of spying person.
+- **Q557.6** — Snake strikes person for opposing saint.
+- **Q557.7** — Tiger seizes bride and bridegroom at threshold of house because groom has failed to worship deity before ceremony.
+- **Q557.8** — People given charm to dispel flies grumble: flies return a thousandfold.
+- **Q558** — Mysterious death as punishment.
+- **Q558.1** — Scoffing priest mysteriously stricken dead.
+- **Q558.2** — Perjurer stricken dead.
+- **Q558.3** — Usurer flees city to escape plague.
+  *On his return he boasts that God did not get him. He takes the plague and dies.*
+- **Q558.4** — Blasphemer stricken dead.
+- **Q558.5** — Man in anger throws stone at the image of the Virgin.
+  *Is stricken dead.*
+- **Q558.6** — Mysterious death as punishment for theft.
+- **Q558.7** — Slave-driver mysteriously stricken dead.
+- **Q558.8** — Mysterious death as punishment for wrongful satire.
+- **Q558.9** — Mysterious death as punishment for murder.
+- **Q558.9.1** — Mysterious death of son as punishment for murder.
+- **Q558.10** — Mysterious death as punishment for feigning sleep.
+- **Q558.11** — Animals which eat of saint's body stricken dead.
+- **Q558.12** — Mysterious death as punishment for worshiping idols on All-Saints-Day.
+- **Q558.13** — Mysterious death as punishment for opposition to holy person.
+- **Q558.13.1** — Mysterious death of son as punishment for opposition to holy person.
+- **Q558.13.2** — Mysterious death as punishment for disbelief in druidism.
+- **Q558.14** — Mysterious death as punishment for desecration of holy places (images, etc.).
+- **Q558.14.1** — Animals stricken dead for desecration of holy places.
+- **Q558.15** — Mysterious death as punishment for lying (perjury).
+- **Q558.15.1** — Mysterious death of son as punishment for lying (perjury).
+- **Q558.16** — Mysterious death as punishment for false judging.
+- **Q558.17** — Death by ulcer for destroying churches.
+- **Q558.18** — Saints bring about miraculous death because of desecration of sanctuaries.
+- **Q559** — Other miraculous punishments.
+- **Q559.1** — Devils instead of angels visit woman who has forgotten God in her prosperity.
+- **Q559.2** — Punishment: man stricken blind.
+- **Q559.3** — Body of murdered man cannot be moved nor can water be drawn from a well to wash it.
+  *Leads to exposure of murderer.*
+- **Q559.4** — Peasants punished for working on feast day.
+  *They cannot leave the field for several days.*
+- **Q559.5** — Girl punished for jeering at saint.
+  *Is stricken dumb and distaff sticks to her hand.*
+- **Q559.5.1** — Birth of child prevented until girl confesses slander.
+  *She has accused a bishop of fathering the child.*
+- **Q559.5.2** — Girl's hand withers as punishment for broken oath to God.
+- **Q559.6** — Poets lose ability to compose verse as punishment for immoderate request.
+- **Q559.7** — Punishment: body will not decay after death because man broke saint's covenant.
+- **Q559.8** — Half of house in which false judgment is given slips down hill.
+- **Q559.9** — Saints miraculously cause child to fall over cliff as punishment for mother's washing clothes in holy well.
+- **Q559.10** — Magic boat keeps thief at sea until he promises to throw ill-gotten gains into sea.
+- **Q559.11** — Man miraculously made to excrete his entrails for heresy.
+- **Q560** — Punishments in hell.
+- **Q560.1** — Punishments in land of dead (detailed).
+- **Q560.1.1** — Punishments in other world: people reincarnated as buffaloes and killed.
+- **Q560.2** — Respite from hell.
+- **Q560.2.1** — Souls in hell not punished on Sabbath.
+- **Q560.2.1.1** — Three hours of respite on Sunday for tormented in hell.
+- **Q560.2.2** — Certain number of souls released from hell every Saturday through virtue of saint.
+- **Q560.2.3** — Soul (of Judas) tormented on rock in sea on certain days as respite from pains of hell.
+- **Q560.3** — Sinners endure hell tortures for one year.
+- **Q561** — Punishments being prepared in hell.
+- **Q561.1** — Bed heating in hell for certain person.
+- **Q561.2** — Kettle heating in hell for certain person.
+- **Q561.3** — Seat (room) heating in hell for certain person.
+- **Q561.4** — Palace in other world of the dead where are rooms full of tongues, hands, etc. of men committing sins in this world.
+- **Q562** — Pain of souls tormented in hell alternately ebbs and flows.
+- **Q562.1** — Girdles of sinners in hell alternately scorch with heat and cold.
+- **Q562.2** — Souls in hell alternately drowned and burned.
+- **Q562.3** — Souls tormented in hell alternately borne up to firmament and cast down to depths.
+- **Q563** — Punishments in hell fitted to crimes.
+- **Q563.1** — Punishment in hell fitted to the grade of wickedness.
+- **Q564** — Letter sent to the relatives from man punished in hell.
+- **Q565** — Man admitted to neither heaven nor hell.
+  *He has tricked the devil.*
+- **Q565.1** — Person to be received by neither earth nor heaven.
+- **Q566** — Punishments by heat in hell.
+- **Q567** — Punishments by cold in hell.
+- **Q567.1** — Sharp icy hoods (cowls) worn by sinners in hell.
+- **Q569** — Other punishments in hell.
+- **Q569.1** — Sinners in hell forced to sit in dark puddles up to their middles.
+- **Q569.2** — Sinners in hell swallowed by dragons.
+- **Q569.3** — Sinners in hell fall into mouth of devil.
+- **Q569.4** — Sinners in hell painfully suspended.
+- **Q569.5** — Smokers in otherworld are locked in smoky rooms.
+- **Q570** — Punishment and remission.
+- **Q570.1** — Magic foul disease as punishment for persecution of Christians remitted.
+- **Q571** — Magic blindness as punishment remitted.
+- **Q571.1** — Magic blindness as punishment for opposition to holy person remitted.
+- **Q571.2** — Magic blindness as punishment for uncharitableness remitted.
+- **Q572** — Magic sickness as punishment remitted.
+- **Q572.1** — Magic sickness as punishment for theft remitted.
+- **Q572.2** — Magic sickness as punishment for uncharitableness remitted.
+- **Q572.3** — Magic sickness as punishment for opposition to holy person remitted.
+- **Q572.4** — Magic sickness as punishment for immoderate request remitted.
+- **Q572.5** — Saint deprives enemy king of speech.
+  *King repents, speech restored.*
+- **Q573** — Magic paralysis as punishment remitted.
+- **Q573.1** — Magic paralysis as punishment for opposition to holy person remitted.
+- **Q573.2** — Magic paralysis as punishment for scorning of bishop remitted.
+- **Q574** — Mysterious death as punishment remitted.
+- **Q574.1** — Mysterious death as punishment for opposition to holy person remitted.
+- **Q574.2** — Mysterious death of animals as punishment for uncharitableness remitted.
+- **Q575** — Magic putrefaction of food as punishment for opposition to holy person remitted.
+- **Q576** — Curse as punishment remitted.
+- **Q576.1** — Curse of loss of victory for opposition to holy person remitted.
+- **Q577** — Sentence to hang remitted.
+- **Q578** — Spirit in hell remitted from humiliating punishment of bathing people.
+- **Q580** — Punishment fitted to crime.
+- **Q581** — Villain nemesis.
+  *Person condemned to punishment he has suggested for others.*
+- **Q581.0.1** — Loss of life as result of one's own treachery.
+- **Q581.1** — Unusual murder avenged in like manner.
+- **Q581.2** — Villain in hiding killed by blow aimed at his victim.
+- **Q581.3** — Those planning to drown others drowned.
+- **Q581.3.1** — Drowning as punishment for drowning.
+- **Q582** — Fitting death as punishment.
+- **Q582.1** — Sisters throw unique jewel into lake; killed and thrown after it.
+- **Q582.2** — Man who brings fire to his house at devil's instigation burns to death.
+- **Q582.3** — Murderer killed by his own spear.
+- **Q582.3.1** — Man killed by piece of stone flying from rock his victim dies upon.
+- **Q582.4** — Man dies from drop of blood of pet hound he has killed.
+- **Q582.5** — Man boasts he fears saint no more than hornless sheep; killed by hornless sheep.
+- **Q582.6** — Woman killed by horse got through immoderate request.
+- **Q582.7** — Boy who threw stones at clerics killed by thrown stone.
+- **Q582.8** — Person drinks poison he prepared for another.
+- **Q582.9** — Man falls dead when he sees his sons whom he has reared in sin all killed.
+- **Q583** — Fitting bodily injury as punishment.
+- **Q583.1** — Man who laughs at blind made blind.
+- **Q583.2** — Man stricken dumb for surly speech.
+- **Q583.3** — Man seeking to flee saint paralyzed.
+- **Q583.4** — Lying woman's tongue swells.
+- **Q584** — Transformation as fitting punishment.
+- **Q584.1** — Transformer transformed.
+- **Q584.2** — Transformation of a man to animal as fitting punishment.
+- **Q584.3** — Reincarnation in form fitted to crime.
+- **Q585** — Fitting destruction (disappearance) of property as punishment.
+- **Q585.1** — Man refuses to give to charity: his property disappears.
+- **Q585.2** — Destruction (disappearance) of property got through immoderate request.
+- **Q585.3** — During rainy spring, farmer wishes that Lord would sleep till harvest time.
+  *Farmer himself sleeps until all neighbors have finished harvesting. When he wakes, he finds his crops ruined.*
+- **Q585.4** — Food disappears because of wastefulness.
+- **Q586** — Son on gallows bites his mother's (father's) nose off: punishment for neglect in youth.
+- **Q587** — Jealous husband kills bird which wife falsely says she has been listening to.
+  *She has really been conversing with her lover. (La'stic.)*
+- **Q588** — Ungrateful son punished by having a son equally ungrateful.
+- **Q589** — Punishment fitted to crime miscellaneous.
+- **Q589.1** — Horses fail when owner refuses load to saint.
+- **Q589.1.0.1** — Man cannot drive cow by himself which he refused to share.
+- **Q589.2** — Man goes forth naked: cursed with nakedness throughout life.
+- **Q589.3** — Punishment for stinginess: amends made by being generous and liberal.
+- **Q590** — Miscellaneous punishments.
+- **Q591** — Punishment: lie becomes truth.
+- **Q591.1** — Punishment: death pretended becomes real.
+- **Q591.1.1** — King tests saint by having man feign death; saint perceives trick and causes man to be dead.
+- **Q591.2** — Punishment: man says salt he carries is stones; it immediately becomes so.
+- **Q591.2.1** — Punishment: man says sugar he carries is earth; it becomes so.
+- **Q591.3** — Man dies from pretended illness.
+- **Q593** — Dead mother appears and makes disobedient child eat fatal serpent.
+- **Q594** — Punishment: taking snakes as foster children.
+- **Q595** — Loss or destruction of property as punishment.
+- **Q595.1** — Fortress ravaged when saint is refused admittance.
+- **Q595.2** — Cattle killed, crops burned as punishment for abduction.
+- **Q595.3** — Uncharitable king loses wealth.
+- **Q595.4** — Loss of money as punishment.
+- **Q595.4.1** — Tribute as punishment for trickery.
+- **Q596** — Punishment in effigy.
+- **Q596.1** — Quartering in effigy for uxoricide.
+- **Q597** — Animals avenge injury.
+- **Q597.1** — Snake carries into fire man who has banned snakes.
+- **Q597.2** — Birds take back their feathers from ungrateful wolf to whom they have lent them.
+- **Q597.3** — Bees sting honey-thieves.
+- **Q598** — Punishment: fighting all who pass through forest.
+- **Q599** — Other punishments.
+- **Q599.1** — Punishment: marrying shrewish wife.

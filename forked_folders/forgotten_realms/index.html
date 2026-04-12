@@ -3,311 +3,208 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Forgotten — Markdown Search</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<meta name="robots" content="noindex">
+<title>Forgotten Realms Search</title>
+<link rel="stylesheet" href="../css_js/5eadb.css">
 <style>
-  :root {
-    --bg: #0f0e0c;
-    --surface: #1a1915;
-    --border: #2e2c27;
-    --accent: #c9a84c;
-    --accent-dim: #7a6530;
-    --text: #e8e4d9;
-    --text-muted: #7a776e;
-    --result-bg: #141310;
-  }
-
-  * { box-sizing: border-box; margin: 0; padding: 0; }
-
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: 'JetBrains Mono', monospace;
-    min-height: 100vh;
-    padding: 40px 20px;
-  }
-
-  .container { max-width: 860px; margin: 0 auto; }
-
-  header {
-    margin-bottom: 48px;
-    border-left: 3px solid var(--accent);
-    padding-left: 20px;
-  }
-
-  h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: 2.4rem;
-    color: var(--accent);
-    letter-spacing: -0.5px;
-    line-height: 1.1;
-  }
-
-  .subtitle {
-    color: var(--text-muted);
-    font-size: 0.75rem;
-    margin-top: 6px;
-    letter-spacing: 2px;
-    text-transform: uppercase;
-  }
-
+  /* Upload zone */
   .upload-zone {
-    border: 1.5px dashed var(--border);
+    border: 2px dashed #ccc;
     border-radius: 4px;
-    padding: 36px;
+    padding: 20px;
     text-align: center;
     cursor: pointer;
-    transition: border-color 0.2s, background 0.2s;
-    margin-bottom: 14px;
+    margin-bottom: 10px;
     position: relative;
+    color: #888;
+    font-size: 16px;
+    transition: border-color 0.2s, background 0.2s;
   }
-  .upload-zone:hover, .upload-zone.drag-over {
-    border-color: var(--accent);
-    background: rgba(201, 168, 76, 0.04);
-  }
-  .upload-zone input[type="file"] {
-    position: absolute; inset: 0; opacity: 0; cursor: pointer; width: 100%; height: 100%;
-  }
-  .upload-icon { font-size: 2rem; margin-bottom: 10px; opacity: 0.5; }
-  .upload-label { color: var(--text-muted); font-size: 0.8rem; letter-spacing: 1px; }
-  .upload-label span { color: var(--accent); font-weight: 500; }
+  .upload-zone:hover, .upload-zone.drag-over { border-color: #666; background: #f8f8f8; }
+  .upload-zone input[type="file"] { position: absolute; inset: 0; opacity: 0; cursor: pointer; width: 100%; height: 100%; }
+  .upload-label span { font-weight: bold; color: #333; }
 
-  .progress-wrap {
-    display: none;
-    height: 3px;
-    background: var(--border);
-    border-radius: 2px;
-    margin-bottom: 14px;
-    overflow: hidden;
-  }
+  /* Progress bar */
+  .progress-wrap { display: none; height: 3px; background: #eee; border-radius: 2px; margin-bottom: 10px; overflow: hidden; }
   .progress-wrap.visible { display: block; }
-  .progress-bar {
-    height: 100%;
-    background: var(--accent);
-    width: 0%;
-    transition: width 0.12s linear;
-  }
+  .progress-bar { height: 100%; background: #666; width: 0%; transition: width 0.12s linear; }
 
-  .file-info {
-    display: none;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    padding: 10px 16px;
-    font-size: 0.78rem;
-    color: var(--text-muted);
-    margin-bottom: 20px;
-    gap: 10px;
-    align-items: center;
-  }
-  .file-info.visible { display: flex; }
-  .file-info .dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent); flex-shrink: 0; }
+  /* File info */
+  .file-info { display: none; font-size: 14px; color: #666; margin-bottom: 10px; }
+  .file-info.visible { display: block; }
 
-  .search-bar { display: flex; gap: 10px; margin-bottom: 8px; }
-
-  input[type="text"] {
-    flex: 1;
-    background: var(--surface);
-    border: 1.5px solid var(--border);
-    border-radius: 4px;
-    padding: 12px 16px;
-    color: var(--text);
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 0.9rem;
-    outline: none;
-    transition: border-color 0.2s;
+  /* Search bar */
+  .search-bar { display: flex; gap: 8px; margin-bottom: 6px; }
+  .search-bar input[type="text"] {
+    flex: 1; padding: 10px; font-size: 16px;
+    border: 2px solid #ddd; border-radius: 4px; font-family: sans-serif;
   }
-  input[type="text"]:focus { border-color: var(--accent); }
-  input[type="text"]::placeholder { color: var(--text-muted); }
+  .search-bar input[type="text"]:focus { border-color: #666; outline: none; }
 
-  .btn {
-    background: var(--accent);
-    color: #0f0e0c;
-    border: none;
-    border-radius: 4px;
-    padding: 12px 22px;
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 0.8rem;
-    font-weight: 500;
-    cursor: pointer;
-    letter-spacing: 1px;
-    transition: opacity 0.2s;
-  }
-  .btn:hover { opacity: 0.85; }
-
-  .stats {
-    color: var(--text-muted);
-    font-size: 0.72rem;
-    letter-spacing: 1px;
-    margin-bottom: 24px;
-    min-height: 16px;
-  }
+  .stats { color: #666; font-size: 14px; margin-bottom: 10px; min-height: 16px; }
 
   /* Virtual scroll */
   #scroll-viewport {
-    height: 70vh;
-    overflow-y: auto;
-    position: relative;
+    height: 70vh; overflow-y: auto; position: relative;
+    border: 1px solid #ddd; border-radius: 4px;
   }
   #scroll-viewport::-webkit-scrollbar { width: 6px; }
-  #scroll-viewport::-webkit-scrollbar-track { background: var(--bg); }
-  #scroll-viewport::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
-
+  #scroll-viewport::-webkit-scrollbar-thumb { background: #ccc; border-radius: 3px; }
   #scroll-spacer { width: 1px; pointer-events: none; }
+  #scroll-content { position: absolute; top: 0; left: 0; right: 0; }
 
-  #scroll-content {
-    position: absolute;
-    top: 0; left: 0; right: 0;
-  }
-
+  /* Result items — position:absolute required for virtual scrolling */
   .result-item {
-    background: var(--result-bg);
-    border: 1px solid var(--border);
-    border-radius: 4px;
-    overflow: hidden;
-    transition: border-color 0.15s;
-    position: absolute;
-    left: 0; right: 0;
+    position: absolute; left: 0; right: 0;
+    border-bottom: 1px solid #ddd; background: white; overflow: hidden;
+    padding: 0;
   }
-  .result-item:hover { border-color: var(--accent-dim); }
-
   .result-header {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 14px 18px;
-    cursor: pointer;
-    user-select: none;
-    min-height: 52px;
+    display: flex; align-items: center; gap: 10px;
+    padding: 12px 14px; cursor: pointer; user-select: none; min-height: 52px;
   }
-
-  .result-num {
-    color: var(--accent);
-    font-size: 0.7rem;
-    letter-spacing: 1px;
-    flex-shrink: 0;
-    opacity: 0.7;
-    min-width: 36px;
+  .result-num { color: #aaa; font-size: 13px; flex-shrink: 0; min-width: 36px; }
+  .result-title-wrap { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+  .result-title { font-weight: bold; font-size: 16px; color: #333; margin: 0; }
+  .result-title mark { background: #ffff99; padding: 0 2px; border-radius: 2px; }
+  .result-snippet { font-size: 13px; color: #666; font-style: italic; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .result-snippet mark { background: #fffacc; padding: 0 2px; border-radius: 2px; font-style: normal; }
+  .copy-btn {
+    background: none; border: 1px solid #ccc; border-radius: 3px;
+    color: #999; font-size: 11px; padding: 3px 7px; cursor: pointer; flex-shrink: 0;
+    min-height: auto; margin: 0;
   }
-
-  .result-title {
-    font-family: 'Playfair Display', serif;
-    font-size: 1.05rem;
-    color: var(--text);
-    flex: 1;
-  }
-  .result-title mark {
-    background: rgba(201, 168, 76, 0.25);
-    color: var(--accent);
-    border-radius: 2px;
-    padding: 0 2px;
-  }
-
-  .toggle-icon {
-    color: var(--text-muted);
-    font-size: 0.7rem;
-    transition: transform 0.2s;
-    flex-shrink: 0;
-  }
+  .copy-btn:hover { border-color: #666; color: #333; background: none; }
+  .toggle-icon { color: #aaa; font-size: 0.7rem; transition: transform 0.2s; flex-shrink: 0; }
   .toggle-icon.open { transform: rotate(90deg); }
-
-  .result-body {
-    display: none;
-    padding: 0 18px 18px;
-    border-top: 1px solid var(--border);
-  }
+  .result-body { display: none; padding: 0 14px 14px; border-top: 1px solid #ddd; }
   .result-body.open { display: block; }
-  .result-body pre {
-    font-family: 'JetBrains Mono', monospace;
-    font-size: 0.78rem;
-    color: var(--text-muted);
-    white-space: pre-wrap;
-    word-break: break-word;
-    line-height: 1.7;
-    padding-top: 16px;
+  .result-body-content { font-size: 14px; color: #555; line-height: 1.6; padding-top: 10px; }
+  .result-body-content p { margin: 4px 0 8px; }
+  .result-body-content h3 { font-size: 15px; margin: 12px 0 4px; color: #333; }
+  .result-body-content h4 { font-size: 14px; margin: 10px 0 3px; color: #444; }
+  .result-body-content blockquote {
+    border-left: 3px solid #ccc; margin: 6px 0; padding: 2px 10px; color: #777;
   }
-  .result-body pre mark {
-    background: rgba(201, 168, 76, 0.2);
-    color: var(--text);
-    border-radius: 2px;
-    padding: 0 2px;
+  .result-body-content a { color: #444; }
+  .result-body-content strong { font-weight: bold; }
+  .result-body-content em { font-style: italic; }
+  .wiki-link {
+    font-size: 12px; color: #888; border: 1px solid #ccc; border-radius: 3px;
+    padding: 3px 7px; text-decoration: none; flex-shrink: 0; white-space: nowrap;
+    min-height: auto; margin: 0;
   }
+  .wiki-link:hover { border-color: #666; color: #333; }
+  .bodies-status { font-size: 12px; color: #aaa; margin-left: 6px; }
+  /* Group dividers in search results */
+  .result-divider {
+    position: absolute; left: 0; right: 0;
+    padding: 5px 14px;
+    background: #f0f0f0;
+    border-bottom: 1px solid #ddd;
+    font-size: 11px; font-weight: 600; letter-spacing: 0.8px;
+    text-transform: uppercase; color: #888;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .result-divider::after {
+    content: ''; flex: 1; height: 1px; background: #ddd;
+  }
+  .empty { text-align: center; padding: 40px 20px; color: #888; font-style: italic; }
 
-  .empty {
-    text-align: center;
-    padding: 60px 20px;
-    color: var(--text-muted);
-    font-size: 0.8rem;
-    letter-spacing: 1px;
+  /* Dark mode */
+  @media (prefers-color-scheme: dark) {
+    .upload-zone { border-color: #444; color: #666; }
+    .upload-zone:hover, .upload-zone.drag-over { border-color: #888; background: #111; }
+    .upload-label span { color: #e0e0e0; }
+    .progress-wrap { background: #333; }
+    .progress-bar { background: #888; }
+    .search-bar input[type="text"] { background: #222; border-color: #555; color: #e0e0e0; }
+    .search-bar input[type="text"]:focus { border-color: #888; }
+    #scroll-viewport { border-color: #444; }
+    .result-item { background: #111; border-bottom-color: #333; }
+    .result-divider { background: #1a1a1a; border-bottom-color: #333; color: #555; }
+    .result-divider::after { background: #333; }
+    .result-title { color: #e0e0e0; }
+    .result-num { color: #555; }
+    .result-snippet { color: #888; }
+    .result-body-content { color: #999; }
+    .result-body-content h3 { color: #ccc; }
+    .result-body-content h4 { color: #bbb; }
+    .result-body-content blockquote { border-left-color: #444; color: #777; }
+    .result-body-content a { color: #aaa; }
+    .result-body { border-top-color: #333; }
+    .wiki-link { border-color: #444; color: #666; }
+    .wiki-link:hover { border-color: #888; color: #e0e0e0; }
+    .toggle-icon { color: #666; }
+    .copy-btn { border-color: #444; color: #666; background: none; }
+    .copy-btn:hover { border-color: #888; color: #e0e0e0; background: none; }
+    .result-title mark { background: #665500; color: #fff; }
+    .result-snippet mark { background: #443300; color: #ddd; }
+    .result-body pre mark { background: #665500; color: #fff; }
   }
 </style>
 </head>
 <body>
-<div class="container">
-  <header>
-    <h1>Forgotten</h1>
-    <p class="subtitle">Search top-level headings &amp; their content</p>
-  </header>
+<div><a href="../index.html">Homebrew Generators</a> → Forgotten Realms</div>
 
-  <div class="upload-zone" id="dropZone">
-    <input type="file" id="fileInput" accept=".md,.markdown,.txt">
-    <div class="upload-icon" id="uploadIcon">⌘</div>
-    <p class="upload-label" id="uploadLabel">Auto-loading <span>forgotten.md</span>…</p>
-  </div>
+<h1>Forgotten Realms Search</h1>
+<p style="color:#666; font-size:14px; margin-bottom:16px;">Search headings &amp; content &nbsp;·&nbsp; press <kbd>/</kbd> to focus</p>
 
-  <div class="progress-wrap" id="progressWrap">
-    <div class="progress-bar" id="progressBar"></div>
-  </div>
+<div class="upload-zone" id="dropZone">
+  <input type="file" id="fileInput" accept=".json,.md,.markdown,.txt">
+  <p class="upload-label" id="uploadLabel">Auto-loading <span>forgotten.json</span>… &nbsp;(or drop a file here)</p>
+</div>
 
-  <div class="file-info" id="fileInfo">
-    <span class="dot"></span>
-    <span id="fileName"></span>
-    <span>—</span>
-    <span id="entryCount"></span>
-  </div>
+<div class="progress-wrap" id="progressWrap">
+  <div class="progress-bar" id="progressBar"></div>
+</div>
 
-  <div class="search-bar">
-    <input type="text" id="searchInput" placeholder="Search headings or content..." disabled>
-    <button class="btn" onclick="clearSearch()">CLEAR</button>
-  </div>
+<div class="file-info" id="fileInfo">
+  Loaded: <span id="fileName"></span> — <span id="entryCount"></span><span class="bodies-status" id="bodiesStatus"></span>
+</div>
 
-  <div class="stats" id="stats"></div>
+<div class="search-bar">
+  <input type="text" id="searchInput" placeholder="Search headings or content..." disabled>
+  <button onclick="clearSearch()">Clear</button>
+</div>
 
-  <div id="scroll-viewport">
-    <div id="scroll-spacer"></div>
-    <div id="scroll-content"></div>
-  </div>
+<div class="stats" id="stats"></div>
+
+<div id="scroll-viewport">
+  <div id="scroll-spacer"></div>
+  <div id="scroll-content"></div>
 </div>
 
 <script>
 // ── State ─────────────────────────────────────────────────────────────────────
-let entries  = [];   // { title, titleLower, bodyText, bodyLower }
-let filtered = [];   // indices into entries
+let entries     = [];        // { title, titleLower, url, bodyText, bodyLower }
+let filtered    = [];        // numbers (entry indices) or strings (divider labels)
 let expandedSet = new Set(); // virtual-row indices that are expanded
+let bodiesLoaded = false;
+
+const DIVIDER_H = 28; // height of group divider rows (px)
 
 // ── DOM refs ──────────────────────────────────────────────────────────────────
-const viewport     = document.getElementById('scroll-viewport');
-const spacer       = document.getElementById('scroll-spacer');
-const content      = document.getElementById('scroll-content');
-const statsEl      = document.getElementById('stats');
-const searchInput  = document.getElementById('searchInput');
-const fileInfoEl   = document.getElementById('fileInfo');
-const uploadLabel  = document.getElementById('uploadLabel');
-const uploadIcon   = document.getElementById('uploadIcon');
-const progressWrap = document.getElementById('progressWrap');
-const progressBar  = document.getElementById('progressBar');
+const viewport      = document.getElementById('scroll-viewport');
+const spacer        = document.getElementById('scroll-spacer');
+const content       = document.getElementById('scroll-content');
+const statsEl       = document.getElementById('stats');
+const searchInput   = document.getElementById('searchInput');
+const fileInfoEl    = document.getElementById('fileInfo');
+const uploadLabel   = document.getElementById('uploadLabel');
+const progressWrap  = document.getElementById('progressWrap');
+const progressBar   = document.getElementById('progressBar');
+const bodiesStatus  = document.getElementById('bodiesStatus');
 
 // ── Virtual scroll ────────────────────────────────────────────────────────────
-const ROW_H  = 54;   // collapsed row height (px)
+const ROW_H   = 54;
 const OVERSCAN = 6;
 
-let rowOffsets  = [];
-let totalHeight = 0;
+let rowOffsets = [];
 
 function estimateExpandedHeight(vi) {
   const chars = entries[filtered[vi]].bodyText.length;
-  // ~80 chars per line, ~20px per line, plus header + padding
-  return ROW_H + Math.min(800, Math.ceil(chars / 80) * 20 + 50);
+  return ROW_H + Math.min(1200, Math.ceil(chars / 80) * 22 + 60);
 }
 
 function buildOffsets() {
@@ -315,10 +212,13 @@ function buildOffsets() {
   let y = 0;
   for (let i = 0; i < filtered.length; i++) {
     rowOffsets[i] = y;
-    y += expandedSet.has(i) ? estimateExpandedHeight(i) : ROW_H;
+    if (typeof filtered[i] === 'string') {
+      y += DIVIDER_H;                                         // divider row
+    } else {
+      y += expandedSet.has(i) ? estimateExpandedHeight(i) : ROW_H;
+    }
   }
-  totalHeight = y;
-  spacer.style.height = totalHeight + 'px';
+  spacer.style.height = y + 'px';
 }
 
 function visibleRange() {
@@ -326,15 +226,12 @@ function visibleRange() {
   const bottom = top + viewport.clientHeight;
   const padTop = top - ROW_H * OVERSCAN;
   const padBot = bottom + ROW_H * OVERSCAN;
-
-  // Binary search for start
   let lo = 0, hi = filtered.length - 1, start = 0;
   while (lo <= hi) {
     const mid = (lo + hi) >> 1;
     if (rowOffsets[mid] < padTop) { start = mid; lo = mid + 1; }
     else hi = mid - 1;
   }
-
   let end = start;
   while (end < filtered.length - 1 && rowOffsets[end + 1] < padBot) end++;
   return [start, Math.min(end, filtered.length - 1)];
@@ -345,56 +242,79 @@ function renderVisible() {
   const [start, end] = visibleRange();
   const q = searchInput.value.trim();
 
-  // Reuse existing nodes where possible by keying on vi
   const existing = new Map();
-  for (const node of content.children) {
-    existing.set(+node.dataset.vi, node);
-  }
+  for (const node of content.children) existing.set(+node.dataset.vi, node);
 
   const needed = new Set();
   for (let vi = start; vi <= end; vi++) needed.add(vi);
+  for (const [vi, node] of existing) { if (!needed.has(vi)) node.remove(); }
 
-  // Remove nodes no longer visible
-  for (const [vi, node] of existing) {
-    if (!needed.has(vi)) node.remove();
-  }
-
-  // Add / update needed nodes
   for (let vi = start; vi <= end; vi++) {
-    const ei      = filtered[vi];
-    const entry   = entries[ei];
-    const isOpen  = expandedSet.has(vi);
-    const hasBody = entry.bodyText.trim().length > 0;
-    const top     = rowOffsets[vi];
+    const row = filtered[vi];
 
     let item = existing.get(vi);
     if (!item) {
       item = document.createElement('div');
-      item.className = 'result-item';
       item.dataset.vi = vi;
       content.appendChild(item);
     }
+    item.style.top = rowOffsets[vi] + 'px';
 
-    item.style.top = top + 'px';
+    // ── Divider row ───────────────────────────────────────────────────────────
+    if (typeof row === 'string') {
+      if (item.dataset.label !== row) {
+        item.className   = 'result-divider';
+        item.dataset.label = row;
+        item.style.height  = DIVIDER_H + 'px';
+        item.textContent   = row;
+      }
+      continue;
+    }
 
-    // Only re-render innerHTML if state changed
+    // ── Entry row ─────────────────────────────────────────────────────────────
+    const ei      = row;
+    const entry   = entries[ei];
+    const isOpen  = expandedSet.has(vi);
+    const hasBody = entry.bodyText.trim().length > 0;
+
     const prevOpen = item.dataset.open === '1';
     if (item.dataset.ei !== String(ei) || prevOpen !== isOpen || item.dataset.q !== q) {
+      item.className    = 'result-item';
       item.dataset.ei   = ei;
       item.dataset.open = isOpen ? '1' : '0';
       item.dataset.q    = q;
+      delete item.dataset.label;
+
+      const snippet = (!isOpen && hasBody && q) ? getSnippet(entry.bodyText, q) : '';
+      const wikiBtn = entry.url
+        ? `<a class="wiki-link" href="${escHtml(entry.url)}" target="_blank" rel="noopener">Wiki ↗</a>`
+        : '';
 
       item.innerHTML = `
         <div class="result-header">
           <span class="result-num">#${String(vi+1).padStart(3,'0')}</span>
-          <span class="result-title">${highlight(entry.title, q)}</span>
-          ${hasBody ? `<span class="toggle-icon${isOpen?' open':''}">▶</span>` : ''}
+          <div class="result-title-wrap">
+            <span class="result-title">${highlight(entry.title, q)}</span>
+            ${snippet ? `<span class="result-snippet">${highlight(snippet, q)}</span>` : ''}
+          </div>
+          ${wikiBtn}
+          <button class="copy-btn" data-ei="${ei}">COPY</button>
+          ${hasBody ? `<span class="toggle-icon${isOpen ? ' open' : ''}">▶</span>` : ''}
         </div>
-        ${hasBody && isOpen ? `<div class="result-body open"><pre>${highlight(entry.bodyText, q)}</pre></div>` : ''}
+        ${hasBody && isOpen
+          ? `<div class="result-body open"><div class="result-body-content">${renderMarkdown(entry.bodyText)}</div></div>`
+          : ''}
       `;
 
+      const wikiLink = item.querySelector('.wiki-link');
+      if (wikiLink) wikiLink.addEventListener('click', e => e.stopPropagation());
+      item.querySelector('.copy-btn').addEventListener('click', e => copyEntry(+e.target.dataset.ei, e));
       if (hasBody) {
-        item.querySelector('.result-header').addEventListener('click', () => toggleRow(vi));
+        item.querySelector('.result-header').addEventListener('click', e => {
+          if (!e.target.classList.contains('copy-btn') && !e.target.classList.contains('wiki-link')) {
+            toggleRow(vi);
+          }
+        });
       }
     }
   }
@@ -420,85 +340,134 @@ searchInput.addEventListener('input', () => {
 function applySearch(q) {
   expandedSet.clear();
   const ql = q.toLowerCase();
-
   if (!ql) {
     filtered = Array.from({ length: entries.length }, (_, i) => i);
+    statsEl.textContent = `${entries.length.toLocaleString()} entries loaded`;
   } else {
-    filtered = [];
+    const exactMatches = [];   // titleLower === ql
+    const titleMatches = [];   // titleLower.includes(ql) but not exact
+    const bodyMatches  = [];   // body contains ql but title does not
+
     for (let i = 0; i < entries.length; i++) {
-      if (entries[i].titleLower.includes(ql) || entries[i].bodyLower.includes(ql)) {
-        filtered.push(i);
+      const e = entries[i];
+      if (e.titleLower === ql) {
+        exactMatches.push(i);
+      } else if (e.titleLower.includes(ql)) {
+        titleMatches.push(i);
+      } else if (e.bodyLower.includes(ql)) {
+        bodyMatches.push(i);
+      }
+    }
+
+    // Build mixed filtered array with string dividers between groups
+    filtered = [];
+    if (exactMatches.length) {
+      filtered.push(`Exact match (${exactMatches.length})`);
+      for (const i of exactMatches) filtered.push(i);
+    }
+    if (titleMatches.length) {
+      filtered.push(`Title matches (${titleMatches.length})`);
+      for (const i of titleMatches) filtered.push(i);
+    }
+    if (bodyMatches.length) {
+      filtered.push(`Body matches (${bodyMatches.length})`);
+      for (const i of bodyMatches) filtered.push(i);
+    }
+
+    const total = exactMatches.length + titleMatches.length + bodyMatches.length;
+    const parts = [];
+    if (exactMatches.length) parts.push(`${exactMatches.length} exact`);
+    if (titleMatches.length) parts.push(`${titleMatches.length} title`);
+    if (bodyMatches.length)  parts.push(`${bodyMatches.length} body`);
+    const bodyNote = (!bodiesLoaded && q) ? ' · bodies still loading' : '';
+    statsEl.textContent = total
+      ? `${parts.join(' · ')} matches${bodyNote}`
+      : `No matches${bodyNote}`;
+  }
+
+  // Auto-expand all matching entries when a search query is active
+  if (ql) {
+    for (let vi = 0; vi < filtered.length; vi++) {
+      const row = filtered[vi];
+      if (typeof row === 'number' && entries[row].bodyText.trim()) {
+        expandedSet.add(vi);
       }
     }
   }
 
-  statsEl.textContent = q
-    ? `${filtered.length.toLocaleString()} of ${entries.length.toLocaleString()} entries match`
-    : `${entries.length.toLocaleString()} entries loaded`;
-
   viewport.scrollTop = 0;
   content.innerHTML  = '';
-
   if (filtered.length === 0) {
     spacer.style.height = '0px';
-    content.innerHTML = `<div class="empty">${entries.length ? 'NO MATCHES FOUND' : 'LOAD A MARKDOWN FILE TO BEGIN'}</div>`;
+    content.innerHTML = `<div class="empty">${entries.length ? 'No matches found' : 'Load a file to begin'}</div>`;
     return;
   }
-
   buildOffsets();
   renderVisible();
 }
 
-// ── Parser (fast single-pass) ─────────────────────────────────────────────────
-// Entries start at "# Title" and end at the next "---" separator (or EOF).
-// The "---" line itself is excluded from the displayed body.
+// ── Markdown renderer ─────────────────────────────────────────────────────────
+function renderMarkdown(text) {
+  const lines = text.split('\n');
+  let html = '';
+  let inBlockquote = false;
+
+  for (const line of lines) {
+    if (line.startsWith('### ')) {
+      if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+      html += `<h4>${escHtml(line.slice(4))}</h4>`;
+    } else if (line.startsWith('## ')) {
+      if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+      html += `<h3>${escHtml(line.slice(3))}</h3>`;
+    } else if (line.startsWith('> ')) {
+      if (!inBlockquote) { html += '<blockquote>'; inBlockquote = true; }
+      html += `<p>${inlineMarkdown(line.slice(2))}</p>`;
+    } else if (line.trim() === '') {
+      if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+    } else {
+      if (inBlockquote) { html += '</blockquote>'; inBlockquote = false; }
+      html += `<p>${inlineMarkdown(line)}</p>`;
+    }
+  }
+  if (inBlockquote) html += '</blockquote>';
+  return html;
+}
+
+function inlineMarkdown(text) {
+  return escHtml(text)
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*([^*\n]+?)\*/g, '<em>$1</em>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+}
+
+// ── Parser (fast single-pass, fallback for raw .md files) ────────────────────
 function parseMarkdown(text) {
   entries = [];
   const len = text.length;
-  let lineStart = 0;
-  let currentTitle = null;
-  let bodyStart = 0;
+  let lineStart = 0, currentTitle = null, bodyStart = 0;
 
   function flush(end) {
     if (currentTitle !== null) {
       const bodyText = text.slice(bodyStart, end).trimEnd();
-      entries.push({
-        title:      currentTitle,
-        titleLower: currentTitle.toLowerCase(),
-        bodyText,
-        bodyLower:  bodyText.toLowerCase()
-      });
+      entries.push({ title: currentTitle, titleLower: currentTitle.toLowerCase(),
+                     url: '', bodyText, bodyLower: bodyText.toLowerCase() });
       currentTitle = null;
     }
   }
-
   while (lineStart < len) {
     let lineEnd = text.indexOf('\n', lineStart);
     if (lineEnd === -1) lineEnd = len;
-
     const lineLen = lineEnd - lineStart;
-
-    // H1 heading: "# Title"
     if (text.charCodeAt(lineStart) === 35 && text.charCodeAt(lineStart + 1) === 32) {
-      // Close any open entry first (handles files that mix --- and headings)
       flush(lineStart);
       currentTitle = text.slice(lineStart + 2, lineEnd).trim();
       bodyStart = lineEnd + 1;
-
-    // Entry separator: line is exactly "---"
-    } else if (
-      lineLen === 3 &&
-      text.charCodeAt(lineStart)     === 45 &&
-      text.charCodeAt(lineStart + 1) === 45 &&
-      text.charCodeAt(lineStart + 2) === 45
-    ) {
-      flush(lineStart); // body ends just before the ---
+    } else if (lineLen === 3 && text.charCodeAt(lineStart) === 45 &&
+               text.charCodeAt(lineStart+1) === 45 && text.charCodeAt(lineStart+2) === 45) {
+      flush(lineStart);
     }
-
     lineStart = lineEnd + 1;
   }
-
-  // Close any entry still open at EOF
   flush(len);
 }
 
@@ -509,10 +478,9 @@ function setProgress(pct) {
 }
 
 function setLoaded(name) {
-  uploadIcon.textContent = '✓';
-  uploadLabel.innerHTML  = `Loaded <span>${name}</span>`;
+  uploadLabel.innerHTML = `Loaded <span>${name}</span>`;
   document.getElementById('fileName').textContent  = name;
-  document.getElementById('entryCount').textContent = `${entries.length.toLocaleString()} top-level entries`;
+  document.getElementById('entryCount').textContent = `${entries.length.toLocaleString()} entries`;
   fileInfoEl.classList.add('visible');
   progressWrap.classList.remove('visible');
   searchInput.disabled = false;
@@ -520,41 +488,117 @@ function setLoaded(name) {
   applySearch('');
 }
 
-// Stream fetch with progress bar
-async function autoLoad() {
-  try {
-    const res = await fetch('forgotten.md');
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+// Stream a URL and return the full text, updating progress bar between pctStart–pctEnd
+async function streamText(url, pctStart, pctEnd) {
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const total   = +res.headers.get('Content-Length') || 0;
+  const reader  = res.body.getReader();
+  const decoder = new TextDecoder();
+  let received  = 0;
+  const parts   = [];
+  while (true) {
+    const { done, value } = await reader.read();
+    if (done) break;
+    received += value.length;
+    parts.push(decoder.decode(value, { stream: true }));
+    if (total) setProgress(pctStart + Math.round(received / total * (pctEnd - pctStart)));
+  }
+  parts.push(decoder.decode());
+  return parts.join('');
+}
 
-    const total   = +res.headers.get('Content-Length') || 0;
-    const reader  = res.body.getReader();
-    const decoder = new TextDecoder();
-    let received  = 0;
-    const parts   = [];
+// Load the new split index format
+function loadFromIndexJSON(data) {
+  bodiesLoaded = false;
+  entries = data.map(item => ({
+    title:      item.t,
+    titleLower: item.t.toLowerCase(),
+    url:        item.u || '',
+    bodyText:   '',
+    bodyLower:  ''
+  }));
+}
 
-    while (true) {
-      const { done, value } = await reader.read();
-      if (done) break;
-      received += value.length;
-      parts.push(decoder.decode(value, { stream: true }));
-      if (total) setProgress(Math.round(received / total * 90));
+// Populate bodies once the background fetch completes
+function populateBodies(bodiesData) {
+  bodiesData.forEach((body, i) => {
+    if (entries[i]) {
+      entries[i].bodyText  = body;
+      entries[i].bodyLower = body.toLowerCase();
     }
-    parts.push(decoder.decode()); // flush remaining
+  });
+  bodiesLoaded = true;
+  bodiesStatus.textContent = '';
+  // Re-run current search to include body matches
+  applySearch(searchInput.value.trim());
+}
 
-    setProgress(95);
+// Load bodies in background while page is already usable
+async function loadBodiesInBackground() {
+  bodiesStatus.textContent = ' · loading full text…';
+  try {
+    const raw = await streamText('forgotten_bodies.json', 0, 0); // no progress bar (already done)
     await yieldToUI();
-    parseMarkdown(parts.join(''));
-    setProgress(100);
-    setLoaded('forgotten.md');
-
-  } catch (err) {
-    progressWrap.classList.remove('visible');
-    uploadIcon.textContent = '📄';
-    uploadLabel.innerHTML  = `Could not auto-load <span>forgotten.md</span>. Drop it here or click to browse.`;
+    populateBodies(JSON.parse(raw));
+  } catch (e) {
+    bodiesStatus.textContent = ' · full text unavailable';
   }
 }
 
-// File picker / drag-drop fallback
+// Load the old combined format (backward compatibility)
+function loadFromJSON(data) {
+  bodiesLoaded = true;
+  entries = data.map(item => ({
+    title:      item.t,
+    titleLower: item.t.toLowerCase(),
+    url:        item.u || '',
+    bodyText:   item.b || '',
+    bodyLower:  (item.b || '').toLowerCase()
+  }));
+}
+
+// ── Auto-load: index → bodies (background) → combined JSON → raw MD ──────────
+async function autoLoad() {
+  // 1. Try new split index (fast first load)
+  try {
+    const raw = await streamText('forgotten_index.json', 0, 90);
+    setProgress(95);
+    await yieldToUI();
+    loadFromIndexJSON(JSON.parse(raw));
+    setProgress(100);
+    setLoaded('forgotten_index.json');
+    loadBodiesInBackground(); // fire and forget
+    return;
+  } catch (e) { /* fall through */ }
+
+  // 2. Try combined JSON (previous format)
+  try {
+    const raw = await streamText('forgotten.json', 0, 90);
+    setProgress(95);
+    await yieldToUI();
+    loadFromJSON(JSON.parse(raw));
+    setProgress(100);
+    setLoaded('forgotten.json');
+    return;
+  } catch (e) { /* fall through */ }
+
+  // 3. Try raw markdown
+  try {
+    const raw = await streamText('forgotten.md', 0, 90);
+    setProgress(95);
+    await yieldToUI();
+    parseMarkdown(raw);
+    setProgress(100);
+    setLoaded('forgotten.md');
+    return;
+  } catch (e) { /* fall through */ }
+
+  progressWrap.classList.remove('visible');
+  uploadLabel.innerHTML = `Could not auto-load. Drop <span>forgotten_index.json</span> or <span>forgotten.md</span> here.`;
+}
+
+// ── File picker / drag-drop fallback ─────────────────────────────────────────
 const dropZone = document.getElementById('dropZone');
 const fileInput = document.getElementById('fileInput');
 
@@ -575,14 +619,21 @@ function processFile(file) {
   reader.onload = async e => {
     setProgress(95);
     await yieldToUI();
-    parseMarkdown(e.target.result);
+    const name = file.name;
+    if (name.endsWith('_index.json')) {
+      loadFromIndexJSON(JSON.parse(e.target.result));
+    } else if (name.endsWith('.json')) {
+      loadFromJSON(JSON.parse(e.target.result));
+    } else {
+      parseMarkdown(e.target.result);
+    }
     setProgress(100);
-    setLoaded(file.name);
+    setLoaded(name);
   };
   reader.readAsText(file);
 }
 
-// ── Utils ──────────────────────────────────────────────────────────────────────
+// ── Utils ─────────────────────────────────────────────────────────────────────
 const yieldToUI = () => new Promise(r => setTimeout(r, 10));
 
 function highlight(text, query) {
@@ -595,13 +646,70 @@ function escHtml(s) {
   return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
 
+function getSnippet(bodyText, query) {
+  if (!query || !bodyText) return '';
+  const ql = query.toLowerCase();
+  for (const line of bodyText.split('\n')) {
+    const trimmed = line.trim();
+    if (!trimmed) continue;
+    const idx = trimmed.toLowerCase().indexOf(ql);
+    if (idx === -1) continue;
+    if (trimmed.length <= 120) return trimmed;
+    const start = Math.max(0, idx - 40);
+    const end   = Math.min(trimmed.length, idx + query.length + 60);
+    return (start > 0 ? '…' : '') + trimmed.slice(start, end) + (end < trimmed.length ? '…' : '');
+  }
+  return '';
+}
+
+function copyEntry(ei, event) {
+  event.stopPropagation();
+  const entry = entries[ei];
+  const text  = entry.bodyText ? `${entry.title}\n\n${entry.bodyText}` : entry.title;
+  const btn   = event.currentTarget;
+
+  function showOk()   { btn.textContent = '✓'; btn.style.color = '#333'; setTimeout(() => { btn.textContent = 'COPY'; btn.style.color = ''; }, 1400); }
+  function showFail() { btn.textContent = '✗'; setTimeout(() => { btn.textContent = 'COPY'; }, 1400); }
+
+  function legacyCopy() {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.cssText = 'position:fixed;top:0;left:0;width:2px;height:2px;opacity:0;border:none;outline:none';
+    document.body.appendChild(ta);
+    ta.focus();
+    ta.select();
+    try { document.execCommand('copy') ? showOk() : showFail(); }
+    catch { showFail(); }
+    document.body.removeChild(ta);
+  }
+
+  // navigator.clipboard requires HTTPS; on file:// fall straight to legacy
+  if (window.isSecureContext && navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(text).then(showOk).catch(legacyCopy);
+  } else {
+    legacyCopy();
+  }
+}
+
 function clearSearch() {
   searchInput.value = '';
   applySearch('');
   searchInput.focus();
 }
 
-// ── Boot ───────────────────────────────────────────────────────────────────────
+// ── Keyboard shortcuts ────────────────────────────────────────────────────────
+document.addEventListener('keydown', e => {
+  if (e.key === '/' && document.activeElement !== searchInput && !searchInput.disabled) {
+    e.preventDefault();
+    searchInput.focus();
+    searchInput.select();
+  }
+  if (e.key === 'Escape' && document.activeElement === searchInput) {
+    searchInput.blur();
+  }
+});
+
+// ── Boot ──────────────────────────────────────────────────────────────────────
 autoLoad();
 </script>
 </body>

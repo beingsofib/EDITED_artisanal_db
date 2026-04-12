@@ -1,0 +1,561 @@
+# R. Captives and Fugitives
+
+> Motif-Index of Folk-Literature · 509 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Captivity
+
+- **R0** — Captivity.
+- **R1** — Wild man captured and tamed.
+- **R2** — God holds the devil captive for three years.
+- **R3** — King imprisons another king's embassy.
+- **R4** — Surprise capture.
+- **R4.1** — Enemy surprised while bathing: taken.
+- **R5** — Capture on field of battle.
+- **R5.1** — Enemy host imprisoned by earthen walls thrown up by hero's chariot wheels.
+- **R5.2** — Hero captured by being pressed between shields from all sides.
+- **R6** — Messenger of Death imprisoned.
+- **R7** — Men held captive in the Land of Women.
+- **R8** — Gods captured.
+- **R9** — Captivity miscellaneous.
+- **R9.1** — Sun captured.
+- **R9.1.1** — Sun captured during visit to earth.
+- **R9.1.2** — Sun and Moon captured by creditor, thus causing eclipse.
+- **R9.1.3** — Sun and Moon imprison each other.
+- **R9.2** — Grain and pulse in human form imprisoned by wicked king.
+- **R9.3** — Ogress captured and reformed.
+- **R9.4** — Fire-maiden imprisoned in iron house.
+- **R9.5** — Cow imprisoned until it promises not to eat men.
+- **R9.6** — King imprisons all living creatures.
+- **R10** — Abduction.
+- **R10.1** — Princess (maiden) abducted.
+- **R10.1.1** — Maiden abducted by soldiers.
+- **R10.1.2** — Lover abducts maiden from cruel father and brother.
+- **R10.2** — Pretended abduction.
+  *Adulterous wife plots own abduction by paramour.*
+- **R10.3** — Children abducted.
+- **R10.4** — Hero abducted by witch who loves him.
+- **R10.4.1** — Abduction of bridegroom and killing of his bride planned as giantess's revenge.
+- **R11** — Abduction by monster (ogre).
+- **R11.1** — Princess (maiden) abducted by monster (ogre).
+- **R11.1.1** — Abduction of girl by half bestial man (hair on body, nails of dog).
+- **R11.2** — Abduction by devil.
+- **R11.2.1** — Devil carries off wicked people.
+- **R11.2.1.1** — Devil carries off emperor because of his many murders.
+- **R11.2.2** — Abduction by demon.
+- **R11.2.2.1** — Abduction by Echo.
+- **R11.3** — Abduction by giant.
+- **R12** — Abduction by pirates.
+- **R12.1** — Maiden abducted by pirates (robbers).
+- **R12.2** — Man abducted by pirates.
+- **R12.2.1** — Child abducted by robbers and brought up in their ways.
+  *Later becomes wealthy and law-abiding.*
+- **R12.3** — Lovers abducted by pirates.
+- **R12.4** — Girl enticed into boat and abducted.
+- **R13** — Abduction by animal.
+- **R13.0.1** — Children carried off by animals.
+- **R13.1** — Abduction by wild beast.
+- **R13.1.1** — Baboons abduct boy.
+- **R13.1.2** — Lion carries off child.
+- **R13.1.3** — Rhinoceros carries off man.
+- **R13.1.4** — Abduction by tiger.
+- **R13.1.4.1** — Tiger abducts man.
+- **R13.1.4.2** — Abduction of woman by tiger.
+- **R13.1.4.2.1** — Tigers abduct princess to be wife of their human ward.
+- **R13.1.5** — Wolf abducts person.
+- **R13.1.6** — Girl abducted by bear and made his wife.
+- **R13.1.7** — Abduction by monkey.
+- **R13.1.7.1** — Girl carried off by monkeys.
+- **R13.1.8** — Abduction by rabbit.
+- **R13.1.9** — Abduction by leopard.
+- **R13.1.10** — Abduction by elephant.
+- **R13.1.11** — Abduction by fox.
+- **R13.2** — Abduction by domestic beast.
+- **R13.2.1** — Girl carried off by ram.
+- **R13.2.2** — Bull carries off devil after he has tried to deceive God.
+- **R13.2.3** — Abduction by cat.
+- **R13.2.3.1** — Abduction by goddess's cat.
+- **R13.3** — Person carried off by bird.
+- **R13.3.1** — Abduction by ravens.
+- **R13.3.2** — Eagle carries off youth.
+- **R13.4** — Abduction by reptile.
+- **R13.4.1** — Abduction by snake.
+- **R14** — Deity (demigod) abducts person.
+- **R16** — Abduction by transformed person.
+- **R16.1** — Maiden abducted by transformed hero.
+- **R16.2** — Child carried off by werwolf.
+- **R16.3** — Woman abducted by (transformed) fairy.
+- **R16.4** — Abduction by tiger-man.
+- **R16.5** — Abduction by elephant-man.
+- **R17** — Abduction by whirlwind.
+- **R17.1** — Whirlwind carries princess away.
+- **R18** — Abduction by rejected suitor.
+- **R22** — Abduction by giving soporific.
+- **R22.1** — Abduction by giving soporific and rolling up in a cloak.
+- **R22.2** — Abduction by means of sleep-giving music.
+- **R23** — Abduction with aid of magic mask which renders invisible.
+- **R24** — Abductor in disguise.
+- **R24.1** — Prince disguised as holy man abducts princess.
+- **R24.2** — Princely suitor in minstrel disguise carries princess away.
+- **R25** — Abduction through underground passage.
+- **R25.1** — Princess abducted through underground passage.
+- **R31** — Light extinguished and woman stolen.
+- **R32** — Abduction by stealing clothes of bathers.
+- **R33** — Fairy physician abducted to heal wounded mortals.
+- **R35** — Abducted princess gives birth to child.
+- **R39** — Abduction miscellaneous.
+- **R39.1** — Abduction by magician.
+- **R39.2** — Abduction by old woman.
+- **R40** — Places of captivity.
+- **R41** — Captivity in tower (castle, prison).
+- **R41.1** — Captivity in castle.
+- **R41.1.1** — Captivity in subterranean palace.
+- **R41.2** — Captivity in tower.
+- **R41.2.1** — Slandered wife is locked in tower for forty days.
+  *If no champion appears, she is to be burned. Former suitor rescues her.*
+- **R41.2.2** — Captivity in bower.
+- **R41.3** — Captivity in dungeon.
+- **R41.3.1** — Prison filled with snakes.
+- **R41.3.2** — Prison with stream of water in it.
+- **R41.3.3** — Prison floor with spikes in it.
+- **R41.3.4** — Captivity in well.
+- **R41.4** — Groom as prisoner in his and giantess's bridal chamber.
+- **R41.5** — Abducted princess fettered in hall with 100 doors.
+  *Bridal bed for her and giant in the midst.*
+- **R41.5.1** — Queen kept in palace of forty doors, each of them watched by a dog.
+- **R41.6** — Captivity in a pillar.
+- **R41.7** — Captivity in cages.
+- **R42** — Captivity in sunken valley.
+- **R43** — Captivity on island.
+- **R45** — Captivity in mound (cave, hollow hill).
+- **R45.1** — Man confined under roots of tree.
+- **R45.2** — Imprisonment in lion's den.
+- **R45.3** — Captivity in cave.
+- **R45.3.1** — Bear keeps human wife captive in cave with stone at entrance.
+- **R46** — Captivity under water.
+- **R47** — Captivity in lower world.
+- **R49** — Other places of captivity.
+- **R49.1** — Captivity in tree.
+- **R49.2** — Captivity in an oven.
+- **R49.3** — Ogre seizes girl and puts her in a drum.
+- **R50** — Conditions of captivity.
+- **R51** — Mistreatment of prisoners.
+- **R51.1** — Prisoners starved.
+- **R51.2** — Prisoners confined in chains.
+- **R51.3** — Prisoners mutilated.
+- **R51.4** — Prisoner massacred.
+- **R53** — Captivity as refuge for the captive.
+- **R53.1** — Woman hidden in underground chamber or mud cabin.
+- **R53.2** — Woman hidden in sacred place which her lover is not supposed to dare to enter.
+- **R53.3** — Girl locked up in order to postpone wedding.
+- **R53.4** — Faithful servant locks his master and his friend up in a little house built from wood from their wrecked ships; they falsely think themselves betrayed.
+- **R54** — Hero locked up while his father is murdered.
+- **R61** — Person sold into slavery.
+- **R70** — Behavior of captives.
+- **R71** — Captive prince joins captor out of gratitude for his freedom.
+  *(He had refused to promise that he would not fight again.)*
+- **R72** — Defiant prisoners refuse to accept grace even from their father unless it is granted them all.
+- **R74** — Defeated warriors go into the conqueror's service.
+- **R74.1** — Defeated enemy turns conqueror's best friend.
+- **R74.2** — Defeated enemy's son turns conqueror's man.
+- **R74.3** — Defeated enemy holds rank and country when he promises to pay tax to conqueror.
+- **R74.3.1** — Imprisoned king's son released when he promises to be a faithful subject and pay tax.
+- **R75** — Surrendering.
+- **R75.1** — Defeated surrender their city.
+- **R75.2** — Warriors surrender after chief's death.
+- **R75.2.1** — Warriors flee after chief's death.
+- **R81** — Woman suckles imprisoned relative through prison wall.
+- **R81.1** — Woman suckles husband isolated on rock.
+- **R82** — Captive sends secret message outside (in orange or on handkerchief).
+- **R83** — Baker, disguised as old woman, substitutes for princess in cell when he brings bread to her.
+- **R84** — Prisoner's sustenance from outside prison.
+- **R85** — Captive protected by angel from abductor.
+
+## Rescues
+
+- **R100** — Rescues.
+- **R110** — Rescue of captive.
+- **R110.1** — Goddess delivers and restores goods of man thrown into jail.
+- **R111** — Rescue of captive maiden.
+- **R111.0.1** — All man's property offered to rescuer of stolen daughter.
+- **R111.1** — Princess (maiden) rescued from captor.
+- **R111.1.1** — Rescue of princess from ogre.
+- **R111.1.2** — Princess rescued from robbers.
+- **R111.1.3** — Rescue of princess (maiden) from dragon.
+- **R111.1.4** — Rescue of princess (maiden) from giant (monster).
+- **R111.1.5** — Rescue of woman from snake-husband.
+- **R111.1.6** — Princess ransomed from slavery.
+- **R111.1.6.1** — Queen rescued from slavery.
+- **R111.1.7** — Rescue of princess (maiden) from magician.
+- **R111.1.8** — Rescue of maidens from witches.
+- **R111.1.9** — Princess rescued from undesired suitor.
+- **R111.1.10** — Rescue of princess (queen, maiden) from supernatural being who has won her at game of chance.
+- **R111.1.11** — Maiden rescued from rakshasa.
+- **R111.1.12** — Princess rescued from captivity of elephant.
+- **R111.1.13** — Rescue of girl from tigers.
+- **R111.1.13.1** — Rescue of woman from bear's cave.
+- **R111.2** — Princess rescued from place of captivity.
+- **R111.2.1** — Princess(es) rescued from lower world.
+- **R111.2.1.1** — Stolen woman rescued from lower world.
+- **R111.2.2** — Rescue of princess from mountain.
+- **R111.2.3** — Princess rescued from giant's cave where she is fettered to a chair by the hair.
+- **R111.2.3.1** — Rescue of earl's daughter from giant's cave where she is chained to the wall (a pillar).
+- **R111.2.4** — Princess rescued from temple where she is imprisoned.
+- **R111.2.5** — Girl rescued from tree.
+- **R111.3** — Means of rescuing princess.
+- **R111.3.1** — Girl rescued by traveling through air.
+- **R111.4** — Hero returns rescued princess to her betrothed.
+- **R111.5** — Nobleman rescues lady from treacherous servant.
+- **R111.6** — Girl rescued and then abandoned.
+- **R111.7** — Joint rescuers quarrel over rescued princess.
+- **R111.8** — Rescued person stolen from rescuer.
+- **R111.8.1** — Rescued woman stolen from rescuer by demon.
+- **R111.8.2** — Rescued woman stolen from rescuer by other men.
+- **R112** — Magic rescue of prisoner from mound.
+- **R112.1** — Three blasts on horn before sunrise to rescue prisoner from mound.
+- **R112.2** — Riding three times around hill to free captive confined within.
+- **R112.3** — Rescue of prisoners from fairy stronghold.
+- **R115** — King transformed to parrot frees captured parrots.
+- **R115.1** — Husband transformed into mouse so he can enter cave-prison of his wife.
+- **R116** — Rescue from robbers' den.
+- **R117** — Rescue from being burned.
+- **R121** — Means of rescue from prison.
+- **R121.1** — Princess pulled through prison window by hand and freed.
+- **R121.2** — Rescuer impersonates captive and deceives blind guardian while captive escapes.
+  *Mangaia (Cook Group): Dixon 75.*
+- **R121.3** — House burned (torn) down to deliver man imprisoned in it.
+- **R121.4** — Ants carry silk threads to prisoner, who makes rope and escapes.
+  *They have thread tied to their feet.*
+- **R121.5** — Ariadne-thread.
+  *Prisoner given a thread as a clue to find his way out of the labyrinth in which he is being confined.*
+- **R121.6** — Rescue from prison by saint, who enters and breaks fetters.
+- **R121.6.1** — Saint appears to captor in vision and demands prisoner's release.
+- **R121.6.2** — Locks marvelously open for person.
+- **R121.7** — Lovers ransomed from prison.
+- **R121.8** — Fairy mound destroyed to rescue person confined in it.
+- **R121.9** — Stream carries communication between prisoner and rescuer.
+- **R121.10** — With her teeth woman files away chain tying up husband.
+- **R122** — Miraculous rescue.
+- **R122.1** — Prisoner whirled away in blaze of fire.
+- **R122.2** — Prisoner carried off in cloud.
+- **R123** — Boon granted after prayer and widow's son is released from prison.
+- **R130** — Rescue of abandoned or lost persons.
+- **R131** — Exposed or abandoned child rescued.
+- **R131.0.1** — Nurse begs alms from door to door so as to keep child and nurture him.
+- **R131.0.2** — Miraculous rescue of all exposed children.
+- **R131.1** — Hunter rescues abandoned child.
+- **R131.2** — Miller rescues abandoned child.
+- **R131.2.1** — Miller rescues drowning princess.
+- **R131.3** — Herdsman rescues abandoned child.
+- **R131.3.1** — Shepherd rescues abandoned child.
+- **R131.3.2** — Goatherd rescues abandoned child.
+- **R131.3.3** — Cowherd rescues abandoned child.
+- **R131.3.3.1** — Person pushed into well by wife rescued by cowherd.
+- **R131.3.4** — Swineherd rescues abandoned child.
+- **R131.4** — Fisher rescues abandoned child.
+- **R131.5** — Servant rescues abandoned child.
+- **R131.6** — Peasant rescues abandoned child.
+- **R131.7** — Merchant rescues abandoned child.
+- **R131.8** — Other workmen rescue abandoned child.
+- **R131.8.1** — Horse-keeper rescues abandoned child.
+- **R131.8.2** — Gardener rescues abandoned child.
+- **R131.8.3** — Washerman rescues abandoned child.
+- **R131.8.4** — Smith rescues abandoned child.
+- **R131.8.5** — Forester rescues abandoned child.
+- **R131.8.6** — Potter rescues abandoned child(ren).
+- **R131.8.7** — Gold-washer rescues abandoned child.
+- **R131.8.8** — Barber rescues and befriends abandoned boy.
+- **R131.9** — Porter rescues abandoned child.
+- **R131.10** — Hermit rescues abandoned child.
+- **R131.10.1** — Woman disguised as hermit rescues abandoned child.
+- **R131.11** — Exalted person rescues abandoned child.
+- **R131.11.1** — Princess rescues abandoned child.
+- **R131.11.2** — King rescues abandoned child.
+- **R131.11.3** — Prince rescues abandoned child.
+- **R131.11.4** — Deity rescues abandoned child.
+- **R131.11.5** — Minister's son recovers prince's lost wife for him.
+- **R131.12** — Fairy rescues abandoned child.
+- **R131.13** — Palmer rescues abandoned child.
+- **R131.14** — Sailors rescue abandoned child.
+- **R131.15** — Children abandoned in a boat survive storm and are rescued.
+- **R131.16** — Angel rescues abandoned child.
+- **R131.17** — Coyote rescues abandoned child(ren).
+- **R131.18** — Pious woman rescues abandoned child.
+- **R131.19** — Bard (poet) rescues abandoned child.
+- **R131.20** — Indians rescue abandoned children.
+- **R133** — Vanished wife rescued.
+- **R133.1** — Hero finds his vanished wife and disenchants her.
+- **R133.2** — Lost wife restored by conjurer.
+- **R135** — Abandoned children (wife, etc.) find way back by clue (bread-crumb, grain, pebble, etc.).
+  *They have dropped the objects while being led away.*
+- **R135.0.1** — Stolen wife makes trail of speaking spittle for husband.
+  *Spittle speaks and directs him.*
+- **R135.0.2** — Trail of grain (seeds).
+- **R135.0.2.1** — Trail of rice husks.
+- **R135.0.3** — Trail of jewels.
+- **R135.0.4** — Trail of shreds of dress.
+- **R135.0.5** — Trail of thread.
+- **R135.0.6** — Trail of ashes.
+- **R135.0.7** — Trail of flowers.
+- **R135.1** — Crumb (grain) trail eaten by birds.
+  *Lost persons cannot find way back.*
+- **R135.1.1** — Feathers left to mark trail blown away by wind.
+- **R137** — Mermaid rescues heroine who has been thrown overboard.
+- **R138** — Rescue from shipwreck.
+- **R138.1** — Mermaid rescues hero (boy) from shipwreck.
+- **R138.2** — Gam rescues hero as boy from shipwreck.
+- **R141** — Rescue from well.
+- **R142** — Exposed children swallowed by earth; vomited up when grown.
+- **R143** — Abandoned man befriended by a Centaur.
+- **R150** — Rescuers.
+- **R151** — Husband rescues wife.
+- **R151.1** — Husband rescues stolen wife.
+- **R151.1.1** — Husband frees wife who has sold herself into slavery in order to ransom him.
+- **R151.2** — Husband rescues wife from burning at stake.
+- **R151.3** — Husband rescues wife from cannibal.
+- **R152** — Wife rescues husband.
+- **R152.1** — Disguised wife helps husband escape from prison.
+- **R152.2** — Woman disguised as man sells herself into slavery in order to ransom (free) her husband (lover).
+- **R152.3** — Wives change clothes with their imprisoned husbands when allowed to visit them.
+  *Husbands escape.*
+- **R152.4** — Wife gets back her husband from land of serpents by charming him with her beautiful dance.
+- **R152.5** — Transformed wife takes husband out of captivity.
+- **R153** — Parents rescues child.
+- **R153.1** — Parents rescue son.
+- **R153.1.1** — Parents rescue son from lower world on rope.
+- **R153.2** — Father rescues children.
+- **R153.2.1** — Father hides children from murderous mother.
+  *After many years they come forth and she dies of fright.*
+- **R153.3** — Father rescues son(s).
+- **R153.3.1** — Father rescues son captured by enemy.
+- **R153.3.2** — Father rescues son stolen by animals.
+- **R153.3.3** — Old robber frees his three sons: relates frightful adventures.
+  *In order to free them he must relate three adventures, each more frightful than the last.*
+- **R153.3.4** — Father rescues son from prison.
+- **R153.3.5** — Fathers thrust sons above water even as they themselves drown.
+- **R153.3.6** — Father hides son from Satan.
+- **R153.4** — Mother rescues son.
+- **R153.4.1** — Mother rescues fettered son.
+- **R153.4.2** — Mother hides twin (triplet) sons to keep them from death.
+- **R153.5** — Father rescues daughter.
+- **R154** — Children rescue parents.
+- **R154.0.1** — Children rescue mother from lion's den.
+- **R154.1** — Son rescues mother.
+- **R154.1.1** — Son rescues mother from burning at stake.
+- **R154.2** — Son rescues father.
+- **R154.2.1** — Son frees father by bringing riddle the king cannot solve.
+- **R154.2.2** — Son recovers father's bones.
+- **R154.2.3** — Sons rescue father.
+- **R154.3** — Daughter rescues father.
+- **R155** — Brothers rescue brothers.
+- **R155.1** — Youngest brother rescues his elder brothers.
+- **R155.2** — Elder brother rescues younger.
+- **R156** — Brother rescues sister(s).
+- **R157** — Sisters rescue sisters.
+- **R157.1** — Youngest sister rescues elder.
+- **R158** — Sister rescues brother(s).
+- **R161** — Lover rescues his lady.
+- **R161.0.1** — Hero rescued by his lady.
+- **R161.1** — Lover rescues his lady from abductor.
+- **R161.2** — Princess rescued by blind man restores his sight and marries him.
+- **R161.3** — Lover rescues his lady from drowning.
+- **R161.4** — Lover rescues his lady from the gallows.
+- **R162** — Rescue by captor's daughter (wife, mother).
+- **R163** — Rescue by grateful dead man.
+- **R164** — Rescue by giant.
+- **R164.1** — Giant rescues maiden.
+- **R164.2** — Giant rescues woman from burning at stake.
+- **R165** — Rescue by saint (holy man).
+- **R165.1** — Rescue of poor girl by St. Nicholas.
+  *Saint keeps her from being sold into slavery.*
+- **R165.2** — Innocently hanged person saved by saint.
+- **R165.3** — Abducted wife brought back by fakir.
+- **R166** — Brothers having extraordinary skill rescue princess.
+- **R167** — Master rescues disciple.
+- **R168** — Angels as rescuers.
+- **R169** — Other rescuers.
+- **R169.1** — Hero in disguise of foolish knight, then of black knight, rescues lady.
+- **R169.2** — Boys rescued from beasts by hermit.
+- **R169.3** — Boy saved by werwolf.
+- **R169.4** — Hero rescued by servant.
+- **R169.4.1** — Rescue of bride from mysterious perils by hidden faithful servant.
+- **R169.4.2** — Rescue of king's children by faithful servant.
+- **R169.5** — Hero rescued by friend.
+- **R169.5.1** — Hero's wife rescued by his faithful friend.
+- **R169.6** — Youth saved from death sentence by father's friend.
+- **R169.7** — Royal minister rescues abandoned queen(s).
+- **R169.8** — Predestined rescuer.
+- **R169.9** — Boy rescued by childless woman.
+- **R169.10** — Unpromising hero as rescuer.
+- **R169.10.1** — Fool rescues girl and wins her for his wife.
+- **R169.11** — Unknown helper(s) emerge(s) in the last moment and turn(s) out later to be well known.
+- **R169.12** — Hero rescued by sailors.
+- **R169.13** — Child rescued by nurse.
+- **R169.14** — Wounded hero restored in peasant's house.
+- **R169.15** — Rescue by stranger.
+- **R169.16** — Death as rescuer.
+- **R170** — Rescue miscellaneous motifs.
+- **R175** — Rescue at the stake.
+- **R175.1** — Escape from sacrificial altar on ram with golden fleece.
+- **R176** — Executioner miraculously blinded: condemned man saved.
+- **R181** — Demon enclosed in bottle released.
+- **R181.1** — Demon imprisoned in tree released.
+- **R182** — True rescuer hidden by girl when he arrives to claim her.
+- **R185** — Mortal fights with "Death".
+- **R185.1** — Mortal deceives Angel of Death.
+- **R187** — Horn of Roncevalles.
+  *Hero calls aid of waiting soldiers on horn.*
+- **R187.1** — Dord fnan.
+  *A call used by members of a fnan (warrior band) for summoning aid.*
+- **R188** — Rescued person horrifies rescuers: e.g., they swoon on seeing him.
+- **R191** — King (prince) returns home (from exile) and rescues his native country.
+
+## Escapes and pursuits
+
+- **R200** — Escapes and pursuits.
+- **R210** — Escapes.
+- **R211** — Escape from prison.
+- **R211.1** — Giant breaks from tower prison.
+- **R211.2** — Captive bores way out of prison.
+- **R211.3** — Escape through underground passage.
+- **R211.4** — Escape from slavery (pirates).
+- **R211.5** — Captive hews through iron prison with sword.
+- **R211.6** — Captive knocks prison roof off.
+- **R211.7** — Escape from pit of snakes by means of rope.
+- **R211.8** — Rescue from prison by beheading giant keeper.
+- **R211.9** — Escape from prison because of bribed guards.
+- **R212** — Escape from grave.
+- **R212.1** — Man buried alive with king escapes from the tomb.
+  *Follows noise made by sea animal and finds way out to sea.*
+- **R212.1.1** — Man buried alive escapes from tomb when thief tries to rob it.
+- **R212.1.2** — Captive buried alive to his neck fastens his teeth on jackal that comes to eat him and companions.
+  *Rest flee when they hear him howl. In struggles to get free jackal loosens earth around captive, who manages to free himself.*
+- **R212.2** — Man buried alive with beloved escapes, as thieves break open the tomb.
+- **R213** — Escape from home.
+- **R213.1** — Prince escapes from home in order to see world.
+- **R214** — Animal eludes bird watchman and escapes from his hole.
+- **R215** — Escape from execution.
+- **R215.1** — Escape from execution pyre by means of wings.
+- **R215.1.2** — Escape from execution pyre through underground passage.
+- **R215.2** — Escape from death by boiling oil.
+- **R215.3** — Escape from execution on flying wooden horse.
+- **R216** — Escape from ship while captors quarrel.
+- **R216.1** — Escape from ship by jumping into the sea.
+- **R217** — Inscription accidentally seen tells hero how to escape captivity.
+- **R218** — Escape from fairyland.
+- **R219** — Escapes miscellaneous.
+- **R219.1** — Man carried off on bed escapes by grasping tree limbs as he passes under tree.
+- **R219.2** — Man and wife escape from land of dead upon a vine.
+- **R220** — Flights.
+- **R221** — Heroine's three-fold flight from ball.
+  *Cinderella (Cap o' Rushes) after meeting the prince at a ball (church) flees before identification is possible. Repeated three times.*
+- **R222** — Unknown knight.
+  *(Three days' tournament.) For three days in succession an unknown knight in different armor wins a tournament and escapes without recognition. Finally identified by tokens.*
+- **R224** — Girl flees to escape incestuous brother.
+- **R225** — Elopement.
+- **R225.1** — Elopement on winged horse.
+- **R225.2** — Lovers elope to prevent girl' s marriage to undesired fianci.
+- **R227** — Wife flees from husband.
+- **R227.1** — Wife flees from animal husband.
+- **R227.2** — Flight from hated husband.
+- **R227.3** — Supernatural wife finds garment stolen from her by husband and leaves him.
+- **R228** — Children leave home because their parents refuse them food.
+- **R231** — Obstacle flight Atalanta type.
+  *Objects are thrown back which the pursuer stops to pick up while the fugitive escapes.*
+- **R231.1** — Ogre tries to retain fugitive by tempting him with gold ring; but he takes ring by cutting off the hand.
+- **R231.2** — Fugitive cuts tail of camel caught by pursuer and it turns into grass.
+- **R231.2.1** — Helpful animal's tail cut off so pursuers who hang onto tail are shaken off into river.
+- **R233** — Fugitive kills pursuer and takes his extraordinary horse to continue flight.
+- **R235** — Fugitives cut support of bridge so that pursuer falls.
+- **R236** — Pursuers aided by magic weather phenomenon.
+- **R236.1** — Fugitive aided by magic mist.
+- **R236.2** — Sun sets at high noon to hide fugitive.
+- **R236.3** — Earthquake saves fugitive.
+- **R236.4** — Fugitive has magic wind against him, pursuer with him (caused by goddess).
+- **R241** — Flight on skis; two on one pair.
+- **R242** — Flight carrying friend (girl) on back.
+- **R243** — Fugitives aided by helpful animal.
+- **R243.1** — Pursuer misdirected by animal to help fugitive.
+- **R244** — Ships burned to prevent flight.
+- **R245** — Whale-boat.
+  *A man is carried across the water on a whale (fish). (He usually deceives the whale as to the nearness of the land or as to hearing thunder. As a consequence the whale runs into the shore or is killed by lightning.)*
+- **R245.1** — Crocodile-boat.
+  *Trickster props his jaws apart and leaves him.*
+- **R245.2** — Snake king takes fleeing captives across river.
+- **R246** — Crane-bridge.
+  *Fugitives are helped across a stream by a crane who lets them cross on his leg. The pursuer is either refused assistance or drowned by the crane.*
+- **R246.1** — Stone bridge appears for fugitives.
+  *Disappears and drowns pursuers.*
+- **R251** — Flight on a tree, which ogre tries to cut down.
+- **R252** — Flight by vaulting on stick.
+- **R253** — Escape from nest of giant bird by seizing two young birds and jumping.
+- **R255** — Formula for girl fleeing: behind me night, etc.
+  *"Behind me night and before me day that no one shall see where I go."*
+- **R257** — Fugitives sustain selves on apples.
+- **R260** — Pursuits.
+- **R261** — Pursuit by rolling object.
+- **R261.1** — Pursuit by rolling head.
+- **R262** — Magic eel pursues man over land.
+- **R265** — Pursuer (witch, giant) pulls out tail of fugitive's horse.
+- **R267** — Fugitives trailed by mustard seeds (ashes) dropped from bag.
+- **R268** — Dew in footprints reveals man's way.
+- **R271** — Pursuit by fire.
+- **R272** — Pursuer follows successive night campfires (each brighter than last).
+
+## Refuges and recapture
+
+- **R300** — Refuges and recapture.
+- **R310** — Refuges.
+- **R311** — Tree refuge.
+- **R311.1** — Trees magically hide a fugitive.
+- **R311.1.1** — Thorn-brake as refuge.
+- **R311.2** — King escapes pursuers through hollow tree in his hall.
+- **R311.3** — Stolen child found in hollow tree.
+- **R311.4** — Stretching tree refuge for fugitive.
+- **R312** — Forest as refuge.
+- **R312.1** — Forest as refuge of eloping lovers.
+- **R313** — Princess hides in straw.
+- **R314** — Negro takes refuge under princess's throne.
+- **R315** — Cave as refuge.
+- **R315.1** — Cave as eloping lovers' refuge.
+- **R315.2** — Christians crushed in cave where they take refuge from heathen.
+- **R316** — Refuge on rock in sea.
+- **R316.1** — Refuge on island.
+- **R317** — Well (spring) as refuge.
+- **R318** — Girl hidden in skin of her dead mother.
+- **R318.1** — Boy hidden under skin in order not to be seen and prophesied about.
+- **R321** — Escape to the stars.
+  *Fugitives rise in the air and become stars.*
+- **R321.1** — Sister escapes to the stars to avoid marrying brother.
+  *He is the thunder and her face is Lightning.*
+- **R321.2** — Escape to moon.
+  *Pursued hero escapes to moon.*
+- **R322** — Eagle's nest as refuge.
+- **R323** — Refuge in upper world.
+- **R323.1** — Murderer escapes to sky on sky rope.
+- **R323.2** — Murderer escapes to sky in magic chariot.
+- **R324** — Refuge in air.
+  *Fugitive supernaturally rises in air to escape.*
+- **R324.1** — Escape from battle by flying in air.
+- **R325** — Church (altar) as refuge.
+- **R325.1** — Devil chases ghost of wicked man until he puts his head into chapel window.
+- **R325.2** — Idol cracks open to grant refuge to fugitive in answer to prayer; then closes again.
+- **R325.3** — Saint offers murderer refuge.
+- **R326** — Escape to fairyland.
+- **R327** — Earth opens to rescue fugitive.
+- **R331** — Hero takes refuge at king's court.
+- **R335** — Roof as refuge for pursued animals.
+- **R336** — Refuge under kettle.
+- **R341** — Escape by intervention of Providence.
+- **R341.1** — Lightning strikes branch on which man is being hanged.
+  *Delay gives him chance to prove his innocence.*
+- **R345** — Cities of refuge.
+- **R350** — Recapture of fugitive.
+- **R351** — Fugitive discovered by reflection in water.
+- **R351.1** — Milk drops from woman's breast on tiger's leg and reveals her hiding place in tree.
+- **R352** — Lovers fleeing from slavery are recaptured.
+- **R355** — Eloping girl recaptured by parents.

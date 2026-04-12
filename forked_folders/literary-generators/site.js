@@ -1,0 +1,921 @@
+// Literary Generators — Browser Engine
+// License: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
+
+(function () {
+  "use strict";
+
+  const DATA_BASE = "Data";
+  const cache = {};
+
+  // =====================================================================
+  // BIBLE SECTION DEFINITIONS
+  // =====================================================================
+
+  const BIBLE_SECTIONS = {
+    "Law": ["genesis","exodus","leviticus","numbers","deuteronomy"],
+    "History (OT)": ["joshua","judges","ruth","1samuel","2samuel","1kings","2kings","1chronicles","2chronicles","ezra","nehemiah","esther"],
+    "Wisdom & Poetry": ["job","psalms","proverbs","ecclesiastes","songofsolomon"],
+    "Major Prophets": ["isaiah","jeremiah","lamentations","ezekiel","daniel"],
+    "Minor Prophets": ["hosea","joel","amos","obadiah","jonah","micah","nahum","habakkuk","zephaniah","haggai","zechariah","malachi"],
+    "Gospels": ["matthew","mark","luke","john"],
+    "Acts": ["acts"],
+    "Epistles": ["romans","1corinthians","2corinthians","galatians","ephesians","philippians","colossians","1thessalonians","2thessalonians","1timothy","2timothy","titus","philemon","hebrews","james","1peter","2peter","1john","2john","3john","jude"],
+    "Revelation": ["revelation"]
+  };
+
+  // =====================================================================
+  // HISTORY
+  // =====================================================================
+
+  const sessionHistory = [];
+  const MAX_HISTORY = 20;
+
+  function pushHistory(items, source) {
+    const ts = new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+    sessionHistory.unshift({ items, source, ts });
+    if (sessionHistory.length > MAX_HISTORY) sessionHistory.pop();
+    renderHistory();
+  }
+
+  function renderHistory() {
+    const panel = document.getElementById("history-panel");
+    const list = document.getElementById("history-list");
+    if (!panel || !list) return;
+    if (sessionHistory.length === 0) { panel.style.display = "none"; return; }
+    panel.style.display = "";
+    list.innerHTML = "";
+    for (const entry of sessionHistory) {
+      const row = document.createElement("div");
+      row.className = "history-entry";
+      const meta = document.createElement("span");
+      meta.className = "history-meta";
+      meta.textContent = entry.source + " \u00b7 " + entry.ts;
+      row.appendChild(meta);
+      for (const item of entry.items) {
+        const q = document.createElement("div");
+        q.className = "history-quote";
+        q.textContent = item.text;
+        const r = document.createElement("div");
+        r.className = "history-ref";
+        r.textContent = item.ref;
+        row.appendChild(q);
+        row.appendChild(r);
+      }
+      list.appendChild(row);
+    }
+  }
+
+  // =====================================================================
+  // HELPERS
+  // =====================================================================
+
+  function pick(arr) {
+    return arr[Math.floor(Math.random() * arr.length)];
+  }
+
+  function weightedPick(items, weightFn) {
+    const total = items.reduce((s, item) => s + weightFn(item), 0);
+    let r = Math.random() * total;
+    for (const item of items) {
+      r -= weightFn(item);
+      if (r <= 0) return item;
+    }
+    return items[items.length - 1];
+  }
+
+  async function loadJSON(path) {
+    if (cache[path]) return cache[path];
+    const resp = await fetch(path);
+    if (!resp.ok) throw new Error(`Failed to load ${path}: ${resp.status}`);
+    const data = await resp.json();
+    cache[path] = data;
+    return data;
+  }
+
+  function toRoman(n) {
+    const vals = [[10,"X"],[9,"IX"],[5,"V"],[4,"IV"],[1,"I"]];
+    let result = "";
+    for (const [val, numeral] of vals) {
+      while (n >= val) { result += numeral; n -= val; }
+    }
+    return result;
+  }
+
+  function $(id) { return document.getElementById(id); }
+
+  function addOption(select, value, text) {
+    const opt = document.createElement("option");
+    opt.value = value;
+    opt.textContent = text;
+    select.appendChild(opt);
+  }
+
+  function flashButton(btn, msg, original) {
+    btn.textContent = msg;
+    setTimeout(() => { btn.textContent = original; }, 1500);
+  }
+
+  // =====================================================================
+  // TABS
+  // =====================================================================
+
+  document.querySelectorAll(".tab").forEach(tab => {
+    tab.addEventListener("click", () => {
+      document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+      document.querySelectorAll(".generator").forEach(g => g.classList.remove("active"));
+      tab.classList.add("active");
+      $("gen-" + tab.dataset.tab).classList.add("active");
+    });
+  });
+
+  // =====================================================================
+  // RENDER RESULTS
+  // =====================================================================
+
+  function renderResults(resultsDiv, copyAllBtn, items) {
+    resultsDiv.innerHTML = "";
+
+    for (const item of items) {
+      const row = document.createElement("div");
+      row.className = "result-item";
+
+      // Source badge (set on items when "One of Each" is used)
+      if (item.sourceLabel) {
+        const badge = document.createElement("span");
+        badge.className = "source-badge";
+        badge.textContent = item.sourceLabel;
+        row.appendChild(badge);
+      }
+
+      // Quote
+      const quote = document.createElement("div");
+      quote.className = "result-quote";
+      quote.textContent = item.text;
+      row.appendChild(quote);
+
+      // Track current expand level for copy button coordination
+      let currentLevel = -1;
+
+      // Expand
+      if (item.expand && item.expand.length > 0) {
+        const expandArea = document.createElement("div");
+        expandArea.className = "expand-area";
+
+        const expandContent = document.createElement("div");
+        expandContent.className = "expand-content";
+
+        const expandCopyBtn = document.createElement("button");
+        expandCopyBtn.className = "copy-btn expand-copy-btn";
+        expandCopyBtn.style.display = "none";
+        expandCopyBtn.style.marginTop = "4px";
+
+        const expandBtn = document.createElement("button");
+        expandBtn.className = "expand-btn";
+        expandBtn.textContent = "\u25b8 " + item.expand[0].label;
+
+        expandBtn.addEventListener("click", () => {
+          currentLevel++;
+          if (currentLevel < item.expand.length) {
+            expandContent.classList.add("visible");
+            expandContent.textContent = item.expand[currentLevel].text;
+            expandCopyBtn.style.display = "inline-block";
+            expandCopyBtn.textContent = "Copy " + item.expand[currentLevel].label.toLowerCase();
+            if (currentLevel + 1 < item.expand.length) {
+              expandBtn.textContent = "\u25b8 " + item.expand[currentLevel + 1].label;
+            } else {
+              expandBtn.textContent = "\u25be Collapse";
+            }
+          } else {
+            expandContent.classList.remove("visible");
+            expandCopyBtn.style.display = "none";
+            currentLevel = -1;
+            expandBtn.textContent = "\u25b8 " + item.expand[0].label;
+          }
+        });
+
+        expandCopyBtn.addEventListener("click", () => {
+          if (currentLevel >= 0 && currentLevel < item.expand.length) {
+            const text = item.expand[currentLevel].text + "\n" + item.ref;
+            navigator.clipboard.writeText(text);
+            const label = expandCopyBtn.textContent;
+            flashButton(expandCopyBtn, "Copied!", label);
+          }
+        });
+
+        expandArea.appendChild(expandBtn);
+        expandArea.appendChild(expandContent);
+        expandArea.appendChild(expandCopyBtn);
+        row.appendChild(expandArea);
+      }
+
+      // Attribution
+      const attrRow = document.createElement("div");
+      attrRow.className = "result-attr";
+
+      const ref = document.createElement("span");
+      ref.className = "result-ref";
+      ref.textContent = item.ref;
+      attrRow.appendChild(ref);
+
+      const copyBtn = document.createElement("button");
+      copyBtn.className = "copy-btn";
+      copyBtn.textContent = "Copy line";
+      const copyText = item.text + "\n" + item.ref;
+      copyBtn.addEventListener("click", () => {
+        navigator.clipboard.writeText(copyText);
+        flashButton(copyBtn, "Copied!", "Copy line");
+      });
+      attrRow.appendChild(copyBtn);
+
+      row.appendChild(attrRow);
+      resultsDiv.appendChild(row);
+    }
+
+    if (items.length > 1) {
+      copyAllBtn.classList.add("visible");
+      copyAllBtn.onclick = () => {
+        const all = items.map(it => it.text + "\n" + it.ref).join("\n\n");
+        navigator.clipboard.writeText(all);
+        flashButton(copyAllBtn, "Copied!", "Copy All");
+      };
+    } else {
+      copyAllBtn.classList.remove("visible");
+    }
+  }
+
+  // =====================================================================
+  // BIBLE
+  // =====================================================================
+
+  async function initBible() {
+    const index = await loadJSON(`${DATA_BASE}/Bible/index.json`);
+    const testamentSel = $("bible-testament");
+    const sectionSel = $("bible-section");
+    const bookSel = $("bible-book");
+
+    // Build reverse lookup: normalized filename stem -> section name
+    const fileToSection = {};
+    for (const [sectionName, files] of Object.entries(BIBLE_SECTIONS)) {
+      for (const f of files) fileToSection[f] = sectionName;
+    }
+
+    function getFileStem(filename) {
+      return filename.replace(".json", "").replace(/\s/g, "").toLowerCase();
+    }
+
+    function populateSections() {
+      const t = testamentSel.value;
+      sectionSel.innerHTML = "";
+      addOption(sectionSel, "", "Any Section");
+      const otSections = ["Law","History (OT)","Wisdom & Poetry","Major Prophets","Minor Prophets"];
+      const ntSections = ["Gospels","Acts","Epistles","Revelation"];
+      const show = t === "OT" ? otSections : t === "NT" ? ntSections : [...otSections, ...ntSections];
+      for (const s of show) addOption(sectionSel, s, s);
+      populateBooks();
+    }
+
+    function populateBooks() {
+      const t = testamentSel.value;
+      const section = sectionSel.value;
+      bookSel.innerHTML = "";
+      addOption(bookSel, "", "Any");
+      for (const b of index.books) {
+        if (t === "OT" && b.testament !== "OT") continue;
+        if (t === "NT" && b.testament !== "NT") continue;
+        if (section) {
+          const stem = getFileStem(b.file);
+          if (fileToSection[stem] !== section) continue;
+        }
+        addOption(bookSel, b.file, b.name);
+      }
+    }
+
+    populateSections();
+    testamentSel.addEventListener("change", populateSections);
+    sectionSel.addEventListener("change", populateBooks);
+
+    $("bible-gen").addEventListener("click", async () => {
+      const count = parseInt($("bible-count").value);
+      const testament = testamentSel.value;
+      const section = sectionSel.value;
+      const bookFile = bookSel.value;
+      try {
+        const items = [];
+        for (let i = 0; i < count; i++) {
+          let bookInfo;
+          if (bookFile) {
+            bookInfo = index.books.find(b => b.file === bookFile);
+          } else {
+            const candidates = index.books.filter(b => {
+              if (testament === "OT" && b.testament !== "OT") return false;
+              if (testament === "NT" && b.testament !== "NT") return false;
+              if (section) {
+                const stem = getFileStem(b.file);
+                if (fileToSection[stem] !== section) return false;
+              }
+              return true;
+            });
+            bookInfo = weightedPick(candidates, b => b.verses);
+          }
+          const bookData = await loadJSON(`${DATA_BASE}/Bible/${bookInfo.file}`);
+          const ch = weightedPick(bookData.chapters, c => c.verses.length);
+          const verse = pick(ch.verses);
+          items.push({
+            text: verse.t,
+            ref: `King James Bible, ${bookInfo.name} ${ch.chapter}:${verse.v}`
+          });
+        }
+        renderResults($("bible-results"), $("bible-copyall"), items);
+        pushHistory(items, "Bible");
+      } catch (e) {
+        $("bible-results").innerHTML = `<p class="error">Error: ${e.message}</p>`;
+      }
+    });
+  }
+
+  // =====================================================================
+  // SHAKESPEARE
+  // =====================================================================
+
+  async function initShakespeare() {
+    const index = await loadJSON(`${DATA_BASE}/Shakespeare/index.json`);
+    const typeSel = $("shk-type");
+    const genreSel = $("shk-genre");
+    const workSel = $("shk-work");
+
+    function updateGenreVisibility() {
+      const type = typeSel.value;
+      const genreRow = $("shk-genre-row");
+      if (type === "sonnet" || type === "poem") {
+        genreRow.style.display = "none";
+        genreSel.value = "";
+      } else {
+        genreRow.style.display = "";
+      }
+    }
+
+    function populateWorks() {
+      const type = typeSel.value;
+      const genre = genreSel.value;
+      workSel.innerHTML = "";
+      addOption(workSel, "", "Any");
+      for (const w of index.works) {
+        if (type !== "any" && w.type !== type) continue;
+        if (genre && w.genre !== genre) continue;
+        addOption(workSel, w.file, w.title);
+      }
+    }
+
+    populateWorks();
+    updateGenreVisibility();
+    typeSel.addEventListener("change", () => { updateGenreVisibility(); populateWorks(); });
+    genreSel.addEventListener("change", populateWorks);
+
+    $("shk-gen").addEventListener("click", async () => {
+      const count = parseInt($("shk-count").value);
+      const type = typeSel.value;
+      const genre = genreSel.value;
+      const workFile = workSel.value;
+      try {
+        const items = [];
+        for (let i = 0; i < count; i++) {
+          let workInfo;
+          if (workFile) {
+            workInfo = index.works.find(w => w.file === workFile);
+          } else {
+            const candidates = index.works.filter(w => {
+              if (type !== "any" && w.type !== type) return false;
+              if (genre && w.genre !== genre) return false;
+              return true;
+            });
+            workInfo = weightedPick(candidates, w => w.lines);
+          }
+          const workData = await loadJSON(`${DATA_BASE}/Shakespeare/${workInfo.file}`);
+          items.push(pickShakespeare(workData));
+        }
+        renderResults($("shk-results"), $("shk-copyall"), items);
+        pushHistory(items, "Shakespeare");
+      } catch (e) {
+        $("shk-results").innerHTML = `<p class="error">Error: ${e.message}</p>`;
+      }
+    });
+  }
+
+  function pickShakespeare(workData) {
+    const title = workData.title;
+
+    if (workData.type === "play") {
+      const scene = weightedPick(workData.scenes, s => s.speeches.length);
+      const speech = pick(scene.speeches);
+      const ref = `William Shakespeare, ${title}, ${toRoman(scene.act)}.${scene.scene} \u2014 ${speech.c}`;
+
+      if (speech.speech.length <= 200 || speech.lines.length <= 1) {
+        return { text: speech.speech, ref: ref };
+      } else {
+        const line = pick(speech.lines);
+        return {
+          text: line,
+          ref: ref,
+          expand: [{ label: "Full speech", text: ref + "\n\n" + speech.lines.join("\n") }]
+        };
+      }
+
+    } else if (workData.type === "sonnet") {
+      const sonnet = pick(workData.scenes);
+      const ref = `William Shakespeare, Sonnet ${sonnet.scene}`;
+      const line = pick(sonnet.lines);
+
+      let containingStanza = null;
+      for (const st of sonnet.stanzas) {
+        if (st.includes(line)) { containingStanza = st; break; }
+      }
+
+      const expand = [];
+      if (containingStanza && containingStanza.length < sonnet.lines.length) {
+        expand.push({ label: "Stanza", text: containingStanza.join("\n") });
+      }
+      expand.push({ label: "Full sonnet", text: ref + "\n\n" + sonnet.stanzas.map(s => s.join("\n")).join("\n\n") });
+
+      return { text: line, ref: ref, expand: expand };
+
+    } else {
+      const scene = pick(workData.scenes);
+      const allLines = scene.lines || [];
+      const allStanzas = scene.stanzas || [];
+      const line = pick(allLines);
+      const ref = `William Shakespeare, ${title}`;
+
+      let containingStanza = null;
+      for (const st of allStanzas) {
+        if (st.includes(line)) { containingStanza = st; break; }
+      }
+
+      const expand = [];
+      if (containingStanza && containingStanza.length < allLines.length) {
+        expand.push({ label: "Stanza", text: containingStanza.join("\n") });
+      }
+      if (allLines.length > 1) {
+        const body = allStanzas.length > 0 ? allStanzas.map(s => s.join("\n")).join("\n\n") : allLines.join("\n");
+        expand.push({ label: "Full passage", text: title + "\nby William Shakespeare\n\n" + body });
+      }
+
+      return { text: line, ref: ref, expand: expand };
+    }
+  }
+
+  // =====================================================================
+  // POETRY
+  // =====================================================================
+
+  async function initPoetry() {
+    const index = await loadJSON(`${DATA_BASE}/Poetry/index.json`);
+    const poetSel = $("poetry-poet");
+
+    addOption(poetSel, "", "Any Poet");
+    for (const a of index.authors.sort((a, b) => a.name.localeCompare(b.name))) {
+      addOption(poetSel, a.file, `${a.name} (${a.poems})`);
+    }
+
+    $("poetry-gen").addEventListener("click", async () => {
+      const count = parseInt($("poetry-count").value);
+      const poetFile = poetSel.value;
+      try {
+        const items = [];
+        for (let i = 0; i < count; i++) {
+          let authorInfo;
+          if (poetFile) {
+            authorInfo = index.authors.find(a => a.file === poetFile);
+          } else {
+            authorInfo = weightedPick(index.authors, a => a.lines);
+          }
+          const authorData = await loadJSON(`${DATA_BASE}/Poetry/${authorInfo.file}`);
+          const poem = pick(authorData.poems);
+          if (!poem.lines || poem.lines.length === 0) continue;
+
+          const line = pick(poem.lines);
+          const ref = `\u2014 ${authorData.author}, \u201c${poem.title}\u201d`;
+
+          let containingStanza = null;
+          for (const st of (poem.stanzas || [])) {
+            if (st.includes(line)) { containingStanza = st; break; }
+          }
+
+          const expand = [];
+          if (containingStanza && containingStanza.length < poem.lines.length) {
+            expand.push({ label: "Stanza", text: containingStanza.join("\n") });
+          }
+          if (poem.lines.length > 1) {
+            const body = (poem.stanzas && poem.stanzas.length > 0) ? poem.stanzas.map(s => s.join("\n")).join("\n\n") : poem.lines.join("\n");
+            expand.push({ label: "Full poem", text: poem.title + "\nby " + authorData.author + "\n\n" + body });
+          }
+
+          items.push({ text: line, ref: ref, expand: expand });
+        }
+        renderResults($("poetry-results"), $("poetry-copyall"), items);
+        pushHistory(items, "Poetry");
+      } catch (e) {
+        $("poetry-results").innerHTML = `<p class="error">Error: ${e.message}</p>`;
+      }
+    });
+  }
+
+  // =====================================================================
+  // CLASSICS
+  // =====================================================================
+
+  async function initClassics() {
+    const index = await loadJSON(`${DATA_BASE}/Classics/index.json`);
+    const typeSel = $("cls-type");
+    const authorSel = $("cls-author");
+    const workSel = $("cls-work");
+
+    function populateAuthors() {
+      const type = typeSel.value;
+      const authors = new Set();
+      for (const w of index.works) {
+        if (type !== "any" && w.type !== type) continue;
+        authors.add(w.author);
+      }
+      authorSel.innerHTML = "";
+      addOption(authorSel, "", "Any");
+      for (const a of [...authors].sort()) addOption(authorSel, a, a);
+      populateWorks();
+    }
+
+    function populateWorks() {
+      const type = typeSel.value;
+      const author = authorSel.value;
+      workSel.innerHTML = "";
+      addOption(workSel, "", "Any");
+      for (const w of index.works) {
+        if (type !== "any" && w.type !== type) continue;
+        if (author && w.author !== author) continue;
+        addOption(workSel, w.file, `${w.title} (${w.author})`);
+      }
+    }
+
+    populateAuthors();
+    typeSel.addEventListener("change", populateAuthors);
+    authorSel.addEventListener("change", populateWorks);
+
+    $("cls-gen").addEventListener("click", async () => {
+      const count = parseInt($("cls-count").value);
+      const type = typeSel.value;
+      const author = authorSel.value;
+      const workFile = workSel.value;
+      try {
+        const items = [];
+        for (let i = 0; i < count; i++) {
+          let workInfo;
+          if (workFile) {
+            workInfo = index.works.find(w => w.file === workFile);
+          } else {
+            const candidates = index.works.filter(w => {
+              if (type !== "any" && w.type !== type) return false;
+              if (author && w.author !== author) return false;
+              return true;
+            });
+            workInfo = weightedPick(candidates, w => w.lines);
+          }
+          const workData = await loadJSON(`${DATA_BASE}/Classics/${workInfo.file}`);
+          items.push(pickClassics(workData));
+        }
+        renderResults($("cls-results"), $("cls-copyall"), items);
+        pushHistory(items, "Classics");
+      } catch (e) {
+        $("cls-results").innerHTML = `<p class="error">Error: ${e.message}</p>`;
+      }
+    });
+  }
+
+  function pickClassics(workData) {
+    const title = workData.title;
+    const author = workData.author;
+    const section = weightedPick(workData.sections, s =>
+      s.speeches ? s.speeches.reduce((n, sp) => n + sp.lines.length, 0) : (s.lines ? s.lines.length : 0)
+    );
+
+    if (workData.type === "drama" && section.speeches) {
+      const speech = pick(section.speeches);
+      const ref = `${author}, ${title} \u2014 ${speech.speaker}`;
+
+      if (speech.lines.length <= 1 || speech.lines.join(" ").length <= 200) {
+        return { text: speech.lines.join("\n"), ref: ref };
+      } else {
+        const line = pick(speech.lines);
+        return {
+          text: line,
+          ref: ref,
+          expand: [{ label: "Full speech", text: ref + "\n\n" + speech.lines.join("\n") }]
+        };
+      }
+
+    } else if (workData.type === "verse") {
+      const allLines = section.lines || [];
+      const allStanzas = section.stanzas || [];
+      const line = pick(allLines);
+      const ref = `${author}, ${title}` + (section.title ? ` \u2014 ${section.title}` : "");
+
+      let containingStanza = null;
+      for (const st of allStanzas) {
+        if (st.includes(line)) { containingStanza = st; break; }
+      }
+
+      const expand = [];
+      if (containingStanza && containingStanza.length < allLines.length) {
+        expand.push({ label: "Stanza", text: containingStanza.join("\n") });
+      }
+      if (allLines.length > 1) {
+        const body = allStanzas.length > 0 ? allStanzas.map(s => s.join("\n")).join("\n\n") : allLines.join("\n");
+        expand.push({ label: "Full passage", text: title + " \u2014 " + (section.title || "") + "\nby " + author + "\n\n" + body });
+      }
+
+      return { text: line, ref: ref, expand: expand };
+
+    } else {
+      const allLines = section.lines || [];
+      const line = pick(allLines);
+      const ref = `${author}, ${title}` + (section.title ? ` \u2014 ${section.title}` : "");
+      return { text: line, ref: ref };
+    }
+  }
+
+  // =====================================================================
+  // MOTIFS
+  // =====================================================================
+
+  async function initMotifs() {
+    const index = await loadJSON(`${DATA_BASE}/Motifs/index.json`);
+    const catSel = $("motif-cat");
+
+    addOption(catSel, "", "Any Category");
+    for (const cat of index.categories) {
+      addOption(catSel, cat.file, `${cat.letter}. ${cat.name} (${cat.count})`);
+    }
+
+    $("motif-gen").addEventListener("click", async () => {
+      const count = parseInt($("motif-count").value);
+      const catFile = catSel.value;
+      try {
+        const items = [];
+        for (let i = 0; i < count; i++) {
+          let catInfo;
+          if (catFile) {
+            catInfo = index.categories.find(c => c.file === catFile);
+          } else {
+            catInfo = weightedPick(index.categories, c => c.count);
+          }
+          const catData = await loadJSON(`${DATA_BASE}/Motifs/${catInfo.file}`);
+          items.push(pickMotif(catData));
+        }
+        renderResults($("motif-results"), $("motif-copyall"), items);
+        pushHistory(items, "Motif-Index");
+      } catch (e) {
+        $("motif-results").innerHTML = `<p class="error">Error: ${e.message}</p>`;
+      }
+    });
+  }
+
+  function pickMotif(catData) {
+    const sg = weightedPick(catData.subgroups, s => s.motifs.length);
+    const motif = pick(sg.motifs);
+    const ref = `Stith Thompson, Motif-Index \u2014 ${motif.id}`;
+
+    const expand = [];
+    const details = [];
+    if (motif.detail) details.push(motif.detail);
+    if (motif.locations && motif.locations.length > 0) {
+      details.push("Locations: " + motif.locations.join(", "));
+    }
+    if (motif.refs) details.push("References: " + motif.refs);
+
+    if (details.length > 0) {
+      expand.push({ label: "Details", text: details.join("\n\n") });
+    }
+
+    return {
+      text: motif.description,
+      ref: ref,
+      expand: expand.length > 0 ? expand : undefined
+    };
+  }
+
+  // =====================================================================
+  // FOLK (Aesop + Norse + Grimm)
+  // =====================================================================
+
+  async function initFolk() {
+    const index = await loadJSON(`${DATA_BASE}/Folk/index.json`);
+    const collectionSel = $("folk-collection");
+    const workSel = $("folk-work");
+
+    addOption(collectionSel, "", "Any Collection");
+    for (const col of index.collections) {
+      addOption(collectionSel, col.id, `${col.name} (${col.count})`);
+    }
+
+    function populateWorks() {
+      const colId = collectionSel.value;
+      workSel.innerHTML = "";
+      addOption(workSel, "", "Any");
+      const col = index.collections.find(c => c.id === colId);
+      if (col && col.works) {
+        for (const w of col.works) {
+          addOption(workSel, col.id + "/" + w.file, w.title);
+        }
+      }
+    }
+
+    collectionSel.addEventListener("change", populateWorks);
+
+    $("folk-gen").addEventListener("click", async () => {
+      const count = parseInt($("folk-count").value);
+      const workPath = workSel.value;
+      const colId = collectionSel.value;
+      try {
+        const items = [];
+        for (let i = 0; i < count; i++) {
+          let chosenFile;
+          let chosenCol;
+          if (workPath) {
+            chosenFile = `${DATA_BASE}/Folk/${workPath}`;
+            chosenCol = index.collections.find(c => workPath.startsWith(c.id + "/"));
+          } else {
+            chosenCol = colId
+              ? index.collections.find(c => c.id === colId)
+              : weightedPick(index.collections, c => c.count);
+            const w = pick(chosenCol.works);
+            chosenFile = `${DATA_BASE}/Folk/${chosenCol.id}/${w.file}`;
+          }
+          const workData = await loadJSON(chosenFile);
+          items.push(pickFolk(workData));
+        }
+        renderResults($("folk-results"), $("folk-copyall"), items);
+        pushHistory(items, "Folk");
+      } catch (e) {
+        $("folk-results").innerHTML = `<p class="error">Error: ${e.message}</p>`;
+      }
+    });
+  }
+
+  function pickFolk(workData) {
+    const title = workData.title;
+    const collection = workData.collection;
+
+    if (workData.type === "verse") {
+      // Norse Eddic poems — pick a stanza, return a line
+      const allStanzas = workData.stanzas || [];
+      if (!allStanzas.length) return { text: title, ref: collection };
+      const stanza = pick(allStanzas);
+      const line = pick(stanza);
+      const ref = `${collection}, \u201c${title}\u201d`;
+      const expand = [];
+      if (stanza.length > 1) {
+        expand.push({ label: "Full stanza", text: stanza.join("\n") });
+      }
+      expand.push({ label: "Full poem", text: title + "\n" + collection + "\n\n" + allStanzas.map(s => s.join("\n")).join("\n\n") });
+      return { text: line, ref, expand };
+    } else {
+      // Prose fable or tale — pick a sentence
+      const allLines = workData.lines || [];
+      if (!allLines.length) return { text: title, ref: collection };
+      const line = pick(allLines);
+      const ref = `${collection}, \u201c${title}\u201d`;
+      const expand = [];
+      if (workData.moral) {
+        expand.push({ label: "Moral", text: workData.moral });
+      }
+      expand.push({ label: "Full text", text: title + "\n" + collection + "\n\n" + allLines.join(" ") + (workData.moral ? "\n\nMoral: " + workData.moral : "") });
+      return { text: line, ref, expand };
+    }
+  }
+
+  // =====================================================================
+  // STANDALONE PICK FUNCTIONS (for quote hero)
+  // =====================================================================
+
+  async function pickRandomBible() {
+    const index = await loadJSON(`${DATA_BASE}/Bible/index.json`);
+    const bookInfo = weightedPick(index.books, b => b.verses);
+    const bookData = await loadJSON(`${DATA_BASE}/Bible/${bookInfo.file}`);
+    const ch = weightedPick(bookData.chapters, c => c.verses.length);
+    const verse = pick(ch.verses);
+    return {
+      text: verse.t,
+      ref: `King James Bible, ${bookInfo.name} ${ch.chapter}:${verse.v}`,
+      sourceLabel: "Bible"
+    };
+  }
+
+  async function pickRandomShakespeare() {
+    const index = await loadJSON(`${DATA_BASE}/Shakespeare/index.json`);
+    const workInfo = weightedPick(index.works, w => w.lines);
+    const workData = await loadJSON(`${DATA_BASE}/Shakespeare/${workInfo.file}`);
+    return { ...pickShakespeare(workData), sourceLabel: "Shakespeare" };
+  }
+
+  async function pickRandomPoetry() {
+    const index = await loadJSON(`${DATA_BASE}/Poetry/index.json`);
+    const authorInfo = weightedPick(index.authors, a => a.lines);
+    const authorData = await loadJSON(`${DATA_BASE}/Poetry/${authorInfo.file}`);
+    const poem = pick(authorData.poems);
+    if (!poem.lines || poem.lines.length === 0) return pickRandomPoetry();
+
+    const line = pick(poem.lines);
+    const ref = `\u2014 ${authorData.author}, \u201c${poem.title}\u201d`;
+
+    let containingStanza = null;
+    for (const st of (poem.stanzas || [])) {
+      if (st.includes(line)) { containingStanza = st; break; }
+    }
+
+    const expand = [];
+    if (containingStanza && containingStanza.length < poem.lines.length) {
+      expand.push({ label: "Stanza", text: containingStanza.join("\n") });
+    }
+    if (poem.lines.length > 1) {
+      const body = (poem.stanzas && poem.stanzas.length > 0) ? poem.stanzas.map(s => s.join("\n")).join("\n\n") : poem.lines.join("\n");
+      expand.push({ label: "Full poem", text: poem.title + "\nby " + authorData.author + "\n\n" + body });
+    }
+
+    return { text: line, ref: ref, expand: expand, sourceLabel: "Poetry" };
+  }
+
+  async function pickRandomClassics() {
+    const index = await loadJSON(`${DATA_BASE}/Classics/index.json`);
+    const workInfo = weightedPick(index.works, w => w.lines);
+    const workData = await loadJSON(`${DATA_BASE}/Classics/${workInfo.file}`);
+    return { ...pickClassics(workData), sourceLabel: "Classics" };
+  }
+
+  async function pickRandomMotif() {
+    const index = await loadJSON(`${DATA_BASE}/Motifs/index.json`);
+    const catInfo = weightedPick(index.categories, c => c.count);
+    const catData = await loadJSON(`${DATA_BASE}/Motifs/${catInfo.file}`);
+    return { ...pickMotif(catData), sourceLabel: "Motif-Index" };
+  }
+
+  async function pickRandomFolk() {
+    const index = await loadJSON(`${DATA_BASE}/Folk/index.json`);
+    const col = weightedPick(index.collections, c => c.count);
+    const w = pick(col.works);
+    const workData = await loadJSON(`${DATA_BASE}/Folk/${col.id}/${w.file}`);
+    return { ...pickFolk(workData), sourceLabel: "Folk" };
+  }
+
+  // =====================================================================
+  // QUOTE HERO — random quote + one of each
+  // =====================================================================
+
+  async function loadRandomQuote() {
+    const resultsDiv = $("quote-results");
+    const copyAllBtn = $("quote-copyall");
+    try {
+      const sources = ["bible", "shakespeare", "poetry", "classics", "motifs", "folk"];
+      const source = pick(sources);
+      let item;
+      if (source === "bible") item = await pickRandomBible();
+      else if (source === "shakespeare") item = await pickRandomShakespeare();
+      else if (source === "poetry") item = await pickRandomPoetry();
+      else if (source === "classics") item = await pickRandomClassics();
+      else if (source === "folk") item = await pickRandomFolk();
+      else item = await pickRandomMotif();
+      renderResults(resultsDiv, copyAllBtn, [item]);
+    } catch (e) {
+      resultsDiv.innerHTML = `<p class="error">Error: ${e.message}</p>`;
+    }
+  }
+
+  async function loadOneOfEach() {
+    const resultsDiv = $("quote-results");
+    const copyAllBtn = $("quote-copyall");
+    try {
+      const [bible, shk, poetry, classics, motif, folk] = await Promise.all([
+        pickRandomBible(),
+        pickRandomShakespeare(),
+        pickRandomPoetry(),
+        pickRandomClassics(),
+        pickRandomMotif(),
+        pickRandomFolk()
+      ]);
+      renderResults(resultsDiv, copyAllBtn, [bible, shk, poetry, classics, motif, folk]);
+    } catch (e) {
+      resultsDiv.innerHTML = `<p class="error">Error: ${e.message}</p>`;
+    }
+  }
+
+  // =====================================================================
+  // INIT
+  // =====================================================================
+
+  initBible();
+  initShakespeare();
+  initPoetry();
+  initClassics();
+  initMotifs();
+  initFolk();
+
+  $("quote-reload").addEventListener("click", loadRandomQuote);
+  $("quote-each").addEventListener("click", loadOneOfEach);
+  loadRandomQuote();
+})();

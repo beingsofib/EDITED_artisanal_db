@@ -198,7 +198,7 @@ function getMonsterLink(combatant) {
     
     // Use the htmlLink from monster_combat_stats.js if available
     if (foundMonster && foundMonster.htmlLink) {
-        const url = `../../monsters/${foundMonster.htmlLink.replace('./html/', 'html/')}`;
+        const url = `../../../monsters/${foundMonster.htmlLink.replace('./html/', 'html/')}`;
         return `<button onclick="window.open('${url}', '_blank')" title="View monster stats" class="hp-button" style="position: absolute; right: 45px;">stats</button>`;
     }
     

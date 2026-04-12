@@ -1,0 +1,7511 @@
+# D. Magic
+
+> Motif-Index of Folk-Literature · 7169 motifs
+
+Back to [Motif-Index Generator](../../Motifs.md)
+
+---
+
+
+## Transformation (general)
+
+- **D0** — Transformation (general).
+- **D5** — Enchanted person.
+- **D5.1** — Enchanted person cannot move.
+- **D5.1.1** — Stepson cursed to stick in grave mound till pretty girl wants to substitute for him.
+- **D5.2** — Enchanted person on bier.
+- **D6** — Enchanted castle (building).
+- **D7** — Enchanted valley.
+- **D10** — Transformation to person of different sex.
+- **D10.1** — Ogre has unique powers of exchange of sex with human being.
+- **D10.2** — Change of sex after crossing water.
+- **D11** — Transformation woman to man.
+- **D11.1** — Transformation: ogress to man.
+- **D11.2** — Woman transforms herself into a bird and lends her female organ to a boy.
+  *He fails to return it and she becomes a man when she resumes human form.*
+- **D12** — Transformation: man to woman.
+- **D12.1** — Transformation: god to giantess.
+- **D20** — Transformation to person of different social class.
+- **D22** — Transformation: common man to exalted personage.
+- **D22.1** — Transformation: common man to grand officer.
+- **D22.2** — Transformation: man of low caste takes on prince's appearance, and transforms prince to take on his.
+- **D23** — Transformation to artisan.
+- **D23.1** — Transformation into a boatman.
+- **D24** — Transformation to humble person.
+- **D24.1** — Transformation: king to menial.
+- **D24.2** — Transformation: king and queen to peasant and wife.
+- **D24.3** — Transformation into a swineherd.
+- **D24.4** — Transformation: rich man to tramp.
+  *Smears hands and face.*
+- **D25** — Transformation layman to professional man.
+- **D25.1** — Transformation to doctor.
+- **D25.2** — Transformation into a cleric (monk).
+- **D27** — Transformation into leper.
+- **D28** — Transformation into giant.
+- **D29** — Transformation to a person of different social class miscellaneous.
+- **D29.1** — Transformation into a churl (bachlach).
+- **D29.2** — Transformation into juggler.
+- **D30** — Transformation to person of different race.
+- **D31** — Transformation: white person to negro.
+- **D40** — Transformation to likeness of another person.
+- **D40.1** — Transformation to likeness of person whose shield one carries.
+- **D40.2** — Transformation to likeness of another woman.
+- **D40.2.1** — Transformation to resemble man's mistress so as to be able to kill him.
+- **D41** — Humble man in guise of exalted.
+- **D41.1** — Transformation to likeness of ruler.
+  *Man so uses the last of three wishes granted to him.*
+- **D42** — God in guise of mortal.
+- **D42.1** — God transformed to giant with three heads and six arms.
+- **D42.2** — Spirit takes shape of man.
+- **D43** — Transformation: mortal to guise of deity.
+- **D43.1** — Animal transformed to a god.
+- **D43.1.1** — Dog turned into a god.
+- **D44** — Mortal in guise of spirit.
+- **D44.1** — Transformation: man to angel.
+- **D45** — Persons exchange forms.
+- **D45.1** — Kings exchange forms and kingdoms for a year.
+- **D45.2** — Gods exchange forms.
+- **D45.3** — Two friends exchange forms.
+- **D45.4** — Girl exchanges form with sorceress in order to visit her brother and get a son by him.
+- **D47** — Transformation to likeness of monster.
+- **D47.1** — Mortal temporarily takes shape of demon.
+- **D47.2** — Transformation: normal men to ogres.
+  *Become ravenous.*
+- **D47.3** — Transformation: princess to ogress.
+- **D49** — Transformation to likeness of another person miscellaneous.
+- **D49.1** — Dwarf assumes human form.
+- **D49.2** — Spirit takes any form.
+- **D49.3** — Fairy transforms herself into a monstrous being with head of an ape, thin legs, sharp claws, fish scales and bristles.
+- **D50** — Magic changes in man himself.
+- **D52** — Magic change to different appearance.
+- **D52.1** — Transformation: man becomes hideous.
+- **D52.2** — Ugly man becomes handsome.
+- **D53** — Transformation in health.
+- **D53.1** — Transformation to sick man.
+- **D55** — Magic change of person's size.
+- **D55.1** — Person becomes magically larger.
+- **D55.1.1** — Man magically stretches self to overcome cliff.
+- **D55.1.1.1** — Man magically stretches self to overcome opponent in battle.
+- **D55.1.1.2** — Man magically stretches self to sink tent pole.
+- **D55.1.2** — Transformation: person to giant.
+- **D55.1.3** — Pygmy turns into a giant.
+- **D55.2** — Person becomes magically smaller.
+- **D55.2.1** — Dwarf contracts self to enter nostrils of cannibals.
+- **D55.2.2** — Devil (troll) makes self small.
+- **D55.2.3** — Giant changes to normal size.
+- **D55.2.4** — Ten serving-women carried in bottle.
+  *They change size at will.*
+- **D55.2.5** — Transformation: adult to child.
+- **D55.2.6** — Hero reduces in size small enough to get into mango seed.
+- **D56** — Magic change in person's age.
+- **D56.1** — Transformation to older person.
+- **D57** — Change in person's color.
+- **D57.1** — Man transformed to green knight.
+- **D57.2** — Black man's color altered to white.
+- **D57.3** — Hair and skin turn to color of gold.
+- **D57.4** — Transformation to black man.
+- **D57.5** — Transformation to person of rusty color.
+- **D61** — Magic appearance of human limbs.
+  *A boy has no hands and legs; his abandoned sister successfully commands them to appear or disappear.*
+- **D90** — Transformation: man to different man miscellaneous.
+- **D91** — Transformation: normal man to cannibal.
+- **D92** — Transformation: wild man to normal.
+- **D93** — Transformation: prince to old man.
+- **D94** — Transformation: man to ogre.
+- **D96** — Transformation: normal man to ascetic.
+- **D97** — Transformation: man to witch.
+- **D98** — Transformation: children into horsemen.
+
+## Transformation: man to animal
+
+- **D100** — Transformation: man to animal.
+- **D101** — Transformation: god to animal.
+- **D102** — Transformation: devil to animal.
+- **D102.1** — Transformation: demon to animal.
+- **D103** — Assembly or group transformed to animals.
+- **D110** — Transformation: man to wild beast (mammal).
+- **D112** — Transformation: man to feline animal (wild).
+- **D112.1** — Transformation: man to lion.
+- **D112.1.1** — Village of lion-men.
+- **D112.2** — Transformation: man to tiger.
+- **D112.2.1** — Wer-tiger.
+  *Like werwolf.*
+- **D112.2.1.1** — When a wer-tiger is injured, similar marks appear on the human body of man who has possessed it.
+- **D112.2.1.2** — Village of tiger-men.
+- **D112.3** — Transformation: man to lynx.
+- **D112.4** — Transformation: man to leopard.
+- **D112.5** — Transformation: man to buffalo.
+- **D112.6** — Transformation: man to jaguar.
+- **D113** — Transformation: man to canine animal (wild).
+- **D113.1** — Transformation: man to wolf.
+- **D113.1.1** — Werwolf.
+  *A man changes periodically into the form of a wolf. He is usually malevolent when in wolf form.*
+- **D113.1.2** — God (goddess) assumes form of a wolf.
+- **D113.2** — Transformation: man to bear.
+- **D113.2.1** — Wer-bear.
+  *A bear-man like the werwolf.*
+- **D113.3** — Transformation man to fox.
+- **D113.4** — Transformation: man to jackal.
+- **D113.4.1** — Transformation: deity to jackal.
+- **D113.5** — Transformation: man to hyena.
+- **D114** — Transformation: man to ungulate (wild).
+- **D114.1** — Transformation: man to bovine animal (wild).
+- **D114.1.1** — Transformation: man to deer.
+- **D114.1.1.1** — Transformation: girl to deer (fawn) (by druid).
+- **D114.1.1.2** — Transformation: woman to doe.
+- **D114.1.2** — Transformation: man to eland.
+- **D114.1.3** — Transformation: man to hartebeest.
+- **D114.1.4** — Transformation: man to buffalo.
+- **D114.1.5** — Transformation: man to musk ox.
+- **D114.1.6** — Transformation: man to caribou.
+- **D114.1.7** — Transformation: man to moose.
+- **D114.2** — Transformation: man to elephant.
+- **D114.3** — Transformation: man to swine (wild).
+- **D114.3.1** — Transformation: man to peccary.
+- **D114.3.2** — Transformation: man to boar.
+- **D114.3.2.1** — Transformation: god to boar.
+- **D114.4** — Transformation: man to wild goat.
+- **D115** — Transformation: man to equine animal (wild).
+- **D115.1** — Transformation: man to zebra.
+- **D117** — Transformation: man to rodent.
+- **D117.1** — Transformation: man to mouse.
+- **D117.2** — Transformation: man to hare (rabbit).
+- **D117.3** — Transformation: man to rat.
+- **D117.3.1** — Transformation: man to bandicoot.
+- **D117.4** — Transformation: man to marmot.
+- **D118** — Transformation: man to simian.
+- **D118.1** — Transformation: man to ape.
+- **D118.2** — Transformation: man (woman) to monkey.
+- **D124** — Transformation: man to wild animal mustelidae.
+- **D124.1** — Transformation: man to weasel.
+- **D124.2** — Transformation: man to ermine.
+- **D124.3** — Transformation: man to marten.
+- **D124.4** — Transformation: man to badger.
+- **D127** — Transformation: man to sea mammal.
+- **D127.1** — Transformation: man to seal.
+- **D127.2** — Transformation: man to otter.
+- **D127.3** — Transformation: man to whale.
+- **D127.4** — Transformation: man to walrus.
+- **D127.5** — Transformation: man to dolphin.
+- **D127.6** — Transformation: man to porpoise.
+- **D130** — Transformation: man to domestic beast (mammal).
+- **D131** — Transformation: man to horse.
+- **D131.1** — Transformation: merman to horse.
+- **D132** — Transformation: man to ass (mule, jennet, etc.).
+- **D132.1** — Transformation: man to ass.
+- **D132.2** — Transformation: man to mule.
+- **D133** — Transformation to cow (bull, calf, etc.).
+- **D133.1** — Transformation to cow.
+- **D133.1.1** — Nisser in form of cows.
+- **D133.2** — Transformation: man to bull.
+- **D133.3** — Transformation: man to ox.
+- **D133.4** — Transformation: man to calf.
+- **D133.4.1** — God assumes form of calf.
+- **D133.5** — Transformation: man to steer (bullock).
+- **D134** — Transformation: man to goat (he-goat, she-goat, kid etc.).
+- **D134.1** — Transformation: man to he-goat.
+- **D134.2** — Transformation: man to she-goat.
+- **D134.3** — Transformation: man to kid.
+- **D134.4** — Transformations supernatural being into a goat.
+- **D135** — Transformation: man to sheep.
+- **D135.1** — Transformation: man to lamb.
+- **D136** — Transformation: man to swine.
+- **D141** — Transformation: man to dog.
+- **D141.0.1** — Kynanthropy.
+- **D141.0.2** — Men and women transformed to dogs by druidic spell.
+- **D141.1** — Transformation: woman to bitch.
+- **D141.1.1** — Transformation: girl to puppy.
+- **D142** — Transformation: man to cat.
+- **D142.0.1** — Transformation: woman to cat.
+- **D142.1** — Devil as cat.
+- **D142.2** — God assumes form of a cat.
+- **D150** — Transformation: man to bird.
+- **D151** — Transformation: man to bird passeriform.
+- **D151.1** — Transformation: man to swallow.
+- **D151.2** — Transformation: man to finch.
+- **D151.2.1** — Transformation into snowbunting.
+- **D151.3** — Transformation: man to nightingale.
+- **D151.4** — Transformation: man to crow.
+- **D151.5** — Transformation: man to raven.
+- **D151.6** — Transformation: man to titmouse.
+- **D151.7** — Transformation: man to blackbird.
+- **D151.8** — Transformation: man to sparrow.
+- **D151.9** — Transformation: man to magpie.
+- **D152** — Transformation: man to bird falconiform.
+- **D152.1** — Transformation: man to hawk.
+- **D152.1.1** — Transformation: god to hawk.
+- **D152.2** — Transformation: man to eagle.
+- **D152.3** — Transformation: man to vulture.
+- **D152.4** — Transformation: girl to falcon.
+- **D152.4.1** — Odin as falcon.
+- **D152.5** — Transformation: man to osprey.
+- **D152.6** — Transformation: man to kite.
+- **D153** — Transformation: man to bird coraciiform.
+- **D153.1** — Transformation: man to woodpecker.
+- **D153.2** — Transformation: man to owl.
+- **D153.3** — Transformation: man to hornbill.
+- **D154** — Transformation: man to bird charadriiform.
+- **D154.1** — Transformation: man to dove.
+- **D154.1.0.1** — Transformation: god to dove.
+- **D154.2** — Transformation: man to pigeon.
+- **D154.3** — Transformation: man to snipe.
+- **D154.4** — Transformation: man to gull.
+- **D155** — Transformation: man to bird ciconiiform.
+- **D155.1** — Transformation: man to stork.
+- **D156** — Transformation: man to cuckoo.
+- **D157** — Transformation: man to parrot.
+- **D161** — Transformation: man to bird of anatidae group (duck).
+- **D161.1** — Transformation: man to swan.
+- **D161.2** — Transformation: man to goose.
+- **D161.2.1** — Transformation: man to gander.
+- **D161.3** — Transformation: man to duck.
+- **D162** — Transformation: man to crane.
+- **D166** — Transformation: man to gallinaceous bird.
+- **D166.1** — Transformation: man to chicken (cock, hen).
+- **D166.1.1** — Transformation: man to cock.
+- **D166.2** — Transformation: man to peacock.
+- **D166.3** — Transformation: man to turkey.
+- **D166.4** — Transformation: person to ptarmigan.
+- **D169** — Transformation: man to bird miscellaneous.
+- **D169.1** — Transformation: woman to waterfowl.
+- **D169.2** — Transformation: magician to paddy-bird.
+- **D169.3** — Transformation: man to toucan.
+- **D169.4** — Transformation: man to cassowary.
+- **D170** — Transformation: man to fish.
+- **D171** — Transformation: man to carp.
+- **D173** — Transformation: man to eel.
+- **D173.1** — God assumes form of an eel.
+- **D174** — Transformation: man to cuttlefish.
+- **D175** — Transformation: man to crab.
+- **D175.1** — Transformation: god to crab.
+- **D176** — Transformation: man to salmon.
+- **D177** — Transformation: man (woman) to catfish.
+- **D178** — Transformation: man to shark.
+- **D179** — Transformation: man to fish miscellaneous.
+- **D179.1** — Transformation: man to trout.
+- **D179.2** — Transformation: man to pike.
+- **D179.3** — Transformation: man to sardine.
+- **D179.4** — Transformation: man to shrimp.
+- **D179.5** — Transformation: man to sword-fish.
+- **D180** — Transformation: man to insect.
+- **D181** — Transformation: man to spider.
+- **D182** — Transformation: man to hymoptera.
+- **D182.1** — Transformation: man to bee.
+- **D182.1.1** — Transformation: man to bumblebee.
+- **D182.2** — Transformation: man to ant.
+- **D183** — Transformation: man to orthoptera.
+- **D183.1** — Transformation: man to cicada.
+- **D183.2** — Transformation: man to cricket.
+- **D184** — Transformation: man to coleoptera.
+- **D184.1** — Transformation: man to beetle.
+- **D184.2** — Transformation: man to firefly.
+- **D185** — Transformation: man to diptera.
+- **D185.1** — Transformation: man to fly.
+- **D185.1.1** — Transformation: woman (fairy) to fly.
+- **D185.2** — Transformation: man to flea.
+- **D185.3** — Transformation: man to gnat.
+- **D186** — Transformation: man to lepidoptera.
+- **D186.1** — Transformation: man to butterfly.
+- **D190** — Transformation: man to reptiles and miscellaneous animals.
+- **D191** — Transformation: man to serpent (snake).
+- **D191.1** — Lucifer as serpent.
+- **D192** — Transformation: man to worm (often==snake).
+- **D192.0.1** — Transformation: demon (in human form) to worm.
+- **D192.1** — Transformation: man to caterpillar.
+- **D192.2** — Transformation: man to centipede.
+- **D193** — Transformation: man to tortoise (turtle).
+- **D194** — Transformation: man to crocodile.
+- **D194.0.1** — Wer-crocodile.
+- **D194.1** — Transformation: man to alligator.
+- **D195** — Transformation: man to frog.
+- **D196** — Transformation: man to toad.
+- **D197** — Transformation: man to lizard.
+- **D197.1** — Transformation: man to iguana.
+- **D198** — Transformation: man to snail.
+- **D199** — Transformation: man to other animals than those already treated.
+- **D199.1** — Transformation: man to centaur.
+- **D199.2** — Transformation: man to dragon.
+- **D199.2.1** — Magician fights as dragon.
+- **D199.3** — Transformation: woman to siren.
+
+## Transformation: man to object
+
+- **D200** — Transformation: man to object.
+- **D210** — Transformation: man to vegetable form.
+- **D210.1** — Plants as transformed bodies of gods.
+- **D211** — Transformation: man to fruit.
+- **D211.1** — Transformation: man (woman) to orange.
+- **D211.2** — Transformation: man (woman) to pomegranate.
+- **D211.3** — Transformation: woman (man) to belfruit.
+- **D211.4** — Transformation: man (woman) to mango.
+- **D211.5** — Transformation: man to apple.
+- **D211.6** — Transformation: man to peach.
+- **D212** — Transformation: man (woman) to flower.
+- **D212.1** — Transformation: man (woman) to carnation.
+- **D212.2** — Transformation: man (woman) to rose.
+- **D212.3** — Transformation: woman to lotus.
+- **D213** — Transformation: man to plant.
+- **D213.1** — Transformation: man to cockscomb plant.
+- **D213.2** — Transformation: man to rosebush.
+- **D213.3** — Transformation: man to turmeric plant.
+- **D213.4** — Transformation: man to vine.
+- **D213.5** — Transformation: man to thorns.
+- **D213.6** — Transformation: man to plantain stalk.
+- **D214** — Transformation to grain.
+- **D214.1** — Transformation: man to rice-grain.
+- **D214.2** — Transformation: man to maize.
+- **D215** — Transformation: man to tree.
+- **D215.1** — Transformation: man (woman) to laurel.
+- **D215.2** — Transformation: man to pear tree.
+- **D215.3** — Transformation: man (woman) to ash tree.
+- **D215.4** — Transformation: man (woman) to linden tree.
+- **D215.5** — Transformation: man to apple tree.
+- **D215.6** — Transformation: man (woman) to mulberry tree.
+- **D215.7** — Transformation: man (woman) to almond tree.
+- **D215.8** — Transformation: man (woman) to mango tree.
+- **D216** — Transformation: man to log.
+- **D217** — Transformation: man to stick.
+- **D218** — Transformation: man to sheaf of grain.
+- **D218.1** — Transformation: man (woman) to paddy-sheaf.
+- **D221** — Transformation: man to gourd (calabash).
+- **D222** — Transformation: man to nut.
+- **D222.1** — Transformation: man to peanut.
+- **D223** — Transformation: man to grass.
+- **D224** — Transformation: man to reed.
+- **D225** — Transformation: man to seaweed.
+- **D230** — Transformation: man to a mineral form.
+- **D231** — Transformation: man to stone.
+- **D231.1** — Transformation: man to millstone.
+- **D231.2** — Transformation: man to marble column.
+- **D231.2.1** — Mass transformation of wedding party to marble statues, etc.
+- **D233** — Transformation: man to shell.
+- **D235** — Transformation: man (woman) to golden object.
+- **D235.1** — Transformation: man (god) to shower of gold.
+- **D235.2** — Transformation: woman to golden stool.
+- **D237** — Transformation: man to coral.
+- **D241** — Transformation: man to salt.
+- **D242** — Transformation: man to oil.
+- **D244** — Transformation: man to pumice.
+- **D250** — Transformation: man to manufactured object.
+- **D251** — Transformation: man to dish.
+- **D251.1** — Transformation: man to saucepan.
+- **D252** — Transformation: man to pot.
+- **D253** — Transformation: man to needle.
+- **D254** — Transformation: man to musical instrument.
+- **D254.1** — Transformation: man to fiddle.
+- **D255** — Transformation: man to boat.
+- **D255.1** — Transformation: man to canoe.
+- **D256** — Transformation: man to wheel.
+- **D257** — Transformation: man to hatchel.
+- **D258** — Transformation: man to fishhook.
+- **D261** — Transformation: man to altar.
+- **D263** — Transformation: man to ornament.
+- **D263.1** — Transformation: man to ring.
+- **D263.2** — Transformation: man to necklace.
+- **D263.3** — Transformation: man (girl) to comb.
+- **D263.4** — Transformation: man to beads.
+- **D263.5** — Transformation: man to crown.
+- **D264** — Transformation: man (woman) to skein of silk.
+- **D265** — Transformation: man to mat.
+- **D266** — Transformation: man to pick-handle.
+- **D268** — Transformation: man to building.
+- **D268.0.1** — Transformation: man to church.
+- **D268.1** — Transformation: man to housepost.
+- **D268.2** — Transformation: man to figure on ridgepole of house.
+- **D270** — Transformation: man to object miscellaneous.
+- **D271** — Transformation: man to meat.
+- **D271.1** — Transformation: man to lard.
+- **D275** — Transformation: man to feather.
+- **D276** — Transformation: man to egg.
+- **D281** — Transformation: man to storm.
+- **D281.1** — Transformation: man to wind.
+- **D281.1.1** — Transformation: man to whirlwind.
+- **D281.2** — Transformation: man to lightning.
+- **D281.3** — Transformation: man to thunder.
+- **D283** — Transformation: man to water.
+- **D283.1** — Transformation: man (woman) to pool of water.
+- **D283.2** — Transformation to spring of water.
+- **D283.3** — Transformation: watersprite to flood.
+- **D283.4** — Transformation: person to seafoam.
+- **D283.5** — Transformation: man to ocean wave.
+- **D284** — Transformation: man (woman) to island.
+- **D285** — Transformation: man to fire.
+- **D285.0.1** — Transformation: god to fire.
+- **D285.1** — Transformation: man to smoke.
+- **D286** — Transformation: man to ashes.
+- **D287** — Transformation: man to mound.
+- **D287.1** — Transformation: man to ant-hill.
+- **D287.2** — Transformation: man to pillar of earth.
+- **D291** — Transformation: man to mountain.
+- **D292** — Transformation: man to hair.
+- **D293** — Transformation: man to star.
+- **D294** — Transformation into puff of dust.
+- **D295** — Transformation: man to spittle.
+
+## Transformation: animal to person
+
+- **D300** — Transformation: animal to person.
+- **D310** — Transformation: wild beast (mammal) to person.
+- **D312** — Transformation: feline animal to person.
+- **D312.1** — Transformation: lion to person.
+- **D312.2** — Transformation: tiger to person.
+- **D312.3** — Transformation: leopard to person.
+- **D313** — Transformation: canine animal to person.
+- **D313.1** — Transformation: fox to person.
+- **D313.2** — Transformation: wolf to man.
+- **D313.3** — Transformation: bear to person.
+- **D313.4** — Transformation: hyena to man.
+- **D314** — Transformation: ungulate animal (wild) to person.
+- **D314.1** — Transformation: bovine animal (wild) to person.
+- **D314.1.1** — Transformation: antelope to person.
+- **D314.1.2** — Transformation: caribou to person.
+- **D314.1.3** — Transformation: deer to woman.
+- **D314.1.4** — Transformation: gazelle to person.
+- **D314.3** — Transformation: elephant to person.
+- **D315** — Transformation: rodent to man.
+- **D315.1** — Transformation: rat to person.
+- **D315.2** — Transformation: mouse to person.
+- **D315.3** — Transformation: badger to person.
+- **D315.4** — Transformation: squirrel to person.
+- **D315.5** — Transformation: hare (rabbit) to person.
+- **D318** — Transformation: simian to person.
+- **D318.1** — Transformation: monkey to person.
+- **D327** — Transformation: sea-mammal to person.
+- **D327.1** — Transformation: otter to person.
+- **D327.2** — Transformation: seal to person.
+- **D330** — Transformation: domestic beast (mammal) to person.
+- **D332** — Transformation: equine animal (domestic) to person.
+- **D332.1** — Transformation: ass (donkey) to person.
+- **D333** — Transformation: bovine animal to person.
+- **D333.1** — Transformation: bull to man.
+- **D333.2** — Transformation: calf to person.
+- **D334** — Transformation: goat to person.
+- **D336** — Transformation: swine to person.
+- **D336.1** — Transformation: pig to person.
+- **D341** — Transformation: dog to person.
+- **D341.1** — Transformation: bitches to women.
+- **D342** — Transformation: cat to person.
+- **D350** — Transformation: bird to person.
+- **D352** — Transformation: falconiform to person.
+- **D352.1** — Transformation: hawk to person.
+- **D352.2** — Transformation: eagle to person.
+- **D352.3** — Transformation: falcon to person.
+- **D353** — Transformation: coraciiform to person.
+- **D353.1** — Transformation: woodpecker to person.
+- **D354** — Transformation: charidiiform to person.
+- **D354.1** — Transformation: dove to person.
+- **D354.2** — Transformation: gull to person.
+- **D357** — Transformation: parrot to person.
+- **D361** — Transformation: swan to person.
+- **D361.1** — Swan Maiden.
+  *A swan transforms herself at will into a maiden. She resumes her swan form by putting on her swan coat. (It is difficult to tell in most Swan Maiden tales whether the primary form is swan or maiden: the incident may belong at +D161.)*
+- **D361.1.1** — Swan Maiden finds her hidden wings and resumes her form.
+- **D364** — Transformation: goose to person.
+- **D365** — Transformation: duck to person.
+- **D370** — Transformation: fish to man.
+- **D370.1** — Fish cleaned by girl becomes man.
+- **D373** — Transformation: eel to person.
+- **D375** — Transformation: crab to man.
+- **D376** — Transformation: salmon to person.
+- **D380** — Transformation: insect to person.
+- **D381** — Transformation: spider to man.
+- **D382** — Transformation: hymenoptera to person.
+- **D382.1** — Transformation: bee to person.
+- **D382.2** — Transformation: ant to person.
+- **D390** — Transformation: reptiles and miscellaneous animals to persons.
+- **D391** — Transformation: serpent (snake) to person.
+- **D392** — Transformation: worm to person.
+- **D395** — Transformation: frog to person.
+- **D396** — Transformation: toad to man.
+- **D397** — Transformation: lizard to person.
+- **D398** — Transformation: snail to person.
+- **D399** — Transformation: other animals than those already treated to person.
+- **D399.1** — Transformation: water-dragon to person.
+
+## Other forms of transformation
+
+- **D400** — Other forms of transformation.
+- **D410** — Transformation: one animal to another.
+- **D411** — Transformation: mammal (wild) to another animal.
+- **D411.1** — Transformation: squirrel to another animal.
+- **D411.1.1** — Transformation: squirrel to horse.
+- **D411.2** — Transformation: rat to another animal.
+- **D411.2.1** — Transformation: white rat to white-winged elephant.
+- **D411.3** — Transformation: hare (rabbit) to another animal.
+- **D411.3.1** — Transformation: hare to leopard.
+- **D411.4** — Transformation: antelope to another animal.
+- **D411.4.1** — Transformation: antelope to dog.
+- **D411.4.2** — Transformation: antelope to goat.
+- **D411.5** — Transformation: monkey to other animal.
+- **D411.5.1** — Transformation: monkey to eagle.
+- **D411.5.2** — Transformation: monkey to candle-moth.
+- **D411.5.3** — Transformation: monkey to ant.
+- **D411.5.4** — Transformation: monkey to ox.
+- **D411.6** — Transformation: mouse to another animal.
+- **D411.6.1** — Transformation: mouse to horse.
+- **D411.6.2** — Transformation: mouse to cat.
+- **D411.7** — Transformation: seal to another animal.
+- **D411.7.1** — Transformation: seal to horse.
+- **D411.8** — Transformation: fox to snake.
+- **D411.9** — Transformation: gorilla to eagle.
+- **D411.10** — Transformation: bear to goose.
+- **D411.10.1** — Parts of bears fall off and become geese.
+- **D412** — Transformation: mammal (domestic) to another animal.
+- **D412.0.1** — Transformation: domestic to wild animal.
+- **D412.1** — Transformation: cat to another animal.
+- **D412.1.1** — Transformation: cat to horse.
+- **D412.1.2** — Transformation: cat to toad.
+- **D412.1.3** — Transformation: cat to dog.
+- **D412.2** — Transformation: cow (ox) to another animal.
+- **D412.2.1** — Transformation: herd of cattle to wolves.
+- **D412.2.2** — Transformation: ox-demon to pig.
+- **D412.2.3** — Transformation: ox-demon to tiger.
+- **D412.2.4** — Transformation: ox-demon to leopard.
+- **D412.2.5** — Transformation: ox-demon to bear.
+- **D412.2.6** — Transformation: ox-demon to elephant.
+- **D412.3** — Transformation: swine becomes another animal.
+- **D412.3.1** — Transformation: pig-fairy to fish.
+- **D412.3.2** — Transformation: pig to fish.
+- **D412.3.3** — Transformation: boar-pigs into he-goats.
+- **D412.3.4** — Transformation: sows into she-goats.
+- **D412.3.5** — Transformation: pig to dragon.
+- **D412.4** — Transformation: horse to another animal.
+- **D412.4.1** — Transformation: packhorse to palfrey.
+- **D412.5** — Transformation: dog to another animal.
+- **D412.5.1** — Transformation: dog to dove (transformed man).
+- **D412.5.2** — Transformation: hound to lap-dog.
+- **D412.5.3** — Transformation: dog to otter.
+- **D412.5.4** — Animal that is hound by day, sheep by night.
+- **D412.5.5** — Transformation: dog to leopard.
+- **D412.5.6** — Transformation: dog to spider.
+- **D412.5.7** — Transformation: dog to snake.
+- **D412.6** — Transformation: ass to horse.
+- **D412.7** — Transformation: sheep to grasshoppers.
+- **D413** — Transformation: bird to another animal.
+- **D413.1** — Transformation: hawk to salmon (transformed man).
+- **D413.2** — Transformation: raven to water bird.
+- **D415** — Transformation: insect to another animal.
+- **D415.1** — Transformation: mantis to another animal.
+- **D415.1.1** — Transformation: mantis to hartebeest.
+- **D418** — Transformation: reptile to other animal.
+- **D418.1** — Transformation: serpent (snake) to other animal.
+- **D418.1.1** — Transformation: python to gorilla.
+- **D418.1.2** — Transformation: snake to dragon.
+- **D418.1.3** — Transformation: serpent to mosquito.
+- **D418.2** — Transformation: worm to other animal.
+- **D418.2.1** — Transformation: worm to serpent.
+- **D418.2.2** — Transformation: worm to dog.
+- **D419** — Transformation: miscellaneous animals to other animals.
+- **D419.1** — Transformation: dragon to other animal.
+- **D419.1.1** — Transformation: sea dragon to serpent.
+- **D419.1.2** — Transformation: dragon to horse.
+- **D420** — Transformation: animal to object.
+- **D421** — Transformation: mammal (wild) to object.
+- **D421.1** — Transformation: wolf to object.
+- **D421.1.1** — Transformation: wolf to tree.
+- **D421.2** — Transformation: antelope to object.
+- **D421.2.1** — Transformation: antelope to nut.
+- **D421.2.2** — Transformation: doe to bubble of water (enchanted woman).
+- **D421.3** — Transformation: elephant to object.
+- **D421.3.1** — Transformation: elephant to lotus.
+- **D421.3.2** — Transformation: elephant to stone.
+- **D421.4** — Transformation: tiger to object.
+- **D421.4.1** — Transformation: tigress to mortar.
+- **D421.5** — Transformation: deer to object.
+- **D421.5.1** — Transformation: stag to wind.
+- **D421.6** — Transformation: bear to object.
+- **D421.6.1** — Transformation: bear to bow.
+- **D421.7** — Transformation: whale to object.
+- **D421.7.1** — Transformation: whale to skull.
+- **D422** — Transformation: mammal (domestic) to object.
+- **D422.1** — Transformation: horse to object.
+- **D422.1.1** — Transformation: horse to river.
+- **D422.1.2** — Transformation: horse to stone.
+- **D422.2** — Transformation: dog to object.
+- **D422.2.1** — Transformation: dead dog to money.
+- **D422.2.2** — Transformation: dog to pumpkin.
+- **D422.2.3** — Transformation: dog to statue.
+- **D422.3** — Transformation: pig to object.
+- **D422.3.1** — Transformation: pig to bread.
+- **D423** — Transformation: bird (fowl) to object.
+- **D423.1** — Transformation: goose to object.
+- **D423.1.1** — Transformation: flock of geese to stone.
+- **D423.2** — Transformation: quails to sticks and pebbles.
+- **D423.3** — Transformation: duck to precious stone.
+- **D423.4** — Transformation: buzzard to door flap.
+- **D424** — Transformation: insect to object.
+- **D424.1** — Transformation: butterfly to bamboo.
+- **D425** — Transformation: reptile to object.
+- **D425.1** — Transformation: snake to object.
+- **D425.1.1** — Transformation: snake to stone.
+- **D425.1.2** — Transformation: snake to jewel.
+- **D425.1.2.1** — Transformation: snake to gold.
+- **D425.1.3** — Transformation: snake to garland.
+- **D425.1.4** — Transformation: snake to ship.
+- **D426** — Transformation: fish to object.
+- **D426.1** — Transformation: eel to object.
+- **D426.1.1** — Transformation: eel to stone.
+- **D426.1.2** — Transformation: eel to dry land.
+- **D426.2** — Transformation: octopus to stone.
+- **D428** — Transformation: amphibian to object.
+- **D428.1** — Transformation: frog to object.
+- **D428.1.1** — Transformation: frog to tree.
+- **D429** — Transformation: animal to object miscellaneous.
+- **D429.1** — Transformation: water monster to Milky Way.
+- **D429.2** — Transformation: dragon to object.
+- **D429.2.1** — Transformation: dragon-king to gust of wind.
+- **D429.2.2** — Transformation: dragon to stone.
+- **D429.2.2.1** — Transformation: man-eating giantess to stone.
+- **D430** — Transformation: object to person.
+- **D431** — Transformation: vegetable form to person.
+- **D431.1** — Transformation: flower to person.
+- **D431.1.1** — Transformation: rose to person.
+- **D431.1.2** — Transformation: carnation to person.
+- **D431.2** — Transformation: tree to person.
+- **D431.3** — Transformation: leaf (of tree) to person.
+- **D431.4** — Transformation: fruit to person.
+- **D431.5** — Transformation: grass to person.
+- **D431.5.1** — Transformation: grass to soldiers.
+- **D431.6** — Transformation: plant to person.
+- **D431.6.1** — Woman emerges from plant.
+- **D431.7** — Transformation: reed to person.
+- **D431.8** — Transformation: corn to person.
+- **D431.9** — Transformation: root (bulb) of plant to person.
+- **D431.10** — Transformation: sections of bamboo to persons.
+- **D431.11** — Transformation: nut to person.
+- **D432** — Transformation: mineral form to person.
+- **D432.1** — Transformation: stone to person.
+- **D432.2** — Transformation: shell to person.
+- **D432.2.1** — Every piece of shattered cowrie-shell turns into an armed man.
+- **D432.3** — Transformation: jewel to person.
+- **D432.3.1** — Transformation: ruby to person.
+- **D434** — Transformation: manufactured object to person.
+- **D434.1** — Transformation: utensil to person.
+- **D434.2** — Transformation: rope to person.
+- **D434.3** — Transformation: canoe-bailer to person.
+- **D434.4** — Transformation: coffin cover to person.
+- **D435** — Transformation: image to person.
+- **D435.1** — Transformation: statue to person.
+- **D435.1.1** — Transformation: statue comes to life.
+- **D435.1.2** — Transformation: dolls change to fairies when flute is played.
+- **D435.1.3** — Image of boy made of flowers comes to life.
+- **D435.1.4** — Wax prince animated by serpent becomes human being.
+- **D435.1.5** — Transformation: stone lion to man.
+- **D435.2** — Transformation: picture to person.
+- **D435.2.1** — Picture comes to life.
+- **D436** — Transformation: manufactured object to person.
+- **D436.1** — Transformation: utensil to person.
+- **D436.2** — Transformation: rope to person.
+- **D436.3** — Transformation: canoe-bailer to person.
+- **D436.4** — Transformation: coffin cover to person.
+- **D437** — Transformation: part of animal or person to person.
+- **D437.1** — Human bone transforms self to person.
+- **D437.2** — Animal bone transforms self to person.
+- **D437.3** — Transformation: feather to person.
+- **D437.4** — Transformation: excrements to person.
+- **D437.5** — Transformation: spittle to person.
+- **D439** — Transformation: miscellaneous objects to persons.
+- **D439.1** — Transformation: tow to person.
+- **D439.2** — Transformation: coal to person.
+- **D439.3** — Transformation: water bubble to person.
+- **D439.4** — Transformation: egg to person.
+- **D439.4.1** — Woman emerges from egg.
+- **D439.5** — Transformation: heavenly body to person.
+- **D439.5.1** — Transformation: moon to person.
+- **D439.5.2** — Transformation: star to person.
+- **D439.6** — Fire takes the form of a woman and runs away.
+- **D440** — Transformation: object to animal.
+- **D441** — Transformation: vegetable form to animal.
+- **D441.1** — Transformation: tree to animal.
+- **D441.2** — Transformation: fruit to animal.
+- **D441.2.1** — Transformation: fruit to birds.
+  *Trees grow fruits. Those which fall on ground ripen and are normal; those that fall into water become birds and fly away.*
+- **D441.3** — Transformation: branch of tree to animal.
+- **D441.3.1** — Transformation: faggots to chargers.
+- **D441.3.2** — Transformation: log to bear.
+- **D441.4** — Transformation: plant to animal.
+- **D441.4.1** — Transformation: fern to animal.
+- **D441.5** — Transformation: leaves to animal.
+- **D441.5.1** — Transformation: leaves to eels.
+- **D441.5.2** — Transformation: banana leaf to fish.
+- **D441.6** — Transformation: embers into animal.
+- **D441.6.1** — Transformation: ashes into animals.
+- **D441.7** — Transformation: sticks of wood to animal.
+- **D441.7.1** — Transformation: rod to serpent.
+- **D441.8** — Transformation: piece of cotton to snake.
+- **D441.9** — Transformation: straw to snake.
+- **D441.9.1** — Transformation: wisp of hay to horse.
+- **D441.10** — Transformation: chips of wood to animal.
+- **D442** — Transformation: mineral form to animal.
+- **D442.1** — Transformation: stone to animal.
+- **D442.2** — Transformation: earth (dirt) to animal.
+- **D442.2.1** — Transformation: earth to lice.
+- **D442.2.2** — Transformation: grave to animal.
+- **D442.3** — Transformation: gold to animal.
+- **D444** — Transformation: manufactured object to animal.
+- **D444.1** — Transformation: money of the hard-hearted to scorpions.
+- **D444.2** — Transformation: meat to toad.
+  *Punishment for ungrateful son.*
+- **D444.3** — Transformation: pill to white rabbit.
+- **D444.4** — Transformation: bread to serpents.
+- **D444.5** — Transformation: book-satchel to bird.
+- **D444.6** — Transformation: drinking horn to dragon.
+- **D444.7** — Transformation: armring to serpent.
+- **D444.8** — Transformation: mortar to tigress.
+- **D444.9** — Transformation: pouch to parts of body of ptarmigan.
+- **D444.10** — Transformation: dress to animal.
+- **D444.10.1** — Transformation: dress to butterfly.
+- **D444.10.2** — Transformation: mitten to dog.
+- **D444.10.3** — Duck's sandals transformed to part of his feet.
+- **D444.11** — Transformation: oars and masts to serpents.
+- **D445** — Transformation: image of animal vivified.
+- **D445.1** — Image of horse vivified.
+- **D445.1.1** — Image of horse will be vivified only for one person.
+- **D445.2** — Images of parrots vivified.
+- **D445.3** — Image of golden calf vivified.
+- **D447** — Transformation: parts of animal or human body to animal.
+- **D447.1** — Transformation: hair to animal.
+- **D447.1.1** — Transformation: hair to monkey.
+- **D447.1.2** — Transformation: hair to insect.
+- **D447.1.3** — Transformation: hair to serpent.
+- **D447.2** — Transformation: skull to water-monster.
+- **D447.3** — Transformation: blood to animal.
+- **D447.3.1** — Transformation: blood drops to toads.
+- **D447.3.1.1** — Transformation: blood drops to serpents.
+- **D447.3.2** — Transformation: blood of gorgon to flying horse.
+- **D447.4** — Transformation: fishtail to shark.
+- **D447.5** — Transformation: toes of sorceress to dogs.
+- **D447.6** — Transformation: tooth to fox.
+- **D447.7** — Transformation: pig's bones to pig.
+- **D447.8** — Transformation: bone to dog.
+- **D447.9** — Parts of sorcerer's body turn into serpents.
+- **D447.10** — Transformation: brain to giant serpent.
+- **D449** — Transformation: miscellaneous objects to animals.
+- **D449.1** — Magic charm turns sweets into bugs.
+- **D449.2** — Transformation: corpse to serpent.
+- **D449.3** — Transformation: treasure to ducks.
+- **D449.4** — Transformation: snow to dogs.
+- **D450** — Transformation: object to another object.
+- **D451** — Transformation of vegetable form.
+- **D451.1** — Transformation: tree to other object.
+- **D451.1.0.1** — Transformation: branch of tree to palace.
+- **D451.1.1** — Transformation: ash to hazel.
+- **D451.2** — Transformation: plant to other object.
+- **D451.2.1** — Transformation: rush to leek.
+- **D451.2.1.1** — Transformation: rushes to grain.
+- **D451.2.2** — Transformation: wheat to barley.
+- **D451.2.3** — Transformation: oats to wheat.
+- **D451.2.4** — Transformation: cotton to leaves.
+- **D451.3** — Transformation: fruit to other object.
+- **D451.3.1** — Transformation: apples to grain.
+- **D451.3.2** — Transformation: coconut to philosopher's stone.
+- **D451.3.3** — Transformation: pumpkin to carriage.
+- **D451.3.4** — Transformation: apples to pig bristles (frog legs).
+- **D451.4** — Transformation: flowers to other object.
+- **D451.4.0.1** — Transformation: flowers to gold beads.
+- **D451.4.1** — Transformation: lotus to human hand.
+- **D451.4.2** — Hibiscus blossom transformed to canoe.
+- **D451.5** — Transformation: grass to other object.
+- **D451.5.1** — Transformation: blade of grass to horse.
+- **D451.5.2** — Transformation: blade of grass to knife.
+- **D451.5.3** — Transformation: blade of grass to gun.
+- **D451.5.4** — Transformation: grass to beard.
+- **D451.5.5** — Transformation: pieces of grass turned into stone steps.
+- **D451.5.6** — Transformation: roll of grass into gold.
+- **D451.5.7** — Transformation: wisp of hay to bridge.
+- **D451.6** — Transformation: stick (log) to other object.
+- **D451.6.1** — Transformation: wand to other object.
+- **D451.6.1.1** — Transformation: wand to bridge.
+- **D451.6.2** — Stick thrust in ground changes into spirit hut.
+- **D451.6.3** — Transformation: stick to weapon.
+- **D451.7** — Transformation: nut to another object.
+- **D451.7.1** — Transformation: nut to palace.
+- **D451.8** — Transformation: leaf to another object.
+- **D451.8.1** — Transformation: leaves to cotton.
+- **D451.8.2** — Transformation: leaf to knife.
+- **D451.9** — Transformation: vegetable to other object.
+- **D451.9.1** — Transformation: peas to stones.
+- **D452** — Transformation of mineral form.
+- **D452.1** — Transformation: rock (stone) to other object.
+- **D452.1.1** — Transformation: rock to hut.
+- **D452.1.2** — Transformation: stone to mountain.
+  *Regular in +D672, where references are given.*
+- **D452.1.3** — Transformation: stone to salt.
+- **D452.1.4** — Transformation: stone into jewel.
+- **D452.1.5** — Transformation: rock to glass.
+- **D452.1.6** — Transformation: stones to peas.
+- **D452.1.6.1** — Christ asks woman what she is cooking; she replies that she is boiling stones to make her children think they are peas and that they will have food.
+  *Christ changes the stones to peas.*
+- **D452.1.7** — Transformation: stone to firebrand.
+- **D452.1.8** — Transformation: stone to island.
+- **D452.1.9** — Transformation: stone to pillow.
+- **D452.1.10** — Transformation: rock to water.
+- **D452.1.11** — Transformation: stones to weapons.
+- **D452.1.12** — Transformation: stones to dust.
+- **D452.2** — Transformation: shell to another object.
+- **D452.2.1** — Transformation: shell to boat.
+- **D452.3** — Transformation: sand to another object.
+- **D452.3.1** — Transformation: sand to rice.
+- **D452.4** — Transformation: earth (dirt) to another object.
+- **D452.4.1** — Transformation: dirt to pepper.
+- **D454** — Transformation of manufactured object.
+- **D454.1** — Transformation: box to another object.
+- **D454.1.1** — Transformation: box to carriage.
+- **D454.1.2** — Transformation: box to ship.
+- **D454.2** — Transformation: bread to another object.
+- **D454.2.1** — Transformation: bread to flower.
+- **D454.2.2** — Bread tree springs from crumb of bread.
+- **D454.3** — Transformation: clothing to other object.
+- **D454.3.1** — Transformation: one article of clothing to another.
+- **D454.3.1.1** — White chasuble suddenly turned into red.
+- **D454.3.2** — Transformation: handkerchief to other object.
+- **D454.3.2.1** — Transformation: handkerchief with three knots to clod, potsherd, and charcoal.
+- **D454.3.2.2** — Transformation: handkerchief with three knots to golden leopard, golden snake, and golden monkey.
+- **D454.3.3** — Transformation: belt to bridge.
+- **D454.3.4** — Transformation: cloak to other object.
+- **D454.3.4.1** — Transformation: cloak to mountain.
+- **D454.3.4.2** — Transformation: cloak to vessel.
+- **D454.4** — Transformation: needle to other object.
+- **D454.4.1** — Transformation: thread to other object.
+- **D454.5** — Transformation: milk sack to other object.
+- **D454.5.1** — Transformation: milk sack to sheet of water.
+- **D454.6** — Transformation: pot to other object.
+- **D454.6.1** — Transformation: bowl to other object.
+- **D454.7** — Transformation: brush to mountain.
+- **D454.7.1** — Transformation: comb to mountain.
+- **D454.8** — Transformation: ornament to other object.
+- **D454.8.1** — Transformation: necklace to other object.
+- **D454.8.2** — Transformation: ring to other object.
+- **D454.8.2.1** — Transformation: ring to saber.
+- **D454.9** — Transformation: weapon to other object.
+- **D454.9.1** — Transformation: spear to other object.
+- **D454.9.1.1** — Transformation: spear becomes mighty tree when driven into ground.
+- **D454.9.2** — Transformation: sling-stick to boat.
+- **D454.10** — Transformation: ship to other object.
+- **D454.10.1** — Transformation: ship to mountains.
+- **D454.10.2** — Transformation: canoe into rock.
+- **D454.11** — Transformation: writing tablets to bundle.
+- **D454.12** — Transformation: mirror to glass mountain.
+- **D454.13** — Transformation: pieces of chalk into tins of oil.
+- **D454.14** — Transformation: ink to beams of light.
+- **D454.15** — Transformation: statue to drinking vessels.
+- **D454.16** — Transformation: instruments of torture to lotus flowers.
+- **D457** — Transformed parts of person or animal to object.
+- **D457.1** — Transformation: blood to another object.
+- **D457.1.1** — Transformation: blood to rubies.
+  *Turns to rubies as it drops.*
+- **D457.1.2** — Transformation: blood to milk.
+  *Bird caught and told to make milk bleeds and blood turns to milk.*
+- **D457.1.3** — Transformation: drops of blood to flowers.
+- **D457.2** — Transformation: milk to blood.
+- **D457.3** — Transformation: calf's head to death's head.
+- **D457.4** — Transformation: hair to other object.
+- **D457.4.1** — Transformation: hair to stream.
+- **D457.4.2** — Transformation: hair to forest.
+- **D457.4.3** — Transformation: hair to bridge.
+- **D457.5** — Transformation: meat to other object.
+- **D457.5.1** — Transformation: stolen meat to roses.
+- **D457.5.2** — Meat received from spirits transformed to banana leaves.
+- **D457.6** — Transformation: scurf from body to palm tree.
+- **D457.7** — Transformation: feather to tree.
+- **D457.8** — Transformation: tooth to ax head.
+- **D457.9** — Transformation: finger to ax handle.
+- **D457.9.1** — Transformation: cut-off hand to plant.
+- **D457.10** — Transformation: moustache into grass.
+- **D457.11** — Transformation: eye to another object.
+- **D457.11.1** — Transformation: bull's eye to hornets.
+- **D457.11.2** — Transformation: eyeballs to torches.
+- **D457.12** — Transformation: bone to other object.
+- **D457.12.1** — Transformation: bone-dust becomes blazing fire.
+- **D457.12.2** — Transformation: bone to skeleton.
+- **D457.13** — Transformation: animal dung to other object.
+- **D457.14** — Transformation: tongue to other object.
+- **D457.14.1** — Transformation: ogress's tongue to surfboard.
+- **D457.14.2** — Transformation: tongue to flame.
+- **D457.15** — Transformation: animal heart to other object.
+- **D457.15.1** — Transformation: fox's heart to rattle.
+- **D457.16** — Transformation: saint's relics to other object.
+- **D457.16.1** — Saint's relics assume form of Buddha.
+- **D457.17** — Transformation: flesh to other object.
+- **D457.17.1** — Transformation: flesh to fire.
+- **D457.18** — Transformation: tears to other object.
+- **D457.18.1** — Transformation: tears to fountain.
+- **D457.18.2** — Transformation: tears to river.
+- **D457.19** — Transformation: ear tips (animal) into pelts.
+- **D469** — Transformation: miscellaneous object to other objects.
+- **D469.1** — Transformation: egg to mist.
+- **D469.1.1** — Transformation: egg to house.
+- **D469.2** — Transformation: smoke to bridge.
+- **D469.3** — Transformation: chain of arrows to bridge.
+- **D469.4** — Transformation: sea-scum to ice.
+- **D469.5** — Transformation: furnace of fire to garden.
+- **D470** — Transformation: material of object changed.
+- **D471** — Transformation: object to stone.
+- **D471.1** — Transformation: bread to stone.
+  *As punishment.*
+- **D471.2** — Transformation: house to stone.
+- **D471.2.1** — Transformation: house-door to stone.
+- **D471.3** — Transformation: ship to stone.
+- **D471.4** — Transformation: cheese to stone.
+- **D471.4.1** — Transformation: milk to stone.
+- **D471.5** — Transformation: salt to stone.
+- **D471.6** — Transformation: tree to stone.
+- **D471.7** — Transformation: poison to stone.
+- **D471.8** — Animals turned into stones.
+- **D471.8.1** — Stolen chickens turned to stones in cooking.
+- **D471.9** — A candle becomes stone.
+- **D471.10** — Water becomes rocks.
+- **D472** — Transformation: object to muck.
+- **D472.1** — Transformation: food to muck.
+  *As punishment.*
+- **D473** — Transformation: object to wood.
+- **D473.1** — Transformation: sword to wood.
+- **D474** — Transformation: object becomes bloody.
+- **D474.1** — Transformation: key becomes bloody.
+- **D474.2** — Transformation: water becomes bloody.
+- **D474.3** — Transformation: cake becomes bloody.
+- **D474.4** — Egg becomes bloody.
+- **D474.5** — Transformation: butter (milk) to blood.
+- **D474.6** — Tears change to blood.
+- **D474.7** — Spittle changes to blood.
+- **D474.8** — Fruit juice turns to blood.
+- **D474.9** — Eyes of stone lion become bloody.
+- **D475** — Transformation: object to treasure (or vice versa).
+- **D475.1** — Transformation: objects to gold.
+- **D475.1.1** — Transformation: coals to gold.
+- **D475.1.1.1** — Transformation: ashes to gold.
+- **D475.1.2** — Transformation: shavings to gold.
+- **D475.1.3** — Transformation: dead leaves to gold.
+- **D475.1.3.1** — Banyan leaves turn to gold.
+- **D475.1.4** — Transformation: spittle to gold.
+- **D475.1.5** — Transformation: fire to gold.
+- **D475.1.6** — Transformation: rice to gold.
+- **D475.1.6.1** — Transformation: grain to gold.
+- **D475.1.7** — Transformation: brick (tile) to gold.
+- **D475.1.8** — Transformation: earth to gold.
+- **D475.1.9** — Transformation: copper to gold.
+- **D475.1.10** — Transformation: hair to gold.
+- **D475.1.11** — Paste (smeared on princess's body) turns to gold.
+- **D475.1.12** — Transformation: putrescence to gold.
+- **D475.1.13** — Mucus turns to gold to reward piety.
+- **D475.1.14** — Transformation: bottle to gold.
+- **D475.1.15** — Transformation: palace to gold.
+- **D475.1.16** — Transformation: food to gold.
+- **D475.1.17** — Transformation: axe becomes golden.
+- **D475.1.18** — Transformation: flowers to gold and silver.
+- **D475.1.19** — Transformation: leaves on which meal is served turn to gold plates.
+- **D475.1.20** — Transformation: straw to gold.
+- **D475.1.21** — Transformation: fingernails to gold.
+- **D475.2** — Transformation: object to money (or vice versa).
+- **D475.2.1** — Transformation: stones to gold coins.
+- **D475.2.2** — Transformation: water to money.
+- **D475.2.3** — Transformation: money to ashes (leaves).
+- **D475.2.4** — Transformation: money to pewter.
+- **D475.3** — Transformation: objects to silver.
+- **D475.3.1** — Transformation: earth to silver.
+- **D475.3.2** — Tin changed into silver.
+- **D475.3.3** — Transformation: stone to silver.
+- **D475.3.4** — Transformation: iron in axe to silver.
+- **D475.3.5** — Transformation: silver dish becomes wooden.
+- **D475.4** — Transformation: object to jewels (or vice versa).
+- **D475.4.1** — Transformation: stones into jewels.
+- **D475.4.2** — Transformation: lice into gems.
+- **D475.4.3** — Transformation: dishes to jewels.
+- **D475.4.4** — Transformation: peas to pearls.
+- **D475.4.5** — Tears become jewels.
+- **D475.4.6** — Transformation: fingernails into jewels.
+- **D475.4.7** — Transformation: hairs to jewels.
+- **D475.4.8** — Water dripping off person becomes agates.
+- **D475.4.9** — Oil changed to jewels.
+- **D475.5** — A cup of marble changed into one of crystal.
+- **D476** — Food transformed.
+- **D476.1** — Inedible substance transformed into edible.
+- **D476.1.1** — Bread made from mud.
+- **D476.1.2** — Loaf of bread made from the leaf of a tree.
+- **D476.1.3** — Wood turned into grain.
+- **D476.1.4** — Lard made from tree bark.
+- **D476.1.5** — Butter made from nettles.
+- **D476.1.6** — Pancakes made of snow.
+- **D476.1.7** — Rock changed into milk.
+- **D476.1.8** — Stream changed to egg.
+- **D476.1.9** — Transformation: ice becomes grease.
+- **D476.1.10** — Bone-powder changed into cheese.
+- **D476.1.11** — Transformation: sand to rice.
+- **D476.2** — Edible substance changed to inedible.
+- **D476.2.1** — Transformation: food to dust.
+- **D476.2.2** — Cooked meat changed to raw.
+- **D476.2.3** — Milk transformed into other substance.
+- **D476.2.3.1** — Milk transformed into blood.
+- **D476.2.3.2** — Milk transformed into lye.
+- **D476.2.4** — Transformation: sugar to ashes.
+- **D476.3** — Meat transformed.
+- **D476.3.1** — Meat takes on taste of any dainty desired.
+- **D476.3.2** — Bacon changed to iron.
+- **D476.3.2.1** — Bacon changed to different foods.
+- **D476.3.3** — Transformation: horse meat to mutton.
+- **D476.3.4** — Meat miraculously turned into fish on a feast day, and vice versa.
+- **D476.4** — Bread becomes cake.
+- **D477** — Transformation: object becomes wine (or vice versa).
+- **D477.0.1** — Wine miraculously changed into other object.
+- **D477.0.1.1** — Wine becomes blood (Cf.  +D471.4.1).
+- **D477.0.1.2** — Wine becomes honey.
+- **D477.0.1.3** — Spiced wine becomes bitter.
+- **D477.1** — Transformation: water becomes wine.
+- **D477.1.1** — Devil takes man waiting for water to turn to wine at midnight on Old Christmas Eve.
+- **D477.1.2** — Woman loses eye when she goes to well at midnight on Old Christmas Eve when the water turns to wine.
+- **D477.2** — Transformation: brine becomes wine.
+- **D477.3** — Beer becomes wine.
+- **D478** — Water changed to other substance (or vice versa).
+- **D478.1** — Transformation: water to milk.
+- **D478.2** — Transformation: water to ale.
+- **D478.3** — Transformation: water to fire.
+- **D478.4** — Transformation: water to marvelous drink.
+- **D478.5** — Transformation: water to honey.
+- **D478.6** — Transformation: water to mead.
+- **D478.7** — Transformation: water changed into oil.
+- **D478.8** — Water changed into balsam.
+- **D478.9** — Water in river transformed to copper by magician.
+- **D478.10** — Salty water turned into fresh liquid.
+- **D478.11** — Transformation: water to butter and cream.
+- **D478.12** — Transformation: water to rocks.
+- **D478.13** — Transformation: water to brimstone.
+- **D478.14** — Boiling pitch reduced to cold water.
+- **D479** — Transformation: miscellaneous objects change material.
+- **D479.1** — Transformation: bog to flowery mead (through power of saint).
+- **D479.2** — Transformation: iron tools to earth.
+- **D479.3** — Transformation: magic charm makes root bitter.
+- **D479.4** — Transformation: goose egg becomes hen's egg.
+- **D479.5** — Transformation: basket of things to iron.
+- **D479.6** — Wax turned into earth.
+- **D479.7** — Evil smells transformed into sweet fragrances, and vice versa.
+- **D479.8** — Hut transformed into golden palace.
+- **D480** — Size of object transformed.
+- **D480.0.1** — Things miraculously stretched or shortened if needed by a saint.
+- **D482** — Stretching objects.
+- **D482.1** — Transformation: stretching tree.
+  *A tree magically shoots upward.*
+- **D482.2** — Stretching lily plant.
+  *Miraculously quick growing.*
+- **D482.3** — Magic stretching lance (Cf.  +D1086).
+- **D482.4** — Transformation: stretching cliff.
+  *A cliff magically shoots up into the air.*
+- **D482.5** — Stretching sepulchre.
+  *Magically becomes longer.*
+- **D482.5.1** — Grave equals five times length of any person's foot.
+- **D482.5.2** — Tomb gate magically enlarged.
+- **D483** — Sea formed from giant's spittle.
+- **D483.1** — River expands and becomes sea.
+- **D485** — Transformation: stretching fingers to make ladder.
+- **D486** — Person becomes larger.
+- **D486.1** — Demon becomes larger.
+- **D487** — Animal becomes larger.
+- **D487.1** — Snake grows to 300 leagues length.
+- **D487.2** — Monkey becomes 100,000 feet high.
+- **D487.3** — Ox-demon becomes 10,000 feet long.
+- **D488** — Houses magically made larger.
+- **D489** — Objects made larger miscellaneous.
+- **D489.1** — Small leaves become larger.
+- **D489.2** — Amulet enlarged to become cloak.
+- **D490** — Miscellaneous forms of transformation.
+- **D491** — Compressible objects.
+- **D491.1** — Compressible magic animals.
+- **D491.1.1** — Herd of cattle put into magic cup.
+- **D491.1.2** — Magic folding mule.
+  *Folds up like a sheet of paper.*
+- **D491.1.3** — Magic dog shrinks in size.
+- **D491.2** — Compressible magic objects.
+- **D491.2.1** — Compressible magic box.
+- **D491.2.1.1** — Compressible magic box containing many people and objects.
+- **D491.2.2** — Compressible table.
+- **D491.3** — Saint confined a large quantity of water in a small ditch.
+- **D491.4** — Iceflake made small by magic.
+- **D491.5** — Castle magically made smaller.
+- **D491.6** — Twelve stones unite to make one.
+- **D491.7** — Ship becomes small boat.
+- **D492** — Color of object changed.
+- **D492.1** — Cock's comb becomes white.
+- **D492.2** — Blood turns black.
+- **D492.3** — Color of hair suddenly changed.
+- **D493** — Spirit changes to animal.
+- **D494** — Transformation: person to monster.
+
+## Means of transformation general
+
+- **D500** — Means of transformation general.
+- **D502** — Inability to transform self in presence of others.
+- **D510** — Transformation by breaking tabu.
+- **D511** — Transformation by breaking name tabu.
+- **D511.1** — Man calls wife "my swallow"; she becomes swallow.
+- **D512** — Transformation by expressing astonishment at marvel.
+- **D512.1** — Transformation when one expresses astonishment at smith drawing water in an egg-shell.
+- **D513** — Transformation by violation of looking tabu.
+- **D513.1** — Man looks at copulating snakes: transformed to woman.
+- **D515** — Transformation by plucking flowers in enchanted garden.
+- **D516** — Transformation through excessive grief.
+- **D517** — Transformation because of disobedience.
+- **D518** — Woman transformed for nourishing an animal.
+- **D520** — Transformation through power of the word.
+- **D521** — Transformation through wish.
+- **D521.1** — Transformation through thoughtless wish of parent.
+- **D522** — Transformation through magic word (charm).
+- **D523** — Transformation through song.
+- **D523.1** — Transformation by playing musical instrument.
+- **D523.1.1** — Transformation by playing flute.
+- **D525** — Transformation through curse.
+- **D525.1** — Despondent mother curses herself and children into trees.
+- **D526** — Transformation through greeting: first creature to be greeted will be transformed.
+- **D527** — Transformation by scolding.
+- **D529** — Transformation through power of the word miscellaneous.
+- **D529.1** — Petrification when woman's voice is heard.
+- **D530** — Transformation by putting on skin, clothing, etc.
+- **D531** — Transformation by putting on skin.
+  *By putting on the skin, feathers, etc. of an animal, a person is transformed to that animal.*
+- **D532** — Transformation by putting on claw, feather, etc. of helpful animal.
+- **D533** — Transformation to fish by catching in fish-trap.
+- **D535** — Transformation to horse (ass.
+  *etc.) by putting on bridle (halter).*
+- **D535.1** — Transformation to horse by being horse-shod.
+- **D536** — Transformation by removing chains from neck.
+- **D536.1** — Transformation to swans by taking chains off neck.
+- **D537** — Transformation by changing clothes.
+- **D537.1** — Transformation by donning hood.
+- **D537.2** — Transformation by donning cloak.
+- **D537.2.1** — Giantess's cloak makes man grow.
+- **D537.3** — Transformation by putting on moustache.
+- **D537.4** — Transformation by donning wig.
+- **D550** — Transformation by eating or drinking.
+- **D551** — Transformation by eating.
+- **D551.1** — Transformation by eating fruit.
+- **D551.1.1** — Transformation by eating apple.
+- **D551.1.2** — Transformation by eating apricot.
+- **D551.1.3** — Transformation by eating pear.
+- **D551.2** — Transformation by eating vegetable.
+- **D551.2.1** — Transformation by eating cabbage.
+- **D551.2.2** — Transformation by eating cicuta.
+- **D551.2.3** — Transformation through eating magic seeds.
+- **D551.2.4** — Transformation by eating flower.
+- **D551.2.5** — Transformation by eating onions.
+- **D551.2.6** — Transformation by eating garlic.
+- **D551.2.7** — Transformation by eating manioc.
+- **D551.3** — Transformation by eating flesh.
+- **D551.4** — Transformation by eating bread.
+- **D551.5** — Transformation by eating leaf from a tree.
+  *Falcon is returned to form of girl.*
+- **D551.6** — Transformation by eating miscellaneous.
+- **D551.6.1** — Transformation by placing pill in mouth.
+- **D551.6.2** — Transformation by eating rice mixed with perspiration.
+- **D551.6.2.1** — Transformation by eating sticky rice.
+- **D551.6.3** — Transformation by eating snake eggs.
+- **D555** — Transformation by drinking.
+- **D555.1** — Transformation by drinking from animal's track.
+- **D555.2** — Transformation by drinking wine.
+- **D560** — Transformation by various means.
+- **D561** — Transformation by jumping over.
+  *The person, animal, or object jumped over is transformed.*
+- **D561.1** — Transformation by rolling.
+- **D561.2** — Transformation by somersault.
+- **D561.3** — Transformation by jumping three times.
+- **D562** — Transformation by bathing.
+- **D562.1** — Transformation by application of water.
+- **D562.2** — Transformation by urine.
+- **D562.2.1** — God's urine makes chilly fiery.
+- **D562.2.2** — Human urine softens rock.
+- **D563** — Transformation by encircling object thrice.
+- **D564** — Transformation by smelling.
+- **D564.1** — Self-transformation by smelling stick.
+- **D564.2** — Transformation by smelling flower.
+- **D564.3** — Transformation by smelling powders.
+- **D564.4** — Transformation by smelling wine.
+- **D565** — Transformation by touching.
+- **D565.0.1** — Transformation by touching ground on return from fairyland.
+- **D565.1** — Midas' golden touch.
+  *Everything touched turns to gold.*
+- **D565.2** — Transformation by touching with rod.
+- **D565.3** — Transformation by licking.
+- **D565.4** — Transformation by seizing ears.
+- **D565.4.1** — Transformation by twisting one's own ear.
+- **D565.5** — Transformation by kiss.
+- **D565.5.1** — Transformation by sexual intercourse.
+- **D565.6** — Transformation by touching water.
+- **D565.7** — Transformation at touch of magic dogskin.
+- **D565.8** — Transformation by touching with flower.
+- **D565.8.1** — Transformation by pinching flower (life token).
+- **D565.9** — Bag of stones becomes auks on touching ground.
+- **D565.10** — Transformation by scratching.
+- **D566** — Transformation by striking.
+- **D566.1** — Transformation by striking wolf-skin glove.
+- **D566.2** — Transformation by striking with stone.
+- **D566.3** — Transformation of horse by spurring.
+- **D566.4** — Transformation by decapitation.
+- **D567** — Transformation by sunlight.
+- **D568** — Transformation by turning magic hood.
+- **D571** — Transformation by throwing object or person.
+- **D571.1** — Transformation by throwing rice on person.
+- **D572** — Transformation by magic object.
+- **D572.1** — Transformation by magic stick.
+- **D572.2** — Transformation by ring.
+- **D572.3** — Transformation by cloth.
+- **D572.4** — Transformation by wand.
+- **D572.5** — Transformation by means of magic stone.
+- **D572.6** — Transformation by magic powder.
+- **D572.7** — Transformation by celestial dew.
+- **D573** — Transformation by spell (charm).
+- **D573.1** — Transformation by written spell.
+- **D573.2** — Petrification by magic written formula.
+- **D574** — Transformation by crossing water.
+- **D575** — Transformation by fumigations.
+  *Burning of magic perfume transforms.*
+- **D575.1** — Transformation by throwing ashes.
+- **D576** — Transformation by being burned.
+- **D577** — Transformation by braiding hair.
+- **D578** — Transformation by stepping in footprint.
+- **D579** — Transformation by looking in a mirror.
+- **D581** — Petrification by glance.
+- **D581.1** — Damsel whose voice turns her suitors to stone.
+- **D582** — Transformation by sticking magic pin into head.
+- **D582.1** — Transformation by sticking nails into feet.
+- **D582.2** — Transformation by magic needle.
+- **D583** — Transformation by lousing.
+- **D584** — Transformation by contemplation.
+- **D585** — Transformation by binding with string around neck.
+- **D585.1** — Transformation by tying charm around person's neck.
+- **D586** — Transformation to fish by throwing into sea.
+- **D587** — Transformation by baptism.
+- **D588** — Transformation by blowing.
+- **D591** — Transformation by immersing in magic well.
+- **D592** — Transformation to likeness of another by sleeping with arms about him under the same mantle.
+- **D593** — Change of sex by exchange with a yaksa (ogre).
+- **D594** — Transformation by rubbing with ointment.
+- **D595** — Transformation by application of blood.
+- **D596** — Transformation by placing something on head.
+- **D596.1** — Transformation by placing bewitched flower on head.
+- **D599** — Transformation by various means miscellaneous.
+
+## Miscellaneous transformation incidents
+
+- **D600** — Miscellaneous transformation incidents.
+- **D601** — Offer to make pups born of woman in shape of hound human.
+- **D610** — Repeated transformation.
+  *Transformation into one form after another.*
+- **D610.1** — Goddess repeatedly transforms herself.
+- **D611** — Protean beggar: Person assumes successive forms in order to beg.
+- **D612** — Protean sale: man sells youth in successive transformations.
+- **D612.1** — Illusory transformation of animals in order to sell and cheat.
+- **D615** — Transformation combat.
+  *Fight between contestants who strive to outdo each other in successive transformations.*
+- **D615.1** — Transformation contest between magicians.
+- **D615.2** — Transformation contest between master and pupil.
+- **D615.3** — Transformation combat between lover and maid.
+- **D615.4** — Men transformed to animals fight.
+- **D615.4.1** — Fairies (gods?)
+  *transformed to animals fight.*
+- **D615.5** — Transformation combat between saints.
+- **D616** — Repeated transformations to deceive wives.
+  *A husband thus makes each of his many wives believe that he is always with her.*
+- **D620** — Periodic transformation.
+  *A person or thing is transformed at definite intervals.*
+- **D621** — Daily transformation.
+- **D621.0.1** — One shape by day; another by night.
+- **D621.1** — Animal by day; man by night.
+- **D621.1.1** — Man by day; animal by night.
+- **D621.2** — Tree by day; man by night.
+- **D621.2.1** — Bush by day; woman by night.
+- **D621.2.2** — Flower by day; girl by night.
+- **D621.3** — Ugly by day; fair by night.
+- **D621.4** — Size of object transformed at night.
+- **D621.4.1** — Magic dog shrinks at night.
+- **D621.5** — Sheep by day; dog by night.
+- **D621.6** — Young man issues from conch-shell every evening.
+- **D622** — Weekly transformation.
+- **D622.1** — Transformation to werwolf every Friday night.
+- **D623** — Transformation every ten days.
+- **D624** — Yearly transformation.
+- **D624.1** — Storks become men in Egypt in the winter.
+- **D624.2** — Fairies become birds every other year.
+- **D624.3** — Yearly transformation to person of different sex.
+- **D630** — Transformation and disenchantment at will.
+- **D630.1** — Power of self-transformation received from wood spirit.
+- **D630.1.1** — Power of self-transformation received from demon.
+- **D630.2** — Power of self-transformation received from a god.
+- **D630.2.1** — Power of self-transformation received from an angel.
+- **D630.3** — Power of self-transformation received from fairy parent.
+- **D630.4** — Deity has power of self-transformation.
+- **D631** — Size changed at will.
+- **D631.1** — Person changes size at will.
+- **D631.1.1** — Person changes appearance at will.
+- **D631.2** — Animal's size changed at will.
+- **D631.2.1** — Dogs large or small at will.
+- **D631.3** — Size of object changed at will.
+- **D631.3.1** — Compressible canoe.
+  *Can be made pocket size.*
+- **D631.3.1.1** — Compressible ship.
+  *Can be put into vest pocket.*
+- **D631.3.2** — Compressible tent.
+  *Large or small at will.*
+- **D631.3.3** — Sword large or small at will.
+- **D631.3.4** — Compressible load.
+- **D631.3.5** — Compressible hammer.
+- **D631.3.6** — Cloth large or small at will.
+- **D631.3.7** — Bed large or small at will.
+- **D631.3.8** — Spear large or small at will.
+- **D631.4** — Supernatural creatures change size at will.
+- **D631.4.1** — Dwarfs change size at will.
+- **D631.4.2** — Angels change size at will.
+- **D631.4.3** — Demons change size at will.
+- **D631.4.4** — Creature born from egg changes size at will.
+- **D632** — Boat transforms self at will of master.
+- **D632.1** — Island canoe.
+  *An island that becomes a canoe at will.*
+- **D640** — Reasons for voluntary transformation.
+- **D641** — Transformation to reach difficult place.
+- **D641.1** — Lover as bird visits mistress.
+- **D641.1.1** — Girl as bird visits lover.
+- **D641.1.2** — Transformation to be able to woo maiden.
+- **D641.2** — Transformation to gain access to enemy's camp (fortress).
+- **D641.2.1** — Transformation to spy out enemy's camp.
+- **D641.3** — Transformation in order to enter rival's stomach.
+- **D641.4** — Transformation to travel to otherworld.
+- **D642** — Transformation to escape difficult situation.
+- **D642.1** — Transformation to escape from captivity.
+- **D642.2** — Transformation to escape death.
+- **D642.3** — Transformation to escape lover.
+- **D642.3.1** — Pursued sweetheart becomes tree.
+- **D642.4** — Transformation to escape ambush.
+- **D642.5** — Transformation to escape notice.
+- **D642.5.1** — Transformation to hide from ogress.
+- **D642.6** — Transformation to escape ogress.
+- **D642.7** — Transformation to elude pursuers.
+- **D643** — Transformation so as to rescue.
+- **D643.1** — Transformation to falcon in order to rescue condemned man at the gallows.
+- **D643.2** — Man transformed to deer decoy for people at execution of saint's friend.
+- **D644** — Transformation to travel fast.
+- **D645** — Transformation to test heroes.
+- **D646** — Transformation to be picked up (caught).
+- **D646.1** — Transformation to fish to be caught.
+- **D646.2** — Transformation to child or pet to be adopted.
+- **D647** — Transformation to seek lost (or unknown) person.
+- **D647.1** — Faithful brother transforms self to deer to seek sister.
+- **D647.2** — Transformation to eagle so as to scour country for lovely woman as bride for king.
+- **D651** — Transformation to defeat enemies.
+- **D651.1** — Transformation to kill enemy.
+- **D651.1.1** — Transformation of magic object to animal which kills enemy.
+- **D651.1.2** — Demons assume human form to revenge brother's death.
+- **D651.1.3** — Queen transforms herself to defeat god of death.
+- **D651.2** — Transformation to frighten enemy.
+- **D651.3** — Transformation to destroy enemy's property.
+- **D651.4** — Transformation to ant in order to gnaw bow-strings of enemy.
+- **D651.5** — Transformation to spy enemy's camp.
+- **D651.6** — Transformation so as to protect hero from enemy.
+- **D655** — Transformation to receive food.
+- **D655.1** — Transformation to buffalo so as to eat grass.
+- **D655.2** — Witch transforms self to animal (hare, pig) so as to suck cows.
+- **D657** — Transformation to steal.
+- **D657.1** — Transformation to be put in food-bag.
+- **D657.2** — Transformation to flying horse so as to abduct king.
+- **D657.3** — Transformation in order to steal fire.
+- **D658** — Transformation to seduce.
+- **D658.1** — Transformation to animal to seduce woman.
+- **D658.2** — Transformation to husband's (lover's) form to seduce woman.
+- **D658.3** — Transformation of sex to seduce.
+- **D658.3.1** — Transformation to seduce man.
+- **D658.3.2** — Transformation of animal to woman to seduce man.
+- **D658.3.2.1** — God as mare seduces stallion.
+- **D658.3.3** — Seven girls in guise of seven parrots come to boy who has spurned them.
+- **D659** — Miscellaneous reasons for voluntary transformation.
+- **D659.1** — Transformation to snakes at night in order to sleep.
+- **D659.2** — Transformation to animals to fight.
+- **D659.3** — Transformation to show displeasure.
+- **D659.4** — Transformation to act as helpful animal.
+- **D659.4.1** — Transformation to lion in order to guard palace.
+- **D659.4.2** — Sea dragon in serpent's form to accompany hero.
+- **D659.4.3** — Transformation to eagle to carry hero to safety.
+- **D659.4.4** — Transformation to eagle in order to guard princess.
+- **D659.5** — Transformation to obtain blessing.
+- **D659.6** — Transformation to friar to instruct mankind.
+- **D659.7** — Transformation: wife to mistress.
+  *Transformed wife substitutes for husband's mistress.*
+- **D659.8** — Transformation to test fidelity.
+- **D659.9** — Transformation to another form to persuade man to go to battle.
+- **D659.10** — Transformation to lure hunters to certain place.
+  *Usually fairyland.*
+- **D659.11** — Transformation to recover stolen goods.
+- **D659.12** — Transformation to tramp to escape recognition.
+- **D659.13** — Transformation in order to drive buffaloes to milking.
+- **D659.14** — Transformation: woman to fly so as to help hero pick out weapons from among many.
+- **D660** — Motive for transformation of others.
+- **D661** — Transformation as punishment.
+- **D661.1** — Transformation as revenge for repulsing amorous advances.
+- **D661.2** — Transformation as punishment for denouncing saint.
+- **D661.3** — Transformation for violation of vow.
+- **D662** — Transformation to cure inconstant husband.
+  *He falls in love with another woman: his wife changes him to negro. He then falls in love with negress: wife changes him to ass. He then falls in love with she-ass. Finally restored to his original form.*
+- **D663** — Transformation as reward.
+- **D664** — Transformation of woman by goddess to preserve chastity.
+- **D665** — Transformation of enemy to be rid of him.
+- **D665.1** — Transformation of rival in love (marriage) to be rid of him.
+- **D665.2** — Transformation of stepchild to be rid of him.
+- **D665.3** — Jealous co-wife transforms the other.
+- **D666** — Transformation to save a person.
+- **D666.1** — King of birds transforms his quails into sticks and pebbles so king and his hunters and hawks cannot kill them.
+- **D670** — Magic flight.
+- **D671** — Transformation flight.
+  *Fugitives transforms themselves in order to escape detection by the pursuer.*
+- **D671.0.1** — Fugitive transforms self to stone.
+  *Thrown to safety by pursuer.*
+- **D671.0.2** — Fugitive transformed by helper to escape detection.
+- **D671.1** — Reversed transformation flight.
+  *Transformed pursuer.*
+- **D672** — Obstacle flight.
+  *Fugitives throw objects behind them which magically become obstacles in pursuer's path.*
+- **D672.1** — Magic objects as decoy for pursuer.
+  *Date palms are dropped which are transformed into animals which the pursuer stops to pick up.*
+- **D673** — Reversed obstacle flight.
+  *Magic obstacles raised in front of fugitive.*
+- **D674** — Magic flight with the help of a he-goat.
+  *Speaking he-goat saves the girl promised to the devil.*
+- **D675** — Sea turns to ice to permit flight.
+- **D680** — Miscellaneous circumstances of transformation.
+- **D681** — Gradual transformation.
+- **D682** — Partial transformation.
+- **D682.1** — Partial transformation: person with animal head.
+- **D682.2** — Partial transformation: person with animal hair.
+- **D682.3** — Partial transformation: animal with human mind.
+- **D682.3.1** — Animals in human form retain animal food and habits.
+- **D682.3.2** — Animal with human eyes.
+- **D682.4** — Partial transformation color changed.
+- **D682.4.1** — Magic mantle changes color hourly.
+- **D682.4.2** — "Spirit of poetry" as hideous youth becomes beautiful.
+- **D683** — Transformation by magician.
+- **D683.1** — Transformers.
+  *Demigods who transform things at will so that they assume present form.*
+- **D683.2** — Transformation by witch (sorceress).
+- **D683.3** — Transformation by troll.
+- **D683.4** — Transformation by saint.
+- **D683.5** — Transformation by god (goddess).
+- **D683.6** — Transformation by evil spirits.
+- **D683.7** — Transformation by fairy.
+- **D683.7.1** — Transformation by offspring of fairy and mortal.
+- **D683.8** — Transformation by angel (God).
+- **D683.9** — Transformation by druid.
+- **D684** — Transformation by helpful animals.
+- **D684.0.1** — Transformation by magic animal.
+- **D686** — Transformed animal refuses to touch meat of that animal.
+- **D686.1** — Person transformed to animal refuses human food.
+  *Will eat only food suitable for his enchanted form.*
+- **D688** — Transformed mother suckles child.
+- **D688.1** — Transformed cow advises daughter.
+- **D691** — Daily beating of men transformed to dogs.
+  *Necessary unless hero himself is to be transformed.*
+- **D692** — City's inhabitants transformed to fish.
+  *Different classes to different colored fish.*
+- **D693** — Man transformed to ass plays the lyre.
+- **D694** — Food left for transformed person.
+- **D695** — Man transformed to woman has children.
+- **D696** — Transformation during sleep.
+- **D697** — Magic object can transform self.
+- **D697.1** — Magic loin cloth can transform itself into anything.
+- **D698** — Gods have power to transform themselves.
+- **D699** — Additional transformation motifs.
+- **D699.1** — Eyes of hero's buffalo friend turn into two powerful dogs that protect his wife.
+
+## Person disenchanted
+
+- **D700** — Person disenchanted.
+- **D701** — Gradual disenchantment.
+- **D702** — Partial disenchantment.
+- **D702.1** — Disenchantment with missing member.
+  *While in transformation a person loses a bodily member. When disenchanted, he still lacks the member. Many of the references to +E33 may refer to this motif.*
+- **D702.1.1** — Cat's paw cut off: woman's hand missing.
+  *A man spends a night in a haunted mill, where he cuts off a cat's paw. In the morning the miller's wife has lost her hand.*
+- **D702.1.2** — Hog's forefoot cut off: woman's hand missing.
+- **D702.2** — Person restored to human form retains certain animal features.
+- **D705** — Place disenchanted.
+- **D705.1** — Castle disenchanted.
+- **D710** — Disenchantment by rough treatment.
+- **D711** — Disenchantment by decapitation.
+- **D711.1** — Disenchantment by decapitation and replacement of head.
+- **D711.1.1** — Head transferred from one man to another; second man's head in first man's hand.
+- **D711.2** — Disenchantment by cutting person in two.
+- **D711.3** — Disenchantment from bird by cutting off bill.
+- **D711.4** — Disenchantment from flower by breaking stalk.
+- **D711.4.1** — Disenchantment from flower by plucking it.
+- **D711.5** — Disenchantment from leaf by breaking it from tree.
+- **D711.6** — Disenchantment from fruit by plucking it from tree.
+- **D712** — Disenchantment by violence.
+- **D712.1** — Disenchantment by cutting off and reversing bodily members.
+- **D712.1.1** — Disenchantment by cutting off animal's limb.
+- **D712.1.2** — Disenchantment by cutting in two.
+- **D712.2** — Disenchantment by slinging against something.
+- **D712.2.1** — Disenchantment by throwing into fire.
+- **D712.3** — Disenchantment by striking.
+- **D712.3.1** — Disenchantment by striking with a missile.
+- **D712.3.2** — Disenchantment by throwing a stone.
+- **D712.3.3** — Disenchantment by throwing a flower.
+- **D712.4** — Disenchantment by drawing blood.
+- **D712.4.1** — Disenchantment by drinking blood.
+- **D712.5** — Disenchantment by beating.
+- **D712.6** — Disenchantment by wounding.
+- **D712.7** — Disenchantment by shooting.
+- **D712.8** — Disenchantment by ripping armor.
+- **D712.9** — Disenchantment by killing.
+- **D712.9.1** — Lizard in human form killed; corpse is lizard.
+- **D712.10** — Disenchantment by driving stake through body.
+- **D712.11** — Disenchantment by throwing objects at transformed person.
+- **D714** — Disenchantment by rubbing.
+- **D716** — Disenchantment by overcoming enchanted person in fight (contest).
+- **D717** — Disenchantment by assembling bones.
+- **D717.1** — Disenchantment by laying collected bones in a seven-fold cloth and spreading another above it.
+- **D718** — Disenchantment by shaving.
+- **D719** — Disenchantment by rough treatment miscellaneous.
+- **D719.1** — Disenchantment by burying victim and sowing grain over him.
+- **D719.1.1** — Disenchantment through burial and revival.
+- **D719.2** — Girl destroys crab shape of husband and disenchants him permanently.
+- **D720** — Disenchantment by removing (destroying) covering of enchanted person.
+- **D721** — Disenchantment by removing skin (or covering).
+- **D721.1** — Disenchantment by flaying.
+- **D721.2** — Disenchantment by hiding skin (covering).
+  *When the enchanted person has temporarily removed the covering, it is stolen and the victim remains disenchanted until it is found.*
+- **D721.3** — Disenchantment by destroying skin (covering).
+- **D721.4** — Disenchantment by holding temporarily disenchanted person.
+- **D721.5** — Disenchantment from fruit (flower) by opening it.
+- **D722** — Disenchantment by taking off bridle.
+  *Man transformed to horse (ass) thus released.*
+- **D723** — Disenchantment by putting on (removing) chain from neck.
+- **D723.1** — Disenchantment by putting chain around neck.
+- **D723.2** — Disenchantment by removing chain from neck.
+- **D723.2.1** — Disenchantment by removing string from neck.
+- **D730** — Disenchantment by submission.
+  *The helper must submit to the will of the enchanted person.*
+- **D731** — Disenchantment by obedience and kindness.
+- **D732** — Loathly Lady.
+  *Man disenchants loathsome woman by embracing her.*
+- **D732.1** — Disenchantment of girl by carrying her on back.
+- **D733** — Loathly bridegroom.
+  *Woman disenchants loathsome man by embracing him.*
+- **D733.1** — Hairy anchorite.
+  *Beast-like man seduced by beautiful woman becomes human and handsome.*
+- **D733.2** — Swine bridegroom.
+  *Bride disenchants him by her love. He returns to original form.*
+- **D733.3** — Loathly husband a god in disguise.
+- **D734** — Disenchantment of animal by admission to woman's bed.
+- **D735** — Disenchantment by kiss.
+- **D735.1** — Beauty and the beast.
+  *Disenchantment of animal by being kissed by woman (man).*
+- **D735.2** — Three redeeming kisses.
+  *(Die weisse Frau.) A woman can be disenchanted from animal form if man will kiss her three times, each time when she is in the form of a different terrifying animal.*
+- **D735.3** — Disenchantment from tree form by embrace of lover.
+- **D735.4** — Disenchantment by enduring animal's embrace.
+- **D735.4.1** — Girl disenchants animal husband by enduring his embraces without fear.
+- **D735.4.2** — Son disenchants animal father by enduring his caresses without fear.
+- **D741** — Disenchantment of monster when prince promises to marry the monster's mother.
+  *The prince imagines falsely that the mother is also a monster.*
+- **D741.1** — Disenchantment of monster when his mother acknowledges him as son.
+- **D741.2** — Disenchantment of monster child when baptized.
+- **D742** — Disenchantment by promise to marry.
+- **D743** — Disenchantment by sexual intercourse.
+  *Man disenchants woman in form of a bear.*
+- **D745** — Disenchantment by feeding enchanted animals.
+- **D750** — Disenchantment by faithfulness of others.
+- **D753** — Disenchantment by accomplishment of tasks.
+- **D753.1** — Disenchantment by sewing shirts for enchanted brothers.
+- **D753.2** — Disenchantment of another by weeping jug of tears.
+- **D753.3** — Disenchantment by obeying directions received in a dream.
+- **D753.4** — Disenchantment by climbing glass mountain.
+- **D754** — Disenchantment by serving transformed person.
+- **D755** — Disenchantment of long absent spouse by faithfulness of partner.
+- **D757** — Disenchantment by holding enchanted person during successive transformations.
+- **D758** — Disenchantment by maintaining silence.
+- **D758.1** — Disenchantment by three nights' silence under punishment.
+- **D758.2** — Disenchantment by maintaining silence for a year or more.
+- **D759** — Disenchantment by faithfulness of others miscellaneous.
+- **D759.1** — Disenchantment by taking key from serpent's mouth at midnight.
+  *The disenchanter is to take the key (three keys) from the mouth of the woman in serpent form with his own mouth.*
+- **D759.2** — Disenchantment from bird when queen milks own milk into bird's beak.
+- **D759.3** — Disenchantment by naked virgin undergoing frightful journey at midnight.
+  *She must come naked and alone on St. John's night between twelve and one, climb the castle walls, and enter the treasure chamber.*
+- **D759.4** — Disenchantment if twelve men will not leave castle for a year.
+- **D759.5** — Disenchantment by following enchanted woman through lake to underwater castle.
+- **D759.6** — Disenchantment by maidens walking with lighted candles in procession.
+- **D759.7** — Disenchantment by maiden sitting at head of enchanted king's bed on morning of St. John's day.
+- **D759.8** — Snake disenchanted by being allowed to wrap itself three times around person's neck.
+- **D759.9** — Failure to disenchant by not watching sleeping princess long enough.
+- **D759.10** — Three soldiers in the enchanted manor.
+  *Curiosity overcoming them they forfeit the power of disenchanting the princesses. Seven seven-year-old boys break the spell and save the princess.*
+- **D760** — Disenchantment by miscellaneous means.
+- **D762** — Disenchantment by proper person waking from magic sleep.
+  *The enchanted person appears three times and if the sleeper does not wake by the third time the enchantment must last.*
+- **D762.1** — Disenchantment by causing enchanted person to speak.
+- **D762.2** — Disenchantment by being wakened from magic sleep by proper agent.
+- **D763** — Disenchantment by destroying enchanter.
+- **D763.1** — Disenchantment by eating enchanter's heart.
+- **D763.2** — Disenchantment by defeating enchanter in single combat.
+- **D764** — Disenchantment by eating or drinking.
+- **D764.1** — Disenchantment by drinking milk of queen who has borne two boys.
+- **D764.2** — Disenchantment by biting certain twig.
+- **D764.3** — Disenchantment by eating certain salmon.
+- **D764.4** — Disenchantment by eating apple.
+- **D764.5** — Disenchantment by eating whale meat.
+- **D764.6** — Disenchantment by eating certain plant.
+- **D764.7** — Disenchantment by refusing to eat for three days.
+- **D764.8** — Disenchantment by eating head of serpent.
+- **D765** — Disenchantment by reversing (undoing) enchantment.
+- **D765.1** — Disenchantment by removing cause of enchantment.
+- **D765.1.1** — Disenchantment by removal of enchanting pill from mouth.
+- **D765.1.1.1** — Disenchantment by removing ring from under dead girl's tongue.
+  *Lover is thus freed from loving her.*
+- **D765.1.2** — Disenchantment by removal of enchanting pin (thorn).
+- **D765.2** — Disenchantment by untying enchanting knot.
+- **D766** — Disenchantment by liquid.
+- **D766.1** — Disenchantment by bathing (immersing) in water.
+- **D766.1.1** — Disenchantment by water and command.
+- **D766.1.2** — Disenchantment by touching water.
+- **D766.1.3** — Disenchantment by pouring water into ear.
+- **D766.2** — Disenchantment by application of blood.
+- **D766.2.1** — Disenchantment by rubbing with pig's blood.
+- **D766.3** — Disenchantment by tears.
+- **D766.4** — Disenchantment by bathing in milk.
+- **D771** — Disenchantment by use of magic object.
+- **D771.1** — Disenchantment by burning magic hair.
+- **D771.2** — Disenchantment by rubbing with magic grease.
+- **D771.3** — Disenchantment by using powder.
+- **D771.4** — Disenchantment by using wand.
+- **D771.5** — Disenchantment by drinking from golden vessel.
+- **D771.6** — Disenchantment by medicine.
+- **D771.7** — Disenchantment by rosary or scapular.
+- **D771.8** — Disenchantment and transformation by means of a magic sword.
+- **D771.9** — Disenchantment by sprinkling consecrated rice.
+- **D771.10** — Disenchantment by ring.
+- **D771.11** — Disenchantment by flower.
+- **D771.12** — Disenchantment by use of crystal ball.
+- **D772** — Disenchantment by naming.
+- **D772.1** — Disenchantment by recognition.
+- **D775** — Disenchantment by feeding transformed creature.
+  *This is done contrary to commands.*
+- **D777** — Disenchantment by placing handkerchief between horns.
+- **D777.1** — Disenchantment by covering with cloth.
+- **D778** — Disenchantment by blowing on victim.
+- **D778.1** — Disenchantment from berry by blowing on it.
+- **D778.2** — Disenchantment by blowing medicine on victim.
+- **D781** — Disenchantment by prayer (mass) of Pope.
+- **D781.1** — Disenchantment by blessing.
+- **D782** — Disenchantment by physical contact.
+- **D782.1** — Disenchantment by touch of holy man.
+- **D782.2** — Disenchantment by touching earth.
+- **D783** — Disenchantment by being found when lost.
+- **D784** — Disenchantment by lighting fire.
+- **D785** — Disenchantment by magic contest.
+- **D785.1** — Disenchantment produced by hero winning series of contests with seven demons.
+- **D786** — Disenchantment by music.
+- **D786.1** — Disenchantment by song.
+- **D787** — Disenchantment by encircling.
+- **D788** — Disenchantment by sign of cross.
+- **D789** — Other means of disenchantment.
+- **D789.1** — Disenchantment by covering with deliverer's clothing.
+- **D789.2** — Disenchantment by breaking lamp.
+- **D789.3** — Disenchantment by sight of old home.
+- **D789.3.1** — Frog-woman disenchanted by sight of water.
+- **D789.4** — Disenchantment by breaking tabu.
+- **D789.5** — Disenchantment by throwing golden objects into water.
+- **D789.6** — Disenchantment by repeating magic formula.
+- **D789.6.1** — Disenchantment by speaking proper words.
+- **D789.7** — Disenchantment by shaking certain tree.
+- **D789.8** — Disenchantment of enchanted (sunken) castle (town, inhabitants) by digging it out.
+- **D789.9** — Girl disenchants her tiger-husband by putting a garland around his neck, sprinkling sand and water over him.
+- **D789.10** — Disenchantment by ringing bell.
+- **D790** — Attendant circumstances of disenchantment.
+- **D791** — Disenchantment possible under unique conditions.
+  *Only one combination of time place and person will serve. For many of these combinations see Hartland Science 240, 244, 248.*
+- **D791.1** — Disenchantment at end of specified time.
+- **D791.1.1** — Disenchantment at end of seven years.
+- **D791.1.2** — Disenchantment when superhuman task is finished.
+  *Enchanted person appears every seven years in human form and puts one stitch in a smock. When it is finished, she will be delivered.*
+- **D791.1.3** — The deliverer in the cradle.
+  *Enchanted person can be delivered by child rocked in a cradle made from an oak sapling after it has grown great.*
+- **D791.1.4** — Disenchantment at end of two hundred years.
+- **D791.1.5** — Disenchantment at end of nine hundred years.
+- **D791.1.6** — Disenchantment possible at the end of seven hundred years.
+- **D791.1.7** — Disenchantment at cock crow.
+- **D791.1.8** — Disenchantment at midnight after owl hoots three times.
+- **D791.2** — Disenchantment by only one person.
+- **D791.2.1** — Disenchantment of girl only by lover.
+- **D791.2.2** — Disenchantment can be done by wife.
+- **D791.2.2.1** — Disenchantment promised if girl may marry transformed man.
+- **D791.3** — Disenchantment fails because conditions are not fulfilled.
+- **D791.4** — Disenchantment by finding key to enchanted castle.
+- **D792** — Transformed mother called by her child.
+  *Comes and is rescued.*
+- **D793** — Disenchantment made permanent.
+- **D793.1** — Disenchantment made permanent by holding to a hair.
+- **D793.2** — Disenchantment made permanent by burning cast-off skin.
+- **D794** — Enchanted person attracts attention of rescuer.
+- **D794.1** — Enchanted person attracts attention by dancing.
+- **D795** — Maiden disenchanted, deserted, and refound.
+- **D796** — Divine beings assume their own shape in sleep.
+- **D797** — Disenchantment as proof of truth.
+  *The prodigy convinces judge that witness is speaking truth.*
+- **D798** — Disenchantment by passing between human being's legs.
+- **D799** — Disenchantment by other means.
+- **D799.1** — Children disenchanted after long period are aged.
+- **D799.2** — Valley disenchanted rises to level of surroundings.
+- **D799.3** — Attendants of disenchanted person automatically disenchanted.
+
+## Magic object
+
+- **D800** — Magic object.
+- **D801** — Ownership of magic object.
+- **D801.1** — Magic objects possessed by witch, sorcerer or evil dwarf.
+- **D803** — Magic objects created by deity.
+- **D803.1** — Magic objects created by God on sixth day.
+- **D804** — Ineffable name written on object renders it magic.
+- **D805** — Magic object to be used only in extreme need.
+- **D806** — Magic object effective only when exact instructions for its use are followed.
+- **D806.1** — Magic object effective when struck on ground once only.
+  *Second blow renders useless.*
+- **D806.2** — Magic charm (formula) used injudiciously brings death to owner's wife, children, himself.
+- **D810** — Magic object a gift.
+- **D811** — Magic object received from God (a god).
+- **D811.1** — Magic object received from goddess.
+- **D811.2** — Magic object falls down from the heaven.
+- **D811.2.1** — Magic needle and thread fall from heaven as result of prayer.
+- **D812** — Magic object received from supernatural being.
+- **D812.1** — Magic object received from saint.
+- **D812.2** — Magic object received from demigod.
+- **D812.3** — Magic object received from devil.
+- **D812.4** — Magic object received from ghost.
+- **D812.4.1** — Magic object received from the dead in lower world.
+- **D812.4.2** — Magic object acquired as reward for burial of the dead.
+- **D812.5** — Magic object received from genie.
+- **D812.5.1** — Magic object received from temple demons.
+- **D812.6** — Magic object received from witch or wizard.
+- **D812.7** — Magic object received from dragon king.
+- **D812.8** — Magic object received from lady in dream.
+- **D825** — Magic object received from maiden.
+- **D812.8.1** — Magic object received from giantess in dream.
+- **D812.8.2** — Magic object received from man in dream.
+- **D812.9** — Magic object received from wild man.
+- **D812.10** — Magic object received from angel.
+- **D812.10.0.1** — Angel reveals location of magic object.
+- **D812.11** — Magic object received from giant.
+- **D812.12** — Magic object received from dwarf.
+- **D812.12.1** — Magic sword received from dwarf in dream.
+- **D812.13** — Magic objects gifts of magician.
+- **D812.14** — Magic object received from ascetic.
+- **D812.15** — Magic object received from maiden-spirit.
+- **D813** — Magic object received from fairy.
+- **D813.1** — Magic object received from river-nymph.
+- **D813.1.1** — Magic sword received from Lady of Lake.
+- **D813.1.2** — Magic cauldron received from lake spirit.
+- **D813.2** — Magic object received from grateful fairy.
+  *Hero has cured sick fairy by making her laugh.*
+- **D813.3** — Magic object received from maiden in otherworld island.
+- **D814** — Magic objects received from sun, moon, and stars, etc.
+- **D814.1** — Magic object received from wind.
+- **D815** — Magic object received from relative.
+- **D815.1** — Magic object received from mother.
+- **D815.2** — Magic object received from father.
+- **D815.3** — Magic object received from godmother.
+- **D815.4** — Magic object received from sister.
+- **D815.5** — Magic object received from father-in-law.
+- **D815.6** — Magic object received from daughter.
+- **D815.7** — Magic object received from foster-parents.
+- **D815.7.1** — Magic object received from girl's foster-mother.
+- **D815.8** — Magic object received from wife.
+- **D816** — Magic object inherited.
+- **D817** — Magic object received from grateful person.
+- **D817.1** — Magic object received from man in return for rescue of child.
+- **D817.1.1** — Magic object received from dwarf in return for rescue of child or kindness to child.
+- **D817.1.2** — Magic object received from grateful father of redeemed snake.
+- **D817.2** — Magic object received in return for being shaved.
+- **D818** — Magic object received from astrologer.
+- **D818.1** — Magic object received from magician.
+- **D821** — Magic object received from old woman.
+- **D822** — Magic object received from old man.
+- **D823** — Magic object received from huntsman.
+- **D823.1** — Magic object received from green-clad huntsman.
+- **D825** — Magic object received from maiden.
+- **D825.1** — Magic object received from cat-woman; i.e. woman transformed intermittently to cat.
+- **D826** — Magic object received from monster.
+- **D826.1** — Magic object vomited by conquered monster.
+- **D827** — Magic object received through particular intermediaries.
+  *Only one person can help secure it.*
+- **D828** — Magic object received from child.
+- **D829** — Acquisition of magic object miscellaneous.
+- **D829.1** — Magic object received by apprentice from master.
+- **D830** — Magic object acquired by trickery.
+- **D830.1** — Attempt to learn about magic object by spying.
+- **D831** — Magic object acquired by trick exchange.
+  *By means of second magic object hero recovers first.*
+- **D832** — Magic objects acquired by acting as umpire for fighting heirs.
+  *When hero gets hold of objects he refuses to return it.*
+- **D833** — Magic object acquired by tricking giant.
+  *Giant is persuaded to give the objects to the hero.*
+- **D834** — Magic object acquired by tricking devil.
+  *Man gets shelter in storm; devil gets wet. Devil gives man magic object in return for information as to how he kept dry.*
+- **D835** — Magic object acquired through trickery: child forced to cry till object is given.
+- **D836** — Magic object acquired by exchanging letters.
+- **D837** — Magic object acquired through foolish bargain.
+- **D838** — Magic object acquired by stealing.
+- **D838.1** — Stolen objects powerful in magic.
+- **D838.2** — Magic object taken from ogre's house.
+- **D838.3** — Magic object stolen in Thor's temple.
+- **D838.4** — Magic object taken in the serpents' country.
+- **D838.5** — Magic object taken from barrow.
+- **D838.6** — Magic object stolen from giant.
+- **D838.7** — Magic armor stolen from dwarf by giant.
+- **D838.8** — Magic helmet taken directly from bystander.
+- **D838.9** — Boy overhears witches' conversation about magic objects, which he gets possession of.
+- **D838.10** — Prince procures magic object from bathing fairy when he steals her clothes.
+- **D838.11** — Man poisons couple, owners of magic gong, and gains possession of it.
+- **D838.12** — Magic object taken from dead enemy.
+- **D838.13** — Magic object stolen at night.
+- **D839** — Magic object acquired by trickery miscellaneous.
+- **D839.1** — Magic root acquired by tricking mother bird into searching for it in order to disentangle her young.
+- **D839.2** — Fairy dun acquired by tricking owner.
+- **D840** — Magic object found.
+- **D841** — Magic object accidentally found.
+- **D842** — Magic object found on grave.
+- **D842.1** — Magic object found on mother's grave.
+- **D842.2** — Magic object found on father's grave.
+- **D842.3** — Magic object found on grave of slain helpful animal.
+- **D845** — Magic object found in underground room.
+- **D845.1** — Magic object found in giant's cave.
+- **D846** — Magic object found in magic castle.
+- **D846.1** — Golden cot found in magic castle.
+- **D847** — Magic object found in chimney.
+- **D848** — Magic object dug from ground.
+- **D849** — Magic object found miscellaneous.
+- **D849.1** — Magic object found in fort.
+- **D849.2** — Magic object pointed out by bird.
+- **D849.3** — Magic object found on an island.
+- **D849.4** — Magic object found in a wood.
+- **D849.4.1** — Magic object found in garden.
+- **D849.5** — Magic object found in fish.
+- **D849.5.1** — Magic object found in heart of whale.
+- **D849.6** — Magic object found under dead girl's tongue.
+- **D849.7** — Magic object pointed out by divine voice.
+- **D849.8** — Magic object found on ground.
+- **D850** — Magic object otherwise obtained.
+- **D851** — Magic object acquired by exchange.
+  *(No trick).*
+- **D851.1** — Magic object purchased.
+- **D852** — Magic object acquired by wishing.
+- **D853** — Magic object forged by smith to order.
+- **D853.1** — Magic horse (wooden) made by carpenter.
+- **D855** — Magic object acquired as reward.
+- **D855.1** — Magic object acquired as reward for vigil.
+- **D855.2** — Magic object acquired as reward for religious austerities.
+- **D855.3** — Magic object acquired as reward for quest into grave.
+- **D855.4** — Magic object as reward for faith.
+- **D855.5** — Magic object as reward for good deeds.
+- **D856** — Magic object acquired by gaining love of owner.
+- **D857** — Magic object born with hero.
+- **D858** — Magic object acquired by singing.
+- **D859** — Magic object obtained miscellaneous means.
+- **D859.1** — Magic object acquired by rapping on tree.
+- **D859.2** — Quest to hell for magic object.
+- **D859.2.1** — Magic object received from other world.
+- **D859.3** — Magic object obtained by reaching in certain cardinal direction.
+- **D859.4** — Magic object eaten unwittingly.
+- **D859.4.1** — Magic bird-heart eaten unwittingly.
+- **D859.4.2** — Magic bird-liver eaten unwittingly.
+- **D859.5** — Magic object to be chosen from among identical worthless objects.
+  *Insect helps in choice.*
+- **D859.6** — Magic object obtained as compensation for loss of entire herd the spirit of the herd resides in the last goat's tail, which old woman keeps.
+- **D859.7** — Magic object left by frightened demons.
+- **D859.8** — Magic object as ransom of captive.
+- **D860** — Loss of magic object.
+- **D860.0.1** — Death to follow loss of magic object.
+- **D860.0.2** — Loss of magic object causes madness.
+- **D861** — Magic object stolen.
+- **D861.0.1** — Magic object stolen from local deity.
+- **D861.1** — Magic object stolen by host (at inn.)
+- **D861.2** — Magic object stolen by neighbor.
+- **D861.3** — Magic object stolen by brothers.
+- **D861.4** — Magic object stolen by rival for wife.
+- **D861.4.1** — Magic object stolen by rival's emissary.
+- **D861.5** — Magic object stolen by hero's wife.
+- **D861.5.1** — Magic object stolen by owner' s fiancie.
+- **D861.6** — Magic object stolen in card game.
+- **D861.7** — Magic object carried off by bird.
+- **D861.7.1** — Magic horn carried off by bird.
+- **D861.8** — Magic object stolen by relatives.
+- **D861.8.1** — Magic objects stolen from owner by his daughter, with whom he spends the night.
+- **D861.9** — Magic object stolen by giants.
+- **D861.10** — Magic object carried away; child allowed to play with it.
+- **D862** — Magic object taken away by force.
+- **D863** — Magic object mysteriously disappears.
+- **D865** — Magic jewel carried off by bird.
+  *This happens when the jewel is examined by daylight.*
+- **D865.1** — Magic ring carried off by bird.
+- **D866** — Magic object destroyed.
+- **D866.1** — Woman cooks the magic fruits.
+- **D866.2** — Magic object destroyed because of feigned sickness.
+- **D867** — Magic object mysteriously disappears.
+- **D867.1** — Magic object disappears at owner's death.
+- **D868** — Magic object returns to original place.
+- **D868.1** — Magic mango returns to tree for broken tabu.
+- **D871** — Magic object traded away.
+- **D871.1** — Magic object exchanged for worthless.
+  *Foolish brother (wife) exchanges old object for new.*
+- **D871.1.1** — Exchange of common cow for gold-dropping cow made by daughter when her father stops at her home for the night.
+- **D876** — Magic treasure animal killed.
+  *(Goose that laid the golden egg).*
+- **D877** — Magic object loses power by overuse.
+- **D877.1** — Magic wishing-ring loses power by touching water.
+- **D877.2** — Extraordinary flower preserves its freshness so long as it remains unperceived by anyone other than owner.
+- **D878** — Magic object voluntarily restored to giver.
+- **D878.1** — Magic sword returned to lake whence it was received.
+  *Taken back by lake spirit. (Excalibur).*
+- **D878.2** — Magic sword thrown into lake by dying hero.
+- **D880** — Recovery of magic object.
+- **D880.0.1** — Recovery of magic object cures madness.
+- **D881** — Magic object recovered by using second magic object.
+- **D881.1** — Recovery of magic object by use of magic apples.
+  *These apples cause horns to grow.*
+- **D881.2** — Recovery of magic object by use of magic cudgel.
+- **D882** — Magic object stolen back.
+- **D882.1** — Stolen magic object stolen back by helpful animals.
+- **D882.1.1** — Stolen magic object stolen back by helpful cat and dog.
+  *They steal the ring from the thief's mouth.*
+- **D882.1.2** — Magic object recovered with lioness's help.
+- **D882.2** — Recovered magic articles dropped by rescuing animals into the sea.
+- **D882.3** — Magic object stolen back by servant.
+- **D882.4** — Stolen magic object stolen back by man in disguise.
+- **D883** — Magic (marvelous object) given back to placate crying child.
+- **D884** — Thief forced to vomit up stolen magic object.
+- **D885** — Magic object recovered with devil's help.
+- **D885.1** — Magic object recovered with witch's help.
+- **D886** — Magic object recovered through recitation of magic formula.
+- **D895** — Magic object returned in payment for removal of magic horns.
+
+## Magic weather phenomena
+
+- **D900** — Magic weather phenomena.
+- **D900.0.1** — Prognostications from weather phenomena.
+- **D901** — Magic cloud.
+- **D902** — Magic rain.
+- **D902.1** — Magic mist.
+- **D902.1.1** — Druidic mist.
+- **D902.2** — Magic dew.
+- **D902.3** — Magic hail.
+- **D903** — Magic snow.
+- **D904** — Magic ice.
+- **D905** — Magic storm.
+- **D906** — Magic wind.
+- **D908** — Magic darkness.
+- **D910** — Magic body of Water.
+- **D911** — Magic sea.
+- **D911.1** — Magic wave.
+- **D911.1.1** — Magic virtue of nine waves.
+- **D915** — Magic river.
+- **D915.1** — River produced by magic.
+- **D915.2** — River contained under cock's wings.
+- **D915.2.1** — River contained in bird's ears.
+- **D915.3** — River contained in box.
+- **D915.4** — Intermittent river.
+  *River flows at stated intervals.*
+- **D915.4.1** — Sabbatical river.
+  *Dry on Sabbath.*
+- **D915.5** — River issuing from cave controlled by race of Amazons.
+- **D915.6** — Magic flood.
+- **D921** — Magic lake (pond).
+- **D921.1** — Lake (pond) produced by magic.
+- **D921.2** — Lake produced by belches after magic draught.
+- **D921.3** — Lake under which supernatural smith lives.
+- **D921.3.1** — Lake of milk created through merit of saint.
+- **D921.4** — Magic tank.
+- **D925** — Magic fountain.
+- **D925.0.1** — Magic oil-spouting fountain.
+- **D925.0.2** — Miraculous well yielding milk, beer or wine.
+- **D925.1** — Fountain magically made.
+- **D925.1.0.1** — Fountain bursts forth where water is not available for baptismal ceremonies of future saint.
+- **D925.1.1** — Saint produces fountain by means of his tears.
+- **D925.1.2** — Fountain gushes up at place where saint's head was cut off.
+- **D925.1.3** — Samson makes sweet water flow from jawbone.
+- **D925.2** — Fountain is inhabited by sacred oracular fish.
+- **D926** — Magic well.
+- **D926.1** — Well produced by magic.
+- **D926.1.1** — Well produced by saint invoking heaven.
+- **D927** — Magic spring.
+- **D927.1** — Spring made by magic.
+- **D927.1.1** — Saint causes water to issue from cut in a tree.
+- **D927.2** — Magic spring guarded by demons (monsters).
+- **D927.2.1** — Magic spring guarded by druids.
+- **D927.3** — Spring augments milk of nursing mothers who drink its water.
+- **D927.4** — Spring follows saint to his country.
+- **D927.5** — Spring runs dry (as result of fratricide).
+- **D928** — Magic water-hole.
+- **D928.1** — Water-hole made by magic.
+- **D930** — Magic land features.
+- **D931** — Magic rock (stone).
+- **D931.0.1** — Stone produced by magic.
+- **D931.0.2** — Stones fixed in the earth have certain magic powers.
+- **D931.0.2.1** — Location of magic stone determines race of king of country.
+- **D931.0.3** — Stone on which saint is baptized (is born) has magic powers.
+- **D931.0.4** — Magic stone as amulet.
+- **D931.1** — Magic coal.
+- **D931.1.1** — Magic soot.
+- **D931.1.2** — Magic ashes.
+- **D931.1.3** — Magic lampblack.
+- **D931.1.4** — Magic lime.
+- **D931.2** — Magic pebble.
+- **D932** — Magic mountain.
+- **D932.0.1** — Mountain created by magic.
+- **D932.1** — Magic cliff.
+- **D932.2** — Magic hill.
+- **D933** — Magic sink-hole.
+- **D934** — Magic turf.
+- **D934.1** — Magic sod.
+- **D935** — Magic earth (soil).
+- **D935.0.1** — Magic earth from crossroads.
+- **D935.1** — Magic sand.
+- **D935.2** — Magic clay.
+- **D935.3** — Magic dust.
+- **D935.4** — Magic brick.
+- **D936** — Magic island.
+- **D936.1** — Island made by magic.
+- **D937** — Magic plain.
+- **D940** — Magic forests.
+- **D941** — Magic forest.
+- **D941.1** — Forest produced by magic.
+- **D945** — Magic hedge.
+- **D950** — Magic tree.
+- **D950.0.1** — Magic tree guarded by serpent (dragon) coiled around its roots.
+- **D950.0.1.1** — Magic tree guarded by giant ogre.
+- **D950.0.2** — Magic tree at bottom of lake.
+- **D950.1** — Magic hazel tree.
+- **D950.2** — Magic oak tree.
+- **D950.3** — Magic peach tree.
+- **D950.4** — Magic cherry tree.
+- **D950.5** — Magic pear tree.
+- **D950.6** — Magic ash tree (quicken, rowan).
+- **D950.7** — Magic lime tree.
+- **D950.8** — Magic fig tree.
+- **D950.9** — Magic olive tree.
+- **D950.10** — Magic apple tree.
+- **D950.11** — Magic alder tree.
+- **D950.12** — Magic birch tree.
+- **D950.13** — Magic hawthorn.
+- **D950.14** — Magic yew tree.
+- **D950.14.1** — Magic yew tree created by fairies.
+- **D950.15** — Magic bamboo tree.
+- **D950.16** — Magic nut tree.
+- **D950.17** — Magic laurel tree.
+- **D950.18** — Magic cedar tree.
+- **D950.19** — Magic palm tree.
+- **D951** — Tree produced by magic.
+- **D951.1** — Magic tree springs from fairyland berry.
+- **D952** — Magic tree-bark.
+- **D953** — Magic twig.
+- **D953.1** — Origin of magic twig.
+- **D953.1.1** — Magic twigs grow from buried magic vessel.
+- **D953.2** — Magic birch twig.
+- **D954** — Magic bough.
+- **D955** — Magic leaf.
+- **D956** — Magic stick of wood.
+- **D957** — Magic faggot.
+- **D958** — Magic thorn.
+- **D960** — Magic gardens and plants.
+- **D961** — Magic garden.
+- **D961.1** — Garden produced by magic.
+- **D962** — Magic vineyard.
+- **D964** — Magic bush.
+- **D965** — Magic plant.
+- **D965.0.1** — Honeysuckle "king of trees."
+- **D965.1** — Magic mandrake.
+- **D965.2** — Magic calabash (gourd).
+- **D965.3** — Magic rosebush.
+- **D965.4** — Magic mistletoe.
+- **D965.4.1** — Mistletoe used by druids.
+- **D965.5** — Moly: magic plant.
+- **D965.6** — Magic lotus plant.
+- **D965.7** — Magic four-leaf clover.
+- **D965.8** — Magic corn.
+- **D965.8.1** — Magic rice (plant.)
+- **D965.9** — Magic laurel (plant).
+- **D965.10** — Magic myrtle.
+- **D965.11** — Magic plantain.
+- **D965.12** — Magic grass.
+- **D965.13** — Magic flax.
+- **D965.14** — Magic fern blossom.
+  *May be obtained on St. John's eve.*
+- **D965.15** — Magic barley plant.
+- **D965.16** — Magic rue.
+- **D965.17** — Magic tobacco plant.
+- **D965.18** — Magic weeds.
+- **D965.19** — Magic myrtle.
+- **D967** — Magic roots.
+- **D971** — Magic seed.
+- **D971.1** — Magic mustard-seed.
+- **D971.2** — Magic hemp-seed.
+- **D971.3** — Magic fern-seed.
+- **D971.4** — Magic black cummin.
+- **D973** — Magic grains.
+- **D973.1** — Magic rice-grains.
+- **D973.1.1** — Rice-grains magically produced by gourd.
+- **D973.2** — Magic barley.
+- **D974** — Magic plant-sap.
+- **D975** — Magic flower.
+- **D975.1** — Magic lotus-flower.
+- **D975.2** — Magic rose.
+- **D976** — Magic thorn.
+- **D977** — Magic stalk.
+- **D978** — Magic herbs.
+- **D980** — Magic fruits and vegetables.
+- **D981** — Magic fruit.
+- **D981.0.1** — Magic fruit juice.
+- **D981.1** — Magic apple.
+- **D981.1.1** — Magic apple from Garden of the Hesperides.
+- **D981.2** — Magic peach.
+- **D981.3** — Magic orange.
+- **D981.4** — Magic cherry.
+- **D981.5** — Magic fig.
+- **D981.6** — Magic pear.
+- **D981.7** — Magic plum.
+- **D981.8** — Magic grape.
+- **D981.9** — Magic date (fruit).
+- **D981.10** — Magic berry.
+- **D981.10.1** — Magic cranberry.
+- **D981.11** — Magic pumpkin.
+- **D981.12** — Magic pomegranate.
+- **D981.13** — Magic bananas.
+- **D983** — Magic vegetable.
+- **D983.1** — Magic bean.
+- **D983.2** — Magic yam.
+- **D983.3** — Magic leek.
+- **D983.4** — Magic garlic.
+- **D983.5** — Magic egg-plant.
+- **D985** — Magic nut.
+- **D985.1** — Magic coconut-shell.
+- **D985.2** — Magic chestnut.
+- **D985.3** — Magic hazel-nut.
+- **D985.4** — Magic acorn.
+- **D985.5** — Magic betel-nut.
+- **D990** — Magic bodily members human.
+- **D991** — Magic hair.
+- **D991.1** — Magic beard.
+- **D991.2** — Magic pubic hair.
+- **D991.3** — Magic ball of hair.
+- **D992** — Magic head.
+- **D992.1** — Magic horns (grow on person's forehead).
+- **D992.2** — Magic lips.
+- **D992.3** — Magic face.
+- **D992.4** — Magic skull.
+- **D992.5** — Magic tongue.
+- **D993** — Magic eye.
+- **D995** — Magic foot.
+- **D995.1** — Magic toe.
+- **D996** — Magic hand.
+- **D996.0.1** — Magic right hand.
+- **D996.0.1.1** — Magic power of right hand for good.
+- **D996.0.2** — Magic left hand.
+- **D996.0.2.1** — Magic power of left hand for evil.
+- **D996.1** — Magic finger.
+- **D997** — Magic internal organs human.
+- **D997.1** — Magic heart human.
+- **D997.1.1** — Magic heart of unborn child.
+- **D997.2** — Magic brain.
+- **D997.3** — Magic liver.
+- **D998** — Magic private parts human.
+
+## D1000
+
+- **D1001** — Magic spittle.
+- **D1002** — Magic excrements.
+- **D1002.1** — Magic urine.
+- **D1003** — Magic blood human.
+- **D1003.1** — Magic menstrual blood.
+- **D1003.2** — Magic blood of circumcision.
+- **D1003.3** — Magic blood of unborn child.
+- **D1004** — Magic tears.
+- **D1005** — Magic breath.
+- **D1006** — Magic buttocks.
+- **D1007** — Magic bone (human).
+- **D1008** — Magic human flesh.
+- **D1009** — Magic bodily members (human) miscellaneous.
+- **D1009.1** — Magic scab (from skin).
+- **D1009.2** — Magic tooth.
+- **D1009.2.1** — Magic dead man's tooth.
+- **D1009.3** — Magic breasts of woman.
+- **D1010** — Magic bodily members animal.
+- **D1011** — Magic animal head.
+- **D1011.0.1** — Magic bird head.
+- **D1011.0.2** — Magic ass's head.
+- **D1011.0.3** — Magic serpent head.
+- **D1011.1** — Magic animal horn.
+- **D1011.2** — Magic ear of animal.
+- **D1011.3** — Magic animal's crown.
+- **D1011.3.1** — Magic serpent's crown.
+- **D1011.4** — Magic tooth of animal.
+- **D1011.5** — Magic lips of animal.
+- **D1011.6** — Magic tongue of animal.
+- **D1011.7** — Magic brain of animal.
+- **D1012** — Magic limbs of animal.
+- **D1012.1** — Magic legs of animal.
+- **D1012.1.1** — Magic legs of bull.
+- **D1013** — Magic bone of animal.
+- **D1013.1** — Magic chicken-thigh.
+- **D1015** — Magic internal organs of animal.
+- **D1015.1** — Magic heart of animal.
+- **D1015.1.1** — Magic bird heart.
+- **D1015.1.2** — Magic dragon heart.
+- **D1015.1.3** — Magic serpent heart.
+- **D1015.1.4** — Magic wolf heart.
+- **D1015.1.5** — Magic fox heart.
+- **D1015.2** — Magic gall-bladder of animal.
+- **D1015.3** — Magic entrails of animal.
+- **D1015.3.1** — Magic entrails of bird.
+- **D1015.3.2** — Magic entrails of goat.
+- **D1015.4** — Magic liver of animal.
+- **D1015.4.1** — Magic bird liver.
+- **D1015.5** — Magic stomach of animal.
+- **D1015.5.1** — Magic stomach of hare.
+- **D1016** — Magic blood of animal.
+- **D1017** — Magic flesh of animal.
+- **D1017.1** — Magic fat of animal.
+- **D1017.1.1** — Magic fat of crow.
+- **D1018** — Magic milk of animal.
+- **D1021** — Magic feather.
+- **D1021.1** — Magic bird's power in one feather.
+- **D1022** — Magic wings.
+- **D1022.0.1** — Wings grown by magic.
+- **D1023** — Magic hair of animal.
+- **D1023.1** — Magic hair of bear.
+- **D1023.2** — Magic hair of fox.
+- **D1023.3** — Magic hair of lion's tail.
+- **D1023.4** — Magic hair of ant's beard.
+- **D1024** — Magic egg.
+- **D1025** — Magic skin of animal.
+- **D1025.1** — Magic pigskin.
+- **D1025.2** — Magic fishskin.
+- **D1025.3** — Magic mouseskin.
+- **D1025.4** — Magic skin of swallow.
+- **D1025.5** — Magic cowhide.
+- **D1025.6** — Magic dogskin.
+- **D1025.7** — Magic horseskin.
+- **D1025.8** — Magic sheepskin.
+- **D1025.9** — Magic sealskin.
+- **D1026** — Magic dung of animal.
+- **D1026.1** — Magic bird dung.
+- **D1026.2** — Magic cow-dung.
+- **D1027** — Magic urine of animal.
+- **D1027.1** — Magic urine of serpent.
+- **D1028** — Magic shell of animal.
+- **D1028.1** — Magic conch shell.
+- **D1028.2** — Magic tortoise shell.
+- **D1029** — Other bodily members of animals magic.
+- **D1029.0.1** — Other bodily members of bird magic.
+- **D1029.1** — Magic breath of animal.
+- **D1029.2** — Magic tail of animal.
+- **D1029.2.1** — Magic yak tail.
+- **D1029.2.2** — Magic goat tail.
+- **D1029.2.3** — Magic snake tail.
+- **D1029.3** — Magic animal feet.
+- **D1029.4** — Magic sex organs of animal.
+- **D1029.5** — Magic spittle of animal.
+- **D1029.6** — Magic shell of animal.
+- **D1030** — Magic food.
+- **D1030.1** — Food supplied by magic.
+- **D1030.1.1** — Food supplied by means of prayer.
+- **D1030.2** — Magic banquet.
+- **D1030.3** — Magic food from herbs.
+- **D1031** — Magic pastry (bread, cake, etc.).
+- **D1031.0.1** — Manna.
+  *Food from skies in basket each morning.*
+- **D1031.1** — Magic bread.
+- **D1031.1.1** — Consecrated bread as magic object.
+- **D1031.2** — Magic cake.
+- **D1031.2.1** — Cake made by rubbing flour on griddle.
+- **D1031.2.2** — Magic cake of figs.
+- **D1032** — Magic meat.
+- **D1032.1** — Magic meal of fishes.
+- **D1032.2** — Flesh of cat when chewed has magic results.
+- **D1032.3** — Flesh of dog when chewed has magic results.
+- **D1032.4** — Flesh of pig when chewed has magic results.
+- **D1033** — Magic cereal (food).
+- **D1033.0.1** — Cereal from man's body.
+- **D1033.1** — Magic rice.
+- **D1033.2** — Magic wheat.
+- **D1034** — Magic vegetable (as food).
+- **D1035** — Magic nuts (as food).
+- **D1035.1** — Magic chestnut (as food).
+- **D1035.2** — Magic coconut (as food).
+- **D1036** — Magic dairy products.
+- **D1036.1** — Magic cheese.
+- **D1037** — Magic honey.
+- **D1038** — Magic sweets.
+- **D1039** — Magic food miscellaneous.
+- **D1039.1** — Magic vermicelli.
+- **D1039.2** — Magic salt.
+- **D1040** — Magic drink.
+- **D1040.1** — Drink supplied by magic.
+- **D1041** — Blood as magic drink.
+- **D1043** — Milk as magic drink.
+- **D1045** — Magic beer.
+- **D1045.0.1** — Beer brewed by means of magic song.
+- **D1045.1** — Magic ale.
+- **D1046** — Magic wine.
+- **D1046.1** — Consecrated wine as magic object.
+- **D1050** — Magic clothes.
+- **D1050.1** — Clothes produced by magic.
+- **D1051** — Magic cloth.
+- **D1052** — Magic garment (robe, tunic).
+- **D1052.1** — Magic uniform.
+- **D1053** — Magic mantle (cloak).
+- **D1055** — Magic trousers (breeches).
+- **D1056** — Magic shirt.
+- **D1057** — Magic belt.
+- **D1057.1** — Magic girdle.
+- **D1058** — Magic underclothing.
+- **D1058.1** — Magic shift.
+- **D1061** — Magic veil.
+- **D1062** — Magic stockings.
+- **D1063** — Magic garter.
+- **D1064** — Magic pocket.
+- **D1065** — Magic footwear.
+- **D1065.1** — Magic boots.
+- **D1065.1.1** — Boots produced by magic.
+- **D1065.2** — Magic shoes.
+- **D1065.3** — Magic snowshoes.
+- **D1065.4** — Magic moccasins.
+- **D1065.5** — Magic sandals.
+- **D1065.6** — Magic gaiters.
+- **D1065.7** — Magic slippers.
+- **D1066** — Magic glove.
+- **D1067** — Magic head-wear.
+- **D1067.1** — Magic hat.
+- **D1067.2** — Magic cap.
+- **D1067.3** — Magic hood.
+- **D1067.3.1** — Magic cowl.
+- **D1067.4** — Magic mask.
+- **D1068** — Magic collar.
+- **D1068.1** — Magic hunting collar.
+- **D1069** — Magic clothes miscellaneous.
+- **D1069.1** — Magic handkerchief.
+- **D1069.2** — Magic feather dress.
+- **D1070** — Magic ornaments.
+- **D1071** — Magic jewel (jewels).
+- **D1071.0.1** — Jewels produced by magic.
+- **D1071.1** — Magic beads.
+- **D1072** — Magic hair ornaments.
+- **D1072.1** — Magic comb.
+- **D1072.2** — Magic hairpin.
+- **D1072.3** — Magic brooch.
+- **D1073** — Magic necklace.
+- **D1074** — Magic bracelet.
+- **D1075** — Magic bangle.
+- **D1076** — Magic ring.
+- **D1077** — Magic fan.
+- **D1078** — Magic chain (ornament).
+- **D1078.1** — Magic blue ribbon.
+- **D1079** — Magic ornaments miscellaneous.
+- **D1079.1** — Magic crown.
+- **D1079.2** — Magic diadem.
+- **D1079.3** — Magic ornamental breastplate.
+- **D1080** — Magic weapons.
+- **D1081** — Magic sword.
+- **D1081.1** — Sword of magic origin.
+- **D1082** — Magic saber.
+- **D1083** — Magic knife.
+- **D1083.1** — Magic poignard (dagger).
+- **D1084** — Magic spear.
+- **D1084.1** — Magic spear-head.
+- **D1085** — Magic javelin.
+- **D1086** — Magic lance.
+- **D1087** — Magic sling.
+- **D1091** — Magic bow.
+- **D1092** — Magic arrow.
+- **D1092.0.1** — Magic arrow makes five wounds.
+- **D1092.1** — Magic quiver.
+- **D1093** — Magic missile.
+- **D1093.1** — Boomerang effect of hurled missiles caused by a saint.
+- **D1093.1.1** — Arrows returned upon those who shoot saint.
+- **D1094** — Magic cudgel (club).
+- **D1095** — Magic hammer (Mjtslnir).
+- **D1096** — Magic firearms.
+- **D1096.1** — Magic gun.
+- **D1096.2** — Magic pistol.
+- **D1096.3** — Magic bullet.
+- **D1097** — Magic battle-axe.
+
+## D1100
+
+- **D1101** — Magic armor.
+- **D1101.1** — Magic shield.
+- **D1101.2** — Magic cuirass.
+- **D1101.3** — Magic breastplate.
+- **D1101.4** — Magic helmet.
+- **D1101.5** — Magic scabbard.
+- **D1101.6** — Magic yoke.
+- **D1102** — Magic trident.
+- **D1110** — Magic conveyances.
+- **D1111** — Magic carriage.
+- **D1111.1** — Carriage produced by magic.
+- **D1112** — Magic cart.
+- **D1113** — Magic wagon.
+- **D1114** — Magic chariot.
+- **D1115** — Magic sleigh.
+- **D1118** — Magic airships.
+- **D1118.1** — Magic air-riding basket.
+- **D1121** — Magic boat.
+- **D1121.0.1** — Boat made by magic.
+- **D1121.1** — Magic hollow-log boat.
+- **D1122** — Magic canoe.
+- **D1122.1** — Canoe made by magic.
+- **D1123** — Magic ship.
+- **D1124** — Magic oar.
+- **D1124.1** — Magic paddle.
+- **D1131** — Magic castle.
+- **D1131.1** — Castle produced by magic.
+- **D1132** — Magic palace.
+- **D1132.1** — Palace produced by magic.
+- **D1133** — Magic house.
+- **D1133.1** — House created by magic.
+- **D1133.1.1** — Magic house made by prayer.
+- **D1134** — Magic church (temple).
+- **D1134.1** — Church produced by magic.
+- **D1136** — Magic fort.
+- **D1136.1** — Fort produced by magic.
+- **D1138** — Magic tent.
+- **D1141** — Magic room.
+- **D1141.1** — Magic kitchen.
+- **D1144** — Magic stairs.
+- **D1145** — Magic windows.
+- **D1146** — Magic door (gate).
+- **D1146.1** — Magic doorstep.
+- **D1147** — Magic hearth.
+- **D1148** — Magic tomb.
+- **D1149** — Magic buildings and parts miscellaneous.
+- **D1149.1** — Store, fully supplied, produced by magic.
+- **D1149.2** — Magic tower.
+- **D1149.3** — Magic house-pillars.
+- **D1150** — Magic furniture.
+- **D1151** — Magic seat.
+- **D1151.1** — Magic bench.
+- **D1151.2** — Magic chair.
+- **D1153** — Magic table.
+- **D1153.1** — Magic tablecloth.
+- **D1154** — Magic couch.
+- **D1154.1** — Magic bed.
+- **D1154.1.1** — Magic bed-legs.
+- **D1154.2** — Magic sofa.
+- **D1154.3** — Magic hammock.
+- **D1154.3.1** — Magic swing.
+- **D1154.3.2** — Magic palanquin.
+- **D1154.4** — Magic divan.
+- **D1154.5** — Magic pillow.
+- **D1155** — Magic carpet.
+- **D1156** — Magic throne.
+- **D1157** — Magic platform.
+- **D1158** — Magic key.
+- **D1161** — Magic stove.
+- **D1162** — Magic light.
+- **D1162.1** — Magic lamp.
+- **D1162.2** — Magic candle.
+- **D1162.2.1** — Hand-of-glory.
+  *Magic candle made of criminal's hand.*
+- **D1163** — Magic mirror.
+- **D1164** — Magic lock.
+- **D1166** — Magic altar.
+- **D1167** — Magic quilt.
+- **D1170** — Magic utensils and implements.
+- **D1171** — Magic vessel.
+- **D1171.1** — Magic pot.
+- **D1171.1.1** — Magic coffee-pot.
+- **D1171.2** — Magic cauldron.
+- **D1171.3** — Magic kettle.
+- **D1171.4** — Magic pitcher.
+- **D1171.5** — Magic can.
+- **D1171.6** — Magic cup.
+- **D1171.6.1** — Magic tankard.
+- **D1171.6.2** — Magic goblet (glass).
+- **D1171.6.3** — Magic drinking horn.
+- **D1171.6.4** — Magic chalice.
+- **D1171.7** — Magic vase: *Chauvin V 259 No.
+- **D1171.7.1** — Magic jar.
+- **D1171.8** — Magic bottle.
+- **D1171.8.1** — Magic cruet.
+- **D1171.9** — Magic barrel (cask).
+- **D1171.10** — Magic bucket.
+- **D1171.11** — Magic basket.
+- **D1171.12** — Magic basin.
+- **D1171.13** — Magic chamber-pot.
+- **D1171.14** — Magic tub.
+- **D1171.15** — Magic urn.
+- **D1172** — Magic dish.
+- **D1172.1** — Magic plate.
+- **D1172.2** — Magic bowl.
+- **D1173** — Magic carving knife.
+- **D1173.1** — Magic razor.
+- **D1174** — Magic box.
+- **D1174.1** — Magic box containing castle.
+- **D1175** — Magic match.
+- **D1175.1** — Magic tinder.
+- **D1175.2** — Magic fire-steel (flint, strike-a-light).
+- **D1176** — Magic key.
+- **D1177** — Magic spoon.
+- **D1181** — Magic needle.
+- **D1182** — Magic pin.
+- **D1183** — Magic scissors (shears).
+- **D1184** — Magic thread.
+- **D1184.1** — Magic ball of thread.
+- **D1184.2** — Magic string.
+- **D1185** — Magic shuttle.
+- **D1186** — Magic spindle.
+- **D1187** — Magic awl.
+- **D1187.1** — Magic auger.
+- **D1188** — Magic hone.
+- **D1192** — Magic purse.
+- **D1193** — Magic bag (sack).
+- **D1193.1** — Magic bag made from skin of crane (transformed woman).
+- **D1194** — Magic umbrella.
+- **D1195** — Magic soap.
+- **D1196** — Magic net.
+
+## D1200
+
+- **D1202** — Magic anvil.
+- **D1203** — Magic rope.
+- **D1204** — Magic hoe.
+- **D1205** — Magic shovel.
+- **D1205.1** — Magic spade.
+- **D1206** — Magic axe.
+- **D1206.1** — Magic sickle.
+- **D1207** — Magic wheel.
+- **D1207.1** — Destructive "rolling wheel" of druid.
+- **D1208** — Magic whip.
+- **D1209** — Miscellaneous utensils and implements.
+- **D1209.1** — Magic bridle.
+- **D1209.2** — Magic saddle.
+- **D1209.3** — Magic plow.
+- **D1209.4** — Magic hammer.
+- **D1209.5** — Magic fish-hook.
+- **D1209.6** — Magic thong.
+- **D1209.7** — Magic game board (chessboard).
+- **D1209.8** — Magic broom.
+- **D1210** — Magic musical instruments.
+- **D1211** — Magic drum.
+- **D1212** — Magic rattle.
+- **D1213** — Magic bell.
+- **D1213.1** — Magic gong.
+- **D1221** — Magic trumpet.
+- **D1222** — Magic horn (musical).
+- **D1223** — Magic clarinet.
+- **D1223.1** — Magic flute.
+- **D1224** — Magic pipe (musical).
+- **D1224.1** — Magic flageolet.
+- **D1225** — Magic whistle.
+- **D1225.1** — Magic mouth harp.
+- **D1231** — Magic harp.
+- **D1231.1** — Magic lyre.
+- **D1232** — Magic lute.
+- **D1233** — Magic violin (fiddle).
+- **D1233.1** — Magic musical bow.
+- **D1234** — Magic guitar.
+- **D1239** — Magic musical instruments miscellaneous.
+- **D1240** — Magic waters and medicines.
+- **D1241** — Magic medicine (= charm).
+- **D1242** — Magic fluid.
+- **D1242.1** — Magic water.
+- **D1242.1.1** — Baptismal water as magic object.
+- **D1242.1.2** — Holy water as magic object.
+- **D1242.2** — Magic potion.
+- **D1242.3** — Magic drops.
+- **D1242.4** — Magic oil.
+- **D1243** — Magic pill.
+- **D1244** — Magic salve (ointment).
+- **D1245** — Magic perfume.
+- **D1246** — Magic powder.
+- **D1248** — Human liver as medicine.
+- **D1250** — Miscellaneous magic objects.
+- **D1251** — Magic chain (iron).
+- **D1251.1** — Iron chain made by magic.
+- **D1252** — Magic metal.
+- **D1252.1** — Magic steel.
+- **D1252.1.1** — Magic iron.
+- **D1252.1.2** — Magic nails.
+- **D1252.2** — Magic copper.
+- **D1252.3** — Magic gold.
+- **D1254** — Magic staff.
+- **D1254.1** — Magic wand.
+- **D1254.1.1** — Magic pair of sticks.
+- **D1254.2** — Magic rod.
+- **D1254.3** — Magic pestle.
+- **D1254.4** — Magic trident.
+- **D1255** — Magic tube.
+- **D1256** — Magic ball.
+- **D1257** — Magic fishhook.
+- **D1258** — Magic bridge.
+- **D1258.1** — Bridge made by magic.
+- **D1261** — Magic cigar.
+- **D1262** — Magic grinding-stone.
+- **D1262.1** — Magic millstone.
+- **D1263** — Magic mill.
+- **D1264** — Magic sphere.
+- **D1266** — Magic book.
+- **D1266.1** — Magic writings (gramerye, runes).
+- **D1266.1.1** — Magic ogam writing.
+- **D1266.2** — Magic picture.
+- **D1266.3** — Magic story.
+- **D1267** — Magic card.
+- **D1268** — Magic statue (doll).
+- **D1271** — Magic fire.
+- **D1272** — Magic circle.
+- **D1272.1** — Magic line.
+- **D1273** — Magic formula (charm).
+- **D1273.0.1** — Charm written in blood has magic power.
+- **D1273.0.2** — Magic spells mixed with Christian prayers.
+- **D1273.0.3** — Charm sung over flesh chewed by wizard has magic power.
+- **D1273.0.4** — Charm chanted standing on one foot with one eye shut, etc.
+- **D1273.0.5** — Charm containing name of God.
+- **D1273.1** — Magic numbers.
+- **D1273.1.1** — Three as magic number.
+- **D1273.1.1.1** — Three on a match (lighting cigarettes or cigars).
+- **D1273.1.1.2** — Breakage of glass or crockery occurs in threes.
+  *One breakage is followed by two more.*
+- **D1273.1.1.3** — Deaths in a community come in threes.
+  *One death is shortly followed by two more.*
+- **D1273.1.1.4** — Three meditations on death which prevent laughter.
+- **D1273.1.2** — Four as magic number.
+- **D1273.1.2.1** — Five as magic number.
+- **D1273.1.3** — Seven as magic number.
+- **D1273.1.3.1** — Nine as magic number.
+- **D1273.1.4** — Ten as magic number.
+- **D1273.1.5** — Twelve as magic number.
+- **D1273.1.6** — Thirteen as magic number.
+- **D1273.1.7** — Magic numbers miscellaneous.
+- **D1273.1.7.1** — 101 as magic number.
+- **D1273.1.7.2** — 9999 as magic number.
+- **D1273.2** — Magic secret.
+- **D1273.3** — Bible texts as magic spells.
+- **D1273.4** — Magic measurement (height of Christ).
+- **D1273.5** — Magic oath.
+- **D1273.6** — Magic alphabet.
+- **D1274** — Magic fetish.
+- **D1274.1** — Magic conjuring bag.
+  *Filled with nail parings, human hair, feet of toads, and the like.*
+- **D1275** — Magic song.
+- **D1275.1** — Magic music.
+- **D1275.2** — Magic melody.
+- **D1275.3** — Magic hymn.
+- **D1275.4** — Magic poem (satire).
+- **D1276** — Magic straw.
+- **D1277** — Magic bachall.
+- **D1277.1** — Magic crozier.
+- **D1278** — Ghoulish charm.
+  *Charm made from parts of corpse or things associated with corpse.*
+- **D1278.1** — Magic churchyard mould.
+- **D1278.2** — Sorcerers use marrow of corpses' bones.
+- **D1281** — Magic dead fish.
+- **D1281.1** — Magic dead pig.
+- **D1282** — Magic coil.
+- **D1282.1** — Magic knot.
+- **D1282.1.1** — Druid's knot: magic defense.
+- **D1282.1.2** — Magic phylactery.
+- **D1282.2** — Magic wisp.
+- **D1283** — Magic packet.
+- **D1284** — Magic dice.
+- **D1285** — Magic spike.
+- **D1285.1** — Spike produced by magic.
+- **D1286** — Magic horseshoe.
+- **D1287** — Magic fly-whisk.
+- **D1288** — Magic coin.
+- **D1291** — Heavenly body as magic object.
+- **D1291.1** — Sun as magic object.
+- **D1291.1.1** — Magic sun-ray.
+- **D1291.2** — Star as magic object.
+- **D1291.2.1** — Sign in stars as portent.
+- **D1291.2.2** — Magic star later resolves into its elements.
+- **D1292** — Magic bird nest.
+- **D1293** — Magic color.
+- **D1293.1** — Red as magic color.
+- **D1293.2** — Green as magic color.
+- **D1293.3** — White as magic color.
+- **D1293.4** — Black as magic color.
+- **D1294** — Magic footprint.
+- **D1295** — Magic incense.
+- **D1296** — Sacred relic as magic object.
+- **D1297** — Magic dye.
+- **D1298** — Magic firewood.
+- **D1299** — Other magic objects.
+- **D1299.1** — Magic sign (symbol, insignia).
+- **D1299.2** — Magic sepulchre (grave).
+- **D1299.3** — Magic cross.
+- **D1299.4** — Magic cotton-wool.
+- **D1299.5** — Magic pair of spectacles.
+
+## Magic object gives supernatural wisdom
+
+- **D1300** — Magic object gives supernatural wisdom.
+- **D1300.1** — Hat gives magic wisdom.
+- **D1300.2** — Cap gives magic wisdom.
+- **D1300.3** — Magic well of wisdom.
+- **D1300.3.1** — Streams of wisdom flow from magic well.
+- **D1300.4** — Stone gives magic wisdom.
+- **D1300.5** — Staff gives magic wisdom.
+- **D1300.6** — Charm gives magic wisdom.
+- **D1300.7** — Fox-heart gives magic wisdom.
+- **D1301** — Magic object teaches animal languages.
+- **D1301.1** — Magic turf from church-roof teaches animal languages.
+- **D1301.2** — Drinking blood teaches animal languages.
+- **D1301.3** — Marvelous ruby teaches bird's speech.
+- **D1301.4** — Bird's head (when eaten) teaches animal languages.
+- **D1302** — Magic object teaches magic.
+- **D1302.1** — Magic axe teaches magic.
+- **D1305** — Magic object gives power of prophecy.
+- **D1305.1** — Drop of water from Paradise gives power of prophecy.
+- **D1310** — Magic object gives supernatural information.
+- **D1310.1** — Magic seat gives omniscience.
+- **D1310.2** — Drop from magic cauldron gives supernatural information.
+- **D1310.3** — Intelligent ship.
+- **D1310.4** — Magic object tells how another fares.
+- **D1310.4.1** — Magic ring tells how another fares.
+- **D1310.4.2** — Magic plant bears fruit to indicate that heroine is ready to marry.
+- **D1310.4.3** — Barley plant droops if prince is in trouble.
+- **D1310.5** — Magic staff gives supernatural information.
+- **D1310.6** — Magic charm gives knowledge.
+- **D1310.7** — Singing of wave gives supernatural information.
+- **D1310.8** — Speaking and walking divan brings supernatural information.
+- **D1310.9** — Magic water gives knowledge.
+- **D1310.10** — Magic fruit gives supernatural knowledge.
+- **D1310.10.1** — Magic apple gives supernatural knowledge.
+- **D1310.10.2** — Magic fig gives supernatural knowledge.
+- **D1310.10.3** — Magic grape gives supernatural knowledge.
+- **D1310.11** — Magic nut gives supernatural knowledge.
+- **D1311** — Magic object used for divination.
+- **D1311.1** — Harp struck for divination.
+- **D1311.2** — Mirror answers questions.
+- **D1311.3** — Oracular fountain.
+- **D1311.3.1** — Spring gives omens.
+- **D1311.3.1.1** — Divination by water.
+- **D1311.4** — Oracular tree.
+- **D1311.4.0.1** — Oracular twig.
+- **D1311.4.0.1.1** — Sight of magic twigs gives foreknowledge of day's events.
+- **D1311.4.0.2** — Falling of two trees reveals Savior's will as to separation of friends.
+- **D1311.4.1** — Tree appealed to as arbitrator.
+- **D1311.4.1.1** — Ash (quicken, rowan) used (by druids) for divinations.
+- **D1311.4.1.2** — Hazel used by druids for divination.
+- **D1311.4.2** — Speaking trees give prophecy.
+- **D1311.5** — Oracular flame.
+- **D1311.6** — Divination by heavenly bodies.
+- **D1311.6.0.1** — Divination by looking upon astrolabe.
+- **D1311.6.1** — Moon (stars) answers questions.
+- **D1311.6.2** — Magic cloud answers questions.
+- **D1311.6.3** — Sun answers questions.
+- **D1311.6.4** — Divination by stars.
+- **D1311.7** — Oracular image.
+- **D1311.7.1** — Oracular artificial head.
+- **D1311.7.2** — Oracular brazen lion.
+- **D1311.8** — Divination by head (skull).
+- **D1311.8.1** — Dog's head used for divination.
+- **D1311.8.2** — Cut-off head prophesies fight.
+- **D1311.9** — Coconut shell answers questions.
+  *Sinks for yes, floats for no.*
+- **D1311.10** — Divination by part of animal's body.
+- **D1311.10.1** — Divination by shoulder-bone of sheep.
+- **D1311.10.2** — Divination from gall and liver of pig.
+- **D1311.11** — Oracular river.
+- **D1311.11.1** — River says, "The time has come but not the man".
+  *Man thus induced to drown himself.*
+- **D1311.12** — Oracular bell.
+- **D1311.12.1** — Bell sounds to designate pope.
+- **D1311.13** — Plant used for divination.
+- **D1311.13.1** — Mandrake as magic forecaster.
+- **D1311.13.2** — Weeds used for divination.
+- **D1311.14** — Divination from chance reading of sacred (magic) book.
+- **D1311.15** — Magic rod used for divination.
+- **D1311.15.1** — Magic yew rod used by druid to discover whereabouts of woman carried off by fairies to underground retreat.
+- **D1311.16** — Oracular stone.
+- **D1311.16.0.1** — Saint's blessing makes stone oracular.
+- **D1311.16.1** — Number of screams from stone indicates number of kings to descend from man standing upon it.
+- **D1311.17** — Divination by magic weapon.
+- **D1311.17.1** — Magic spear gives omen of victory.
+- **D1311.17.2** — Divination by magic arrow.
+- **D1311.17.3** — Lance sounds when knocked on shield, except when its owner will be defeated.
+- **D1311.18** — Oracular ring.
+- **D1311.19** — Divination by water.
+- **D1311.20** — Oracular pubic hair.
+- **D1311.21** — Divination by cup.
+- **D1311.22** — Divination from (sound of) wind.
+- **D1311.23** — Divination with chessboard.
+- **D1312** — Magic object gives advice.
+- **D1312.1** — Bodily members as advisers.
+- **D1312.1.1** — Excrements as advisers.
+- **D1312.2** — Magic bone gives advice.
+- **D1312.3** — Speaking grass gives advice.
+- **D1312.4** — Magic book gives advice.
+- **D1313** — Magic object points out road.
+- **D1313.1** — Magic ball indicates road.
+  *Rolls ahead.*
+- **D1313.1.1** — Magic ball of thread indicates road.
+  *Rolls ahead.*
+- **D1313.1.2** — Magic rolling cake indicates road.
+- **D1313.2** — Hat thrown in air indicates road.
+- **D1313.3** — Copper horseman indicates road.
+  *By striking his hand one makes him turn and indicate the proper road for travelers.*
+- **D1313.4** — Blinded trickster directed by trees.
+  *He asks them their names and by their answers he can tell where he is.*
+- **D1313.5** — Magic stick indicates road.
+- **D1313.5.1** — Saint's staff as an excellent pilot at sea.
+- **D1313.5.2** — Reed as direction finder.
+- **D1313.6** — Magic apple indicates road.
+  *Rolls ahead.*
+- **D1313.7** — Magic flute indicates road.
+- **D1313.8** — Magic two-edged knife indicates direction.
+  *Points in proper direction; bends downward to indicate wrong direction.*
+- **D1313.9** — Charm (medicine) indicates direction.
+- **D1313.10** — Magic feather indicates road.
+- **D1313.11** — Magic fountain indicates road for saint by removing itself.
+- **D1313.12** — Magic cake indicates road.
+  *Rolls ahead.*
+- **D1313.13** — Magic shoe points out road.
+- **D1313.14** — Magic thornbush points out road.
+- **D1313.15** — Magic wheel indicates road.
+- **D1313.16** — Magic pillar of fire indicates direction.
+- **D1314** — Magic object indicates desired place.
+- **D1314.0.1** — Magic object shows place where person has been killed.
+- **D1314.1** — Magic arrow indicates desired place.
+- **D1314.1.1** — Magic arrow shot to determine place to lodge for night.
+- **D1314.1.2** — Magic arrow shot to determine where to build city.
+- **D1314.1.3** — Magic arrow shot to determine where to seek bride.
+- **D1314.1.4** — Magic arrow indicates place to build church.
+- **D1314.1.5** — Arrow shot to determine burial place.
+- **D1314.1.6** — Arrow shot into air discovers iron pit.
+- **D1314.1.7** — Arrow shot to discover direction of attacking army.
+- **D1314.2** — Magic wand (twig) locates hidden treasure.
+- **D1314.2.1** — Divining rod sinks at place where tribe shall settle.
+- **D1314.2.2** — Divining rod (twig) locates underground water supply.
+- **D1314.2.3** — Divining rod points to house of thief.
+- **D1314.2.4** — Divining rod (twig) points out spot where unwed mother had drowned child.
+- **D1314.2.5** — Saint's staff becomes tree to indicate building site.
+- **D1314.2.6** — Golden staff stuck into ground finds site for city.
+- **D1314.3** — Saint's bachall discovers gold.
+- **D1314.4** — Bell indicates place for settlement.
+  *Remains dumb until place destined for saint's final settlement is reached.*
+- **D1314.4.0.1** — Saint's bell lands at place where monastery is to be founded.
+- **D1314.4.1** — Bell rings to indicate location of well.
+- **D1314.5** — Hand-of-glory indicates location of treasure.
+- **D1314.6** — Loaf of bread locates drowned man.
+  *Floated on water comes to rest directly over corpse.*
+- **D1314.7** — Magic plant (flower) shows location of treasure.
+- **D1314.7.1** — Mandrake shows location of treasure.
+- **D1314.8** — Jewels aid in search for treasure.
+- **D1314.9** — Magic cloth leads owner to lost horses.
+- **D1314.10** — Fiery pillar guides person (to church).
+- **D1314.11** — Seat-pillars thrown in the sea (with god's image) indicate where to settle.
+- **D1314.12** — Coffin lands where the dead is to be buried, and his son to settle.
+- **D1314.12.1** — Rope breaks at proper burial place.
+- **D1314.13** — Star indicates location of newborn hero.
+- **D1314.13.1** — Star of Bethlehem.
+- **D1314.14** — Four balls given to each of four impoverished men point out places where they should dig.
+- **D1314.15** — Dried root sprouts when planted to indicate spot where holy man should set up his abode.
+- **D1315** — Magic object locates lost person.
+- **D1315.1** — Magic arrow locates lost person.
+- **D1316** — Magic object reveals truth.
+- **D1316.1** — Stone reveals truth.
+- **D1316.2** — Magic lamp indicates falsehood by lighting.
+- **D1316.3** — Speaking spittle reveals truth.
+- **D1316.4** — Magic ring permits owner to learn person's secret thoughts.
+- **D1316.4.1** — Magic ring shows the true nature of its possessor.
+- **D1316.4.2** — Magic spectacles allow wearer to read others' thoughts.
+- **D1316.5** — Magic speaking reed (tree) betrays secret.
+  *King has whispered secret to hole in the ground. Reed growing from this hole tells the secret.*
+- **D1316.5.1** — Voice comes forth from tree, revealing truth.
+- **D1316.6** — Magic goblet (cup) indicates truth or falsehood.
+- **D1316.7** — Magic sod indicates falsehood by turning grassy surface downward, truth by turning it upward.
+- **D1316.8** — Magic collar indicates falsehood by squeezing throat (hand, foot), truth by falling to ground.
+- **D1316.9** — Magic epistle (brought from apostle) assures wearer will utter truth.
+- **D1316.10** — Pig cooked when true story is told.
+- **D1316.11** — Sword turns upon owner when untruth is uttered.
+- **D1316.12** — Magic root reveals truth when water is poured over it.
+- **D1316.13** — Magic bird's tongue reveals truth.
+- **D1317** — Magic object warns of danger.
+- **D1317.0.1** — Magic object detects poison.
+- **D1317.1** — Buttocks as magic watcher.
+- **D1317.2** — Magic gall-bladder warns of danger.
+- **D1317.3** — Magic swallow-skin warns of danger.
+- **D1317.4** — Magic bracelet warns of poison.
+- **D1317.4.1** — Truth-telling voice in wall warns against poisoned food.
+- **D1317.5** — Magic ring gives warning.
+- **D1317.5.1** — Magic ring warns of poison.
+- **D1317.5.2** — Magic ring awakens person in morning.
+- **D1317.6** — Magic sword gives warning.
+- **D1317.6.1** — Sword bursts in son's hand when he is about to kill his father.
+- **D1317.7** — Magic bell gives alarm.
+- **D1317.8** — Magic dice give warning.
+  *Tell their master, a thief, when to seek safety (Cf. +D1284.)*
+- **D1317.9** — Statue gives warning.
+- **D1317.9.1** — Brass (copper) statue at city gates blows on trumpet at stranger's approach.
+- **D1317.10** — Wagon refuses to move because ghost is sitting in it.
+- **D1317.11** — Bedstead warns of danger of snake.
+- **D1317.12** — Magic stone gives warning.
+- **D1317.12.1** — Stone bleeds three days before church is plundered.
+- **D1317.13** — Magic shield roars when bearer is in danger.
+- **D1317.14** — Bones (human) warn of danger.
+- **D1317.15** — Golden cock on tent warns against danger.
+- **D1317.16** — Magic spear warns of danger.
+- **D1317.17** — Knife sings as warning of fraud.
+- **D1317.18** — Magic drinking horn gives warning.
+- **D1317.19** — Cloak warns.
+- **D1317.20** — Tree warns of danger.
+- **D1317.21** — House-pillars warn.
+- **D1317.22** — Water rages by boat of would-be murderer.
+- **D1318** — Magic object reveals guilt.
+- **D1318.0.1** — Magic object picks out guilty man.
+- **D1318.1** — Stone reveals guilt.
+- **D1318.1.1** — Stone bursts as sign of unjust judgment.
+- **D1318.2** — Dead fish reveals guilt.
+- **D1318.2.1** — Laughing fish reveals unjust judgment.
+  *A severe judgment is rendered for a small offence. As the convicted man is being led away, a dead (dried) fish is heard to laugh. The fish reveals that he has laughed at the foolishness of the judge who, while he punishes minor offences severely, is unable to see the capital crimes in his own household.*
+- **D1318.3** — Charms indicate guilt.
+- **D1318.4** — Magic seed indicates guilt.
+- **D1318.5** — Blood indicates guilt or innocence.
+- **D1318.5.1** — Blood springs from murderer's finger when he touches victim.
+- **D1318.5.2** — Corpse bleeds when murderer touches it.
+- **D1318.5.3** — Each drop of innocent blood turns to burning candle.
+- **D1318.5.4** — Speaking blood reveals murder.
+- **D1318.5.5** — Blood drops from stone to indicate girl's innocence.
+- **D1318.5.6** — Blood bubbles at place of murder.
+- **D1318.6** — Divining bones reveal guilt.
+- **D1318.7** — Flesh reveals guilt.
+- **D1318.7.0.1** — Speaking flesh reveals murder.
+- **D1318.7.1** — Flesh of animal reveals guilt.
+- **D1318.7.1.1** — Flesh of stolen animal cannot be cooked (turns putrid).
+- **D1318.7.1.2** — Food sticks in thief's throat and betrays him.
+- **D1318.8** — Magic cloth reveals guilt.
+- **D1318.8.1** — Magic cloth betrays thief.
+  *Calls out, telling who is wearing it.*
+- **D1318.9** — Ring reveals guilt.
+- **D1318.9.1** — Ring springs asunder when faithlessness of lover is learned.
+- **D1318.10** — Ship reveals guilt.
+- **D1318.10.1** — Ship refuses to move with guilty man aboard.
+- **D1318.11** — Light reveals guilt.
+- **D1318.11.1** — Light where murder is committed.
+- **D1318.12** — Vessels reveal guilt.
+- **D1318.12.1** — Vessels burst and reveal disobedience.
+- **D1318.12.1.1** — Poet's spell causes ale vessels to burst when request for ale is refused.
+- **D1318.13** — Magic cauldron reveals guilt.
+- **D1318.14** — Sack of gold retains at will any hand thrust in it.
+- **D1318.15** — Mill will not grind stolen wheat.
+- **D1318.16** — Speaking earth reveals murder.
+- **D1318.17** — River rises to drown liars.
+- **D1318.18** — Apples which grow from tree under which murder was done have red centers.
+- **D1318.19** — Manna reveals guilt.
+- **D1322** — Magic object warns of death.
+- **D1322.1** — Saw for coffin-making sounds to announce death.
+- **D1322.1.1** — Hammer in coffin maker's shop makes noise to announce a death.
+- **D1322.1.2** — Boards for coffin making mysteriously moved announces death.
+- **D1322.2** — Light moving toward cemetery as sign of death.
+- **D1323** — Magic object gives clairvoyance.
+- **D1323.1** — Magic clairvoyant mirror.
+- **D1323.1.1** — Magic mirror reflects the face of whoever dies.
+- **D1323.2** — Magic clairvoyant vase.
+- **D1323.3** — Magic clairvoyant windows.
+  *Twelve, each more powerful than the next.*
+- **D1323.4** — Magic clairvoyant sphere.
+  *Shows all that passes on earth by looking at that part of globe.*
+- **D1323.4.1** — Salvatio Romae.
+  *Image of land showing by means of magic bell outbreak of rebellion in any province.*
+- **D1323.5** — Magic salve gives clairvoyance (Cf.  1244.)
+- **D1323.6** — Magic soap gives clairvoyance.
+- **D1323.7** — Turf from church roof gives clairvoyance.
+  *Placed on head in order to see witches.*
+- **D1323.8** — Churchyard mould gives clairvoyance.
+  *Placed in pocket in order to see witches.*
+- **D1323.9** — Clairvoyant tube.
+- **D1323.10** — Hat gives clairvoyance.
+- **D1323.11** — Hair gives clairvoyance.
+- **D1323.12** — Clairvoyance by looking at object filled with water.
+- **D1323.12.1** — Clairvoyant spring.
+  *Lady whose lover is absent to look in spring each day. If she sees his shadow, he is about to marry another.*
+- **D1323.13** — Magic powder gives clairvoyance.
+- **D1323.14** — Four-leaf clover gives clairvoyance.
+- **D1323.15** — Magic clairvoyant telescope.
+  *Shows distant events.*
+- **D1323.16** — Magic feather gives clairvoyance.
+- **D1323.17** — Magic clairvoyant girdle.
+- **D1323.18** — Clairvoyance from prayer.
+- **D1323.19** — Lamp gives him who looks into its flame a vision of the Most High.
+- **D1324** — Magic object indicates tides.
+- **D1324.1** — Magic bag full at high tide, empty at ebb tide.
+- **D1324.1.1** — Magic tub drips at high tide, is watertight at ebb tide.
+- **D1324.2** — Magic faggot drips to indicate rising tide.
+- **D1325** — Magic object reveals future history.
+- **D1325.1** — Magic book wherein is written family's destiny.
+- **D1326** — Magic object renders judgment.
+- **D1326.1** — Magic slippers approve or disapprove judicial decisions.
+- **D1327** — Magic object locates fish (game).
+- **D1327.1** — Magic arrow locates fish.
+- **D1327.2** — Magic doll consulted for hunting.
+- **D1329** — Magic object gives supernatural information miscellaneous.
+- **D1329.1** — Putting head under saint's cloak reveals rewards of heaven.
+- **D1330** — Magic object works physical change.
+- **D1331** — Magic object affects eyesight.
+- **D1331.1** — Object gives magic sight.
+- **D1331.1.1** — Hempseed sown to acquire magic sight.
+- **D1331.1.2** — Medicine gives magic sight.
+- **D1331.1.3** — Fan gives magic sight.
+- **D1331.1.4** — Stone gives magic sight.
+- **D1331.1.5** — Jewel gives magic sight.
+- **D1331.1.5.1** — Sapphire gives magic sight.
+- **D1331.2** — Magic object blinds.
+- **D1331.2.1** — Magic spike causes blindness.
+  *Throws such a strong ray of light.*
+- **D1331.2.2** — Magic salve causes blindness.
+- **D1331.2.2.1** — Magic salve from underworld causes blindness.
+- **D1331.2.3** — Virgin Mary's shift as banner causes blindness to opposing army.
+- **D1331.2.4** — Magic stone causes blindness.
+- **D1331.2.5** — Sight of magic wheel causes blindness.
+- **D1331.2.6** — Magic mirror causes blindness.
+- **D1331.2.7** — Dog's urine makes tiger blind.
+- **D1331.2.8** — Magic storm blinds enemy troops.
+- **D1331.2.9** — Magic wind blinds.
+- **D1331.3** — Magic object causes both supernatural sight and blindness.
+- **D1331.3.1** — Salve causes magic sight and blindness.
+- **D1331.3.2** — Powder causes magic sight and blindness.
+- **D1331.3.3** — Magic antimony, rubbed on hero's eyes, will make whatever he looks at become far or near, as he desires it.
+- **D1331.4** — Magic object causes sight-shifting.
+- **D1331.4.1** — Saint's gospel-book causes sight-shifting.
+- **D1332** — Magic object affects hearing.
+- **D1332.1** — Magic object deafens.
+- **D1332.1.1** — Magic stone causes deafness.
+- **D1332.1.2** — Sound of magic wheel causes deafness.
+- **D1335** — Object gives magic strength.
+- **D1335.1** — Magic strength-giving food.
+- **D1335.1.1** — Magic strength-giving rice-grain.
+- **D1335.1.2** — Heart of enemy eaten produces magic strength.
+- **D1335.1.3** — Fighting animals eaten produce magic strength.
+- **D1335.1.4** — Manna produces magic strength.
+- **D1335.2** — Magic strength-giving drink.
+- **D1335.2.1** — Blood as magic strengthening drink.
+- **D1335.2.2** — Water as magic strengthening drink.
+- **D1335.2.3** — Milk as magic strengthening drink.
+- **D1335.3** — Magic (iron) glove gives strength.
+- **D1335.4** — Magic belt gives strength.
+- **D1335.5** — Magic ring gives strength.
+- **D1335.5.1** — Magic ring gives remarkable sexual prowess.
+- **D1335.5.2** — Solomon's power to hold kingdom dependent on ring; drops it in water.
+- **D1335.6** — Magic dagger gives strength.
+- **D1335.7** — Flask imparts magic strength to drinker.
+- **D1335.8** — Bathing in magic cauldron gives strength.
+- **D1335.9** — Magic axe gives strength.
+- **D1335.10** — Magic medicine (charm) gives strength.
+- **D1335.11** — Powder gives magic strength.
+- **D1335.12** — Magic song gives strength.
+- **D1335.13** — Magic hammer gives strength.
+- **D1335.14** — Magic strengthening staff.
+- **D1335.15** — Magic strength-giving apple.
+- **D1335.16** — Image of lion gives magic strength.
+- **D1335.17** — Garment gives bearer magic strength.
+- **D1336** — Magic object gives weakness.
+- **D1336.1** — Magic sword gives weakness.
+- **D1336.2** — Magic food gives weakness.
+- **D1336.2.1** — Magic apple gives weakness.
+- **D1336.3** — Magic music gives weakness.
+- **D1336.4** — Magic shield gives weakness.
+- **D1336.5** — Saint's bell gives weakness.
+- **D1336.6** — Magic fire gives weakness.
+- **D1336.7** — Magic drink gives weakness.
+- **D1336.8** — Magic spell gives weakness.
+- **D1336.9** — Druids' (poets') spells bind.
+- **D1336.10** — When bow is taken away from owner, he loses all strength.
+- **D1337** — Magic object makes beautiful or hideous.
+- **D1337.1** — Magic object beautifies.
+- **D1337.1.1** — Charm gives magic beauty.
+- **D1337.1.2** — Water gives magic beauty.
+- **D1337.1.3** — Milk gives magic beauty.
+  *When magic milk touches ugly girl she turns beautiful.*
+- **D1337.1.3.1** — Bathing hair in buffalo milk makes it unusually long.
+- **D1337.1.4** — Bathing in magic cauldron gives beauty.
+- **D1337.1.5** — Magic spear gives beauty.
+- **D1337.1.6** — Beautification by use of saint's spittle.
+- **D1337.1.7** — Magic needle transforms a room from plainness to beauty.
+- **D1337.1.8** — Magic liquid gives beauty.
+- **D1337.1.8.1** — Rose water gives magic beauty.
+- **D1337.1.9** — Magic wand beautifies.
+- **D1337.1.10** — Magic apple makes beautiful.
+- **D1337.1.11** — Playing of magic flute beautifies.
+- **D1337.1.12** — Magic jewel beautifies.
+- **D1337.2** — Magic object makes hideous.
+- **D1337.2.1** — Magic leaves turn white bird black.
+- **D1337.2.2** — Magic herbs render hideous.
+- **D1337.2.3** — Dragon's breath renders hideous.
+- **D1337.2.4** — Magic water makes ugly.
+- **D1337.2.5** — Magic skin makes person appear ugly.
+- **D1338** — Magic object rejuvenates.
+- **D1338.0.1** — Magic object retards aging.
+- **D1338.0.1.1** — Elixir retards aging.
+- **D1338.1** — Magic drink rejuvenates.
+- **D1338.1.1** — Fountain of youth.
+- **D1338.1.1.1** — Magic lake rejuvenates.
+- **D1338.1.2** — Water of youth.
+- **D1338.1.3** — Magic blood rejuvenates.
+- **D1338.2** — Rejuvenation by plant.
+- **D1338.2.1** — Rejuvenation by juice of plant.
+- **D1338.2.2** — Root of eternal youth.
+- **D1338.3** — Rejuvenation by fruit.
+- **D1338.3.1** — Rejuvenation by apple.
+  *Golden apples of youth.*
+- **D1338.3.2** — Magic peach gives immunity from age.
+- **D1338.3.3** — Rejuvenation by fruit of magic tree.
+- **D1338.3.3.1** — Year added to life by eating fruit of magic tree.
+- **D1338.4** — Bath in magic milk rejuvenates.
+- **D1338.5** — Rejuvenation by ring.
+- **D1338.6** — Rejuvenation in magic mill.
+- **D1338.7** — Land of youth.
+  *Land which keeps off old age.*
+- **D1338.8** — Rejuvenation by magic oil.
+- **D1338.9** — Rejuvenation by magic honey.
+- **D1338.10** — Rejuvenation by magic tub.
+- **D1338.11** — Rejuvenation by magic manure dust.
+- **D1338.12** — Rejuvenation by magic feather.
+- **D1338.13** — Rejuvenation by magic rice.
+- **D1341** — Magic object makes person old.
+- **D1341.0.1** — Magic well makes person's hair gray.
+- **D1341.1** — Magic fountain makes person old.
+- **D1341.2** — Magic cloak makes person old.
+- **D1341.3** — Magic ointment makes person old.
+- **D1341.4** — Magic feather brings supernatural old age.
+- **D1342** — Magic object gives health.
+- **D1342.1** — Magic ring gives health.
+- **D1342.2** — Magic apple gives health.
+- **D1342.3** — Magic wood gives health.
+- **D1342.4** — Magic wand gives health.
+- **D1342.5** — Amulet guarantees health.
+- **D1343** — Magic object gives skill.
+- **D1343.1** — Magic oars give skill.
+- **D1344** — Magic object gives invulnerability.
+- **D1344.1** — Magic ring renders invulnerable.
+- **D1344.2** — Magic drug renders invulnerable.
+- **D1344.2.1** — Magic drug gives immunity from fire and iron.
+- **D1344.3** — Amulet renders invulnerable.
+- **D1344.4** — Charm (written) renders invulnerable.
+- **D1344.5** — Magic ointment renders invulnerable.
+- **D1344.6** — Saint's tunic renders invulnerable.
+- **D1344.7** — Saint's girdle renders invulnerable.
+- **D1344.8** — Saint's cowl renders invulnerable.
+- **D1344.8.1** — Hood renders invulnerable.
+- **D1344.9** — Magic garment renders invulnerable.
+- **D1344.9.1** — Magic shirt gives invulnerability.
+- **D1344.9.2** — Magic trousers render invulnerable.
+- **D1344.10** — Magic mandrake gives invulnerability.
+- **D1344.11** — Magic sword gives invulnerability.
+- **D1344.12** — Blood smeared on body renders invulnerable.
+- **D1344.13** — Magic (golden) helmet renders invulnerable.
+- **D1345** — Magic object gives longevity.
+- **D1345.1** — Serpent's water gives longevity.
+- **D1345.2** — Magic statue of dragon gives longevity.
+- **D1346** — Magic object gives immortality.
+- **D1346.1** — Magic drink gives immortality.
+- **D1346.1.1** — Water of life destroyed to prevent immortality: too long life would become tiresome.
+- **D1346.1.2** — Nectar of immortality.
+- **D1346.2** — Fountain of immortality.
+- **D1346.3** — Food of immortality.
+- **D1346.3.1** — Magic honey gives immortality.
+- **D1346.4** — Tree of immortality.
+- **D1346.5** — Plant of immortality.
+- **D1346.6** — Fruit of immortality.
+- **D1346.6.1** — Magic peach gives immortality.
+- **D1346.6.2** — Apple of immortality.
+- **D1346.7** — Pill of immortality.
+- **D1346.8** — Magic ointment gives immortality.
+  *Burning at night and anointment with magic ointment by day.*
+- **D1346.8.1** — Oil of immortality.
+- **D1346.9** — Magic sword gives immortality.
+- **D1346.10** — Magic water (sprinkled) gives immortality.
+- **D1346.11** — Medicine gives immortality.
+- **D1346.12** — Incense gives immortality.
+- **D1346.13** — Filth (dirt, excrements) eaten gives immortality.
+- **D1346.14** — Magic cup gives immortality.
+- **D1347** — Magic object produces fecundity.
+- **D1347.1** — Magic apple produces fecundity.
+- **D1347.2** — Blood as remedy for barrenness in woman.
+- **D1347.3** — Magic medicine makes sterile fertile.
+- **D1347.3.1** — Magic pills insure birth of twin sons.
+- **D1347.4** — Magic statue gives fecundity.
+- **D1347.5** — Magic fish (eaten) causes fecundity.
+- **D1347.6** — Hare's stomach causes fecundity.
+- **D1349** — Magic object produces miscellaneous physical changes in persons or things.
+- **D1349.1** — Magic object produces immunity from hunger and thirst.
+- **D1349.1.1** — Magic peach produces immunity from hunger and thirst.
+- **D1349.1.2** — Magic perfume produces immunity from hunger and thirst.
+- **D1349.1.3** — Magic milk produces immunity from hunger and thirst.
+- **D1349.1.4** — Magic belt produces immunity from hunger.
+- **D1349.1.5** — Magic sweets: one can quench thirst and the other can allay hunger.
+- **D1349.1.6** — Tiny amount of food magically satisfies.
+- **D1349.1.6.1** — One drop of blood when licked satisfies hunger.
+- **D1349.2** — Magic object produces immunity from old age.
+- **D1349.2.1** — Magic peach produces immunity from old age.
+- **D1349.2.2** — Washing in magic bowl produces immunity from old age.
+- **D1349.2.3** — Magic apple produces immunity from old age.
+- **D1349.3** — Magic stone makes water like wine.
+- **D1349.4** — Magic jewel makes owner fat.
+- **D1350** — Magic object changes person's disposition.
+- **D1351** — Magic object makes person peaceful.
+- **D1351.1** — Saint's bachall makes person peaceful.
+- **D1351.2** — Magic branch of peace.
+  *Warfare ceases when it is shaken.*
+- **D1351.3** — Magic veil changes enmity into peacefulness.
+- **D1351.4** — Charm which makes inhabitants of city faint-hearted.
+- **D1352** — Magic object has pre-natal influence.
+- **D1352.1** — Magic net has prenatal influence.
+- **D1353** — Magic object makes person foolish.
+- **D1353.1** — Magic rain makes people foolish.
+  *All on whom it falls act like fools.*
+- **D1354** — Magic object makes person kind.
+- **D1355** — Love-producing magic object.
+- **D1355.0.1** — Magic spear produces love-sickness.
+- **D1355.1** — Love-producing music.
+- **D1355.1.1** — Love-producing song.
+- **D1355.1.2** — Magic love-producing pipe (musical).
+- **D1355.1.3** — Magic love-producing horn.
+- **D1355.2** — Magic love-philtre.
+- **D1355.2.1** — Water blessed by saint as love-philtre.
+- **D1355.2.1.1** — Baptismal water as love-philtre.
+- **D1355.2.1.2** — Magic water causes sexual desire.
+- **D1355.2.2** — Blood as love-philtre.
+- **D1355.2.2.1** — Blood of wounded centaur as love philtre.
+- **D1355.2.3** — Semen in love-philtre.
+- **D1355.3** — Love charm.
+- **D1355.3.1** — Seed mixed with blood as love charm.
+- **D1355.3.2** — Image (animal) pierced with pins as love charm.
+- **D1355.3.3** — Fruit pierced with pins as love charm.
+- **D1355.3.4** — Entrails of live pigeon placed above house door fetch lover to the spot.
+- **D1355.3.5** — Boiling lock of lover's hair draws him to sweetheart.
+- **D1355.3.6** — Burning candle stuck with pins fetches lover.
+- **D1355.3.7** — Person burns salt and says charm to bring lover to spot.
+- **D1355.3.8** — Person burns dragonsblood (plant) and says charm to bring lover to spot.
+- **D1355.4** — Ring produces love.
+- **D1355.5** — Magic hair produces love.
+- **D1355.6** — Churchyard mould produces love.
+  *Girl takes three handfuls and passes it over churn.*
+- **D1355.7** — Apple produces love.
+- **D1355.8** — Olive branch insures fidelity of husband.
+  *Wife to beat him with it.*
+- **D1355.9** — Magic belt produces love.
+- **D1355.10** — Consecrated bread produces love.
+- **D1355.10.1** — Consecrated bread kept in mouth and fed to toad produces love.
+- **D1355.11** — Magic clothes produce love.
+- **D1355.11.1** — Magic moccasins produce love.
+- **D1355.12** — Magic nuts (eaten) produce love.
+- **D1355.13** — Love-spot.
+  *Mark which makes man irresistible to any woman who sees it.*
+- **D1355.13.1** — Charm placed on cheeks of hag causes love.
+- **D1355.14** — Eaten fruit causes sexual desire.
+- **D1355.15** — Magic shears produce love.
+- **D1355.16** — Magic rod produces love.
+- **D1355.17** — Herb bath produces love.
+- **D1355.18** — Love charm (words).
+- **D1355.18.1** — Word charms woven in clothing produce love.
+- **D1355.19** — Magic writings produce love.
+- **D1355.20** — Green stone causes women to love the possessor.
+- **D1355.21** — Magic grass produces love when girl sleeps on it.
+- **D1355.21.1** — Love charm from tuber.
+- **D1355.22** — Love-producing magic plant.
+- **D1355.23** — Love-producing magic feather.
+- **D1356** — Magic object represses lust.
+- **D1356.1** — Magic girdle represses lust.
+- **D1356.1.1** — Saint's girdle represses lust.
+- **D1356.3** — Magic stone represses lust.
+- **D1357** — Magic object makes person cruel.
+- **D1357.1** — Eating ferocious animal's heart makes person cruel.
+- **D1358** — Magic object makes person courageous.
+- **D1358.1** — Eating courageous animal's heart makes courageous.
+- **D1358.1.1** — Eating dragon's heart makes courageous.
+- **D1358.1.2** — Eating serpent's and wolf's flesh makes courageous and impetuous.
+- **D1358.2** — Magic spell makes person courageous.
+- **D1358.3** — Magic crystal makes owner courageous.
+- **D1359** — Magic object changes person's disposition miscellaneous.
+- **D1359.1** — Magic object makes woman masterful.
+- **D1359.1.1** — Magic olive branch makes woman master in household.
+- **D1359.2** — Magic object causes mourning.
+- **D1359.2.1** — Magic music causes mourning.
+- **D1359.3** — Magic object causes joy.
+- **D1359.3.1** — Magic music causes joy.
+- **D1359.3.1.1** — Magic (musical) horn (bell) relieves hearers of sorrow.
+- **D1359.3.1.2** — Magic musical branch soothes listeners.
+- **D1359.3.1.3** — Grief dispelled by sound of bell attached to magic fairy dog.
+- **D1359.3.2** — Happiness from eating magic pig.
+- **D1359.3.3** — Fruit of magic tree exhilarating.
+- **D1359.3.4** — Stone blessed by saint banishes sorrow.
+- **D1359.4** — Magic food causes intoxication and sobriety.
+- **D1359.5** — Magic sign assures that warriors will not flee from battle.
+- **D1359.6** — Magic object destroys pride.
+- **D1360** — Magic object effects temporary change in person.
+- **D1361** — Magic object renders invisible.
+- **D1361.1** — Magic mist of invisibility.
+- **D1361.1.0.4** — Demons cause impenetrable fog.
+- **D1361.1.1** — Magic mist separates person from his companions.
+- **D1361.2** — Magic stone gives invisibility.
+- **D1361.3** — Magic ash-tree renders invisible.
+- **D1361.4** — Magic calabash renders invisible.
+- **D1361.5** — Magic seed renders invisible.
+- **D1361.5.1** — Magic fernseed renders invisible.
+- **D1361.6** — Magic flower renders invisible.
+- **D1361.7** — "Hand of glory" renders light invisible.
+  *Candles of human fat from dead man's hand make light invisible except to man holding it.*
+- **D1361.8** — Heart of unborn child renders person invisible.
+- **D1361.9** — Serpent's crown renders invisible.
+- **D1361.10** — Magic feather renders invisible.
+- **D1361.11** — Magic herb renders invisible.
+- **D1361.12** — Magic cloak of invisibility.
+- **D1361.12.1** — Saint's tunic renders invisible.
+- **D1361.13** — Magic belt renders invisible.
+- **D1361.14** — Magic hat renders invisible.
+- **D1361.15** — Magic cap renders invisible: tarnkappe.
+- **D1361.16** — Saint's cowl renders invisible.
+- **D1361.17** — Magic ring renders invisible.
+- **D1361.18** — Magic sword renders invisible.
+- **D1361.19** — Magic jewel renders invisible.
+- **D1361.20** — Helmet renders invisible.
+- **D1361.21** — Ship becomes invisible.
+- **D1361.22** — Magic medicine renders invisible.
+- **D1361.22.1** — Magic pills render invisible.
+- **D1361.22.2** — Magic salve renders invisible.
+- **D1361.23** — Magic charm renders invisible.
+- **D1361.24** — Magic drops render invisible.
+- **D1361.25** — Magic wand renders invisible.
+- **D1361.25.1** — Magic staff renders invisible.
+- **D1361.26** — Magic formula renders invisible.
+- **D1361.27** — Magic light renders invisible.
+- **D1361.28** — Magic mirror renders invisible.
+  *Does so when owner looks into it.*
+- **D1361.29** — Magic animal's heart renders invisible.
+- **D1361.30** — Magic bird-nest renders invisible.
+- **D1361.31** — Magic song renders invisible.
+- **D1361.32** — Magic mask renders invisible.
+- **D1361.33** — Magic veil renders invisible.
+- **D1361.34** — Magic bag renders invisible.
+- **D1361.35** — Magic tiger's hair renders invisible.
+- **D1361.36** — Magic trousers render invisible.
+- **D1361.37** — Magic shirt renders invisible.
+- **D1361.38** — Magic boots render invisible (Cf.  +D1065.1.)
+- **D1361.39** — Fact that woman bears future saint in womb renders her invisible.
+- **D1361.40** — Magic cloth renders invisible.
+- **D1361.41** — Cross renders invisible.
+- **D1361.42** — Magic lampblack renders invisible.
+- **D1361.43** — Magic mark on forehead renders invisible.
+- **D1361.44** — Magic ashes render invisible.
+- **D1364** — Object causes magic sleep.
+- **D1364.0.1** — Ring wakes from magic sleep.
+- **D1364.0.2** — Hero can only wake when a certain axe falls down.
+- **D1364.1** — Fountain causes magic sleep.
+- **D1364.2** — Sleep-thorn.
+  *Thorn causes magic sleep.*
+- **D1364.3** — Flowers cause magic sleep.
+- **D1364.4** — Fruit causes magic sleep.
+- **D1364.4.1** — Apple causes magic sleep.
+- **D1364.4.2** — Figs cause magic sleep.
+- **D1364.5** — Saint's breath causes magic sleep.
+- **D1364.6** — Feather causes magic sleep.
+- **D1364.7** — Sleeping potion: drink causes magic sleep.
+- **D1364.7.1** — Liquor blessed by saint causes magic sleep.
+- **D1364.8** — Enchanted stockings cause magic sleep.
+- **D1364.9** — Comb causes magic sleep.
+- **D1364.10** — Dagger causes magic sleep.
+- **D1364.11** — Pillow causes magic sleep.
+- **D1364.12** — Contents of bottle cause magic sleep.
+- **D1364.13** — Cloth causes magic sleep.
+- **D1364.14** — Needle causes magic sleep.
+- **D1364.15** — Pin causes magic sleep.
+- **D1364.16** — Hairpin causes magic sleep.
+- **D1364.17** — Spindle causes magic sleep.
+- **D1364.18** — Wand causes magic sleep.
+- **D1364.19** — Cigar causes magic sleep.
+- **D1364.20** — Magic runes cause sleep.
+- **D1364.21** — Magic card causes sleep.
+- **D1364.22** — Sleep-charm.
+  *Charm causes magic sleep.*
+- **D1364.23** — Song causes magic sleep.
+- **D1364.24** — Music causes magic sleep.
+- **D1364.25** — Musical instrument causes magic sleep.
+- **D1364.25.0.1** — Musical branch causes magic sleep.
+- **D1364.25.1** — Flute causes magic sleep.
+- **D1364.25.2** — Drum causes magic sleep.
+- **D1364.25.3** — Pipe (musical) causes magic sleep.
+- **D1364.26** — Silver rods cause magic sleep.
+- **D1364.27** — Sword causes magic sleep.
+- **D1364.28** — Smoke from magic purse makes man sleep.
+- **D1364.29** — Touch of glove and ring causes sleep.
+- **D1364.30** — Tooth of fox causes magic sleep.
+- **D1364.31** — Plant produces sleep.
+- **D1364.32** — Jewel causes magic sleep.
+- **D1365** — Object causes magic forgetfulness.
+- **D1365.1** — Plant causes magic forgetfulness.
+- **D1365.1.1** — Lotus causes forgetfulness.
+- **D1365.1.2** — Myrtle causes forgetfulness.
+- **D1365.1.3** — Laurel causes forgetfulness.
+- **D1365.2** — Drink causes magic forgetfulness.
+- **D1365.3** — Food causes magic forgetfulness.
+- **D1365.4** — Girdle causes forgetfulness.
+- **D1365.5** — Ring causes forgetfulness.
+- **D1365.6** — Magic cup causes forgetfulness.
+- **D1365.7** — Breath causes magic forgetfulness.
+- **D1365.8** — Magic medicine causes loss of memory.
+  *(Sprinkled on head.)*
+- **D1365.8.1** — Medicines of forgetfulness and remembering.
+- **D1365.9** — Tower causes magic forgetfulness.
+- **D1365.10** — Magic writings on drinking horn cause forgetfulness.
+- **D1365.11** — "Brain of forgetfulness" lost by person in battle.
+- **D1366** — Magic object causes memory.
+- **D1366.1** — Magic drink causes memory.
+- **D1366.2** — Lack of magic necklace causes forgetfulness.
+- **D1367** — Magic object causes insanity.
+- **D1367.1** — Magic plant causes insanity.
+- **D1367.2** — Magic drink causes insanity.
+- **D1367.3** — Magic spell causes insanity.
+- **D1367.4** — Magic wisp (withe) causes insanity.
+- **D1367.5** — Runes cause frenzy.
+- **D1367.6** — Magic food causes insanity.
+- **D1368** — Magic object causes illusions.
+- **D1368.1** — Magic snake-oil causes illusions.
+- **D1368.1.1** — Ointment applied to eyes makes night seem day.
+- **D1368.2** — Magic ring causes illusion.
+- **D1368.3** — Magic cloak causes illusion.
+- **D1368.4** — Tree of delusion.
+- **D1368.5** — Magic forest seems to stretch farther as mortals travel within.
+- **D1372** — Magic object causes continued sneezing.
+- **D1372.1** — Magic ring causes continued sneezing.
+- **D1373** — Magic object causes constant hunger.
+- **D1373.0.1** — Magic object causes constant thirst.
+- **D1373.0.1.1** — Magic lamp (eaten, causes thirst.)
+- **D1373.1** — Fetish medicine causes constant hunger.
+- **D1373.2** — Two loaves of bread one to excite, the other to appease hunger.
+- **D1374** — Magic object causes longing.
+- **D1374.1** — Magic music causes longing.
+- **D1375** — Magic object causes (or removes) temporary growths.
+- **D1375.1** — Magic object causes horns to grow on person.
+- **D1375.1.1** — Magic fruit causes horns to grow on person.
+- **D1375.1.1.1** — Magic apples cause horns to grow on person.
+- **D1375.1.1.2** — Magic peaches cause horns to grow on person.
+- **D1375.1.1.3** — Magic orange causes horns to grow on person.
+- **D1375.1.1.4** — Magic cherries cause horns to grow on person.
+- **D1375.1.1.5** — Magic figs cause horns to grow on person.
+- **D1375.1.1.6** — Magic pear causes horns to grow on person.
+- **D1375.1.1.7** — Magic plums cause horns to grow on person.
+- **D1375.1.1.8** — Magic grapes cause horns to grow on person.
+- **D1375.1.1.9** — Magic dates cause horns to grow on person.
+- **D1375.1.1.10** — Magic berries cause horns to grow on person.
+- **D1375.1.2** — Magic vegetable causes horns to grow on person.
+- **D1375.1.3** — Charm causes horns to grow on person.
+- **D1375.1.4** — Blossom causes horns to grow on person.
+- **D1375.1.5** — Magic drink causes horns to grow on person.
+- **D1375.2** — Magic object removes horns from person.
+- **D1375.2.1** — Magic fruit removes horns from person.
+- **D1375.2.1.1** — Magic apple removes horns from person.
+- **D1375.2.1.2** — Magic orange removes horns from person.
+- **D1375.2.1.3** — Magic pear removes horns from person.
+- **D1375.2.2** — Magic nut removes horns from person.
+- **D1375.2.3** — Magic salve removes horns from person.
+- **D1375.2.4** — Magic water removes horns from person.
+- **D1375.2.5** — Blossoms remove horns from person.
+- **D1375.3** — Magic object causes wings to grow on person.
+- **D1375.3.1** — Magic ointment causes wings to grow on person.
+- **D1375.4** — Magic object causes tail to grow.
+- **D1375.4.1** — Magic plant causes tail to grow.
+- **D1375.4.1.1** — Magic plantain causes four tails to grow.
+- **D1375.4.2** — Magic fruit causes tail to grow.
+- **D1375.5** — Magic object causes humps to appear on back.
+- **D1375.6** — Magic object causes feathers to grow on person.
+- **D1375.6.1** — Magic egg causes feathers to grow on person.
+- **D1376** — Magic object causes members to grow long or short.
+- **D1376.1** — Magic object makes nose long (restores it.)
+- **D1376.1.1** — Magic fruit makes nose long (restores it.)
+- **D1376.1.1.1** — Magic apple makes nose long (restores it).
+- **D1376.1.1.2** — Magic cherry makes nose long (restores it).
+- **D1376.1.2** — Magic ring makes nose grow long (restores it).
+- **D1377** — Magic object changes person's size.
+- **D1377.1** — Magic comb changes person's size at will.
+- **D1379** — Magic object produces miscellaneous temporary changes in persons, animals, or objects.
+- **D1379.1** — Magic object controls person's will.
+- **D1379.1.1** — Magic runes control person's will.
+- **D1379.2** — Magic writings (runes) cause dead to speak.
+- **D1379.3** — Magic writings (runes) produce enmity.
+- **D1379.4** — Magic picture causes people to wet the bed.
+- **D1379.5** — "Milk-medicine" causes milk to appear in woman's breast.
+- **D1380** — Magic object protects.
+- **D1380.0.1** — Magic object protects a city.
+- **D1380.0.1.1** — Palladium.
+  *City impregnable while statue remains.*
+- **D1380.1** — Waberlohe.
+  *Magic fire surrounds and protects.*
+- **D1380.1.1** — Pillar of fire protects in desert.
+- **D1380.2** — Tree (plant) protects.
+- **D1380.2.1** — Calabash as guardian of girl.
+- **D1380.2.2** — Tree as guardian of girl.
+- **D1380.3** — Head of divinity as protection of land.
+  *Buried.*
+- **D1380.3.1** — Magic head of horse as protection of land.
+- **D1380.4** — Magic tent protects occupant.
+- **D1380.5** — Magic water protects.
+- **D1380.6** — Magic coal protects.
+- **D1380.7** — Magic soot protects.
+- **D1380.8** — Magic ashes protect.
+- **D1380.9** — Magic earth (dirt) protects.
+- **D1380.10** — Magic string protects.
+- **D1380.11** — Magic jewel protects (Cf.  +D1071.)
+- **D1380.12** — Magic bedstead protects from harm.
+- **D1380.13** — Magic story protects.
+- **D1380.14** — Magic poems protect.
+- **D1380.14.1** — Magic hymn protects.
+- **D1380.15** — Magic well protects.
+- **D1380.16** — Magic dog protects.
+- **D1380.16.1** — Magic statue of dog protects.
+- **D1380.17** — Magic cup protects.
+- **D1380.18** — Magic cloth protects.
+- **D1380.19** — Magic club protects ten men.
+- **D1380.20** — Runes protect.
+- **D1380.21** — Magic ointment protects.
+- **D1380.22** — Magic feather protects.
+- **D1380.23** — Magic ring protects.
+- **D1380.24** — Spell overcomes all danger.
+- **D1380.25** — Magic cloud protects.
+- **D1380.26** — Reindeer hose from corpse protect women.
+- **D1381** — Magic object protects from attack.
+- **D1381.1** — Druid's hedge prevents attack.
+- **D1381.2** — Saint's spittle protects fugitive from attack.
+- **D1381.3** — Magic garment protects against attack.
+- **D1381.3.1** — Garment proof against all but man's own sword.
+- **D1381.3.2** — Magic unpierceable (horn) skin protects against attack.
+- **D1381.3.3** — A protective garment which spears could not penetrate.
+- **D1381.4** — Magic coat protects against attack.
+- **D1381.4.1** — Christ's coat of mercy protects Pilate from punishment.
+- **D1381.5** — Magic shirt protects against attack.
+- **D1381.6** — Stone necklace protects from attack.
+- **D1381.7** — Magic ring protects from attack.
+- **D1381.8** — Arms that protect from attack.
+- **D1381.9** — Dagger protects owner from attack.
+- **D1381.10** — Magic armor protects from attack.
+- **D1381.10.1** — Magic impenetrable breastplate.
+- **D1381.10.2** — Magic unpierceable cuirass.
+- **D1381.10.3** — Magic unpierceable helmet.
+- **D1381.10.4** — Magic impenetrable yoke.
+- **D1381.11** — Magic circle protects from devil.
+- **D1381.11.1** — Magic circle protects from wild animals.
+- **D1381.11.2** — Magic circle protects from ghosts.
+- **D1381.12** — Saint's bachall keeps off enemies.
+- **D1381.13** — Magic fly-whisk stops sword-thrusts.
+- **D1381.14** — Magic girdle protects from all wounds.
+- **D1381.15** — Red wards off danger.
+- **D1381.16** — Magic letters (amulets) guard against attack by wild animals or men.
+- **D1381.17** — Spear in ground pointed toward ferocious animal protects.
+- **D1381.18** — Magic belt assures victory.
+- **D1381.19** — Magic chain protects from attack.
+- **D1381.20** — Sacred relics protect against attack.
+- **D1381.21** — Magic fan protects against attack.
+- **D1381.22** — Magic mist protects against attack.
+- **D1381.23** — Magic spell causes fortress to revolve, preventing entrance.
+- **D1381.24** — Magic letter protects against attack.
+- **D1381.24.1** — Reading letter written by Christ protects against attack.
+- **D1381.25** — Carrying saint's book around army right-handwise insures victory.
+- **D1381.25.1** — Dextrorsum circuit (around sacred stone) insures victory.
+- **D1381.26** — Magic veil protects from attack.
+- **D1381.27** — Magic song stops spears.
+- **D1381.28** — Magic tree protects from attack.
+- **D1381.29** — Speaking lamp prevents king from killing queen.
+- **D1381.30** — Rider on magic horse immune to harm or danger.
+- **D1381.31** — Magic gate swallows axes trying to force it open.
+- **D1381.32** — Staff protects from attack.
+- **D1382** — Magic object protects against cold or burning.
+- **D1382.1** — Magic pebble prevents burning.
+- **D1382.1.0.1** — Magic stones from holy well protect against loss by fire or water.
+- **D1382.2** — Fat of crow prevents burning.
+- **D1382.3** — Magic cake protects from heat.
+- **D1382.4** — Magic oil prevents burning.
+- **D1382.5** — Magic fire does not burn one.
+- **D1382.5.1** — Flaming shield does not burn owner.
+- **D1382.6** — Magic shirt protects from cold and burning.
+- **D1382.6.1** — Magic garment protects from fire.
+- **D1382.7** — Song protects from fire.
+- **D1382.7.1** — Magic hymn protects from fire.
+- **D1382.7.1.1** — Magic song protects from frost and cold.
+- **D1382.8** — Magic stream quenches fire.
+- **D1382.9** — Magic cowl protects from fire.
+- **D1382.9.1** — Magic cowl protects from cold.
+- **D1382.10** — Magic garment prevents burning.
+- **D1382.11** — Magic ring protects against fire.
+- **D1382.12** — Magic blue stone protects against frost.
+- **D1382.13** — Blood of salamander protects against fire.
+- **D1383** — Magic object protects from poison.
+- **D1383.1** — Magic garment protects from poison.
+- **D1383.2** — Charms protect from poison.
+- **D1383.3** — Magic ring protects against poison.
+- **D1383.4** — Song protects against poison.
+- **D1383.4.1** — Magic hymn protects against poison.
+- **D1383.5** — Leek in beer protects against poison.
+- **D1383.6** — Magic red stone protects from poison.
+- **D1384** — Magic object protects from discomfort or from accident on journey.
+- **D1384.1** — Magic ring prevents discomfiture.
+- **D1384.2** — Noose used by suicide as protection from accident.
+- **D1384.3** — Charm gives safety on journey.
+- **D1384.3.1** — Turning right-handwise insures safe journey.
+- **D1384.4** — Charms prevent fatigue.
+- **D1384.4.1** — Magic shirt prevents fatigue during swimming.
+- **D1384.4.2** — Magic blue stone prevents fatigue during swimming.
+- **D1384.5** — Song as protection on journey.
+- **D1384.6** — Ointment gives protection on journey.
+- **D1384.7** — Magic ring prevents losing one's way.
+- **D1385** — Magic object protects from evil spirits.
+- **D1385.1** — Earth from saint's grave expels demons.
+- **D1385.2** — Plant as antidote to spells and enchantments.
+- **D1385.2.1** — Herbs worn in ears keep off power of evil spirits.
+- **D1385.2.2** — Rue, when burned, keeps evil spirits at a distance.
+- **D1385.2.3** — Hawthorn protects travelers.
+- **D1385.2.4** — Witch will never visit a house where pipal is strewn.
+- **D1385.2.5** — Ash (quicken, rowan) protects against spells and enchantment.
+- **D1385.2.6** — Roots protect from evil spirits.
+- **D1385.2.7** — Mandrake protects from evil spirits.
+- **D1385.2.8** — Garlic protects from evil spirits.
+- **D1385.3** — Marriage ring protects from devil.
+- **D1385.3.1** — Magic ring protects from spirit.
+- **D1385.4** — Silver bullet protects against giants, ghosts, and witches.
+- **D1385.4.1** — Witch shot dead with bullet of salt.
+- **D1385.5** — Metal as defense against spirits.
+- **D1385.5.1** — Copper as defense against ghosts and magic.
+- **D1385.5.2** — Axe driven into house entrance keeps werwolf out.
+- **D1385.6** — Magic salve protects from enchantment.
+- **D1385.7** — Magic circle averts sorcery.
+- **D1385.8** — Saint's bachall keeps off monsters and ghosts.
+- **D1385.9** — Magic horseshoe keeps off devils, trolls, and witches.
+- **D1385.10** — Wheel buried in doorstep to prevent deviltry.
+- **D1385.11** — Churchyard mould in hat prevents witchery.
+- **D1385.12** — Magic bell disperses demons.
+- **D1385.12.1** — Saint's bell rung against black birds (demons).
+- **D1385.13** — Charm prevents witchcraft.
+- **D1385.13.1** — Ineffable Name subjugates demons.
+- **D1385.14** — Milk of two king's children protects hero in dragon fight.
+- **D1385.15** — Holy water and mass prevent demons alighting on grave.
+- **D1385.15.1** — Holy water dispels demons.
+- **D1385.16** — Magic hymn protects against demons and vices.
+- **D1385.16.1** — Magic hymn protects against spells of druids.
+- **D1385.16.2** — Magic hymn protects against spells of smiths.
+- **D1385.16.3** — Magic hymn protects against spells of women.
+- **D1385.17** — Magic measurement protects against devil.
+- **D1385.18** — Magic thread protects against demons.
+- **D1385.19** — Clothing protects from evil spirit.
+- **D1385.19.1** — Saint's hose protects woman from devil.
+- **D1385.20** — Runes protect from the curse of a dead Christian woman.
+- **D1385.21** — Magic stone makes demons despair.
+- **D1385.22** — Bedstead at doorway prevents spirit from entering.
+- **D1385.23** — Magic quilt protects wearer from demons and human weapons.
+- **D1385.24** — Amulet guards against sorcery.
+- **D1385.25** — Magic book disperses demons.
+- **D1385.26** — Red color protects against demons.
+- **D1385.27** — Meal of fishes protects against demons.
+- **D1385.28** — Magic honey protects against demons.
+- **D1385.29** — Magic lamp protects against demons.
+- **D1386** — Magic object protects from unwelcome lover.
+- **D1386.1** — Magic sword protects woman from fairy lover in husband's absence.
+- **D1386.2** — Magic herb keeps off demon lover.
+- **D1386.2.1** — Clever woman and devil as paramour.
+  *Devil betrays means by which he can be driven out.*
+- **D1387** — Magic object preserves chastity.
+- **D1387.1** — Amulet preserves chastity.
+- **D1387.2** — Magic charm (writings) preserves chastity.
+- **D1387.3** — Magic belt protects against husband.
+- **D1388** — Magic object protects from drowning.
+- **D1388.0.1** — Magic ring protects from drowning.
+- **D1388.0.2** — Magic veil keeps man from sinking in water.
+- **D1388.0.3** — Magic chain protects from drowning.
+- **D1388.0.4** — Magic garment protects from drowning.
+- **D1388.0.5** — By means of magic bag it is possible to stay as long on the bottom of the sea as one wants.
+- **D1388.0.6** — By means of magic helmet it is possible to stay on the bottom of the sea as long as one wants.
+- **D1388.1** — Magic object protects from shipwreck.
+- **D1388.1.1** — Saint's bachall protects from shipwreck.
+- **D1388.1.2** — Herb protects from storms at sea.
+- **D1388.1.3** — Runes protect from storm and shipwreck.
+- **D1388.2** — Magic stone keeps flood from overflowing earth.
+- **D1389** — Magic object affords miscellaneous protection.
+- **D1389.1** — Magic stone protects church from oppression.
+- **D1389.2** — Charms against theft.
+- **D1389.2.1** — Theft from church prevented by apparent heat.
+- **D1389.2.2** — Thieves cannot cross a river because the water suddenly becomes too hot for them.
+- **D1389.3** — Magic cup protects against loss of strength.
+- **D1389.4** — Magic wheel prevents entrance to fortress.
+- **D1389.5** — Magic spear protects against spell.
+- **D1389.6** — Saint's bell carried around tribe averts all danger.
+- **D1389.7** — Magic shirt protects against opposition.
+- **D1389.8** — Magic helmet prevents baldness.
+- **D1389.9** — Magic hymn protects against poverty, death and dishonor.
+- **D1389.9.1** — Magic red stone protects against poverty.
+- **D1389.9.2** — Magic ring prevents poverty.
+- **D1389.10** — Magic measurement protects against sudden death.
+- **D1389.11** — Magic armature protects soul from hurt.
+- **D1389.12** — Leek put under the tongue of supposed dead person preserves him from harm by burial.
+- **D1389.13** — Magic plant banishes fear.
+- **D1389.14** — Sword puts to flight five evil passions.
+- **D1389.15** — Magic incense protects from plague.
+- **D1389.16** — Magic girdle protects from pain.
+- **D1390** — Magic object rescues person.
+- **D1390.1** — Hairs of lion, when burnt, get owner out of difficulties.
+- **D1391** — Magic object saves person from execution.
+- **D1391.1** — Miraculous rain extinguishes fire used at stake.
+- **D1391.2** — Saint's bachall saves prisoner from execution.
+- **D1392** — Magic object saves owner from death.
+- **D1392.1** — Amulet saves one from death.
+- **D1393** — Magic object helps fugitive.
+- **D1393.1** — Tree opens and conceals fugitive.
+- **D1393.1.1** — Woman charms stick of wood so she can hide inside it.
+- **D1393.2** — Magic object maintains quiet so that fugitive may escape.
+- **D1393.3** — Magic storm protects hidden children.
+- **D1393.4** — Tree points way to fugitive but misdirects enemy.
+- **D1393.5** — Magic thorn-tree attacks pursuer and helps fugitive.
+- **D1394** — Magic object helps hero in trial.
+- **D1394.1** — Trial by ordeal subverted by carrying magic object.
+- **D1394.2** — Magic object enables one to withstand inquisitorial torture.
+- **D1395** — Magic object frees person from prison.
+- **D1395.1** — Escape from prison by use of magic fiddle.
+- **D1395.2** — Escape from prison by use of magic tablecloth.
+- **D1395.3** — Escape from prison by use of magic purse.
+- **D1395.4** — Saint's bachall enables captive to escape.
+- **D1395.5** — Magic ring enables captive to escape.
+- **D1395.6** — Escape from prison by use of charm (formula).
+- **D1395.7** — Escape from prison by use of magic hymn.
+- **D1395.8** — All fetters loosed on the night of Christ's Nativity.
+- **D1395.9** — Magic centipede enables captive to make hole in wall.
+- **D1396** — Magic object breaks spells.
+- **D1396.1** — Magic goblet breaks spells.
+- **D1399** — Rescue by magic object miscellaneous.
+- **D1399.1** — Magic spinning rod pulls horse out of the earth.
+
+## Magic object overcomes person
+
+- **D1400** — Magic object overcomes person.
+- **D1400.1** — Magic object conquers enemies.
+- **D1400.1.1** — Magic trousers conquer enemy.
+  *Hero spreads them in air and balls of fire fall from them on enemy.*
+- **D1400.1.2** — Magic ring conquers enemy.
+- **D1400.1.3** — Magic fan conquers enemy.
+- **D1400.1.4** — Magic weapon conquers enemy.
+- **D1400.1.4.1** — Magic sword conquers enemy.
+- **D1400.1.4.1.1** — Sacred sword of saint repulses army of heretics.
+- **D1400.1.4.2** — Magic saber conquers enemy.
+- **D1400.1.4.3** — Magic knife conquers enemy.
+- **D1400.1.4.4** — Magic spear conquers enemy.
+- **D1400.1.4.5** — Hercules' bow and arrow essential to capture Troy.
+- **D1400.1.4.6** — Magic stone axe conquers enemies.
+- **D1400.1.4.7** — Magic arrows annihilate army.
+- **D1400.1.5** — Magic jewel conquers enemies.
+- **D1400.1.6** — Magic amulet in mouth conquers enemies.
+- **D1400.1.7** — Magic staff defeats enemies.
+- **D1400.1.7.1** — Magic club (stick) gives victory.
+- **D1400.1.8** — Magic cup gives victory.
+- **D1400.1.9** — Saint's bell conquers enemies.
+- **D1400.1.9.1** — Saint rings the church bells, and enemies flee in dismay.
+- **D1400.1.10** — Charm gives victory in fight.
+- **D1400.1.11** — Magic runes give power over enemy.
+- **D1400.1.11.1** — Magic oath stops killer and sends invading army back.
+- **D1400.1.12** — Saint's bachall defeats enemies.
+- **D1400.1.12.1** — Saint's bachall overcomes beast in hell.
+- **D1400.1.13** — Magic mirror kills enemy soldiers.
+- **D1400.1.14** — Magic stone (jewel) gives victory.
+- **D1400.1.15** — Armor gives victory.
+- **D1400.1.16** — Magic banner gives victory.
+- **D1400.1.17** — Magic helmet gives victory.
+- **D1400.1.18** — Thread from jogi's garment when pulled makes fort fall to ground.
+- **D1400.1.19** — Magic feather defeats enemy.
+- **D1400.1.20** — Magic (human) head defeats enemy.
+- **D1400.1.20.1** — Magic (human) head causes fortress to crumble.
+- **D1400.1.21** — Bull's tail becomes a stick that lashes hero's enemies and exterminates an army.
+- **D1400.1.22** — Raja's guards magically transform stones and dry bones rained upon him by army of witches and turn them back.
+- **D1400.1.23** — Magic storm conquers enemies.
+- **D1400.1.23.1** — Magic wind sinks five pursuing demons in sea.
+- **D1400.1.23.2** — Lightning in magic box kills an army sent by king to conquer hero.
+- **D1401** — Magic object cudgels person.
+- **D1401.1** — Magic club (stick) beats person.
+- **D1401.1.1** — Magic cudgel beats animals to death for owner.
+- **D1401.2** — Magic sack furnishes mannikin who cudgels owner's enemies.
+- **D1401.3** — Magic whip beats person.
+- **D1401.4** — Magic pot with demons who beat owner's enemy.
+- **D1401.5** — Magic stone hits everything and returns by itself.
+- **D1401.6** — Magic hammer beats person.
+- **D1401.7** — Magic slipper beats person.
+- **D1401.8** — Log of wood animated by spirit of malignant holy man strikes left and right to kill offending villagers.
+- **D1401.9** — Magic bone beats king's face.
+- **D1402** — Magic object kills.
+- **D1402.0.1** — Magic object burns person up.
+- **D1402.0.1.1** — Magic shield shoots balls of fire among enemies.
+- **D1402.0.1.2** — Holy man's cloak burns person up.
+- **D1402.0.2** — Magic object causes person to be drowned.
+- **D1402.0.2.1** — Magic well causes person to be drowned.
+- **D1402.0.2.2** — Magic spell causes person to be drowned.
+- **D1402.0.2.3** — Magic ring causes person to be drowned.
+- **D1402.1** — Magic plant kills.
+- **D1402.2** — Magic hair in man's eyebrow kills all who see it.
+- **D1402.3** — Magic part of animal kills.
+- **D1402.3.1** — Magic serpent heart kills giant.
+- **D1402.3.2** — Magic leopard gall causes death.
+- **D1402.3.3** — Magic animal horn kills.
+- **D1402.3.4** — Magic jaw bone of ass kills.
+- **D1402.4** — Magic fire kills.
+- **D1402.5** — Nessus-shirt.
+  *Magic shirt burns wearer up.*
+- **D1402.6** — Magic bracelet kills man.
+- **D1402.7** — Magic weapon kills.
+- **D1402.7.0.1** — Weapons magically venomous.
+- **D1402.7.1** — Magic sword kills man.
+- **D1402.7.1.1** — Magic sword slays a man daily.
+- **D1402.7.1.2** — Magic sword always inflicts mortal wounds.
+- **D1402.7.2** — Magic spear kills.
+- **D1402.7.2.1** — Magic spear always inflicts mortal wounds.
+- **D1402.7.2.2** — Magic all-killing spear-head.
+- **D1402.7.2.3** — Magic spear's point harmless, while its shaft inflicts mortal blow.
+- **D1402.7.2.4** — Magic spear kills man.
+- **D1402.7.3** — Magic lance kills.
+- **D1402.7.4** — Magic cartridge kills.
+- **D1402.7.5** — Magic arrow kills.
+- **D1402.7.5.1** — Arrows rubbed with black chicken fatal.
+- **D1402.8** — Magic breath kills.
+- **D1402.9** — Magic door catches bear so that he is burned to death.
+- **D1402.10** — Magic wand kills.
+- **D1402.10.1** — Stick, become a sword, flies through air to kill ferocious animal-guardians of extraordinary lotus.
+- **D1402.10.2** — Rod from magic hazel-tree kills snake immediately.
+- **D1402.11** — Magic song kills person.
+- **D1402.11.1** — Magic music kills person.
+- **D1402.12** — Magic ring kills.
+- **D1402.13** — Druid's spells kill Christian king.
+- **D1402.13.1** — Druid's spells kill enemies.
+- **D1402.13.2** — Druid's spells cause drowning.
+- **D1402.13.2.1** — Druidess' spell causes drowning.
+- **D1402.13.3** — Charm used to kill.
+- **D1402.14** — Magic circle of saliva kills dragon.
+- **D1402.14.1** — Magic charmed spittle kills.
+- **D1402.15** — Magic poem (satire) causes king to waste away.
+- **D1402.15.1** — Magic poem (satire) causes man to melt.
+- **D1402.15.2** — Magic poem (satire) causes death.
+- **D1402.15.3** — Satire causes ulcers on face.
+- **D1402.16** — Magic mustard-seed causes man to turn to ashes.
+- **D1402.16.1** — Magic mustard seed causes man to be dead for an hour.
+- **D1402.17** — Magic bedstead-legs kill dangerous animals.
+- **D1402.18** — Excrements cause approaching animals to fall dead.
+- **D1402.19** — Magic statue kills.
+- **D1402.19.1** — Magic statue of animal kills.
+- **D1402.20** — Magic wheel kills all upon whom it falls.
+- **D1402.21** — Magic stone kills person whom it strikes.
+- **D1402.22** — Magic harp kills.
+- **D1402.23** — Killing with head of fallen enemy.
+- **D1402.24** — Water from magic fountain kills.
+- **D1402.24.1** — Giant kills people by sprinkling water on their heads.
+- **D1402.25** — Magic pills kill.
+- **D1402.25.1** — Magic pills reduce snake to ashes.
+- **D1402.26** — Magic wind kills.
+- **D1402.27** — Magic dust kills snake.
+- **D1402.28** — Handkerchief whirled against advancing army stretches them lifeless.
+- **D1402.29** — Magic drum enters enemy's body and kills him.
+- **D1402.30** — Magic coat kills.
+- **D1402.31** — Magic salt kills.
+- **D1402.32** — Magic tomb kills.
+- **D1403** — Magic object maims.
+- **D1403.1** — Magic poem (satire) raises blotches on face.
+- **D1403.1.1** — Magic poem causes deformity.
+- **D1403.2** — Magic well maims.
+- **D1403.3** — Magic drink causes arms to fall from shoulders.
+- **D1404** — Magic object pierces.
+- **D1404.1** — Magic rod pierces whatever directed against.
+- **D1404.2** — Drop of hound's blood from magic spear (lance) pierces owner's foot (head).
+- **D1405** — Magic object causes person to disappear.
+- **D1405.1** — Magic ring causes person to disappear.
+- **D1406** — Magic object helps win in law court.
+- **D1406.1** — Charm to win cases in law court.
+- **D1407** — Magic object helps gambler win.
+- **D1407.1** — Magic ring helps gambler win.
+- **D1407.2** — Hangman's noose gives luck in gambling.
+- **D1407.3** — Magic game board helps win.
+- **D1407.4** — Charm gives victory in game of dice.
+- **D1408** — Magic object devastates country.
+- **D1408.1** — Magic sphere burns up country.
+  *By turning that part of the globe to the sun, one can make any place on earth burn up.*
+- **D1408.1.1** — Magic bark sets creek on fire and burns it up.
+- **D1408.2** — Magic red wind devastates country.
+- **D1409** — Magic object overcomes person miscellaneous.
+- **D1409.1** — Magic object brings evil (bad luck) upon person.
+- **D1409.1.1** — Magic wand brings evil upon person.
+- **D1409.2** — Magic roll of cloth pacifies demon.
+- **D1410** — Magic object renders person helpless.
+- **D1410.1** — Seeds cast on lions and tigers render them helpless.
+- **D1410.2** — Light from hand-of-glory renders person helpless.
+- **D1410.3** — Magic fluid takes away magic powers.
+  *Fluid is to be sprinkled with a willow branch.*
+- **D1410.4** — Possession of mermaid's belt gives power over her.
+- **D1410.5** — Serpent charmed into helplessness by magic formula.
+- **D1410.6** — Drink from magic cup deprives man of legs.
+- **D1410.7** — Magic bag shaken against enemies renders them helpless in face of mist or poison.
+- **D1410.8** — When spying follower accidentally touches holy man's cloak he loses his eyesight and falls down senseless.
+- **D1411** — Magic object binds person (animal).
+- **D1411.1** — Magic rope binds person.
+- **D1411.2** — Magic whip holds person fast.
+- **D1411.3** — Magic grass holds person fast.
+- **D1411.4** — Magic charm binds deer so that it cannot move.
+- **D1412** — Magic object pulls person into it.
+- **D1412.1** — Magic bag draws person into it.
+- **D1412.2** — Magic pot draws person into it.
+- **D1412.3** — Flames draw person into them.
+- **D1413** — Magic object holds person fast.
+- **D1413.0.1** — Magic object causes persons to stick together.
+- **D1413.0.1.1** — Magic formula causes persons to stick together.
+- **D1413.1** — Tree from which one cannot descend.
+- **D1413.1.1** — Cherry tree from which one cannot descend.
+- **D1413.1.2** — Pear tree from which one cannot descend.
+- **D1413.1.3** — Fig tree from which one cannot descend.
+- **D1413.2** — Ring prevents person from rising from chair.
+- **D1413.3** — Sleigh makes person magically hold on.
+- **D1413.4** — Stairs to which person sticks.
+- **D1413.5** — Bench to which person sticks.
+- **D1413.6** — Chair to which person sticks.
+- **D1413.7** — Basin to which one sticks.
+- **D1413.8** — Chamber-pot to which one sticks.
+- **D1413.9** — Sack holds person who puts hand into it.
+- **D1413.9.1** — Wallet (sack) from which one cannot escape.
+- **D1413.10** — Anvil to which one sticks.
+- **D1413.11** — Magic medicine causes person to stick to seat (pot).
+- **D1413.12** — Magic hand causes sword to stick to it.
+- **D1413.13** — Magic stick holds person fast.
+- **D1413.14** — Magic cauldron (cup) to which one sticks.
+- **D1413.15** — Magic window holds person fast.
+- **D1413.16** — Magic door holds person fast.
+- **D1413.16.1** — Magic doorstep will not let person pass over.
+- **D1413.17** — Magic adhesive stone.
+  *Makes all who poke in fire stick and say "Fiddevav."*
+- **D1413.18** — Magic ball of string to which one sticks.
+- **D1413.19** — Magic plain to which one sticks.
+- **D1413.20** — Magic earth-mould holds person fast.
+- **D1413.21** — Magic grass holds person fast.
+- **D1413.22** — Magic cloth holds person fast.
+- **D1413.23** — Magic drinking-tube holds person fast.
+- **D1413.24** — Grave holds person fast.
+- **D1413.25** — Magic scabbard causes sword to stick to it.
+- **D1414** — Magic object renders weapon useless.
+- **D1414.0.1** — Magic object makes fortifications useless.
+- **D1414.1** — Magic wand breaks enemy's sword.
+- **D1414.2** — Magic writings on sword render it harmless.
+- **D1414.3** — Magic wind causes arms to fall from warrior's hands.
+- **D1414.4** — Magic song dulls enemy's sword.
+- **D1414.5** — Magic garment makes weapons useless.
+- **D1415** — Magic object compels person to dance.
+- **D1415.1** — Water from magic well causes person to dance.
+- **D1415.2** — Magic musical instrument causes person to dance.
+- **D1415.2.1** — Magic horn causes dancing.
+- **D1415.2.2** — Magic clarinet causes dancing.
+- **D1415.2.3** — Magic flute causes dancing.
+- **D1415.2.4** — Magic pipe causes dancing.
+- **D1415.2.5** — Magic fiddle causes dancing.
+- **D1415.2.6** — Magic lute causes dancing.
+- **D1415.2.6.1** — Magic lute causes animals to dance.
+- **D1417** — Magic object imprisons person.
+- **D1417.1** — Magic circle prevents escape.
+- **D1418** — Magic object causes person to become lost.
+- **D1418.1** — Magic mist causes person to become lost.
+- **D1419** — Magic object renders person helpless miscellaneous.
+- **D1419.1** — Magic object compels person to laugh (shriek).
+- **D1419.1.1** — Magic grave compels person to laugh (shriek).
+- **D1419.2** — Magic object paralyzes.
+- **D1419.2.1** — Magic bell paralyzes perjurer.
+- **D1419.3** — Magic object prevents ship from moving.
+- **D1419.3.1** — Saint's bachall prevents ship from moving.
+- **D1419.4** — Magic food brings eater into sender's power.
+- **D1420** — Magic object draws person (thing) to it.
+- **D1420.1** — Person drawn by magic spell.
+- **D1420.2** — Person follows magic receding well.
+- **D1420.3** — Guitar charming all who hear it.
+- **D1420.4** — Helper summoned by calling his name.
+- **D1421** — Magic object summons helper.
+- **D1421.0.1** — Magic bell summons helper.
+- **D1421.0.2** — Magic ashes summon helper.
+- **D1421.0.3** — Magic hair when thrown into fire summons supernatural.
+  *helper.*
+- **D1421.1** — Magic object summons genie.
+- **D1421.1.1** — Magic tinder summons genie.
+- **D1421.1.2** — Magic fire-steel summons genie.
+- **D1421.1.3** — Magic book summons genie.
+- **D1421.1.4** — Magic light summons genie.
+- **D1421.1.5** — Magic lamp summons genie.
+- **D1421.1.6** — Magic ring summons genie.
+- **D1421.1.7** — Magic incense (when burned) summons genie.
+- **D1421.1.8** — Magic sword (rubbed) summons genie.
+- **D1421.1.9** — Magic hair summons demon.
+- **D1421.1.10** — Magic roll of cloth summons demon.
+- **D1421.1.11** — Magic chain summons genie.
+- **D1421.1.12** — Magic pipe summons genie.
+- **D1421.1.13** — Magic ring summons air spirits.
+- **D1421.1.14** — Opening bottle summons genie.
+- **D1421.2** — Magic object summons water-spirit.
+- **D1421.2.1** — Magic arrow summons water-spirit.
+- **D1421.3** — Magic object summons dwarfs.
+- **D1421.3.1** — Magic fiddle summons dwarfs.
+- **D1421.3.2** — Magic flute summons dwarfs.
+- **D1421.3.3** — Magic charm summons dwarfs.
+- **D1421.4** — Magic object summons giant.
+- **D1421.4.1** — Magic hairs summon giant.
+  *He gives hero some hairs from his own beard.*
+- **D1421.4.2** — Magic bow summons giant.
+- **D1421.5** — Magic object summons army for rescue.
+- **D1421.5.1** — Magic horn summons army for rescue.
+- **D1421.5.2** — Magic charm summons army.
+- **D1421.5.3** — Magic sack contains soldiers which appear when it is struck.
+- **D1421.6** — Magic object summons fairy.
+- **D1421.6.1** — Magic flute summons fairy.
+- **D1425** — Magic object draws lover (husband) to woman.
+- **D1425.1** — Magic spindle brings back prince for heroine.
+- **D1425.2** — Magic hairs summon husband.
+- **D1425.3** — Magic fan summons prince for heroine.
+- **D1426** — Magic object draws woman to man.
+- **D1426.0.1** — Magic objects help hero win princess.
+- **D1426.1** — Magic flute compels woman to come to man.
+- **D1426.2** — Magic ring causes woman to come to man.
+- **D1426.3** — Magic pipe compels woman to come to man.
+- **D1427** — Magic object compels one to follow.
+- **D1427.1** — Magic pipe compels one to follow.
+  *Pied Piper of Hamelin.*
+- **D1427.2** — Woman's arm-tassel lent to ogre compels her to follow him.
+- **D1427.3** — Magic horsehairs (when rubbed) compel horse to follow.
+- **D1427.4** — Lute (rubbed) compels one to follow.
+- **D1427.5** — Harp compels one to follow.
+- **D1427.6** — Magic club brings thieves to master.
+- **D1428** — Magic object fetches another object.
+- **D1428.1** — Magic hair draws back quiver from which it has been taken.
+- **D1428.2** — Charm causes spearhead to return.
+- **D1429** — Magic object draws person (thing) to it miscellaneous.
+- **D1429.1** — Magic stone turned thrice compels person to return to it.
+- **D1430** — Magic object pursues or captures.
+- **D1431** — Magic object pursues.
+- **D1431.1** — Rock (stone) pursues person.
+- **D1431.2** — Pursuit by magic fan.
+- **D1431.3** — Pursuit by magic ring.
+- **D1431.4** — Pursuit by magic buckets.
+- **D1431.5** — Pursuit by magic calabash.
+- **D1432** — Waters magically pursue man.
+- **D1432.1** — Water gradually envelops girl filling pitcher and drowns her.
+  *Work of malevolent rice-spirit.*
+- **D1436** — Magic hair stretches after fugitive.
+- **D1438** — Magic weapon pursues victim.
+- **D1438.1** — Spell causes spear to pursue and slay man.
+- **D1438.2** — Magic arrow pursues victim.
+- **D1438.3** — Magic club flies through air after victim.
+- **D1440** — Magic object gives power over animals.
+- **D1440.1** — Magic horn has power over animals.
+- **D1441** — Magic object calls animals together.
+- **D1441.1** — Magic musical instrument calls animals together.
+- **D1441.1.1** — Magic flute calls animals together.
+- **D1441.1.2** — Magic pipe calls animals together.
+- **D1441.1.3** — Magic fiddle calls animals together.
+- **D1441.1.3.1** — Magic lute calls animals together.
+- **D1441.1.3.2** — Magic harp calls animals together.
+- **D1441.1.4** — Magic song calls animals together.
+- **D1441.2** — Charm calls down swarm of bees.
+- **D1442** — Magic object tames or restrains animal.
+- **D1442.1** — Magic bridle restrains all horses.
+- **D1442.1.1** — Mad horse becomes tame when girl's voice reaches his ears.
+- **D1442.2** — Straw on horse's back restrains him.
+- **D1442.3** — Saint's bachall subdues wild animals.
+- **D1442.4** — Magic staff thrown causes wild animals to stand still.
+- **D1442.4.1** — Magic rod tames lions.
+- **D1442.5** — Saint's song silences hound.
+- **D1442.6** — Magic spell tames animals.
+- **D1442.6.1** — Spell tames horse.
+- **D1442.6.2** — Magic spell causes birds to roost.
+- **D1442.7** — Magic breath subdues animals.
+- **D1442.8** — "Witch bone" enables possessor to control animals in any way he wishes.
+- **D1442.9** — Magic meat pacifies animal guardians.
+- **D1442.10** — Magic whip makes docile animal-guardians of wonderful birds.
+- **D1442.11** — Diamond charms serpents into harmlessness.
+- **D1442.12** — Magic garment tames animals.
+- **D1442.13** — Magic musical instrument tames animals.
+- **D1443** — Magic object expels animals.
+- **D1443.1** — Charm expels flies from city.
+- **D1444** — Magic object catches animal.
+- **D1444.1** — Magic object catches fish.
+- **D1444.1.1** — Saint's bachall catches fish.
+- **D1444.1.2** — Magic wooden fish attracts live fish to fisherman's net.
+- **D1444.1.3** — Magic branch catches fish.
+- **D1444.1.4** — Magic charm allows person to hook mythical eel.
+- **D1444.2** — Charm to catch hare and monkey.
+- **D1444.3** — Magic fishhook catches cats.
+- **D1444.4** — Magic song to catch animals.
+- **D1445** — Magic object kills animal.
+- **D1445.1** — Revelation of magic secret permits animal to be killed.
+- **D1445.2** — Magic spear kills animals.
+- **D1445.3** — Saint's chant kills animal.
+- **D1445.4** — Magic poem (satire) kills animals.
+- **D1445.5** — Magic garment kills animals.
+- **D1445.6** — Magic object burns animals.
+- **D1445.6.1** — Magic clouds burn animals.
+- **D1445.6.2** — Magic heavenly fire burns animals.
+- **D1446** — Magic object prevents animal from straying.
+- **D1446.1** — Saint's bell keeps cattle from straying.
+- **D1446.2** — Saint's gospel-book keeps cattle from straying.
+- **D1446.3** — Shepherd's consecrated staff keeps cow from straying.
+- **D1446.4** — Saint's staff serves as a shepherd.
+- **D1446.5** — Magic circle keeps herd within it.
+- **D1447** — Magic object protects against wild animals.
+- **D1447.1** — Charm protects against wild animals.
+- **D1447.2** — Magic garment protects against wild animals.
+- **D1447.2.1** — Saint's cowl protects fox from hounds.
+- **D1447.3** — White ash stick held before snakes causes them to flee.
+- **D1449** — Magic object gives miscellaneous powers over animals.
+- **D1449.1** — Charm makes cows give plenty of milk.
+- **D1449.2** — Magic hunting collar insures death of game.
+- **D1449.3** — Swine summoned out of magic harp.
+- **D1449.4** — Charm prevents fish being caught.
+- **D1449.4.1** — Poet's incantations drive away fish.
+- **D1449.5** — Magic sand causes crocodile to go ashore.
+- **D1450** — Magic object furnishes treasure.
+- **D1451** — Inexhaustible purse furnishes money.
+- **D1451.1** — Inexhaustible pocket furnishes money.
+- **D1451.2** — Inexhaustible bag (sack) furnishes money.
+- **D1452** — Magic vessel (box) furnishes money.
+- **D1452.1** — Magic kettle furnishes money.
+- **D1452.2** — Magic pot furnishes money.
+- **D1452.3** — Lid of casket furnishes money.
+- **D1452.4** — Magic conch shell furnishes money.
+- **D1452.5** — Coin put in huge bell fills it with rupees.
+- **D1454** — Parts of human body furnish treasure.
+- **D1454.1** — Hair furnishes treasure.
+- **D1454.1.1** — Gold and silver combed from hair.
+- **D1454.1.1.1** — The devil runs hands through his hair; coins fall to the floor.
+- **D1454.1.2** — Jewels from hair.
+- **D1454.2** — Treasure falls from mouth.
+- **D1454.2.1** — Flowers fall from lips.
+- **D1454.3** — Treasure from spittle.
+- **D1454.4** — Treasure from tears.
+- **D1454.4.1** — Tears of gold.
+- **D1454.4.2** — Jewels from tears.
+- **D1454.4.3** — Flowers from tears.
+- **D1454.5** — Treasure from excrements.
+- **D1454.6** — Treasure from scab.
+- **D1454.7** — Treasure from footprints.
+- **D1454.8** — Treasure issues from girl's head.
+- **D1454.9** — Treasure from nose (with sneezing).
+- **D1455** — Magic clothing furnishes treasure.
+- **D1455.1** — Magic mantle provides treasure.
+- **D1456** — Magic ornament provides treasure.
+- **D1456.1** — Magic beads produce treasure.
+- **D1456.2** — Magic ring provides money.
+- **D1456.2.1** — Magic ring multiplies wealth.
+- **D1456.3** — Magic jewel provides wealth.
+- **D1457** — Magic building provides treasure.
+- **D1457.1** — Magic castle (palace) provides treasure.
+- **D1461** — Magic tree furnishes treasure.
+- **D1461.0.1** — Tree with golden fruit.
+- **D1461.0.2** — Tree with silver branches.
+- **D1461.1** — Magic fruit furnishes treasure.
+- **D1463** — Magic plant furnishes treasure.
+- **D1463.1** — Magic mandrake furnishes treasure.
+- **D1463.2** — Magic calabash furnishes treasure.
+- **D1463.2.1** — Magic pumpkin furnishes treasure.
+- **D1463.3** — Magic seed produces golden gourd seed.
+- **D1463.4** — Magic tobacco plant hides treasure.
+- **D1463.5** — Treasure-giving magic flower (gold and silver).
+- **D1463.6** — Magic grass furnishes treasure.
+- **D1465** — Magic food furnishes treasure.
+- **D1465.1** — Magic bread furnishes treasure.
+- **D1465.1.1** — Consecrated bread brings wealth.
+- **D1466** — Magic stone furnishes wealth.
+- **D1466.1** — Magic stone turns everything to gold.
+- **D1467** — Magic water furnishes treasure.
+  *Everything it touches turns to gold.*
+- **D1467.1** — Magic fountain produces gold.
+- **D1467.2** — Rubies found in whirlpool in sea.
+- **D1469** — Miscellaneous objects furnish treasure.
+- **D1469.1** — Magic flower pot bears plants with gold letters and leaves.
+- **D1469.2** — Magic doll furnishes treasure.
+  *Excreta of gold.*
+- **D1469.3** — Shower of gems from magic anvil.
+- **D1469.4** — Magic hail on lake causes treasure to spring from it.
+- **D1469.5** — Worshipped sex organ of horse provides money, etc.
+- **D1469.6** — Magic book furnishes wealth.
+- **D1469.7** — Wealth from drawing cow's feet over money box.
+- **D1469.8** — Treasure from magic stick.
+- **D1469.9** — Silver leaps into wine pitcher.
+- **D1469.10** — Magic ashes produce jewelry.
+- **D1469.10.1** — Ashes from burned snake-woman's body will turn anything into gold.
+- **D1469.11** — Magic sheepskin, shaken inside and outside shed, showers gold and silver.
+- **D1469.12** — Magic quilt: gold coins shake out of it.
+- **D1469.13** — Treasure falls from stone lion's mouth.
+- **D1469.13.1** — Statue of eagle gives wealth.
+- **D1469.14** — Magic tortoise shell produces pearls.
+- **D1469.15** — Magic ship furnishes treasure.
+- **D1469.16** — Clouds fetch previous stones.
+- **D1469.17** — Charm makes treasure rain from sky.
+- **D1470** — Magic object as provider.
+- **D1470.1** — Magic wishing-object.
+  *Object causes wishes to be fulfilled.*
+- **D1472.2** — Magic object causes food and drink to be furnished.
+- **D1470.1.1** — Magic wishing-stone.
+- **D1470.1.2** — Magic wishing-tree.
+- **D1470.1.3** — Magic wishing-laurel.
+- **D1470.1.4** — Magic wishing-calabash.
+- **D1470.1.5** — Magic wishing-apple.
+- **D1470.1.6** — Magic wishing-nut.
+- **D1470.1.7** — Magic ass's head fulfills wishes.
+- **D1470.1.8** — Magic wishing-eggs.
+- **D1470.1.9** — Magic wishing-cloth.
+- **D1470.1.10** — Magic wishing-smock.
+- **D1470.1.11** — Magic wishing-cloak (mantle).
+- **D1470.1.12** — Magic wishing-belt.
+- **D1470.1.13** — Magic wishing-hat.
+- **D1470.1.14** — Magic wishing-cap.
+- **D1470.1.15** — Magic wishing-ring.
+- **D1470.1.16** — Magic wishing-lamp.
+- **D1470.1.17** — Magic wishing-lantern.
+- **D1470.1.18** — Magic wishing-cup.
+- **D1470.1.19** — Magic wishing-pot.
+- **D1470.1.20** — Magic wishing-box.
+- **D1470.1.21** — Magic wishing-saddle.
+- **D1470.1.22** — Magic wishing-drum.
+- **D1470.1.23** — Magic wishing-pipe.
+- **D1470.1.24** — Magic wishing-wand.
+- **D1470.1.25** — Magic wishing-rod.
+- **D1470.1.26** — Magic wishing-book.
+- **D1470.1.27** — Magic wishing-bag.
+- **D1470.1.28** — Magic coin fulfills wishes.
+- **D1470.1.29** — Magic wishing-ball.
+- **D1470.1.30** — Magic wishing-bell.
+- **D1470.1.31** — Magic wishing-whip.
+- **D1470.1.32** — Magic wishing-horn.
+- **D1470.1.33** — Magic wishing-trumpet.
+- **D1470.1.34** — Magic wishing-bow.
+- **D1470.1.35** — Magic wishing-well.
+- **D1470.1.36** — Magic wishing hair.
+- **D1470.1.37** — Magic wishing ivory tusk.
+  *When struck on ground (only once) provides treasure.*
+- **D1470.1.38** — Magic wishing mirror.
+- **D1470.1.39** — Magic wishing bracelet.
+- **D1470.1.40** — Magic wishing-powder.
+- **D1470.1.41** — Magic wishing conch shell.
+- **D1470.1.42** — Magic wishing-jewel.
+- **D1470.1.43** — Magic wishing-boat.
+- **D1470.1.44** — Magic wishing-quilt.
+- **D1470.1.45** — Magic lake: whoever dies in it will have his desires fulfilled in future birth.
+- **D1470.1.46** — Magic wishing-hammer.
+- **D1470.1.47** — Magic iron measure for wishing.
+- **D1470.1.48** — Magic rubber card for wishing.
+- **D1470.1.49** — Moon provides by magic.
+- **D1470.2** — Provisions received from magic object.
+- **D1470.2.1** — Provisions received from magic tree.
+- **D1470.2.1.1** — Leaves turn into fish to feed family.
+- **D1470.2.2** — Supplies received from magic box.
+- **D1470.2.3** — Horn of plenty (cornucopia.)
+- **D1470.2.4** — Supplies from toe of old woman.
+- **D1470.2.5** — Supplies from magic table.
+- **D1470.2.6** — Supplies from bull's belly.
+- **D1470.2.7** — Supplies from bull's dung.
+- **D1470.2.8** — Supplies from magic ashes.
+- **D1470.2.9** — Supplies from magic skin worn by man.
+- **D1472** — Food and drink from magic object.
+- **D1472.1** — Food or drink received directly from magic object.
+- **D1472.1.1** — Fountain miraculously supports life.
+- **D1472.1.2** — Stone provides food.
+- **D1472.1.2.1** — Man strikes stone: wine flows.
+- **D1472.1.2.2** — Rock produces wine.
+  *Herder sees resemblance of stone to wine cask. He strikes it and wine flows.*
+- **D1472.1.2.3** — Magic pebble provides food.
+- **D1472.1.2.4** — Magic rock supplies water.
+- **D1472.1.3** — Magic tree supplies food.
+- **D1472.1.3.1** — Magic lime tree distills sustenance for saint.
+- **D1472.1.3.2** — Food-providing leaf.
+- **D1472.1.4** — Vegetable supporting life without other food.
+- **D1472.1.5** — Magic palace supplies food and drink.
+- **D1472.1.6** — Magic kitchen supplies food and drink.
+- **D1472.1.7** — Magic table supplies food and drink.
+- **D1472.1.8** — Magic table-cloth supplies food and drink.
+- **D1472.1.9** — Magic pot supplies food and drink.
+- **D1472.1.10** — Magic coffee-pot supplies drink.
+- **D1472.1.11** — Magic cauldron supplies food.
+- **D1472.1.11.1** — Magic kettle (cauldron) turns stones to excellent food.
+- **D1472.1.12** — Magic kettle supplies food.
+- **D1472.1.12.1** — Food-providing frying pan.
+- **D1472.1.13** — Magic pitcher supplies drink.
+- **D1472.1.14** — Magic cup supplies drink.
+- **D1472.1.14.1** — Magic food-providing cup.
+- **D1472.1.15** — Magic tankard supplies drink.
+- **D1472.1.16** — Magic glass supplies drink.
+- **D1472.1.17** — Magic bottle supplies drink.
+- **D1472.1.18** — Magic barrel supplies drink.
+- **D1472.1.19** — Magic food-basket (vessel) supplies food.
+- **D1472.1.20** — Magic plate supplies food.
+- **D1472.1.21** — Magic chest supplies food.
+- **D1472.1.22** — Magic bag (sack) supplies food.
+- **D1472.1.22.1** — Man compels food to enter magic sack.
+- **D1472.1.22.2** — Saint's inexhaustible sack of wheat.
+- **D1472.1.23** — Magic basket supplies food.
+- **D1472.1.24** — Part of animal's body supplies food or drink.
+- **D1472.1.24.1** — Magic drinking horn supplies drink.
+- **D1472.1.24.2** — Jawbone of ass supplies water.
+- **D1472.1.24.3** — Food and drink from elk's ears.
+- **D1472.1.24.4** — Body of tortoise provides food.
+- **D1472.1.25** — Magic urn supplies drink.
+- **D1472.1.26** — Magic egg supplies food.
+- **D1472.1.27** — Magic well supplies food.
+- **D1472.1.28** — Magic stump supplies drink.
+- **D1472.1.29** — Magic sheepskin supplies food.
+- **D1472.1.30** — Magic ashes produce food.
+- **D1472.1.31** — Magic food-providing sticks.
+- **D1472.1.32** — Magic fiddle provides food.
+- **D1472.1.33** — Magic bowl furnishes food.
+- **D1472.1.34** — Part of human body furnishes food.
+- **D1472.1.34.1** — Magic finger provides food.
+- **D1472.1.34.2** — Stream flows from man's head.
+- **D1472.1.35** — Water flows from axe.
+- **D1472.1.36** — Magic apple satisfies hunger.
+- **D1472.2** — Magic object causes food and drink to be furnished.
+- **D1472.2.1** — Magic wishing-girdle supplies food.
+- **D1472.2.2** — Magic wishing-drum supplies food.
+- **D1472.2.3** — Magic wishing-pipe supplies game.
+- **D1472.2.4** — Charm prepares feast.
+- **D1472.2.5** — Magic song produces food.
+- **D1472.2.6** — Magic pumpkin yields year's supply of rice.
+- **D1472.2.7** — Magic calabash causes food to be furnished.
+- **D1472.2.8** — Magic musical pipe causes food to fall from sky.
+- **D1472.2.9** — Magic mallet produces provisions.
+- **D1472.2.10** — Magic rod provides water.
+- **D1472.2.11** — Magic knife stuck in tree causes wine to flow.
+- **D1473** — Magic object furnishes clothes.
+- **D1473.1** — Magic wand furnishes clothes.
+- **D1473.2** — Rubbing charm provides garments.
+- **D1475** — Magic object furnishes soldiers.
+- **D1475.1** — Magic soldier-producing horn.
+- **D1475.2** — Magic soldier-producing trumpet.
+- **D1475.3** — Magic soldier-producing pipe.
+- **D1475.4** — Magic soldier-producing hat.
+- **D1475.5** — Magic hair produces soldiers.
+- **D1475.6** — Magic soldier-producing calabash.
+- **D1475.7** — Magic soldier-producing egg.
+- **D1476** — Magic object furnishes slaves (subjects).
+- **D1476.1** — Magic calabash furnishes slaves.
+- **D1476.2** — Magic egg furnishes slaves (subjects for chief or king, etc.).
+- **D1476.3** — Magic basket (box) furnishes slaves.
+- **D1477** — Magic object furnishes livestock (oxen, horses, etc.).
+- **D1477.1** — Magic calabash furnishes livestock.
+- **D1477.2** — Magic ring furnishes livestock.
+- **D1477.3** — Magic egg furnishes livestock.
+- **D1477.4** — Magic basket (box) furnishes livestock.
+- **D1478** — Magic object provides light.
+- **D1478.1** — Saint's hand illumines darkness.
+- **D1478.2** — magic light illuminates bottom of lake.
+- **D1481** — Magic object furnishes warmth.
+- **D1481.1** — Magic chicken wing keeps one warm in cold weather.
+- **D1481.2** — Magic object provides fire.
+- **D1482** — Magic object produces oil.
+- **D1482.1** — Oil comes out of sacred white stone.
+- **D1482.2** — Magic pumpkin holds streams of oil.
+- **D1483** — Magic object produces building.
+- **D1483.1** — Palace arises from bull's legs buried in soil.
+- **D1483.2** — Magic bag builds palaces of gold and gems.
+- **D1483.3** — Magic stick: when planted in ground, palace rises.
+- **D1484** — Magic object makes road.
+- **D1484.1** — Magic shuttle makes road.
+- **D1484.2** — Reading from magic book causes road to appear.
+- **D1485** — Magic object makes carpet.
+- **D1485.1** — Magic shuttle makes carpet.
+- **D1486** — Magic object makes rivers and lakes.
+- **D1486.1** — Magic stone makes rivers and lakes.
+- **D1487** — Magic object makes plants grow.
+- **D1487.1** — Magic ring makes seaweeds grow.
+- **D1487.2** — Consecrated bread makes vegetables grow.
+- **D1487.3** — Magic spell makes tree grow.
+- **D1488** — Magic object provides wood.
+
+## Magic object controls disease
+
+- **D1523.2.6** — Bundle of wood magically acts as riding-horse.
+- **D1500** — Magic object controls disease.
+- **D1500.0.1** — Magic book controls disease.
+- **D1500.1** — Magic object heals diseases.
+- **D1500.1.1** — Magic healing fountain.
+- **D1500.1.1.1** — Magic (healing) well dug by saint.
+- **D1500.1.1.2** — The water of spring which a saint caused to flow has curative powers.
+- **D1500.1.2** — Sacred healing stone.
+- **D1500.1.2.1** — Magic healing coal.
+- **D1500.1.2.2** — Magic healing ashes.
+- **D1500.1.2.3** — Magic healing soot.
+- **D1500.1.2.4** — Magic healing lime.
+- **D1500.1.3** — Magic tree heals.
+- **D1500.1.3.1** — Magic healing hazel tree.
+- **D1500.1.4** — Magic healing plant.
+- **D1500.1.4.1** — Magic healing grass.
+- **D1500.1.4.2** — Magic healing leaves.
+- **D1500.1.4.3** — Magic healing herb.
+- **D1500.1.5** — Magic healing fruit.
+- **D1500.1.5.1** — Magic healing apple.
+- **D1500.1.6** — Ghoulish magic object cures disease.
+- **D1500.1.6.1** — Corpse's hand as remedy.
+- **D1500.1.6.2** — Churchyard mould as remedy.
+- **D1500.1.6.2.1** — Consecrated clay as remedy.
+- **D1500.1.7** — Parts or products of human body cure disease.
+- **D1500.1.7.1** — Powdered skull as remedy.
+- **D1500.1.7.1.1** — Magic head (of saint) heals diseases.
+- **D1500.1.7.2** — Magic healing spittle.
+- **D1500.1.7.2.1** — Healing power of saint's spittle.
+- **D1500.1.7.3** — Magic healing blood.
+- **D1500.1.7.3.1** — Blood of executed man as remedy.
+- **D1500.1.7.3.2** — Blood of saint as cure.
+- **D1500.1.7.3.3** — Dragon's heart-blood as remedy.
+- **D1500.1.7.3.4** — Bath in blood of king as remedy.
+- **D1500.1.8** — Magic amulet cures disease.
+- **D1500.1.9** — Magic jewel cures disease.
+- **D1500.1.9.1** — Magic sapphire cures disease.
+- **D1500.1.9.2** — Magic pearls cure disease.
+- **D1500.1.10** — Sacred objects cure disease.
+- **D1500.1.10.1** — Consecrated bread as cure.
+- **D1500.1.10.2** — Consecrated wine as magic cure.
+- **D1500.1.10.2.1** — Wine blessed by saint or received from the saint's hand cures various ills.
+- **D1500.1.10.3** — Money from offertory as cure.
+- **D1500.1.10.4** — Consecrated grain as remedy.
+- **D1500.1.10.5** — Consecrated ale as magic cure.
+- **D1500.1.10.6** — Lime used in building church as cure.
+- **D1500.1.11** — Magic healing drink.
+- **D1500.1.12** — Magic statue cures disease.
+- **D1500.1.12.1** — Magic statue of brazen serpent cures disease.
+- **D1500.1.13** — Saint's possessions cure disease.
+- **D1500.1.13.1** — Saint's girdle as magic cure.
+- **D1500.1.13.2** — Saint's cowl as magic cure.
+- **D1500.1.13.3** — Saint's bell cures disease.
+- **D1500.1.13.4** — Saint's bachall as remedy.
+- **D1500.1.14** — Saint's mallet cures disease.
+- **D1500.1.15** — Magic healing ring.
+- **D1500.1.15.1** — Consecrated healing ring.
+- **D1500.1.15.2** — Ring made of coffin-hinge as remedy.
+- **D1500.1.16** — Magic healing bottle.
+- **D1500.1.17** — Magic weapon cures disease.
+- **D1500.1.17.1** — Magic sword cures disease.
+- **D1500.1.18** — Magic healing water.
+- **D1500.1.18.1** — Dew from saint's grave as cure.
+- **D1500.1.18.1.1** — Water which had contact with the tombs of holy men proved curative.
+- **D1500.1.18.1.2** — Water from saint's washing as remedy.
+- **D1500.1.18.2** — Baptismal water as remedy.
+- **D1500.1.18.3** — Holy water as remedy.
+- **D1500.1.18.4** — Magic healing lake.
+- **D1500.1.18.5** — Water from bullaun (hollowed-out stone) as remedy.
+- **D1500.1.18.6** — Magic healing river.
+- **D1500.1.19** — Magic healing salve.
+- **D1500.1.19.1** — Magic healing salve restores severed feet.
+- **D1500.1.19.2** — Magic healing oil from saints (sacred places).
+- **D1500.1.20** — Magic healing powder.
+- **D1500.1.21** — Magic healing wand.
+- **D1500.1.22** — Magic healing book.
+- **D1500.1.23** — Magic healing charm (spell).
+- **D1500.1.24** — Magic healing song.
+- **D1500.1.25** — Magic garment as remedy.
+- **D1500.1.26** — Fragments of gibbet as cure.
+- **D1500.1.27** — Magic musical instrument as cure for disease.
+- **D1500.1.27.1** — Magic healing harp.
+- **D1500.1.27.2** — Magic healing bell.
+- **D1500.1.28** — Earth as remedy.
+- **D1500.1.29** — Magic healing honey.
+- **D1500.1.30** — Magic healing banquet.
+- **D1500.1.31** — Gold used in medicine.
+- **D1500.1.32** — Magic comb as cure.
+- **D1500.1.33** — Parts or products of animal cure disease.
+- **D1500.1.33.1** — Magic healing milk.
+- **D1500.1.33.1.1** — Cures by the milk of the mothers of saints.
+- **D1500.1.33.1.2** — Magic healing milk of lioness.
+- **D1500.1.33.2** — Flesh of white cow with red ears as only cure for mysterious illness.
+- **D1500.1.33.3** — Magic animal dung.
+- **D1500.1.33.3.1** — Magic bird dung cures.
+- **D1500.1.33.4** — Hide of sheep or goat as cure.
+- **D1500.1.33.5** — Fish head cures disease.
+- **D1500.1.34** — Magic writings heal.
+- **D1500.1.35** — Magic healing handkerchief.
+- **D1500.1.36** — Sweat used in medicine.
+- **D1500.1.37** — Urine used in medicine.
+- **D1500.1.38** — M. healing mountain.
+- **D1500.2** — Magic object wards off disease.
+- **D1500.2.1** — Saint's bell wards off disease.
+- **D1500.2.2** — Charm against sickness.
+- **D1500.2.3** — Magic picture prevents disease.
+- **D1500.2.4** — Magic circle prevents disease.
+- **D1500.2.5** — Eating magic pig prevents disease.
+- **D1500.2.6** — Magic girdle prevents disease.
+- **D1500.2.7** — Magic tree bears prophylactic fruit.
+- **D1500.2.8** — Snake liver prevents disease.
+- **D1500.3** — Magic object transfers disease to another person or thing.
+- **D1500.3.1** — Charm shifts diseases to another person.
+- **D1500.3.1.1** — Saint causes pain of sick man to be transferred to himself.
+- **D1500.3.2** — Disease transferred to saint's bell.
+- **D1500.4** — Magic object causes disease.
+- **D1500.4.1** — Magic drink causes disease.
+- **D1500.4.2** — Magic breath causes disease.
+- **D1500.4.2.1** — Saint's breath makes men drunk.
+- **D1500.4.2.2** — Saint's breath causes death.
+- **D1500.4.3** — Magic pond causes disease.
+- **D1500.4.3.1** — Magic tank causes disease.
+- **D1500.4.4** — Ray of sunlight causes leprosy.
+- **D1500.4.5** — Gloves thrown after ship cause disease.
+- **D1500.4.6** — Ashes cause leprosy.
+- **D1500.4.7** — Magic bed causes disease.
+- **D1501** — Magic object assists woman in childbearing.
+- **D1501.1** — Charms prevent barrenness or miscarriage.
+- **D1501.1.1** — Mistletoe used by druids to prevent barrenness.
+- **D1501.2** — Charms make childbirth easy.
+- **D1501.3** — Magic plant makes childbirth easy.
+- **D1501.4** — Magic fruit from Yggdrasil placed in fire makes childbirth easy.
+- **D1501.5** — Magic belt assists in childbirth.
+- **D1501.6** — Amulet assists in childbearing.
+- **D1501.7** — Leaves assist in childbearing.
+- **D1501.8** — Medicine causes woman to bear twins.
+- **D1502** — Magic object cures particular diseases.
+- **D1502.1** — Magic object cures headache.
+- **D1502.1.1** — Charm for headache.
+- **D1502.2** — Magic object cures toothache.
+- **D1502.2.1** — Dead man's tooth as cure for toothache.
+- **D1502.2.2** — Charm for toothache.
+- **D1502.2.3** — Magic object cures scrofula.
+- **D1502.2.3.1** — Hangman's noose cures scrofula.
+- **D1502.3** — Magic object cures fever.
+- **D1502.3.1** — Charm for fever.
+- **D1502.4** — Magic object cures leprosy.
+- **D1502.4.1** — Magic potion cures leprosy.
+- **D1502.4.2** — Blood as cure for leprosy.
+- **D1502.4.2.1** — Blood of children (innocent maidens) as cure for leprosy.
+- **D1502.4.3** — Touching magic boat with exposed child in it cures leprosy.
+- **D1502.5** — Magic object cures mange.
+- **D1502.5.1** — Bath in blood of king as cure for mange.
+- **D1502.6** — Magic object cures urinary disease.
+- **D1502.6.1** — Charm for urinary disease.
+- **D1502.7** — Magic object cures earache.
+- **D1502.7.1** — Magic locust egg cures earache.
+- **D1502.8** — Magic object cures boils (tumors).
+- **D1502.8.1** — Magic-dog brain cures boils.
+- **D1502.8.2** — Magic snail body cures boils.
+- **D1502.8.3** — Magic figs cure boils.
+- **D1502.9** — Viper body cures skin disease.
+- **D1502.10** — Magic cure for cancer.
+- **D1502.10.1** — Magic excrement as cure for cancer.
+- **D1502.11** — Magic water cures stomach trouble.
+- **D1503** — Magic object heals wound.
+- **D1503.1** — Magic song heals wound.
+- **D1503.2** — Magic pigskin heals wounds.
+- **D1503.3** — Charm for wounds.
+- **D1503.3.1** — Charm for burns or scalds.
+- **D1503.4** — Magic balm heals wounds.
+- **D1503.5** — Magic lantern heals wounds.
+- **D1503.6** — Magic jewel heals wounds.
+- **D1503.7** — Magic well heals (wounds).
+- **D1503.7.1** — Magic pool of milk heals wounds.
+- **D1503.8** — Magic goblet heals wounds.
+- **D1503.9** — Magic hand heals wounds.
+- **D1503.10** — Magic plant heals wounds.
+- **D1503.10.1** — Grass and flowers which grew upon a saint's grave are good for cures.
+- **D1503.11** — Wounds healed by eating fruit of magic tree.
+- **D1503.12** — Magic earth heals wounds.
+- **D1503.12.1** — Earth receives curative powers from contact with saint.
+- **D1503.13** — Magic potion heals wounds.
+- **D1503.14** — Wound healed by wounding weapon.
+- **D1503.14.1** — Wounds caused by sword can only be healed by a certain stone.
+- **D1503.15** — Wound healed with own blood.
+- **D1503.16** — Wound healed by water from place wounded man's heel dragged.
+- **D1503.17** — Magic gloves heal wound.
+- **D1504** — Magic object stanches blood.
+- **D1504.1** — Charm stanches blood.
+- **D1504.2** — Amulet cures nosebleed.
+- **D1505** — Magic object cures blindness.
+- **D1505.1** — Herbs restore sight.
+- **D1505.2** — Spittle restores sight.
+- **D1505.3** — Magic feather restores sight.
+- **D1505.4** — Magic honey restores sight.
+- **D1505.5** — Magic water restores sight.
+- **D1505.5.1** — Bird's tears restore sight.
+- **D1505.5.2** — Dew restores sight.
+- **D1505.5.2.1** — Dew falling on St. John's Night restores sight.
+- **D1505.5.3** — Magic fountain restores sight.
+- **D1505.5.4** — Holy spring restores sight.
+- **D1505.5.5** — Magic coconut water restores sight.
+- **D1505.6** — Magic ointment restores sight.
+- **D1505.7** — Magic wand restores sight.
+- **D1505.8** — Blood restores sight.
+- **D1505.8.1** — Blood from Christ's wounds restores sight.
+- **D1505.9** — Magic flower restores sight.
+- **D1505.10** — Saint's breath restores sight.
+- **D1505.10.1** — Hero's breath restores sight.
+- **D1505.11** — Charm for diseased eye.
+- **D1505.11.1** — Charm for removing object from eye.
+- **D1505.12** — Man who touches book of St. Oswin's life is cured of blindness.
+- **D1505.13** — Animal excreta cures blindness.
+- **D1505.14** — Animal liver cures blindness.
+- **D1505.14.1** — Liver of shining goat heals blindness of raja.
+- **D1505.15** — Magic cotton-wool restores sight.
+- **D1505.16** — Magic statue (when kissed) restores sight.
+- **D1505.17** — Magic stone restores sight.
+- **D1505.18** — Tree restores sight.
+- **D1505.18.1** — Coconut shoots restore sight.
+- **D1505.19** — Gall of slain giant restores sight.
+- **D1506** — Magic object cures deafness.
+- **D1506.1** — Spittle restores hearing.
+- **D1507** — Magic object restores speech.
+- **D1507.1** — Magic ring restores speech.
+- **D1507.2** — Saint's gospel-book restores speech.
+- **D1507.3** — Saint's bell restores speech.
+- **D1507.4** — Saint's breath restores speech.
+- **D1507.5** — Magic cake restores speech.
+- **D1507.6** — Saint's blood restores speech.
+- **D1507.7** — Magic harp restores speech.
+- **D1507.8** — Magic gold taken from hill restores speech when it is laid under the tongue of dumb person.
+- **D1508** — Magic object restores reason.
+- **D1508.1** — Saint's bell restores reason.
+- **D1508.2** — Music restores reason.
+- **D1508.3** — Jackal-tooth as cure for madness.
+- **D1508.4** — Soup made of black dog's head cures madness.
+- **D1511** — Magic object cures drunkenness.
+- **D1511.1** — Magic carpet cures drunkenness.
+- **D1512** — Magic object cures ulcers.
+- **D1512.1** — Magic ointment cures ulcers.
+- **D1513** — Charm removes thorn.
+- **D1514** — Magic object relieves pain.
+- **D1514.1** — Magic music relieves pain.
+- **D1514.2** — Magic girdle relieves pain.
+- **D1514.3** — Charm for pain.
+- **D1515** — Magic antidote for poison.
+- **D1515.1** — Remedies for poison.
+- **D1515.2** — Charms as antidote for poison.
+- **D1515.2.1** — Charms as antidote for snakebite.
+- **D1515.3** — Bath in milk of white, hornless cows as antidote for poison.
+- **D1515.4** — Antidote for snakebite.
+- **D1515.4.1** — Maid cuts off pap to heal man's serpent wound.
+- **D1515.4.2** — Snake stone applied to snakebite absorbs poison.
+- **D1515.4.3** — Hind's horns as antidote for snakebite.
+- **D1515.4.4** — Body of gnat as antidote for snakebite.
+- **D1515.4.5** — Sight of brass serpent as antidote for snakebite.
+- **D1515.4.6** — Magic potion mixed with brains of deceitful person as cure for snakebite.
+- **D1515.5** — Remedy for mad dog bite.
+- **D1515.5.1** — Stone as antidote for mad dog bite.
+- **D1516** — Charms against elfshot.
+- **D1517** — Cure for insect's sting.
+- **D1517.1** — Body of housefly as remedy for hornet sting.
+- **D1518** — Magic object restores bodily members.
+- **D1518.1** — Magic drink restores arms.
+- **D1518.2** — Root restores amputated hands and feet.
+- **D1518.3** — Hero's breath returns head to headless horseman.
+- **D1518.4** — Magic object heals broken bone.
+- **D1518.4.1** — Magic plant heals broken bone.
+- **D1519** — Magic object controls disease miscellaneous.
+- **D1519.1** — Magic object restores strength.
+- **D1519.1.1** — Magic bowl restores strength.
+- **D1520** — Magic object affords miraculous transportation.
+- **D1520.1** — Magic transportation by bough.
+- **D1520.1.1** — Transportation by stretching and swaying tree.
+  *The tree stretches and bends over so as to land hero in a distant country.*
+- **D1520.1.2** — Transportation by hollow tree.
+- **D1520.2** — Magic transportation by cloud.
+- **D1520.3** — Magic transportation by hairs.
+- **D1520.4** — Magic transportation by golden apple.
+- **D1520.5** — Magic transportation by animal skin.
+- **D1520.5.1** — Magic transportation by skin of fish.
+- **D1520.5.2** — Magic transportation by dog skin.
+- **D1520.5.3** — Magic transportation by seal skin.
+- **D1520.5.4** — Magic transportation by horse skin.
+- **D1520.6** — Magic transportation by cloak (cape).
+- **D1520.7** — Magic transportation by gold uniform.
+- **D1520.8** — Magic transportation by saber.
+- **D1520.8.1** — Magic transportation by sword.
+- **D1520.9** — Magic transportation by garter.
+- **D1520.10** — Magic transportation by shoes.
+- **D1520.10.1** — Magic transportation by sandals.
+- **D1520.11** — Magic transportation by cap (hat).
+- **D1520.12** — Magic transportation by ring.
+- **D1520.13** — Magic transportation by arrow.
+- **D1520.14** — Transportation in magic carriage.
+- **D1520.15** — Transportation in magic ship.
+- **D1520.15.1** — Sailing against a contrary wind, current and tide.
+- **D1520.16** — Magic transportation by chair.
+- **D1520.17** — Magic transportation by sofa.
+- **D1520.17.1** — Magic transportation on flying bedstead.
+- **D1520.17.2** — Transportation on magic couch.
+- **D1520.18** — Magic transportation by hammock.
+- **D1520.18.1** — Transportation on magic swing.
+- **D1520.18.2** — Transportation in magic palanquin.
+- **D1520.19** — Magic transportation by carpet.
+- **D1520.20** — Transportation by magic throne.
+- **D1520.21** — Transportation by magic platform.
+- **D1520.22** — Transportation by magic pitcher.
+- **D1520.23** — Transportation by magic goblet.
+- **D1520.24** — Transportation by magic box.
+- **D1520.25** — Transportation by magic bag.
+- **D1520.26** — Transportation by putting magic ointment on feet.
+- **D1520.27** — Magic transportation by means of wand.
+- **D1520.27.1** — Magic transportation by club.
+- **D1520.28** — Magic transportation in whirlwind.
+- **D1520.29** — Transportation by magic jewel.
+- **D1520.29.1** — Transportation by magic pearl.
+- **D1520.30** — Magic transportation on piece of rock.
+- **D1520.31** — Magic transportation by rope.
+- **D1520.32** — Magic transportation on antlers.
+- **D1520.33** — Magic transportation on musical bow.
+- **D1520.34** — Transportation by means of necklace.
+- **D1520.35** — Magic transportation by feather-dress.
+- **D1520.36** — Transportation by magic stone.
+- **D1520.37** — Magic journey by reading book.
+- **D1521** — Miraculous speed from magic object.
+- **D1521.1** — Seven-league boots.
+  *Boots with miraculous speed.*
+- **D1521.1.1** — Sandals with magic speed.
+- **D1521.2** — Ship with miraculous speed.
+- **D1521.2.1** — Ship as swift as a bird.
+- **D1521.3** — Sleigh as swift as thought.
+- **D1521.4** — Carriage as swift as thought.
+- **D1521.5** — Jewel gives miraculous speed.
+- **D1521.5.1** — Turquoise gives miraculous speed.
+- **D1523** — Magic self-moving vehicle.
+- **D1523.1** — Self-propelling wagon.
+- **D1523.2** — Self-propelling (ship) boat.
+- **D1523.2.1** — Automatic oar.
+- **D1523.2.2** — Boat propelled by magic awl.
+- **D1523.2.3** — Boat propelled by magic wand.
+- **D1523.2.4** — Boat obeys master's will.
+- **D1523.2.5** — Boat guides self.
+- **D1523.2.6** — Boat guided by magic songs.
+- **D1523.2.7** — Boat guided by magic sea-charm.
+- **D1523.2.7.1** — Self-guiding rudderless boat.
+- **D1523.2.8** — Magic boat is rowed by two wooden figures as soon as it is put on water.
+- **D1523.3** — Bundle of wood magically acts as riding horse.
+- **D1524** — Magic object enables person to cross water.
+- **D1524.1** — Magic object permits man to walk on water.
+- **D1524.1.1** — Medicine on feet permits man to walk on water.
+- **D1524.1.2** — Saint's bachall permits him to walk on sea.
+- **D1524.1.2.1** — Saint casts staffs to distant island.
+  *Staff that reaches owner shall have island.*
+- **D1524.1.3** — Saint spreads his cloak (or other clothes) upon the water and rides to his desired destination.
+- **D1524.1.4** — Sand permits man to walk on water.
+- **D1524.2** — Clothes carry owner over water.
+- **D1524.2.1** — Boots carry owner on sea.
+- **D1524.2.2** — Belt carries owner over water.
+- **D1524.3** — Magic stone serves as boat.
+- **D1524.3.1** — Stone canoe.
+- **D1524.3.2** — Saint's bell carried on floating stone.
+- **D1524.4** — Island canoe.
+  *Magic island acts as canoe or boat.*
+- **D1524.5** — River crossed by means of charm.
+- **D1524.6** — River crossed by means of magic stone.
+- **D1524.7** — Magic sod serves as boat.
+- **D1524.8** — Leaf serves as boat.
+- **D1524.8.1** — Leaf serves as boat for saint.
+- **D1524.9** — Magic wind catches hero up and transports him across immense sea.
+- **D1524.10** — Magic staff comes to one over water.
+- **D1524.11** — Magic betelnut comes to one over water.
+- **D1524.12** — Magic handaxe comes to one over water.
+- **D1525** — Magic submarine ship (boat).
+- **D1525.1** — Magic hood enables person to pass under water.
+- **D1526** — Magic object thrown ahead carries owner with it.
+- **D1526.1** — Magic arrow flight.
+  *Man keeps ahead of arrow which he shoots.*
+- **D1526.2** — Magic ball flight.
+  *Man throws ball and is carried along with it.*
+- **D1526.3** — Magic pistol forces one to run behind the ball.
+- **D1531** — Magic object gives power of flying.
+- **D1531.1** — Mustard seeds give power of flying.
+- **D1531.2** — Magic pill gives power of flying.
+- **D1531.3** — Magic sword gives power of flying.
+- **D1531.4** — Magic stone under tongue gives power of flying.
+- **D1531.5** — Witch flies with aid of magic cap or hood.
+- **D1531.6** — Witch flies with aid of magic stick.
+- **D1531.7** — Witch flies with aid of magic juice.
+- **D1531.8** — Witch flies with aid of word charm.
+- **D1531.9** — Magic flying by means of magic fiddle.
+- **D1531.10** — Palmetto leaves give power of flying.
+- **D1531.11** — Gem gives power of flying.
+- **D1532** — Magic object bears person aloft.
+- **D1532.1** — Magic flying skin.
+- **D1532.1.1** — Magic mouse-skin bears person aloft.
+- **D1532.2** — Magic breeches bear person aloft.
+- **D1532.3** — Magic shoes bear person aloft.
+- **D1532.3.1** — Special shoes enable hero to climb a stone pillar.
+- **D1532.4** — Magic sandals bear person aloft.
+- **D1532.5** — Magic chariot bears person aloft.
+- **D1532.6** — Magic robe bears person aloft.
+- **D1532.7** — Magic tree bears person through air.
+- **D1532.8** — Magic head-dress bears person aloft.
+- **D1532.9** — Magic leaf bears person aloft.
+- **D1532.10** — Magic fan bears person aloft.
+- **D1532.11** — Magic journey in flying boat.
+- **D1532.12** — Magic sword carries person through air.
+- **D1532.13** — Magic brick bears person to moon.
+- **D1533** — Magic amphibian vehicle.
+- **D1533.1** — Magic land and water vehicle.
+- **D1533.1.1** — Magic land and water ship.
+- **D1533.1.2** — Magic land and water chariot.
+- **D1533.2** — Vehicle travels above and below ground.
+- **D1533.2.1** — Box which travels above or below ground.
+- **D1539** — Miscellaneous forms of magic transportation.
+- **D1539.1** — Magic elevator.
+  *Stone on which one steps carries one underground.*
+- **D1539.2** — Magic belt carries tree away.
+- **D1539.3** — Magic staves enable man to gain precipitous height.
+- **D1540** — Magic object controls the elements.
+- **D1540.1** — Magic bag controls storm, mist, darkness, etc.
+- **D1540.2** — Magic white, red and yellow stone causes hail, sunshine or fire, according to which side is scratched.
+- **D1540.3** — Magic stone controls water.
+- **D1541** — Magic object controls storms.
+- **D1541.0.1** — Charms control storms.
+- **D1541.0.2** — Magic song controls storm.
+- **D1541.1** — Magic object raises storm.
+- **D1541.1.1** — Magic spittle causes storm.
+- **D1541.1.2** — Magic song causes storm.
+- **D1541.1.3** — Magic fountain causes storm (rain).
+- **D1541.1.4** — Shirt laid upon altar raises storm.
+- **D1541.1.5** — Tempest box raises storm.
+- **D1541.1.6** — Magic writings raise storm.
+- **D1541.1.7** — Magic calabash holding bones raises storm.
+- **D1541.1.8** — Singing magic hymn raises storm.
+- **D1541.2** — Magic object draws storm away.
+- **D1541.2.1** — Magic pestle draws storm away.
+- **D1541.2.2** — Magic pearl draws storm away.
+- **D1542** — Magic object controls rain.
+- **D1542.1** — Magic object produces rain.
+- **D1542.1.1** — Magic stone produces rain.
+- **D1542.1.2** — Magic spittle controls rain.
+  *Makes rain on everyone but possessor of spittle himself.*
+- **D1542.1.3** — Magic hat brings flood.
+- **D1542.1.4** — Magic fan produces rain.
+  *Must be waved three times.*
+- **D1542.1.5** — Magic song brings rain.
+- **D1542.1.6** — Oil poured in left ear of black dog brings rain.
+- **D1542.1.7** — Blood and liver of black dog sacrificed to bring rain.
+- **D1542.2** — Magic object causes drought.
+- **D1542.2.1** — Sacred weapon thrown into sky causes drought.
+- **D1542.3** — Magic object causes streams to dry up.
+- **D1542.3.1** — Magic medicine causes streams to dry up.
+- **D1542.3.2** — Reading book causes river to dry up.
+- **D1542.3.3** — Branch which dries up water in great river so person can cross.
+- **D1542.3.4** — Magic spell dries up lake.
+- **D1542.3.5** — Not a drop of water will remain in tank no matter how hard laborers work.
+- **D1542.4** — Magic wand keeps outdoor sleeping place dry.
+- **D1543** — Magic object controls wind.
+- **D1543.1** — Fountain insures favorable wind when drained.
+- **D1543.2** — Magic stone causes favorable wind.
+- **D1543.3** — Magic fan produces wind.
+- **D1543.4** — Magic sword produces wind.
+- **D1543.5** — Magic medicine produces wind.
+- **D1543.6** — Wind carried in mantle.
+- **D1543.7** — Magic calabash (gourd) controls winds.
+- **D1544** — Magic object controls earthquakes.
+- **D1544.1** — Magic spell controls earthquake.
+- **D1545** — Magic object controls sea.
+- **D1545.0.1** — Magic runes control sea.
+- **D1545.1** — Magic object controls tides.
+- **D1545.1.1** — Magic jewel controls tides.
+- **D1546** — Magic object controls heavenly bodies.
+- **D1546.1** — Magic object controls sun.
+- **D1546.1.1** — Hat which turns the sun.
+- **D1546.1.2** — Magic spell controls sun.
+- **D1546.1.2.1** — Magic spell darkens sun.
+- **D1546.1.3** — Magic umbrella makes sun stand still.
+- **D1547** — Magic object reverses gravitation.
+- **D1547.1** — Magic root floats against the current.
+- **D1547.2** — Magic flower thrown into lake causes waters to follow in the footsteps of the one who throws it in.
+- **D1547.3** — Magic object lifts heavy object from river bottom.
+- **D1548** — Magic object controls weather.
+- **D1548.0.1** — Amulet has control over weather.
+- **D1548.1** — Magic object assures good weather.
+- **D1548.1.1** — Magic stalk assures good weather.
+- **D1549** — Magic object controls elements: miscellaneous.
+- **D1549.1** — Magic arrow shakes heavens.
+- **D1549.2** — Saint's girdle causes tree to fall in right direction.
+- **D1549.3** — Magic object controls river (lake).
+- **D1549.3.1** — Saint's bachall drives back flooding river.
+- **D1549.3.2** — Saint's bachall leads stream through mountain (or up hill.)
+- **D1549.3.3** — Magic trousers make river boil.
+- **D1549.3.4** — Magic gem causes river waters to recede.
+- **D1549.3.5** — Fish bone holds back water in river.
+- **D1549.3.6** — Ring of hay thrown into empty lake fills it up with water.
+- **D1549.3.7** — Written charm causes river to flow quietly.
+- **D1549.3.8** — Spear stuck in river bed stops water.
+- **D1549.4** — Saint's bachall brings down mountain on heads of enemies.
+- **D1549.5** — Magic staff draws water from stone.
+- **D1549.5.1** — Rock beaten by sword provides water.
+- **D1549.6** — Saint's veil quells volcano.
+- **D1549.7** — Murdered man's head will cause earth to burn up or sea to boil: must be carried about.
+- **D1549.8** — Magic song drives back flooding sea.
+- **D1549.9** — Magic rod causes all waters to turn to blood.
+- **D1549.10** — Waves answer roar of magic shield.
+- **D1549.11** — Magic beads break ice jam.
+- **D1550** — Magic object miraculously opens and closes.
+- **D1551** — Waters magically divide and close.
+- **D1551.0.1** — Water becomes shallow so man is able to cross the river.
+- **D1551.1** — Magic salt causes waters to divide.
+- **D1551.2** — Magic rod causes waters to divide and close.
+- **D1551.3** — Magic root causes waters to divide and close.
+- **D1551.4** — Magic powder causes waters to divide.
+- **D1551.5** — Saint's bachall causes sea to divide.
+- **D1551.6** — Magic stick causes waters to divide.
+- **D1551.7** — Magic diamond on ogre's waist opens passage in tank by its reflection on water.
+- **D1551.7.1** — Diamond in snake king's forehead in hero's pocket opens lake waters to reveal a pathway to underground palace.
+- **D1551.8** — Magic brick causes waters to divide.
+- **D1551.9** — Magic formula causes sea to open up.
+- **D1552** — Mountains or rocks open and close.
+- **D1552.0.1** — Door opens in mountain.
+- **D1552.1** — Mountain opens at blow of divining rod.
+- **D1552.2** — Mountain opens to magic formula (Open Sesame).
+- **D1552.3** — Mountain pass magically closes.
+- **D1552.4** — Mountain opens and lets ship on wheels out, permitting magician's escape.
+- **D1552.5** — Cave opens and hides fugitives.
+- **D1552.6** — Gate or wall opens and closes, letting saint through.
+- **D1552.7** — Mountain opens and furnishes stones for church.
+- **D1552.8** — Hill opens and closes to let fugitives pass.
+- **D1552.9** — When enchanted deer touches rock with her muzzle it flies asunder and reveals entrance to cave.
+- **D1552.10** — Magic soot causes mountain to open.
+- **D1552.11** — Magic stone opens treasure mountain.
+- **D1552.12** — Magic key opens treasure mountain.
+- **D1553** — Symplegades.
+  *Rocks that clash together at intervals.*
+- **D1554** — Magic forest opens and closes for hero to pass.
+- **D1554.1** — Woods opens and hides fugitive.
+- **D1555** — Underground passage magically opens.
+- **D1555.1** — Magic wand opens underground passage.
+- **D1555.2** — Magic powder causes earth to open up.
+- **D1555.3** — Magic formula causes silver to hide itself in mountain.
+- **D1555.4** — Fairy music causes earth to open (burst).
+- **D1556** — Self-opening tree-trunk.
+- **D1556.1** — Magic formula causes tree to open.
+- **D1556.2** — Tree opens its trunk to give shelter to abandoned girls.
+- **D1557** — Magic charm causes door to open.
+- **D1557.1** — Door (lock) magically opens (for saint).
+- **D1557.2** — Magic herb causes door to open.
+- **D1557.2.1** — Magic rod causes door to open.
+- **D1557.3** — Magic diamond provides ingress to subterranean palace.
+- **D1557.4** — Gate of temple opens and shuts by magic.
+- **D1560** — Magic object performs other services for owner.
+- **D1561** — Magic object confers miraculous powers (luck).
+- **D1561.1** — Magic object brings luck.
+- **D1561.1.1** — Magic bird-heart (when eaten) brings man to kingship.
+- **D1561.1.1.1** — Bird (when eaten) brings man to kingship.
+- **D1561.1.1.2** — Magic fish (when eaten) brings man to kingship.
+- **D1561.1.1.3** — Snake's head (when eaten) brings man to kingship.
+- **D1561.1.2** — Magic ring brings good luck.
+- **D1561.1.3** — Horseshoe brings good luck.
+- **D1561.1.4** — Magic medicine brings success.
+- **D1561.1.5** — Four-leaf clover brings good luck.
+- **D1561.1.6** — Food left on magic stone brings good luck thereafter.
+- **D1561.1.7** — Magic stone brings good luck.
+- **D1561.1.8** — Runes bring luck.
+- **D1561.1.9** — Lucky places for grave.
+- **D1561.1.10** — Jewel brings good luck.
+- **D1561.1.11** — Magic song brings luck.
+- **D1561.2** — Magic object confers miraculous powers.
+- **D1561.2.1** — Magic bird (when eaten) gives power of excreting jewels.
+- **D1561.2.2** — Magic treasure gives miraculous powers.
+- **D1561.2.3** — Magic power in chain.
+  *Lost when chain is stolen.*
+- **D1561.2.4** — Charm gives invisibility and power of moving everywhere.
+- **D1562** — Magic object removes obstacles.
+- **D1562.1** — Magic staff destroys obstacles.
+- **D1562.2** — Hair from fox's tail opens all doors.
+- **D1562.3** — Magic horn blows down wall.
+- **D1562.4** — Magic needle makes everything fall to pieces.
+- **D1562.5** — Hero crosses impassable plain in path of magic object.
+- **D1562.6** — Holy water destroys veil over well.
+- **D1562.7** — Magic root snaps bars of iron in two.
+- **D1563** — Magic object controls condition of soil.
+- **D1563.0.1** — Magic springs fertilize or sterilize earth.
+- **D1563.1** — Magic object makes soil fertile.
+- **D1563.1.1** — Charms make soil fertile.
+- **D1563.1.2** — Magic song makes barren land fruitful.
+- **D1563.1.3** — Sign of the cross makes barren land fruitful.
+- **D1563.1.4** — Saint's bell starts crops growing.
+- **D1563.1.5** — Blood makes soil fertile.
+- **D1563.1.6** — Magic branch when used as a threshing pole produces marvelous harvest of rice.
+- **D1563.2** — Magic object makes soil sterile.
+- **D1563.2.1** — Magic chain renders orchard barren.
+- **D1563.2.2** — Blood makes tree (and surroundings) poisonous.
+- **D1563.2.2.1** — Well (river) polluted by blood shed in battle.
+- **D1563.2.2.2** — Snake's venom poisons tree.
+- **D1563.2.3** — Magic poem (satire) makes land sterile.
+- **D1563.2.4** — Magic spell destroys crops.
+- **D1564** — Magic object splits or cuts things.
+- **D1564.1** — Magic pebble splits wood.
+- **D1564.2** — Saint's spittle splits rocks.
+- **D1564.3** — Saint's bachall splits rock, cuts stone, and cleaves ground.
+- **D1564.4** — Magic object cuts down trees.
+- **D1564.4.1** — Magic spear-head cuts down trees.
+- **D1564.4.2** — Magic hair cuts down iron tree.
+- **D1564.5** — Magic cranberry opens wedge and frees hero.
+- **D1564.6** — Magic sword cuts stone and fells trees.
+- **D1564.7** — Magic weapon (sword, axe) cuts hair (on water, in wind).
+- **D1565** — Magic object causes things to seek their proper place.
+- **D1565.1** — Magic feather causes chips from tree to return as cut.
+  *Thus the tree remains uncut.*
+- **D1565.1.1** — Magic song causes chips from tree to return.
+- **D1565.2** — Magic lyre charms stones into their place in building.
+- **D1565.3** — Magic song causes plowed ground to become unplowed.
+- **D1565.4** — Saint's breath restores shattered vessel.
+- **D1566** — Magic object controls fire.
+- **D1566.1** — Magic object sets things afire.
+- **D1566.1.1** — Magic arrow sets fire to whatever it hits.
+- **D1566.1.2** — Magic fire-moccasins.
+  *Set fire to surroundings.*
+- **D1566.1.3** — Magic sword causes fire and smoke.
+- **D1566.1.4** — Saint's breath kindles lamps.
+- **D1566.1.4.1** — Saint's breath kindles coals.
+- **D1566.1.4.2** — Saint's (man's) breath makes icicles (snow, water) burn.
+- **D1566.1.5** — Shower of fire from magic anvil.
+- **D1566.1.6** — Magic dog's breath burns dead bodies.
+- **D1566.1.7** — Holy water procures fire or light.
+- **D1566.2** — Magic object quenches fire.
+- **D1566.2.1** — Saint's bachall quenches fire.
+- **D1566.2.2** — Magic fan quenches fire.
+- **D1566.2.3** — Magic song quenches fire.
+- **D1566.2.4** — Runes quench fire (+D1266.
+  *1.)*
+- **D1566.2.5** — Ring makes boiling water cold.
+- **D1566.2.6** — Salamander's blood quenches fire.
+- **D1566.2.7** — Magic girdle produces stream of water to quench fire.
+- **D1567** — Magic object produces fountain.
+- **D1567.1** — Saint's blood produces fountain.
+- **D1567.2** — Saint's tears produce fountain.
+- **D1567.3** — Water poured from saint's bell produces fountain.
+- **D1567.4** — Saint's bachall produces fountain.
+- **D1567.5** — Saint's crozier produces fountain.
+- **D1567.6** — Stroke of staff brings water from rock.
+- **D1567.7** — Fountain produced from drop of water.
+- **D1567.8** — Sign of cross brings water from rock.
+- **D1567.9** — Ring brings forth water from dry soil.
+- **D1571** — Magic object revivifies trees.
+- **D1571.1** — Magic ashes revivify trees.
+- **D1571.2** — Presence of a person revivifies trees.
+- **D1571.3** — Reading from a book makes fallen tree stand up.
+- **D1572** — Magic smoke carries power of saint.
+- **D1573** — Charms to make butter come.
+- **D1573.1** — Much butter made from little milk by power of saint.
+- **D1574** — Line drawn by saint's bachall separates calves from their mothers.
+- **D1575** — Magic object does not awaken sleepers.
+- **D1575.1** — Hand-of-glory does not awaken sleepers.
+  *The hand is lighted as a candle.*
+- **D1576** — Magic object causes tree to spring up.
+- **D1576.1** — Magic song causes tree to rise to sky.
+  *Has moon and Great Bear in its branches.*
+- **D1577** — Charm renders magic efficacious.
+- **D1577.1** — Charm renders medicinal herbs efficacious.
+- **D1577.2** — Charm renders amulet efficacious.
+- **D1581** — Tasks performed by use of magic object.
+- **D1582** — Climbing into air on magic rope.
+- **D1583** — Magic carving knife serves twenty-four men at meat simultaneously.
+- **D1584** — Magic object induces dreams.
+- **D1584.1** — Charm induces dreams.
+- **D1585** — Magic object saves corpse from corruption.
+- **D1585.1** — Magic pill saves corpse from corruption.
+- **D1585.2** — Magic plant saves cut-off limbs from corruption.
+- **D1586** — Magic object relieves from plague.
+- **D1586.1** — Magic image of animal relieves from plague (of that animal).
+- **D1586.2** — Prayer to Virgin protects against plague.
+- **D1586.3** — Incense relieves from plague.
+- **D1587** — Magic object expels person from land.
+- **D1587.1** — Magic amulet expels person from land.
+- **D1588** — Magic object assures going to heaven.
+- **D1588.1** — Magic brain assures heaven for man who dies upon it.
+- **D1588.2** — Magic cowhide assures heaven for man who dies upon it.
+- **D1588.3** — Magic hymn assures heaven for person who sings it.
+- **D1591** — Magic spell causes vessel to burst.
+- **D1592** — Magic object heats or cools water.
+- **D1592.1** — Magic ring cools boiling water.
+- **D1594** — Magic object vitalizes.
+- **D1594.0.1** — Liver of deer vitalizes.
+- **D1594.0.2** — Vivification by hitting with bone.
+- **D1594.1** — Magic dust vitalizes seeds and they become insects.
+- **D1594.2** — God's blood vitalizes image.
+- **D1594.3** — Bee in its belly vitalizes tiger.
+- **D1594.4** — Blood of twelve buffaloes vitalizes tiger.
+- **D1594.5** — Girl's blood vitalizes axe and it becomes a tiger.
+- **D1594.6** — Magic whistle gives life to cockroach.
+- **D1595** — Magic object provides beautiful bride for hero.
+- **D1595.1** — Image of love grants man wife.
+- **D1599** — Magic object performs services miscellaneous.
+- **D1599.1** — Pillars dance when ogre plays guitar.
+- **D1599.2** — Air made fragrant with odors of flowers by spell.
+- **D1599.3** — Magic object multiplies objects.
+- **D1599.3.1** — Magic egg multiplies objects.
+- **D1599.4** — Magic object produces house.
+- **D1599.4.1** — Magic egg produces house.
+- **D1599.5** — Magic charm uproots mandrake.
+- **D1599.6** — Magic dew destroys enemy's books.
+
+## Automatic object
+
+- **D1600** — Automatic object.
+- **D1601** — Object labors automatically.
+- **D1601.1** — Magic calabash cooks and cares for child.
+- **D1601.2** — Self-growing and self-gathering corn.
+- **D1601.3** — Magic hat works independently.
+- **D1601.4** — Automatic weapon.
+- **D1601.4.1** — Automatic sword.
+- **D1601.4.2** — Automatic spear.
+- **D1601.4.2.1** — Spear rushes out of joking raja's hand and pierces his visitor's chest; it is hungry for blood and has had no food for twelve years.
+- **D1601.5** — Automatic cudgel.
+- **D1601.5.1** — Stick turns into automatic magic sword.
+- **D1601.5.2** — Automatic hammer kills enemy.
+- **D1601.6** — Oven heats without fire.
+- **D1601.7** — Lamp (fire) lights itself.
+- **D1601.8** — Razor whets itself.
+- **D1601.9** — Household articles act at command.
+- **D1601.9.1** — Automatic broom.
+- **D1601.10** — Self-cooking vessel.
+- **D1601.10.1** — Self-cooking pot.
+- **D1601.10.2** — Magic cauldron boils a year.
+- **D1601.10.2.1** — Magic cauldron boils only enough of its contents to satisfy immediate need.
+- **D1601.10.3** — Self-boiling kettle.
+- **D1601.11** — Self-sewing needle.
+- **D1601.12** — Self-cutting shears.
+- **D1601.12.1** — Magic shears clip garments from air.
+- **D1601.13** — Self-tying thread.
+- **D1601.13.1** — Self-weaving threads.
+- **D1601.13.2** — Self-fastening line.
+- **D1601.14** — Self-chopping axe.
+- **D1601.14.1** — Magic axe cuts thousands of trees at a single blow.
+- **D1601.14.2** — Magic adze cuts down tree.
+- **D1601.14.3** — Magic axe cuts off enemy's head.
+- **D1601.15** — Automatic shovel.
+- **D1601.16** — Self-digging spade.
+- **D1601.16.1** — Self-digging hoe.
+- **D1601.17** — Automatic whip.
+- **D1601.18** — Self-playing musical instruments.
+- **D1601.18.0.1** — Magic musical instrument reproduces songs sung in heaven.
+- **D1601.18.1** — Self-ringing bell.
+- **D1601.18.1.1** — Cleric's tongueless bell rings.
+- **D1601.18.1.2** — Sounding bell silenced by a gesture by a saint.
+- **D1601.18.2** — Self-playing violin.
+- **D1601.18.3** — Self-beating drum.
+- **D1601.19** — Fetish-medicine automatically punishes.
+- **D1601.20** — Self-grinding millstone.
+- **D1601.21** — Self-grinding mill.
+  *Grinds whatever owner wishes.*
+- **D1601.21.1** — Self-grinding salt-mill.
+- **D1601.22** — Fetish clears forest.
+- **D1601.23** — Ale serves itself.
+- **D1601.24** — Automatic fire tongs.
+- **D1601.25** — Self-cooking food.
+- **D1601.25.1** — Self-cooking fowls.
+- **D1601.25.2** — Self-cooking fish.
+- **D1601.26** — Self-pouring horn.
+- **D1601.27** — Magic thorns make road through marsh.
+- **D1601.28** — Self-rocking chair.
+- **D1601.29** — Self-playing game-board.
+- **D1601.30** — Automatic arrows.
+- **D1601.31** — Magic towel wipes person.
+- **D1601.32** — Letter delivers self.
+- **D1601.32.1** — Letter from captive prince asking for help flies through the air to addressee.
+- **D1601.33** — Chariot collects flowers by itself.
+- **D1601.34** — Self-serving spoon.
+- **D1601.35** — Magic water bottle brings water.
+- **D1601.36** — Self-going shoes.
+- **D1601.37** — Self-opening door.
+- **D1602** — Self-returning magic object.
+- **D1602.1** — Stones, being removed, return to their places.
+- **D1602.2** — Felled tree raises itself again.
+- **D1602.2.1** — Fallen trees upraised at saint's request.
+- **D1602.2.2** — Chips from tree return to their places as cut.
+- **D1602.3** — Self-returning robe.
+- **D1602.4** — Self-returning moccasins.
+- **D1602.5** — Self-returning bangle.
+- **D1602.6** — Self-returning spear.
+- **D1602.6.1** — Self-returning spear-head.
+- **D1602.7** — Self-returning wheel.
+- **D1602.8** — Saint's bell when stolen miraculously returns.
+- **D1602.8.0.1** — Self-returning bell.
+- **D1602.8.1** — Stolen bell refuses to make a sound.
+- **D1602.9** — Saint's bachall when lost returns.
+- **D1602.10** — Self-returning magic book.
+- **D1602.11** — Self-returning magic coin.
+  *Keeps coming back.*
+- **D1602.12** — Self-returning head.
+  *When head is cut off it returns to proper place without harm to owner.*
+- **D1602.12.1** — Self-returning body.
+- **D1602.13** — Self-returning cruet.
+- **D1602.14** — Self-returning magic apple.
+- **D1602.15** — Self-returning hammer.
+- **D1602.16** — Arrow shot at bull returns to shooter.
+- **D1602.17** — Magic object when sold always returns to original owner.
+- **D1602.17.1** — Magic ring when sold returns to original owner.
+- **D1602.18** — Magic object given away returns to giver.
+- **D1602.19** — Equipment of slain hunter returns alone.
+- **D1605** — Magic thieving object.
+  *Steals for master.*
+- **D1605.1** — Magic thieving pot.
+  *Boy sells pot to neighbors and when they have put things into it the pot returns to the boy.*
+- **D1605.2** — Magic bag sucks milk from cows.
+  *It is commanded by a witch.*
+- **D1605.3** — Magic thieving glove.
+- **D1606** — Magic objects automatically keep out of reach.
+- **D1609** — Automatic magic objects miscellaneous.
+- **D1609.1** — Drum flies about room.
+- **D1609.2** — Self-generated flame.
+- **D1610** — Magic speaking objects.
+- **D1610.0.1** — Magic powder makes objects speak what owner wants them to.
+- **D1610.1** — Speaking sink-hole.
+- **D1610.2** — Speaking tree.
+- **D1610.2.0.1** — Tree asks to be shaken.
+- **D1610.2.1** — Speaking oak.
+- **D1610.2.2** — Speaking bush.
+- **D1610.3** — Speaking plant.
+- **D1610.3.1** — Speaking gourd.
+- **D1610.3.2** — Speaking bean.
+- **D1610.3.3** — Speaking pouka-herb.
+- **D1610.3.4** — Speaking egg-plant.
+- **D1610.4** — Speaking flower.
+- **D1610.4.1** — Speaking lotus flower.
+- **D1610.5** — Speaking head.
+- **D1610.5.1** — Magic speaking tongue.
+- **D1610.6** — Speaking privates.
+  *Man given advice by his private parts.*
+- **D1610.6.1** — Speaking vulva.
+  *Man has power to make vulvas speak. This is used as a chastity test.*
+- **D1610.6.2** — Mentula loquens.
+  *A man's member speaks and can be silenced only by his mother-in-law.*
+- **D1610.6.3** — Speaking buttocks.
+- **D1610.6.4** — Speaking excrements.
+- **D1610.7** — Speaking loin of goat meat.
+- **D1610.8** — Speaking ring.
+- **D1610.9** — Speaking weapon.
+- **D1610.9.1** — Speaking sword.
+- **D1610.9.1.1** — Sword shrieks when it feels the bone.
+- **D1610.9.2** — Speaking arrow.
+- **D1610.9.3** — Speaking spear.
+- **D1610.10** — Speaking fruit.
+- **D1610.10.1** — Speaking grapes.
+- **D1610.10.2** — Speaking bananas.
+- **D1610.10.3** — Speaking fig.
+- **D1610.11** — Speaking ship.
+- **D1610.12** — Speaking stove.
+- **D1610.13** — Speaking dish.
+- **D1610.13.1** — Speaking kettle.
+- **D1610.13.2** — Speaking jar.
+- **D1610.14** — Speaking implement.
+- **D1610.14.1** — Speaking hoe.
+- **D1610.14.2** — Speaking axe.
+- **D1610.14.3** — Speaking hammer.
+- **D1610.15** — Speaking bell.
+- **D1610.15.1** — Church bell speaks.
+- **D1610.15.2** — Saint's bell speaks.
+- **D1610.16** — Blood speaks.
+- **D1610.16.1** — Speaking blood drops.
+- **D1610.17** — Speaking bed.
+- **D1610.17.1** — Legs of bedstead talk.
+- **D1610.18** — Speaking rock (stone).
+- **D1610.19** — Earth speaks.
+- **D1610.19.1** — Speaking island.
+- **D1610.20** — Speaking crozier.
+- **D1610.21** — Speaking image.
+- **D1610.21.1** — Image of the Virgin Mary speaks.
+- **D1610.21.2** — Speaking idol.
+- **D1610.22** — Speaking nut.
+- **D1610.23** — Speaking muirlan (ball).
+- **D1610.24** — Speaking armor.
+- **D1610.24.1** — Magic shield roars.
+- **D1610.24.2** — Helmet shrieks.
+- **D1610.25** — Magic drinking horn with a man's head speaks.
+- **D1610.26** — Speaking clothes.
+- **D1610.26.1** — Speaking cloak.
+- **D1610.26.2** — Speaking hat.
+- **D1610.27** — Speaking jewel.
+- **D1610.27.1** — Speaking necklace.
+- **D1610.27.2** — Voice issues from ruby.
+- **D1610.27.3** — Diamond speaks from inside statue.
+- **D1610.28** — Speaking ball of thread.
+- **D1610.29** — Speaking eggs.
+- **D1610.30** — Speaking timber.
+- **D1610.30.1** — Speaking house-post.
+- **D1610.31** — Speaking food.
+- **D1610.31.1** — Speaking porridge.
+- **D1610.31.2** — Speaking bread.
+- **D1610.32** — Transformed bird reveals its identity by speaking out.
+- **D1610.33** — Speaking cliffs (Cf.  +D938, +D932.8.)
+- **D1610.34** — Speaking musical instrument.
+- **D1610.34.1** — Fiddle made from wood secret has been confided to reveals it.
+- **D1610.34.2** — Speaking flute.
+- **D1610.34.3** — Speaking Jew's harp.
+- **D1610.35** — Speaking river.
+- **D1610.36** — Speaking water.
+- **D1611** — Magic object answers for fugitive.
+  *Left behind to impersonate fugitive and delay pursuit.*
+- **D1611.1** — Magic rosebush answers for fugitives.
+- **D1611.2** — Magic hair answers for fugitive.
+- **D1611.3** — Magic cow-dung answers for fugitive.
+- **D1611.4** — Magic beans answer for fugitive.
+- **D1611.5** — Magic spittle impersonates fugitives.
+- **D1611.6** — Magic blood-drops impersonate fugitive.
+- **D1611.7** — Magic clothes answer for fugitive.
+- **D1611.8** — Magic cakes answer for fugitive.
+- **D1611.9** — Magic household articles answer for fugitive.
+- **D1611.10** — Magic awl answers for fugitive.
+- **D1611.11** — Magic doll answers for fugitive.
+- **D1611.12** — Magic stick of wood answers for fugitive.
+- **D1611.12.1** — Magic log answers for fugitive.
+- **D1611.13** — Magic louse answers for fugitive.
+- **D1611.14** — Magic apple answers for fugitives.
+- **D1611.15** — Magic echo answers for fugitive.
+- **D1611.16** — Magic writings on stone cause corpse to answer for absent man.
+- **D1611.17** — Magic bone answers for fugitive.
+- **D1611.18** — Magic buckle answers for fugitive.
+- **D1612** — Tell-tale magic objects.
+- **D1612.1** — Magic objects betray fugitive.
+  *Give alarm when fugitive escapes.*
+- **D1612.1.1** — Horns call out when girl tries to escape.
+- **D1612.1.2** — Banana tree tells who cut its branches.
+- **D1612.1.3** — Fetish betrays fugitive.
+- **D1612.2** — Magic object compels fugitive to betray himself.
+- **D1612.2.1** — Magic ring compels would-be fugitive to keep calling out, "Here I am".
+- **D1612.3** — Hiding place speaks and betrays hider.
+- **D1612.4** — Magic object tells where it is hidden.
+- **D1612.4.1** — Magic cloth tells where it is hidden.
+- **D1612.5** — Magic object raises alarm when stolen.
+- **D1612.5.1** — Magic shirt tells owner when it is stolen.
+- **D1612.5.2** — Magic harp gives alarm when it is stolen.
+- **D1612.6** — Magic object gives alarm when touched.
+- **D1612.6.1** — Singing tree when touched wakes master.
+- **D1612.6.2** — Arrows shake when master is disturbed.
+- **D1613** — Magic object helps overawe captor.
+- **D1613.1** — Magic fish talk so that ogre thinks hero has many brothers with him.
+- **D1615** — Magic singing object.
+- **D1615.1** — Singing tree.
+- **D1615.2** — Magic musical branch.
+- **D1615.3** — Singing apple.
+- **D1615.4** — Singing water.
+- **D1615.5** — Singing snowshoes.
+- **D1615.6** — Singing rice-pot.
+- **D1615.7** — Singing head.
+- **D1615.8** — Headless body sings.
+- **D1615.9** — Singing heavens and earth.
+- **D1617** — Magic laughing object.
+- **D1617.1** — Magic laughing stone.
+- **D1618** — Magic weeping object.
+- **D1618.1** — Magic weeping waters.
+- **D1618.2** — Magic weeping stone.
+- **D1618.3** — Magic weeping altar.
+- **D1618.4** — Weapons weep as warning to master.
+- **D1619** — Miscellaneous speaking objects.
+- **D1619.1** — Speaking beans rebuke wife for misdeed.
+- **D1619.2** — Eaten object speaks from inside person's body.
+- **D1619.2.1** — Eaten magic dog howls from eater's belly.
+- **D1619.2.2** — Eaten goat bleats from eater's stomach.
+- **D1619.3** — Fruits that laugh or cry.
+- **D1620** — Magic automata.
+  *Statues or images that act as if alive.*
+- **D1620.0.1** — Automatic doll.
+- **D1620.0.1.1** — Automatic gold-spinning doll.
+- **D1620.0.1.2** — Automatic singing doll.
+- **D1620.1** — Automatic statue of man.
+- **D1620.1.1** — Automatic statue of trumpeter.
+- **D1620.1.2** — Automatic statue of horseman.
+- **D1620.1.3** — Smith forges iron man, who helps him.
+- **D1620.1.4** — Statue of Virgin sews for suppliant.
+- **D1620.1.5** — Magic statue of archer.
+- **D1620.1.5.1** — Magic statue of archer put into action my picking up precious object from ground.
+- **D1620.1.6** — Magic statue of man labors for owner.
+- **D1620.1.6.1** — Magic statue of man fights for master.
+- **D1620.1.7** — Speaking statue of man.
+- **D1620.2** — Automatic statue of animal.
+- **D1620.2.1** — Automatic statue of horse.
+- **D1620.2.2** — Automatic hen and chickens of gold.
+- **D1620.2.2.1** — Silver cock, sitting on a flower, crows.
+- **D1620.2.3** — Deer of gold and jewels possessing life.
+- **D1620.2.3.1** — Magic journey on back of flying golden deer.
+- **D1620.2.4** — Automatic statue of lion.
+- **D1620.2.5** — Automatic figures on harp birds, serpents, hounds.
+- **D1620.2.6** — Automatic metal (jewel) fish.
+- **D1620.2.7** — Plough of gold and yoke of gold and pair of bullocks used by hero tills as much land as lies within a village boundary in one day.
+- **D1620.2.8** — Automatic statue of dog.
+- **D1620.2.9** — Automatic brazen serpent.
+- **D1620.3** — Other automatic constructions.
+- **D1620.3.1** — Two automatic giants fight until separated.
+- **D1620.3.2** — Magic carpenter constructs bed and stool that can become big or small, luxurious or otherwise.
+- **D1621** — Image renders judgments.
+- **D1622** — Image indicates favor to suppliant.
+- **D1622.1** — Crucifix bows as sign of favor.
+- **D1622.2** — Image of Virgin bows to indicate favor.
+- **D1622.3** — Saint's image lets golden shoe (ring) fall as sign of favor to suppliant.
+- **D1623** — Image dresses self.
+- **D1623.1** — Image of Virgin veils and unveils itself.
+- **D1624** — Image bleeds.
+- **D1624.1** — Image of Christ bleeds from thrown stone.
+- **D1624.2** — Wounds of crucifix bleed.
+- **D1625** — Statue weeps.
+- **D1625.1** — Statue sheds tears of blood.
+- **D1626** — Image flies through air.
+- **D1626.1** — Artificial flying horse.
+- **D1627** — Dancing automata.
+- **D1627.1** — Instrument's ornamental figures climb down and run about as harper plays.
+- **D1628** — City populated by wooden automata.
+- **D1631** — Images of animals ridden (driven).
+- **D1632** — Images open and close eyes.
+- **D1633** — Image eats or drinks.
+- **D1633.1** — Idol drinks up milk.
+- **D1635** — Golem.
+  *Automatic statue animated by insertion of written magic formula into an opening.*
+- **D1639** — Automata: other motifs.
+- **D1639.1** — Automata as door-keepers.
+- **D1639.2** — Image of Virgin saves painter.
+  *Stretches forth hand and keeps him from falling.*
+- **D1639.3** — Images at church turn backs as mark of disfavor.
+  *Done when abandoned woman or merman enters.*
+- **D1639.4** — Statue laughs and reveals crime.
+- **D1639.5** — Calf of gold moves.
+- **D1639.6** — Carved image jumps at maker's command.
+- **D1640** — Other automatic objects.
+- **D1641** — Object removes itself.
+- **D1641.1** — Fountain (well) removes itself.
+- **D1641.2** — Stones remove themselves.
+- **D1641.2.1** — Saint's flagstone follows him.
+- **D1641.2.2** — Mountain moved by prayer so as to make room for church.
+- **D1641.2.3** — Stone moves at cock-crow.
+- **D1641.2.4** — Stone moves at midnight.
+- **D1641.2.5** — Stones go down to stream to drink.
+- **D1641.3** — Stove runs over hill.
+- **D1641.4** — Forest cleared by magic.
+- **D1641.5** — Muirlan (ball) removes itself.
+- **D1641.6** — Branch leaps from hand to hand.
+- **D1641.7** — Severed head moves from place to place.
+- **D1641.7.1** — Self-rolling head.
+- **D1641.8** — Grave removes itself.
+- **D1641.9** — Magic cross removes itself.
+- **D1641.10** — Magic fire removes itself.
+- **D1641.11** — Sacred scroll returns to heaven.
+- **D1641.11.1** — Magic book removes itself.
+- **D1641.12** — Lake removes itself.
+- **D1641.12.1** — Lake is drunk dry.
+- **D1641.13** — Coffin moves itself.
+- **D1641.14** — Jewelry intended by groom for prospective bride strangely disappears and a slip of paper alone is left in box.
+- **D1641.14.1** — Ruby shatters into half-dozen pieces when it is acquired by greedy lapidary.
+- **D1641.15** — Lotus disappears whenever anyone tries to pluck it.
+- **D1641.16** — Bananas run and hide when stone is thrown at them.
+- **D1642** — Self-folding object.
+- **D1642.1** — Self-folding bridge prevents pursuit.
+- **D1643** — Object travels by itself.
+- **D1643.1** — Stick of fire comes to river bank of itself.
+- **D1643.2** — Rock travels.
+- **D1643.3** — Magic island moves about as owner wishes.
+- **D1643.4** — Magic pipe travels about.
+- **D1645** — Self-luminous objects.
+- **D1645.1** — Incandescent jewel.
+- **D1645.2** — Incandescent cup.
+- **D1645.3** — Magic castle shines from afar.
+- **D1645.4** — Incandescent sword.
+- **D1645.5** — Magic dazzling shield.
+- **D1645.6** — Self-luminous feather.
+- **D1645.7** — Self-luminous artificial boar.
+- **D1645.8** — Magic flaming arms.
+- **D1645.8.1** — Magic flaming spear.
+- **D1645.8.1.1** — Flaming spear must be cooled in noxious blood.
+- **D1645.8.2** — Magic flaming shield.
+- **D1645.8.3** — Magic flaming lance.
+- **D1645.8.4** — Magic flaming sword.
+- **D1645.9** — Well shines at night.
+- **D1645.10** — Man's body emits light.
+- **D1645.11** — Extraordinary flower; rays of golden light fall from it.
+- **D1646** — Magic dancing object.
+- **D1646.1** — Dancing apple.
+- **D1646.2** — Dancing water.
+- **D1646.3** — Dancing kettle.
+- **D1646.4** — Dancing stones.
+- **D1647** — Fountain magically dries up.
+- **D1647.1** — Water vanishes from water hole when man tries to drink.
+- **D1648** — Magic object bows before certain person.
+- **D1648.1** — Tree bends to certain person.
+- **D1648.1.1** — Tree bends only to heroine.
+- **D1648.1.2** — Tree (forest) bows down to holy person (saint).
+- **D1648.1.2.1** — Tree bows to help Virgin Mary in childbirth.
+- **D1648.1.2.2** — Twig of a tree bows down and releases a bag with relics when the man makes a promise.
+- **D1648.2** — Flower bends only to certain person.
+- **D1648.3** — Stones prostrate themselves before certain persons.
+- **D1649** — Miscellaneous automatic objects.
+- **D1649.1** — Magic object keeps falling down.
+- **D1649.1.1** — Magic elk's head keeps falling down.
+- **D1649.1.2** — Magic birds keep falling off perch.
+- **D1649.2** — Magic object comes at owner's call.
+- **D1649.2.1** — Harp comes at owner's call.
+- **D1649.3** — Stones for heating water heated automatically in other world.
+- **D1649.4** — Dung and wood burst into flames of their own accord.
+- **D1649.5** — Magic crystals automatically heat for cooking.
+- **D1649.6** — Objects rebel against their owners.
+- **D1649.7** — Magic wood stick makes noise at night.
+- **D1650** — Other characteristics of magic objects.
+- **D1651** — Magic object obeys master alone.
+- **D1651.1** — Only master is able to bend bow.
+- **D1651.1.1** — Spear can be wielded by only one person.
+- **D1651.2** — Magic cudgel works only for master.
+- **D1651.3** — Magic cooking-pot obeys only master.
+- **D1651.4** — Inexhaustible pitcher stops pouring only at owner's command.
+- **D1651.5** — Dead beggar's stick will not stay still until back in beggar's service.
+- **D1651.6** — Oracular image refuses information except to hero.
+- **D1651.7** — Magic musical instrument plays only for owner.
+- **D1651.7.1** — Magic harp plays only for owner.
+- **D1651.7.2** — Magic wishing-drum works only for owner.
+- **D1651.7.3** — Magic flageolet stolen but loses its magic power.
+- **D1651.8** — Door will open only for hero.
+- **D1651.9** — Bonds cannot be loosed save by man who tied them.
+- **D1651.9.1** — Bonds can be loosed only by comrades of man who tied them.
+- **D1651.10** — Apple (or ball) containing man's soul can be split only by man's own sword.
+- **D1651.11** — Stolen gun works only for master.
+- **D1651.12** — Box can be opened only by right person.
+- **D1651.13** — Jewel responds to owner's voice.
+- **D1651.14** — Magic clock flies only at owner's command.
+- **D1652** — Inexhaustible object.
+  *Keeps magically renewing itself or expanding.*
+- **D1652.0.1** — Magic object causes thing to become inexhaustible.
+- **D1652.1** — Inexhaustible food.
+- **D1652.1.0.1** — Miraculous increasing of small quantity of victuals or drinks to feed a great number of people.
+- **D1652.1.1** — Inexhaustible bread.
+- **D1652.1.2** — Cake magically increases.
+- **D1652.1.3** — Inexhaustible grain.
+- **D1652.1.3.1** — Inexhaustible rice.
+  *Rice cooked from a single kernel.*
+- **D1652.1.3.2** — Inexhaustible corn.
+- **D1652.1.3.3** — Inexhaustible wheat.
+- **D1652.1.4** — Ever-renewing cheese.
+- **D1652.1.5** — Inexhaustible chestnut.
+- **D1652.1.6** — Inexhaustible coconut.
+- **D1652.1.7** — Inexhaustible fruit.
+- **D1652.1.7.1** — Inexhaustible apple.
+- **D1652.1.7.2** — Magic banana skin always full of fruit.
+- **D1652.1.8** — Magic pill on which one feeds self for years.
+- **D1652.1.9** — Inexhaustible meat.
+- **D1652.1.9.1** — Inexhaustible pig.
+- **D1652.1.9.1.1** — Inexhaustible boar's flesh.
+- **D1652.1.9.2** — Inexhaustible sheep.
+- **D1652.1.10** — Inexhaustible fish.
+- **D1652.1.10.1** — Loaves and fishes, eaten at night, restored next morning through power of saint.
+- **D1652.2** — Inexhaustible drink.
+- **D1652.3** — Inexhaustible milk.
+- **D1652.3.1** — Cow with inexhaustible milk.
+- **D1652.3.2** — Goat with inexhaustible milk.
+- **D1652.4** — Magic gun is always loaded.
+- **D1652.5** — Inexhaustible vessel.
+- **D1652.5.1** — Magic goblet (cup) cannot be filled.
+- **D1652.5.2** — Inexhaustible barrel.
+- **D1652.5.3** — Inexhaustible measure (for meal or flour).
+- **D1652.5.4** — Inexhaustible pitcher.
+- **D1652.5.4.1** — Inexhaustible pitcher of milk.
+- **D1652.5.5** — Inexhaustible vase of bonbons.
+- **D1652.5.6** — Inexhaustible bowl.
+- **D1652.5.7** — Inexhaustible pot.
+- **D1652.5.8** — Inexhaustible food basket.
+- **D1652.5.9** — Inexhaustible food bag.
+- **D1652.5.10** — Inexhaustible rice-stores.
+- **D1652.5.11** — Inexhaustible meal sack.
+- **D1652.6** — Ever-burning lamp.
+- **D1652.7** — Unfading garlands.
+- **D1652.8** — Inexhaustible cloth.
+- **D1652.9** — Monkey cut in two by magic sword becomes two monkeys.
+- **D1652.10** — Inexhaustible fuel.
+- **D1652.10.1** — Inexhaustible firewood.
+- **D1652.11** — Ever-burning candle.
+- **D1652.12** — Mantle ever new.
+- **D1652.13** — Everlasting wine-odor.
+- **D1652.14** — Sheep with inexhaustible wool.
+- **D1652.15** — Inexhaustible well.
+- **D1652.15.1** — Inexhaustible spring.
+- **D1652.15.2** — Inexhaustible water-hole.
+- **D1652.16** — Lime (for building church) miraculously renewed by power of saint.
+- **D1652.17** — Inexhaustible horn.
+- **D1652.18** — Inexhaustible larder.
+- **D1652.19** — Inexhaustible human liver.
+- **D1652.20** — Inexhaustible sacrificial blood.
+- **D1653** — Infallible article.
+- **D1653.1** — Infallible weapon.
+- **D1653.1.1** — Infallible sword.
+- **D1653.1.1.1** — Sword causes a man's death every time it is drawn.
+- **D1653.1.2** — Unerring spear.
+- **D1653.1.2.1** — Gloves make spear-cast infallible.
+- **D1653.1.3** — Infallible sling.
+- **D1653.1.4** — Unerring bow.
+  *Always hits mark.*
+- **D1653.1.5** — Unerring arrow.
+- **D1653.1.6** — Unerring stone missile.
+- **D1653.1.7** — Infallible gun.
+- **D1653.1.8** — Magic mirror as infallible weapon.
+- **D1653.1.9** — Infallible dagger.
+- **D1653.2** — Infallible fish-hook.
+- **D1654** — Immovable object.
+- **D1654.0.1** — Magic immovability of saints (or their possessions).
+- **D1654.0.2** — Magic stone, hitting object, renders it immovable.
+- **D1654.1** — Stone (rock) refuses to be moved.
+- **D1654.1.1** — Immovable stone moved by saint.
+- **D1654.1.1.1** — Stone rolls off well-top after saint has prayed.
+- **D1654.2** — Immovable apples.
+- **D1654.3** — Indelible blood.
+- **D1654.3.1** — Indelible mark.
+- **D1654.3.1.1** — Indelible writing: the scraped word found written as before.
+- **D1654.4** — Immovable weapon.
+- **D1654.4.1** — Sword can be moved only by right person.
+- **D1654.4.1.1** — Sword can only be used by strong hero.
+- **D1654.4.2** — Arrow can be moved only by owner.
+- **D1654.4.3** — Lance imbedded in earth cannot be moved.
+- **D1654.4.4** — Magic spear cannot be pulled out of ground.
+- **D1654.4.5** — Dagger sticks to killer's hand.
+- **D1654.5** — Wagon refuses to move.
+- **D1654.5.1** — Chariot refuses to move.
+- **D1654.6** — Ship refuses to move.
+- **D1654.7** — Statues that cannot be removed.
+- **D1654.8** — Picture that cannot be removed in ship.
+- **D1654.8.1** — Sacred image impossible to remove from the spot.
+- **D1654.9** — Corpse in coffin refuses to be moved in wagon.
+- **D1654.9.1** — Corpse cannot be moved.
+- **D1654.10** — Bell refuses to be moved.
+- **D1654.10.1** — Bell sunk in sea can be raised only under certain conditions.
+- **D1654.11** — Paper in hand which none but king can remove.
+- **D1654.12** — Horse magically becomes immovable.
+- **D1654.13** — Woman can be lifted only by her lover.
+- **D1654.14** — Severed head cannot be moved from helmet.
+- **D1654.15** — Door stuck by witchcraft so that it cannot be opened.
+- **D1654.16** — Pot cannot be lifted.
+- **D1654.17** — Throne of goddess' idol is lifted only after goat has been sacrificed.
+- **D1655** — Invisible objects.
+- **D1655.1** — Invisible weapons.
+- **D1655.1.1** — Invisible arrows.
+- **D1656** — Incombustible objects.
+- **D1656.1** — Incombustible book.
+- **D1656.2** — Incombustible house (dwelling).
+- **D1657** — Untiring object.
+- **D1657.1** — Magic untiring breeches.
+- **D1658** — Grateful objects.
+- **D1658.1** — Objects repay kindness.
+- **D1658.1.1** — River grateful for being praised even when ugly.
+- **D1658.1.2** — Figs grateful for being praised even when ill-tasting.
+- **D1658.1.3** — Bitter water grateful for being praised.
+- **D1658.1.4** — Continually slamming doors grateful for being fastened.
+- **D1658.1.5** — Apple-tree grateful for being shaken.
+- **D1658.1.5.1** — Tree grateful for having boughs trimmed.
+- **D1658.1.5.2** — Tree grateful for having milk poured on roots.
+- **D1658.1.6** — River grateful for being given color.
+- **D1658.2** — Kinds of grateful objects.
+- **D1658.2.1** — Grateful stove.
+- **D1658.2.2** — Grateful carpets.
+- **D1658.2.3** — Grateful plant.
+- **D1658.3** — Services of grateful objects.
+- **D1658.3.1** — Grateful objects give advice.
+- **D1658.3.2** — Grateful objects help in choice of caskets.
+- **D1658.3.3** — Grateful objects give helper gifts.
+- **D1658.3.4** — Grateful objects help fugitive.
+- **D1661** — Magic object cannot be replaced.
+- **D1661.1** — Talking statue, when destroyed, cannot be replaced for thirty thousand years.
+- **D1662** — Magic object works by being stroked.
+- **D1662.1** — Magic ring works by being stroked.
+- **D1662.1.1** — Magic ring works by having sun's rays flash upon gem.
+- **D1662.2** — Magic lamp works by being stroked.
+- **D1662.3** — Diamond works by being pressed.
+- **D1663** — Magic object works in contrary fashions.
+- **D1663.1** — Wands of life and death.
+  *Pointed with one end, kill; with the other, resuscitate.*
+- **D1663.1.1** — Magic club kills and revives.
+- **D1663.2** — Ointment cures left cheek, not right.
+- **D1663.3** — Well of life and death.
+  *Situated on one hand, kills; on the other, protects against disease.*
+- **D1663.4** — Fountains poison and cure.
+  *One, with bronze vessel, tastes sweet and poisons; other, with iron vessel, tastes bitter and cures.*
+- **D1663.5** — Well rises or sinks to indicate long or short life.
+- **D1663.6** — Magic tree gives money to good brother, poisonous animals to bad.
+- **D1664** — Summer and winter garden.
+  *Garden which blooms in winter.*
+- **D1665** — Food has taste of any dainty desired.
+- **D1665.1** — Drink has taste of any liquor desired.
+- **D1665.2** — Cow whose milk "tastes of honey and intoxicating wine and the satisfaction of good food."
+- **D1665.3** — Fruit has any taste desired.
+- **D1665.4** — Manna tastes bitter to gentiles.
+- **D1666** — Sword leaves no trace of blow behind it.
+- **D1667** — Magic garden grows at once.
+- **D1667.1** — Magic tree shoots forth leaf, flower, and fruit at once.
+- **D1667.2** — Magic acorns grow at once.
+- **D1667.3** — Million-fold rice which ripens in one night.
+- **D1667.4** — Garden that has not bloomed for twelve years does so when girl steps into it.
+- **D1668** — Magic tree continually in fruit.
+- **D1671** — Silver in chain increases in fire.
+- **D1672** — Unquenchable fire.
+- **D1672.0.1** — Magic fire burns for seven years.
+- **D1672.1** — Flaming shield unquenchable.
+- **D1672.2** — Self-burning bush.
+- **D1673** — Magic staff blossoms.
+- **D1673.1** — Tree grows from stick saint has used and thrown aside.
+- **D1674** — Iron blessed by saint incapable of wounding.
+- **D1675** — Garden wall that cannot be overleapt.
+- **D1676** — Mill refuses to work on Sunday.
+- **D1676.1** — Manna does not fall on Sabbath.
+- **D1677** — Mill refuses to work when saint is ill-treated.
+- **D1678** — Magic book, once used, compels person to do evil.
+- **D1681** — Charm incorrectly uttered will not work.
+- **D1682** — Magic jewel which outweighs many heavy objects in the scale.
+- **D1683** — Hearth cleaned by angel always free of ashes.
+- **D1684** — Dye blessed by saint colors animals, trees.
+- **D1685** — Interred body of saint performs signs and miracles.
+- **D1686** — Magic object departs and returns at formulistic command.
+- **D1687** — Object magically becomes heavy.
+- **D1688** — Marvelous post wears down at top instead of rotting from bottom.
+- **D1691** — Magic suspension of weight.
+- **D1691.1** — Huge load easily carried by a saint.
+- **D1692** — Cloak (and shirt) fit person of any size.
+- **D1693** — Magic rod swallows other rods.
+- **D1694** — Sword that cannot be magically dulled.
+
+## Magic powers
+
+- **D1700** — Magic powers.
+- **D1710** — Possession of magic powers.
+- **D1711** — Magician.
+- **D1711.0.1** — Magician's apprentice.
+- **D1711.0.2** — Magician keeps magic power in tumor in back.
+- **D1711.0.3** — Means of becoming magician.
+- **D1711.1** — Biblical worthy as magician.
+- **D1711.1.1** — Solomon as master of magicians.
+- **D1711.1.2** — Esau as magician.
+- **D1711.1.3** — Baalam as master of magicians.
+- **D1711.2** — Virgil as magician.
+- **D1711.3** — Sun as magician.
+- **D1711.4** — Druid as magician.
+- **D1711.5** — Fairy as magician.
+- **D1711.6** — God or demigod as magician.
+- **D1711.6.1** — Odin as magician.
+- **D1711.6.2** — Aesculapius as magician.
+- **D1711.7** — King as magician.
+- **D1711.7.1** — Pharaoh as magician.
+- **D1711.8** — Strong man as magician.
+- **D1711.9** — Dark-haired people (with bowed nose) as magicians.
+- **D1711.10** — People of certain place as magicians.
+- **D1711.10.1** — Finns as magicians.
+- **D1711.10.2** — People of Gestrikland (Sweden) as magicians.
+- **D1711.10.3** — Egyptians as magicians.
+- **D1711.10.4** — People of Palmyra as magicians.
+- **D1711.10.5** — Amonites as magicians.
+- **D1711.10.6** — Amalekites as magicians.
+- **D1711.11** — Family of magicians.
+- **D1711.11.1** — Baalam's family as magicians.
+- **D1711.12** — People who come on ship with sickness accused as magicians.
+- **D1711.13** — Reptile-men cure snake bites, and can summon together snakes (or mice) and lead them away anywhere.
+- **D1712** — Soothsayer (diviner, oracle, etc.).
+- **D1712.0.1** — Astrologer-magician.
+- **D1712.1** — Soothsayer at work by various methods of divination.
+- **D1712.2** — Blind man as soothsayer.
+- **D1712.3** — Interpreter of dreams.
+- **D1713** — Magic power of hermit (saint, yogi).
+- **D1714** — Magic power of person without sin.
+- **D1714.1** — Magic power of chaste woman.
+- **D1714.1.1** — Chaste maiden at prayer vanishes from would-be ravisher's embrace.
+- **D1715** — Magic power of dying man's words.
+- **D1715.1** — Magic last wish at death becomes a reality (reincarnation).
+- **D1715.2** — Dying peasant summons greedy bishop for heavenly funeral; the bishop dies hearing the message.
+- **D1715.3** — Dying man commands cloud to bear message to man's wife.
+- **D1716** — Magic power of the infirm.
+- **D1716.1** — Magic power of the idiot.
+- **D1716.2** — Magic power of the lame.
+- **D1716.3** — Magic power of sterile woman.
+- **D1717** — Magic power of children.
+- **D1717.1** — Magic power of monster child.
+- **D1718** — Special location of magic powers.
+- **D1718.1** — Magic power contained in stick and water.
+- **D1719** — Possession of magic powers miscellaneous.
+- **D1719.1** — Contest in magic.
+- **D1719.1.1** — Contest in magic between druid and saint.
+- **D1719.1.2** — Contest between druid and fairy personage.
+- **D1719.1.3** — Magic contest, magician and giant: magician would make a dog's tail crooked, the giant would straighten it and so on, ad infinitum.
+- **D1719.1.4** — Contest between carpenter and son to race wooden horses they had both made.
+- **D1719.2** — Magic wisdom possessed by wild man.
+- **D1719.3** — Magic power of superhuman race.
+- **D1719.4** — Magic wisdom possessed by extraordinary companion.
+- **D1719.5** — Magic power of fairy.
+- **D1719.6** — Magic power of holy cross.
+- **D1719.7** — Magic power of mermaid.
+- **D1719.8** — Man has magic servants who plow for him; he swallows them each day and keeps them secret.
+- **D1719.9** — Magic power at certain time.
+- **D1719.9.1** — Magic power only at night.
+- **D1719.9.2** — Magic power at Passover.
+- **D1719.10** — Magic power only under certain conditions.
+- **D1719.10.1** — Magic power only when magician's feet touch ground.
+- **D1719.11** — Limited amount of magic in world.
+- **D1719.11.1** — Only ten measures of magic allotted to world.
+- **D1720** — Acquisition of magic powers.
+- **D1720.1** — Man given power of wishing.
+- **D1720.1.1** — Devil gives man power of wishing.
+- **D1720.2** — Man receives divine "possession" (becomes a diviner).
+- **D1721** — Magic power from magician.
+- **D1721.0.1** — Magic power from donning magician's clothes.
+- **D1721.0.2** — Magic power obtained secretly from magician's friends.
+- **D1721.1** — Magic power from devil.
+- **D1721.1.1** — Magic arts learned in hell.
+- **D1721.1.2** — Magic power from demon.
+- **D1721.1.3** — Spirit gives man the power of exorcising him out of anyone he possesses.
+- **D1721.1.4** — Magic power from rakshasi.
+- **D1721.2** — Magic power acquired by eating fish which have eaten dead magician's flesh.
+- **D1721.3** — Magician blows magic into disciples' ears.
+- **D1721.4** — Disciples drink magician's urine.
+- **D1721.5** — Magician's disciples eat magic iron.
+- **D1721.6** — Magician's disciples acquire magic powers by study.
+- **D1722** — Magic power from saint.
+- **D1722.1** — Magic power from prophet.
+- **D1723** — Magic power from fairy.
+- **D1724** — Magic power from Death.
+  *Death as godfather.*
+- **D1725** — Magic power obtained from angels.
+- **D1725.1** — Magic power from Angel of Death (Cf.  1724.)
+- **D1726** — Magic power from deity.
+- **D1726.0.1** — Soothsaying learned from a god.
+- **D1726.1** — Magic power from celestial maiden.
+- **D1726.2** — Magic power from stone idol.
+- **D1727** — Magic power learned from giant (as foster-father).
+- **D1728** — Magic power from superhuman race.
+- **D1731** — Magic power received in dream.
+- **D1731.1** — Song learned in dream.
+- **D1731.2** — Marvels seen in dreams.
+- **D1731.2.1** — Fairy seen in dream.
+- **D1731.2.2** — All nature composed of food in vision.
+- **D1731.3** — (Dream of) rock-casting contest.
+- **D1732** — Magic power obtained by meditation.
+- **D1733** — Acts producing magic power.
+- **D1733.1** — Magic power by jumping into fire.
+- **D1733.2** — Magic power by crawling through ear of magic horse.
+- **D1733.3** — Magic power through ascetic practices.
+- **D1733.3.1** — Magic power by fasting.
+- **D1733.3.1.1** — Oracular twigs work only if man has fasted.
+- **D1733.4** — Magic power by sitting in certain seat.
+- **D1733.5** — Magic power from swooning.
+- **D1733.6** — Magic power by magic songs.
+- **D1734** — Magic powers from rubbing.
+- **D1734.1** — Magic power by rubbing talisman.
+- **D1735** — Magic powers from swallowing.
+- **D1735.1** — Magic powers from swallowing a straw.
+- **D1735.2** — Language acquired by swallowing its written characters.
+- **D1735.3** — Magic powers from swallowing magic drink.
+- **D1735.4** — Possession of magic knowledge and witchcraft from having eaten of father-of-man's corpse.
+- **D1736** — Magic power from great piety.
+- **D1736.1** — Magic power acquired by sacrificing.
+- **D1737** — Magic power inherited.
+- **D1737.1** — Magic power from mother.
+- **D1738** — Magic arts studied.
+- **D1739** — Acquisition of magic power miscellaneous.
+- **D1739.1** — Magic power from overheard talk of spirits.
+- **D1739.2** — Magic power from heavenly voice.
+- **D1740** — Loss of magic power.
+- **D1741** — Magic powers lost.
+- **D1741.1** — Magic power lost in sleep.
+- **D1741.2** — Magic power lost with loss of blood.
+- **D1741.2.1** — Drawing witch's blood annuls her spells.
+- **D1741.3** — Silence under punishment breaks power of enchantment.
+- **D1741.4** — Magic powers fail because of lack of faith in them.
+- **D1741.5** — Magic power lost by being frightened.
+- **D1741.6** — Loss of magic power through incest.
+- **D1741.7** — Saint causes loss of magic power.
+- **D1741.8** — Sorcerer's power lost when his teeth are knocked out.
+- **D1741.9** — Conjurer's power lost by eating magic food.
+- **D1745** — Magic power rendered ineffective.
+- **D1745.1** — Magic power not effective on men born on certain day.
+- **D1745.2** — Magic power rendered ineffective by pious deeds.
+- **D1749** — Loss of magic power miscellaneous.
+- **D1749.1** — Sorceress to lose her magic power as soon as one of her transformed husbands seizes her and swallows her.
+- **D1749.2** — Woman loses her magic power when she loses her simplicity and humility.
+- **D1750** — Other characteristics of magic power.
+- **D1751** — Magic passes from body to body.
+- **D1760** — Means of producing magic power.
+- **D1761** — Magic results produced by wishing.
+- **D1761.0.1** — Wishes granted without limit.
+- **D1761.0.2** — Limited number of wishes granted.
+- **D1761.0.2.1** — Man to have wishes if he can repeat them in one breath.
+- **D1761.0.2.2** — One wish granted.
+- **D1761.1** — Wishing by stars.
+- **D1761.1.1** — Wishing by shooting star.
+- **D1765** — Magic results produced by command.
+- **D1766** — Magic results produced by religious ceremony.
+- **D1766.1** — Magic results produced by prayer.
+- **D1766.1.1** — Magic fountain produced by prayer.
+- **D1766.1.2** — Prayers of nun cause Virgin Mary to show her the infant Jesus.
+- **D1766.1.3** — Garment produced by prayer.
+- **D1766.1.4** — Pain stopped by prayer.
+- **D1766.1.5** — Upon praying of a saint, sea or pool is filled with sand so that people are able to cross with dry feet.
+- **D1766.1.6** — Mouse's prayer to gods about her children granted.
+- **D1766.1.7** — Saint opens prison door by prayer.
+- **D1766.1.8** — Food produced by prayer.
+- **D1766.2** — Magic results produced by sacrifices.
+- **D1766.2.1** — Magic results from sacrifices at trees and wells.
+- **D1766.2.2** — Magic power from sacrificing a cock.
+- **D1766.2.3** — Magic power from shedding blood.
+- **D1766.3** — Magic powers from baptizing an animal.
+- **D1766.4** — Magic power from christening an animal.
+- **D1766.4.1** — Magic power from christening a cock.
+- **D1766.5** — Magic produced by saying mass.
+- **D1766.5.1** — Masses used along with other magic for cursing.
+- **D1766.5.2** — Magic articles made during mass.
+- **D1766.6** — Magic results from sign of the cross.
+- **D1766.6.1** — Fountain produced from sign of the cross.
+- **D1766.6.2** — Sign of the cross made over sword (knife) endows it with magic powers.
+- **D1766.6.3** — Sign of the cross enables person to relate marvel.
+- **D1766.6.4** — Sign of the cross made over beer protects against poison.
+- **D1766.6.5** — Venomous dog killed by sign of cross.
+- **D1766.7** — Magic results from uttering powerful name.
+- **D1766.7.1** — Magic results produced in name of deity.
+- **D1766.7.1.1** — Evil spirits conjured away in name of deity.
+- **D1766.7.2** — Magic use of hero's name brings water.
+- **D1766.7.3** — Magic results produced in name of saint.
+- **D1766.8** — Magic results from fasting.
+- **D1766.8.1** — Fasting a part of magic ritual.
+- **D1766.9** — Magic results from singing hymn.
+- **D1766.10** — Magic results from worshiping god (goddess).
+- **D1773** — Magic results from laughing.
+- **D1773.1** — Scent of flowers from laughter.
+- **D1774** — Magic results from speaking.
+- **D1775** — Magic results from licking.
+- **D1776** — Magic results from spitting.
+- **D1777** — Magic results from power of thought.
+- **D1778** — Magic results from contact with earth.
+- **D1781** — Magic results from singing.
+- **D1782** — Sympathetic magic.
+  *Magic results obtained by imitating desired action.*
+- **D1782.1** — Magic results obtained by imitating desired action.
+- **D1782.1.1** — Opening mouth makes door open wider.
+- **D1782.2** — Curing wound by treating object which caused wound.
+- **D1782.3** — Magic result from loosing knots.
+- **D1782.3.1** — Loosing sandals destroys fakir's power.
+- **D1782.3.2** — Loosing knots permits horse to return home.
+- **D1783** — Reverse magic.
+  *Magic results obtained by imitating reverse of desired results.*
+- **D1783.1** — Magic results of reversing a spell.
+  *Formula said backward will sometimes undo the work performed by the formula.*
+- **D1783.2** — Cure for leprosy by drinking from opposite lip of horn from that which caused it.
+- **D1783.3** — Faster one walks, longer the trail.
+  *The slower, the shorter.*
+- **D1783.4** — Power over monster (wizard, king) obtained by reversing orders.
+  *Hero does exact opposite of the command.*
+- **D1783.5** — Magic turned against the makers, so that they are bewildered and kill themselves.
+- **D1784** — Magic results from breathing.
+- **D1785** — Magic telepathy.
+  *Influence at a distance.*
+- **D1786** — Magic power at cross-roads.
+- **D1787** — Magic results from burning.
+- **D1788** — Magic results from bathing.
+- **D1788.1** — Magic results from contact with water.
+- **D1791** — Magic power by circumambulation.
+- **D1791.1** — Dextrosum (sunwise) circuit (for good luck).
+- **D1791.1.1** — Druid performs circumambulation right-handwise to confer honor or bring good luck.
+- **D1791.2** — Withershins (countersunwise) circuit (for ill luck).
+- **D1791.2.1** — Druid performs circumambulation withershins to bring ill luck.
+- **D1792** — Magic results from curse.
+- **D1792.1** — Saint's curse splits rocks.
+- **D1792.2** — Cursing wells.
+- **D1792.3** — Cursing stones.
+- **D1793** — Magic results from eating or drinking.
+- **D1793.1** — Characteristics of animal acquired by eating it.
+- **D1794** — Magic results from kissing.
+- **D1795** — Magic by creeping (running, pulling) through a hole.
+- **D1796** — Magic from maiden walking naked in public.
+- **D1796.1** — Power of nudity in magic.
+- **D1799** — Magic results from other acts.
+- **D1799.1** — Magic power from cleansing.
+- **D1799.2** — Magic results from clapping the hands together.
+- **D1799.3** — Magic results from special rituals.
+- **D1799.4** — Magic powers from touching.
+- **D1799.5** — Magic results from chewing.
+- **D1799.6** — Magic results from performing good deeds.
+
+## D1800
+
+- **D1810** — Magic knowledge.
+- **D1810.0.1** — Omniscience of a god.
+- **D1810.0.2** — Magic knowledge of magician.
+- **D1810.0.2.1** — Magician rebukes secret usury.
+- **D1810.0.3** — Magic knowledge of saints and holy men.
+- **D1810.0.3.1** — Saint perceives cheat.
+- **D1810.0.3.2** — Lost object or person found by holy man.
+- **D1810.0.4** — Magic knowledge of fairies.
+- **D1810.0.5** — Magic knowledge of witches.
+- **D1810.0.6** — Magic knowledge of angels.
+- **D1810.0.7** — Magic knowledge of superman.
+- **D1810.0.8** — Magic knowledge of druid.
+- **D1810.0.8.1** — Druid's "keys of wisdom".
+- **D1810.0.9** — Magic knowledge of the Pope.
+- **D1810.0.10** — Magic knowledge (wisdom) of Solomon.
+- **D1810.0.11** — Magic knowledge of poet.
+- **D1810.0.12** — Magic knowledge about culprit's offense to deity.
+- **D1810.0.13** — Magic knowledge of identity of stranger.
+- **D1810.1** — Magic knowledge from queen of other world.
+- **D1810.2** — Magic knowledge from devil.
+- **D1810.3** — Magic knowledge from touching "knowledge tooth" with thumb.
+- **D1810.3.1** — Future revealed by "knowledge tooth".
+- **D1810.4** — Magic knowledge learned from magician teacher.
+- **D1810.5** — Magic knowledge from angel.
+- **D1810.6** — Magic knowledge from bathing in holy water.
+- **D1810.7** — Magic knowledge from sign of the cross.
+- **D1810.8** — Magic knowledge from dream.
+- **D1810.8.1** — Truth given in vision.
+- **D1810.8.2** — Information received through dream.
+- **D1810.8.2.1** — Dream shows where stolen girl is hidden.
+- **D1810.8.2.2** — Person dreams of spot where drowned body lies.
+- **D1810.8.2.3** — Murder made known in a dream.
+- **D1810.8.2.4** — Dream tells of safety of absent person who has been in danger.
+- **D1810.8.2.5** — Raja told in a dream the stranger he seeks to destroy is his own son.
+- **D1810.8.3** — Warning in dreams.
+- **D1810.8.3.1** — Warning in dream fulfilled.
+- **D1810.8.3.1.1** — Dream warns of illness or injury.
+  *The dream is fulfilled.*
+- **D1810.8.3.2** — Dream warns of danger which will happen in near future.
+  *Because of advance knowledge, the danger is averted.*
+- **D1810.8.4** — Solution to problem is discovered in dream.
+- **D1810.9** — Magic knowledge from God.
+- **D1810.10** — Magic knowledge from goddess.
+- **D1810.11** — Magic knowledge from mythical ancestor.
+- **D1810.12** — Magic knowledge from guardian spirits.
+- **D1810.13** — Magic knowledge from the dead.
+- **D1811** — Magic wisdom.
+- **D1811.0.1** — Seventy-two kinds of wisdom mastered by Adam.
+- **D1811.1** — Magic wisdom from eating or drinking.
+- **D1811.1.1** — Thumb of knowledge.
+  *Man cooks magic animal and burns thumb. When he puts thumb in mouth he has magic knowledge.*
+- **D1811.1.1.1** — Thumb of knowledge from catching thumb in door of fairy.
+- **D1811.1.2** — Magic wisdom from drinking of well.
+- **D1811.2** — Magic wisdom received from supernatural being.
+- **D1811.2.1** — Divine inspiration for writing sacred books.
+- **D1812** — Magic power of prophecy.
+- **D1812.0.1** — Foreknowledge of hour of death.
+- **D1812.0.1.1** — Cheek bitten as warning of approaching death.
+- **D1812.0.1.2** — Foreknowledge of means of death.
+- **D1812.0.2** — Saints have foreknowledge of coming of guests.
+- **D1812.0.2.1** — Foreknowledge of unwished guests.
+- **D1812.0.2.2** — Hero has foreknowledge of coming of guests.
+- **D1812.0.2.3** — Fakir has foreknowledge of coming of guests.
+- **D1812.0.3** — Foreknowledge of wounding in battle (combat).
+- **D1812.0.4** — Foreknowledge of unhappiness of son or sons.
+- **D1812.0.5** — Magic knowledge of what is to happen to himself after death.
+- **D1812.1** — Power of prophecy a gift.
+- **D1812.1.1** — Power of prophecy from fairy.
+- **D1812.1.2** — Power of prophecy from God.
+- **D1812.2** — Power of prophecy induced.
+- **D1812.2.1** — Power of prophecy induced by crawling backward around grave.
+- **D1812.2.2** — Power of prophecy induced by conjuring.
+- **D1812.2.3** — Power of prophecy from accidental drinking of water from magic fountain.
+- **D1812.2.4** — Dying man's power of prophecy.
+- **D1812.3** — Means of learning future.
+- **D1812.3.1** — Future learned by sitting on hide.
+- **D1812.3.2** — Fortune told by cutting sand.
+- **D1812.3.3** — Future revealed in dream.
+- **D1812.3.3.0.1** — Druid interprets prophetic dream.
+- **D1812.3.3.0.2** — Poets interpret dreams.
+- **D1812.3.3.0.3** — Dream interpreter corrects dream.
+- **D1812.3.3.1** — Truest dreams at daybreak.
+- **D1812.3.3.2** — Fortune-telling dream induced by sleeping in extraordinary place (position).
+- **D1812.3.3.3** — Prophetic dream induced by incantation.
+- **D1812.3.3.4** — Prophetic dream loses force after a year.
+- **D1812.3.3.5** — Prophetic dream allegorical.
+- **D1812.3.3.5.1** — Allegorical dream: ripe and unripe ears, fat and lean kine.
+- **D1812.3.3.6** — Prophetic dream induced by eating meat of bull.
+- **D1812.3.3.7** — Eve in vision sees Cain drink Abel's blood.
+- **D1812.3.3.8** — Dream by a (pregnant) woman about fate of her unborn child.
+- **D1812.3.3.9** — Future husband (wife) revealed in dream.
+- **D1812.3.3.10** — Dream interpreted by opposites.
+- **D1812.3.3.11** — Death of another revealed in dream.
+- **D1812.4** — Future revealed by presentiment: "knowledge within".
+- **D1812.4.1** — Woman cries out on beholding man her unborn child is destined to slay.
+- **D1812.5** — Future learned through omens.
+- **D1812.5.0.1** — Omens from sneezing.
+- **D1812.5.0.2** — Omens from flight of birds.
+- **D1812.5.0.3** — Behavior of fire as omen.
+- **D1812.5.0.4** — Rising smoke as omen.
+- **D1812.5.0.4.1** — Divination from rising smoke.
+- **D1812.5.0.5** — Haruspices: divination by condition of animal's liver.
+- **D1812.5.0.6** — Divination by throwing objects into water.
+  *If they swim the omen is bad; if not, good.*
+- **D1812.5.0.7** — Divination from first person (thing) met.
+- **D1812.5.0.7.1** — First to partake of certain feast will be first to disobey the king (etc.).
+- **D1812.5.0.7.2** — Saint declares that first man to come to certain place shall be his successor.
+  *Young cleric comes and is chosen.*
+- **D1812.5.0.7.3** — Prognostications from day of week on which first day of year falls.
+- **D1812.5.0.8** — Divination from animal fight.
+- **D1812.5.0.8.1** — Auguries from movement of animal.
+- **D1812.5.0.9** — Divination from howling of dog.
+- **D1812.5.0.10** — Divination from clouds.
+- **D1812.5.0.11** — Divination from sound of voice.
+- **D1812.5.0.12** — Divination from sound of chariot wheels.
+- **D1812.5.0.13** — Magic manifestation as omen.
+- **D1812.5.0.14** — Stone changes from red to green as auspicious sign.
+- **D1812.5.0.15** — Weather signs.
+- **D1812.5.0.15.1** — Divination from wind.
+- **D1812.5.0.16** — Prognostications for year from winds blowing on January 1.
+- **D1812.5.0.17** — Divination by choice of roads: which son to be born first.
+- **D1812.5.1** — Bad omens.
+- **D1812.5.1.1** — Prodigy as evil omen.
+- **D1812.5.1.1.1** — Tears of blood as evil omen.
+- **D1812.5.1.1.2** — Two drops of blood in book mean that two have been killed.
+- **D1812.5.1.1.3** — Blood (in dream) as omen of killing.
+- **D1812.5.1.1.4** — Wave of blood as sign of death.
+- **D1812.5.1.1.5** — Drops of blood presage slaughter.
+- **D1812.5.1.1.6** — Washers at the ford.
+  *Appearance of female figure washing bloody armor, chariot cushions, or human limb (at ford) as sign of coming disaster in battle.*
+- **D1812.5.1.2** — Bad dream as evil omen.
+- **D1812.5.1.2.1** — Vision as evil omen.
+- **D1812.5.1.3** — Breaking mirror as evil omen.
+- **D1812.5.1.4** — Eclipse as evil omen.
+- **D1812.5.1.5** — Moon furnishes omen.
+- **D1812.5.1.5.1** — New moon with old moon in her arm a sign of storm.
+- **D1812.5.1.5.2** — Red or pale moon an evil omen.
+- **D1812.5.1.6** — Stars furnish omens.
+- **D1812.5.1.6.1** — Sirius as bad omen.
+- **D1812.5.1.7** — Meeting certain persons (animals) a bad omen.
+- **D1812.5.1.7.1** — Bad omen: greeting one before dawn.
+- **D1812.5.1.8** — Bad omen for two bridal processions to meet.
+- **D1812.5.1.9** — Sight of mermaid bad omen.
+- **D1812.5.1.10** — Sight of phantom ship a bad omen.
+- **D1812.5.1.11** — Red (gray, etc.).
+  *clouds as evil omens.*
+- **D1812.5.1.12** — Animal behavior as bad omen.
+- **D1812.5.1.12.1** — Howling of dog as bad omen.
+- **D1812.5.1.12.2** — Bird calls as evil omen.
+- **D1812.5.1.12.3** — Spider dropping on person's back as ill omen.
+- **D1812.5.1.12.4** — Mice gnawing garments as bad omen.
+- **D1812.5.1.13** — Fairy music as evil omen.
+- **D1812.5.1.14** — Holy man's fall from horse a bad omen.
+- **D1812.5.1.15** — Hailstorm as bad omen.
+- **D1812.5.1.16** — Dry river bed as bad omen.
+- **D1812.5.1.16.1** — Dry river bed as omen of approaching death.
+- **D1812.5.1.17** — Spectre as evil omen.
+- **D1812.5.1.17.1** — Spirit host fighting in air as evil omen.
+- **D1812.5.1.17.2** — Clashing shields in heavens as evil omen.
+- **D1812.5.1.17.3** — Roaring of shields as evil omen.
+- **D1812.5.1.18** — Snow on house omen of approaching death.
+- **D1812.5.1.19** — Plague as bad omen.
+- **D1812.5.1.20** — Withering of tree as bad omen.
+- **D1812.5.1.21** — Forgetting leashes of hounds as bad omen.
+- **D1812.5.1.22** — Bad omen: seeing unusual sight on road home.
+- **D1812.5.1.23** — Man killed by accident when ship is pushed into the sea taken as an evil omen.
+- **D1812.5.1.24** — Roaring of waves augurs danger to king.
+- **D1812.5.1.25** — Falling of shields as evil omen.
+- **D1812.5.1.26** — Falling of book satchels as evil omen.
+- **D1812.5.1.27** — Croaking of raven as bad omen.
+- **D1812.5.1.27.1** — Hooting of owl a bad omen.
+- **D1812.5.1.28** — Stirrup leather breaking as bad omen.
+- **D1812.5.1.29** — Evil omen: scavenger carrying headload of wood.
+- **D1812.5.1.30** — Place of bad omen.
+- **D1812.5.1.31** — Stumping toe a bad omen.
+- **D1812.5.2** — Favorable omens.
+- **D1812.5.2.1** — Throbbing of right eye as favorable omen.
+- **D1812.5.2.2** — Meeting certain person (animal) a good omen.
+- **D1812.5.2.2.1** — Good omen: meeting old woman with pot of newly drawn water.
+- **D1812.5.2.3** — Hearing thunder on setting forth a good omen.
+- **D1812.5.2.4** — Bird of prey catching quarry a good omen.
+- **D1812.5.2.5** — Hearing bird cry a good omen.
+- **D1812.5.2.5.1** — Hearing cuckoo call a good omen.
+- **D1812.5.2.5.2** — Hearing heron's cry a good omen.
+- **D1812.5.2.6** — Shooting star as good omen.
+- **D1812.5.2.7** — Roaring wave augurs luck.
+- **D1812.5.2.8** — Omen at laying foundation of building.
+- **D1812.5.2.9** — King who finds golden bow and arrow (spindle) knows an heir will be born to him.
+- **D1812.5.2.10** — Black dog as good omen.
+- **D1812.5.2.11** — Spider dropping on one's front a good omen.
+- **D1812.6** — Power of prophecy lost.
+- **D1812.6.1** — Power of prophecy lost by spitting.
+  *When possessor of power on request spits into mouth of man who has taught him, he loses the power.*
+- **D1813** — Magic knowledge of events in distant place.
+- **D1813.0.1** — Bear knows if person looks at his track.
+- **D1813.0.2** — Fairy has knowledge of how mortals fare.
+- **D1813.0.3** — Father feels that son is in danger.
+- **D1813.0.3.1** — Father knows of son's death from far away.
+- **D1813.1** — Dream shows events in distant place.
+- **D1813.1.1** — Dream warns emperor of wife's unfaithfulness.
+- **D1813.1.2** — Dream warns king of error in judgment.
+- **D1813.1.3** — Dream warns king of danger to kingdom.
+- **D1813.1.4** — Dream reveals death of brother.
+- **D1813.1.5** — Dream reveals to girl death of her lover.
+- **D1813.1.6** — Dream shows others in danger.
+- **D1813.2** — Pursuit revealed by magic.
+- **D1813.3** — "Knowledge tooth" reveals events in distant place.
+- **D1813.4** — Fugitives' way revealed by magic.
+- **D1814** — Magic advice.
+- **D1814.1** — Advice from magician (fortune-teller, etc.).
+- **D1814.1.1** — Wizard shows man likeness of cock which will win fight.
+- **D1814.2** — Advice from dream.
+- **D1814.3** — Advice from God (or gods).
+- **D1815** — Magic knowledge of strange tongues.
+- **D1815.0.1** — Gift of tongues received from ghosts.
+- **D1815.1** — Knowledge of ghost language.
+- **D1815.2** — Magic knowledge of language of animals.
+- **D1815.3** — Magic knowledge of demon language.
+- **D1815.4** — Magic knowledge of tree language.
+- **D1815.5** — Magic knowledge of vegetable language.
+- **D1815.6** — Magic knowledge of language of valleys.
+- **D1816** — Magic discovery of desired place.
+- **D1816.1** — Location of fountain revealed in dream.
+- **D1816.2** — Lost object discovered by magic.
+- **D1816.2.1** — Lost object found by throwing spade at ghost.
+  *Where spade sticks one will find the lost object.*
+- **D1816.3** — Location of fort determined by reading in book.
+- **D1816.4** — Location of buried object (body) magically revealed.
+- **D1816.4.1** — Location of corpse of drowned person detected by magic.
+- **D1816.5** — Druid divines whereabouts of missing person.
+- **D1816.5.1** — Druid by magic discovers whereabouts of abducted wife.
+- **D1816.6** — Magic discovery of place for (church) building.
+- **D1817** — Magic detection of crime.
+- **D1817.0.1** — Magic detection of theft.
+- **D1817.0.1.1** — Witch (wizard) reveals name of thief.
+- **D1817.0.1.2** — Wizard tells location of stolen property.
+- **D1817.0.1.3** — Wizard compels thief to return stolen property.
+- **D1817.0.1.3.1** — Wizard compels thief to deliver stolen property in person to the owner.
+- **D1817.0.1.4** — Wizard shows form or shadow or picture of thief.
+- **D1817.0.1.5** — Wizard detects thieves by placing leaf from Bible under doorstep.
+  *The guilty ones stumble over doorstep.*
+- **D1817.0.1.6** — Wizard detects thief by trance.
+- **D1817.0.2** — Magic detection of poison.
+- **D1817.0.3** — Magic detection of murder.
+- **D1817.0.4** — Magic detection of conspiracy.
+- **D1817.0.5** — Magic detection of sin.
+- **D1817.1** — Druids magically detect crime.
+- **D1817.2** — Saints magically detect crime.
+- **D1817.2.1** — Dream reveals sin to saint.
+- **D1817.2.2** — Saint magically compels thief to return goods.
+- **D1817.3** — Detection of crime through "knowledge tooth".
+- **D1818** — Magic remedy learned by magic.
+- **D1819** — Magic knowledge miscellaneous.
+- **D1819.1** — Magic knowledge of another's thoughts.
+- **D1819.1.1** — Chief reads visitor's thoughts.
+- **D1819.2** — Deception revealed in dream.
+- **D1819.3** — Magic knowledge enables man to identify headless body.
+- **D1819.4** — Learning to read by magic.
+- **D1819.4.1** — Man enabled to read baptismal service by washing in holy water.
+- **D1819.4.2** — Alphabet written on cake learned by eating it.
+- **D1819.5** — Identity of grave revealed by magic.
+- **D1819.6** — Identity of singers revealed by magic.
+- **D1819.7** — Man is able to tell king dream which king himself does not remember.
+- **D1819.8** — Magic knowledge of unborn calf.
+- **D1820** — Magic sight and hearing.
+- **D1820.1** — Magic sight of saints.
+- **D1820.1.1** — Magic sight of blind holy man.
+- **D1820.2** — Saint gives king power of long distance sight.
+- **D1820.3** — Saint blesses brothers' eyes so that they see heaven.
+- **D1821** — Means of acquiring magic sight.
+- **D1821.1** — Magic sight by treading on another's foot.
+- **D1821.2** — Magic sight from thumb of knowledge.
+  *Man cooks magic animal and burns thumb. When he puts thumb into mouth he has magic sight.*
+- **D1821.3** — Magic sight by looking in certain place.
+- **D1821.3.1** — Magic sight by looking under arm.
+- **D1821.3.2** — Magic sight by looking over right shoulder.
+- **D1821.3.3** — Magic sight by looking under one's legs.
+- **D1821.3.4** — Magic sight by looking between dog's ears.
+- **D1821.3.5** — Magic sight by looking through ring.
+- **D1821.3.5.1** — One becomes ghost-seer after looking through hole in coffin.
+- **D1821.3.6** — Magic sight by looking through keyhole.
+- **D1821.3.7** — Magic sight by looking at shining object.
+- **D1821.3.7.1** — Magic sight by looking into glass of water.
+- **D1821.3.7.2** — Magic sight by looking at polished fingernail.
+- **D1821.3.7.3** — Crystal-gazing.
+  *Clairvoyance by looking into crystal.*
+- **D1821.3.7.4** — Magic sight by looking at polished sword-blade.
+- **D1821.3.8** — Magic sight by looking at shoulder-bone of sheep.
+- **D1821.3.9** — Magic sight by looking in the hollow of one's hand.
+- **D1821.3.10** — Magic sight by looking through feather.
+- **D1821.4** — Magic sight by putting ointment into eye.
+- **D1821.5** — Magic sight by standing on certain stone.
+- **D1821.6** — Magic sight given to abandoned child.
+- **D1821.7** — Deaf and dumb man can see soul taken to happiness or punishment.
+- **D1821.8** — Possession by spirit of dead person gives second sight.
+- **D1821.9** — Magic sight by turning clothes inside out.
+- **D1821.10** — Magic sight by standing alone for three days.
+- **D1821.11** — Magic sight gift of grateful animals.
+- **D1822** — Loss of magic sight.
+- **D1822.1** — Magic sight overcome by incantation.
+- **D1825** — Kinds of magic sight.
+- **D1825.1** — Second sight.
+  *Power to see future happenings.*
+- **D1825.1.2** — Magic view of future lover.
+- **D1825.2** — Magic power to see distant objects.
+- **D1825.2.1** — Magic sight of earthly objects from otherworld.
+- **D1825.2.2** — Magic power to see whole country at once.
+- **D1825.3** — Magic power to see invisible creatures.
+- **D1825.3.1** — Magic power of seeing Death at head or foot of bed and thus forecasting progress of sickness.
+- **D1825.3.2** — Man sees angels over the heads of the good and black stars over the bad.
+- **D1825.3.3** — Magic sight: ability to see the soul (astral body).
+- **D1825.3.3.1** — Magic power to see souls after death.
+- **D1825.3.3.2** — Magic power to see soul leaving body.
+- **D1825.3.4** — Ability to see heavenly beings.
+- **D1825.3.4.1** — Ability to see angel of God.
+- **D1825.3.4.2** — Ability to see messengers of Pluto.
+- **D1825.4** — Magic power to see concealed things.
+- **D1825.4.1** — Magic power of seeing things underground.
+- **D1825.4.2** — Magic power to see whether girl is virgin.
+- **D1825.4.3** — Magic power to see lost things.
+- **D1825.4.3.1** — Prophet locates lost child.
+- **D1825.5** — Magic power to see death circumstances of absent person.
+- **D1825.6** — Magic power to "see" who will die during coming year.
+- **D1825.7** — Magic sight of incident before it actually happens.
+- **D1825.7.1** — Person sees phantom funeral procession some time before the actual procession takes place.
+- **D1825.8** — What religious ascetic sees as gold, ordinary people see as scorpions.
+- **D1825.9** — Witches have power to see distant sights.
+- **D1827** — Magic hearing.
+- **D1827.1** — Magic hearing of noises which portend death.
+- **D1827.1.1** — Listening at church door on Halloween to hear the names of those to die in the coming year.
+- **D1827.1.2** — Sounds heard before death; the sounds are later repeated in connection with the death or funeral.
+- **D1827.1.3** — Noise warns of approaching death.
+- **D1827.1.4** — Sounds heard from distance at time of death.
+- **D1827.2** — Person hears call for aid from great distance.
+- **D1830** — Magic strength.
+- **D1830.1** — Man's strength made equal to that of angel.
+- **D1831** — Magic strength resides in hair.
+- **D1831.1** — Saint binds devil with one of the hairs of her head.
+- **D1831.2** — Magic strength resides in beard.
+- **D1831.3** — Magic strength resides in semen.
+- **D1832** — Magic strength by bathing.
+- **D1833** — Magic strength by touching earth.
+- **D1834** — Magic strength from helpful animal.
+- **D1835** — Other means of acquiring magic strength.
+- **D1835.1** — Magic strength acquired by looking at necklace.
+- **D1835.2** — Magic strength given horse by combing hair right way and wrong way.
+- **D1835.3** — Magic strength by stroking.
+- **D1835.4** — Magic strength obtained by wearing blue ribbon.
+- **D1835.5** — Magic strength results from songs.
+- **D1835.6** — Magic strength from demon.
+- **D1836** — Magic waxing and waning of strength.
+  *It waxes till noon and wanes thereafter.*
+- **D1836.1** — Ghost's strength waxes and wanes with height of fire.
+- **D1836.2** — Strength wanes at particular places.
+- **D1836.3** — Magic waxing of strength at night.
+- **D1837** — Magic weakness.
+- **D1837.1** — Magic weakness during certain period.
+- **D1837.1.1** — Magic weakness for five days each year.
+- **D1837.2** — Magic weakness never entirely removed.
+- **D1837.3** — Magic weakness as result of fairy's (goddess's) curse.
+- **D1837.4** — Snake becomes powerless when his path is crossed by a pregnant woman.
+- **D1837.5** — Magic weakness from eating sender's food.
+- **D1840** — Magic invulnerability.
+- **D1840.1** — Magic invulnerability of saints.
+- **D1840.1.1** — Magic invulnerability of saint enables him to break poisonous snakes in bare hands.
+- **D1840.1.2** — Saint invulnerable to poison.
+- **D1840.1.2.1** — Poisoned drink or food made harmless by saint's blessing.
+- **D1840.1.3** — St. Cecilia withstands three blows of beheading sword and lives three days after.
+- **D1840.2** — Magic invulnerability of animals.
+- **D1840.2.1** — Invulnerable cat.
+- **D1840.2.2** — Invulnerable stag.
+- **D1840.3** — Magic invulnerability of ogres.
+- **D1841** — Invulnerability from certain things.
+- **D1841.1** — Man proof against iron, stone, and wood.
+- **D1841.2** — Man proof against boiling water.
+- **D1841.2.1** — Saint kept in boiling water for three days shows no signs of discomfort.
+- **D1841.2.2** — Bath in boiling oil, pitch, or melted lead does not hurt a saint.
+- **D1841.2.2.1** — Saint placed in boiling oil but uninjured.
+- **D1841.3** — Burning magically evaded.
+- **D1841.3.1** — Magic animal proof against burning.
+- **D1841.3.2** — Fire does not injure a saint.
+- **D1841.3.2.1** — Fiery furnace as a mean of torture for a saint remains ineffective.
+- **D1841.3.2.2** — Saint walks through glowing coals without harm.
+- **D1841.3.2.3** — Red hot iron carried with the bare hands without harm to the saint.
+- **D1841.3.2.3.1** — Saint carries fire in hand to warm guests.
+- **D1841.3.2.4** — Holy maidens carry glowing embers in their chasubles without being burned.
+- **D1841.3.3** — Sacred book or manuscript does not burn in fire.
+- **D1841.4** — Man proof against wet.
+- **D1841.4.1** — Man proof against wet from rain.
+- **D1841.4.2** — Person proof against wet from snow.
+- **D1841.4.3** — Walking upon water without wetting the soles or garments.
+- **D1841.4.3.1** — The waters of seas, lakes, and streams turn aside and let the holy man walk through untouched by moisture.
+- **D1841.4.3.2** — Stones cast in the ocean keep dry.
+- **D1841.4.4** — Rain or snow avoids certain places according to the desire of a saint or monk.
+- **D1841.4.5** — Whale husband makes wife's eyes impervious to sea water.
+- **D1841.5** — Invulnerability from weapons.
+- **D1841.5.1** — Man proof against weapons.
+- **D1841.5.1.1** — Invulnerability from hurled stones.
+- **D1841.5.2** — Magic animal proof against weapons.
+- **D1841.5.3** — Axe will not cut man, however much he strikes himself.
+- **D1841.6** — Immunity from drowning.
+- **D1841.6.1** — Magic animal proof against drowning.
+- **D1841.7** — Magic animal proof against hound.
+- **D1841.8** — Man proof against poison.
+- **D1841.9** — Invulnerability from demons.
+- **D1845** — Invulnerability for limited time.
+- **D1845.1** — Invulnerability for single day.
+- **D1845.2** — Invulnerability only when dressed in certain clothes.
+- **D1846** — Attainment of invulnerability.
+- **D1846.1** — Invulnerability by being burned and anointed with magic ointments.
+- **D1846.2** — Invulnerability bestowed by many-headed monster.
+- **D1846.3** — Magic horse renders rider invulnerable.
+- **D1846.4** — Invulnerability through bathing in dragon's blood.
+- **D1846.4.1** — Attainment of invulnerability through magic bath.
+- **D1846.5** — Invulnerability bestowed by saint.
+- **D1846.5.1** — Invulnerability by invoking saint.
+- **D1846.5.2** — Pious man in city renders it invulnerable.
+- **D1846.6** — Man killed and restored as invulnerable.
+- **D1847** — Loss of invulnerability.
+- **D1847.1** — Invulnerability lost if man forgets sweetheart.
+- **D1850** — Immortality.
+- **D1850.1** — Immortality useless without eternal youth.
+- **D1850.2** — Woman changes into an immortal.
+- **D1851** — Immortality bestowed.
+- **D1851.1** — Immortality by burning.
+- **D1851.2** — Immortality gained from bargain with Death.
+- **D1851.3** — Immortality bestowed by saint.
+- **D1851.4** — Immortality bestowed by Christ.
+- **D1851.5** — Immortality bestowed by deity.
+- **D1853** — Immortality exchanged.
+  *Wounded Centaur immortal but cannot be cured. He gives away his immortality to Prometheus and is thus allowed to die.*
+- **D1853.1** — Immortality exchanged for death on alternate days.
+- **D1854** — Giant immortal so long as he touches land of his birth.
+- **D1855** — Time of death postponed.
+- **D1855.1** — Witch delays person's death.
+- **D1855.2** — Death postponed if substitute can be found.
+- **D1855.3** — Saint delays person's death.
+- **D1855.4** — Death can be postponed if man does not break tabu for forty days.
+- **D1855.5** — Life prolonged a thousand years by traveling six months each year.
+- **D1855.6** — Death postponed for three generations.
+- **D1856** — Death evaded.
+  *Person enters on the next life without dying.*
+- **D1856.1** — Hero (saint) taken to Paradise (Heaven) alive.
+- **D1856.1.1** — "The Two Sorrows of the Kingdom of Heaven": Elijah and Enoch pass to otherworld without dying.
+- **D1856.2** — Three Nephites are granted quasi-immortal state by Jesus Christ at time of resurrection.
+- **D1857** — Magic longevity.
+- **D1857.1** — Old woman has lived for ages.
+- **D1857.2** — Two hundred years of unfailing life and happiness offered to warrior by fairy woman in exchange for one day's delay of battle.
+- **D1860** — Magic beautification.
+- **D1860.0.1** — Magic beautification of fairy.
+- **D1862** — Magic beauty bestowed.
+- **D1862.1** — Magic beauty bestowed by supernatural wife.
+- **D1862.2** — Magic beauty bestowed by saint.
+- **D1863** — Beautification by stroking (tapping).
+- **D1864** — Magic beautification through prayer by saint.
+- **D1865** — Beautification by death and resuscitation.
+- **D1865.1** — Beautification by decapitation and replacement of head.
+- **D1865.2** — Beautification by boiling and resuscitation.
+- **D1865.2.1** — Girl becomes more beautiful as she is burned but her brother, who loves her incestuously, turns to charcoal.
+- **D1865.3** — Face of pious girl becomes angelic at death.
+- **D1866** — Other means of beautification.
+- **D1866.1** — Beautification by bathing.
+- **D1866.2** — Beautification by removal of skin.
+- **D1866.3** — Beautification by fasting.
+- **D1867** — Magic beautification of house.
+- **D1867.1** — Hut becomes mansion.
+- **D1868** — Magic beautification of animal.
+- **D1868.1** — Broken-down nag becomes magnificent riding horse.
+- **D1870** — Magic hideousness.
+- **D1871** — Girl magically made hideous.
+- **D1872** — Man made hideous.
+- **D1872.1** — Handsome man magically made ugly.
+- **D1873** — Object magically made hideous.
+- **D1873.1** — Picture magically made hideous.
+- **D1880** — Magic rejuvenation.
+- **D1881** — Magic self-rejuvenation.
+- **D1882** — Rejuvenation by supernatural person.
+- **D1882.1** — Rejuvenation by saint.
+- **D1882.2** — Rejuvenation by fairy.
+- **D1883** — Eternal youth.
+- **D1884** — Rejuvenation by dismemberment.
+- **D1885** — Rejuvenation by boiling.
+- **D1885.1** — Rejuvenation by dismemberment and boiling.
+- **D1886** — Rejuvenation by burning.
+- **D1886.1** — Rejuvenation by burning and throwing bones into tub of milk.
+- **D1887** — Rejuvenation by bathing.
+- **D1889** — Miscellaneous means of rejuvenation.
+- **D1889.1** — Rejuvenation by reading in book.
+- **D1889.2** — Rejuvenation by looking into mirror.
+- **D1889.3** — Rejuvenation by song of pelican.
+- **D1889.4** — Rejuvenation by smelling apple.
+- **D1889.5** — Rejuvenation by going to other world and having digestive tract removed.
+- **D1889.6** — Rejuvenation by changing skin.
+- **D1889.7** — Rejuvenation by being reborn.
+  *Man in fish form eaten and reborn.*
+- **D1889.8** — Rejuvenation by riding surf.
+- **D1889.9** — Rejuvenation by drinking from magic horn.
+- **D1889.10** — Rejuvenation by conjuring.
+- **D1889.11** — Rejuvenation by jumping over cliff.
+- **D1890** — Magic aging.
+- **D1891** — Transformation to old man to escape recognition.
+- **D1895** — Magic aging by bathing.
+- **D1896** — Magic aging by contact with earth after otherworld journey.
+- **D1897** — Youngest of the three Magi becomes the senior through power of the Savior.
+
+## Love induced by magic
+
+- **D1900** — Love induced by magic.
+- **D1900.0.1** — Love purified by magic.
+- **D1900.1** — Favor with royalty induced by magic.
+- **D1901** — Witches induce love.
+- **D1903** — Power of inducing love given by animals.
+- **D1904** — Love-compelling man sickens of bargain.
+  *A man given the power of making all women love him is smothered to death by them.*
+- **D1905** — Means of inducing love.
+- **D1905.1** — Girl's heart magically removed and fed to man draws her to him.
+- **D1905.2** — Apple divided and eaten as love charm.
+- **D1905.3** — Love by curse.
+- **D1908** — Love lost by magic.
+- **D1908.1** — Husband's love magically turns to hatred.
+- **D1910** — Magic memory.
+- **D1910.0.1** — Book written by man with marvelous memory.
+- **D1911** — Person remembers all he has ever learned.
+- **D1920** — Other permanent magic characteristics.
+- **D1921** — Magic carrying power of voice.
+- **D1922** — Magic power of hearing.
+- **D1923** — Power to hit whatever one aims at.
+- **D1924** — Magic immunity from fatigue.
+- **D1925** — Fecundity magically induced.
+- **D1925.1** — Barrenness removed by eating or drinking.
+- **D1925.2** — Barrenness removed by bathing.
+- **D1925.3** — Barrenness removed by prayer.
+- **D1925.4** — Barrenness removed by saint's blessing.
+- **D1926** — Craftsmanship magically bestowed by saint.
+- **D1927** — Appetite magically diminished.
+- **D1931** — Hate induced by magic.
+- **D1932** — Druids can pass through trees.
+- **D1933** — Magic power of lighting empty lamp by breathing on it used for divination.
+- **D1935** — Any work touched automatically done.
+- **D1936** — Magic fleetness of foot.
+- **D1936.1** — Donning skin makes woman fleet.
+- **D1960** — Magic sleep.
+- **D1960.1** — Seven sleepers.
+  *(Rip Van Winkle.) Magic sleep extending over many years.*
+- **D1960.1.1** — Mighty sleeper.
+- **D1960.2** — Kyffhduser.
+  *King asleep in mountain (Barbarossa, King Marko, Holger Danske, etc.) will awake one day to succor his people.*
+- **D1960.2.1** — King asleep in mountain will awake when his horse's shoes are worn down.
+  *Every seven years the horse goes around the castle. He must wear his half-inch silver shoes to thinness of cat's ear before the king awakes.*
+- **D1960.3** — Sleeping Beauty.
+  *Magic sleep for definite period (e.g., a hundred years).*
+- **D1960.4** — Deathlike sleep.
+- **D1961** — Sleepless watcher magically put to sleep.
+  *Usually has a magic watchful eye, which remains awake while his many other eyes sleep. (Argus).*
+- **D1962** — Means of inducing magic sleep.
+- **D1962.1** — Magic sleep through curse.
+- **D1962.2** — Magic sleep by lousing.
+  *Picking the lice from the head of an old person or an ogre is used to put him to sleep.*
+- **D1962.3** — Magic sleep by hairdressing.
+  *Head laid on another's lap.*
+- **D1962.3.1** — Magic sleep brought on by combing hero's hair lasts six months.
+- **D1962.4** — Magic sleep by hypnotic suggestion.
+- **D1962.4.1** — Lulling to sleep by "sleepy" stories (songs).
+- **D1962.4.2** — Song (crunbn) used to lull children to sleep.
+- **D1962.5** — Snakes put to sleep by music on harp.
+- **D1962.6** — Magic sleep from breaking tabu.
+- **D1962.6.1** — Magic sleep when hero breaks fruit open too soon.
+- **D1964** — Magic sleep induced by certain person.
+- **D1964.1** — Savage elephant lulled to sleep by virgin.
+- **D1964.2** — Magic sleep induced by disappointed suitor.
+- **D1964.3** — Magic sleep induced by abductor.
+- **D1964.4** — Magic sleep induced by druid.
+- **D1964.5** — Magic sleep induced by saint.
+- **D1964.6** — Magic sleep induced by deity.
+- **D1965** — Guardian magically made to sleep while girl goes to lover.
+- **D1965.1** — Guardian magically made to sleep while lover visits maiden.
+- **D1967** — Person in magic sleep surrounded by protecting fire.
+- **D1967.1** — Person in magic sleep surrounded by protecting hedge.
+- **D1971** — Three-fold magic sleep.
+  *Husband (lover) put to sleep by false bride. Only on the third night (the last chance) he wakes.*
+- **D1978.4** — Hero wakened from magic sleep by wife who has purchased place in his bed from false bride.
+- **D1972** — Lover's magic sleep at rendezvous.
+  *A lover (husband) is to meet his mistress but magically oversleeps.*
+- **D1973** — Magic sleep: in order to sleep off period of enchantment.
+- **D1975** — Dragon-fighter's magic sleep.
+  *While waiting for fight with dragon, hero falls into magic sleep.*
+- **D1976** — Experiences during magic sleep.
+- **D1976.1** — Transportation during magic sleep.
+- **D1976.2** — Future spouse met during magic sleep.
+- **D1978** — Waking from sleep.
+- **D1978.1** — Waking from magic sleep by cutting off finger.
+- **D1978.2** — Waking from magic sleep by letting tear fall on sleeper.
+- **D1978.3** — Waking from magic sleep by removal of enchanting instrument.
+- **D1978.4** — Hero wakened from magic sleep by wife who has purchased place in his bed from false bride.
+- **D1978.5** — Waking from magic sleep by kiss.
+- **D1980** — Magic invisibility.
+- **D1981** — Certain persons invisible.
+- **D1981.1** — Magic invisibility of gods.
+- **D1981.2** — Magic invisibility of saints.
+- **D1981.3** — Magic invisibility of druids.
+- **D1981.4** — Magic invisibility of ogre.
+- **D1981.5** — Magic invisibility of priests.
+- **D1981.6** — Magic invisibility of angels.
+- **D1982** — Certain objects invisible.
+- **D1982.1** — Magic door invisible to women.
+- **D1982.2** — Ship made invisible.
+- **D1982.3** — Chariot made invisible.
+- **D1982.4** — Food and drink appear and disappear in otherworld.
+- **D1982.5** — Boat made invisible.
+- **D1983** — Invisibility conferred on person.
+- **D1983.1** — Invisibility conferred by a god.
+- **D1983.2** — Invisibility conferred by fairy.
+- **D1985** — Means of acquiring invisibility.
+- **D1985.1** — Invisibility by scarification.
+- **D1985.2** — Invisibility by reciting formula backwards.
+
+## Magic forgetfulness
+
+- **D2000** — Magic forgetfulness.
+- **D2003** — Forgotten fiancie.
+  *Young husband visiting his home breaks tabu and forgets his wife. Later she succeeds in reawakening his memory.*
+- **D2003.1** — Husband magically forgets wife.
+- **D2004** — Means of bringing about magic forgetfulness.
+- **D2004.1** — Curse of forgetfulness.
+- **D2004.2** — Kiss of forgetfulness.
+- **D2004.2.1** — Dog's licking of man produces forgetfulness.
+- **D2004.3** — Forgetfulness by eating.
+- **D2004.3.1** — Forgetfulness by drinking.
+- **D2004.4** — Forgetfulness by spitting.
+- **D2004.5** — Forgetting by stumbling.
+  *A name or formula is magically forgotten when one stumbles (or jumps).*
+- **D2004.5.1** — Forgetting by stepping over log.
+- **D2004.6** — Magic forgetting of wife when husband removes shirt she has given him.
+- **D2004.7** — Forgetfulness from fright.
+- **D2004.8** — Forgetfulness by mourning.
+- **D2004.9** — Forgetfulness caused by specific place.
+- **D2004.9.1** — Forgetfulness caused by Tower of Babel.
+- **D2004.10** — Barking of brazen dogs causes forgetfulness.
+- **D2006** — Magic reawakening of memory.
+- **D2006.1** — Forgotten fiancie reawakens husband 's memory.
+- **D2006.1.1** — Forgotten fiancie reawakens husband 's memory by detaining lovers through magic.
+  *Heroine takes up residence near home of her forgetful husband. She is apparently going to permit a lover to sleep with her when she detains him by having him try to place some magic birds on their roost. They continue to fall down throughout the night. (Or the lover is left magically sticking to a calf's tail or other object.) The thwarted lover tells of his experience, and in this way the attention of the husband is gained.*
+- **D2006.1.2** — Forgotten fiancie reawakens husband 's memory by serving as milkmaid and talking to calf.
+- **D2006.1.3** — Forgotten fiancie reawakens husband 's memory by having magic doves converse.
+- **D2006.1.4** — Forgotten fiancie buys place in husband 's bed and reawakens his memory.
+- **D2006.1.5** — Forgotten fiancie attracts attention by magically stopping wedding carriage of new bride.
+- **D2006.1.6** — Forgotten fiancie remembered by means of doll.
+- **D2006.1.7** — Forgotten fiancie remembered by means of bird.
+- **D2006.1.8** — Piece of wood revives memory.
+- **D2006.1.9** — Forgotten wife remembered by seeing her initials.
+- **D2006.1.10** — Forgotten wife gives food to beggar: husband's memory reawakened.
+- **D2006.2** — Sight of old home reawakens memory and brings about return from other world.
+- **D2006.2.1** — Longing of human child of sky-mother to visit father on earth.
+- **D2011** — Years thought days.
+- **D2011.1** — Years seem moments while man listens to song of bird.
+- **D2011.1.1** — Day seems moment while saint listens to music made by bird's wing.
+- **D2011.1.2** — Three days and three nights seem one hour as saint preaches.
+- **D2011.2** — Two friars perceive no passing of time from Shrovetide till following Easter while they talk of Christ.
+- **D2011.3** — Years are as moments to creator.
+- **D2012** — Moments thought years.
+  *In a moment a person seems to experience events of many years.*
+- **D2012.1** — King in the bath; years of experience in a moment.
+  *This illusion takes place when the king puts his head under water.*
+- **D2012.2** — Wizard gives man the illusion that he has been away twenty (forty) years.
+- **D2020** — Magic dumbness.
+- **D2021** — Causes of magic dumbness.
+- **D2021.1** — Dumbness as curse.
+- **D2025** — Magic recovery of speech.
+- **D2025.0.1** — Magic (loss and) recovery of speech.
+- **D2025.1** — Speech magically recovered on execution stake.
+- **D2025.2** — Speech magically recovered when certain bird is caught.
+- **D2025.3** — Speech magically recovered when third person guesses secret transaction.
+- **D2025.4** — Dumbness magically cured by astonishment.
+- **D2025.5** — Speech magically recovered on Hallowe'en.
+- **D2030** — Other temporary magic characteristics.
+- **D2031** — Magic illusion.
+- **D2031.0.1** — Saints cause illusions.
+- **D2031.0.2** — Fairies cause illusions.
+- **D2031.0.3** — Magic illusion dissipated by sign of the cross.
+- **D2031.0.4** — Druids cause illusions.
+- **D2031.0.5** — Giantess' punishment is pure illusion.
+- **D2031.1** — Magician makes people lift garments to avoid wetting in imaginary river.
+- **D2031.1.2** — People swim in imaginary rising river.
+- **D2031.2** — Thread made to appear as a large log carried by a cock.
+- **D2031.3** — Pursued animal runs through imaginary river.
+- **D2031.4** — Hideous person magically makes self seem beautiful.
+- **D2031.4.1** — Druid makes self appear ugly on one side, beautiful on other.
+- **D2031.4.2** — Magician appears as swineherd, dwarf, and giant in order to seduce queen and scorns her later in the same shapes.
+- **D2031.4.3** — Magician appears as beggar or old man in order to free prisoners.
+- **D2031.5** — Man magically made to believe himself bishop, archbishop, and pope.
+  *When he continues to refuse payment to the magician, the latter shows him the reality.*
+- **D2031.6** — Magic illusion as protection.
+- **D2031.6.1** — Man made to appear to pursuers as woman carrying babe.
+- **D2031.6.2** — Son made to appear to pursuers as spinning wheel, buck, and hog.
+- **D2031.6.3** — Lonesome wife scares robbers by making it appear that her husband is at home.
+- **D2031.6.4** — Pursuers confused in other ways by magic illusion.
+- **D2031.7** — Horse made to appear as tree-trunk.
+- **D2031.8** — Armies separated with illusion that each has won object of contention.
+- **D2031.9** — Enemy's last arrow made to appear crooked so that he does not use it, and adversary gets time to kill him.
+- **D2031.10** — Spear made to appear as a reed in order to kill treacherously.
+- **D2031.11** — Illusive fire stops men.
+- **D2031.12** — Sea water made to behave like solid earth.
+- **D2031.13** — Magic rath always seems distant, never near.
+- **D2031.14** — Illusion: mountains seem to be fighting.
+- **D2031.15** — Goat appears to be two every time man aims.
+- **D2031.16** — Vision of food arises to tempt fasting women.
+- **D2031.17** — Storm appears to be island.
+- **D2031.18** — Person appears to be in several places at once.
+- **D2032** — Magic avoidance of fatigue.
+- **D2033** — Thirst magically caused to disappear.
+- **D2034** — Crying induced by magic as trick to force child's mother.
+- **D2035** — Magic heaviness.
+- **D2036** — Magic homesickness.
+- **D2038** — Animal becomes magically larger.
+- **D2038.1** — Centipede becomes large enough to kill demon.
+- **D2050** — Destructive magic power.
+- **D2060** — Death or bodily injury by magic.
+- **D2061** — Magic murder.
+- **D2061.1** — Kinds of death produced by magic.
+- **D2061.1.1** — Person magically reduced to ashes.
+- **D2061.1.1.1** — Person magically reduced to pile of bones.
+- **D2061.1.2** — Persons magically caused to dance selves to death.
+- **D2061.1.3** — Poisoning by magic.
+- **D2061.1.4** — Persons magically made to decay and die.
+- **D2061.1.5** — Plague magically invoked.
+- **D2061.2** — Means employed in magic murder.
+- **D2061.2.1** — Death-giving glance.
+- **D2061.2.1.1** — Evil eye sets bird on fire.
+- **D2061.2.2** — Murder by sympathetic magic.
+  *An object or an animal is abused or destroyed to bring about the death of a person.*
+- **D2061.2.2.1** — Person whose shadow is pierced by spear falls dead.
+- **D2061.2.2.2** — Spell chanted over person's shadow brings death.
+- **D2061.2.2.3** — Murder by abuse or destruction of image.
+- **D2061.2.2.4** — Body of victim abused.
+- **D2061.2.2.4.1** — Hair of victim burned, causing his death.
+- **D2061.2.2.5** — Murder by abuse of clothing of victim.
+- **D2061.2.2.5.1** — Murder by boiling gloves of victim.
+- **D2061.2.2.6** — Candle burned causes victim to waste away.
+- **D2061.2.2.7** — Animals abused or destroyed to cause death of person.
+- **D2061.2.2.8** — Miscellaneous objects abused to cause death.
+- **D2061.2.2.8.1** — Needle, placed under hearth, burns and causes death of victim.
+- **D2061.2.3** — Murder by pointing.
+- **D2061.2.4** — Death by cursing.
+- **D2061.2.4.1** — Death in sin (damnation) by cursing.
+- **D2061.2.4.2** — Curse of clergy causes man to die of wound.
+- **D2061.2.5** — Hunter reduced to ashes by power of heroine's chastity.
+- **D2061.2.6** — Person killed by spike magically made to appear on chair.
+- **D2061.2.7** — Murder by showing man caul with which he was born.
+- **D2061.2.8** — Horse made to hang himself on gate by magic.
+- **D2061.2.9** — Breathing on enemy drives him onto knife.
+- **D2062** — Maiming by magic.
+- **D2062.1** — Heart removed by magic.
+- **D2062.2** — Blinding by magic.
+- **D2062.2.1** — Blinding by curse.
+- **D2062.2.1.1** — Person suffers from "crookedness in his eye" as result of curse.
+- **D2062.2.2** — Sight of holy person causes blindness.
+- **D2062.2.3** — Person caused to squint as punishment.
+- **D2062.2.4** — Enemies magically caused to lose sight of each other while hunting.
+- **D2062.2.5** — Magic blindness by snake bite.
+- **D2062.2.6** — When certain thief coughs, watchmen become blind.
+- **D2062.3** — Flesh magically does not regrow.
+- **D2062.4** — Magic mutilation: sexual organs.
+- **D2062.4.1** — Bride enchanted by witch loses her sexual organs.
+- **D2062.4.2** — Castration by magic.
+- **D2062.5** — Magic mutilation: temporary growths on person.
+- **D2063** — Magic discomfort.
+- **D2063.1** — Tormenting by magic.
+- **D2063.1.1** — Tormenting by sympathetic magic.
+  *Person (usually witch) tormented by abusing an animal or object. The usual methods of abuse are burning or sticking with pins.*
+- **D2063.2** — Magic restlessness in bed.
+- **D2063.3** — Magic insatiable thirst.
+- **D2063.3.1** — Druids cause magic thirst.
+- **D2063.3.1.1** — Saints cause magic thirst.
+- **D2063.4** — Magic scratching (itching).
+- **D2063.5** — Magic discomfort: continued breaking of wind.
+- **D2063.6** — Man magically made to bark like dog.
+- **D2064** — Magic sickness.
+- **D2064.0.1** — Magic love-sickness.
+- **D2064.0.2** — Magic heart-sickness.
+- **D2064.0.3** — Magic pestilence.
+- **D2064.1** — Magic sickness because girl has thrown away her consecrated wafer.
+- **D2064.2** — Sickness of princess dependent on witch's fire.
+  *When fire is high, princess is very sick. Princess recovers when fire is put out.*
+- **D2064.3** — Sickness transferred to animal.
+- **D2064.4** — Magic sickness because of Evil Eye.
+- **D2064.5** — Magic sickness from curse.
+- **D2064.6** — Magic sickness from wounding sick person.
+- **D2064.7** — Magic sickness from bit of weapon left in head.
+- **D2064.8** — Magic sickness by making fruit plant dry and shrivel.
+- **D2065** — Magic insanity.
+- **D2065.1** — Madness from demonic possession.
+- **D2065.2** — Insanity from seeing strange sight.
+- **D2065.2.1** — Magic insanity caused by hearing strange sound.
+- **D2065.3** — Druids bereave men of senses.
+- **D2065.4** — Insanity of princess dependent on height of fire.
+- **D2065.5** — Insanity because of Evil Eye.
+- **D2065.6** — Person abducted by Echo crazed and dumb.
+- **D2065.7** — Insanity from curse.
+- **D2066** — Elfshot.
+- **D2066.1** — Elves get stones from fairies who get them from mermaids.
+  *The devil does the finishing work on the stones.*
+- **D2069** — Death or bodily injury by magic miscellaneous.
+- **D2069.1** — Person magically caused to fall.
+- **D2069.1.1** — Person made to fall down by pointing at door.
+- **D2069.2** — People magically compelled to bend arm.
+- **D2070** — Bewitching.
+- **D2070.1** — Magic hair-ball used for bewitching.
+- **D2071** — Evil Eye.
+  *Bewitching by means of a glance.*
+- **D2071.0.1** — Evil eye covered with seven veils.
+- **D2071.0.1.1** — Evil eye covered with bag or hide while owner is stoned.
+- **D2071.0.2** — Evil eye from exposure to magic concoction.
+- **D2071.0.3** — Man with power of evil eye cannot look at any living thing before breaking fast in the morning without causing it to wither and die.
+- **D2071.1** — Averting Evil Eye.
+- **D2071.1.1** — Evil eye averted by spitting.
+- **D2071.1.2** — Evil eye averted by swinging cat over child's cradle.
+- **D2071.1.3** — Simulated change of sex to baffle Evil Eye.
+- **D2071.1.4** — Black as guard against Evil Eye.
+- **D2071.1.5** — Countermagic against Evil Eye: returning glance of Evil Eye blights the original glancer.
+- **D2071.2** — Person kills with Evil Eye.
+- **D2071.2.1** — Person kills animals with glance of Evil Eye.
+- **D2072** — Magic paralysis.
+  *Person or thing rendered helpless.*
+- **D2072.0.1** — Sword made magically helpless.
+- **D2072.0.2** — Animal rendered immovable.
+- **D2072.0.2.1** — Horse enchanted so that he stands still.
+- **D2072.0.2.1.1** — Horse (ox) unable to move wagon paralyzed by witch.
+- **D2072.0.2.2** — Bird paralyzed.
+- **D2072.0.2.2.1** — Person charged with keeping birds from the crops confines them in barn (usually roofless) by magic while he goes to town.
+- **D2072.0.2.3** — Oxen paralyzed.
+- **D2072.0.2.4** — Mule paralyzed by witch.
+- **D2072.0.2.5** — Pigs paralyzed by witch.
+- **D2072.0.2.6** — Dog paralyzed.
+- **D2072.0.3** — Ship held back by magic.
+- **D2072.0.4** — Bird overpowered by stepping on his shadow.
+  *Drops the stolen meat.*
+- **D2072.0.5** — Person paralyzed.
+- **D2072.0.5.1** — Witch prevents person from drinking.
+- **D2072.0.5.2** — Person who yawns cannot close mouth.
+- **D2072.0.5.3** — Magic paralysis of tongue of a talkative wife.
+- **D2072.1** — Magic paralysis by Evil Eye.
+- **D2072.2** — Magic paralysis by curse.
+- **D2072.2.1** — Charm used by witch to cause paralysis.
+- **D2072.3** — Magic paralysis caused by saint.
+- **D2072.4** — Magic prevention of performance of task.
+- **D2072.5** — Robber-proof house: thieves are petrified when they enter house for unlawful purposes; are fed and welcomed, otherwise.
+- **D2072.6** — Paralysis by singing magic song.
+- **D2074** — Attracting by magic.
+- **D2074.1** — Animals magically called.
+- **D2074.1.1** — Mammals magically called.
+- **D2074.1.1.1** — Buffalo magically called.
+- **D2074.1.1.2** — Deer summoned by singing.
+- **D2074.1.1.3** — Bear summoned by magic.
+- **D2074.1.2** — Fish or sea animals magically called.
+- **D2074.1.2.1** — Coyote calls the largest fish.
+- **D2074.1.3** — Birds magically called.
+- **D2074.2** — Magic means of attracting.
+- **D2074.2.1** — Person summoned by thinking of him.
+- **D2074.2.2** — Summoning by burning hair.
+- **D2074.2.2.1** — Long-plaited hair struck on ground summons female goddess to aid of owner.
+- **D2074.2.3** — Summoning by wish.
+- **D2074.2.3.1** — Mistress summoned by wish.
+- **D2074.2.3.2** — Ship summoned by wish.
+- **D2074.2.4** — Genie called by writing his name on papers and burning them.
+- **D2074.2.4.1** — Foster-mother summoned by saying her name.
+- **D2074.2.4.2** — Animals summoned by pronouncing their names.
+- **D2074.2.4.3** — Helper summoned by calling his name.
+- **D2074.2.4.4** — Order for spirit's help left on card.
+- **D2074.2.5** — Summoning by prayer.
+- **D2074.2.5.1** — Imprisoned cleric comes to answer saint's prayers in ritual.
+- **D2076** — Saint magically causes druids to bless instead of curse.
+- **D2078** — Imprisoning by magic.
+- **D2078.1** — Witch made to enter boulder magically and imprisoned therein.
+- **D2079** — Other forms of bewitching.
+- **D2079.1** — Magic compulsion to break wind under certain conditions.
+- **D2080** — Magic used against property.
+- **D2081** — Land made magically sterile.
+- **D2081.1** — Earth dried up in three years while hero is under earth.
+- **D2082** — Trees killed by magic.
+- **D2082.0.1** — Trees magically made fruitless.
+- **D2082.0.2** — Tree magically withers.
+- **D2082.1** — Magic glance reduces tree to ashes.
+  *Another restores it.*
+- **D2082.2** — Anchorite consumes tree by one blast of his fiery breath.
+- **D2083** — Evil magic in the dairy.
+- **D2083.1** — Cows magically made dry.
+- **D2083.2** — Cows made to give bad milk.
+- **D2083.2.1** — Witches make cows give bloody milk.
+- **D2083.2.2** — Witch causes cow to give curdled milk.
+- **D2083.3** — Milk transferred from another's cow by magic.
+- **D2083.3.1** — Milk transferred from another's cow by squeezing an axehandle (or the like).
+- **D2083.3.2** — Witch transfers milk from another's cows by use of hair rope.
+- **D2083.3.3** — Witch transfers milk from another's cows to a vessel.
+- **D2083.4** — Butter transferred from another by magic.
+- **D2084** — Industrial processes magically interrupted.
+- **D2084.1** — Beer magically kept from brewing.
+- **D2084.2** — Butter magically kept from coming.
+- **D2084.3** — Saint causes dyes to work incorrectly.
+- **D2085** — Game animals magically made overwary.
+- **D2085.1** — Curse (by saint) makes river (lake) barren of fish.
+- **D2086** — Weapons magically dulled.
+- **D2086.1** — Sword magically dulled.
+- **D2086.1.1** — Execution sword turned to wood.
+- **D2086.2** — Guns rendered ineffective by witch.
+- **D2086.3** — Weapons magically blown out of enemies' hands.
+- **D2087** — Theft by magic.
+- **D2087.1** — Crops stolen by magic.
+- **D2087.2** — Hunter's prey stolen during night by magic.
+- **D2087.3** — Sheep or cattle disappear every night.
+- **D2087.3.1** — Cow and cowherd disappear every New Year's night.
+- **D2087.4** — Men disappear every night.
+- **D2087.5** — Gold stolen by magic.
+- **D2087.6** — Food stolen by magic.
+- **D2087.7** — Witches rifle drawers of chests in house.
+- **D2087.8** — Witch steals potatoes, leaving no traces.
+- **D2088** — Locks opened by magic.
+- **D2088.0.1** — All locks opened on the night of Christ's Nativity.
+- **D2088.1** — Fairy gains entrance to locked city.
+- **D2089** — Magic used against property miscellaneous.
+- **D2089.1** — Man makes all of iron in enemy's storehouse disappear so weapons cannot be made.
+- **D2089.2** — Curse makes stones useless.
+- **D2089.3** — Animals magically stricken dead.
+- **D2089.3.1** — Swine magically kept from fattening.
+- **D2089.4** — Saint causes mill to turn backwards.
+- **D2089.5** — Books illegible as result of curse.
+- **D2089.6** — House destroyed by magic.
+- **D2089.7** — Goods magically diminish.
+- **D2089.7.1** — Food dwindles as soon as it is cooked.
+- **D2089.8** — Clothes burned by magic.
+- **D2089.9** — Trail magically closed.
+- **D2089.9.1** — Trail magically covered with thorns.
+- **D2089.10** — Fire drills magically made not to function.
+- **D2090** — Other destructive magic powers.
+- **D2091** — Magic attack against enemy.
+- **D2091.1** — Magic fire drawn down on foe.
+- **D2091.2** — Magic plague of frogs drawn down on foe.
+- **D2091.2.1** — Magic army of snakes and frogs drawn down on foe.
+- **D2091.3** — Streams of blood magically drawn down on foe.
+- **D2091.4** — Magic causes enemies to fight among selves.
+- **D2091.5** — Storms magically drawn down on foe.
+- **D2091.6** — Enemies magically made to feel thirst.
+- **D2091.7** — Magic lake (river) sent against enemy.
+- **D2091.7.1** — River magically caused to rise against enemy.
+- **D2091.8** — Magic drought to destroy enemy.
+- **D2091.8.1** — Druids dry up water in enemy's camp.
+- **D2091.9** — Magic paralysis drawn down on foe.
+- **D2091.10** — Magic heat causes enemies to melt away.
+- **D2091.10.1** — Stones, etc., magically made to burn feet of enemies.
+- **D2091.11** — Black cloud magically blown upon enemy.
+- **D2091.12** — Plants and animals magically caused to shriek, frightening enemy.
+- **D2091.13** — Army stopped by saint's curse.
+- **D2091.14** — Magician shoots an arrow of each finger against enemy.
+- **D2091.15** — Magic earth-slip overcomes enemies.
+- **D2091.16** — Enemy magically enclosed within walls.
+- **D2092** — Man caused to sink into mud.
+- **D2093** — Walls overthrown by magic (Jericho).
+- **D2094** — Pestilence magically sent upon (domestic) animals.
+- **D2095** — Magic disappearance.
+- **D2095.1** — Magic village and people disappear by magic.
+- **D2096** — Magic putrefaction.
+- **D2097** — Magic trouble-making.
+- **D2098** — Ship magically sunk.
+- **D2099** — Miscellaneous destructive magic powers.
+- **D2099.1** — Loss of skill through magic.
+- **D2099.2** — Magic banishment.
+- **D2099.3** — House crushed by magic.
+- **D2099.4** — Calabashes broken by magic.
+
+## Magic wealth
+
+- **D2100** — Magic wealth.
+- **D2100.1** — Inexhaustible treasure.
+- **D2100.2** — Coin multiplies itself.
+- **D2101** — Treasure magically discovered.
+- **D2101.1** — Treasure found by sprinkling ground with blood of white cock.
+- **D2101.2** — Shower of jewels magically drawn from sky.
+- **D2102** — Gold magically produced.
+- **D2102.1** — Gold vomited.
+- **D2102.2** — Valley fills with gold at command.
+- **D2102.2.1** — Field turns to gold after ascetic plows it.
+- **D2102.3** — Saint magically produces treasure.
+- **D2102.4** — "Golden" son of supernatural bride of king has the power of producing gold and gold buildings, ornaments etc.
+- **D2102.5** — Magic corn eaten by animal becomes gold.
+- **D2103** — Silver magically produced.
+- **D2105** — Provisions magically furnished.
+- **D2105.1** — Provisions provided in answer to prayer.
+- **D2105.1.1** — Starvation prevented by composition of hymn.
+- **D2105.2** — Provisions provided by messenger from heaven.
+- **D2105.3** — Rubbish magically becomes food and clothing.
+- **D2105.3.1** — Trash magically becomes food.
+- **D2105.4** — Drink magically furnished.
+- **D2105.5** — Saint causes fish to come out of lake to satisfy guests for whom he has no food.
+- **D2105.6** — Showers of grain called down.
+- **D2105.7** — Fruit obtained from tree by magic.
+- **D2106** — Magic multiplication of objects.
+- **D2106.1** — Magic multiplication of objects by saints.
+- **D2106.1.1** — Saint causes waters to be filled with fish.
+- **D2106.1.1.1** — Fish caught in waterless field.
+- **D2106.1.2** — Animals miraculously multiplied.
+- **D2106.1.3** — Multiplication of metal by saint.
+- **D2106.1.4** — Multiplication of the corpse of saint when different communities claim the body.
+- **D2106.1.5** — Multiplication of food by saint.
+- **D2106.2** — One sack of charcoal makes a hundred.
+- **D2106.3** — Tree with all sorts of cakes hanging from its branches springs from one cake.
+- **D2107** — Warrior's equipment magically furnished.
+- **D2107.1** — Horse and weapons needed by hero are provided after incense is offered to Nandia, the Bull.
+- **D2120** — Magic transportation.
+- **D2121** — Magic journey.
+- **D2121.1** — Magic journey by wishing.
+- **D2121.2** — Magic journey with closed eyes.
+  *Person must not open eyes while on the journey.*
+- **D2121.3** — Magic journey through power of imagination.
+- **D2121.4** — Magic journey by making distance vanish.
+  *The road is contracted or the earth folded up.*
+- **D2121.5** — Magic journey: man carried by spirit or devil.
+- **D2121.6** — Magic journey during which one must not think good or evil.
+- **D2121.7** — Magic journey in cloud.
+- **D2121.7.1** — Magic journey in cloud of fire.
+- **D2121.7.2** — Magic journey in whirl of snow.
+- **D2121.7.3** — Magic transportation on smoke.
+- **D2121.8** — Magic journey by throwing knife into whirlwind.
+- **D2121.9** — Magic transportation from kick of a horse.
+- **D2121.10** — Magic journey on sunbeam.
+- **D2121.11** — Magic journey: man left on land appears in ship.
+- **D2121.12** — Power to go through closed doors.
+- **D2121.13** — Sailing in a leaky boat without sinking.
+- **D2121.14** — Saint rides on thorn tree and drags its roots through earth to dig out canal.
+- **D2121.15** — Magic compulsion to make journey.
+- **D2122** — Journey with magic speed.
+- **D2122.0.1** — Journey to otherworld with magic speed.
+- **D2122.1** — Magic speed by eating magic grains (medicine).
+- **D2122.2** — Hundred-league stride.
+- **D2122.3** — Magic journey as swift as thought.
+- **D2122.4** — Journey with speed of angels.
+- **D2122.5** — Journey with magic speed by saint.
+- **D2125** — Magic journey over water.
+- **D2125.0.1** — Saint causes earth to rise underfoot, enabling him to cross water.
+- **D2125.0.2** — Saint drives over bog as over land.
+- **D2125.1** — Magic power to walk on water.
+- **D2125.1.1** — Magic transportation by waves.
+- **D2125.1.1.1** — Saint rides blessed wave.
+- **D2125.2** — Magic transportation on a sheet of ice.
+- **D2125.3** — Person crosses water in chariot.
+- **D2126** — Magic underwater journey.
+- **D2131** — Magic underground journey.
+- **D2135** — Magic air journey.
+- **D2135.0.1** — Levitation.
+  *Person able to raise self in the air.*
+- **D2135.0.2** — Object magically raised in air.
+- **D2135.0.2.1** — Stone cross magically raised in air.
+- **D2135.0.3** — Magic ability to fly.
+- **D2135.1** — Power of flying from eating children's hearts.
+- **D2135.2** — Magic air journey from biting an ear.
+- **D2135.3** — Stones fly through the air at saint's bidding.
+- **D2135.4** — Magic transportation to highest summit by divine power.
+- **D2135.5** — Objects sent through air.
+- **D2136** — Objects magically moved.
+- **D2136.1** — Rocks moved by magic.
+- **D2136.2** — Castle magically transported.
+- **D2136.2.1** — Mosque turns around in order to face in the true direction of Mecca after prayers of two saints.
+- **D2136.2.2** — Sunken palace magically raised.
+- **D2136.3** — Mountains (hills) magically transported.
+- **D2136.3.1** — Mountain moved by prayer.
+- **D2136.4** — Lake magically transported.
+- **D2136.4.1** — Saint drives lake into sea.
+- **D2136.5** — Saint's possessions magically transported.
+- **D2136.6** — Island magically transported.
+- **D2136.7** — Well magically transported.
+- **D2136.8** — Ship moved by sacrifice.
+- **D2136.9** — Magic house removed.
+- **D2136.10** — Objects magically sent to certain place.
+- **D2137** — Natural law suspended.
+- **D2137.1** — Witch keeps water from boiling.
+- **D2140** — Magic control of the elements.
+- **D2140.1** — Control of weather by saint's prayers.
+- **D2140.1.1** — Saint has power to control winds and storms at will.
+- **D2140.2** — Shaman's wife controls weather.
+- **D2140.3** — Weather changed on confession of deed.
+- **D2141** — Storm produced by magic.
+- **D2141.0.1** — Storm from calling on evil spirit.
+- **D2141.0.2** — Storm from calling up spirits to help find buried treasure.
+- **D2141.0.3** — Storms produced by devil.
+- **D2141.0.4** — Storm at death of wizard.
+  *Devil comes for him.*
+- **D2141.0.5** — Storm at death of wicked person.
+  *Devil comes for him.*
+- **D2141.0.6** — Storm because of bird's singing.
+- **D2141.0.7** — Storm raised by incantation.
+- **D2141.0.7.1** — Storm produced by prayer.
+- **D2141.0.8** — Storms raised by druids.
+- **D2141.0.8.1** — Storm calmed by wizard (druid).
+- **D2141.0.9** — Storm raised by saint.
+- **D2141.0.10** — Woman hoists skirt to raise thunderstorm.
+- **D2141.0.11** — Magic storm produced by animal.
+- **D2141.0.11.1** — Magic storm produced by serpent.
+- **D2141.0.12** — Magic storm by pointing root of tree at sky.
+- **D2141.1** — Storm magically stilled.
+- **D2141.1.1** — Church bell rung as protection against storm.
+  *To thwart devil.*
+- **D2141.2** — Storm raised to defeat enemy.
+- **D2142** — Winds controlled by magic.
+- **D2142.0.1** — Magician (witch) controls winds.
+- **D2142.0.1.1** — Witch sells power to control winds.
+- **D2142.0.1.2** — Witch sits atop mast, causes winds to blow.
+- **D2142.0.2** — Saint controls winds.
+- **D2142.0.3** — Druid controls winds.
+- **D2142.0.4** — Leper controls winds.
+- **D2142.0.5** — Wind controlled by girl's spirit.
+- **D2142.1** — Wind produced by magic.
+- **D2142.1.1** — Wind raised by dog's wagging tail.
+- **D2142.1.2** — Wind raised by loosing certain knots.
+- **D2142.1.3** — Wind raised by calling on devil.
+- **D2142.1.4** — Wind raised by troubling vessel of water.
+- **D2142.1.4.1** — Wind raised by throwing traitor's ashes into lake.
+- **D2142.1.5** — Wind raised by putting cat under bushel (barrel) (drowning cat).
+- **D2142.1.6** — Wind raised by whistling.
+- **D2142.1.6.1** — Wind raised by blowing into tobacco pipe.
+- **D2142.2** — Wind stilled by magic.
+- **D2142.2.1** — Wind stopped by revenant.
+- **D2143** — Precipitation controlled by magic.
+- **D2143.1** — Rain produced by magic.
+- **D2143.1.0.1** — Rain caused to fall in certain place (by rain-god).
+- **D2143.1.0.2** — No rain falls on religious man.
+- **D2143.1.1** — Rain produced by pouring water.
+- **D2143.1.2** — Rain produced by singing.
+- **D2143.1.3** — Rain produced by prayer.
+- **D2143.1.4** — Rain produced by spitting blood toward sky.
+- **D2143.1.5** — Rain produced by plowing.
+- **D2143.1.6** — Shower from magic anvil.
+- **D2143.1.7** — Rain produced by striking rock.
+- **D2143.1.8** — Rainstorm produced by emptying contents of bag in road.
+- **D2143.1.9** — Witch draws rain or snow from clouds with wave of his hand.
+- **D2143.1.10** — Wizard sells charm to raise rainstorm to enable eloping couple to escape pursuers.
+- **D2143.1.11** — Certain man must laugh in order for it to rain.
+- **D2143.1.12** — Arrival of saint brings rain to rainless land.
+- **D2143.1.13** — White elephant can make rain fall.
+- **D2143.2** — Drought produced by magic.
+- **D2143.2.1** — Church spared in flood because of prayers.
+- **D2143.2.2** — Magic spear stuck in earth dries up spring.
+- **D2143.3** — Fog produced by magic.
+- **D2143.3.1** — Heavy fog is at once dispelled by a saint.
+- **D2143.4** — Hail produced by magic.
+- **D2143.4.1** — Hail produced by whistling tune.
+- **D2143.5** — Frost produced by magic.
+- **D2143.5.1** — Old woman has control over frost.
+- **D2143.6** — Magic control of snow.
+- **D2143.6.1** — Snow taken away by planting certain root.
+- **D2143.6.2** — Wall of snow around hut in answer to prayer.
+- **D2143.6.3** — Snow produced by magic.
+- **D2143.6.4** — Snow magically caused to melt (burn).
+- **D2143.6.5** — Snow magically caused to last.
+- **D2144** — Magic control of cold and heat.
+- **D2144.1** — Cold produced by magic.
+- **D2144.1.1** — Porcupine as controller of cold.
+- **D2144.1.2** — Man with power to make everything freeze.
+  *Wears cap over ear. Should he wear it straight everything would freeze.*
+- **D2144.2** — Contest of heat and cold.
+  *Magicians contest with each other in producing heat or cold that will overcome the other.*
+- **D2144.3** — Heat produced by magic.
+- **D2144.3.1** — Cold water in winter made warm by a saint.
+- **D2144.4** — Burning by magic.
+- **D2144.4.1** — Person burned through magic wishing (curse).
+- **D2144.5** — Ice controlled by magic.
+- **D2144.5.1** — Ice produced by magic.
+- **D2144.5.2** — Ice melted by magic.
+- **D2145** — Magic control of seasons.
+- **D2145.1** — Winter magically produced.
+- **D2145.1.1** — Local winter.
+  *Winter produced in one place while it is summer everywhere else.*
+- **D2145.2** — Summer produced by magic.
+- **D2145.2.1** — Summer magically lengthened.
+- **D2145.2.2** — Fruit magically grows in winter.
+- **D2145.2.2.1** — Vineyard in full fruit and blooming palm found in winter on the night of Christ's Nativity.
+- **D2145.2.2.2** — Tree blooms out of season.
+- **D2146** — Magic control of day and night.
+- **D2146.1** — Day controlled by magic.
+- **D2146.1.1** — Day magically lengthened.
+- **D2146.1.1.1** — Druid causes sun to stand still for two days.
+- **D2146.1.1.2** — Supernatural person (adulterer) causes sun to stand still for nine months.
+- **D2146.1.2** — Day magically shortened.
+- **D2146.1.3** — Day produced by magic.
+- **D2146.2** — Night controlled by magic.
+- **D2146.2.1** — Night produced by magic.
+- **D2146.2.2** — Night magically lengthened.
+- **D2146.2.3** — Night magically shortened.
+- **D2146.2.4** — Earth darkened because of Sun's defeat in race against Coyote.
+- **D2146.2.5** — Saint banishes night for a year.
+- **D2147** — Magic control of clouds.
+- **D2147.1** — Cloud magically made to cover sun.
+- **D2147.2** — Cloud magically appears.
+- **D2147.3** — A cloud evoked by a saint.
+- **D2148** — Earth magically caused to quake.
+- **D2148.1** — Angel causes earth to quake, releasing prisoners for saint.
+- **D2148.2** — Saint is able to produce earthquakes at will.
+- **D2148.3** — Stopping the eruption of a volcano by a saint.
+- **D2149** — Magic control of the elements miscellaneous.
+- **D2149.1** — Thunderbolt magically produced.
+- **D2149.1.1** — Witch produces lightning.
+- **D2149.2** — Saint magically causes mountain to melt away.
+- **D2149.3** — Saint causes sun to come down and cook for him.
+- **D2149.4** — Magic control of gravitation.
+- **D2149.4.1** — Saint prevents rocks from falling.
+- **D2149.4.2** — Ring that has dropped into water rises to surface.
+- **D2149.5** — Rice paddies flooded or dried by toad's tears or laughter.
+- **D2149.6** — Magic control of heavenly bodies.
+- **D2149.7** — Magic control of rainbow.
+- **D2150** — Miscellaneous magic manifestations.
+- **D2151** — Magic control of waters.
+- **D2151.0.1** — Saint regulates temperature of waters.
+- **D2151.0.2** — Waters made to dry up.
+- **D2151.0.3** — Wall of water magically warded off.
+- **D2151.1** — Magic control of seas.
+- **D2151.1.1** — Sea produced by magic.
+- **D2151.1.2** — Tide held back.
+- **D2151.1.2.1** — Tide held back by Virgin Mary.
+- **D2151.1.2.2** — Tide held back by saint.
+- **D2151.1.2.3** — Grave on shore rises with the tide.
+- **D2151.1.3** — Sea calmed by prayer.
+- **D2151.1.4** — Sea appears like flowery plain.
+- **D2151.2** — Magic control of rivers.
+- **D2151.2.1** — Direction of river's flow magically reversed.
+- **D2151.2.1.1** — River with flow magically divided.
+  *(Part stands still, rest flows.)*
+- **D2151.2.2** — Saint causes river to rise and overflow.
+- **D2151.2.3** — Rivers magically made dry.
+- **D2151.2.3.1** — Evil spirit holds back water.
+- **D2151.2.4** — Saint causes a river to freeze over in summer.
+- **D2151.2.5** — Stream magically appears.
+- **D2151.2.5.1** — River appears at prayer of desert travelers.
+- **D2151.2.6** — River magically widened.
+- **D2151.3** — Magic control of waves.
+- **D2151.3.1** — Magic tidal wave.
+- **D2151.3.2** — Dashing waves do not touch saint.
+- **D2151.4** — Magic calming of whirlpool.
+- **D2151.5** — Magic control of pond (tank).
+- **D2151.5.1** — Water raised from tank by singing.
+- **D2151.5.1.1** — Water raised from tank by burying ring in it.
+- **D2151.5.2** — Pond magically dried up.
+- **D2151.6** — Magic control of wells (springs).
+- **D2151.6.1** — Saint causes wells to fail.
+- **D2151.6.2** — Man makes all waters of spring flow into a small brass pot.
+- **D2151.7** — Magic control of lakes.
+- **D2151.7.1** — Saint causes lake to dry up.
+- **D2151.8** — Magic flood.
+- **D2152** — Magic control of mountains.
+- **D2152.1** — Magic leveling of mountain.
+- **D2152.2** — Magician able to cast mountains upon enemies.
+- **D2152.3** — Mountain magically blown away.
+- **D2152.4** — Magic heightening of mountain.
+- **D2152.5** — Mountain moved by saint.
+- **D2153** — Magic control of rocks.
+- **D2153.1** — Rock in sea created by magic.
+- **D2153.1.1** — Island created by magic.
+- **D2156** — Magic control over animals.
+- **D2156.1** — Magic power to make does give milk.
+- **D2156.2** — Miraculous increasing of milk from one cow.
+- **D2156.2.1** — Cow supplies sufficient milk for the saint and all his disciples.
+- **D2156.3** — Saint forces a beast (leopard, wolf) to bring back stolen child (domestic animal) to his mother (owner).
+- **D2156.4** — Wild boar reprimanded about its maraudings by saint.
+  *The command is obeyed.*
+- **D2156.5** — Vicious snakes easily controlled by saint.
+- **D2156.5.1** — Saint orders a serpent which had bitten a man to withdraw its venom.
+- **D2156.5.2** — Snakes expelled from human body by saint's intervention.
+- **D2156.6** — Saint destroys disastrous insects.
+- **D2156.7** — Saint orders the cicadas to sing the praises of God or be silent, because they disturb his preaching.
+- **D2156.8** — Wolf is forced by saint to be substitute for eaten calf.
+- **D2156.9** — Saint causes cuckoo to call in winter.
+- **D2156.10** — Horses (oxen) from sea put temporarily into man's service.
+- **D2156.11** — Saint kills lion with his slipper.
+- **D2157** — Magic control of soil and crops.
+- **D2157.1** — Land made magically fertile.
+- **D2157.1.1** — Saint scratches surface of earth with his spear and treasures of gold and silver are revealed.
+- **D2157.2** — Magic quick growth of crops.
+- **D2157.2.0.1** — Rice grows in single day.
+- **D2157.2.1** — Magic quick growth of saint's crops.
+- **D2157.2.2** — Saint causes wheat to ripen prematurely in the time of a famine.
+- **D2157.3** — Withered and dead trees suddenly blossom at saint's command.
+- **D2157.3.1** — Apple trees bear as result of saint's blessing.
+- **D2157.3.2** — Tree regains life and verdure after treasure it hides in its roots is given away.
+- **D2157.4** — Miraculous speedy growth of a tree.
+- **D2157.5** — Poor soil transformed into lovely garden overnight.
+- **D2157.6** — Field cultivated and sowed by magic.
+- **D2158** — Magic control of fires.
+- **D2158.1** — Magic kindling of fire.
+- **D2158.1.1** — Fox produces fire by striking tail to ground.
+- **D2158.1.2** — Saint sets fire to stone.
+- **D2158.1.3** — Fire obeys the saints.
+- **D2158.1.3.1** — Control of conflagrations by a saint personally or by his relics.
+- **D2158.1.3.2** — Fire turns aside and refuses to catch hold of holy garments, wooden altars and similar sacred things.
+- **D2158.1.4** — Magician opens his eyes and forest burns for twenty-four miles in front of him.
+- **D2158.1.5** — Saint creates fire unnaturally when needed.
+- **D2158.1.5.1** — Saint kindles her lamp or candle without using fire.
+- **D2158.1.5.2** — Cooking and baking done without fire.
+- **D2158.2** — Magic extinguishing of fires.
+- **D2161** — Magic healing power.
+- **D2161.1** — Magic cure for specific diseases.
+- **D2161.1.1** — Magic cure of leprosy.
+- **D2161.1.2** — Magic cure for fever.
+- **D2161.1.3** — Woman's labor pains magically eased.
+- **D2161.2** — Magic cure of wound.
+- **D2161.2.1** — Steaks cut from live cow who heals herself by magic.
+- **D2161.2.2** — Flow of blood magically stopped.
+- **D2161.2.3** — Magic cure of burns.
+- **D2161.3** — Magic cure of physical defect.
+- **D2161.3.1** — Blindness magically cured.
+- **D2161.3.1.1** — Eyes torn out magically replaced.
+- **D2161.3.2** — Magic restoration of severed hand.
+- **D2161.3.3** — Magic cure of broken limbs.
+- **D2161.3.3.1** — Witch burns her child's legs for wood, then covers child with sheet and child is whole.
+- **D2161.3.4** — Baldness magically cured.
+- **D2161.3.4.1** — Feathered skin magically grafted to bald head.
+- **D2161.3.5** — Deafness magically cured.
+- **D2161.3.6** — Dumbness magically cured.
+- **D2161.3.6.1** — Magic restoration of cut-out tongue.
+- **D2161.3.7** — Lameness magically cured.
+- **D2161.3.7.1** — Lame animal magically cured.
+- **D2161.3.8** — Insanity magically cured.
+- **D2161.3.8.1** — Remedy for epilepsy.
+- **D2161.3.9** — Bad breath magically cured.
+- **D2161.3.10** — Sterility magically cured.
+- **D2161.3.11** — Barrenness magically cured.
+- **D2161.4** — Methods of magic cure.
+- **D2161.4.0.1** — Cure after following instructions received from saint in dream.
+- **D2161.4.1** — Cure by transferring disease to animal.
+- **D2161.4.2** — Disease transferred to object.
+- **D2161.4.2.1** — Ghost transfers boil to a post.
+- **D2161.4.2.2** — Saint transfers disease to his bell (bachall).
+- **D2161.4.2.3** — Saint transfers thorn in foot to rock.
+- **D2161.4.2.4** — Disease transferred to tree.
+- **D2161.4.3** — Cure by passing through earth at crossroads.
+- **D2161.4.4** — Person cured by repairing image that has same deformity.
+- **D2161.4.5** — Cure by passing patient through cleft of tree (other loop).
+- **D2161.4.6** — Animal buried alive to cure disease.
+- **D2161.4.7** — Animal burned to cure disease.
+  *Especially for disease among animals.*
+- **D2161.4.8** — Cure by burning grain where man has died.
+- **D2161.4.9** — Baptism as magic cure.
+- **D2161.4.9.1** — Other religious ceremony as magic cure.
+  *Sign of cross, prayer, etc.*
+- **D2161.4.10** — Disease cured by same thing (person) that caused it.
+- **D2161.4.10.0.1** — Only one person possesses power to heal certain wound.
+- **D2161.4.10.1** — Wound healed by same spear that caused it.
+- **D2161.4.10.2** — Wound healed only by person who gave it.
+  *(Or by member of his family.)*
+- **D2161.4.10.2.1** — Fairy wounded by mortal is healed only by obtaining mortal's blessing.
+- **D2161.4.10.2.2** — Snake sucks poison from snake bite.
+- **D2161.4.10.3** — Healing with hair of dog that bit one.
+- **D2161.4.10.4** — Sorrowing father magically restored as lost son approaches.
+  *He had lost strength, sight and hearing when son left home.*
+- **D2161.4.10.5** — Blindness cured by killing snake that caused it.
+- **D2161.4.11** — Cure by putting children on roof (in oven).
+- **D2161.4.12** — Magic cure during sleep.
+- **D2161.4.13** — Eating of human hearts as cure for insomnia.
+- **D2161.4.14** — Magic cure by bathing.
+- **D2161.4.14.1** — Magic cure by bathing in milk.
+- **D2161.4.14.1.1** — Wounds from poisoned arrows healed by bath of milk.
+- **D2161.4.14.2** — Magic cure by bathing in consecrated water (lake, etc.).
+- **D2161.4.14.3** — Cure by washing in dew.
+- **D2161.4.15** — Magic cure by lying on saint's shadow.
+- **D2161.4.16** — Magic cure by touching.
+- **D2161.4.16.1** — Magic healing by passing hand over affected parts.
+- **D2161.4.17** — Magic cure by licking.
+- **D2161.4.18** — Cure by putting lock of patient's hair in hole of post or tree, then plugging hole with wood.
+- **D2161.4.19** — Methods of magic cure miscellaneous.
+- **D2161.4.19.1** — Barber begins to recover after he reveals raja's secret.
+- **D2161.5** — Magic cure by certain person.
+- **D2161.5.1** — Cure by holy man.
+- **D2161.5.2** — Cure by Virgin Mary.
+- **D2161.5.2.1** — Cure at shrine of Virgin Mary.
+- **D2161.5.2.2** — Cure by relic of Virgin Mary.
+- **D2161.5.2.3** — Cure by milk of Virgin Mary.
+- **D2161.5.2.4** — Severed limbs replaced by Virgin Mary.
+- **D2161.5.2.5** — Cure of spider bite by the Virgin Mary.
+- **D2161.5.2.6** — Terrible headaches cured by Virgin Mary.
+- **D2161.5.3** — Cure by deity.
+- **D2161.5.4** — Cure by Moses.
+- **D2161.5.5** — Cure by angel.
+- **D2161.5.6** — Cure by surviving twin.
+- **D2161.5.7** — Cure by seventh son of seventh daughter.
+- **D2161.6** — Diseases cured at particular time.
+- **D2161.6.1** — All diseases healed at birth of Christ.
+- **D2161.6.2** — Diseases cured in Messeanic era.
+- **D2161.6.3** — Diseases cured at holy man's birth.
+- **D2162** — Magic control of disease.
+- **D2162.1** — Saint ends epidemic by fasting.
+- **D2162.2** — Epidemic stops at river (sea) at saint's command.
+- **D2162.3** — Locality sanctified against pestilence (by angel) as result of prayer and fasting.
+- **D2162.4** — People living on mountain dedicated to angel free from plague.
+- **D2163** — Magic defense in battle.
+- **D2163.1** — Broken weapons magically restored.
+- **D2163.2** — Magic reinforcements.
+  *Hero's followers magically multiplied or whole new army conjured up.*
+- **D2163.2.1** — Heavenly help in battle.
+- **D2163.3** — Virgin Mary intercepts an arrow in battle.
+- **D2163.4** — Magic mist as defense in battle.
+- **D2163.5** — Saint's prayer wins battle.
+- **D2163.5.1** — Saint's prayer brings large flight of birds carrying stones in talons.
+  *These missiles dropped upon enemies cause terror.*
+- **D2163.5.2** — Saint changes vicious king's heart to peaceful thoughts.
+- **D2163.5.2.1** — Letter read by holy man stops emperor from devastating country.
+- **D2163.6** — Obstructions magically produced before enemy.
+- **D2163.6.1** — Saint causes great forest to spring up between opposing forces.
+- **D2163.6.2** — Saint causes wall of cakes to spring up between opposing armies.
+- **D2163.7** — Enemy's army deceived by illusion produced by saint.
+- **D2163.8** — Saint's blessing brings victory.
+- **D2163.9** — Saint protects followers against bullets by stretching sheet over their heads.
+- **D2165** — Escapes by magic.
+- **D2165.1** — Escape by flying through the air.
+- **D2165.2** — Escape from drowning by drying up all waters.
+- **D2165.3** — Magic used to prevent pursuit.
+- **D2165.4** — Opening in house made by magic so as to escape.
+- **D2166** — Magic help from falling.
+- **D2167** — Corpse magically saved from corruption.
+- **D2167.1** — Food magically saved from corruption.
+- **D2167.2** — Book magically saved from decay.
+- **D2167.3** — Flowers magically kept from withering.
+- **D2168** — Magic used against poison.
+- **D2168.1** — Poison magically separated from drink.
+- **D2171** — Magic adhesion.
+- **D2171.1** — Object magically attaches itself to a person.
+- **D2171.1.1** — Seat (chair) caused to stick to person.
+- **D2171.1.2** — Tankard caused to stick to person's lips.
+- **D2171.1.3** — Person magically sticks to floor (ground).
+- **D2171.2** — Magic adhesion to monster (witch, ogre, etc.).
+  *(Old Man of the Sea, Burr-Woman).*
+- **D2171.3** — Magic adhesion to animal.
+- **D2171.3.1** — Magic adhesion to goose.
+- **D2171.3.2** — Magic adhesion to swan.
+- **D2171.3.3** — Magic adhesion to turtle.
+- **D2171.3.4** — Magic adhesion to hose.
+- **D2171.4** — Objects magically stick together.
+- **D2171.4.1** — Pitcher magically sticks to ground.
+- **D2171.4.2** — Cauldron magically sticks to wall.
+- **D2171.4.3** — Witch causes towel to adhere to wall.
+- **D2171.5** — Persons magically stick together.
+- **D2171.6** — Clothes cling supernaturally to body.
+- **D2171.7** — Man's feet fixed to pavement so that he cannot move until he makes vow.
+- **D2171.8** — Witch causes milk to stay in overturned pail.
+- **D2172** — Continuing magic acts.
+- **D2172.1** — Magic repetition.
+  *Person must keep on doing or saying thing until released.*
+- **D2172.2** — Magic gift: power to continue all day what one starts.
+  *One woman measures linen; another throws water on pig.*
+- **D2173** — Magic singing.
+- **D2174** — Magic dancing.
+  *Enchanted persons dance till released.*
+- **D2175** — Cursing by magic.
+- **D2175.1** — Cursing by means of a well.
+- **D2175.2** — Saint's bachall used in cursing.
+- **D2175.3** — Magic satire (magic song) as curse.
+- **D2175.4** — Saint's bell used in cursing.
+- **D2175.5** — Curse magically changed to blessing.
+- **D2176** — Exorcising by magic.
+- **D2176.0.1** — Saint sanctifies locality against death.
+- **D2176.1** — Snakes banned by magic.
+- **D2176.2** — Lice banned by magic.
+- **D2176.3** — Evil spirit exorcised.
+- **D2176.3.1** — Evil spirit exorcised by burning fish.
+- **D2176.3.1.1** — Evil spirit exorcised by burning medicine.
+- **D2176.3.2** — Evil spirit exorcised by religious ceremony.
+- **D2176.3.3** — Evil spirit exorcised by saint.
+- **D2176.3.3.0.1** — Evil spirits exorcised by death of saint.
+- **D2176.3.3.1** — Demons in stone images driven out by holy man (saint).
+- **D2176.3.3.2** — Saint purifies spring by driving out demon.
+- **D2176.3.3.3** — Saint throws ink bottle at devil who annoys him.
+- **D2176.3.3.4** — Saint's breath drives away the devil.
+- **D2176.3.4** — Devil cast out of man possessed.
+- **D2176.4** — Magic book conjured away by throwing it on stream.
+- **D2176.5** — Burning cut hair to prevent witchcraft.
+- **D2176.6** — Exorcising invisible man by flailing air with peach branch.
+- **D2177** — Imprisoning by magic.
+- **D2177.1** — Demon enclosed in bottle.
+- **D2177.1.1** — Demons imprisoned by magic.
+- **D2177.2** — Demon imprisoned in pomegranate.
+- **D2177.3** — Evil spirits imprisoned in stone.
+- **D2177.4** — Evil spirits kept out by stone wall.
+- **D2178** — Objects produced by magic.
+- **D2178.1** — City built by magic.
+- **D2178.2** — Cattle produced by magic.
+- **D2178.3** — Pavilions produced by magic.
+- **D2178.4** — Animals created by magic.
+- **D2178.4.1** — Magic production of rabbits.
+- **D2178.4.2** — Noxious animals produced by magic.
+- **D2178.5** — People created by magic.
+- **D2178.6** — Ceremonial presents produced by magic.
+- **D2178.7** — Whatever goldsmith proposes to make comes into existence by itself in the forge.
+- **D2178.8** — Tree produced by magic.
+- **D2178.9** — Flower produced by magic.
+- **D2182** — Flow of cow's milk increased by licking saint's garment.
+- **D2182.1** — Flow of cow's milk increased by saint.
+- **D2182.2** — Flow of cow's milk increased by song (music).
+- **D2183** — Magic spinning.
+  *Usually performed by a supernatural helper.*
+- **D2184** — People magically continue hurting themselves.
+  *Try to drive ox but drive themselves; to stab it but stab themselves; etc.*
+- **D2184.1** — People magically made to strike selves blows aimed at another.
+- **D2185** — Magician carries woman in glass coffin.
+  *She comes out at his will.*
+- **D2185.1** — Fairy personage (god?)
+  *houses mistress in crystal bower.*
+- **D2186** — Cat in wood-pile prevents axe from cutting.
+- **D2188** — Magic disappearance.
+- **D2188.1** — Ability to disappear or appear at will.
+- **D2188.1.1** — Garment appears and disappears in reply to command.
+- **D2188.2** — Person vanishes.
+- **D2188.2.1** — Man disappears, leaving only his ring.
+- **D2188.3** — Village vanishes.
+- **D2191** — Roast ducks fly (by magic).
+- **D2192** — Work of day magically overthrown at night.
+- **D2192.1** — Supernatural agency moves new church foundation (or building materials) to another site, at night.
+- **D2193** — Flowers drop on washing hands.
+- **D2194** — Dung drops on washing hands.
+- **D2195** — Blighted garden magically restored to beauty.
+- **D2195.1** — Flower blooms when touched.
+- **D2196** — Saint causes fiery sword to come between hostile king and queen.
+- **D2197** — Magic dominance over animals.
+- **D2198** — Magic control of spirits (angels).
+- **D2199** — Additional magic manifestations.
+- **D2199.1** — Bottomless tub (vat) holds water through power of saint.
+- **D2199.2** — Tools sharpened through power of saint.
+  *Slaves forced to hew down yew tree with dull tools: hands bleed.*
