@@ -4,94 +4,68 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Literary Generators</title>
+  <link rel="stylesheet" href="../../css_js/5eadb.css">
   <style>
-    :root {
-      --bg: #1a1719;
-      --bg-surface: #242024;
-      --bg-hover: #2a2530;
-      --text: #d4c8cc;
-      --text-muted: #8a8290;
-      --text-faint: #6a6270;
-      --accent: #c4707e;
-      --accent-hover: #d4848f;
-      --border: #3a3440;
-      --badge-bg: #312a35;
-      --badge-text: #c4a0aa;
-    }
-    @media (prefers-color-scheme: light) {
-      :root {
-        --bg: #f5eff0; --bg-surface: #ebe3e5; --bg-hover: #e2d8dc;
-        --text: #3a2830; --text-muted: #8a7880; --text-faint: #a89098;
-        --accent: #963a4a; --accent-hover: #b04858; --border: #d4c4c8;
-        --badge-bg: #e8d8dc; --badge-text: #703040;
-      }
-    }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; background: var(--bg); color: var(--text); line-height: 1.75; min-height: 100vh; }
-    .container { max-width: 42em; margin: 0 auto; padding: 24px 20px; }
-    header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 1px solid var(--border); }
+    * { box-sizing: border-box; }
+    .container { max-width: 42em; margin: 0 auto; }
+    header { text-align: center; margin-bottom: 32px; padding-bottom: 24px; border-bottom: 1px solid #ddd; }
     header h1 { font-family: Georgia, "Times New Roman", serif; font-size: 2em; letter-spacing: -0.02em; margin-bottom: 8px; }
-    header p { color: var(--text-muted); font-size: 15px; }
-    header .repo-link { display: inline-block; margin-top: 12px; font-size: 13px; color: var(--accent); text-decoration: none; padding: 4px 12px; border: 1px solid var(--border); border-radius: 6px; transition: background 0.15s, color 0.15s; }
-    header .repo-link:hover { background: var(--bg-hover); color: var(--accent-hover); }
-    .tabs { display: flex; gap: 0; margin-bottom: 24px; border-bottom: 2px solid var(--border); overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+    header p { color: #666; font-size: 15px; }
+    header .repo-link { display: inline-block; margin-top: 12px; font-size: 13px; color: #963a4a; text-decoration: none; padding: 4px 12px; border: 1px solid #ccc; border-radius: 6px; transition: background 0.15s; }
+    header .repo-link:hover { background: #e9e9e9; }
+    .tabs { display: flex; gap: 0; margin-bottom: 24px; border-bottom: 2px solid #ddd; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
     .tabs::-webkit-scrollbar { display: none; }
-    .tab { padding: 10px 20px; font-family: Georgia, "Times New Roman", serif; font-size: 15px; cursor: pointer; border: none; background: none; color: var(--text-muted); border-bottom: 2px solid transparent; margin-bottom: -2px; white-space: nowrap; flex-shrink: 0; transition: color 0.15s, border-color 0.15s; }
-    .tab:hover { color: var(--text); }
-    .tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+    .tab { padding: 10px 20px; font-family: Georgia, "Times New Roman", serif; font-size: 15px; cursor: pointer; border: none; background: none; color: #666; border-bottom: 2px solid transparent; margin-bottom: -2px; white-space: nowrap; flex-shrink: 0; transition: color 0.15s, border-color 0.15s; min-height: auto; margin: 0 0 -2px 0; }
+    .tab:hover { color: #333; background: none; }
+    .tab.active { color: #963a4a; border-bottom-color: #963a4a; }
     .generator { display: none; }
     .generator.active { display: block; }
     .filter-row, .control-row { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
-    label.filter-label { font-size: 13px; color: var(--text-muted); }
-    select, button { font-family: inherit; font-size: 13px; padding: 6px 12px; background: var(--bg-surface); color: var(--text); border: 1px solid var(--border); border-radius: 4px; }
+    label.filter-label { font-size: 13px; color: #666; }
+    select, button { font-family: inherit; font-size: 14px; padding: 6px 12px; min-height: auto; margin: 2px; }
     select { max-width: 260px; }
-    button { cursor: pointer; transition: background 0.15s; }
-    button:hover { background: var(--bg-hover); }
-    button.generate-btn { padding: 6px 20px; background: var(--accent); color: var(--bg); border-color: var(--accent); font-weight: 600; }
-    button.generate-btn:hover { background: var(--accent-hover); border-color: var(--accent-hover); }
+    button.generate-btn { padding: 8px 20px; background: #963a4a; color: white; border-color: #963a4a; font-weight: 600; }
+    button.generate-btn:hover { background: #b04858; border-color: #b04858; }
     .results { margin-top: 16px; }
-    .result-item { padding: 12px 0; border-bottom: 1px solid var(--border); }
-    .source-badge { display: inline-block; font-size: 10px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 7px; border-radius: 3px; background: var(--badge-bg); color: var(--badge-text); margin-bottom: 6px; }
+    .result-item { padding: 12px 0; border-bottom: 1px solid #ddd; }
+    .source-badge { display: inline-block; font-size: 10px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; padding: 2px 7px; border-radius: 3px; background: #f0e8ea; color: #703040; margin-bottom: 6px; }
     .result-quote { font-family: Georgia, "Times New Roman", serif; font-size: 17px; font-style: italic; line-height: 1.75; white-space: pre-line; }
     .result-attr { display: flex; align-items: center; justify-content: space-between; margin-top: 6px; }
-    .result-ref { font-size: 12px; color: var(--text-muted); }
+    .result-ref { font-size: 12px; color: #666; }
     .expand-area { margin-top: 6px; }
-    .expand-btn { font-size: 11px; padding: 2px 8px; color: var(--text-muted); border: 1px solid var(--border); }
-    .expand-content { display: none; white-space: pre-line; font-family: Georgia, "Times New Roman", serif; font-size: 14px; font-style: italic; line-height: 1.75; margin-top: 8px; padding: 10px 14px; border-left: 3px solid var(--accent); background: var(--bg-surface); border-radius: 0 4px 4px 0; }
+    .expand-btn { font-size: 11px; padding: 2px 8px; color: #666; border: 1px solid #ccc; }
+    .expand-content { display: none; white-space: pre-line; font-family: Georgia, "Times New Roman", serif; font-size: 14px; font-style: italic; line-height: 1.75; margin-top: 8px; padding: 10px 14px; border-left: 3px solid #963a4a; background: #f9f9f9; border-radius: 0 4px 4px 0; }
     .expand-content.visible { display: block; }
     .copy-btn { font-size: 11px; padding: 2px 8px; flex-shrink: 0; }
     .copy-all-btn { font-size: 11px; padding: 4px 12px; margin-top: 8px; display: none; }
     .copy-all-btn.visible { display: inline-block; }
-    .quote-hero { margin-bottom: 24px; padding: 16px 20px; border-left: 4px solid var(--accent); background: var(--bg-surface); border-radius: 0 6px 6px 0; }
+    .quote-hero { margin-bottom: 24px; padding: 16px 20px; border-left: 4px solid #963a4a; background: #f9f9f9; border-radius: 0 6px 6px 0; }
     .quote-controls { margin-top: 10px; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-    .history-panel { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--border); }
+    .history-panel { margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; }
     .history-panel h2 { font-family: Georgia, "Times New Roman", serif; font-size: 1.2em; margin-bottom: 4px; display: flex; align-items: center; justify-content: space-between; }
-    .history-toggle { font-size: 12px; color: var(--text-muted); cursor: pointer; background: none; border: none; padding: 0; }
-    .history-toggle:hover { color: var(--accent); background: none; }
+    .history-toggle { font-size: 12px; color: #666; cursor: pointer; background: none; border: none; padding: 0; min-height: auto; }
+    .history-toggle:hover { color: #963a4a; background: none; }
     .history-list { margin-top: 10px; }
     .history-list.collapsed { display: none; }
-    .history-entry { padding: 10px 0; border-bottom: 1px solid var(--border); }
-    .history-meta { font-size: 11px; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 4px; }
-    .history-quote { font-family: Georgia, "Times New Roman", serif; font-size: 14px; font-style: italic; color: var(--text); margin-bottom: 2px; }
-    .history-ref { font-size: 11px; color: var(--text-muted); }
-    .blog-posts { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--border); }
+    .history-entry { padding: 10px 0; border-bottom: 1px solid #ddd; }
+    .history-meta { font-size: 11px; color: #888; text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 4px; }
+    .history-quote { font-family: Georgia, "Times New Roman", serif; font-size: 14px; font-style: italic; color: #333; margin-bottom: 2px; }
+    .history-ref { font-size: 11px; color: #666; }
+    .blog-posts { margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; }
     .blog-posts h2 { font-family: Georgia, "Times New Roman", serif; font-size: 1.3em; letter-spacing: -0.01em; margin-bottom: 4px; }
-    .blog-intro { font-size: 13px; color: var(--text-muted); margin-bottom: 12px; }
-    .blog-intro a { color: var(--accent); text-decoration: none; }
+    .blog-intro { font-size: 13px; color: #666; margin-bottom: 12px; }
+    .blog-intro a { color: #963a4a; text-decoration: none; }
     .blog-intro a:hover { text-decoration: underline; }
     .blog-posts ul { list-style: none; padding: 0; }
-    .blog-posts li { padding: 6px 0; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
-    .blog-posts li a { color: var(--text); text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 3px; text-decoration-thickness: 1px; transition: text-decoration-color 0.15s, color 0.15s; font-size: 14px; }
-    .blog-posts li a:hover { color: var(--accent); text-decoration-color: var(--accent); }
-    .post-date { font-size: 12px; color: var(--text-faint); white-space: nowrap; flex-shrink: 0; }
-    .note { margin-top: 40px; padding-top: 20px; border-top: 1px solid var(--border); font-size: 13px; color: var(--text-muted); text-align: center; }
+    .blog-posts li { padding: 6px 0; border-bottom: 1px solid #ddd; display: flex; justify-content: space-between; align-items: baseline; gap: 12px; }
+    .blog-posts li a { color: #333; text-decoration: underline; text-decoration-color: #ddd; text-underline-offset: 3px; text-decoration-thickness: 1px; font-size: 14px; }
+    .blog-posts li a:hover { color: #963a4a; text-decoration-color: #963a4a; }
+    .post-date { font-size: 12px; color: #888; white-space: nowrap; flex-shrink: 0; }
+    .note { margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; font-size: 13px; color: #666; text-align: center; }
     .note p { margin-bottom: 8px; }
-    .note a { color: var(--accent); text-decoration: underline; text-decoration-color: var(--border); text-underline-offset: 3px; text-decoration-thickness: 1px; transition: text-decoration-color 0.15s; }
-    .note a:hover { text-decoration-color: var(--accent); }
-    .error { color: #e0707a; }
-    ::selection { background: rgba(196, 112, 126, 0.2); }
-    @media (prefers-color-scheme: light) { ::selection { background: rgba(150, 58, 74, 0.15); } }
-    @media (prefers-reduced-motion: reduce) { * { transition-duration: 0s !important; } }
+    .note a { color: #963a4a; text-decoration: underline; text-decoration-color: #ddd; text-underline-offset: 3px; }
+    .note a:hover { text-decoration-color: #963a4a; }
+    .error { color: #c0392b; }
   </style>
 </head>
 <body>
@@ -106,7 +80,7 @@
       <div id="quote-results"></div>
       <div class="quote-controls">
         <button class="generate-btn" id="quote-reload">New Quote</button>
-        <button class="generate-btn" id="quote-each" style="background:var(--bg-surface);color:var(--text);border-color:var(--border)">One of Each</button>
+        <button class="generate-btn" id="quote-each" style="background:#f9f9f9;color:#333;border-color:#ccc">One of Each</button>
         <button class="copy-all-btn" id="quote-copyall">Copy All</button>
       </div>
     </div>
