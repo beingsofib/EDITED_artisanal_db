@@ -23,6 +23,89 @@ This work includes material taken from the 5e Artisanal Database by Michael E. S
 //
 // Last audited: 2026-03-29 — tested against generator.js (286 lines, CC0)
 
+// ----------------------------------------------------------------
+// PUBLIC API — categories consumed by external generator pages
+// ----------------------------------------------------------------
+//
+// The categories below are defined here but never referenced from
+// within this file's own template. They are entry points called
+// from pages under ../custom_generators/. If you rename or delete
+// one, update every listed consumer page too. Regenerate this list
+// with:
+//   node validate_homebrew_generator.js homebrew_generator.js \
+//     --with-consumers ../custom_generators
+//
+//   Category                   Consumer page(s)
+//   -------------------------  -----------------------------------
+//   valuable_item              items.html
+//   magic_shop                 magic_shop.html
+//   village_market             city_location.html, town_location.html,
+//                              village_location.html
+//   city_market                city_location.html
+//   pub                        city_location.html, town_location.html,
+//                              village_location.html
+//   town_shops                 city_location.html, town_location.html
+//   squalid_district           city_generators/city_squalid.html
+//   low_district               city_generators/city_low.html
+//   artisan_district           city_generators/city_artisan.html
+//   market_district            city_generators/city_market.html
+//   high_district              city_generators/city_high.html
+//   fishing_district           city_generators/city_fishing.html
+//   temple_district            city_generators/city_temple.html
+//   castle_district            city_generators/city_castle.html
+//   dock_district              city_generators/city_docks.html
+//   university_district        city_generators/city_university.html
+//   urban_creature             creature_encounters.html
+//   grass_creature             creature_encounters.html
+//   mountain_creature          creature_encounters.html
+//   hill_creature              creature_encounters.html
+//   trait                      npcs_generator.html
+//   coin_type                  items.html
+//   simple_item                creature_encounters.html, items.html,
+//                              npcs_generator.html
+//   book                       items.html
+//   boats_ships                boats_ships.html
+//   location_name              city_location.html, town_location.html,
+//                              village_location.html
+//   road_encounter             travel_encounters.html
+//   squalid_rumour             city_rumours.html
+//   low_rumour                 city_rumours.html
+//   artisan_rumour             city_rumours.html
+//   market_rumour              city_rumours.html
+//   fishing_rumour             city_rumours.html
+//   temple_rumour              city_rumours.html
+//   castle_rumour              city_rumours.html
+//   dock_rumour                city_rumours.html
+//   university_rumour          city_rumours.html
+//   waterdeep_sights           city_waterdeep.html
+//   waterdeep_encounter        city_waterdeep.html
+//   waterdeep_encounter_night  city_waterdeep.html
+//
+// The following categories are referenced both internally AND by
+// consumer pages, so they're public API too but harder to spot as
+// entry points when scanning the file:
+//   magic_item, town_market, shopping, shop_npc, pub_food,
+//   waterdeep_factions, species_trait, speech, hair, facial_feature,
+//   visual_characteristic, dress, goal, quest, npc_type, magic_book,
+//   inn_type, shop_appearance, shop_smells, pub_name, pub_beer,
+//   shop_generator_prefix, shop_name_suffix, shop_known, high_rumour,
+//   name, surname_first, surname_last
+//
+// Potentially dead code — defined but no references found in this
+// file or in any consumer HTML page (review before deleting: these
+// may be used by downstream forks or planned features):
+//   sword, blunt_weapon, shop_type3, city_name, market_shop,
+//   artisan_encounter_day, fish_encounter_day, temple_encounter_day,
+//   castle_encounter_day, dock_encounter_day, university_encounter_day,
+//   artisan_encounter_night, fish_encounter_night,
+//   temple_encounter_night, castle_encounter_night,
+//   university_encounter_night, legendary_magic, sentient_magic,
+//   artifacts_magic
+//
+// Counts: 39 external-only | 28 internal+external | 101 internal-only
+//         | 19 unreferenced | 187 total categories
+// ----------------------------------------------------------------
+
 // Create the common data text in the format expected by parseInput()
 const homebrewGeneratorDataText = `
 
@@ -39,9 +122,6 @@ valuable_item
   a compass that points somewhere other than north
   a {gem} set into a {material} pendant on a thin chain
 
-
-
-
 magic_shop
   <p><strong>Potions:</strong> {potion_type}, {potion_type}<br><strong>Common:</strong> {common_magic}, {common_magic}, {common_magic}, {common_magic}, {common_magic}, {common_magic}, {common_magic}<br><strong>Uncommon:</strong> {uncommon_magic}, {uncommon_magic}, {uncommon_magic}<br><strong>Rare:</strong> {rare_magic}, {rare_magic}, {rare_magic}<br><strong>Very Rare:</strong> {very_rare_magic}, {very_rare_magic}<br><strong>Magic Books:</strong> {magic_item}, {magic_book}, {magic_book}</p>{shopping}{shopping}
 
@@ -49,23 +129,19 @@ magic_item
   {material} {item_type} of {property} that {magical_effect}
 
 village_market
-    {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1},
+  {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1}, {market_stalls1},
 
 town_market
-    {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2},
+  {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2}, {market_stalls2},
 
 city_market
-    {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}.
+  {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}, {market_stalls3}.
 
 pub
-    <p><strong>{pub_names}</strong> — {inn_type}<br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {pub_food}, {pub_food}, {pub_food}<br>Patrons: {shop_npc} | {shop_npc}</p>
+  <p><strong>{pub_name}</strong> — {inn_type}<br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {pub_food}, {pub_food}, {pub_food}<br>Patrons: {shop_npc} | {shop_npc}</p>
 
 town_shops
-    <p><strong>{shop_type2}</strong><br>{shop_appearance}<br>Run by {shop_npc}</p>
-
-
-
-
+  <p><strong>{shop_type2}</strong><br>{shop_appearance}<br>Run by {shop_npc}</p>
 
 squalid_district
   <p><strong>{squalid_district_name}</strong></p><p>Shops: {squalid_shop}, {squalid_shop}, {squalid_shop}, {squalid_shop}, {squalid_shop}, {squalid_shop}<br><strong>By Day:</strong> {squalid_encounter_day}<br><strong>By Night:</strong> {squalid_encounter_night}<br><strong>Atmosphere:</strong> {squalid_sounds}</p><hr>{city_squalid_shops}<hr>{city_squalid_shops}<hr>{city_squalid_shops}<hr>{city_squalid_shops}<hr>{city_squalid_shops}<hr><p><strong>Tavern</strong></p>{city_squalid_pub}
@@ -97,12 +173,6 @@ dock_district
 university_district
   <p><strong>{university_district_name}</strong></p><p>Shops: {university_shop}, {squalid_shop}, {high_shop}, {university_shop}, {artisan_shop}, {university_shop}<br><strong>By Day:</strong> {encounter_day}<br><strong>By Night:</strong> {encounter_night}<br><strong>Atmosphere:</strong> {university_sounds}</p><hr>{city_high_shops}<hr>{city_high_shops}<hr>{city_high_shops}<hr>{city_high_shops}<hr>{city_high_shops}<hr><p><strong>Tavern</strong></p>{city_high_pub}
 
-
-
-
-
-
-
 city_squalid_shops
   <p><strong>{name} {shop_name_suffix}</strong> — {squalid_shop}<br>{shop_appearance}. {shop_known}<br>Run by {shop_npc}</p>
 
@@ -111,7 +181,6 @@ city_low_shops
 
 city_artisan_shops
   <p><strong>{name} {shop_name_suffix}</strong> — {artisan_shop}<br>{shop_appearance}. {shop_known}<br>Run by {shop_npc}</p>
-
 
 city_high_shops
   <p><strong>{shop_generator_prefix} {shop_name_suffix}</strong> — {high_shop}<br>{shop_appearance}. {shop_known}<br>Run by {shop_npc}</p>
@@ -122,31 +191,26 @@ city_market_shops
 city_castle_shops
   <p><strong>{shop_generator_prefix} {shop_name_suffix}</strong> — {castle_shop}<br>{shop_appearance}. {shop_known}<br>Run by {shop_npc}</p>
 
-
 city_squalid_pub
-  <p><strong>{pub_names}</strong> <em>(squalid, 3cp/7cp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {bar_food}, {bar_food}<br>Patrons: {shop_npc} | {shop_npc}</p>
+  <p><strong>{pub_name}</strong> <em>(squalid, 3cp/7cp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {bar_food}, {bar_food}<br>Patrons: {shop_npc} | {shop_npc}</p>
 
 city_low_pub
-  <p><strong>{pub_names}</strong> <em>(poor, 6cp/1sp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {bar_food}, {pub_snack}<br>Patrons: {shop_npc} | {shop_npc}</p>
+  <p><strong>{pub_name}</strong> <em>(poor, 6cp/1sp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {bar_food}, {pub_snack}<br>Patrons: {shop_npc} | {shop_npc}</p>
 
 city_artisan_pub
-  <p><strong>{pub_names}</strong> <em>(poor, 6cp/1sp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {bar_food}, {pub_snack}<br>Patrons: {shop_npc} | {shop_npc}</p>
+  <p><strong>{pub_name}</strong> <em>(poor, 6cp/1sp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {bar_food}, {pub_snack}<br>Patrons: {shop_npc} | {shop_npc}</p>
 
 city_general_pub
-  <p><strong>{pub_names}</strong> <em>(modest, 3sp/5sp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {bar_food}, {pub_food}<br>Patrons: {shop_npc} | {shop_npc}</p>
+  <p><strong>{pub_name}</strong> <em>(modest, 3sp/5sp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {bar_food}, {pub_food}<br>Patrons: {shop_npc} | {shop_npc}</p>
 
 city_high_pub
-  <p><strong>{pub_names}</strong> <em>(wealthy, 12sp/2gp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {pub_food}, {pub_food}<br>Patrons: {shop_npc} | {shop_npc}</p>
-
-
+  <p><strong>{pub_name}</strong> <em>(wealthy, 12sp/2gp)</em><br>{shop_appearance}, that smells of {shop_smells}<br>Run by {shop_npc}<br>Beers: {pub_beer}, {pub_beer}, {pub_beer}<br>Food: {pub_food}, {pub_food}<br>Patrons: {shop_npc} | {shop_npc}</p>
 
 shopping
   <p>{armour_interest}<br>{jewellery_interest}<br>{clothing_interest}<br>{art_interest}<br>{oddities_interest}<br>{weapon_interest} {potion_interest}</p>
 
 shop_npc
-    <strong>{name} {surname_first}{surname_last}</strong> — {species_trait} {dress} with {hair} hair, {facial_features} who {visual_characteristics}. They are  {personality} with {speech} speech.  As well as being {world_view} they want to {goal} and are trying to {quest}. They are dressed either as a {npc_type} or a {npc_type}.
-
-
+  <strong>{name} {surname_first}{surname_last}</strong> — {species_trait} {dress} with {hair} hair, {facial_feature} who {visual_characteristic}. They are  {personality} with {speech} speech.  As well as being {world_view} they want to {goal} and are trying to {quest}. They are dressed either as a {npc_type} or a {npc_type}.
 
 pub_food
   Roast {meat} and {hearty_veg} in a {sauce} sauce with {drink}
@@ -162,10 +226,6 @@ pub_food
   {dessert} with {drink}
   {dessert} and {dessert}
 
-
-
-
-
 urban_creature
   <p><strong>Urban Creatures:</strong> {any_habitat}, {any_habitat}, {any_habitat} and {urban_habitat}, {urban_habitat}, {urban_habitat}</p>
 
@@ -177,13 +237,6 @@ mountain_creature
 
 hill_creature
   <p><strong>Hill Creatures:</strong> {any_habitat}, {any_habitat}, {any_habitat} and {hill_habitat}, {hill_habitat}, {hill_habitat}</p>
-
-
-
-
-
-
-
 
 waterdeep_factions
   Adventurers Treasure seekers looking to make their names in the big city.
@@ -233,10 +286,6 @@ waterdeep_factions
   Wharf Rats Kobold gang active in the Dock Ward slums.
   Servants of The Hidden engaged in thievery, extortion, and slavery.
   The Hallowed Company unscrupulous mercenary network caught up in street war with the Xanathar Guild.
-
-
-
-
 
 species_trait
   human ^10
@@ -298,7 +347,6 @@ speech
   whispery
   whiny
 
-
 world_view
   Surly
   Friendly
@@ -320,7 +368,6 @@ world_view
   Ambitious
   Greedy
   Outgoing
-
 
 hair
   bald
@@ -344,7 +391,7 @@ hair
   well groomed
   wiry
 
-facial_features
+facial_feature
   acne
   beard
   buck-toothed
@@ -366,7 +413,7 @@ facial_features
   stained teeth
   weather-beaten
 
-visual_characteristics
+visual_characteristic
   birthmark on {location}
   body piercings on {location}
   chew tobacco
@@ -763,15 +810,6 @@ npc_type
   villager
   wildling
 
-
-
-
-
-
-
-
-
-
 coin_type
   copper ^3
   silver ^3
@@ -983,11 +1021,6 @@ simple_item
   A wooden box with a ceramic bottom that holds a living worm with a head on each end of its body
   A metal urn containing the ashes of a hero
 
-
-
-
-
-
 material
   silver
   crystal
@@ -1123,7 +1156,7 @@ damage_type
   piercing
   slashing
 
-swords
+sword
   longsword
   shortsword
   rapier
@@ -1138,7 +1171,7 @@ swords
   bastard sword
   gladius
 
-blunt_weapons
+blunt_weapon
   mace
   club
   warhammer
@@ -1268,14 +1301,6 @@ magic_book
   An ancient dusty volume that discusses the history of the undead and how each type was created. The pages themselves seem to scream and moan as they are turned. A creature who possesses this book has advantage on any Intelligence (Religion) checks to recall knowledge of the undead, as well as advantage to avoid undead spell effects.
   The ornate cover of this old and dusty volume belies the true nature of its contents. Once a spellbook of considerable power, it appears to have been handed from bard to bard, each adding their own tawdry tales of love and conquest in the margins. This tome can be used as a +2 spell focus (requires attunement).
   This grimoire is written in a runic language no longer spoken. Should a creature be able to translate the text in some manner, they learn a method to cast polymorph on themselves twice per day.
-
-
-
-
-
-
-
-
 
 inn_type
   squalid 3cp/7cp
@@ -1665,7 +1690,7 @@ shop_smells
   Sewage
   Rotting meat
 
-pub_names
+pub_name
   The Pungent Squelch.
   The Dog's Bollocks.
   The Journeyman's Rest.
@@ -2065,7 +2090,6 @@ boats_ships
   The Friendly Fireball
   Sapphire of the Sea
   The Seasoned Cannibal
-
 
 city_name
   Lancaut
@@ -2763,12 +2787,6 @@ shop_known
   Shouting at customers to buy more
   Offering discounts to attractive customers
 
-
-
-
-
-
-
 road_encounter
   A passing mail-courier’s horse gets spooked and throws courier. The courier dies in the fall, and the mail bag has the seal of the King’s Head of Intelligence.
   A travelling blade-sharpener offers a special deal to the PCs to improve their magic weapons, but later the PCs discover the magic in the blades seems to be gone.
@@ -2871,11 +2889,6 @@ road_encounter
   Someone has scattered caltrops across the road.
   The road is rigged with an obvious and clumsily/hastily made trap. The PCs can hear drunken giggling from the undergrowth.
 
-
-
-
-
-
 encounter_day
   A wagon rumbles along the street, splattering mud onto the legs of those it passes.
   A gaggle of children play in the streets. Their joyous shouts rise above the general hubbub of daily life.
@@ -2968,7 +2981,6 @@ encounter_day
   The street is busy, and the characters must weave their way through the crowd.
   The harsh crash of blade on blade breaks out. Everyone nearby freezes and then moves rapidly away from the sound of battle.
   One of the characters suddenly gets the distinct feeling that they are being watched.
-
 
 squalid_encounter_day
   Rain and Mud: It begins to rain heavily. After an hour or so, the Shambles’ alleys and streets are transformed into stretches of cloying, churned-up mud.
@@ -3447,9 +3459,6 @@ university_encounter_night
   Summoning Gone Sideways: The faint smell of sulfur drifts from a cracked-open window, accompanied by the sound of urgent whispered arguing and something that sounds like a large, annoyed creature shifting its weight. A chalk circle is just barely visible on the floor of the room through the gap in the curtain.
   The Empty Chair: In the main lecture hall, visible through a large window from the street, a single candle burns on the lectern. Every chair in the hall is occupied—each one pulled slightly out from its row, angled toward the front, as if an audience had recently sat there. The hall is empty of people.
 
-
-
-
 squalid_rumour
   Need to Hide: The Dagger and Ferret (Locales of Interest #1) is a good place to hide from the watch. Its owner, Serafia Janakka, will hide anyone for enough coin—and will also betray anyone for enough coin.
   Whatever You Want: Almost anything can be procured in the Shambles, if you know where to look and who to see. The Shadow Masks control much of the Shambles, and it’s not difficult to meet a guild thief. The Shambles is a much safer place to do such business than the Wrecks. In the Wrecks, you’d be lucky to escape with your life!
@@ -3495,7 +3504,6 @@ low_rumour
   Getting Lost: The Low City is somewhere you can easily lose yourself. It’s also a dangerous place, but not as dangerous as the Shambles or the Wrecks.
   Ailing Stormlord: Stormlord Taneli Eronen grows increasingly old and frail. He hasn’t been seen outside the Fane of the Waves Eternal (location T1) for months. Rumour is that he’ll soon take his last voyage.
 
-
 artisan_rumour
   Guild Dues Rising Again: The guild masters have raised membership dues for the third time this year. Several younger craftspeople are quietly talking about working outside the guild—a dangerous idea that could see them run out of the district entirely.
   Stolen Design: A pattern stolen from a local tailor has turned up in a foreign merchant's stock, sold openly in the market. The tailor is furious, the guild is supposedly investigating, and everyone suspects a workshop apprentice of selling the design.
@@ -3510,7 +3518,6 @@ artisan_rumour
   Cursed Commission: A sculptor was commissioned for a grand piece by an anonymous wealthy patron. The work is nearly complete, but the sculptor has become convinced the piece is watching him. He refuses to finish it and has taken to sleeping in the street.
   A Masterwork for Sale: The finest piece of work anyone in the district has ever produced is currently sitting in a lockbox at the guild hall—the maker died before collecting payment, and no one knows who commissioned it. The guild is quietly debating whether to sell it themselves.
 
-
 market_rumour
   The Stranger's Wares: A merchant arrived three days ago with a wagon full of strange, beautiful objects and no name anyone can remember. The goods are unlike anything from the known trade routes, and several buyers have reported odd dreams after purchasing something.
   Tampered Scales: The weights at several stalls along the south row have been tampered with. Someone is making a quiet profit on every transaction. The market master is aware but hasn't acted, which is itself suspicious.
@@ -3524,7 +3531,6 @@ market_rumour
   Price War: Two rival cloth merchants have been engaged in a ruinous price war for nearly a month. Both are selling below cost, and everyone is waiting to see who breaks first. Rumour says one of them is being secretly subsidized by an outside investor with an interest in seeing the other destroyed.
   Lights Above the Warehouse: Strange lights—pale blue, perfectly silent—were seen moving above the market's warehouse district two nights ago. By morning, an entire crate of high-value goods had vanished from a locked storeroom.
   The Informant: Someone in the market is feeding information to the city watch about traders dealing in restricted goods. Three stalls have been raided in the past month, and the community is paranoid about who it might be.
-
 
 high_rumour
   Noble Woman Abroad: Elina Vuolle, ruler of the dismal village of Coldwater, is in the city. The word is that her title and lands are for sale, but that no one is buying.
@@ -3547,7 +3553,6 @@ high_rumour
   Special Books in a Special Collection: The Dreaming Spire’s (location H4) Sequestered Hall holds the greatest collection of books in Languard and the second-greatest collection in all of Ashlar. However, the Dreaming Spires has a second, restricted collection—the so-called Special Collection—which contains books filled with forbidden, restricted or troublesome content.
   Whatever You Want: The Dark Market (location H18) offers the wealthy illicit and exotic things from far-off lands. If you go there, though, watch out for the Dark Guard—a band of intensely loyal mercenaries charged with keeping trouble out of the market.
   Odd, Old Urmas: Urmas Aalto (location H3) is an old, cantankerous fellow. A wizard in his youth, he explored some of Gloamhold before retiring to live off the proceeds of his adventures. He is the city’s foremost authority on Gloamhold’s doom-drenched halls but is a difficult man to like. Some say his time “across the water" changed him.
-
 
 fishing_rumour
   Bad Catches: Many of the fisherfolk complain of bad catches, of late. Some catch only small fish while others pull up mostly diseased or dead fish. Some mutter of foul sorcery or the actions of a depraved cult.
@@ -3585,7 +3590,6 @@ temple_rumour
   Rival Faiths: Two of the district's faiths have been in open competition for new worshippers, and it has turned ugly. Congregants are being harassed in the street, and someone defaced the entrance to one of the temples last night.
   Something Sacred Has Changed: The oldest shrine in the district has been behaving oddly. The eternal flame has changed colour, the offerings left overnight are being moved, and the statue at its center—which has stood unchanged for generations—has a new expression on its face.
 
-
 castle_rumour
   The Lord's Absence: The lord has not made a public appearance in over a week. Different servants give different explanations when asked. The guard rotation has been quietly doubled, and visitors to the keep are being turned away with unusual frequency.
   The Dismissed Officer: A senior guard officer was relieved of duty without explanation two days ago. His colleagues won't discuss it, and he himself has not been seen in the district since. The watch is actively discouraging questions about the matter.
@@ -3599,7 +3603,6 @@ castle_rumour
   A Favor Called In: Word has reached certain ears that a powerful noble family is calling in an old debt from the lord himself. No one knows the nature of the original favor, but people who know both parties are suddenly finding reasons to be elsewhere.
   Lights in the Archive Tower: The lights in the keep's archive tower have been burning through the night for a week. Scholars brought in under discreet cover are searching for something specific in the historical records. They are not finding it quickly.
   Unannounced Inspection: City officials conducted an unannounced inspection of the district's merchants and traders yesterday, confiscating records and ledgers from several established businesses. No explanation was offered and no receipts were given. The affected merchants are furious and frightened.
-
 
 dock_rumour
   The Crewless Ship: A vessel docked at the east pier two nights ago with no crew visible on deck. The harbor watch boarded it and found the hold full of cargo, the lanterns lit, food still warm on the captain's table, and not a living soul aboard.
@@ -3615,7 +3618,6 @@ dock_rumour
   Pirate Sighting: Two fishing vessels and a trade cutter reported a pirate ship flying no flag operating within a day's sail of the harbor. The vessel was described as unusually fast and seemed to appear and disappear from clear water. The harbor master is officially unconcerned.
   Cursed Cargo: A shipment of crates arrived last week and has been sitting unclaimed in a bonded warehouse ever since. The longshoremen who unloaded it refuse to go near it again—three of them fell ill the same night—and the shipping company denies the cargo exists.
 
-
 university_rumour
   The East Tower Incident: An experiment in the east tower produced a flash of light visible across the entire district. The university has issued no statement. Three students who were present that night have been quietly relocated to different accommodation, and the floor of the tower where it occurred is sealed.
   The Missing Student: A second-year student has been missing for eight days. Her classmates say she was close to a significant breakthrough in her thesis research—on a topic her supervisor had repeatedly told her to abandon. Her notes are also gone.
@@ -3629,16 +3631,6 @@ university_rumour
   Dangerous Research: A senior wizard on the faculty has been conducting prohibited experiments in the sub-basement of the research hall. Two colleagues know about it, have said nothing, and are beginning to regret that decision as the results grow harder to conceal.
   The Rivals' Duel: Two faculty members have taken an academic disagreement to its logical conclusion and challenged each other to a formal magical duel—to be held in the practice courtyard at dawn, witnessed by their respective departments. The university's administration has declined to intervene.
   Forbidden Purchase: A rare and extensively annotated spellbook recently appeared at the market, offered by an estate seller with no knowledge of what they were selling. Three faculty members bid against each other and against several private buyers. The winner has not shown the book to anyone and has locked their office door for a week.
-
-
-
-
-
-
-
-
-
-
 
 squalid_sounds
   The distant baying of a dog that has been barking for so long no one hears it anymore
@@ -3671,7 +3663,6 @@ low_sounds
   Someone practicing a tune badly on a fiddle through a thin wall
   The smell of tanneries and fuller's earth drifting from a side street
   The market bell from a district away, still audible if the wind is right
-
 
 artisan_sounds
   Constant hammering rhythm like a heartbeat of the district
@@ -3822,13 +3813,6 @@ university_sounds
   Bells marking canonical hours
   Drafty dormitories cluttered with parchment and candles
 
-
-
-
-
-
-
-
 armour_interest
   <strong>Engraved Breastplate (600 gp)</strong>: Painted with a gold wash and wrought to depict a heavily muscled male torso, this breastplate suits a vain wearer.
   <strong>Plate Armour (1,800 gp)</strong>: Crafted by a master armourer, this plate armour features a snarling dragon’s face on its breastplate. The price includes fitting.
@@ -3914,398 +3898,379 @@ potion_interest
   <strong>Vial of Holy Water (30 gp)</strong>: This heavy iron vial holds concentrated holy water. The water was created with special blessed celestial silver of extraplanar origin and is twice as effective as normal holy water.
   <strong>Mis-Identified Potion (250 gp)</strong>: Kardagg thinks this small clay vial contains a potion of greater-healing. Sadly, it doesn’t; he was fooled by a charismatic scoundrel into paying good money for a normal potion of healing. The scarlet liquid inside the vial is thick and gloopy.
 
-
-
-
-
-
-
-
 common_magic
-    Mithral armor
-    Potion of climbing
-    Potion of healing
-    Spell scroll (cantrip)
-    Spell scroll (1st level)
-    Bag of holding
-    Cloak of elvenkind
-    Boots of striding and springing
-    Goggles of night
-    Hat of disguise
-    Lantern of revealing
-    Rope of climbing
-    Sending stones
-    Helm of comprehending languages
-    Ring of feather falling
-    Wand of magic detection
-    Alchemy jug
-    Immovable rod
+  Mithral armor
+  Potion of climbing
+  Potion of healing
+  Spell scroll (cantrip)
+  Spell scroll (1st level)
+  Bag of holding
+  Cloak of elvenkind
+  Boots of striding and springing
+  Goggles of night
+  Hat of disguise
+  Lantern of revealing
+  Rope of climbing
+  Sending stones
+  Helm of comprehending languages
+  Ring of feather falling
+  Wand of magic detection
+  Alchemy jug
+  Immovable rod
 
 uncommon_magic
-    Adamantine armor
-    Alchemy jug
-    Ammunition +1
-    Amulet of proof against detection and location
-    Bag of holding
-    Bag of tricks
-    Boots of elvenkind
-    Boots of striding and springing
-    Boots of the winterlands
-    Bracers of archery
-    Brooch of shielding
-    Broom of flying
-    Cap of water breathing
-    Circlet of blasting
-    Cloak of elvenkind
-    Cloak of protection
-    Cloak of the manta ray
-    Decanter of endless water
-    Deck of illusions
-    Driftglobe
-    Dust of disappearance
-    Dust of dryness
-    Dust of sneezing and choking
-    Elemental gem
-    Eversmoking bottle
-    Eyes of charming
-    Eyes of minute seeing
-    Eyes of the eagle
-    Figurine of wondrous power (silver raven)
-    Gauntlets of ogre power
-    Gem of brightness
-    Gloves of missile snaring
-    Gloves of swimming and climbing
-    Gloves of thievery
-    Goggles of night
-    Hat of disguise
-    Headband of intellect
-    Helm of comprehending languages
-    Helm of telepathy
-    Immovable rod
-    Instrument of the bard (Doss lute)
-    Instrument of the bard (Fochlucan bandore)
-    Instrument of the bard (Mac-Fuirmidh cittern)
-    Javelin of lightning
-    Keoghtom's ointment
-    Lantern of revealing
-    Mariner's armor
-    Medallion of thoughts
-    Necklace of adaptation
-    Oil of slipperiness
-    Pearl of power
-    Periapt of health
-    Periapt of wound closure
-    Philter of love
-    Pipes of haunting
-    Pipes of the sewers
-    Potion of animal friendship
-    Potion of fire breath
-    Potion of giant strength (hill giant)
-    Potion of greater healing
-    Potion of growth
-    Potion of poison
-    Potion of resistance
-    Potion of water breathing
-    Quiver of Ehlonna
-    Ring of jumping
-    Ring of mind shielding
-    Ring of swimming
-    Ring of warmth
-    Ring of water walking
-    Robe of useful items
-    Rod of the pact keeper +1
-    Rope of climbing
-    Saddle of the cavalier
-    Sending stones
-    Sentinel shield
-    Shield +1
-    Slippers of spider climbing
-    Spell scroll (2nd level)
-    Spell scroll (3rd level)
-    Staff of the adder
-    Staff of the python
-    Stone of good luck (luckstone)
-    Sword of vengeance
-    Trident of fish command
-    Wand of magic detection
-    Wand of magic missiles
-    Wand of secrets
-    Wand of the war mage +1
-    Wand of web
-    Weapon +1
-    Weapon of warning
-    Wind fan
-    Winged boots
+  Adamantine armor
+  Alchemy jug
+  Ammunition +1
+  Amulet of proof against detection and location
+  Bag of holding
+  Bag of tricks
+  Boots of elvenkind
+  Boots of striding and springing
+  Boots of the winterlands
+  Bracers of archery
+  Brooch of shielding
+  Broom of flying
+  Cap of water breathing
+  Circlet of blasting
+  Cloak of elvenkind
+  Cloak of protection
+  Cloak of the manta ray
+  Decanter of endless water
+  Deck of illusions
+  Driftglobe
+  Dust of disappearance
+  Dust of dryness
+  Dust of sneezing and choking
+  Elemental gem
+  Eversmoking bottle
+  Eyes of charming
+  Eyes of minute seeing
+  Eyes of the eagle
+  Figurine of wondrous power (silver raven)
+  Gauntlets of ogre power
+  Gem of brightness
+  Gloves of missile snaring
+  Gloves of swimming and climbing
+  Gloves of thievery
+  Goggles of night
+  Hat of disguise
+  Headband of intellect
+  Helm of comprehending languages
+  Helm of telepathy
+  Immovable rod
+  Instrument of the bard (Doss lute)
+  Instrument of the bard (Fochlucan bandore)
+  Instrument of the bard (Mac-Fuirmidh cittern)
+  Javelin of lightning
+  Keoghtom's ointment
+  Lantern of revealing
+  Mariner's armor
+  Medallion of thoughts
+  Necklace of adaptation
+  Oil of slipperiness
+  Pearl of power
+  Periapt of health
+  Periapt of wound closure
+  Philter of love
+  Pipes of haunting
+  Pipes of the sewers
+  Potion of animal friendship
+  Potion of fire breath
+  Potion of giant strength (hill giant)
+  Potion of greater healing
+  Potion of growth
+  Potion of poison
+  Potion of resistance
+  Potion of water breathing
+  Quiver of Ehlonna
+  Ring of jumping
+  Ring of mind shielding
+  Ring of swimming
+  Ring of warmth
+  Ring of water walking
+  Robe of useful items
+  Rod of the pact keeper +1
+  Rope of climbing
+  Saddle of the cavalier
+  Sending stones
+  Sentinel shield
+  Shield +1
+  Slippers of spider climbing
+  Spell scroll (2nd level)
+  Spell scroll (3rd level)
+  Staff of the adder
+  Staff of the python
+  Stone of good luck (luckstone)
+  Sword of vengeance
+  Trident of fish command
+  Wand of magic detection
+  Wand of magic missiles
+  Wand of secrets
+  Wand of the war mage +1
+  Wand of web
+  Weapon +1
+  Weapon of warning
+  Wind fan
+  Winged boots
 
 rare_magic
-    Ammunition +2
-    Amulet of health
-    Armor +1
-    Armor of resistance
-    Armor of vulnerability
-    Arrow-catching shield
-    Bag of beans
-    Bead of force
-    Belt of dwarvenkind
-    Belt of giant strength (hill giant)
-    Berserker axe
-    Boots of levitation
-    Boots of speed
-    Bowl of commanding water elementals
-    Bracers of defense
-    Brazier of commanding fire elementals
-    Cape of the mountebank
-    Censer of controlling air elementals
-    Chime of opening
-    Cloak of displacement
-    Cloak of the bat
-    Cube of force
-    Daern's instant fortress
-    Dagger of venom
-    Dimensional shackles
-    Dragon slayer
-    Elixir of health
-    Elven chain
-    Figurine of wondrous power (bronze griffon)
-    Figurine of wondrous power (ebony fly)
-    Figurine of wondrous power (golden lions)
-    Figurine of wondrous power (ivory goats)
-    Figurine of wondrous power (marble elephant)
-    Figurine of wondrous power (onyx dog)
-    Figurine of wondrous power (serpentine owl)
-    Flame tongue
-    Folding boat
-    Gem of seeing
-    Giant slayer
-    Glamoured studded leather
-    Helm of teleportation
-    Heward's handy haversack
-    Horn of blasting
-    Horn of valhalla (silver or brass)
-    Horseshoes of speed
-    Instrument of the bard (Canaith mandolin)
-    Instrument of the bard (Cli lyre)
-    Ioun stone (awareness)
-    Ioun stone (protection)
-    Ioun stone (reserve)
-    Ioun stone (sustenance)
-    Iron bands of bilarro
-    Mace of disruption
-    Mace of smiting
-    Mace of terror
-    Mantle of spell resistance
-    Necklace of fireballs
-    Necklace of prayer beads
-    Oil of etherealness
-    Periapt of proof against poison
-    Portable hole
-    Potion of clairvoyance
-    Potion of diminution
-    Potion of gaseous form
-    Potion of giant strength (fire giant)
-    Potion of giant strength (frost or stone giant)
-    Potion of heroism
-    Potion of invulnerability
-    Potion of mind reading
-    Potion of superior healing
-    Quaal's feather token
-    Ring of animal influence
-    Ring of evasion
-    Ring of feather falling
-    Ring of free action
-    Ring of protection
-    Ring of resistance
-    Ring of spell storing
-    Ring of the ram
-    Ring of x-ray vision
-    Robe of eyes
-    Rod of rulership
-    Rod of the pact keeper +2
-    Rope of entanglement
-    Scroll of protection
-    Shield +2
-    Shield of missile attraction
-    Spell scroll (4th level)
-    Spell scroll (5th level)
-    Staff of charming
-    Staff of healing
-    Staff of swarming insects
-    Staff of the woodlands
-    Staff of withering
-    Stone of controlling earth elementals
-    Sun blade
-    Sword of life stealing
-    Sword of wounding
-    Tentacle rod
-    Vicious weapon
-    Wand of binding
-    Wand of enemy detection
-    Wand of fear
-    Wand of fireballs
-    Wand of lightning bolts
-    Wand of paralysis
-    Wand of the war mage +2
-    Wand of wonder
-    Weapon +2
-    Wings of flying
+  Ammunition +2
+  Amulet of health
+  Armor +1
+  Armor of resistance
+  Armor of vulnerability
+  Arrow-catching shield
+  Bag of beans
+  Bead of force
+  Belt of dwarvenkind
+  Belt of giant strength (hill giant)
+  Berserker axe
+  Boots of levitation
+  Boots of speed
+  Bowl of commanding water elementals
+  Bracers of defense
+  Brazier of commanding fire elementals
+  Cape of the mountebank
+  Censer of controlling air elementals
+  Chime of opening
+  Cloak of displacement
+  Cloak of the bat
+  Cube of force
+  Daern's instant fortress
+  Dagger of venom
+  Dimensional shackles
+  Dragon slayer
+  Elixir of health
+  Elven chain
+  Figurine of wondrous power (bronze griffon)
+  Figurine of wondrous power (ebony fly)
+  Figurine of wondrous power (golden lions)
+  Figurine of wondrous power (ivory goats)
+  Figurine of wondrous power (marble elephant)
+  Figurine of wondrous power (onyx dog)
+  Figurine of wondrous power (serpentine owl)
+  Flame tongue
+  Folding boat
+  Gem of seeing
+  Giant slayer
+  Glamoured studded leather
+  Helm of teleportation
+  Heward's handy haversack
+  Horn of blasting
+  Horn of valhalla (silver or brass)
+  Horseshoes of speed
+  Instrument of the bard (Canaith mandolin)
+  Instrument of the bard (Cli lyre)
+  Ioun stone (awareness)
+  Ioun stone (protection)
+  Ioun stone (reserve)
+  Ioun stone (sustenance)
+  Iron bands of bilarro
+  Mace of disruption
+  Mace of smiting
+  Mace of terror
+  Mantle of spell resistance
+  Necklace of fireballs
+  Necklace of prayer beads
+  Oil of etherealness
+  Periapt of proof against poison
+  Portable hole
+  Potion of clairvoyance
+  Potion of diminution
+  Potion of gaseous form
+  Potion of giant strength (fire giant)
+  Potion of giant strength (frost or stone giant)
+  Potion of heroism
+  Potion of invulnerability
+  Potion of mind reading
+  Potion of superior healing
+  Quaal's feather token
+  Ring of animal influence
+  Ring of evasion
+  Ring of feather falling
+  Ring of free action
+  Ring of protection
+  Ring of resistance
+  Ring of spell storing
+  Ring of the ram
+  Ring of x-ray vision
+  Robe of eyes
+  Rod of rulership
+  Rod of the pact keeper +2
+  Rope of entanglement
+  Scroll of protection
+  Shield +2
+  Shield of missile attraction
+  Spell scroll (4th level)
+  Spell scroll (5th level)
+  Staff of charming
+  Staff of healing
+  Staff of swarming insects
+  Staff of the woodlands
+  Staff of withering
+  Stone of controlling earth elementals
+  Sun blade
+  Sword of life stealing
+  Sword of wounding
+  Tentacle rod
+  Vicious weapon
+  Wand of binding
+  Wand of enemy detection
+  Wand of fear
+  Wand of fireballs
+  Wand of lightning bolts
+  Wand of paralysis
+  Wand of the war mage +2
+  Wand of wonder
+  Weapon +2
+  Wings of flying
 
 very_rare_magic
-    Ammunition +3
-    Amulet of the planes
-    Animated shield
-    Armor +2
-    Arrow of slaying
-    Bag of devouring
-    Belt of giant strength (fire giant)
-    Belt of giant strength (frost or stone giant)
-    Candle of invocation
-    Carpet of flying
-    Cloak of arachnida
-    Crystal ball
-    Dancing sword
-    Demon armor
-    Dragon scale mail
-    Dwarven plate
-    Dwarven thrower
-    Efreeti bottle
-    Figurine of wondrous power (obsidian steed)
-    Frost brand
-    Helm of brilliance
-    Horn of valhalla (bronze)
-    Horseshoes of a zephyr
-    Instrument of the bard (Anstruth harp)
-    Ioun stone (absorption)
-    Ioun stone (agility)
-    Ioun stone (fortitude)
-    Ioun stone (insight)
-    Ioun stone (intellect)
-    Ioun stone (leadership)
-    Ioun stone (strength)
-    Manual of bodily health
-    Manual of gainful exercise
-    Manual of golems
-    Manual of quickness of action
-    Mirror of life trapping
-    Nine lives stealer
-    Nolzur's marvelous pigments
-    Oathbow
-    Oil of sharpness
-    Potion of flying
-    Potion of giant strength (cloud giant)
-    Potion of invisibility
-    Potion of longevity
-    Potion of speed
-    Potion of supreme healing
-    Potion of vitality
-    Ring of regeneration
-    Ring of shooting stars
-    Ring of telekinesis
-    Robe of scintillating colors
-    Robe of stars
-    Rod of absorption
-    Rod of alertness
-    Rod of security
-    Rod of the pact keeper +3
-    Scimitar of speed
-    Shield +3
-    Spell scroll (6th level)
-    Spell scroll (7th level)
-    Spell scroll (8th level)
-    Spellguard shield
-    Staff of fire
-    Staff of frost
-    Staff of power
-    Staff of striking
-    Staff of thunder and lightning
-    Sword of sharpness
-    Tome of clear thought
-    Tome of leadership and influence
-    Tome of understanding
-    Wand of polymorph
-    Wand of the war mage +3
-    Weapon +3
+  Ammunition +3
+  Amulet of the planes
+  Animated shield
+  Armor +2
+  Arrow of slaying
+  Bag of devouring
+  Belt of giant strength (fire giant)
+  Belt of giant strength (frost or stone giant)
+  Candle of invocation
+  Carpet of flying
+  Cloak of arachnida
+  Crystal ball
+  Dancing sword
+  Demon armor
+  Dragon scale mail
+  Dwarven plate
+  Dwarven thrower
+  Efreeti bottle
+  Figurine of wondrous power (obsidian steed)
+  Frost brand
+  Helm of brilliance
+  Horn of valhalla (bronze)
+  Horseshoes of a zephyr
+  Instrument of the bard (Anstruth harp)
+  Ioun stone (absorption)
+  Ioun stone (agility)
+  Ioun stone (fortitude)
+  Ioun stone (insight)
+  Ioun stone (intellect)
+  Ioun stone (leadership)
+  Ioun stone (strength)
+  Manual of bodily health
+  Manual of gainful exercise
+  Manual of golems
+  Manual of quickness of action
+  Mirror of life trapping
+  Nine lives stealer
+  Nolzur's marvelous pigments
+  Oathbow
+  Oil of sharpness
+  Potion of flying
+  Potion of giant strength (cloud giant)
+  Potion of invisibility
+  Potion of longevity
+  Potion of speed
+  Potion of supreme healing
+  Potion of vitality
+  Ring of regeneration
+  Ring of shooting stars
+  Ring of telekinesis
+  Robe of scintillating colors
+  Robe of stars
+  Rod of absorption
+  Rod of alertness
+  Rod of security
+  Rod of the pact keeper +3
+  Scimitar of speed
+  Shield +3
+  Spell scroll (6th level)
+  Spell scroll (7th level)
+  Spell scroll (8th level)
+  Spellguard shield
+  Staff of fire
+  Staff of frost
+  Staff of power
+  Staff of striking
+  Staff of thunder and lightning
+  Sword of sharpness
+  Tome of clear thought
+  Tome of leadership and influence
+  Tome of understanding
+  Wand of polymorph
+  Wand of the war mage +3
+  Weapon +3
 
 legendary_magic
-    Apparatus of Kwalish
-    Armor +3
-    Armor of invulnerability
-    Belt of giant strength (cloud giant)
-    Belt of giant strength (storm giant)
-    Cloak of invisibility
-    Crystal ball
-    Cubic gate
-    Deck of many things
-    Defender
-    Efreeti chain
-    Hammer of thunderbolts
-    Holy avenger
-    Horn of valhalla (iron)
-    Instrument of the bard (Ollamh harp)
-    Ioun stone (greater absorption)
-    Ioun stone (mastery)
-    Ioun stone (regeneration)
-    Iron flask
-    Luck blade
-    Plate armor of etherealness
-    Potion of giant strength (storm giant)
-    Ring of djinni summoning
-    Ring of elemental command
-    Ring of invisibility
-    Ring of spell turning
-    Ring of three wishes
-    Robe of the archmagi
-    Rod of lordly might
-    Rod of resurrection
-    Scarab of protection
-    Sovereign glue
-    Spell scroll (9th level)
-    Sphere of annihilation
-    Staff of the magi
-    Sword of answering
-    Talisman of pure good
-    Talisman of the sphere
-    Talisman of ultimate evil
-    Tome of the stilled tongue
-    Universal solvent
-    Vorpal sword
-    Well of many worlds
+  Apparatus of Kwalish
+  Armor +3
+  Armor of invulnerability
+  Belt of giant strength (cloud giant)
+  Belt of giant strength (storm giant)
+  Cloak of invisibility
+  Crystal ball
+  Cubic gate
+  Deck of many things
+  Defender
+  Efreeti chain
+  Hammer of thunderbolts
+  Holy avenger
+  Horn of valhalla (iron)
+  Instrument of the bard (Ollamh harp)
+  Ioun stone (greater absorption)
+  Ioun stone (mastery)
+  Ioun stone (regeneration)
+  Iron flask
+  Luck blade
+  Plate armor of etherealness
+  Potion of giant strength (storm giant)
+  Ring of djinni summoning
+  Ring of elemental command
+  Ring of invisibility
+  Ring of spell turning
+  Ring of three wishes
+  Robe of the archmagi
+  Rod of lordly might
+  Rod of resurrection
+  Scarab of protection
+  Sovereign glue
+  Spell scroll (9th level)
+  Sphere of annihilation
+  Staff of the magi
+  Sword of answering
+  Talisman of pure good
+  Talisman of the sphere
+  Talisman of ultimate evil
+  Tome of the stilled tongue
+  Universal solvent
+  Vorpal sword
+  Well of many worlds
 
 sentient_magic
-    Blackrazor
-    Moonblade
-    Wave
-    Whelm
-    Hazirawn
-    Ironsong
-    Dawnbringer
-    Shatterspike
-    Fragarach
-    Oathbow (bound to a forgotten cause)
-    Sword of Answering
-    Risky Whisper (a dagger that offers bargains)
-    The Blade of Broken Vows
-    Whisperwind (a shortsword that speaks only in rhyme)
+  Blackrazor
+  Moonblade
+  Wave
+  Whelm
+  Hazirawn
+  Ironsong
+  Dawnbringer
+  Shatterspike
+  Fragarach
+  Oathbow (bound to a forgotten cause)
+  Sword of Answering
+  Risky Whisper (a dagger that offers bargains)
+  The Blade of Broken Vows
+  Whisperwind (a shortsword that speaks only in rhyme)
 
 artifacts_magic
-    Axe of the Dwarvish Lords
-    Book of Exalted Deeds
-    Book of Vile Darkness
-    Eye and Hand of Vecna
-    Orb of Dragonkind
-    Sword of Kas
-    Wand of Orcus
-
-
-
-
-
-
-
-
-
-
-
-
+  Axe of the Dwarvish Lords
+  Book of Exalted Deeds
+  Book of Vile Darkness
+  Eye and Hand of Vecna
+  Orb of Dragonkind
+  Sword of Kas
+  Wand of Orcus
 
 bar_food
   Stew ^2
@@ -4486,14 +4451,6 @@ dessert
   {fruit}-{herb} pudding
   {fruit}-{herb} handpie
   {fruit}-{herb} biscuit
-
-
-
-
-
-
-
-
 
 any_habitat
   Commoner,
@@ -4711,7 +4668,6 @@ mountain_habitat
   Ancient Silver Dragon
   Ancient Red Dragon
 
-
 grass_habitat
   Cat,
   Deer,
@@ -4879,14 +4835,6 @@ urban_habitat
   Adult Silver Dragon
   Ancient Silver Dragon
   Tarrasque
-
-
-
-
-
-
-
-
 
 name
   Abbeville
@@ -8405,7 +8353,6 @@ waterdeep_sights
   Lost, confused foreigner
   Monster encounter
 
-
 waterdeep_encounter
   Angry Mob: 1d4 thugs lead 2d12 commoners chanting slogans—vandalizing storefronts, harassing masked figures, or protesting guild levies. Roll d4: Guild of Butchers punishing a halfling pie-maker, Carters protesting dray carriages, anti-Door Levy storekeepers, or youthful agitators tearing masks from passers-by.
   Assassination: A cloaked figure drives a blade into a passerby's back and flees. The victim could be a disputed estate heir, a prosecuted gangster's lawyer, a geas-compelled killer's target, or a random mark of a sadistic cambion.
@@ -8483,8 +8430,6 @@ waterdeep_encounter
   Wanted Criminal: A figure matching a City Watch wanted poster moves through the crowd with practiced casualness. Capture earns a reward of 2d10 × 10 gp—but they are protected by 1d4 thugs moving as escort, and they will not come quietly.
   Wild Animal: A dangerous creature has escaped into the streets—a bear from a traveling menagerie, a pair of worgs from an overturned cage wagon, or something stranger pulled from the harbor docks. Locals scatter; the characters may be the only ones equipped to help.
 
-
-
 waterdeep_encounter_night
   Griffon Cavalry Patrol: A griffon cavalry rider circles low overhead, the beast's wings almost silent, a lantern attached to the saddle casting moving light across the rooftops. The rider scans the darkened streets for fugitives.
   Lamplighter's Rounds: A lamplighter makes their nightly circuit, igniting Waterdeep's magical street lamps one by one. They pause often, glancing over their shoulder, and flinch at unfamiliar sounds.
@@ -8507,8 +8452,6 @@ waterdeep_encounter_night
   Strange Feelings After Dark: One character feels they are being watched from the shadows—not with hostility, but with desperate, silent pleading. Nothing is visible. But the feeling does not go away.
   Smugglers' Transfer: At the darkened docks, cloaked figures pass wrapped bundles from a small boat to a waiting cart, working fast with deliberately dim lanterns. They freeze when they realize they're not alone.
 
-
-
 encounters_day
   A senior city official's secretary moves through the street with a sealed dispatch and an armed escort, making no eye contact with anyone.
   A squad of Force Grey agents jogs past in tight formation, responding to an urgent summons from the Blackstaff Tower.
@@ -8523,8 +8466,6 @@ encounters_day
   A tax magistrate flanked by two guards goes building to building collecting the monthly ward tithe, ledger in hand, and tolerating no excuses.
   A clerk from the Scriveners', Scribes', and Clerks' Guild approaches the characters, insisting they cannot conduct business in this ward without the correct licensing papers.
 
-
-
 encounters_night
   The Castle Ward's streets are nearly empty; only City Watch patrols and armored City Guard soldiers move through the lantern-lit avenues with quiet authority.
   A cloaked figure slips from a little-known side entrance to the Palace of Waterdeep, pausing to confirm they are unobserved before moving off with purpose.
@@ -8538,8 +8479,6 @@ encounters_night
   The Castle Ward falls eerily silent; even the usual night sounds have stopped. Something has frightened every bird from their rooftop perches.
   A clerk hurries through the darkened street clutching a scroll case, muttering the contents under their breath as though memorizing something that cannot be written down.
   Lanterns throughout the ward flicker and dim simultaneously for three full seconds, then return to normal. No one on the street mentions it.
-
-
 
 low_district_rumour
   "Word is the Xanathar's moving a big shipment through the Dock Ward this tenday. Nobody knows what's in the crates, but the Dungsweepers won't go near that street."
@@ -8559,14 +8498,22 @@ low_district_rumour
   "City Watch found cages of exotic animals—tressym, pseudodragons, something with too many tentacles—locked in a Field Ward warehouse. Nobody's claimed them."
   "A priest of Siamorphe was seen visiting the Xanathar Guild's known front business in the Trades Ward. Twice. Nobody knows if she was a prisoner or a guest."
 
-
-
 `;
 
 
-// Function to add common data to existing dataText
+// Function to add common data to existing dataText.
+// Safely concatenates a page-specific dataText string with the shared
+// homebrewGeneratorDataText block, guarding against non-string input
+// and avoiding runs of blank lines at the join point.
 function addCommonDataTo(existingDataText) {
-    return existingDataText + '\n\n' + homebrewGeneratorDataText;
+    // Coerce null/undefined/non-string input to empty string so callers
+    // that forget to initialize dataText don't throw.
+    if (typeof existingDataText !== 'string') {
+        existingDataText = '';
+    }
+    // Strip trailing whitespace/newlines so repeated calls (or pages that
+    // already end their template with blank lines) don't accumulate gaps.
+    return existingDataText.replace(/\s+$/, '') + '\n\n' + homebrewGeneratorDataText;
 }
 
 // Make functions available globally for generators
