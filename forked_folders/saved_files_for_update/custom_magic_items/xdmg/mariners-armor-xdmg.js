@@ -1,0 +1,95 @@
+window.magicItemMarkdown = `# Mariner's Armor
+
+- **Rarity**: Uncommon
+- **Type**: Uncommon
+- **Attunement**: No
+- **Source**: Dungeon Master's Guide (2024)
+
+While wearing this armor, you have a Swim Speed equal to your Speed. In addition, if you start your turn underwater with 0 Hit Points, you immediately regain '1d4' Hit Points. The armor can't heal anyone again until the next dawn.
+
+The armor is decorated with fish and shell motifs.
+
+**Variants**:
+- Mariner's Breastplate
+- Mariner's Chain Mail
+- Mariner's Chain Shirt
+- Mariner's Half Plate Armor
+- Mariner's Hide Armor
+- Mariner's Leather Armor
+- Mariner's Padded Armor
+- Mariner's Plate Armor
+- Mariner's Ring Mail
+- Mariner's Scale Mail
+- Mariner's Splint Armor
+- Mariner's Studded Leather Armor
+
+### Mariner's Breastplate
+
+- **Armor Class**: 14 + Dex modifier (max of +2)
+- **Weight**: 20.0 lbs.
+
+### Mariner's Chain Mail
+
+- **Armor Class**: 16
+- **Strength**: Requires 13 STR.
+- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Weight**: 55.0 lbs.
+
+### Mariner's Chain Shirt
+
+- **Armor Class**: 13 + Dex modifier (max of +2)
+- **Weight**: 20.0 lbs.
+
+### Mariner's Half Plate Armor
+
+- **Armor Class**: 15 + Dex modifier (max of +2)
+- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Weight**: 40.0 lbs.
+
+### Mariner's Hide Armor
+
+- **Armor Class**: 12 + Dex modifier (max of +2)
+- **Weight**: 12.0 lbs.
+
+### Mariner's Leather Armor
+
+- **Armor Class**: 11 + Dex modifier
+- **Weight**: 10.0 lbs.
+
+### Mariner's Padded Armor
+
+- **Armor Class**: 11 + Dex modifier
+- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Weight**: 8.0 lbs.
+
+### Mariner's Plate Armor
+
+- **Armor Class**: 18
+- **Strength**: Requires 15 STR.
+- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Weight**: 65.0 lbs.
+
+### Mariner's Ring Mail
+
+- **Armor Class**: 14
+- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Weight**: 40.0 lbs.
+
+### Mariner's Scale Mail
+
+- **Armor Class**: 14 + Dex modifier (max of +2)
+- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Weight**: 45.0 lbs.
+
+### Mariner's Splint Armor
+
+- **Armor Class**: 17
+- **Strength**: Requires 15 STR.
+- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Weight**: 60.0 lbs.
+
+### Mariner's Studded Leather Armor
+
+- **Armor Class**: 12 + Dex modifier
+- **Weight**: 13.0 lbs.
+`;

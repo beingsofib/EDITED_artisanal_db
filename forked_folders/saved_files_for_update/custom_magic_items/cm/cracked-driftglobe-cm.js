@@ -1,0 +1,11 @@
+window.magicItemMarkdown = `# Cracked Driftglobe
+
+- **Rarity**: Uncommon
+- **Type**: Wondrous Item
+- **Attunement**: No
+- **Source**: Candlekeep Mysteries
+
+- **Weight**: 1.0 lbs.
+
+This small sphere of thick glass weighs 1 pound. If you are within 60 feet of it, you can speak its command word and cause it to emanate the light spell.
+`;

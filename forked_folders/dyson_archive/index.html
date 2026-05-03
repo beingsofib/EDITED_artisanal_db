@@ -1,770 +1,736 @@
-
+<!DOCTYPE html>
 <html>
-    <head>
-    <title>Dyson Commercial Map Gallery</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-<style>
-    body {
-        font-family: 'Arial', sans-serif;
-        background-color: #f4f4f4;
-        color: #333;
-    }
-
-    .container {
-        max-width: 1200px;
-        margin: 0 auto;
-        padding: 20px;
-    }
-
-    h1 {
-        text-align: center;
-        color: #333;
-    }
-
-    .slider-container {
-        text-align: center;
-        padding: 20px;
-    }
-
-    .slider-container label {
-        display: block;
-        margin-bottom: 10px;
-        font-size: 16px;
-        color: #333;
-    }
-
-    /* Default slider style */
-    .slider-container input[type=range] {
-        width: 80%;
-        margin: 0 auto;
-    }
-
-    .gallery {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-    }
-
-    .gallery img {
-        border: 2px solid #f0f0f0;
-        border-radius: 5px;
-        transition: transform 0.2s ease;
-        width: 400px; /* Default size */
-    }
-
-    .gallery img:hover {
-        transform: scale(1.1);
-        border-color: #ccc;
-    }
-
-    @media (max-width: 600px) {
-        .slider-container input[type=range] {
-            width: 90%;
-        }
-    }
-</style>
+<head>
+  <title>Dyson Commercial Map Gallery</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; }
+    h1 { text-align: center; }
+    .slider-container { text-align: center; padding: 20px; }
+    .gallery { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
+    .gallery img { border: 2px solid #f0f0f0; border-radius: 5px; width: 400px; transition: transform 0.2s ease; }
+    .gallery img:hover { transform: scale(1.1); border-color: #ccc; }
+  </style>
 </head>
-    <body>
-
-<script>
+<body>
+  <script>
     document.addEventListener('DOMContentLoaded', function () {
-        var slider = document.getElementById('sizeSlider');
-        var images = document.querySelectorAll('.gallery img');
-        var gallery = document.querySelector('.gallery');
-
-        slider.addEventListener('input', function () {
-            for (var i = 0; i < images.length; i++) {
-                images[i].style.width = this.value + 'px';
-                images[i].style.height = 'auto';
-            }
+      var slider = document.getElementById('sizeSlider');
+      var gallery = document.querySelector('.gallery');
+      slider.addEventListener('input', function () {
+        gallery.querySelectorAll('img').forEach(img => {
+          img.style.width = this.value + 'px';
+          img.style.height = 'auto';
         });
-
-        shuffleGallery();
-
-        function shuffleGallery() {
-            var nodes = gallery.children;
-            var i = nodes.length;
-            while (i) {
-                gallery.appendChild(nodes[Math.floor(Math.random() * i)]);
-                --i;
-            }
-        }
+      });
+      Array.from(gallery.children).sort(() => Math.random() - 0.5).forEach(n => gallery.appendChild(n));
     });
-</script>
-  <div style="text-align: center; padding:0em 3em 0em 3em">
-
-<h1>Dyson Commercial Map Gallery</h1>
-        <p>This gallery, available to and made possible by the <a href="https://www.patreon.com/slyflourish">Patrons of Sly Flourish</a>, is a gallery of <a href="https://dysonlogos.blog/maps/commercial-maps/">Dyson Logos's royalty-free maps</a>. <a href="https://slyflourish_content.s3.amazonaws.com/ff98052f30d610b78a3b_patreon_files/dyson_royalty_free_map_archive.zip">Download your own copy of the gallery</a> which you can host anywhere or run on your local machine.</p>
-</div>
-  <div style="text-align: center; padding:1em;">
-<label for="sizeSlider">Adjust Thumbnail Size:</label>
+  </script>
+  <div style="text-align: center; padding: 0 3em;">
+    <h1>Dyson Commercial Map Gallery</h1>
+    <p>A gallery of <a href="https://dysonlogos.blog/maps/commercial-maps/">Dyson Logos's royalty-free maps</a>,
+    available to <a href="https://www.patreon.com/slyflourish">Patrons of Sly Flourish</a>.
+    </p>
+  </div>
+  <div class="slider-container">
+    <label for="sizeSlider">Adjust Thumbnail Size:</label>
     <input type="range" id="sizeSlider" min="50" max="800" value="400">
-</div>
-<div class="gallery">
-    <a href="./maps/dungeons-of-the-grand-illusionist.jpg"><img src="./thumbnails/dungeons-of-the-grand-illusionist_thumbnail.jpg"></a>
-<a href="./maps/seevers-mill-kraken.jpg"><img src="./thumbnails/seevers-mill-kraken_thumbnail.jpg"></a>
-<a href="./maps/trapped-in-the-tomb-of-the-14-imperial-princesses-patreon.jpg"><img src="./thumbnails/trapped-in-the-tomb-of-the-14-imperial-princesses-patreon_thumbnail.jpg"></a>
-<a href="./maps/fallen-temple.jpg"><img src="./thumbnails/fallen-temple_thumbnail.jpg"></a>
-<a href="./maps/sanvilds-delve.jpg"><img src="./thumbnails/sanvilds-delve_thumbnail.jpg"></a>
-<a href="./maps/warreks-nest-grid.jpg"><img src="./thumbnails/warreks-nest-grid_thumbnail.jpg"></a>
-<a href="./maps/lawrence-hall-commercial-patreon.jpg"><img src="./thumbnails/lawrence-hall-commercial-patreon_thumbnail.jpg"></a>
-<a href="./maps/circle-crypts-of-the-ophidian-emperor-patreon.jpg"><img src="./thumbnails/circle-crypts-of-the-ophidian-emperor-patreon_thumbnail.jpg"></a>
-<a href="./maps/wreck-of-the-wights-shadow-patreon.jpg"><img src="./thumbnails/wreck-of-the-wights-shadow-patreon_thumbnail.jpg"></a>
-<a href="./maps/ruined-tower-and-cave-of-worship.jpg"><img src="./thumbnails/ruined-tower-and-cave-of-worship_thumbnail.jpg"></a>
-<a href="./maps/beneath-the-claw-of-sunsets-map-3.jpg"><img src="./thumbnails/beneath-the-claw-of-sunsets-map-3_thumbnail.jpg"></a>
-<a href="./maps/lost-tomb-complex.jpg"><img src="./thumbnails/lost-tomb-complex_thumbnail.jpg"></a>
-<a href="./maps/shieldricks-tower-inn.jpg"><img src="./thumbnails/shieldricks-tower-inn_thumbnail.jpg"></a>
-<a href="./maps/temple-of-love-2024-remix.jpg"><img src="./thumbnails/temple-of-love-2024-remix_thumbnail.jpg"></a>
-<a href="./maps/hexagonal-temple.jpg"><img src="./thumbnails/hexagonal-temple_thumbnail.jpg"></a>
-<a href="./maps/dosetlar-cliffs-patreon.jpg"><img src="./thumbnails/dosetlar-cliffs-patreon_thumbnail.jpg"></a>
-<a href="./maps/lockharts-tomb-patreon.jpg"><img src="./thumbnails/lockharts-tomb-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-oubliettes-patreon.jpg"><img src="./thumbnails/the-oubliettes-patreon_thumbnail.jpg"></a>
-<a href="./maps/theros-reflecting-temple.jpg"><img src="./thumbnails/theros-reflecting-temple_thumbnail.jpg"></a>
-<a href="./maps/december-island-grey.jpg"><img src="./thumbnails/december-island-grey_thumbnail.jpg"></a>
-<a href="./maps/iyesgarten-inn.jpg"><img src="./thumbnails/iyesgarten-inn_thumbnail.jpg"></a>
-<a href="./maps/building-7-random-market-tavern.jpg"><img src="./thumbnails/building-7-random-market-tavern_thumbnail.jpg"></a>
-<a href="./maps/dome-of-the-copper-sun.jpg"><img src="./thumbnails/dome-of-the-copper-sun_thumbnail.jpg"></a>
-<a href="./maps/foxtail-grotto.jpg"><img src="./thumbnails/foxtail-grotto_thumbnail.jpg"></a>
-<a href="./maps/headquarters-patreon.jpg"><img src="./thumbnails/headquarters-patreon_thumbnail.jpg"></a>
-<a href="./maps/tower-and-pond.jpg"><img src="./thumbnails/tower-and-pond_thumbnail.jpg"></a>
-<a href="./maps/nesbitt-hill-production.jpg"><img src="./thumbnails/nesbitt-hill-production_thumbnail.jpg"></a>
-<a href="./maps/lesser-temple-of-the-heretics.jpg"><img src="./thumbnails/lesser-temple-of-the-heretics_thumbnail.jpg"></a>
-<a href="./maps/wolf-tower-grid-kraken.jpg"><img src="./thumbnails/wolf-tower-grid-kraken_thumbnail.jpg"></a>
-<a href="./maps/the-fallen-god-patreon.jpg"><img src="./thumbnails/the-fallen-god-patreon_thumbnail.jpg"></a>
-<a href="./maps/yew-lane-estate-grid-patreon.jpg"><img src="./thumbnails/yew-lane-estate-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/under-the-finger.jpg"><img src="./thumbnails/under-the-finger_thumbnail.jpg"></a>
-<a href="./maps/beneath-the-claw-of-sunsets-map-2.jpg"><img src="./thumbnails/beneath-the-claw-of-sunsets-map-2_thumbnail.jpg"></a>
-<a href="./maps/september-dungeon-north.jpg"><img src="./thumbnails/september-dungeon-north_thumbnail.jpg"></a>
-<a href="./maps/skittering-caves-patreon.jpg"><img src="./thumbnails/skittering-caves-patreon_thumbnail.jpg"></a>
-<a href="./maps/island-tomb.jpg"><img src="./thumbnails/island-tomb_thumbnail.jpg"></a>
-<a href="./maps/shop-8-reds-leather.jpg"><img src="./thumbnails/shop-8-reds-leather_thumbnail.jpg"></a>
-<a href="./maps/basement.jpg"><img src="./thumbnails/basement_thumbnail.jpg"></a>
-<a href="./maps/the-descent-patreon.jpg"><img src="./thumbnails/the-descent-patreon_thumbnail.jpg"></a>
-<a href="./maps/iso-tombs-3.jpg"><img src="./thumbnails/iso-tombs-3_thumbnail.jpg"></a>
-<a href="./maps/stirge-rock-patreon.jpg"><img src="./thumbnails/stirge-rock-patreon_thumbnail.jpg"></a>
-<a href="./maps/skaldons-dome.jpg"><img src="./thumbnails/skaldons-dome_thumbnail.jpg"></a>
-<a href="./maps/june-index-card-1.jpg"><img src="./thumbnails/june-index-card-1_thumbnail.jpg"></a>
-<a href="./maps/lizard-ruins.jpg"><img src="./thumbnails/lizard-ruins_thumbnail.jpg"></a>
-<a href="./maps/black-ichor-of-the-iron-obelisk.jpg"><img src="./thumbnails/black-ichor-of-the-iron-obelisk_thumbnail.jpg"></a>
-<a href="./maps/habrets-lair-grid-patreon.jpg"><img src="./thumbnails/habrets-lair-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/index-card-tower.jpg"><img src="./thumbnails/index-card-tower_thumbnail.jpg"></a>
-<a href="./maps/pregello-fortress-grid.jpg"><img src="./thumbnails/pregello-fortress-grid_thumbnail.jpg"></a>
-<a href="./maps/stones-of-salanans-peril-patreon.jpg"><img src="./thumbnails/stones-of-salanans-peril-patreon_thumbnail.jpg"></a>
-<a href="./maps/megamap-1-600.jpg"><img src="./thumbnails/megamap-1-600_thumbnail.jpg"></a>
-<a href="./maps/kraken-tower-mcdemonface.jpg"><img src="./thumbnails/kraken-tower-mcdemonface_thumbnail.jpg"></a>
-<a href="./maps/kabrels-tower.jpg"><img src="./thumbnails/kabrels-tower_thumbnail.jpg"></a>
-<a href="./maps/church-temple-palace-patreon.jpg"><img src="./thumbnails/church-temple-palace-patreon_thumbnail.jpg"></a>
-<a href="./maps/bloodied-axe-shrine.jpg"><img src="./thumbnails/bloodied-axe-shrine_thumbnail.jpg"></a>
-<a href="./maps/control-kraken.jpg"><img src="./thumbnails/control-kraken_thumbnail.jpg"></a>
-<a href="./maps/imp-tower-kraken.jpg"><img src="./thumbnails/imp-tower-kraken_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-bloodmarket-cave.jpg"><img src="./thumbnails/heart-of-darkling-bloodmarket-cave_thumbnail.jpg"></a>
-<a href="./maps/tower-bridge-grid.jpg"><img src="./thumbnails/tower-bridge-grid_thumbnail.jpg"></a>
-<a href="./maps/pendershire-screens-patreon.jpg"><img src="./thumbnails/pendershire-screens-patreon_thumbnail.jpg"></a>
-<a href="./maps/isotower.jpg"><img src="./thumbnails/isotower_thumbnail.jpg"></a>
-<a href="./maps/shrine-of-the-emperor-of-bones.jpg"><img src="./thumbnails/shrine-of-the-emperor-of-bones_thumbnail.jpg"></a>
-<a href="./maps/5-room-spinner.jpg"><img src="./thumbnails/5-room-spinner_thumbnail.jpg"></a>
-<a href="./maps/tower-of-the-blind-seer-patreon.jpg"><img src="./thumbnails/tower-of-the-blind-seer-patreon_thumbnail.jpg"></a>
-<a href="./maps/chateau-daubergine-grid.jpg"><img src="./thumbnails/chateau-daubergine-grid_thumbnail.jpg"></a>
-<a href="./maps/yruvexswamps.jpg"><img src="./thumbnails/yruvexswamps_thumbnail.jpg"></a>
-<a href="./maps/temple.jpg"><img src="./thumbnails/temple_thumbnail.jpg"></a>
-<a href="./maps/isometric-tomb-of-eight.jpg"><img src="./thumbnails/isometric-tomb-of-eight_thumbnail.jpg"></a>
-<a href="./maps/fury-of-the-emerald-hawk-patreon.jpg"><img src="./thumbnails/fury-of-the-emerald-hawk-patreon_thumbnail.jpg"></a>
-<a href="./maps/taroduns-tomb-patreon.jpg"><img src="./thumbnails/taroduns-tomb-patreon_thumbnail.jpg"></a>
-<a href="./maps/chainspire-fortress-production.jpg"><img src="./thumbnails/chainspire-fortress-production_thumbnail.jpg"></a>
-<a href="./maps/random-hexmap-a-blackhex.jpg"><img src="./thumbnails/random-hexmap-a-blackhex_thumbnail.jpg"></a>
-<a href="./maps/princes-harbour-2-hexes.jpg"><img src="./thumbnails/princes-harbour-2-hexes_thumbnail.jpg"></a>
-<a href="./maps/mad-warlocks-dome-and-tower-grid.jpg"><img src="./thumbnails/mad-warlocks-dome-and-tower-grid_thumbnail.jpg"></a>
-<a href="./maps/allerton-hold.jpg"><img src="./thumbnails/allerton-hold_thumbnail.jpg"></a>
-<a href="./maps/ruins-of-charnesse.jpg"><img src="./thumbnails/ruins-of-charnesse_thumbnail.jpg"></a>
-<a href="./maps/archons-tower.jpg"><img src="./thumbnails/archons-tower_thumbnail.jpg"></a>
-<a href="./maps/demon-headed-tower-patreon.jpg"><img src="./thumbnails/demon-headed-tower-patreon_thumbnail.jpg"></a>
-<a href="./maps/seaside-passage.jpg"><img src="./thumbnails/seaside-passage_thumbnail.jpg"></a>
-<a href="./maps/iso-tombs-4.jpg"><img src="./thumbnails/iso-tombs-4_thumbnail.jpg"></a>
-<a href="./maps/garden-tower.jpg"><img src="./thumbnails/garden-tower_thumbnail.jpg"></a>
-<a href="./maps/domes.jpg"><img src="./thumbnails/domes_thumbnail.jpg"></a>
-<a href="./maps/isle-of-kheyus-colour-1200.jpg"><img src="./thumbnails/isle-of-kheyus-colour-1200_thumbnail.jpg"></a>
-<a href="./maps/gateway-to-the-valley-of-revelations-patreon.jpg"><img src="./thumbnails/gateway-to-the-valley-of-revelations-patreon_thumbnail.jpg"></a>
-<a href="./maps/mar-18-postcard-dungeon-1.jpg"><img src="./thumbnails/mar-18-postcard-dungeon-1_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-stairs.jpg"><img src="./thumbnails/heart-of-darkling-stairs_thumbnail.jpg"></a>
-<a href="./maps/spectres-tower-kraken.jpg"><img src="./thumbnails/spectres-tower-kraken_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-south.jpg"><img src="./thumbnails/darklingtown-south_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-hexagons.jpg"><img src="./thumbnails/heart-of-darkling-hexagons_thumbnail.jpg"></a>
-<a href="./maps/champions-retreat-kraken-1.jpg"><img src="./thumbnails/champions-retreat-kraken-1_thumbnail.jpg"></a>
-<a href="./maps/linear-dungeon-experiment-1.jpg"><img src="./thumbnails/linear-dungeon-experiment-1_thumbnail.jpg"></a>
-<a href="./maps/great-pyramid-side-view.jpg"><img src="./thumbnails/great-pyramid-side-view_thumbnail.jpg"></a>
-<a href="./maps/5rd-snail.jpg"><img src="./thumbnails/5rd-snail_thumbnail.jpg"></a>
-<a href="./maps/step-pyramid-ept-inspired.jpg"><img src="./thumbnails/step-pyramid-ept-inspired_thumbnail.jpg"></a>
-<a href="./maps/old-cruik-hollow.jpg"><img src="./thumbnails/old-cruik-hollow_thumbnail.jpg"></a>
-<a href="./maps/kraken-infested-hall.jpg"><img src="./thumbnails/kraken-infested-hall_thumbnail.jpg"></a>
-<a href="./maps/the-strangled-imp.jpg"><img src="./thumbnails/the-strangled-imp_thumbnail.jpg"></a>
-<a href="./maps/the-ravens-rum-and-roosts.jpg"><img src="./thumbnails/the-ravens-rum-and-roosts_thumbnail.jpg"></a>
-<a href="./maps/granitespire-patreon.jpg"><img src="./thumbnails/granitespire-patreon_thumbnail.jpg"></a>
-<a href="./maps/kemps-divide-grid.jpg"><img src="./thumbnails/kemps-divide-grid_thumbnail.jpg"></a>
-<a href="./maps/april-index-card-1.jpg"><img src="./thumbnails/april-index-card-1_thumbnail.jpg"></a>
-<a href="./maps/forbidden-halls-1200.jpg"><img src="./thumbnails/forbidden-halls-1200_thumbnail.jpg"></a>
-<a href="./maps/herlihy-farm-patreon.jpg"><img src="./thumbnails/herlihy-farm-patreon_thumbnail.jpg"></a>
-<a href="./maps/september-dungeon-understructures.jpg"><img src="./thumbnails/september-dungeon-understructures_thumbnail.jpg"></a>
-<a href="./maps/the-strike-patreon.jpg"><img src="./thumbnails/the-strike-patreon_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-waystation-patreon.jpg"><img src="./thumbnails/heart-of-darkling-waystation-patreon_thumbnail.jpg"></a>
-<a href="./maps/autumn-lands-map-3-black.jpg"><img src="./thumbnails/autumn-lands-map-3-black_thumbnail.jpg"></a>
-<a href="./maps/fortified-town-screen-patreon.jpg"><img src="./thumbnails/fortified-town-screen-patreon_thumbnail.jpg"></a>
-<a href="./maps/five-more-dungeon-business-cards.jpg"><img src="./thumbnails/five-more-dungeon-business-cards_thumbnail.jpg"></a>
-<a href="./maps/gladhold-estate-bw-300.jpg"><img src="./thumbnails/gladhold-estate-bw-300_thumbnail.jpg"></a>
-<a href="./maps/bed-egg.jpg"><img src="./thumbnails/bed-egg_thumbnail.jpg"></a>
-<a href="./maps/sewer-connectors.jpg"><img src="./thumbnails/sewer-connectors_thumbnail.jpg"></a>
-<a href="./maps/lost-city-of-the-naga-queens-patreon.jpg"><img src="./thumbnails/lost-city-of-the-naga-queens-patreon_thumbnail.jpg"></a>
-<a href="./maps/sharn-3-furnished.jpg"><img src="./thumbnails/sharn-3-furnished_thumbnail.jpg"></a>
-<a href="./maps/sundered-tomb.jpg"><img src="./thumbnails/sundered-tomb_thumbnail.jpg"></a>
-<a href="./maps/tekumel-walled-temple.jpg"><img src="./thumbnails/tekumel-walled-temple_thumbnail.jpg"></a>
-<a href="./maps/darkling-galleries-2.jpg"><img src="./thumbnails/darkling-galleries-2_thumbnail.jpg"></a>
-<a href="./maps/swarms-hive-patreon.jpg"><img src="./thumbnails/swarms-hive-patreon_thumbnail.jpg"></a>
-<a href="./maps/sunken-ruins.jpg"><img src="./thumbnails/sunken-ruins_thumbnail.jpg"></a>
-<a href="./maps/crypts-and-sewers.jpg"><img src="./thumbnails/crypts-and-sewers_thumbnail.jpg"></a>
-<a href="./maps/dysons-labyrinth-of-love.jpg"><img src="./thumbnails/dysons-labyrinth-of-love_thumbnail.jpg"></a>
-<a href="./maps/pit-dungeon-levels-5-8.jpg"><img src="./thumbnails/pit-dungeon-levels-5-8_thumbnail.jpg"></a>
-<a href="./maps/alderbridge-production.jpg"><img src="./thumbnails/alderbridge-production_thumbnail.jpg"></a>
-<a href="./maps/shattered-tower-upper-grid.jpg"><img src="./thumbnails/shattered-tower-upper-grid_thumbnail.jpg"></a>
-<a href="./maps/beneath-archons-tower.jpg"><img src="./thumbnails/beneath-archons-tower_thumbnail.jpg"></a>
-<a href="./maps/pirate-booty-island.jpg"><img src="./thumbnails/pirate-booty-island_thumbnail.jpg"></a>
-<a href="./maps/temple-complex-ruins-overlays.jpg"><img src="./thumbnails/temple-complex-ruins-overlays_thumbnail.jpg"></a>
-<a href="./maps/workshop-storefront.jpg"><img src="./thumbnails/workshop-storefront_thumbnail.jpg"></a>
-<a href="./maps/dolems-spire-production.jpg"><img src="./thumbnails/dolems-spire-production_thumbnail.jpg"></a>
-<a href="./maps/catacombs-of-olik-gullar-patreon.jpg"><img src="./thumbnails/catacombs-of-olik-gullar-patreon_thumbnail.jpg"></a>
-<a href="./maps/vigilance-trail-patreon.jpg"><img src="./thumbnails/vigilance-trail-patreon_thumbnail.jpg"></a>
-<a href="./maps/linear-dungeon-experiment-2.jpg"><img src="./thumbnails/linear-dungeon-experiment-2_thumbnail.jpg"></a>
-<a href="./maps/fat-little-dungeon.jpg"><img src="./thumbnails/fat-little-dungeon_thumbnail.jpg"></a>
-<a href="./maps/landing-pad-grid.jpg"><img src="./thumbnails/landing-pad-grid_thumbnail.jpg"></a>
-<a href="./maps/five-room-arrow.jpg"><img src="./thumbnails/five-room-arrow_thumbnail.jpg"></a>
-<a href="./maps/raining-cave.jpg"><img src="./thumbnails/raining-cave_thumbnail.jpg"></a>
-<a href="./maps/temple-of-red-waters.jpg"><img src="./thumbnails/temple-of-red-waters_thumbnail.jpg"></a>
-<a href="./maps/desert-dungeon.jpg"><img src="./thumbnails/desert-dungeon_thumbnail.jpg"></a>
-<a href="./maps/monastery-of-the-eleventh-blessing-patreon.jpg"><img src="./thumbnails/monastery-of-the-eleventh-blessing-patreon_thumbnail.jpg"></a>
-<a href="./maps/april-index-card-2.jpg"><img src="./thumbnails/april-index-card-2_thumbnail.jpg"></a>
-<a href="./maps/epherens-keep-patreon.jpg"><img src="./thumbnails/epherens-keep-patreon_thumbnail.jpg"></a>
-<a href="./maps/small-pyramid.jpg"><img src="./thumbnails/small-pyramid_thumbnail.jpg"></a>
-<a href="./maps/loreans-manor.jpg"><img src="./thumbnails/loreans-manor_thumbnail.jpg"></a>
-<a href="./maps/pyramids-in-ruins-partial-grid.jpg"><img src="./thumbnails/pyramids-in-ruins-partial-grid_thumbnail.jpg"></a>
-<a href="./maps/carmine-archives-of-the-granite-marsh-patreon.jpg"><img src="./thumbnails/carmine-archives-of-the-granite-marsh-patreon_thumbnail.jpg"></a>
-<a href="./maps/ahryn-spire.jpg"><img src="./thumbnails/ahryn-spire_thumbnail.jpg"></a>
-<a href="./maps/the-stone-sinister-production.jpg"><img src="./thumbnails/the-stone-sinister-production_thumbnail.jpg"></a>
-<a href="./maps/astral-sanatorium-patreon.jpg"><img src="./thumbnails/astral-sanatorium-patreon_thumbnail.jpg"></a>
-<a href="./maps/perrol-on-the-mount-update-patreon.jpg"><img src="./thumbnails/perrol-on-the-mount-update-patreon_thumbnail.jpg"></a>
-<a href="./maps/kraken-summer-wines-grid.jpg"><img src="./thumbnails/kraken-summer-wines-grid_thumbnail.jpg"></a>
-<a href="./maps/ten-crown-river-cave-production.jpg"><img src="./thumbnails/ten-crown-river-cave-production_thumbnail.jpg"></a>
-<a href="./maps/ruins-of-the-gorgon-commercial.jpg"><img src="./thumbnails/ruins-of-the-gorgon-commercial_thumbnail.jpg"></a>
-<a href="./maps/hevlod-manor-patreon.jpg"><img src="./thumbnails/hevlod-manor-patreon_thumbnail.jpg"></a>
-<a href="./maps/temple-of-4-gods-ground-grid.jpg"><img src="./thumbnails/temple-of-4-gods-ground-grid_thumbnail.jpg"></a>
-<a href="./maps/dellorfano-protocols-1-grid.jpg"><img src="./thumbnails/dellorfano-protocols-1-grid_thumbnail.jpg"></a>
-<a href="./maps/dungeons-of-the-iron-star-level-1.jpg"><img src="./thumbnails/dungeons-of-the-iron-star-level-1_thumbnail.jpg"></a>
-<a href="./maps/web-the-bottomless-tombs-1-patreon.jpg"><img src="./thumbnails/web-the-bottomless-tombs-1-patreon_thumbnail.jpg"></a>
-<a href="./maps/sand-palace.jpg"><img src="./thumbnails/sand-palace_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-the-drop.jpg"><img src="./thumbnails/heart-of-darkling-the-drop_thumbnail.jpg"></a>
-<a href="./maps/two-river-ruins-patreon.jpg"><img src="./thumbnails/two-river-ruins-patreon_thumbnail.jpg"></a>
-<a href="./maps/metivier-manor-grid.jpg"><img src="./thumbnails/metivier-manor-grid_thumbnail.jpg"></a>
-<a href="./maps/dwarven-folly-kraken.jpg"><img src="./thumbnails/dwarven-folly-kraken_thumbnail.jpg"></a>
-<a href="./maps/drowning-point.jpg"><img src="./thumbnails/drowning-point_thumbnail.jpg"></a>
-<a href="./maps/september-dungeon-the-tower.jpg"><img src="./thumbnails/september-dungeon-the-tower_thumbnail.jpg"></a>
-<a href="./maps/hall-of-the-ancient-ones-grid-patreon.jpg"><img src="./thumbnails/hall-of-the-ancient-ones-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/four-pagodas-kraken-grid.jpg"><img src="./thumbnails/four-pagodas-kraken-grid_thumbnail.jpg"></a>
-<a href="./maps/the-many-chambers-of-izzels-folly-patreon.jpg"><img src="./thumbnails/the-many-chambers-of-izzels-folly-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-summoners-lair-grid.jpg"><img src="./thumbnails/the-summoners-lair-grid_thumbnail.jpg"></a>
-<a href="./maps/the-great-hall-kraken-grid.jpg"><img src="./thumbnails/the-great-hall-kraken-grid_thumbnail.jpg"></a>
-<a href="./maps/5-room-descent.jpg"><img src="./thumbnails/5-room-descent_thumbnail.jpg"></a>
-<a href="./maps/the-beacon-patreon.jpg"><img src="./thumbnails/the-beacon-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-bottomless-tombs-level-2.jpg"><img src="./thumbnails/the-bottomless-tombs-level-2_thumbnail.jpg"></a>
-<a href="./maps/4-toothed-drunk.jpg"><img src="./thumbnails/4-toothed-drunk_thumbnail.jpg"></a>
-<a href="./maps/pillars-entrance.jpg"><img src="./thumbnails/pillars-entrance_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-12.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-12_thumbnail.jpg"></a>
-<a href="./maps/small-under-the-observatory.jpg"><img src="./thumbnails/small-under-the-observatory_thumbnail.jpg"></a>
-<a href="./maps/circle-dungeon-patreon.jpg"><img src="./thumbnails/circle-dungeon-patreon_thumbnail.jpg"></a>
-<a href="./maps/masuransuruntsuruumikh.jpg"><img src="./thumbnails/masuransuruntsuruumikh_thumbnail.jpg"></a>
-<a href="./maps/black-sphinx-bay-hexes.jpg"><img src="./thumbnails/black-sphinx-bay-hexes_thumbnail.jpg"></a>
-<a href="./maps/ruins-and-dungeon.jpg"><img src="./thumbnails/ruins-and-dungeon_thumbnail.jpg"></a>
-<a href="./maps/tombs-of-the-steel-makers-patreon.jpg"><img src="./thumbnails/tombs-of-the-steel-makers-patreon_thumbnail.jpg"></a>
-<a href="./maps/warkings-vault-kraken.jpg"><img src="./thumbnails/warkings-vault-kraken_thumbnail.jpg"></a>
-<a href="./maps/toronin-ruins-underground-patreon.jpg"><img src="./thumbnails/toronin-ruins-underground-patreon_thumbnail.jpg"></a>
-<a href="./maps/tavern-temple-library-teleporters.jpg"><img src="./thumbnails/tavern-temple-library-teleporters_thumbnail.jpg"></a>
-<a href="./maps/autumn-lands-map-6-blackhex.jpg"><img src="./thumbnails/autumn-lands-map-6-blackhex_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-cold-caves.jpg"><img src="./thumbnails/heart-of-darkling-cold-caves_thumbnail.jpg"></a>
-<a href="./maps/poisoners-tower-patreon.jpg"><img src="./thumbnails/poisoners-tower-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-sordid-rhinoceros.jpg"><img src="./thumbnails/the-sordid-rhinoceros_thumbnail.jpg"></a>
-<a href="./maps/vikhelms-outpost-hrangveld-motte-and-bailey-logo.jpg"><img src="./thumbnails/vikhelms-outpost-hrangveld-motte-and-bailey-logo_thumbnail.jpg"></a>
-<a href="./maps/sanhelter-keep-600-shade-patreon.jpg"><img src="./thumbnails/sanhelter-keep-600-shade-patreon_thumbnail.jpg"></a>
-<a href="./maps/kobolds-checkpoints-grid-patreon.jpg"><img src="./thumbnails/kobolds-checkpoints-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/prismatic-fortress-grid.jpg"><img src="./thumbnails/prismatic-fortress-grid_thumbnail.jpg"></a>
-<a href="./maps/random-hexmap-7-blackhex.jpg"><img src="./thumbnails/random-hexmap-7-blackhex_thumbnail.jpg"></a>
-<a href="./maps/temple-of-rains-patreon.jpg"><img src="./thumbnails/temple-of-rains-patreon_thumbnail.jpg"></a>
-<a href="./maps/svirfneblin-bridge-fortress.jpg"><img src="./thumbnails/svirfneblin-bridge-fortress_thumbnail.jpg"></a>
-<a href="./maps/stony-shore-map-1.jpg"><img src="./thumbnails/stony-shore-map-1_thumbnail.jpg"></a>
-<a href="./maps/the-palace-market-businesses.jpg"><img src="./thumbnails/the-palace-market-businesses_thumbnail.jpg"></a>
-<a href="./maps/web-dark-caverns-of-turr-patreon.jpg"><img src="./thumbnails/web-dark-caverns-of-turr-patreon_thumbnail.jpg"></a>
-<a href="./maps/sparrows-fort-grid.jpg"><img src="./thumbnails/sparrows-fort-grid_thumbnail.jpg"></a>
-<a href="./maps/big-statue-temple-grid.jpg"><img src="./thumbnails/big-statue-temple-grid_thumbnail.jpg"></a>
-<a href="./maps/restless-hollow-patreon.jpg"><img src="./thumbnails/restless-hollow-patreon_thumbnail.jpg"></a>
-<a href="./maps/toronin-ruins-surface-patreon.jpg"><img src="./thumbnails/toronin-ruins-surface-patreon_thumbnail.jpg"></a>
-<a href="./maps/frogsmead-final.jpg"><img src="./thumbnails/frogsmead-final_thumbnail.jpg"></a>
-<a href="./maps/clayfield-village-patreon.jpg"><img src="./thumbnails/clayfield-village-patreon_thumbnail.jpg"></a>
-<a href="./maps/engine-sinkhole.jpg"><img src="./thumbnails/engine-sinkhole_thumbnail.jpg"></a>
-<a href="./maps/dungeons-of-the-iron-star-level-2.jpg"><img src="./thumbnails/dungeons-of-the-iron-star-level-2_thumbnail.jpg"></a>
-<a href="./maps/the-arcane-waters.jpg"><img src="./thumbnails/the-arcane-waters_thumbnail.jpg"></a>
-<a href="./maps/riverside-ruins-1.jpg"><img src="./thumbnails/riverside-ruins-1_thumbnail.jpg"></a>
-<a href="./maps/dreifers-fortress-patreon.jpg"><img src="./thumbnails/dreifers-fortress-patreon_thumbnail.jpg"></a>
-<a href="./maps/gladiators-temple.jpg"><img src="./thumbnails/gladiators-temple_thumbnail.jpg"></a>
-<a href="./maps/deep-halls-grid.jpg"><img src="./thumbnails/deep-halls-grid_thumbnail.jpg"></a>
-<a href="./maps/april-village-and-manor.jpg"><img src="./thumbnails/april-village-and-manor_thumbnail.jpg"></a>
-<a href="./maps/hatak-combined-grid.jpg"><img src="./thumbnails/hatak-combined-grid_thumbnail.jpg"></a>
-<a href="./maps/old-turnip-inn.jpg"><img src="./thumbnails/old-turnip-inn_thumbnail.jpg"></a>
-<a href="./maps/iseldecs-drop-20-23.jpg"><img src="./thumbnails/iseldecs-drop-20-23_thumbnail.jpg"></a>
-<a href="./maps/stony-shore-map-3.jpg"><img src="./thumbnails/stony-shore-map-3_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-cavern-spillways.jpg"><img src="./thumbnails/darklingtown-cavern-spillways_thumbnail.jpg"></a>
-<a href="./maps/r-an_northcott_sociological_research_domes.jpg"><img src="./thumbnails/r-an_northcott_sociological_research_domes_thumbnail.jpg"></a>
-<a href="./maps/liars-cave-patreon.jpg"><img src="./thumbnails/liars-cave-patreon_thumbnail.jpg"></a>
-<a href="./maps/pitmann-manse.jpg"><img src="./thumbnails/pitmann-manse_thumbnail.jpg"></a>
-<a href="./maps/return-to-appletree-pond.jpg"><img src="./thumbnails/return-to-appletree-pond_thumbnail.jpg"></a>
-<a href="./maps/kraken-cliffstable-on-kerstal.jpg"><img src="./thumbnails/kraken-cliffstable-on-kerstal_thumbnail.jpg"></a>
-<a href="./maps/lost-reliquary.jpg"><img src="./thumbnails/lost-reliquary_thumbnail.jpg"></a>
-<a href="./maps/derelict-station-grid-patreon.jpg"><img src="./thumbnails/derelict-station-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/church.jpg"><img src="./thumbnails/church_thumbnail.jpg"></a>
-<a href="./maps/spiral-grotto.jpg"><img src="./thumbnails/spiral-grotto_thumbnail.jpg"></a>
-<a href="./maps/hexes-of-september-bw.jpg"><img src="./thumbnails/hexes-of-september-bw_thumbnail.jpg"></a>
-<a href="./maps/third-story-chase-patreon.jpg"><img src="./thumbnails/third-story-chase-patreon_thumbnail.jpg"></a>
-<a href="./maps/behkon-inn.jpg"><img src="./thumbnails/behkon-inn_thumbnail.jpg"></a>
-<a href="./maps/ruins-and-dungeons.jpg"><img src="./thumbnails/ruins-and-dungeons_thumbnail.jpg"></a>
-<a href="./maps/dragon-temple.jpg"><img src="./thumbnails/dragon-temple_thumbnail.jpg"></a>
-<a href="./maps/church-ruins.jpg"><img src="./thumbnails/church-ruins_thumbnail.jpg"></a>
-<a href="./maps/church-of-the-oracles-in-onyx.jpg"><img src="./thumbnails/church-of-the-oracles-in-onyx_thumbnail.jpg"></a>
-<a href="./maps/wharton-mine-patreon.jpg"><img src="./thumbnails/wharton-mine-patreon_thumbnail.jpg"></a>
-<a href="./maps/rosnar-hill-patreon.jpg"><img src="./thumbnails/rosnar-hill-patreon_thumbnail.jpg"></a>
-<a href="./maps/uogralas-patreon.jpg"><img src="./thumbnails/uogralas-patreon_thumbnail.jpg"></a>
-<a href="./maps/mastervale-kraken.jpg"><img src="./thumbnails/mastervale-kraken_thumbnail.jpg"></a>
-<a href="./maps/ency-glowlands-2.jpg"><img src="./thumbnails/ency-glowlands-2_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-10.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-10_thumbnail.jpg"></a>
-<a href="./maps/angarth-citadel-patreon.jpg"><img src="./thumbnails/angarth-citadel-patreon_thumbnail.jpg"></a>
-<a href="./maps/goblin-ruins-isometric.jpg"><img src="./thumbnails/goblin-ruins-isometric_thumbnail.jpg"></a>
-<a href="./maps/new-cresthill-screen-patreon.jpg"><img src="./thumbnails/new-cresthill-screen-patreon_thumbnail.jpg"></a>
-<a href="./maps/Princes-Harbour-3-Hexes.jpg"><img src="./thumbnails/Princes-Harbour-3-Hexes_thumbnail.jpg"></a>
-<a href="./maps/blind-lamias-cave.jpg"><img src="./thumbnails/blind-lamias-cave_thumbnail.jpg"></a>
-<a href="./maps/dread-shrine-of-the-magi-in-sapphire.jpg"><img src="./thumbnails/dread-shrine-of-the-magi-in-sapphire_thumbnail.jpg"></a>
-<a href="./maps/wyvernseeker-rock-patreon.jpg"><img src="./thumbnails/wyvernseeker-rock-patreon_thumbnail.jpg"></a>
-<a href="./maps/giants-halls-complete.jpg"><img src="./thumbnails/giants-halls-complete_thumbnail.jpg"></a>
-<a href="./maps/stony-shore-map-2.jpg"><img src="./thumbnails/stony-shore-map-2_thumbnail.jpg"></a>
-<a href="./maps/delren-street-sewers-kraken.jpg"><img src="./thumbnails/delren-street-sewers-kraken_thumbnail.jpg"></a>
-<a href="./maps/september-dungeon-south.jpg"><img src="./thumbnails/september-dungeon-south_thumbnail.jpg"></a>
-<a href="./maps/river-gallery-patreon.jpg"><img src="./thumbnails/river-gallery-patreon_thumbnail.jpg"></a>
-<a href="./maps/somerrich-cays.jpg"><img src="./thumbnails/somerrich-cays_thumbnail.jpg"></a>
-<a href="./maps/under-the-claw-of-sunset-map-1.jpg"><img src="./thumbnails/under-the-claw-of-sunset-map-1_thumbnail.jpg"></a>
-<a href="./maps/city-of-blue-colour.jpg"><img src="./thumbnails/city-of-blue-colour_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-the-lakeshore-patreon.jpg"><img src="./thumbnails/heart-of-darkling-the-lakeshore-patreon_thumbnail.jpg"></a>
-<a href="./maps/windsong-hall.jpg"><img src="./thumbnails/windsong-hall_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-9.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-9_thumbnail.jpg"></a>
-<a href="./maps/forlorn-halls-of-the-mongrelfolk.jpg"><img src="./thumbnails/forlorn-halls-of-the-mongrelfolk_thumbnail.jpg"></a>
-<a href="./maps/corrupt-water-temple-fixed.jpg"><img src="./thumbnails/corrupt-water-temple-fixed_thumbnail.jpg"></a>
-<a href="./maps/rumbledown-ruins.jpg"><img src="./thumbnails/rumbledown-ruins_thumbnail.jpg"></a>
-<a href="./maps/twelve-goats-tavern-grid.jpg"><img src="./thumbnails/twelve-goats-tavern-grid_thumbnail.jpg"></a>
-<a href="./maps/tavern-of-salt-patreon.jpg"><img src="./thumbnails/tavern-of-salt-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-twin-norkers-tagged.jpg"><img src="./thumbnails/the-twin-norkers-tagged_thumbnail.jpg"></a>
-<a href="./maps/waterfall-combined.jpg"><img src="./thumbnails/waterfall-combined_thumbnail.jpg"></a>
-<a href="./maps/5-room-caves.jpg"><img src="./thumbnails/5-room-caves_thumbnail.jpg"></a>
-<a href="./maps/shattered-tower-lower-grid.jpg"><img src="./thumbnails/shattered-tower-lower-grid_thumbnail.jpg"></a>
-<a href="./maps/crypts-and-worms.jpg"><img src="./thumbnails/crypts-and-worms_thumbnail.jpg"></a>
-<a href="./maps/poisoned-chambers-patreon.jpg"><img src="./thumbnails/poisoned-chambers-patreon_thumbnail.jpg"></a>
-<a href="./maps/lost-ossuary-grid-patreon.jpg"><img src="./thumbnails/lost-ossuary-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/krelava-manor-kraken.jpg"><img src="./thumbnails/krelava-manor-kraken_thumbnail.jpg"></a>
-<a href="./maps/iseldecs-drop-13-16.jpg"><img src="./thumbnails/iseldecs-drop-13-16_thumbnail.jpg"></a>
-<a href="./maps/warlocks-arms.jpg"><img src="./thumbnails/warlocks-arms_thumbnail.jpg"></a>
-<a href="./maps/griffon-tower-dungeons.jpg"><img src="./thumbnails/griffon-tower-dungeons_thumbnail.jpg"></a>
-<a href="./maps/under-the-lighthouse.jpg"><img src="./thumbnails/under-the-lighthouse_thumbnail.jpg"></a>
-<a href="./maps/theres-a-hole-in-the-dungeon-dear-liza-dear-liza.jpg"><img src="./thumbnails/theres-a-hole-in-the-dungeon-dear-liza-dear-liza_thumbnail.jpg"></a>
-<a href="./maps/stony-hill-patreon.jpg"><img src="./thumbnails/stony-hill-patreon_thumbnail.jpg"></a>
-<a href="./maps/psychedelic-cellar-of-the-stone-giants.jpg"><img src="./thumbnails/psychedelic-cellar-of-the-stone-giants_thumbnail.jpg"></a>
-<a href="./maps/turning-tower-combined-grid.jpg"><img src="./thumbnails/turning-tower-combined-grid_thumbnail.jpg"></a>
-<a href="./maps/dungeon-of-holding.jpg"><img src="./thumbnails/dungeon-of-holding_thumbnail.jpg"></a>
-<a href="./maps/a5-dungeon-test-revised-2.jpg"><img src="./thumbnails/a5-dungeon-test-revised-2_thumbnail.jpg"></a>
-<a href="./maps/basilisks-caves-patreon.jpg"><img src="./thumbnails/basilisks-caves-patreon_thumbnail.jpg"></a>
-<a href="./maps/ettin-manor-production.jpg"><img src="./thumbnails/ettin-manor-production_thumbnail.jpg"></a>
-<a href="./maps/pentagon-of-pentagons.jpg"><img src="./thumbnails/pentagon-of-pentagons_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-east-frogsport.jpg"><img src="./thumbnails/darklingtown-east-frogsport_thumbnail.jpg"></a>
-<a href="./maps/building-2-fishmonger.jpg"><img src="./thumbnails/building-2-fishmonger_thumbnail.jpg"></a>
-<a href="./maps/kamrorths-cairn.jpg"><img src="./thumbnails/kamrorths-cairn_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-8.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-8_thumbnail.jpg"></a>
-<a href="./maps/statues-of-the-thrall-gods.jpg"><img src="./thumbnails/statues-of-the-thrall-gods_thumbnail.jpg"></a>
-<a href="./maps/temple-of-the-snake-grid.jpg"><img src="./thumbnails/temple-of-the-snake-grid_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-frogtower.jpg"><img src="./thumbnails/darklingtown-frogtower_thumbnail.jpg"></a>
-<a href="./maps/roots-of-the-world-300-screens.jpg"><img src="./thumbnails/roots-of-the-world-300-screens_thumbnail.jpg"></a>
-<a href="./maps/froghemoth-temple.jpg"><img src="./thumbnails/froghemoth-temple_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-north.jpg"><img src="./thumbnails/darklingtown-north_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-silver-shrines-patreon.jpg"><img src="./thumbnails/heart-of-darkling-silver-shrines-patreon_thumbnail.jpg"></a>
-<a href="./maps/melad-crossings-patreon.jpg"><img src="./thumbnails/melad-crossings-patreon_thumbnail.jpg"></a>
-<a href="./maps/ruined-fane.jpg"><img src="./thumbnails/ruined-fane_thumbnail.jpg"></a>
-<a href="./maps/the-isle-of-clover-grey.jpg"><img src="./thumbnails/the-isle-of-clover-grey_thumbnail.jpg"></a>
-<a href="./maps/flooded-catacombs.jpg"><img src="./thumbnails/flooded-catacombs_thumbnail.jpg"></a>
-<a href="./maps/the-sunken-maw-grid-patreon.jpg"><img src="./thumbnails/the-sunken-maw-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/serzens-seven-stairs-grid-patreon.jpg"><img src="./thumbnails/serzens-seven-stairs-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/cult-basement.jpg"><img src="./thumbnails/cult-basement_thumbnail.jpg"></a>
-<a href="./maps/axebridge-over-blackbay-kraken.jpg"><img src="./thumbnails/axebridge-over-blackbay-kraken_thumbnail.jpg"></a>
-<a href="./maps/return-to-oakenshields-tomb.jpg"><img src="./thumbnails/return-to-oakenshields-tomb_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-the-tunnels.jpg"><img src="./thumbnails/darklingtown-the-tunnels_thumbnail.jpg"></a>
-<a href="./maps/ruins-of-the-claw-of-sunsets-map-2.jpg"><img src="./thumbnails/ruins-of-the-claw-of-sunsets-map-2_thumbnail.jpg"></a>
-<a href="./maps/ruins-of-the-claw-of-sunsets-map-3.jpg"><img src="./thumbnails/ruins-of-the-claw-of-sunsets-map-3_thumbnail.jpg"></a>
-<a href="./maps/kraken-collapsed-tomb-of-mosogret.jpg"><img src="./thumbnails/kraken-collapsed-tomb-of-mosogret_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-1a-patreon.jpg"><img src="./thumbnails/heart-of-darkling-1a-patreon_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-upper-tunnels.jpg"><img src="./thumbnails/darklingtown-upper-tunnels_thumbnail.jpg"></a>
-<a href="./maps/last-home-of-the-three-heretics-of-xaeen.jpg"><img src="./thumbnails/last-home-of-the-three-heretics-of-xaeen_thumbnail.jpg"></a>
-<a href="./maps/brentons-watch-grid.jpg"><img src="./thumbnails/brentons-watch-grid_thumbnail.jpg"></a>
-<a href="./maps/spiral-temple-grid.jpg"><img src="./thumbnails/spiral-temple-grid_thumbnail.jpg"></a>
-<a href="./maps/sanctuary-of-the-magi.jpg"><img src="./thumbnails/sanctuary-of-the-magi_thumbnail.jpg"></a>
-<a href="./maps/the-juicer-patreon.jpg"><img src="./thumbnails/the-juicer-patreon_thumbnail.jpg"></a>
-<a href="./maps/blackstone-bastion.jpg"><img src="./thumbnails/blackstone-bastion_thumbnail.jpg"></a>
-<a href="./maps/underhill-saloon-and-eatery-grid-patreon.jpg"><img src="./thumbnails/underhill-saloon-and-eatery-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/idol-pit.jpg"><img src="./thumbnails/idol-pit_thumbnail.jpg"></a>
-<a href="./maps/the-deep-sepulchre.jpg"><img src="./thumbnails/the-deep-sepulchre_thumbnail.jpg"></a>
-<a href="./maps/tomb-of-the-kirin-born-prince.jpg"><img src="./thumbnails/tomb-of-the-kirin-born-prince_thumbnail.jpg"></a>
-<a href="./maps/dawnflow-bridges-grid.jpg"><img src="./thumbnails/dawnflow-bridges-grid_thumbnail.jpg"></a>
-<a href="./maps/hollowstone.jpg"><img src="./thumbnails/hollowstone_thumbnail.jpg"></a>
-<a href="./maps/tunnels-of-the-shrouded-emperor.jpg"><img src="./thumbnails/tunnels-of-the-shrouded-emperor_thumbnail.jpg"></a>
-<a href="./maps/darkling-galleries.jpg"><img src="./thumbnails/darkling-galleries_thumbnail.jpg"></a>
-<a href="./maps/the-finger.jpg"><img src="./thumbnails/the-finger_thumbnail.jpg"></a>
-<a href="./maps/three-tiered-tomb.jpg"><img src="./thumbnails/three-tiered-tomb_thumbnail.jpg"></a>
-<a href="./maps/the-halls-of-lost-heroes.jpg"><img src="./thumbnails/the-halls-of-lost-heroes_thumbnail.jpg"></a>
-<a href="./maps/goblin-cut-gold-mine-patreon.jpg"><img src="./thumbnails/goblin-cut-gold-mine-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-ascent-patreon.jpg"><img src="./thumbnails/the-ascent-patreon_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-6.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-6_thumbnail.jpg"></a>
-<a href="./maps/west-sewers-complex.jpg"><img src="./thumbnails/west-sewers-complex_thumbnail.jpg"></a>
-<a href="./maps/demon-pillars-of-iv.jpg"><img src="./thumbnails/demon-pillars-of-iv_thumbnail.jpg"></a>
-<a href="./maps/mount-thorrien.jpg"><img src="./thumbnails/mount-thorrien_thumbnail.jpg"></a>
-<a href="./maps/index-card-5rd-dwarven-hall.jpg"><img src="./thumbnails/index-card-5rd-dwarven-hall_thumbnail.jpg"></a>
-<a href="./maps/camping-map-1.jpg"><img src="./thumbnails/camping-map-1_thumbnail.jpg"></a>
-<a href="./maps/kraken-tomb-of-the-smith.jpg"><img src="./thumbnails/kraken-tomb-of-the-smith_thumbnail.jpg"></a>
-<a href="./maps/web-the-bronze-vault-grid-patreon.jpg"><img src="./thumbnails/web-the-bronze-vault-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/far-beneath-the-finger.jpg"><img src="./thumbnails/far-beneath-the-finger_thumbnail.jpg"></a>
-<a href="./maps/great-pyramid-worship-level-grid.jpg"><img src="./thumbnails/great-pyramid-worship-level-grid_thumbnail.jpg"></a>
-<a href="./maps/dawnharbor-patreon.jpg"><img src="./thumbnails/dawnharbor-patreon_thumbnail.jpg"></a>
-<a href="./maps/vansho-reliquary.jpg"><img src="./thumbnails/vansho-reliquary_thumbnail.jpg"></a>
-<a href="./maps/beneath-the-black-cairn.jpg"><img src="./thumbnails/beneath-the-black-cairn_thumbnail.jpg"></a>
-<a href="./maps/oceanwatch.jpg"><img src="./thumbnails/oceanwatch_thumbnail.jpg"></a>
-<a href="./maps/under-eastmeadow-manor.jpg"><img src="./thumbnails/under-eastmeadow-manor_thumbnail.jpg"></a>
-<a href="./maps/still-grotto-grid-and-water.jpg"><img src="./thumbnails/still-grotto-grid-and-water_thumbnail.jpg"></a>
-<a href="./maps/black-spire-through-salted-lands-grid.jpg"><img src="./thumbnails/black-spire-through-salted-lands-grid_thumbnail.jpg"></a>
-<a href="./maps/javelin-hill-patreon.jpg"><img src="./thumbnails/javelin-hill-patreon_thumbnail.jpg"></a>
-<a href="./maps/robrus-beach-cave.jpg"><img src="./thumbnails/robrus-beach-cave_thumbnail.jpg"></a>
-<a href="./maps/sarku-temple-ground-floor.jpg"><img src="./thumbnails/sarku-temple-ground-floor_thumbnail.jpg"></a>
-<a href="./maps/miserth-keep-main.jpg"><img src="./thumbnails/miserth-keep-main_thumbnail.jpg"></a>
-<a href="./maps/index-card-descent.jpg"><img src="./thumbnails/index-card-descent_thumbnail.jpg"></a>
-<a href="./maps/the-original-circle-of-doom.jpg"><img src="./thumbnails/the-original-circle-of-doom_thumbnail.jpg"></a>
-<a href="./maps/ruined-keep-of-madrual.jpg"><img src="./thumbnails/ruined-keep-of-madrual_thumbnail.jpg"></a>
-<a href="./maps/sewer-complex.jpg"><img src="./thumbnails/sewer-complex_thumbnail.jpg"></a>
-<a href="./maps/skybridge-nexus-2.jpg"><img src="./thumbnails/skybridge-nexus-2_thumbnail.jpg"></a>
-<a href="./maps/quellport.jpg"><img src="./thumbnails/quellport_thumbnail.jpg"></a>
-<a href="./maps/megachurch-patreon.jpg"><img src="./thumbnails/megachurch-patreon_thumbnail.jpg"></a>
-<a href="./maps/elder-brain-portal-patreon.jpg"><img src="./thumbnails/elder-brain-portal-patreon_thumbnail.jpg"></a>
-<a href="./maps/queen-hazrens-shrine-patreon.jpg"><img src="./thumbnails/queen-hazrens-shrine-patreon_thumbnail.jpg"></a>
-<a href="./maps/quiet-margose-tavern-patreon.jpg"><img src="./thumbnails/quiet-margose-tavern-patreon_thumbnail.jpg"></a>
-<a href="./maps/upstairs.jpg"><img src="./thumbnails/upstairs_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-frogsport.jpg"><img src="./thumbnails/darklingtown-frogsport_thumbnail.jpg"></a>
-<a href="./maps/archipelago-city.jpg"><img src="./thumbnails/archipelago-city_thumbnail.jpg"></a>
-<a href="./maps/roadside-fortress-simple-grid.jpg"><img src="./thumbnails/roadside-fortress-simple-grid_thumbnail.jpg"></a>
-<a href="./maps/web-chambers-of-the-absent-city.jpg"><img src="./thumbnails/web-chambers-of-the-absent-city_thumbnail.jpg"></a>
-<a href="./maps/little-ruins.jpg"><img src="./thumbnails/little-ruins_thumbnail.jpg"></a>
-<a href="./maps/november-index-card-cave.jpg"><img src="./thumbnails/november-index-card-cave_thumbnail.jpg"></a>
-<a href="./maps/onyx-hill-ruins.jpg"><img src="./thumbnails/onyx-hill-ruins_thumbnail.jpg"></a>
-<a href="./maps/keegans-temple-compound-grid-patreon.jpg"><img src="./thumbnails/keegans-temple-compound-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/borderland-caves.jpg"><img src="./thumbnails/borderland-caves_thumbnail.jpg"></a>
-<a href="./maps/dry-lighthouse.jpg"><img src="./thumbnails/dry-lighthouse_thumbnail.jpg"></a>
-<a href="./maps/crypt-of-the-scarlet-wolf-grid-patreon.jpg"><img src="./thumbnails/crypt-of-the-scarlet-wolf-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-lost-temple-of-aphosh-the-haunted.jpg"><img src="./thumbnails/the-lost-temple-of-aphosh-the-haunted_thumbnail.jpg"></a>
-<a href="./maps/prince-delans-shaft-tomb-patreon.jpg"><img src="./thumbnails/prince-delans-shaft-tomb-patreon_thumbnail.jpg"></a>
-<a href="./maps/griffinwatch-ruins.jpg"><img src="./thumbnails/griffinwatch-ruins_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-7.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-7_thumbnail.jpg"></a>
-<a href="./maps/the-dreadwarren.jpg"><img src="./thumbnails/the-dreadwarren_thumbnail.jpg"></a>
-<a href="./maps/eastmeadow-manor.jpg"><img src="./thumbnails/eastmeadow-manor_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-swiftwater-monastery-patreon.jpg"><img src="./thumbnails/heart-of-darkling-swiftwater-monastery-patreon_thumbnail.jpg"></a>
-<a href="./maps/betrayal-of-diane-the-thrice-damned-patreon.jpg"><img src="./thumbnails/betrayal-of-diane-the-thrice-damned-patreon_thumbnail.jpg"></a>
-<a href="./maps/octagons.jpg"><img src="./thumbnails/octagons_thumbnail.jpg"></a>
-<a href="./maps/mirelyns-skyrealm-bw-final-patreon.jpg"><img src="./thumbnails/mirelyns-skyrealm-bw-final-patreon_thumbnail.jpg"></a>
-<a href="./maps/september-fort.jpg"><img src="./thumbnails/september-fort_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-5.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-5_thumbnail.jpg"></a>
-<a href="./maps/asymmetric-temple-underground-grid.jpg"><img src="./thumbnails/asymmetric-temple-underground-grid_thumbnail.jpg"></a>
-<a href="./maps/interlinked-promo.jpg"><img src="./thumbnails/interlinked-promo_thumbnail.jpg"></a>
-<a href="./maps/will-o-the-wisp-patreon.jpg"><img src="./thumbnails/will-o-the-wisp-patreon_thumbnail.jpg"></a>
-<a href="./maps/defiled-waters.jpg"><img src="./thumbnails/defiled-waters_thumbnail.jpg"></a>
-<a href="./maps/camping-map-2.jpg"><img src="./thumbnails/camping-map-2_thumbnail.jpg"></a>
-<a href="./maps/sietch-of-morning.jpg"><img src="./thumbnails/sietch-of-morning_thumbnail.jpg"></a>
-<a href="./maps/dungeoneer-survival-guide-projection-1.jpg"><img src="./thumbnails/dungeoneer-survival-guide-projection-1_thumbnail.jpg"></a>
-<a href="./maps/twisting-tombs.jpg"><img src="./thumbnails/twisting-tombs_thumbnail.jpg"></a>
-<a href="./maps/feb-tavern.jpg"><img src="./thumbnails/feb-tavern_thumbnail.jpg"></a>
-<a href="./maps/elderan-reliquary-and-rectory-patreon.jpg"><img src="./thumbnails/elderan-reliquary-and-rectory-patreon_thumbnail.jpg"></a>
-<a href="./maps/oubliette-of-the-forgotten-magus.jpg"><img src="./thumbnails/oubliette-of-the-forgotten-magus_thumbnail.jpg"></a>
-<a href="./maps/tower-of-pillars.jpg"><img src="./thumbnails/tower-of-pillars_thumbnail.jpg"></a>
-<a href="./maps/split-dungeon.jpg"><img src="./thumbnails/split-dungeon_thumbnail.jpg"></a>
-<a href="./maps/Third-Eye-Patreon.jpg"><img src="./thumbnails/Third-Eye-Patreon_thumbnail.jpg"></a>
-<a href="./maps/vault-of-the-blue-golem.jpg"><img src="./thumbnails/vault-of-the-blue-golem_thumbnail.jpg"></a>
-<a href="./maps/secret-codices-of-the-emerald-hawk-society-patreon.jpg"><img src="./thumbnails/secret-codices-of-the-emerald-hawk-society-patreon_thumbnail.jpg"></a>
-<a href="./maps/five-room-v-shaped.jpg"><img src="./thumbnails/five-room-v-shaped_thumbnail.jpg"></a>
-<a href="./maps/priors-hill-patreon.jpg"><img src="./thumbnails/priors-hill-patreon_thumbnail.jpg"></a>
-<a href="./maps/lava-lamp-monolith.jpg"><img src="./thumbnails/lava-lamp-monolith_thumbnail.jpg"></a>
-<a href="./maps/summerthorpe.jpg"><img src="./thumbnails/summerthorpe_thumbnail.jpg"></a>
-<a href="./maps/jacobs-spur-colour.jpg"><img src="./thumbnails/jacobs-spur-colour_thumbnail.jpg"></a>
-<a href="./maps/dac-dungeon-grid.jpg"><img src="./thumbnails/dac-dungeon-grid_thumbnail.jpg"></a>
-<a href="./maps/rosewood-street-sewers.jpg"><img src="./thumbnails/rosewood-street-sewers_thumbnail.jpg"></a>
-<a href="./maps/six-by-six.jpg"><img src="./thumbnails/six-by-six_thumbnail.jpg"></a>
-<a href="./maps/desert-clan-hold-notes.jpg"><img src="./thumbnails/desert-clan-hold-notes_thumbnail.jpg"></a>
-<a href="./maps/leebs-fortress-patreon.jpg"><img src="./thumbnails/leebs-fortress-patreon_thumbnail.jpg"></a>
-<a href="./maps/dac-dungeon-isometric.jpg"><img src="./thumbnails/dac-dungeon-isometric_thumbnail.jpg"></a>
-<a href="./maps/building-6-wine-garden.jpg"><img src="./thumbnails/building-6-wine-garden_thumbnail.jpg"></a>
-<a href="./maps/jungle-ruins-grid-trees-patreon.jpg"><img src="./thumbnails/jungle-ruins-grid-trees-patreon_thumbnail.jpg"></a>
-<a href="./maps/sewer-dungeon-descent.jpg"><img src="./thumbnails/sewer-dungeon-descent_thumbnail.jpg"></a>
-<a href="./maps/building-11-carpenter.jpg"><img src="./thumbnails/building-11-carpenter_thumbnail.jpg"></a>
-<a href="./maps/bubble-city-of-oublos.jpg"><img src="./thumbnails/bubble-city-of-oublos_thumbnail.jpg"></a>
-<a href="./maps/three-tombs-of-acker-grid.jpg"><img src="./thumbnails/three-tombs-of-acker-grid_thumbnail.jpg"></a>
-<a href="./maps/building-3-carpets.jpg"><img src="./thumbnails/building-3-carpets_thumbnail.jpg"></a>
-<a href="./maps/ruined-cities-of-yoth.jpg"><img src="./thumbnails/ruined-cities-of-yoth_thumbnail.jpg"></a>
-<a href="./maps/guild-temple-600dpi-patreon.jpg"><img src="./thumbnails/guild-temple-600dpi-patreon_thumbnail.jpg"></a>
-<a href="./maps/smooshed-tower.jpg"><img src="./thumbnails/smooshed-tower_thumbnail.jpg"></a>
-<a href="./maps/hextemple-dungeon.jpg"><img src="./thumbnails/hextemple-dungeon_thumbnail.jpg"></a>
-<a href="./maps/vardisstvy-motte-and-bailey-patreon.jpg"><img src="./thumbnails/vardisstvy-motte-and-bailey-patreon_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-4.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-4_thumbnail.jpg"></a>
-<a href="./maps/caravanserai.jpg"><img src="./thumbnails/caravanserai_thumbnail.jpg"></a>
-<a href="./maps/crowspine-labyrinth.jpg"><img src="./thumbnails/crowspine-labyrinth_thumbnail.jpg"></a>
-<a href="./maps/banshees-tower-patreon.jpg"><img src="./thumbnails/banshees-tower-patreon_thumbnail.jpg"></a>
-<a href="./maps/proving-grounds-of-the-mad-ogrelord.jpg"><img src="./thumbnails/proving-grounds-of-the-mad-ogrelord_thumbnail.jpg"></a>
-<a href="./maps/monastery-of-the-sixfold-path-patreon.jpg"><img src="./thumbnails/monastery-of-the-sixfold-path-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-new-circle-of-doom-patreon.jpg"><img src="./thumbnails/the-new-circle-of-doom-patreon_thumbnail.jpg"></a>
-<a href="./maps/well-gurath.jpg"><img src="./thumbnails/well-gurath_thumbnail.jpg"></a>
-<a href="./maps/the-phoenix-diadem.jpg"><img src="./thumbnails/the-phoenix-diadem_thumbnail.jpg"></a>
-<a href="./maps/thirty-slain-magi-patreon.jpg"><img src="./thumbnails/thirty-slain-magi-patreon_thumbnail.jpg"></a>
-<a href="./maps/blessed-monastery.jpg"><img src="./thumbnails/blessed-monastery_thumbnail.jpg"></a>
-<a href="./maps/church-of-the-huntress-in-umber-patreon.jpg"><img src="./thumbnails/church-of-the-huntress-in-umber-patreon_thumbnail.jpg"></a>
-<a href="./maps/building-13-nets.jpg"><img src="./thumbnails/building-13-nets_thumbnail.jpg"></a>
-<a href="./maps/shrine-on-the-mosswater.jpg"><img src="./thumbnails/shrine-on-the-mosswater_thumbnail.jpg"></a>
-<a href="./maps/the-goblin-vault.jpg"><img src="./thumbnails/the-goblin-vault_thumbnail.jpg"></a>
-<a href="./maps/oak-king-small-fort-and-dungeon-grid.jpg"><img src="./thumbnails/oak-king-small-fort-and-dungeon-grid_thumbnail.jpg"></a>
-<a href="./maps/5rd-loop.jpg"><img src="./thumbnails/5rd-loop_thumbnail.jpg"></a>
-<a href="./maps/web-barrow-mounds-of-the-lich-and-famous-3-patreon.jpg"><img src="./thumbnails/web-barrow-mounds-of-the-lich-and-famous-3-patreon_thumbnail.jpg"></a>
-<a href="./maps/marching-tankard-coaching-inn-upper-floor-tagged.jpg"><img src="./thumbnails/marching-tankard-coaching-inn-upper-floor-tagged_thumbnail.jpg"></a>
-<a href="./maps/marker-dungeon.jpg"><img src="./thumbnails/marker-dungeon_thumbnail.jpg"></a>
-<a href="./maps/titans-teeth-combined-grid.jpg"><img src="./thumbnails/titans-teeth-combined-grid_thumbnail.jpg"></a>
-<a href="./maps/great-pyramid-upper-levels-grid.jpg"><img src="./thumbnails/great-pyramid-upper-levels-grid_thumbnail.jpg"></a>
-<a href="./maps/wygralaks-hole.jpg"><img src="./thumbnails/wygralaks-hole_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-11-revised.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-11-revised_thumbnail.jpg"></a>
-<a href="./maps/hexatomb.jpg"><img src="./thumbnails/hexatomb_thumbnail.jpg"></a>
-<a href="./maps/chainspire-dungeons-grid.jpg"><img src="./thumbnails/chainspire-dungeons-grid_thumbnail.jpg"></a>
-<a href="./maps/mayers-fort.jpg"><img src="./thumbnails/mayers-fort_thumbnail.jpg"></a>
-<a href="./maps/the-savage-caves-patreon.jpg"><img src="./thumbnails/the-savage-caves-patreon_thumbnail.jpg"></a>
-<a href="./maps/moonset-street-shops.jpg"><img src="./thumbnails/moonset-street-shops_thumbnail.jpg"></a>
-<a href="./maps/kraken-jacobs-spur.jpg"><img src="./thumbnails/kraken-jacobs-spur_thumbnail.jpg"></a>
-<a href="./maps/lizard-fort.jpg"><img src="./thumbnails/lizard-fort_thumbnail.jpg"></a>
-<a href="./maps/great-pyramid-ground-level-grid.jpg"><img src="./thumbnails/great-pyramid-ground-level-grid_thumbnail.jpg"></a>
-<a href="./maps/pit-dungeon-levels-9-12-v2.jpg"><img src="./thumbnails/pit-dungeon-levels-9-12-v2_thumbnail.jpg"></a>
-<a href="./maps/bitterchains-tombs.jpg"><img src="./thumbnails/bitterchains-tombs_thumbnail.jpg"></a>
-<a href="./maps/autumn-lands-map-i-blackhex.jpg"><img src="./thumbnails/autumn-lands-map-i-blackhex_thumbnail.jpg"></a>
-<a href="./maps/red-descent.jpg"><img src="./thumbnails/red-descent_thumbnail.jpg"></a>
-<a href="./maps/escheresque.jpg"><img src="./thumbnails/escheresque_thumbnail.jpg"></a>
-<a href="./maps/sleeping-goat-inn.jpg"><img src="./thumbnails/sleeping-goat-inn_thumbnail.jpg"></a>
-<a href="./maps/great-hall-grid.jpg"><img src="./thumbnails/great-hall-grid_thumbnail.jpg"></a>
-<a href="./maps/with-teeth.jpg"><img src="./thumbnails/with-teeth_thumbnail.jpg"></a>
-<a href="./maps/february-circle-tomb.jpg"><img src="./thumbnails/february-circle-tomb_thumbnail.jpg"></a>
-<a href="./maps/lords-of-the-aldeiron-peaks-2021-1200.jpg"><img src="./thumbnails/lords-of-the-aldeiron-peaks-2021-1200_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-1.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-1_thumbnail.jpg"></a>
-<a href="./maps/throne-room-4.jpg"><img src="./thumbnails/throne-room-4_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-3.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-3_thumbnail.jpg"></a>
-<a href="./maps/building-12-general-goods.jpg"><img src="./thumbnails/building-12-general-goods_thumbnail.jpg"></a>
-<a href="./maps/greyrock-tower.jpg"><img src="./thumbnails/greyrock-tower_thumbnail.jpg"></a>
-<a href="./maps/gauntlet-of-the-flintcrowned-ghouls.jpg"><img src="./thumbnails/gauntlet-of-the-flintcrowned-ghouls_thumbnail.jpg"></a>
-<a href="./maps/bellfield-landings-patreon.jpg"><img src="./thumbnails/bellfield-landings-patreon_thumbnail.jpg"></a>
-<a href="./maps/guddurs-wicked-teahouse.jpg"><img src="./thumbnails/guddurs-wicked-teahouse_thumbnail.jpg"></a>
-<a href="./maps/dungeon-in-12-parts-kraken.jpg"><img src="./thumbnails/dungeon-in-12-parts-kraken_thumbnail.jpg"></a>
-<a href="./maps/wooden-duck-inn.jpg"><img src="./thumbnails/wooden-duck-inn_thumbnail.jpg"></a>
-<a href="./maps/iyesgarten-regional-map.jpg"><img src="./thumbnails/iyesgarten-regional-map_thumbnail.jpg"></a>
-<a href="./maps/warcton-hold-patreon.jpg"><img src="./thumbnails/warcton-hold-patreon_thumbnail.jpg"></a>
-<a href="./maps/building-5-loans.jpg"><img src="./thumbnails/building-5-loans_thumbnail.jpg"></a>
-<a href="./maps/basilica.jpg"><img src="./thumbnails/basilica_thumbnail.jpg"></a>
-<a href="./maps/linos-sky-realms.jpg"><img src="./thumbnails/linos-sky-realms_thumbnail.jpg"></a>
-<a href="./maps/dwarf-fortress-index-card.jpg"><img src="./thumbnails/dwarf-fortress-index-card_thumbnail.jpg"></a>
-<a href="./maps/tarsakh-manor-ground-floor.jpg"><img src="./thumbnails/tarsakh-manor-ground-floor_thumbnail.jpg"></a>
-<a href="./maps/shop-9-fortune-and-smith.jpg"><img src="./thumbnails/shop-9-fortune-and-smith_thumbnail.jpg"></a>
-<a href="./maps/four-javelins-ground-production-annotated-patreon.jpg"><img src="./thumbnails/four-javelins-ground-production-annotated-patreon_thumbnail.jpg"></a>
-<a href="./maps/ziggurat-part-1-grid.jpg"><img src="./thumbnails/ziggurat-part-1-grid_thumbnail.jpg"></a>
-<a href="./maps/goat-shrine.jpg"><img src="./thumbnails/goat-shrine_thumbnail.jpg"></a>
-<a href="./maps/redrock-cays-patreon.jpg"><img src="./thumbnails/redrock-cays-patreon_thumbnail.jpg"></a>
-<a href="./maps/smallharbour.jpg"><img src="./thumbnails/smallharbour_thumbnail.jpg"></a>
-<a href="./maps/ettin-manor-dungeon-grid.jpg"><img src="./thumbnails/ettin-manor-dungeon-grid_thumbnail.jpg"></a>
-<a href="./maps/garden-palace-patreon.jpg"><img src="./thumbnails/garden-palace-patreon_thumbnail.jpg"></a>
-<a href="./maps/springhollow-kraken.jpg"><img src="./thumbnails/springhollow-kraken_thumbnail.jpg"></a>
-<a href="./maps/kraken-letath.jpg"><img src="./thumbnails/kraken-letath_thumbnail.jpg"></a>
-<a href="./maps/shrine-of-the-demon-eskarna.jpg"><img src="./thumbnails/shrine-of-the-demon-eskarna_thumbnail.jpg"></a>
-<a href="./maps/5-room-speedrun.jpg"><img src="./thumbnails/5-room-speedrun_thumbnail.jpg"></a>
-<a href="./maps/building-4-fruit.jpg"><img src="./thumbnails/building-4-fruit_thumbnail.jpg"></a>
-<a href="./maps/vault-of-the-lapis-monk-patreon.jpg"><img src="./thumbnails/vault-of-the-lapis-monk-patreon_thumbnail.jpg"></a>
-<a href="./maps/hex-tavern.jpg"><img src="./thumbnails/hex-tavern_thumbnail.jpg"></a>
-<a href="./maps/the-long-halls-patreon.jpg"><img src="./thumbnails/the-long-halls-patreon_thumbnail.jpg"></a>
-<a href="./maps/house-of-seven-wines.jpg"><img src="./thumbnails/house-of-seven-wines_thumbnail.jpg"></a>
-<a href="./maps/miserth-keep-dungeons.jpg"><img src="./thumbnails/miserth-keep-dungeons_thumbnail.jpg"></a>
-<a href="./maps/iyesgarten.jpg"><img src="./thumbnails/iyesgarten_thumbnail.jpg"></a>
-<a href="./maps/fire-beetle-ale-house.jpg"><img src="./thumbnails/fire-beetle-ale-house_thumbnail.jpg"></a>
-<a href="./maps/building-1-pottery-workshop.jpg"><img src="./thumbnails/building-1-pottery-workshop_thumbnail.jpg"></a>
-<a href="./maps/goretooths-grotto.jpg"><img src="./thumbnails/goretooths-grotto_thumbnail.jpg"></a>
-<a href="./maps/temple-of-lost-ormus.jpg"><img src="./thumbnails/temple-of-lost-ormus_thumbnail.jpg"></a>
-<a href="./maps/index-card-dungeon-ii-map-2.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-2_thumbnail.jpg"></a>
-<a href="./maps/aurelons-keep-grid-patreon.jpg"><img src="./thumbnails/aurelons-keep-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-lame-barghest.jpg"><img src="./thumbnails/the-lame-barghest_thumbnail.jpg"></a>
-<a href="./maps/temple-walk.jpg"><img src="./thumbnails/temple-walk_thumbnail.jpg"></a>
-<a href="./maps/pirates-cave-patreon.jpg"><img src="./thumbnails/pirates-cave-patreon_thumbnail.jpg"></a>
-<a href="./maps/library-with-grid.jpg"><img src="./thumbnails/library-with-grid_thumbnail.jpg"></a>
-<a href="./maps/the-vault-of-tranquility.jpg"><img src="./thumbnails/the-vault-of-tranquility_thumbnail.jpg"></a>
-<a href="./maps/forgotten-crypts-and-catacombs-patreon.jpg"><img src="./thumbnails/forgotten-crypts-and-catacombs-patreon_thumbnail.jpg"></a>
-<a href="./maps/jandos-arch.jpg"><img src="./thumbnails/jandos-arch_thumbnail.jpg"></a>
-<a href="./maps/the-lost-watch.jpg"><img src="./thumbnails/the-lost-watch_thumbnail.jpg"></a>
-<a href="./maps/waste-treatment.jpg"><img src="./thumbnails/waste-treatment_thumbnail.jpg"></a>
-<a href="./maps/spiral-hill.jpg"><img src="./thumbnails/spiral-hill_thumbnail.jpg"></a>
-<a href="./maps/sisters-ford.jpg"><img src="./thumbnails/sisters-ford_thumbnail.jpg"></a>
-<a href="./maps/colour-ruins-bw.jpg"><img src="./thumbnails/colour-ruins-bw_thumbnail.jpg"></a>
-<a href="./maps/tramurs-lakehouse-screens-patreon.jpg"><img src="./thumbnails/tramurs-lakehouse-screens-patreon_thumbnail.jpg"></a>
-<a href="./maps/paradise-control-commercial-grid.jpg"><img src="./thumbnails/paradise-control-commercial-grid_thumbnail.jpg"></a>
-<a href="./maps/prison-complex-grid.jpg"><img src="./thumbnails/prison-complex-grid_thumbnail.jpg"></a>
-<a href="./maps/oreneys-watch.jpg"><img src="./thumbnails/oreneys-watch_thumbnail.jpg"></a>
-<a href="./maps/little-labyrinth-patreon.jpg"><img src="./thumbnails/little-labyrinth-patreon_thumbnail.jpg"></a>
-<a href="./maps/jade-catacombs.jpg"><img src="./thumbnails/jade-catacombs_thumbnail.jpg"></a>
-<a href="./maps/an-nayyirs-pyramid-1200.jpg"><img src="./thumbnails/an-nayyirs-pyramid-1200_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-mindscapes.jpg"><img src="./thumbnails/heart-of-darkling-mindscapes_thumbnail.jpg"></a>
-<a href="./maps/south-sewers-hideout.jpg"><img src="./thumbnails/south-sewers-hideout_thumbnail.jpg"></a>
-<a href="./maps/hurren-city-of-the-elders.jpg"><img src="./thumbnails/hurren-city-of-the-elders_thumbnail.jpg"></a>
-<a href="./maps/druid-island-nowater.jpg"><img src="./thumbnails/druid-island-nowater_thumbnail.jpg"></a>
-<a href="./maps/isometric-elevator-dungeon-patreon.jpg"><img src="./thumbnails/isometric-elevator-dungeon-patreon_thumbnail.jpg"></a>
-<a href="./maps/vanshiro-reliquary.jpg"><img src="./thumbnails/vanshiro-reliquary_thumbnail.jpg"></a>
-<a href="./maps/dead-goblin-hole.jpg"><img src="./thumbnails/dead-goblin-hole_thumbnail.jpg"></a>
-<a href="./maps/temple-cave.jpg"><img src="./thumbnails/temple-cave_thumbnail.jpg"></a>
-<a href="./maps/lake-ruins-1.jpg"><img src="./thumbnails/lake-ruins-1_thumbnail.jpg"></a>
-<a href="./maps/twilight-descent.jpg"><img src="./thumbnails/twilight-descent_thumbnail.jpg"></a>
-<a href="./maps/rhino-containment-caves-of-the-iron-overlord-grid.jpg"><img src="./thumbnails/rhino-containment-caves-of-the-iron-overlord-grid_thumbnail.jpg"></a>
-<a href="./maps/the-half-cask-tavern.jpg"><img src="./thumbnails/the-half-cask-tavern_thumbnail.jpg"></a>
-<a href="./maps/ruins-of-the-claw-of-sunset-map-1.jpg"><img src="./thumbnails/ruins-of-the-claw-of-sunset-map-1_thumbnail.jpg"></a>
-<a href="./maps/torlester-hill-patreon.jpg"><img src="./thumbnails/torlester-hill-patreon_thumbnail.jpg"></a>
-<a href="./maps/illhan-isometric.jpg"><img src="./thumbnails/illhan-isometric_thumbnail.jpg"></a>
-<a href="./maps/labhruinns-tavern.jpg"><img src="./thumbnails/labhruinns-tavern_thumbnail.jpg"></a>
-<a href="./maps/cinder-throne-kraken.jpg"><img src="./thumbnails/cinder-throne-kraken_thumbnail.jpg"></a>
-<a href="./maps/the-weeping-outpost-patreon.jpg"><img src="./thumbnails/the-weeping-outpost-patreon_thumbnail.jpg"></a>
-<a href="./maps/cage-street-sewers.jpg"><img src="./thumbnails/cage-street-sewers_thumbnail.jpg"></a>
-<a href="./maps/sewer-elements.jpg"><img src="./thumbnails/sewer-elements_thumbnail.jpg"></a>
-<a href="./maps/5-room-river.jpg"><img src="./thumbnails/5-room-river_thumbnail.jpg"></a>
-<a href="./maps/ruins-of-the-hillfort.jpg"><img src="./thumbnails/ruins-of-the-hillfort_thumbnail.jpg"></a>
-<a href="./maps/the-granite-shore-2021-200.jpg"><img src="./thumbnails/the-granite-shore-2021-200_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-ditullio-islands-patreon.jpg"><img src="./thumbnails/heart-of-darkling-ditullio-islands-patreon_thumbnail.jpg"></a>
-<a href="./maps/geomorph-halls-1.jpg"><img src="./thumbnails/geomorph-halls-1_thumbnail.jpg"></a>
-<a href="./maps/ssa-tuns-lake-of-milk-patreon.jpg"><img src="./thumbnails/ssa-tuns-lake-of-milk-patreon_thumbnail.jpg"></a>
-<a href="./maps/greths-island-keep-patreon.jpg"><img src="./thumbnails/greths-island-keep-patreon_thumbnail.jpg"></a>
-<a href="./maps/ledge-tower.jpg"><img src="./thumbnails/ledge-tower_thumbnail.jpg"></a>
-<a href="./maps/crumbling-gate.jpg"><img src="./thumbnails/crumbling-gate_thumbnail.jpg"></a>
-<a href="./maps/random-hexmap-b-blackhex.jpg"><img src="./thumbnails/random-hexmap-b-blackhex_thumbnail.jpg"></a>
-<a href="./maps/briar-keep-2018.jpg"><img src="./thumbnails/briar-keep-2018_thumbnail.jpg"></a>
-<a href="./maps/alturiak-manor-release.jpg"><img src="./thumbnails/alturiak-manor-release_thumbnail.jpg"></a>
-<a href="./maps/princes-harbour-1-hexes.jpg"><img src="./thumbnails/princes-harbour-1-hexes_thumbnail.jpg"></a>
-<a href="./maps/screaming-hall-of-the-ur-goblin.jpg"><img src="./thumbnails/screaming-hall-of-the-ur-goblin_thumbnail.jpg"></a>
-<a href="./maps/tevers-fort-patreon.jpg"><img src="./thumbnails/tevers-fort-patreon_thumbnail.jpg"></a>
-<a href="./maps/stone-trolls-lantern.jpg"><img src="./thumbnails/stone-trolls-lantern_thumbnail.jpg"></a>
-<a href="./maps/sarku-temple-upper-floors.jpg"><img src="./thumbnails/sarku-temple-upper-floors_thumbnail.jpg"></a>
-<a href="./maps/volcanic-pipes.jpg"><img src="./thumbnails/volcanic-pipes_thumbnail.jpg"></a>
-<a href="./maps/autumn-lands-4-blackhex.jpg"><img src="./thumbnails/autumn-lands-4-blackhex_thumbnail.jpg"></a>
-<a href="./maps/24-inch-cave-bw.jpg"><img src="./thumbnails/24-inch-cave-bw_thumbnail.jpg"></a>
-<a href="./maps/web-white-crag-fortress-commercial.jpg"><img src="./thumbnails/web-white-crag-fortress-commercial_thumbnail.jpg"></a>
-<a href="./maps/thunderhead-patreon.jpg"><img src="./thumbnails/thunderhead-patreon_thumbnail.jpg"></a>
-<a href="./maps/drurdelm-tombs.jpg"><img src="./thumbnails/drurdelm-tombs_thumbnail.jpg"></a>
-<a href="./maps/requasqueton-grid.jpg"><img src="./thumbnails/requasqueton-grid_thumbnail.jpg"></a>
-<a href="./maps/stariphos-bay-screens-patreon.jpg"><img src="./thumbnails/stariphos-bay-screens-patreon_thumbnail.jpg"></a>
-<a href="./maps/haunted-house-patreon.jpg"><img src="./thumbnails/haunted-house-patreon_thumbnail.jpg"></a>
-<a href="./maps/pentagon-cove.jpg"><img src="./thumbnails/pentagon-cove_thumbnail.jpg"></a>
-<a href="./maps/grizzly-eye-cave-patreon.jpg"><img src="./thumbnails/grizzly-eye-cave-patreon_thumbnail.jpg"></a>
-<a href="./maps/tower-of-mourning.jpg"><img src="./thumbnails/tower-of-mourning_thumbnail.jpg"></a>
-<a href="./maps/moathouse.jpg"><img src="./thumbnails/moathouse_thumbnail.jpg"></a>
-<a href="./maps/duke-dorians-cottage-patreon.jpg"><img src="./thumbnails/duke-dorians-cottage-patreon_thumbnail.jpg"></a>
-<a href="./maps/crowned-hill.jpg"><img src="./thumbnails/crowned-hill_thumbnail.jpg"></a>
-<a href="./maps/miserth-keep-upstairs.jpg"><img src="./thumbnails/miserth-keep-upstairs_thumbnail.jpg"></a>
-<a href="./maps/web-drow-spire-revised.jpg"><img src="./thumbnails/web-drow-spire-revised_thumbnail.jpg"></a>
-<a href="./maps/stonewill-estate.jpg"><img src="./thumbnails/stonewill-estate_thumbnail.jpg"></a>
-<a href="./maps/nephilims-hall.jpg"><img src="./thumbnails/nephilims-hall_thumbnail.jpg"></a>
-<a href="./maps/kraken-holy-city-of-guerras-el-essat.jpg"><img src="./thumbnails/kraken-holy-city-of-guerras-el-essat_thumbnail.jpg"></a>
-<a href="./maps/saryers-overlook-patreon.jpg"><img src="./thumbnails/saryers-overlook-patreon_thumbnail.jpg"></a>
-<a href="./maps/three-underworld-temples-patreon.jpg"><img src="./thumbnails/three-underworld-temples-patreon_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-bandit-tower-patreon.jpg"><img src="./thumbnails/heart-of-darkling-bandit-tower-patreon_thumbnail.jpg"></a>
-<a href="./maps/the-oracles-grotto-patreon.jpg"><img src="./thumbnails/the-oracles-grotto-patreon_thumbnail.jpg"></a>
-<a href="./maps/five-dungeon-business-cards.jpg"><img src="./thumbnails/five-dungeon-business-cards_thumbnail.jpg"></a>
-<a href="./maps/red-talons-kraken.jpg"><img src="./thumbnails/red-talons-kraken_thumbnail.jpg"></a>
-<a href="./maps/last-stand-of-the-cloud-giant-patreon.jpg"><img src="./thumbnails/last-stand-of-the-cloud-giant-patreon_thumbnail.jpg"></a>
-<a href="./maps/church-undercroft.jpg"><img src="./thumbnails/church-undercroft_thumbnail.jpg"></a>
-<a href="./maps/james-rejected-headquarters-grid.jpg"><img src="./thumbnails/james-rejected-headquarters-grid_thumbnail.jpg"></a>
-<a href="./maps/pit-dungeon-levels-1-4.jpg"><img src="./thumbnails/pit-dungeon-levels-1-4_thumbnail.jpg"></a>
-<a href="./maps/hawksford-patreon.jpg"><img src="./thumbnails/hawksford-patreon_thumbnail.jpg"></a>
-<a href="./maps/waterfall-cave.jpg"><img src="./thumbnails/waterfall-cave_thumbnail.jpg"></a>
-<a href="./maps/tavern-and-understructures.jpg"><img src="./thumbnails/tavern-and-understructures_thumbnail.jpg"></a>
-<a href="./maps/drunken-lava.jpg"><img src="./thumbnails/drunken-lava_thumbnail.jpg"></a>
-<a href="./maps/iseldecs-drop-17-19.jpg"><img src="./thumbnails/iseldecs-drop-17-19_thumbnail.jpg"></a>
-<a href="./maps/pool-temple.jpg"><img src="./thumbnails/pool-temple_thumbnail.jpg"></a>
-<a href="./maps/smugglers-lodge.jpg"><img src="./thumbnails/smugglers-lodge_thumbnail.jpg"></a>
-<a href="./maps/griffinwatch-patreon.jpg"><img src="./thumbnails/griffinwatch-patreon_thumbnail.jpg"></a>
-<a href="./maps/burial-mounds-of-the-lich-and-famous-1-patreon.jpg"><img src="./thumbnails/burial-mounds-of-the-lich-and-famous-1-patreon_thumbnail.jpg"></a>
-<a href="./maps/marching-tankard-coaching-inn-ground-floor-tagged.jpg"><img src="./thumbnails/marching-tankard-coaching-inn-ground-floor-tagged_thumbnail.jpg"></a>
-<a href="./maps/shop-10-apothecary.jpg"><img src="./thumbnails/shop-10-apothecary_thumbnail.jpg"></a>
-<a href="./maps/mad-fenrick-combined-promo.jpg"><img src="./thumbnails/mad-fenrick-combined-promo_thumbnail.jpg"></a>
-<a href="./maps/tower-house.jpg"><img src="./thumbnails/tower-house_thumbnail.jpg"></a>
-<a href="./maps/tarsakh-manor-upper-floors.jpg"><img src="./thumbnails/tarsakh-manor-upper-floors_thumbnail.jpg"></a>
-<a href="./maps/river-spiral-thumbnail.jpg"><img src="./thumbnails/river-spiral-thumbnail_thumbnail.jpg"></a>
-<a href="./maps/abbey-of-the-iron-star.jpg"><img src="./thumbnails/abbey-of-the-iron-star_thumbnail.jpg"></a>
-<a href="./maps/citadel-at-sabre-lake.jpg"><img src="./thumbnails/citadel-at-sabre-lake_thumbnail.jpg"></a>
-<a href="./maps/science-tower.jpg"><img src="./thumbnails/science-tower_thumbnail.jpg"></a>
-<a href="./maps/marching-tankard-coaching-inn-basements.jpg"><img src="./thumbnails/marching-tankard-coaching-inn-basements_thumbnail.jpg"></a>
-<a href="./maps/passages-beneath.jpg"><img src="./thumbnails/passages-beneath_thumbnail.jpg"></a>
-<a href="./maps/winten-ford-village.jpg"><img src="./thumbnails/winten-ford-village_thumbnail.jpg"></a>
-<a href="./maps/december-isometric.jpg"><img src="./thumbnails/december-isometric_thumbnail.jpg"></a>
-<a href="./maps/ency-glowlands-map-1.jpg"><img src="./thumbnails/ency-glowlands-map-1_thumbnail.jpg"></a>
-<a href="./maps/skull-maze.jpg"><img src="./thumbnails/skull-maze_thumbnail.jpg"></a>
-<a href="./maps/darklingtown-mushroom-fields.jpg"><img src="./thumbnails/darklingtown-mushroom-fields_thumbnail.jpg"></a>
-<a href="./maps/heart-of-darkling-the-hags-patreon.jpg"><img src="./thumbnails/heart-of-darkling-the-hags-patreon_thumbnail.jpg"></a>
-<a href="./maps/prince-of-clubs-kraken.jpg"><img src="./thumbnails/prince-of-clubs-kraken_thumbnail.jpg"></a>
-<a href="./maps/tft-temple-crypts.jpg"><img src="./thumbnails/tft-temple-crypts_thumbnail.jpg"></a>
-<a href="./maps/amontillado-alley-grudge-match.jpg"><img src="./thumbnails/amontillado-alley-grudge-match_thumbnail.jpg"></a>
-<a href="./maps/temple-of-chag-grid.jpg"><img src="./thumbnails/temple-of-chag-grid_thumbnail.jpg"></a>
-<a href="./maps/tower-of-the-marmoset-savant-patreon.jpg"><img src="./thumbnails/tower-of-the-marmoset-savant-patreon_thumbnail.jpg"></a>
-<a href="./maps/asymmetric-temple-topside-grid.jpg"><img src="./thumbnails/asymmetric-temple-topside-grid_thumbnail.jpg"></a>
-<a href="./maps/further-delves-for-the-black-ichor.jpg"><img src="./thumbnails/further-delves-for-the-black-ichor_thumbnail.jpg"></a>
-<a href="./maps/brenovale-castle.jpg"><img src="./thumbnails/brenovale-castle_thumbnail.jpg"></a>
-<a href="./maps/sumerian-3-story.jpg"><img src="./thumbnails/sumerian-3-story_thumbnail.jpg"></a>
-<a href="./maps/statue-gallery-patreon.jpg"><img src="./thumbnails/statue-gallery-patreon_thumbnail.jpg"></a>
-<a href="./maps/kraken-josephs-inlet-screens-patreon.jpg"><img src="./thumbnails/kraken-josephs-inlet-screens-patreon_thumbnail.jpg"></a>
-<a href="./maps/sirenhearth-docks-patreon.jpg"><img src="./thumbnails/sirenhearth-docks-patreon_thumbnail.jpg"></a>
-<a href="./maps/deeper-under-the-finger.jpg"><img src="./thumbnails/deeper-under-the-finger_thumbnail.jpg"></a>
-<a href="./maps/beneath-the-pillars.jpg"><img src="./thumbnails/beneath-the-pillars_thumbnail.jpg"></a>
-<a href="./maps/gascons-pit.jpg"><img src="./thumbnails/gascons-pit_thumbnail.jpg"></a>
-<a href="./maps/howling-orc-bridge-patreon.jpg"><img src="./thumbnails/howling-orc-bridge-patreon_thumbnail.jpg"></a>
-<a href="./maps/kraken-portal-towers-grid.jpg"><img src="./thumbnails/kraken-portal-towers-grid_thumbnail.jpg"></a>
-<a href="./maps/ravensons-landing-patreon.jpg"><img src="./thumbnails/ravensons-landing-patreon_thumbnail.jpg"></a>
-<a href="./maps/ioun-tower.jpg"><img src="./thumbnails/ioun-tower_thumbnail.jpg"></a>
-<a href="./maps/dragon-shrine.jpg"><img src="./thumbnails/dragon-shrine_thumbnail.jpg"></a>
-<a href="./maps/bloodied-stones-druidic-circle.jpg"><img src="./thumbnails/bloodied-stones-druidic-circle_thumbnail.jpg"></a>
-<a href="./maps/lautuntown.jpg"><img src="./thumbnails/lautuntown_thumbnail.jpg"></a>
-<a href="./maps/ruins-under-axehead-mound-grid-patreon.jpg"><img src="./thumbnails/ruins-under-axehead-mound-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/manticores-teeth-patreon.jpg"><img src="./thumbnails/manticores-teeth-patreon_thumbnail.jpg"></a>
-<a href="./maps/kraken-false-tombs.jpg"><img src="./thumbnails/kraken-false-tombs_thumbnail.jpg"></a>
-<a href="./maps/brezchyns-halls.jpg"><img src="./thumbnails/brezchyns-halls_thumbnail.jpg"></a>
-<a href="./maps/ruins-of-greymail-clanhold.jpg"><img src="./thumbnails/ruins-of-greymail-clanhold_thumbnail.jpg"></a>
-<a href="./maps/breached-fortress-of-anoros-grid-patreon.jpg"><img src="./thumbnails/breached-fortress-of-anoros-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/4ad-crypt-of-the-queen-of-bones.jpg"><img src="./thumbnails/4ad-crypt-of-the-queen-of-bones_thumbnail.jpg"></a>
-<a href="./maps/lady-whites-ruins.jpg"><img src="./thumbnails/lady-whites-ruins_thumbnail.jpg"></a>
-<a href="./maps/jandos-spire.jpg"><img src="./thumbnails/jandos-spire_thumbnail.jpg"></a>
-<a href="./maps/borderlands-caves-level-2-east.jpg"><img src="./thumbnails/borderlands-caves-level-2-east_thumbnail.jpg"></a>
-<a href="./maps/coopers-hole-kraken-grid-1.jpg"><img src="./thumbnails/coopers-hole-kraken-grid-1_thumbnail.jpg"></a>
-<a href="./maps/crystalline-house-1-patreon.jpg"><img src="./thumbnails/crystalline-house-1-patreon_thumbnail.jpg"></a>
-<a href="./maps/autumn-lands-map-8-blackhex.jpg"><img src="./thumbnails/autumn-lands-map-8-blackhex_thumbnail.jpg"></a>
-<a href="./maps/dungeons-of-kal-odun-grid-patreon.jpg"><img src="./thumbnails/dungeons-of-kal-odun-grid-patreon_thumbnail.jpg"></a>
-<a href="./maps/guimonds-tower-and-druid-lich-lair-patreon.jpg"><img src="./thumbnails/guimonds-tower-and-druid-lich-lair-patreon_thumbnail.jpg"></a>
-<a href="./maps/temple-of-the-seven-heretics.jpg"><img src="./thumbnails/temple-of-the-seven-heretics_thumbnail.jpg"></a>
-<a href="./maps/griffon-tower.jpg"><img src="./thumbnails/griffon-tower_thumbnail.jpg"></a>
-<a href="./maps/autumn-lands-5-blackhex.jpg"><img src="./thumbnails/autumn-lands-5-blackhex_thumbnail.jpg"></a>
-<a href="./maps/village-of-the-odd.jpg"><img src="./thumbnails/village-of-the-odd_thumbnail.jpg"></a>
-<a href="./maps/brentil-tower.jpg"><img src="./thumbnails/brentil-tower_thumbnail.jpg"></a>
-<a href="./maps/edge-strip-dungeon-bits.jpg"><img src="./thumbnails/edge-strip-dungeon-bits_thumbnail.jpg"></a>
-
-        </div>
-    </body>
-    </html>
-    
+  </div>
+  <div class="gallery">
+    <a href="./maps/24-inch-cave-bw.jpg"><img src="./thumbnails/24-inch-cave-bw_thumbnail.jpg"></a>
+    <a href="./maps/4-toothed-drunk-no-grid.jpg"><img src="./thumbnails/4-toothed-drunk-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/5-room-caves-nogrid.jpg"><img src="./thumbnails/5-room-caves-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/5-room-descent-nogrid.jpg"><img src="./thumbnails/5-room-descent-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/5-room-river-nogrid.jpg"><img src="./thumbnails/5-room-river-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/5-room-speedrun-nogrid.jpg"><img src="./thumbnails/5-room-speedrun-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/5-room-spinner-nogrid.jpg"><img src="./thumbnails/5-room-spinner-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/5rd-loop-nogrid.jpg"><img src="./thumbnails/5rd-loop-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/5rd-snail-nogrid.jpg"><img src="./thumbnails/5rd-snail-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Alien-Tower-nogrid.jpg"><img src="./thumbnails/Alien-Tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Caves-of-Carnage-nogrid.jpg"><img src="./thumbnails/Caves-of-Carnage-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Elledens-Vault-nogrid.jpg"><img src="./thumbnails/Elledens-Vault-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Fort-Yaramuil-NoGrid.jpg"><img src="./thumbnails/Fort-Yaramuil-NoGrid_thumbnail.jpg"></a>
+    <a href="./maps/Gorgonmouth-Mine-nogrid.jpg"><img src="./thumbnails/Gorgonmouth-Mine-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Hilltop-Ruins-nogrid.jpg"><img src="./thumbnails/Hilltop-Ruins-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Lordlings-Hall-nogrid.jpg"><img src="./thumbnails/Lordlings-Hall-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Mineshaft-Tower-nogrid.jpg"><img src="./thumbnails/Mineshaft-Tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Pillars-and-Temple-nogrid.jpg"><img src="./thumbnails/Pillars-and-Temple-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/Princes-Harbour-3-Hexes.jpg"><img src="./thumbnails/Princes-Harbour-3-Hexes_thumbnail.jpg"></a>
+    <a href="./maps/Spires-Temple-big-no-grid.jpg"><img src="./thumbnails/Spires-Temple-big-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/Third-Eye-Patreon.jpg"><img src="./thumbnails/Third-Eye-Patreon_thumbnail.jpg"></a>
+    <a href="./maps/a5-dungeon-test-revised-2.jpg"><img src="./thumbnails/a5-dungeon-test-revised-2_thumbnail.jpg"></a>
+    <a href="./maps/abbey-of-the-iron-star.jpg"><img src="./thumbnails/abbey-of-the-iron-star_thumbnail.jpg"></a>
+    <a href="./maps/ahryn-spire.jpg"><img src="./thumbnails/ahryn-spire_thumbnail.jpg"></a>
+    <a href="./maps/alderbridge-production.jpg"><img src="./thumbnails/alderbridge-production_thumbnail.jpg"></a>
+    <a href="./maps/allerton-hold-nogrid.jpg"><img src="./thumbnails/allerton-hold-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/alturiak-manor-release.jpg"><img src="./thumbnails/alturiak-manor-release_thumbnail.jpg"></a>
+    <a href="./maps/amontillado-alley-grudge-match-nogrid.jpg"><img src="./thumbnails/amontillado-alley-grudge-match-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/an-nayyirs-pyramid-1200.jpg"><img src="./thumbnails/an-nayyirs-pyramid-1200_thumbnail.jpg"></a>
+    <a href="./maps/angarth-citadel-patreon.jpg"><img src="./thumbnails/angarth-citadel-patreon_thumbnail.jpg"></a>
+    <a href="./maps/april-index-card-1.jpg"><img src="./thumbnails/april-index-card-1_thumbnail.jpg"></a>
+    <a href="./maps/april-index-card-2.jpg"><img src="./thumbnails/april-index-card-2_thumbnail.jpg"></a>
+    <a href="./maps/april-village-and-manor.jpg"><img src="./thumbnails/april-village-and-manor_thumbnail.jpg"></a>
+    <a href="./maps/arcane-sinkhole-no-grid.jpg"><img src="./thumbnails/arcane-sinkhole-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/archipelago-city.jpg"><img src="./thumbnails/archipelago-city_thumbnail.jpg"></a>
+    <a href="./maps/archons-tower-nogrid.jpg"><img src="./thumbnails/archons-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/astral-sanatorium-patreon.jpg"><img src="./thumbnails/astral-sanatorium-patreon_thumbnail.jpg"></a>
+    <a href="./maps/asymmetric-temple-topside-grid.jpg"><img src="./thumbnails/asymmetric-temple-topside-grid_thumbnail.jpg"></a>
+    <a href="./maps/asymmetric-temple-underground-grid.jpg"><img src="./thumbnails/asymmetric-temple-underground-grid_thumbnail.jpg"></a>
+    <a href="./maps/aurelons-keep-grid-patreon.jpg"><img src="./thumbnails/aurelons-keep-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/autumn-lands-4.jpg"><img src="./thumbnails/autumn-lands-4_thumbnail.jpg"></a>
+    <a href="./maps/autumn-lands-5.jpg"><img src="./thumbnails/autumn-lands-5_thumbnail.jpg"></a>
+    <a href="./maps/autumn-lands-map-3-black.jpg"><img src="./thumbnails/autumn-lands-map-3-black_thumbnail.jpg"></a>
+    <a href="./maps/autumn-lands-map-3.jpg"><img src="./thumbnails/autumn-lands-map-3_thumbnail.jpg"></a>
+    <a href="./maps/autumn-lands-map-6.jpg"><img src="./thumbnails/autumn-lands-map-6_thumbnail.jpg"></a>
+    <a href="./maps/autumn-lands-map-8.jpg"><img src="./thumbnails/autumn-lands-map-8_thumbnail.jpg"></a>
+    <a href="./maps/autumn-lands-map-i.jpg"><img src="./thumbnails/autumn-lands-map-i_thumbnail.jpg"></a>
+    <a href="./maps/axebridge-over-blackbay-kraken.jpg"><img src="./thumbnails/axebridge-over-blackbay-kraken_thumbnail.jpg"></a>
+    <a href="./maps/banshees-tower-patreon.jpg"><img src="./thumbnails/banshees-tower-patreon_thumbnail.jpg"></a>
+    <a href="./maps/barrow-mounds-of-the-lich-and-famous-3-patreon.jpg"><img src="./thumbnails/barrow-mounds-of-the-lich-and-famous-3-patreon_thumbnail.jpg"></a>
+    <a href="./maps/basement.jpg"><img src="./thumbnails/basement_thumbnail.jpg"></a>
+    <a href="./maps/basilica-nogrid.jpg"><img src="./thumbnails/basilica-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/basilisks-caves-patreon.jpg"><img src="./thumbnails/basilisks-caves-patreon_thumbnail.jpg"></a>
+    <a href="./maps/bed-egg-nogrid.jpg"><img src="./thumbnails/bed-egg-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/behkon-inn.jpg"><img src="./thumbnails/behkon-inn_thumbnail.jpg"></a>
+    <a href="./maps/bellfield-landings-patreon.jpg"><img src="./thumbnails/bellfield-landings-patreon_thumbnail.jpg"></a>
+    <a href="./maps/beneath-archons-tower-nogrid.jpg"><img src="./thumbnails/beneath-archons-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/beneath-the-black-cairn-nogrid.jpg"><img src="./thumbnails/beneath-the-black-cairn-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/beneath-the-claw-of-sunsets-map-2-nogrid.jpg"><img src="./thumbnails/beneath-the-claw-of-sunsets-map-2-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/beneath-the-claw-of-sunsets-map-3-nogrid.jpg"><img src="./thumbnails/beneath-the-claw-of-sunsets-map-3-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/beneath-the-pillars-nogrid.jpg"><img src="./thumbnails/beneath-the-pillars-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/betrayal-of-diane-the-thrice-damned-patreon.jpg"><img src="./thumbnails/betrayal-of-diane-the-thrice-damned-patreon_thumbnail.jpg"></a>
+    <a href="./maps/big-statue-temple-grid.jpg"><img src="./thumbnails/big-statue-temple-grid_thumbnail.jpg"></a>
+    <a href="./maps/bitterchains-tombs-no-grid.jpg"><img src="./thumbnails/bitterchains-tombs-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/black-ichor-of-the-iron-obelisk.jpg"><img src="./thumbnails/black-ichor-of-the-iron-obelisk_thumbnail.jpg"></a>
+    <a href="./maps/black-sphinx-bay-hexes.jpg"><img src="./thumbnails/black-sphinx-bay-hexes_thumbnail.jpg"></a>
+    <a href="./maps/black-spire-through-salted-lands-grid.jpg"><img src="./thumbnails/black-spire-through-salted-lands-grid_thumbnail.jpg"></a>
+    <a href="./maps/blackstone-bastion-nogrid.jpg"><img src="./thumbnails/blackstone-bastion-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/blessed-monastery.jpg"><img src="./thumbnails/blessed-monastery_thumbnail.jpg"></a>
+    <a href="./maps/blind-lamias-cave.jpg"><img src="./thumbnails/blind-lamias-cave_thumbnail.jpg"></a>
+    <a href="./maps/bloodied-axe-shrine.jpg"><img src="./thumbnails/bloodied-axe-shrine_thumbnail.jpg"></a>
+    <a href="./maps/bloodied-stones-druidic-circle.jpg"><img src="./thumbnails/bloodied-stones-druidic-circle_thumbnail.jpg"></a>
+    <a href="./maps/borderland-caves.jpg"><img src="./thumbnails/borderland-caves_thumbnail.jpg"></a>
+    <a href="./maps/borderlands-caves-level-2-east-no-grid.jpg"><img src="./thumbnails/borderlands-caves-level-2-east-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/breached-fortress-of-anoros-grid-patreon.jpg"><img src="./thumbnails/breached-fortress-of-anoros-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/brenovale-castle-fixed.jpg"><img src="./thumbnails/brenovale-castle-fixed_thumbnail.jpg"></a>
+    <a href="./maps/brenovale-castle.jpg"><img src="./thumbnails/brenovale-castle_thumbnail.jpg"></a>
+    <a href="./maps/brentil-tower.jpg"><img src="./thumbnails/brentil-tower_thumbnail.jpg"></a>
+    <a href="./maps/brentons-watch-grid.jpg"><img src="./thumbnails/brentons-watch-grid_thumbnail.jpg"></a>
+    <a href="./maps/brezchyns-halls-nogrid.jpg"><img src="./thumbnails/brezchyns-halls-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/briar-keep-2018.jpg"><img src="./thumbnails/briar-keep-2018_thumbnail.jpg"></a>
+    <a href="./maps/bubble-city-of-oublos-no-grid.jpg"><img src="./thumbnails/bubble-city-of-oublos-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/building-1-pottery-workshop-nogrid.jpg"><img src="./thumbnails/building-1-pottery-workshop-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-11-carpenter-nogrid.jpg"><img src="./thumbnails/building-11-carpenter-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-12-general-goods-nogrid.jpg"><img src="./thumbnails/building-12-general-goods-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-13-nets-nogrid.jpg"><img src="./thumbnails/building-13-nets-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-2-fishmonger-nogrid.jpg"><img src="./thumbnails/building-2-fishmonger-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-3-carpets-nogrid.jpg"><img src="./thumbnails/building-3-carpets-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-4-fruit-nogrid.jpg"><img src="./thumbnails/building-4-fruit-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-5-loans-nogrid.jpg"><img src="./thumbnails/building-5-loans-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-6-wine-garden-nogrid.jpg"><img src="./thumbnails/building-6-wine-garden-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/building-7-random-market-tavern-nogrid.jpg"><img src="./thumbnails/building-7-random-market-tavern-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/burial-mounds-of-the-lich-and-famous-1-patreon.jpg"><img src="./thumbnails/burial-mounds-of-the-lich-and-famous-1-patreon_thumbnail.jpg"></a>
+    <a href="./maps/cage-street-sewers.jpg"><img src="./thumbnails/cage-street-sewers_thumbnail.jpg"></a>
+    <a href="./maps/camping-map-1.jpg"><img src="./thumbnails/camping-map-1_thumbnail.jpg"></a>
+    <a href="./maps/camping-map-2.jpg"><img src="./thumbnails/camping-map-2_thumbnail.jpg"></a>
+    <a href="./maps/caravanserai.jpg"><img src="./thumbnails/caravanserai_thumbnail.jpg"></a>
+    <a href="./maps/carmine-archives-of-the-granite-marsh-patreon.jpg"><img src="./thumbnails/carmine-archives-of-the-granite-marsh-patreon_thumbnail.jpg"></a>
+    <a href="./maps/catacombs-of-olik-gullar-patreon.jpg"><img src="./thumbnails/catacombs-of-olik-gullar-patreon_thumbnail.jpg"></a>
+    <a href="./maps/chainspire-dungeons-grid.jpg"><img src="./thumbnails/chainspire-dungeons-grid_thumbnail.jpg"></a>
+    <a href="./maps/chainspire-fortress-production.jpg"><img src="./thumbnails/chainspire-fortress-production_thumbnail.jpg"></a>
+    <a href="./maps/chambers-of-the-absent-city.jpg"><img src="./thumbnails/chambers-of-the-absent-city_thumbnail.jpg"></a>
+    <a href="./maps/champions-retreat-kraken-1.jpg"><img src="./thumbnails/champions-retreat-kraken-1_thumbnail.jpg"></a>
+    <a href="./maps/chateau-daubergine-grid.jpg"><img src="./thumbnails/chateau-daubergine-grid_thumbnail.jpg"></a>
+    <a href="./maps/church-of-the-huntress-in-umber-patreon.jpg"><img src="./thumbnails/church-of-the-huntress-in-umber-patreon_thumbnail.jpg"></a>
+    <a href="./maps/church-of-the-oracles-in-onyx.jpg"><img src="./thumbnails/church-of-the-oracles-in-onyx_thumbnail.jpg"></a>
+    <a href="./maps/church-ruins-no-grid.jpg"><img src="./thumbnails/church-ruins-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/church-temple-palace-patreon.jpg"><img src="./thumbnails/church-temple-palace-patreon_thumbnail.jpg"></a>
+    <a href="./maps/church-undercroft-no-grid.jpg"><img src="./thumbnails/church-undercroft-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/church.jpg"><img src="./thumbnails/church_thumbnail.jpg"></a>
+    <a href="./maps/cinder-throne-kraken.jpg"><img src="./thumbnails/cinder-throne-kraken_thumbnail.jpg"></a>
+    <a href="./maps/circle-crypts-of-the-ophidian-emperor-patreon.jpg"><img src="./thumbnails/circle-crypts-of-the-ophidian-emperor-patreon_thumbnail.jpg"></a>
+    <a href="./maps/circle-dungeon-patreon.jpg"><img src="./thumbnails/circle-dungeon-patreon_thumbnail.jpg"></a>
+    <a href="./maps/citadel-at-sabre-lake.jpg"><img src="./thumbnails/citadel-at-sabre-lake_thumbnail.jpg"></a>
+    <a href="./maps/city-of-blue-colour.jpg"><img src="./thumbnails/city-of-blue-colour_thumbnail.jpg"></a>
+    <a href="./maps/clayfield-village-patreon.jpg"><img src="./thumbnails/clayfield-village-patreon_thumbnail.jpg"></a>
+    <a href="./maps/cliffside-tower-nogrid.jpg"><img src="./thumbnails/cliffside-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/colour-ruins.jpg"><img src="./thumbnails/colour-ruins_thumbnail.jpg"></a>
+    <a href="./maps/control-kraken.jpg"><img src="./thumbnails/control-kraken_thumbnail.jpg"></a>
+    <a href="./maps/coopers-hole-kraken-grid-1.jpg"><img src="./thumbnails/coopers-hole-kraken-grid-1_thumbnail.jpg"></a>
+    <a href="./maps/corrupt-water-temple-fixed.jpg"><img src="./thumbnails/corrupt-water-temple-fixed_thumbnail.jpg"></a>
+    <a href="./maps/crowned-hill.jpg"><img src="./thumbnails/crowned-hill_thumbnail.jpg"></a>
+    <a href="./maps/crowspine-labyrinth.jpg"><img src="./thumbnails/crowspine-labyrinth_thumbnail.jpg"></a>
+    <a href="./maps/crumbling-gate-nogrid.jpg"><img src="./thumbnails/crumbling-gate-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/crypt-of-the-scarlet-wolf-grid-patreon.jpg"><img src="./thumbnails/crypt-of-the-scarlet-wolf-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/crypts-and-sewers.jpg"><img src="./thumbnails/crypts-and-sewers_thumbnail.jpg"></a>
+    <a href="./maps/crypts-and-worms-nogrid.jpg"><img src="./thumbnails/crypts-and-worms-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/crystalline-house-1-patreon.jpg"><img src="./thumbnails/crystalline-house-1-patreon_thumbnail.jpg"></a>
+    <a href="./maps/cult-basement-no-grid.jpg"><img src="./thumbnails/cult-basement-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/dac-dungeon-grid.jpg"><img src="./thumbnails/dac-dungeon-grid_thumbnail.jpg"></a>
+    <a href="./maps/dac-dungeon-isometric.jpg"><img src="./thumbnails/dac-dungeon-isometric_thumbnail.jpg"></a>
+    <a href="./maps/dark-caverns-of-turr-patreon.jpg"><img src="./thumbnails/dark-caverns-of-turr-patreon_thumbnail.jpg"></a>
+    <a href="./maps/darkling-galleries-2.jpg"><img src="./thumbnails/darkling-galleries-2_thumbnail.jpg"></a>
+    <a href="./maps/darkling-galleries.jpg"><img src="./thumbnails/darkling-galleries_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-cavern-spillways-nogrid.jpg"><img src="./thumbnails/darklingtown-cavern-spillways-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-east-frogsport-nogrid.jpg"><img src="./thumbnails/darklingtown-east-frogsport-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-frogsport-nogrid.jpg"><img src="./thumbnails/darklingtown-frogsport-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-frogtower-nogrid.jpg"><img src="./thumbnails/darklingtown-frogtower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-mushroom-fields-no-grid.jpg"><img src="./thumbnails/darklingtown-mushroom-fields-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-north-nogrid.jpg"><img src="./thumbnails/darklingtown-north-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-south-nogrid.jpg"><img src="./thumbnails/darklingtown-south-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-the-tunnels-nogrid.jpg"><img src="./thumbnails/darklingtown-the-tunnels-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/darklingtown-upper-tunnels-nogrid.jpg"><img src="./thumbnails/darklingtown-upper-tunnels-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/dawnflow-bridges-grid.jpg"><img src="./thumbnails/dawnflow-bridges-grid_thumbnail.jpg"></a>
+    <a href="./maps/dawnharbor-patreon.jpg"><img src="./thumbnails/dawnharbor-patreon_thumbnail.jpg"></a>
+    <a href="./maps/dead-goblin-hole-nogrid.jpg"><img src="./thumbnails/dead-goblin-hole-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/december-island-grey.jpg"><img src="./thumbnails/december-island-grey_thumbnail.jpg"></a>
+    <a href="./maps/december-island.jpg"><img src="./thumbnails/december-island_thumbnail.jpg"></a>
+    <a href="./maps/december-isometric.jpg"><img src="./thumbnails/december-isometric_thumbnail.jpg"></a>
+    <a href="./maps/deep-halls-grid.jpg"><img src="./thumbnails/deep-halls-grid_thumbnail.jpg"></a>
+    <a href="./maps/deeper-under-the-finger-nogrid.jpg"><img src="./thumbnails/deeper-under-the-finger-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/defiled-waters.jpg"><img src="./thumbnails/defiled-waters_thumbnail.jpg"></a>
+    <a href="./maps/dellorfano-protocols-1-grid.jpg"><img src="./thumbnails/dellorfano-protocols-1-grid_thumbnail.jpg"></a>
+    <a href="./maps/delren-street-sewers-kraken.jpg"><img src="./thumbnails/delren-street-sewers-kraken_thumbnail.jpg"></a>
+    <a href="./maps/demon-headed-tower-patreon.jpg"><img src="./thumbnails/demon-headed-tower-patreon_thumbnail.jpg"></a>
+    <a href="./maps/demon-pillars-of-iv.jpg"><img src="./thumbnails/demon-pillars-of-iv_thumbnail.jpg"></a>
+    <a href="./maps/derelict-station-grid-patreon.jpg"><img src="./thumbnails/derelict-station-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/desert-clan-hold-notes.jpg"><img src="./thumbnails/desert-clan-hold-notes_thumbnail.jpg"></a>
+    <a href="./maps/desert-dungeon.jpg"><img src="./thumbnails/desert-dungeon_thumbnail.jpg"></a>
+    <a href="./maps/desk-pad-dungeon-nogrid.jpg"><img src="./thumbnails/desk-pad-dungeon-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/dolems-spire-production.jpg"><img src="./thumbnails/dolems-spire-production_thumbnail.jpg"></a>
+    <a href="./maps/dome-of-the-copper-sun.jpg"><img src="./thumbnails/dome-of-the-copper-sun_thumbnail.jpg"></a>
+    <a href="./maps/domes-nogrid.jpg"><img src="./thumbnails/domes-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/dosetlar-cliffs-patreon.jpg"><img src="./thumbnails/dosetlar-cliffs-patreon_thumbnail.jpg"></a>
+    <a href="./maps/dragon-shrine-no-grid.jpg"><img src="./thumbnails/dragon-shrine-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/dragon-temple-no-grid.jpg"><img src="./thumbnails/dragon-temple-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/dread-shrine-of-the-magi-in-sapphire.jpg"><img src="./thumbnails/dread-shrine-of-the-magi-in-sapphire_thumbnail.jpg"></a>
+    <a href="./maps/dreifers-fortress-patreon.jpg"><img src="./thumbnails/dreifers-fortress-patreon_thumbnail.jpg"></a>
+    <a href="./maps/drow-spire-patreon-revised.jpg"><img src="./thumbnails/drow-spire-patreon-revised_thumbnail.jpg"></a>
+    <a href="./maps/drowning-point.jpg"><img src="./thumbnails/drowning-point_thumbnail.jpg"></a>
+    <a href="./maps/druid-island-nogrid.jpg"><img src="./thumbnails/druid-island-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/druid-island-nowater.jpg"><img src="./thumbnails/druid-island-nowater_thumbnail.jpg"></a>
+    <a href="./maps/drunken-lava.jpg"><img src="./thumbnails/drunken-lava_thumbnail.jpg"></a>
+    <a href="./maps/drurdelm-tombs-nogrid.jpg"><img src="./thumbnails/drurdelm-tombs-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/dry-lighthouse-nogrid.jpg"><img src="./thumbnails/dry-lighthouse-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/duke-dorians-cottage-patreon.jpg"><img src="./thumbnails/duke-dorians-cottage-patreon_thumbnail.jpg"></a>
+    <a href="./maps/dungeon-in-12-parts-kraken.jpg"><img src="./thumbnails/dungeon-in-12-parts-kraken_thumbnail.jpg"></a>
+    <a href="./maps/dungeon-of-holding.jpg"><img src="./thumbnails/dungeon-of-holding_thumbnail.jpg"></a>
+    <a href="./maps/dungeoneer-survival-guide-projection-1.jpg"><img src="./thumbnails/dungeoneer-survival-guide-projection-1_thumbnail.jpg"></a>
+    <a href="./maps/dungeons-of-kal-odun-grid-patreon.jpg"><img src="./thumbnails/dungeons-of-kal-odun-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/dungeons-of-the-grand-illusionist-no-grid.jpg"><img src="./thumbnails/dungeons-of-the-grand-illusionist-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/dungeons-of-the-iron-star-level-1-no-grid.jpg"><img src="./thumbnails/dungeons-of-the-iron-star-level-1-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/dungeons-of-the-iron-star-level-2-no-grid.jpg"><img src="./thumbnails/dungeons-of-the-iron-star-level-2-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/dwarf-fortress-index-card-nogrid.jpg"><img src="./thumbnails/dwarf-fortress-index-card-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/dwarven-folly-kraken.jpg"><img src="./thumbnails/dwarven-folly-kraken_thumbnail.jpg"></a>
+    <a href="./maps/eastmeadow-manor-nogrid.jpg"><img src="./thumbnails/eastmeadow-manor-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/edge-strip-dungeon-bits.jpg"><img src="./thumbnails/edge-strip-dungeon-bits_thumbnail.jpg"></a>
+    <a href="./maps/elder-brain-portal-patreon.jpg"><img src="./thumbnails/elder-brain-portal-patreon_thumbnail.jpg"></a>
+    <a href="./maps/elderan-reliquary-and-rectory-patreon.jpg"><img src="./thumbnails/elderan-reliquary-and-rectory-patreon_thumbnail.jpg"></a>
+    <a href="./maps/ency-glowlands-2.jpg"><img src="./thumbnails/ency-glowlands-2_thumbnail.jpg"></a>
+    <a href="./maps/ency-glowlands-map-1.jpg"><img src="./thumbnails/ency-glowlands-map-1_thumbnail.jpg"></a>
+    <a href="./maps/engine-sinkhole-nogrid.jpg"><img src="./thumbnails/engine-sinkhole-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/epherens-keep-patreon.jpg"><img src="./thumbnails/epherens-keep-patreon_thumbnail.jpg"></a>
+    <a href="./maps/escheresque-gridless.jpg"><img src="./thumbnails/escheresque-gridless_thumbnail.jpg"></a>
+    <a href="./maps/ettin-manor-dungeon-grid.jpg"><img src="./thumbnails/ettin-manor-dungeon-grid_thumbnail.jpg"></a>
+    <a href="./maps/ettin-manor-production.jpg"><img src="./thumbnails/ettin-manor-production_thumbnail.jpg"></a>
+    <a href="./maps/fallen-temple-nogrid.jpg"><img src="./thumbnails/fallen-temple-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/far-beneath-the-finger-nogrid.jpg"><img src="./thumbnails/far-beneath-the-finger-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/fat-little-dungeon-nogrid.jpg"><img src="./thumbnails/fat-little-dungeon-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/feb-tavern.jpg"><img src="./thumbnails/feb-tavern_thumbnail.jpg"></a>
+    <a href="./maps/february-circle-tomb.jpg"><img src="./thumbnails/february-circle-tomb_thumbnail.jpg"></a>
+    <a href="./maps/fire-beetle-ale-house-no-grid.jpg"><img src="./thumbnails/fire-beetle-ale-house-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/five-dungeon-business-cards.jpg"><img src="./thumbnails/five-dungeon-business-cards_thumbnail.jpg"></a>
+    <a href="./maps/five-more-dungeon-business-cards.jpg"><img src="./thumbnails/five-more-dungeon-business-cards_thumbnail.jpg"></a>
+    <a href="./maps/five-room-arrow-nogrid.jpg"><img src="./thumbnails/five-room-arrow-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/five-room-v-shaped-nogrid.jpg"><img src="./thumbnails/five-room-v-shaped-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/flooded-catacombs-no-grid.jpg"><img src="./thumbnails/flooded-catacombs-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/forbidden-halls-1200-no-grid.jpg"><img src="./thumbnails/forbidden-halls-1200-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/forgotten-crypts-and-catacombs-patreon.jpg"><img src="./thumbnails/forgotten-crypts-and-catacombs-patreon_thumbnail.jpg"></a>
+    <a href="./maps/forlorn-halls-of-the-mongrelfolk-no-grid.jpg"><img src="./thumbnails/forlorn-halls-of-the-mongrelfolk-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/fortified-town-screen-patreon.jpg"><img src="./thumbnails/fortified-town-screen-patreon_thumbnail.jpg"></a>
+    <a href="./maps/four-javelins-ground-production-annotated-patreon.jpg"><img src="./thumbnails/four-javelins-ground-production-annotated-patreon_thumbnail.jpg"></a>
+    <a href="./maps/four-pagodas-kraken-no-grid.jpg"><img src="./thumbnails/four-pagodas-kraken-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/foxtail-grotto-no-grid.jpg"><img src="./thumbnails/foxtail-grotto-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/froghemoth-temple.jpg"><img src="./thumbnails/froghemoth-temple_thumbnail.jpg"></a>
+    <a href="./maps/frogsmead-final-nogrid.jpg"><img src="./thumbnails/frogsmead-final-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/further-delves-for-the-black-ichor.jpg"><img src="./thumbnails/further-delves-for-the-black-ichor_thumbnail.jpg"></a>
+    <a href="./maps/fury-of-the-emerald-hawk-patreon.jpg"><img src="./thumbnails/fury-of-the-emerald-hawk-patreon_thumbnail.jpg"></a>
+    <a href="./maps/garden-palace-patreon.jpg"><img src="./thumbnails/garden-palace-patreon_thumbnail.jpg"></a>
+    <a href="./maps/garden-tower-nogrid.jpg"><img src="./thumbnails/garden-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/gascons-pit-nogrid.jpg"><img src="./thumbnails/gascons-pit-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/gateway-to-the-valley-of-revelations-patreon.jpg"><img src="./thumbnails/gateway-to-the-valley-of-revelations-patreon_thumbnail.jpg"></a>
+    <a href="./maps/gauntlet-of-the-flintcrowned-ghouls.jpg"><img src="./thumbnails/gauntlet-of-the-flintcrowned-ghouls_thumbnail.jpg"></a>
+    <a href="./maps/geomorph-halls-1.jpg"><img src="./thumbnails/geomorph-halls-1_thumbnail.jpg"></a>
+    <a href="./maps/giants-halls-complete.jpg"><img src="./thumbnails/giants-halls-complete_thumbnail.jpg"></a>
+    <a href="./maps/gladhold-estate-bw-300.jpg"><img src="./thumbnails/gladhold-estate-bw-300_thumbnail.jpg"></a>
+    <a href="./maps/gladhold-estate-nogrid.jpg"><img src="./thumbnails/gladhold-estate-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/gladiators-temple.jpg"><img src="./thumbnails/gladiators-temple_thumbnail.jpg"></a>
+    <a href="./maps/goat-shrine.jpg"><img src="./thumbnails/goat-shrine_thumbnail.jpg"></a>
+    <a href="./maps/goblin-cut-gold-mine-patreon.jpg"><img src="./thumbnails/goblin-cut-gold-mine-patreon_thumbnail.jpg"></a>
+    <a href="./maps/goblin-ruins-isometric-nogrid.jpg"><img src="./thumbnails/goblin-ruins-isometric-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/goretooths-grotto-nogrid.jpg"><img src="./thumbnails/goretooths-grotto-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/granitespire-patreon.jpg"><img src="./thumbnails/granitespire-patreon_thumbnail.jpg"></a>
+    <a href="./maps/great-hall-grid.jpg"><img src="./thumbnails/great-hall-grid_thumbnail.jpg"></a>
+    <a href="./maps/great-pyramid-ground-level-grid.jpg"><img src="./thumbnails/great-pyramid-ground-level-grid_thumbnail.jpg"></a>
+    <a href="./maps/great-pyramid-side-view.jpg"><img src="./thumbnails/great-pyramid-side-view_thumbnail.jpg"></a>
+    <a href="./maps/great-pyramid-upper-levels-grid.jpg"><img src="./thumbnails/great-pyramid-upper-levels-grid_thumbnail.jpg"></a>
+    <a href="./maps/great-pyramid-worship-level-grid.jpg"><img src="./thumbnails/great-pyramid-worship-level-grid_thumbnail.jpg"></a>
+    <a href="./maps/greths-island-keep-patreon.jpg"><img src="./thumbnails/greths-island-keep-patreon_thumbnail.jpg"></a>
+    <a href="./maps/greyrock-tower-nogrid.jpg"><img src="./thumbnails/greyrock-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/griffinwatch-patreon.jpg"><img src="./thumbnails/griffinwatch-patreon_thumbnail.jpg"></a>
+    <a href="./maps/griffinwatch-ruins.jpg"><img src="./thumbnails/griffinwatch-ruins_thumbnail.jpg"></a>
+    <a href="./maps/griffon-tower-dungeons-nogrid.jpg"><img src="./thumbnails/griffon-tower-dungeons-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/griffon-tower-nogrid.jpg"><img src="./thumbnails/griffon-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/grizzly-eye-cave-patreon.jpg"><img src="./thumbnails/grizzly-eye-cave-patreon_thumbnail.jpg"></a>
+    <a href="./maps/guddurs-wicked-teahouse-no-grid.jpg"><img src="./thumbnails/guddurs-wicked-teahouse-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/guild-temple-600dpi-patreon.jpg"><img src="./thumbnails/guild-temple-600dpi-patreon_thumbnail.jpg"></a>
+    <a href="./maps/guimonds-tower-and-druid-lich-lair-patreon.jpg"><img src="./thumbnails/guimonds-tower-and-druid-lich-lair-patreon_thumbnail.jpg"></a>
+    <a href="./maps/habrets-lair-grid-patreon.jpg"><img src="./thumbnails/habrets-lair-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/hall-of-the-ancient-ones-grid-patreon.jpg"><img src="./thumbnails/hall-of-the-ancient-ones-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/hatak-combined-grid.jpg"><img src="./thumbnails/hatak-combined-grid_thumbnail.jpg"></a>
+    <a href="./maps/haunted-house-patreon.jpg"><img src="./thumbnails/haunted-house-patreon_thumbnail.jpg"></a>
+    <a href="./maps/hawksford-patreon.jpg"><img src="./thumbnails/hawksford-patreon_thumbnail.jpg"></a>
+    <a href="./maps/headquarters-patreon.jpg"><img src="./thumbnails/headquarters-patreon_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-1a-patreon.jpg"><img src="./thumbnails/heart-of-darkling-1a-patreon_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-bandit-tower-patreon.jpg"><img src="./thumbnails/heart-of-darkling-bandit-tower-patreon_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-bloodmarket-cave-no-grid.jpg"><img src="./thumbnails/heart-of-darkling-bloodmarket-cave-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-cold-caves.jpg"><img src="./thumbnails/heart-of-darkling-cold-caves_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-ditullio-islands-patreon.jpg"><img src="./thumbnails/heart-of-darkling-ditullio-islands-patreon_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-hexagons.jpg"><img src="./thumbnails/heart-of-darkling-hexagons_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-mindscapes-no-grid.jpg"><img src="./thumbnails/heart-of-darkling-mindscapes-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-silver-shrines-patreon.jpg"><img src="./thumbnails/heart-of-darkling-silver-shrines-patreon_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-stairs-nogrid.jpg"><img src="./thumbnails/heart-of-darkling-stairs-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-swiftwater-monastery-patreon.jpg"><img src="./thumbnails/heart-of-darkling-swiftwater-monastery-patreon_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-the-drop.jpg"><img src="./thumbnails/heart-of-darkling-the-drop_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-the-hags-patreon.jpg"><img src="./thumbnails/heart-of-darkling-the-hags-patreon_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-the-lakeshore-patreon.jpg"><img src="./thumbnails/heart-of-darkling-the-lakeshore-patreon_thumbnail.jpg"></a>
+    <a href="./maps/heart-of-darkling-waystation-patreon.jpg"><img src="./thumbnails/heart-of-darkling-waystation-patreon_thumbnail.jpg"></a>
+    <a href="./maps/herlihy-farm-patreon.jpg"><img src="./thumbnails/herlihy-farm-patreon_thumbnail.jpg"></a>
+    <a href="./maps/hevlod-manor-patreon.jpg"><img src="./thumbnails/hevlod-manor-patreon_thumbnail.jpg"></a>
+    <a href="./maps/hex-tavern.jpg"><img src="./thumbnails/hex-tavern_thumbnail.jpg"></a>
+    <a href="./maps/hexagonal-temple-nogrid.jpg"><img src="./thumbnails/hexagonal-temple-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/hexatomb-nogrid.jpg"><img src="./thumbnails/hexatomb-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/hexes-of-september.jpg"><img src="./thumbnails/hexes-of-september_thumbnail.jpg"></a>
+    <a href="./maps/hextemple-dungeon-no-grid.jpg"><img src="./thumbnails/hextemple-dungeon-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/hollowstone.jpg"><img src="./thumbnails/hollowstone_thumbnail.jpg"></a>
+    <a href="./maps/house-of-seven-wines.jpg"><img src="./thumbnails/house-of-seven-wines_thumbnail.jpg"></a>
+    <a href="./maps/howling-orc-bridge-patreon.jpg"><img src="./thumbnails/howling-orc-bridge-patreon_thumbnail.jpg"></a>
+    <a href="./maps/hurren-city-of-the-elders.jpg"><img src="./thumbnails/hurren-city-of-the-elders_thumbnail.jpg"></a>
+    <a href="./maps/idol-pit-nogrid.jpg"><img src="./thumbnails/idol-pit-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/illhan-isometric.jpg"><img src="./thumbnails/illhan-isometric_thumbnail.jpg"></a>
+    <a href="./maps/imp-tower-kraken-no-grid.jpg"><img src="./thumbnails/imp-tower-kraken-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/in-the-walls-no-grid.jpg"><img src="./thumbnails/in-the-walls-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-5rd-dwarven-hall-nogrid.jpg"><img src="./thumbnails/index-card-5rd-dwarven-hall-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-descent-nogrid.jpg"><img src="./thumbnails/index-card-descent-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-1-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-1-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-10-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-10-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-11-revised-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-11-revised-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-12-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-12-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-2-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-2-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-3-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-3-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-4-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-4-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-5-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-5-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-6-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-6-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-7-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-7-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-8-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-8-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-dungeon-ii-map-9-nogrid.jpg"><img src="./thumbnails/index-card-dungeon-ii-map-9-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/index-card-tower-no-grid.jpg"><img src="./thumbnails/index-card-tower-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/interlinked-nogrid.jpg"><img src="./thumbnails/interlinked-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/interlinked-promo.jpg"><img src="./thumbnails/interlinked-promo_thumbnail.jpg"></a>
+    <a href="./maps/ioun-tower-nogrid.jpg"><img src="./thumbnails/ioun-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/iseldecs-drop-13-16-nogrid.jpg"><img src="./thumbnails/iseldecs-drop-13-16-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/iseldecs-drop-17-19-nogrid.jpg"><img src="./thumbnails/iseldecs-drop-17-19-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/iseldecs-drop-20-23-nogrid.jpg"><img src="./thumbnails/iseldecs-drop-20-23-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/island-tomb.jpg"><img src="./thumbnails/island-tomb_thumbnail.jpg"></a>
+    <a href="./maps/isle-of-kheyus-colour-1200.jpg"><img src="./thumbnails/isle-of-kheyus-colour-1200_thumbnail.jpg"></a>
+    <a href="./maps/iso-tombs-3.jpg"><img src="./thumbnails/iso-tombs-3_thumbnail.jpg"></a>
+    <a href="./maps/iso-tombs-4-no-grid.jpg"><img src="./thumbnails/iso-tombs-4-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/isometric-elevator-dungeon-patreon.jpg"><img src="./thumbnails/isometric-elevator-dungeon-patreon_thumbnail.jpg"></a>
+    <a href="./maps/isometric-tomb-of-eight.jpg"><img src="./thumbnails/isometric-tomb-of-eight_thumbnail.jpg"></a>
+    <a href="./maps/isotower.jpg"><img src="./thumbnails/isotower_thumbnail.jpg"></a>
+    <a href="./maps/iyesgarten-inn.jpg"><img src="./thumbnails/iyesgarten-inn_thumbnail.jpg"></a>
+    <a href="./maps/iyesgarten-regional-map.jpg"><img src="./thumbnails/iyesgarten-regional-map_thumbnail.jpg"></a>
+    <a href="./maps/iyesgarten.jpg"><img src="./thumbnails/iyesgarten_thumbnail.jpg"></a>
+    <a href="./maps/jacobs-spur-colour.jpg"><img src="./thumbnails/jacobs-spur-colour_thumbnail.jpg"></a>
+    <a href="./maps/jade-catacombs.jpg"><img src="./thumbnails/jade-catacombs_thumbnail.jpg"></a>
+    <a href="./maps/james-rejected-headquarters-grid.jpg"><img src="./thumbnails/james-rejected-headquarters-grid_thumbnail.jpg"></a>
+    <a href="./maps/jandos-arch.jpg"><img src="./thumbnails/jandos-arch_thumbnail.jpg"></a>
+    <a href="./maps/jandos-spire.jpg"><img src="./thumbnails/jandos-spire_thumbnail.jpg"></a>
+    <a href="./maps/javelin-hill-patreon.jpg"><img src="./thumbnails/javelin-hill-patreon_thumbnail.jpg"></a>
+    <a href="./maps/june-index-card-1.jpg"><img src="./thumbnails/june-index-card-1_thumbnail.jpg"></a>
+    <a href="./maps/jungle-ruins-grid-trees-patreon.jpg"><img src="./thumbnails/jungle-ruins-grid-trees-patreon_thumbnail.jpg"></a>
+    <a href="./maps/kabrels-tower.jpg"><img src="./thumbnails/kabrels-tower_thumbnail.jpg"></a>
+    <a href="./maps/kamrorths-cairn-nogrid.jpg"><img src="./thumbnails/kamrorths-cairn-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/keegans-temple-compound-grid-patreon.jpg"><img src="./thumbnails/keegans-temple-compound-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/kemps-divide-grid.jpg"><img src="./thumbnails/kemps-divide-grid_thumbnail.jpg"></a>
+    <a href="./maps/kobolds-checkpoints-grid-patreon.jpg"><img src="./thumbnails/kobolds-checkpoints-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/kraken-cliffstable-on-kerstal.jpg"><img src="./thumbnails/kraken-cliffstable-on-kerstal_thumbnail.jpg"></a>
+    <a href="./maps/kraken-collapsed-tomb-of-mosogret-no-grid.jpg"><img src="./thumbnails/kraken-collapsed-tomb-of-mosogret-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/kraken-false-tombs.jpg"><img src="./thumbnails/kraken-false-tombs_thumbnail.jpg"></a>
+    <a href="./maps/kraken-holy-city-of-guerras-el-essat.jpg"><img src="./thumbnails/kraken-holy-city-of-guerras-el-essat_thumbnail.jpg"></a>
+    <a href="./maps/kraken-infested-hall.jpg"><img src="./thumbnails/kraken-infested-hall_thumbnail.jpg"></a>
+    <a href="./maps/kraken-jacobs-spur.jpg"><img src="./thumbnails/kraken-jacobs-spur_thumbnail.jpg"></a>
+    <a href="./maps/kraken-josephs-inlet-screens-patreon.jpg"><img src="./thumbnails/kraken-josephs-inlet-screens-patreon_thumbnail.jpg"></a>
+    <a href="./maps/kraken-letath.jpg"><img src="./thumbnails/kraken-letath_thumbnail.jpg"></a>
+    <a href="./maps/kraken-portal-towers-grid.jpg"><img src="./thumbnails/kraken-portal-towers-grid_thumbnail.jpg"></a>
+    <a href="./maps/kraken-summer-wines-nogrid.jpg"><img src="./thumbnails/kraken-summer-wines-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/kraken-tomb-of-the-smith-no-grid.jpg"><img src="./thumbnails/kraken-tomb-of-the-smith-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/kraken-tower-mcdemonface.jpg"><img src="./thumbnails/kraken-tower-mcdemonface_thumbnail.jpg"></a>
+    <a href="./maps/krelava-manor-kraken.jpg"><img src="./thumbnails/krelava-manor-kraken_thumbnail.jpg"></a>
+    <a href="./maps/labhruinns-tavern.jpg"><img src="./thumbnails/labhruinns-tavern_thumbnail.jpg"></a>
+    <a href="./maps/lady-whites-ruins-no-grid.jpg"><img src="./thumbnails/lady-whites-ruins-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/lake-ruins-1.jpg"><img src="./thumbnails/lake-ruins-1_thumbnail.jpg"></a>
+    <a href="./maps/landing-pad-grid.jpg"><img src="./thumbnails/landing-pad-grid_thumbnail.jpg"></a>
+    <a href="./maps/last-home-of-the-three-heretics-of-xaeen-no-grid.jpg"><img src="./thumbnails/last-home-of-the-three-heretics-of-xaeen-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/last-stand-of-the-cloud-giant-patreon.jpg"><img src="./thumbnails/last-stand-of-the-cloud-giant-patreon_thumbnail.jpg"></a>
+    <a href="./maps/lautuntown.jpg"><img src="./thumbnails/lautuntown_thumbnail.jpg"></a>
+    <a href="./maps/lava-lamp-monolith-nogrid.jpg"><img src="./thumbnails/lava-lamp-monolith-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/lawrence-hall-commercial-patreon.jpg"><img src="./thumbnails/lawrence-hall-commercial-patreon_thumbnail.jpg"></a>
+    <a href="./maps/ledge-tower.jpg"><img src="./thumbnails/ledge-tower_thumbnail.jpg"></a>
+    <a href="./maps/leebs-fortress-patreon.jpg"><img src="./thumbnails/leebs-fortress-patreon_thumbnail.jpg"></a>
+    <a href="./maps/lesser-temple-of-the-heretics.jpg"><img src="./thumbnails/lesser-temple-of-the-heretics_thumbnail.jpg"></a>
+    <a href="./maps/liars-cave-patreon.jpg"><img src="./thumbnails/liars-cave-patreon_thumbnail.jpg"></a>
+    <a href="./maps/library-with-grid.jpg"><img src="./thumbnails/library-with-grid_thumbnail.jpg"></a>
+    <a href="./maps/linear-dungeon-experiment-1-nogrid.jpg"><img src="./thumbnails/linear-dungeon-experiment-1-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/linear-dungeon-experiment-2-nogrid.jpg"><img src="./thumbnails/linear-dungeon-experiment-2-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/linos-sky-realms.jpg"><img src="./thumbnails/linos-sky-realms_thumbnail.jpg"></a>
+    <a href="./maps/little-labyrinth-patreon.jpg"><img src="./thumbnails/little-labyrinth-patreon_thumbnail.jpg"></a>
+    <a href="./maps/little-ruins.jpg"><img src="./thumbnails/little-ruins_thumbnail.jpg"></a>
+    <a href="./maps/lizard-fort-nogrid.jpg"><img src="./thumbnails/lizard-fort-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/lizard-ruins-no-grid.jpg"><img src="./thumbnails/lizard-ruins-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/lockharts-tomb-patreon.jpg"><img src="./thumbnails/lockharts-tomb-patreon_thumbnail.jpg"></a>
+    <a href="./maps/lords-of-the-aldeiron-peaks-2021-1200.jpg"><img src="./thumbnails/lords-of-the-aldeiron-peaks-2021-1200_thumbnail.jpg"></a>
+    <a href="./maps/loreans-manor.jpg"><img src="./thumbnails/loreans-manor_thumbnail.jpg"></a>
+    <a href="./maps/loreweaver-monastery-no-grid.jpg"><img src="./thumbnails/loreweaver-monastery-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/lost-city-of-the-naga-queens-patreon.jpg"><img src="./thumbnails/lost-city-of-the-naga-queens-patreon_thumbnail.jpg"></a>
+    <a href="./maps/lost-ossuary-grid-patreon.jpg"><img src="./thumbnails/lost-ossuary-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/lost-reliquary-no-grid.jpg"><img src="./thumbnails/lost-reliquary-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/lost-tomb-complex-no-grid.jpg"><img src="./thumbnails/lost-tomb-complex-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/mad-fenrick-combined-promo.jpg"><img src="./thumbnails/mad-fenrick-combined-promo_thumbnail.jpg"></a>
+    <a href="./maps/mad-warlocks-dome-and-tower-grid.jpg"><img src="./thumbnails/mad-warlocks-dome-and-tower-grid_thumbnail.jpg"></a>
+    <a href="./maps/manticores-teeth-patreon.jpg"><img src="./thumbnails/manticores-teeth-patreon_thumbnail.jpg"></a>
+    <a href="./maps/mar-18-postcard-dungeon-1-beige.jpg"><img src="./thumbnails/mar-18-postcard-dungeon-1-beige_thumbnail.jpg"></a>
+    <a href="./maps/mar-18-postcard-dungeon-1.jpg"><img src="./thumbnails/mar-18-postcard-dungeon-1_thumbnail.jpg"></a>
+    <a href="./maps/marching-tankard-coaching-inn-basements.jpg"><img src="./thumbnails/marching-tankard-coaching-inn-basements_thumbnail.jpg"></a>
+    <a href="./maps/marching-tankard-coaching-inn-ground-floor-tagged.jpg"><img src="./thumbnails/marching-tankard-coaching-inn-ground-floor-tagged_thumbnail.jpg"></a>
+    <a href="./maps/marching-tankard-coaching-inn-upper-floor-tagged.jpg"><img src="./thumbnails/marching-tankard-coaching-inn-upper-floor-tagged_thumbnail.jpg"></a>
+    <a href="./maps/marker-dungeon-no-grid.jpg"><img src="./thumbnails/marker-dungeon-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/mastervale-kraken.jpg"><img src="./thumbnails/mastervale-kraken_thumbnail.jpg"></a>
+    <a href="./maps/masuransuruntsuruumikh-no-grid.jpg"><img src="./thumbnails/masuransuruntsuruumikh-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/mausoleum-of-the-last-castellan-no-grid.jpg"><img src="./thumbnails/mausoleum-of-the-last-castellan-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/mayers-fort.jpg"><img src="./thumbnails/mayers-fort_thumbnail.jpg"></a>
+    <a href="./maps/megachurch-patreon.jpg"><img src="./thumbnails/megachurch-patreon_thumbnail.jpg"></a>
+    <a href="./maps/megamap-1-600.jpg"><img src="./thumbnails/megamap-1-600_thumbnail.jpg"></a>
+    <a href="./maps/melad-crossings-patreon.jpg"><img src="./thumbnails/melad-crossings-patreon_thumbnail.jpg"></a>
+    <a href="./maps/metivier-manor-grid.jpg"><img src="./thumbnails/metivier-manor-grid_thumbnail.jpg"></a>
+    <a href="./maps/miniarena-nogrid.jpg"><img src="./thumbnails/miniarena-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/mirelyns-skyrealm-bw-final-patreon.jpg"><img src="./thumbnails/mirelyns-skyrealm-bw-final-patreon_thumbnail.jpg"></a>
+    <a href="./maps/miserth-keep-dungeons-nogrid.jpg"><img src="./thumbnails/miserth-keep-dungeons-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/miserth-keep-main-nogrid.jpg"><img src="./thumbnails/miserth-keep-main-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/miserth-keep-upstairs-nogrid.jpg"><img src="./thumbnails/miserth-keep-upstairs-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/moathouse.jpg"><img src="./thumbnails/moathouse_thumbnail.jpg"></a>
+    <a href="./maps/monastery-of-the-eleventh-blessing-patreon.jpg"><img src="./thumbnails/monastery-of-the-eleventh-blessing-patreon_thumbnail.jpg"></a>
+    <a href="./maps/monastery-of-the-sixfold-path-patreon.jpg"><img src="./thumbnails/monastery-of-the-sixfold-path-patreon_thumbnail.jpg"></a>
+    <a href="./maps/moonset-street-shops.jpg"><img src="./thumbnails/moonset-street-shops_thumbnail.jpg"></a>
+    <a href="./maps/mount-thorrien-no-grid.jpg"><img src="./thumbnails/mount-thorrien-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/nephilims-hall-no-grid.jpg"><img src="./thumbnails/nephilims-hall-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/nesbitt-hill-production.jpg"><img src="./thumbnails/nesbitt-hill-production_thumbnail.jpg"></a>
+    <a href="./maps/new-cresthill-screen-patreon.jpg"><img src="./thumbnails/new-cresthill-screen-patreon_thumbnail.jpg"></a>
+    <a href="./maps/november-index-card-cave-nogrid.jpg"><img src="./thumbnails/november-index-card-cave-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/oak-king-small-fort-and-dungeon-grid.jpg"><img src="./thumbnails/oak-king-small-fort-and-dungeon-grid_thumbnail.jpg"></a>
+    <a href="./maps/oceanwatch.jpg"><img src="./thumbnails/oceanwatch_thumbnail.jpg"></a>
+    <a href="./maps/octagons-nogrid.jpg"><img src="./thumbnails/octagons-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/old-cruik-hollow.jpg"><img src="./thumbnails/old-cruik-hollow_thumbnail.jpg"></a>
+    <a href="./maps/old-turnip-inn.jpg"><img src="./thumbnails/old-turnip-inn_thumbnail.jpg"></a>
+    <a href="./maps/onyx-hill-ruins.jpg"><img src="./thumbnails/onyx-hill-ruins_thumbnail.jpg"></a>
+    <a href="./maps/oreneys-watch-nogrid.jpg"><img src="./thumbnails/oreneys-watch-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/oubliette-of-the-forgotten-magus-no-grid.jpg"><img src="./thumbnails/oubliette-of-the-forgotten-magus-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/paradise-control-commercial-grid.jpg"><img src="./thumbnails/paradise-control-commercial-grid_thumbnail.jpg"></a>
+    <a href="./maps/passages-beneath-nogrid.jpg"><img src="./thumbnails/passages-beneath-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/pendershire-screens-patreon.jpg"><img src="./thumbnails/pendershire-screens-patreon_thumbnail.jpg"></a>
+    <a href="./maps/pentagon-cove-no-grid.jpg"><img src="./thumbnails/pentagon-cove-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/pentagon-of-pentagons-no-grid.jpg"><img src="./thumbnails/pentagon-of-pentagons-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/perrol-on-the-mount-update-patreon.jpg"><img src="./thumbnails/perrol-on-the-mount-update-patreon_thumbnail.jpg"></a>
+    <a href="./maps/pillars-entrance-nogrid.jpg"><img src="./thumbnails/pillars-entrance-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/pirate-booty-island.jpg"><img src="./thumbnails/pirate-booty-island_thumbnail.jpg"></a>
+    <a href="./maps/pirates-cave-patreon.jpg"><img src="./thumbnails/pirates-cave-patreon_thumbnail.jpg"></a>
+    <a href="./maps/pit-dungeon-levels-1-4-nogrid.jpg"><img src="./thumbnails/pit-dungeon-levels-1-4-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/pit-dungeon-levels-5-8-nogrid.jpg"><img src="./thumbnails/pit-dungeon-levels-5-8-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/pit-dungeon-levels-9-12-v2-nogrid.jpg"><img src="./thumbnails/pit-dungeon-levels-9-12-v2-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/pitmann-manse-nogrid.jpg"><img src="./thumbnails/pitmann-manse-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/pocket-map-dungeon-1-back-nogrid.jpg"><img src="./thumbnails/pocket-map-dungeon-1-back-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/pocket-map-dungeon-1-front-nogrid.jpg"><img src="./thumbnails/pocket-map-dungeon-1-front-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/poisoned-chambers-patreon.jpg"><img src="./thumbnails/poisoned-chambers-patreon_thumbnail.jpg"></a>
+    <a href="./maps/poisoners-tower-patreon.jpg"><img src="./thumbnails/poisoners-tower-patreon_thumbnail.jpg"></a>
+    <a href="./maps/pool-temple-no-grid.jpg"><img src="./thumbnails/pool-temple-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/pregello-fortress-grid.jpg"><img src="./thumbnails/pregello-fortress-grid_thumbnail.jpg"></a>
+    <a href="./maps/prince-delans-shaft-tomb-patreon.jpg"><img src="./thumbnails/prince-delans-shaft-tomb-patreon_thumbnail.jpg"></a>
+    <a href="./maps/prince-of-clubs-kraken.jpg"><img src="./thumbnails/prince-of-clubs-kraken_thumbnail.jpg"></a>
+    <a href="./maps/princes-harbour-1-hexes.jpg"><img src="./thumbnails/princes-harbour-1-hexes_thumbnail.jpg"></a>
+    <a href="./maps/princes-harbour-2-hexes.jpg"><img src="./thumbnails/princes-harbour-2-hexes_thumbnail.jpg"></a>
+    <a href="./maps/priors-hill-patreon.jpg"><img src="./thumbnails/priors-hill-patreon_thumbnail.jpg"></a>
+    <a href="./maps/prismatic-fortress-grid.jpg"><img src="./thumbnails/prismatic-fortress-grid_thumbnail.jpg"></a>
+    <a href="./maps/prison-complex-grid.jpg"><img src="./thumbnails/prison-complex-grid_thumbnail.jpg"></a>
+    <a href="./maps/proving-grounds-of-the-mad-ogrelord.jpg"><img src="./thumbnails/proving-grounds-of-the-mad-ogrelord_thumbnail.jpg"></a>
+    <a href="./maps/psychedelic-cellar-of-the-stone-giants-no-grid.jpg"><img src="./thumbnails/psychedelic-cellar-of-the-stone-giants-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/pyramids-in-ruins-partial-grid.jpg"><img src="./thumbnails/pyramids-in-ruins-partial-grid_thumbnail.jpg"></a>
+    <a href="./maps/queen-hazrens-shrine-patreon.jpg"><img src="./thumbnails/queen-hazrens-shrine-patreon_thumbnail.jpg"></a>
+    <a href="./maps/quellport.jpg"><img src="./thumbnails/quellport_thumbnail.jpg"></a>
+    <a href="./maps/quiet-margose-tavern-patreon.jpg"><img src="./thumbnails/quiet-margose-tavern-patreon_thumbnail.jpg"></a>
+    <a href="./maps/r-an_northcott_sociological_research_domes.jpg"><img src="./thumbnails/r-an_northcott_sociological_research_domes_thumbnail.jpg"></a>
+    <a href="./maps/raining-cave-nogrid.jpg"><img src="./thumbnails/raining-cave-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/random-hexmap-7.jpg"><img src="./thumbnails/random-hexmap-7_thumbnail.jpg"></a>
+    <a href="./maps/random-hexmap-a.jpg"><img src="./thumbnails/random-hexmap-a_thumbnail.jpg"></a>
+    <a href="./maps/random-hexmap-b.jpg"><img src="./thumbnails/random-hexmap-b_thumbnail.jpg"></a>
+    <a href="./maps/ravensons-landing-patreon.jpg"><img src="./thumbnails/ravensons-landing-patreon_thumbnail.jpg"></a>
+    <a href="./maps/red-descent-no-grid.jpg"><img src="./thumbnails/red-descent-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/red-talons-kraken.jpg"><img src="./thumbnails/red-talons-kraken_thumbnail.jpg"></a>
+    <a href="./maps/redrock-cays-patreon.jpg"><img src="./thumbnails/redrock-cays-patreon_thumbnail.jpg"></a>
+    <a href="./maps/requasqueton-grid.jpg"><img src="./thumbnails/requasqueton-grid_thumbnail.jpg"></a>
+    <a href="./maps/restless-hollow-patreon.jpg"><img src="./thumbnails/restless-hollow-patreon_thumbnail.jpg"></a>
+    <a href="./maps/return-to-appletree-pond.jpg"><img src="./thumbnails/return-to-appletree-pond_thumbnail.jpg"></a>
+    <a href="./maps/return-to-oakenshields-tomb.jpg"><img src="./thumbnails/return-to-oakenshields-tomb_thumbnail.jpg"></a>
+    <a href="./maps/rhino-containment-caves-of-the-iron-overlord-grid.jpg"><img src="./thumbnails/rhino-containment-caves-of-the-iron-overlord-grid_thumbnail.jpg"></a>
+    <a href="./maps/river-gallery-patreon.jpg"><img src="./thumbnails/river-gallery-patreon_thumbnail.jpg"></a>
+    <a href="./maps/riverside-ruins-1-nogrid.jpg"><img src="./thumbnails/riverside-ruins-1-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/roadside-fortress-simple-grid.jpg"><img src="./thumbnails/roadside-fortress-simple-grid_thumbnail.jpg"></a>
+    <a href="./maps/robrus-beach-cave-no-grid.jpg"><img src="./thumbnails/robrus-beach-cave-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/roots-of-the-world-300-screens.jpg"><img src="./thumbnails/roots-of-the-world-300-screens_thumbnail.jpg"></a>
+    <a href="./maps/rosewood-street-sewers.jpg"><img src="./thumbnails/rosewood-street-sewers_thumbnail.jpg"></a>
+    <a href="./maps/rosnar-hill-patreon.jpg"><img src="./thumbnails/rosnar-hill-patreon_thumbnail.jpg"></a>
+    <a href="./maps/ruined-cities-of-yoth.jpg"><img src="./thumbnails/ruined-cities-of-yoth_thumbnail.jpg"></a>
+    <a href="./maps/ruined-fane-no-grid.jpg"><img src="./thumbnails/ruined-fane-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/ruined-keep-of-madrual-no-grid.jpg"><img src="./thumbnails/ruined-keep-of-madrual-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/ruined-tower-and-cave-of-worship-nogrid.jpg"><img src="./thumbnails/ruined-tower-and-cave-of-worship-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/ruins-and-dungeon-no-grid.jpg"><img src="./thumbnails/ruins-and-dungeon-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/ruins-and-dungeons-nogrid.jpg"><img src="./thumbnails/ruins-and-dungeons-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/ruins-of-charnesse.jpg"><img src="./thumbnails/ruins-of-charnesse_thumbnail.jpg"></a>
+    <a href="./maps/ruins-of-greymail-clanhold.jpg"><img src="./thumbnails/ruins-of-greymail-clanhold_thumbnail.jpg"></a>
+    <a href="./maps/ruins-of-the-claw-of-sunset-map-1-nogrid.jpg"><img src="./thumbnails/ruins-of-the-claw-of-sunset-map-1-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/ruins-of-the-claw-of-sunsets-map-2-nogrid.jpg"><img src="./thumbnails/ruins-of-the-claw-of-sunsets-map-2-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/ruins-of-the-claw-of-sunsets-map-3-nogrid.jpg"><img src="./thumbnails/ruins-of-the-claw-of-sunsets-map-3-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/ruins-of-the-gorgon-commercial.jpg"><img src="./thumbnails/ruins-of-the-gorgon-commercial_thumbnail.jpg"></a>
+    <a href="./maps/ruins-of-the-hillfort-nogrid.jpg"><img src="./thumbnails/ruins-of-the-hillfort-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/ruins-under-axehead-mound-grid-patreon.jpg"><img src="./thumbnails/ruins-under-axehead-mound-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/rumbledown-ruins-no-grid.jpg"><img src="./thumbnails/rumbledown-ruins-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/sanctuary-of-the-magi-no-grid.jpg"><img src="./thumbnails/sanctuary-of-the-magi-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/sand-palace.jpg"><img src="./thumbnails/sand-palace_thumbnail.jpg"></a>
+    <a href="./maps/sanhelter-keep-600-shade-patreon.jpg"><img src="./thumbnails/sanhelter-keep-600-shade-patreon_thumbnail.jpg"></a>
+    <a href="./maps/sanvilds-delve-gridless.jpg"><img src="./thumbnails/sanvilds-delve-gridless_thumbnail.jpg"></a>
+    <a href="./maps/sarku-temple-ground-floor-nogrid.jpg"><img src="./thumbnails/sarku-temple-ground-floor-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/sarku-temple-upper-floors-nogrid.jpg"><img src="./thumbnails/sarku-temple-upper-floors-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/saryers-overlook-patreon.jpg"><img src="./thumbnails/saryers-overlook-patreon_thumbnail.jpg"></a>
+    <a href="./maps/science-tower-nogrid.jpg"><img src="./thumbnails/science-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/screaming-hall-of-the-ur-goblin-no-grid.jpg"><img src="./thumbnails/screaming-hall-of-the-ur-goblin-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/seaside-passage-no-grid.jpg"><img src="./thumbnails/seaside-passage-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/secret-codices-of-the-emerald-hawk-society-patreon.jpg"><img src="./thumbnails/secret-codices-of-the-emerald-hawk-society-patreon_thumbnail.jpg"></a>
+    <a href="./maps/seevers-mill-kraken.jpg"><img src="./thumbnails/seevers-mill-kraken_thumbnail.jpg"></a>
+    <a href="./maps/september-dungeon-north-nogrid.jpg"><img src="./thumbnails/september-dungeon-north-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/september-dungeon-south-nogrid.jpg"><img src="./thumbnails/september-dungeon-south-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/september-dungeon-the-tower-nogrid.jpg"><img src="./thumbnails/september-dungeon-the-tower-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/september-dungeon-understructures-nogrid.jpg"><img src="./thumbnails/september-dungeon-understructures-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/september-fort-nogrid.jpg"><img src="./thumbnails/september-fort-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/serpent-wetlands-no-hexes.jpg"><img src="./thumbnails/serpent-wetlands-no-hexes_thumbnail.jpg"></a>
+    <a href="./maps/serzens-seven-stairs-grid-patreon.jpg"><img src="./thumbnails/serzens-seven-stairs-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/sewer-complex-nogrid.jpg"><img src="./thumbnails/sewer-complex-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/sewer-connectors.jpg"><img src="./thumbnails/sewer-connectors_thumbnail.jpg"></a>
+    <a href="./maps/sewer-dungeon-descent-nogrid.jpg"><img src="./thumbnails/sewer-dungeon-descent-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/sewer-elements.jpg"><img src="./thumbnails/sewer-elements_thumbnail.jpg"></a>
+    <a href="./maps/sharn-3-furnished.jpg"><img src="./thumbnails/sharn-3-furnished_thumbnail.jpg"></a>
+    <a href="./maps/shattered-tower-lower-grid.jpg"><img src="./thumbnails/shattered-tower-lower-grid_thumbnail.jpg"></a>
+    <a href="./maps/shattered-tower-upper-grid.jpg"><img src="./thumbnails/shattered-tower-upper-grid_thumbnail.jpg"></a>
+    <a href="./maps/shieldricks-tower-inn-no-grid.jpg"><img src="./thumbnails/shieldricks-tower-inn-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/shop-10-apothecary-nogrid.jpg"><img src="./thumbnails/shop-10-apothecary-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/shop-8-reds-leather-nogrid.jpg"><img src="./thumbnails/shop-8-reds-leather-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/shop-9-fortune-and-smith-nogrid.jpg"><img src="./thumbnails/shop-9-fortune-and-smith-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/shrine-of-the-demon-eskarna-no-grid.jpg"><img src="./thumbnails/shrine-of-the-demon-eskarna-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/shrine-of-the-emperor-of-bones-no-grid.jpg"><img src="./thumbnails/shrine-of-the-emperor-of-bones-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/shrine-on-the-mosswater-nogrid.jpg"><img src="./thumbnails/shrine-on-the-mosswater-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/sietch-of-morning.jpg"><img src="./thumbnails/sietch-of-morning_thumbnail.jpg"></a>
+    <a href="./maps/sirenhearth-docks-patreon.jpg"><img src="./thumbnails/sirenhearth-docks-patreon_thumbnail.jpg"></a>
+    <a href="./maps/sisters-ford-nogrid.jpg"><img src="./thumbnails/sisters-ford-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/six-by-six.jpg"><img src="./thumbnails/six-by-six_thumbnail.jpg"></a>
+    <a href="./maps/skaldons-dome-no-grid.jpg"><img src="./thumbnails/skaldons-dome-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/skittering-caves-patreon.jpg"><img src="./thumbnails/skittering-caves-patreon_thumbnail.jpg"></a>
+    <a href="./maps/skull-maze-gridless.jpg"><img src="./thumbnails/skull-maze-gridless_thumbnail.jpg"></a>
+    <a href="./maps/skybridge-nexus-2.jpg"><img src="./thumbnails/skybridge-nexus-2_thumbnail.jpg"></a>
+    <a href="./maps/sleeping-goat-inn-nogrid.jpg"><img src="./thumbnails/sleeping-goat-inn-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/small-pyramid-nogrid.jpg"><img src="./thumbnails/small-pyramid-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/small-under-the-observatory.jpg"><img src="./thumbnails/small-under-the-observatory_thumbnail.jpg"></a>
+    <a href="./maps/smallharbour.jpg"><img src="./thumbnails/smallharbour_thumbnail.jpg"></a>
+    <a href="./maps/smooshed-tower.jpg"><img src="./thumbnails/smooshed-tower_thumbnail.jpg"></a>
+    <a href="./maps/smugglers-lodge.jpg"><img src="./thumbnails/smugglers-lodge_thumbnail.jpg"></a>
+    <a href="./maps/somerrich-cays.jpg"><img src="./thumbnails/somerrich-cays_thumbnail.jpg"></a>
+    <a href="./maps/south-sewers-hideout.jpg"><img src="./thumbnails/south-sewers-hideout_thumbnail.jpg"></a>
+    <a href="./maps/sparrows-fort-grid.jpg"><img src="./thumbnails/sparrows-fort-grid_thumbnail.jpg"></a>
+    <a href="./maps/spectres-tower-kraken.jpg"><img src="./thumbnails/spectres-tower-kraken_thumbnail.jpg"></a>
+    <a href="./maps/spiral-grotto-nogrid.jpg"><img src="./thumbnails/spiral-grotto-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/spiral-hill.jpg"><img src="./thumbnails/spiral-hill_thumbnail.jpg"></a>
+    <a href="./maps/spiral-temple-grid.jpg"><img src="./thumbnails/spiral-temple-grid_thumbnail.jpg"></a>
+    <a href="./maps/split-dungeon-nogrid.jpg"><img src="./thumbnails/split-dungeon-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/springhollow-kraken.jpg"><img src="./thumbnails/springhollow-kraken_thumbnail.jpg"></a>
+    <a href="./maps/ssa-tuns-lake-of-milk-patreon.jpg"><img src="./thumbnails/ssa-tuns-lake-of-milk-patreon_thumbnail.jpg"></a>
+    <a href="./maps/stariphos-bay-screens-patreon.jpg"><img src="./thumbnails/stariphos-bay-screens-patreon_thumbnail.jpg"></a>
+    <a href="./maps/statue-gallery-patreon.jpg"><img src="./thumbnails/statue-gallery-patreon_thumbnail.jpg"></a>
+    <a href="./maps/statues-of-the-thrall-gods-nogrid.jpg"><img src="./thumbnails/statues-of-the-thrall-gods-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/step-pyramid-ept-inspired-nogrid.jpg"><img src="./thumbnails/step-pyramid-ept-inspired-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/still-grotto-grid-and-water.jpg"><img src="./thumbnails/still-grotto-grid-and-water_thumbnail.jpg"></a>
+    <a href="./maps/stirge-rock-patreon.jpg"><img src="./thumbnails/stirge-rock-patreon_thumbnail.jpg"></a>
+    <a href="./maps/stone-trolls-lantern.jpg"><img src="./thumbnails/stone-trolls-lantern_thumbnail.jpg"></a>
+    <a href="./maps/stones-of-salanans-peril-patreon.jpg"><img src="./thumbnails/stones-of-salanans-peril-patreon_thumbnail.jpg"></a>
+    <a href="./maps/stonewill-estate-nogrid.jpg"><img src="./thumbnails/stonewill-estate-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/stony-hill-patreon.jpg"><img src="./thumbnails/stony-hill-patreon_thumbnail.jpg"></a>
+    <a href="./maps/stony-shore-map-1-nogrid.jpg"><img src="./thumbnails/stony-shore-map-1-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/stony-shore-map-2-nogrid.jpg"><img src="./thumbnails/stony-shore-map-2-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/stony-shore-map-3-nogrid.jpg"><img src="./thumbnails/stony-shore-map-3-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/strange-dyson-ruins.jpg"><img src="./thumbnails/strange-dyson-ruins_thumbnail.jpg"></a>
+    <a href="./maps/sumerian-3-story.jpg"><img src="./thumbnails/sumerian-3-story_thumbnail.jpg"></a>
+    <a href="./maps/summerthorpe.jpg"><img src="./thumbnails/summerthorpe_thumbnail.jpg"></a>
+    <a href="./maps/sundered-tomb.jpg"><img src="./thumbnails/sundered-tomb_thumbnail.jpg"></a>
+    <a href="./maps/sunken-ruins-nogrid.jpg"><img src="./thumbnails/sunken-ruins-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/svirfneblin-bridge-fortress.jpg"><img src="./thumbnails/svirfneblin-bridge-fortress_thumbnail.jpg"></a>
+    <a href="./maps/swarms-hive-patreon.jpg"><img src="./thumbnails/swarms-hive-patreon_thumbnail.jpg"></a>
+    <a href="./maps/taroduns-tomb-patreon.jpg"><img src="./thumbnails/taroduns-tomb-patreon_thumbnail.jpg"></a>
+    <a href="./maps/tarsakh-manor-ground-floor-no-grid.jpg"><img src="./thumbnails/tarsakh-manor-ground-floor-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/tarsakh-manor-upper-floors-no-grid.jpg"><img src="./thumbnails/tarsakh-manor-upper-floors-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/tavern-and-understructures.jpg"><img src="./thumbnails/tavern-and-understructures_thumbnail.jpg"></a>
+    <a href="./maps/tavern-of-salt-patreon.jpg"><img src="./thumbnails/tavern-of-salt-patreon_thumbnail.jpg"></a>
+    <a href="./maps/tavern-temple-library-teleporters-nogrid.jpg"><img src="./thumbnails/tavern-temple-library-teleporters-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/tekumel-walled-temple.jpg"><img src="./thumbnails/tekumel-walled-temple_thumbnail.jpg"></a>
+    <a href="./maps/temple-cave-nogrid.jpg"><img src="./thumbnails/temple-cave-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/temple-complex-ruins-overlays.jpg"><img src="./thumbnails/temple-complex-ruins-overlays_thumbnail.jpg"></a>
+    <a href="./maps/temple-no-grid.jpg"><img src="./thumbnails/temple-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/temple-of-4-gods-ground-grid.jpg"><img src="./thumbnails/temple-of-4-gods-ground-grid_thumbnail.jpg"></a>
+    <a href="./maps/temple-of-chag-grid.jpg"><img src="./thumbnails/temple-of-chag-grid_thumbnail.jpg"></a>
+    <a href="./maps/temple-of-lost-ormus-nogrid.jpg"><img src="./thumbnails/temple-of-lost-ormus-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/temple-of-love-2024-remix-nogrid.jpg"><img src="./thumbnails/temple-of-love-2024-remix-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/temple-of-rains-patreon.jpg"><img src="./thumbnails/temple-of-rains-patreon_thumbnail.jpg"></a>
+    <a href="./maps/temple-of-red-waters.jpg"><img src="./thumbnails/temple-of-red-waters_thumbnail.jpg"></a>
+    <a href="./maps/temple-of-the-seven-heretics.jpg"><img src="./thumbnails/temple-of-the-seven-heretics_thumbnail.jpg"></a>
+    <a href="./maps/temple-of-the-snake-grid.jpg"><img src="./thumbnails/temple-of-the-snake-grid_thumbnail.jpg"></a>
+    <a href="./maps/temple-walk-no-grid.jpg"><img src="./thumbnails/temple-walk-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/ten-crown-river-cave-production.jpg"><img src="./thumbnails/ten-crown-river-cave-production_thumbnail.jpg"></a>
+    <a href="./maps/tevers-fort-patreon.jpg"><img src="./thumbnails/tevers-fort-patreon_thumbnail.jpg"></a>
+    <a href="./maps/tft-temple-crypts.jpg"><img src="./thumbnails/tft-temple-crypts_thumbnail.jpg"></a>
+    <a href="./maps/the-arcane-waters.jpg"><img src="./thumbnails/the-arcane-waters_thumbnail.jpg"></a>
+    <a href="./maps/the-ascent-patreon.jpg"><img src="./thumbnails/the-ascent-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-beacon-patreon.jpg"><img src="./thumbnails/the-beacon-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-bottomless-tombs-level-2.jpg"><img src="./thumbnails/the-bottomless-tombs-level-2_thumbnail.jpg"></a>
+    <a href="./maps/the-deep-sepulchre-nogrid.jpg"><img src="./thumbnails/the-deep-sepulchre-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-descent-patreon.jpg"><img src="./thumbnails/the-descent-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-dreadwarren-nogrid.jpg"><img src="./thumbnails/the-dreadwarren-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-fallen-god-patreon.jpg"><img src="./thumbnails/the-fallen-god-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-finger-nogrid.jpg"><img src="./thumbnails/the-finger-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-goblin-vault-nogrid.jpg"><img src="./thumbnails/the-goblin-vault-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-granite-shore-2021-200-no-grid.jpg"><img src="./thumbnails/the-granite-shore-2021-200-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/the-great-hall-kraken-grid.jpg"><img src="./thumbnails/the-great-hall-kraken-grid_thumbnail.jpg"></a>
+    <a href="./maps/the-half-cask-tavern-no-grid.jpg"><img src="./thumbnails/the-half-cask-tavern-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/the-halls-of-lost-heroes-nogrid.jpg"><img src="./thumbnails/the-halls-of-lost-heroes-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-isle-of-clover-grey.jpg"><img src="./thumbnails/the-isle-of-clover-grey_thumbnail.jpg"></a>
+    <a href="./maps/the-juicer-patreon.jpg"><img src="./thumbnails/the-juicer-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-lame-barghest-nogrid.jpg"><img src="./thumbnails/the-lame-barghest-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-long-halls-patreon.jpg"><img src="./thumbnails/the-long-halls-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-lost-temple-of-aphosh-the-haunted.jpg"><img src="./thumbnails/the-lost-temple-of-aphosh-the-haunted_thumbnail.jpg"></a>
+    <a href="./maps/the-lost-watch-nogrid.jpg"><img src="./thumbnails/the-lost-watch-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-many-chambers-of-izzels-folly-patreon.jpg"><img src="./thumbnails/the-many-chambers-of-izzels-folly-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-new-circle-of-doom-patreon.jpg"><img src="./thumbnails/the-new-circle-of-doom-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-oracles-grotto-patreon.jpg"><img src="./thumbnails/the-oracles-grotto-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-original-circle-of-doom.jpg"><img src="./thumbnails/the-original-circle-of-doom_thumbnail.jpg"></a>
+    <a href="./maps/the-oubliettes-patreon.jpg"><img src="./thumbnails/the-oubliettes-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-palace-market-businesses.jpg"><img src="./thumbnails/the-palace-market-businesses_thumbnail.jpg"></a>
+    <a href="./maps/the-phoenix-diadem-no-grid.jpg"><img src="./thumbnails/the-phoenix-diadem-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/the-ravens-rum-and-roosts-gridless.jpg"><img src="./thumbnails/the-ravens-rum-and-roosts-gridless_thumbnail.jpg"></a>
+    <a href="./maps/the-savage-caves-patreon.jpg"><img src="./thumbnails/the-savage-caves-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-sordid-rhinoceros-nogrid.jpg"><img src="./thumbnails/the-sordid-rhinoceros-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-stone-sinister-production.jpg"><img src="./thumbnails/the-stone-sinister-production_thumbnail.jpg"></a>
+    <a href="./maps/the-strangled-imp-nogrid.jpg"><img src="./thumbnails/the-strangled-imp-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/the-strike-patreon.jpg"><img src="./thumbnails/the-strike-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-summoners-lair-grid.jpg"><img src="./thumbnails/the-summoners-lair-grid_thumbnail.jpg"></a>
+    <a href="./maps/the-sunken-maw-grid-patreon.jpg"><img src="./thumbnails/the-sunken-maw-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/the-twin-norkers-tagged.jpg"><img src="./thumbnails/the-twin-norkers-tagged_thumbnail.jpg"></a>
+    <a href="./maps/the-vault-of-tranquility.jpg"><img src="./thumbnails/the-vault-of-tranquility_thumbnail.jpg"></a>
+    <a href="./maps/the-weeping-outpost-patreon.jpg"><img src="./thumbnails/the-weeping-outpost-patreon_thumbnail.jpg"></a>
+    <a href="./maps/theres-a-hole-in-the-dungeon-dear-liza-dear-liza-no-grid.jpg"><img src="./thumbnails/theres-a-hole-in-the-dungeon-dear-liza-dear-liza-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/theros-reflecting-temple-no-grid.jpg"><img src="./thumbnails/theros-reflecting-temple-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/third-story-chase-patreon.jpg"><img src="./thumbnails/third-story-chase-patreon_thumbnail.jpg"></a>
+    <a href="./maps/thirty-slain-magi-patreon.jpg"><img src="./thumbnails/thirty-slain-magi-patreon_thumbnail.jpg"></a>
+    <a href="./maps/three-tiered-tomb-nogrid.jpg"><img src="./thumbnails/three-tiered-tomb-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/three-tombs-of-acker-grid.jpg"><img src="./thumbnails/three-tombs-of-acker-grid_thumbnail.jpg"></a>
+    <a href="./maps/three-underworld-temples-patreon.jpg"><img src="./thumbnails/three-underworld-temples-patreon_thumbnail.jpg"></a>
+    <a href="./maps/throne-room-4.jpg"><img src="./thumbnails/throne-room-4_thumbnail.jpg"></a>
+    <a href="./maps/thunderhead-patreon.jpg"><img src="./thumbnails/thunderhead-patreon_thumbnail.jpg"></a>
+    <a href="./maps/titans-teeth-combined-grid.jpg"><img src="./thumbnails/titans-teeth-combined-grid_thumbnail.jpg"></a>
+    <a href="./maps/tomb-of-the-kirin-born-prince.jpg"><img src="./thumbnails/tomb-of-the-kirin-born-prince_thumbnail.jpg"></a>
+    <a href="./maps/tombs-of-the-steel-makers-patreon.jpg"><img src="./thumbnails/tombs-of-the-steel-makers-patreon_thumbnail.jpg"></a>
+    <a href="./maps/torlester-hill-patreon.jpg"><img src="./thumbnails/torlester-hill-patreon_thumbnail.jpg"></a>
+    <a href="./maps/toronin-ruins-surface-patreon.jpg"><img src="./thumbnails/toronin-ruins-surface-patreon_thumbnail.jpg"></a>
+    <a href="./maps/toronin-ruins-underground-patreon.jpg"><img src="./thumbnails/toronin-ruins-underground-patreon_thumbnail.jpg"></a>
+    <a href="./maps/tower-and-pond-nogrid.jpg"><img src="./thumbnails/tower-and-pond-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/tower-bridge-grid.jpg"><img src="./thumbnails/tower-bridge-grid_thumbnail.jpg"></a>
+    <a href="./maps/tower-house-nogrid.jpg"><img src="./thumbnails/tower-house-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/tower-of-mourning-nogrid.jpg"><img src="./thumbnails/tower-of-mourning-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/tower-of-pillars-nogrid.jpg"><img src="./thumbnails/tower-of-pillars-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/tower-of-the-blind-seer-patreon.jpg"><img src="./thumbnails/tower-of-the-blind-seer-patreon_thumbnail.jpg"></a>
+    <a href="./maps/tower-of-the-marmoset-savant-patreon.jpg"><img src="./thumbnails/tower-of-the-marmoset-savant-patreon_thumbnail.jpg"></a>
+    <a href="./maps/tramurs-lakehouse-screens-patreon.jpg"><img src="./thumbnails/tramurs-lakehouse-screens-patreon_thumbnail.jpg"></a>
+    <a href="./maps/trapped-in-the-tomb-of-the-14-imperial-princesses-patreon.jpg"><img src="./thumbnails/trapped-in-the-tomb-of-the-14-imperial-princesses-patreon_thumbnail.jpg"></a>
+    <a href="./maps/tunnels-of-the-shrouded-emperor-no-grid.jpg"><img src="./thumbnails/tunnels-of-the-shrouded-emperor-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/turning-tower-combined-grid.jpg"><img src="./thumbnails/turning-tower-combined-grid_thumbnail.jpg"></a>
+    <a href="./maps/twelve-goats-tavern-no-grid.jpg"><img src="./thumbnails/twelve-goats-tavern-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/twilight-descent-no-grid.jpg"><img src="./thumbnails/twilight-descent-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/twisting-tombs-nogrid.jpg"><img src="./thumbnails/twisting-tombs-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/two-river-ruins-patreon.jpg"><img src="./thumbnails/two-river-ruins-patreon_thumbnail.jpg"></a>
+    <a href="./maps/under-eastmeadow-manor-nogrid.jpg"><img src="./thumbnails/under-eastmeadow-manor-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/under-the-claw-of-sunset-map-1-nogrid.jpg"><img src="./thumbnails/under-the-claw-of-sunset-map-1-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/under-the-finger-nogrid.jpg"><img src="./thumbnails/under-the-finger-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/under-the-lighthouse-nogrid.jpg"><img src="./thumbnails/under-the-lighthouse-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/under-the-observatory-nogrid.jpg"><img src="./thumbnails/under-the-observatory-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/underhill-saloon-and-eatery-grid-patreon.jpg"><img src="./thumbnails/underhill-saloon-and-eatery-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/uogralas-patreon.jpg"><img src="./thumbnails/uogralas-patreon_thumbnail.jpg"></a>
+    <a href="./maps/upstairs.jpg"><img src="./thumbnails/upstairs_thumbnail.jpg"></a>
+    <a href="./maps/vanshiro-reliquary.jpg"><img src="./thumbnails/vanshiro-reliquary_thumbnail.jpg"></a>
+    <a href="./maps/vansho-reliquary.jpg"><img src="./thumbnails/vansho-reliquary_thumbnail.jpg"></a>
+    <a href="./maps/vardisstvy-motte-and-bailey-patreon.jpg"><img src="./thumbnails/vardisstvy-motte-and-bailey-patreon_thumbnail.jpg"></a>
+    <a href="./maps/vault-of-the-blue-golem.jpg"><img src="./thumbnails/vault-of-the-blue-golem_thumbnail.jpg"></a>
+    <a href="./maps/vault-of-the-lapis-monk-patreon.jpg"><img src="./thumbnails/vault-of-the-lapis-monk-patreon_thumbnail.jpg"></a>
+    <a href="./maps/vigilance-trail-patreon.jpg"><img src="./thumbnails/vigilance-trail-patreon_thumbnail.jpg"></a>
+    <a href="./maps/vikhelms-outpost-hrangveld-motte-and-bailey-logo.jpg"><img src="./thumbnails/vikhelms-outpost-hrangveld-motte-and-bailey-logo_thumbnail.jpg"></a>
+    <a href="./maps/village-of-the-odd.jpg"><img src="./thumbnails/village-of-the-odd_thumbnail.jpg"></a>
+    <a href="./maps/volcanic-pipes-nogrid.jpg"><img src="./thumbnails/volcanic-pipes-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/warcton-hold-patreon.jpg"><img src="./thumbnails/warcton-hold-patreon_thumbnail.jpg"></a>
+    <a href="./maps/warkings-vault-kraken.jpg"><img src="./thumbnails/warkings-vault-kraken_thumbnail.jpg"></a>
+    <a href="./maps/warlocks-arms.jpg"><img src="./thumbnails/warlocks-arms_thumbnail.jpg"></a>
+    <a href="./maps/warreks-nest-grid.jpg"><img src="./thumbnails/warreks-nest-grid_thumbnail.jpg"></a>
+    <a href="./maps/waste-treatment-nogrid.jpg"><img src="./thumbnails/waste-treatment-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/waterfall-cave-nogrid.jpg"><img src="./thumbnails/waterfall-cave-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/waterfall-cave.jpg"><img src="./thumbnails/waterfall-cave_thumbnail.jpg"></a>
+    <a href="./maps/waterfall-combined.jpg"><img src="./thumbnails/waterfall-combined_thumbnail.jpg"></a>
+    <a href="./maps/web-barrow-mounds-of-the-lich-and-famous-3-patreon.jpg"><img src="./thumbnails/web-barrow-mounds-of-the-lich-and-famous-3-patreon_thumbnail.jpg"></a>
+    <a href="./maps/web-chambers-of-the-absent-city.jpg"><img src="./thumbnails/web-chambers-of-the-absent-city_thumbnail.jpg"></a>
+    <a href="./maps/web-dark-caverns-of-turr-patreon.jpg"><img src="./thumbnails/web-dark-caverns-of-turr-patreon_thumbnail.jpg"></a>
+    <a href="./maps/web-drow-spire-revised.jpg"><img src="./thumbnails/web-drow-spire-revised_thumbnail.jpg"></a>
+    <a href="./maps/web-the-bottomless-tombs-1-patreon.jpg"><img src="./thumbnails/web-the-bottomless-tombs-1-patreon_thumbnail.jpg"></a>
+    <a href="./maps/web-the-bronze-vault-grid-patreon.jpg"><img src="./thumbnails/web-the-bronze-vault-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/web-white-crag-fortress-commercial.jpg"><img src="./thumbnails/web-white-crag-fortress-commercial_thumbnail.jpg"></a>
+    <a href="./maps/well-gurath-no-grid.jpg"><img src="./thumbnails/well-gurath-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/west-sewers-complex.jpg"><img src="./thumbnails/west-sewers-complex_thumbnail.jpg"></a>
+    <a href="./maps/wharton-mine-patreon.jpg"><img src="./thumbnails/wharton-mine-patreon_thumbnail.jpg"></a>
+    <a href="./maps/white-crag-fortress-commercial.jpg"><img src="./thumbnails/white-crag-fortress-commercial_thumbnail.jpg"></a>
+    <a href="./maps/will-o-the-wisp-patreon.jpg"><img src="./thumbnails/will-o-the-wisp-patreon_thumbnail.jpg"></a>
+    <a href="./maps/windsong-hall-nogrid.jpg"><img src="./thumbnails/windsong-hall-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/winten-ford-village.jpg"><img src="./thumbnails/winten-ford-village_thumbnail.jpg"></a>
+    <a href="./maps/with-teeth.jpg"><img src="./thumbnails/with-teeth_thumbnail.jpg"></a>
+    <a href="./maps/wolf-tower-grid-kraken.jpg"><img src="./thumbnails/wolf-tower-grid-kraken_thumbnail.jpg"></a>
+    <a href="./maps/wooden-duck-inn-nogrid.jpg"><img src="./thumbnails/wooden-duck-inn-nogrid_thumbnail.jpg"></a>
+    <a href="./maps/workshop-storefront.jpg"><img src="./thumbnails/workshop-storefront_thumbnail.jpg"></a>
+    <a href="./maps/wreck-of-the-wights-shadow-patreon.jpg"><img src="./thumbnails/wreck-of-the-wights-shadow-patreon_thumbnail.jpg"></a>
+    <a href="./maps/wygralaks-hole.jpg"><img src="./thumbnails/wygralaks-hole_thumbnail.jpg"></a>
+    <a href="./maps/wyvernseeker-rock-patreon.jpg"><img src="./thumbnails/wyvernseeker-rock-patreon_thumbnail.jpg"></a>
+    <a href="./maps/yew-lane-estate-grid-patreon.jpg"><img src="./thumbnails/yew-lane-estate-grid-patreon_thumbnail.jpg"></a>
+    <a href="./maps/yruvexswamps.jpg"><img src="./thumbnails/yruvexswamps_thumbnail.jpg"></a>
+    <a href="./maps/zath-gor-dungeons-no-grid.jpg"><img src="./thumbnails/zath-gor-dungeons-no-grid_thumbnail.jpg"></a>
+    <a href="./maps/ziggurat-part-1-grid.jpg"><img src="./thumbnails/ziggurat-part-1-grid_thumbnail.jpg"></a>
+  </div>
+</body>
+</html>

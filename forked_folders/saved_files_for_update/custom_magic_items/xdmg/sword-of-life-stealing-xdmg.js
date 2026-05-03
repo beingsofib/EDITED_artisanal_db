@@ -1,0 +1,55 @@
+window.magicItemMarkdown = `# Sword of Life Stealing
+
+- **Rarity**: Rare
+- **Type**: Rare
+- **Attunement**: Yes
+- **Source**: Dungeon Master's Guide (2024)
+
+When you attack a creature with this magic weapon and roll a 20 on the 'd20' for the attack roll, that target takes an extra 15 Necrotic damage if it isn't a Construct or an Undead, and you gain Temporary Hit Points equal to the amount of Necrotic damage taken.
+
+**Variants**:
+- Glaive of Life Stealing
+- Greatsword of Life Stealing
+- Longsword of Life Stealing
+- Rapier of Life Stealing
+- Scimitar of Life Stealing
+- Shortsword of Life Stealing
+
+### Glaive of Life Stealing
+
+- **Damage**: 1d10 slashing
+- **Properties**: Heavy, Reach, Two-Handed
+- **Weight**: 6.0 lbs.
+
+### Greatsword of Life Stealing
+
+- **Damage**: 2d6 slashing
+- **Properties**: Heavy, Two-Handed
+- **Weight**: 6.0 lbs.
+
+### Longsword of Life Stealing
+
+- **Damage**:
+  - One-handed: 1d8 slashing
+  - Two-handed: 1d10 slashing
+- **Properties**: Versatile
+- **Weight**: 3.0 lbs.
+
+### Rapier of Life Stealing
+
+- **Damage**: 1d8 piercing
+- **Properties**: Finesse
+- **Weight**: 2.0 lbs.
+
+### Scimitar of Life Stealing
+
+- **Damage**: 1d6 slashing
+- **Properties**: Finesse, Light
+- **Weight**: 3.0 lbs.
+
+### Shortsword of Life Stealing
+
+- **Damage**: 1d6 piercing
+- **Properties**: Finesse, Light
+- **Weight**: 2.0 lbs.
+`;

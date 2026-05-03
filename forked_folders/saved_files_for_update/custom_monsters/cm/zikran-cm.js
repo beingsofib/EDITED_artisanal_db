@@ -1,0 +1,54 @@
+window.monsterMarkdown = `
+# Zikran
+*Medium humanoid (any race), Any alignment*
+
+- **Armor Class** 12 (15 with mage armor)
+- **Hit Points** 144 (18d8 + 18)
+- **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 10 (+0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
+
+- **Saving Throws** Intelligence +9, Wisdom +6
+- **Skills** Arcana +13, History +13
+- **Senses** passive Perception 12
+- **Damage Resistances** damage from spells; nonmagical bludgeoning, piercing, slashing (from stoneskin); acid
+- **Gear** dagger
+- **Languages** Aquan, Common, Primordial, Sahuagin, Undercommon
+- **Challenge** 12 (8,400 XP) **Proficiency Bonus** +4
+
+## Traits
+
+***Spellcasting.*** Zikran is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Zikran can cast disguise self and invisibility at will and has the following wizard spells prepared:
+
+**Cantrips (at will):** fire bolt, light, mage hand, prestidigitation, shocking grasp
+
+**1st level (4 slots):** detect magic, identify, mage armor*, magic missile
+
+**2nd level (3 slots):** detect thoughts, mirror image, misty step
+
+**3rd level (3 slots):** counterspell, fly, lightning bolt
+
+**4th level (3 slots):** banishment, fire shield, stoneskin*
+
+**5th level (3 slots):** cone of cold, conjure elemental, scrying, wall of force
+
+**6th level (1 slots):** globe of invulnerability
+
+**7th level (1 slots):** teleport
+
+**8th level (1 slots):** mind blank*
+
+**9th level (1 slots):** time stop
+
+*Zikran casts these spells on itself before combat.
+
+***Magic Resistance.*** Zikran has advantage on saving throws against spells and other magical effects.
+
+***Amphibious.*** Zikran
+
+## Actions
+
+***Dagger.*** *Melee  or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
+`;

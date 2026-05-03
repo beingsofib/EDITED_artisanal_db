@@ -73,6 +73,7 @@ Learn about the licensing of the data of this tool in the license.html file loca
     <thead>
         <tr>
             <th class="init-col">Init <button onclick="rerollAllInitiatives()" class="hp-button" title="Reroll all initiatives"><svg width="14" height="14" viewBox="0 0 100 100" style="vertical-align:middle;display:inline-block;" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round"><polygon points="50,4 96,28 96,72 50,96 4,72 4,28"/><polygon points="50,4 4,72 96,72"/><line x1="4" y1="28" x2="50" y2="96"/><line x1="96" y1="28" x2="50" y2="96"/></svg></button></th>
+            <th class="tohit-col" title="Added to initiative rolls">Init Bonus</th>
             <th class="name-col">Name</th>
             <th class="ac-col">AC</th>
             <th class="tohit-col">Hit Mod</th>
@@ -85,6 +86,12 @@ Learn about the licensing of the data of this tool in the license.html file loca
     </tbody>
 </table>
 
+<div style="margin-top: 18px; display: flex; align-items: center; gap: 10px;">
+    <strong>Roll History</strong>
+    <button onclick="clearRollHistory()" class="hp-button">Clear History</button>
+</div>
+<div id="rollHistory" style="margin-top: 6px; font-size: 14px; line-height: 1.8; max-height: 220px; overflow-y: auto; padding: 6px 0;"></div>
+
 <script>
 let combatants = [];
 let currentTurnIndex = 0;
@@ -92,6 +99,7 @@ let allMonsters = [];
 let monsters = [];
 let monsterSources = [];
 let selectedSource = '';
+let rollHistory = [];
 
 function d20Svg() {
     return `<svg width="14" height="14" viewBox="0 0 100 100" style="vertical-align:middle;display:inline-block;" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round">
@@ -367,6 +375,7 @@ function addCombatant() {
             name: finalName,
             initiative: initiative,
             initMod: window.selectedMonsterInfo ? window.selectedMonsterInfo.initMod : 0,
+            initBonus: window.selectedMonsterInfo ? window.selectedMonsterInfo.initMod : 0,
             maxHp: maxHp,
             currentHp: maxHp,
             ac: ac,
@@ -393,10 +402,18 @@ function sortCombatantsByInitiative() {
     combatants.sort((a, b) => b.initiative - a.initiative);
 }
 
+function updateInitBonus(id, value) {
+    const combatant = combatants.find(c => c.id === id);
+    if (combatant) {
+        combatant.initBonus = parseInt(value) || 0;
+    }
+}
+
 function rerollAllInitiatives() {
     combatants.forEach(combatant => {
         const roll = Math.floor(Math.random() * 20) + 1;
-        combatant.initiative = roll + (combatant.initMod || 0);
+        const bonus = combatant.initBonus !== undefined ? combatant.initBonus : (combatant.initMod || 0);
+        combatant.initiative = roll + bonus;
     });
     sortCombatantsByInitiative();
     currentTurnIndex = 0;
@@ -440,6 +457,7 @@ function renderCombatTable() {
         
         row.innerHTML = `
             <td><input type="number" value="${combatant.initiative}" onchange="updateInitiative(${combatant.id}, this.value)" class="transparent-input" min="1" max="30"></td>
+            <td><input type="number" value="${combatant.initBonus !== undefined ? combatant.initBonus : 0}" onchange="updateInitBonus(${combatant.id}, this.value)" class="transparent-input" style="width:38px; text-align:center;" title="Initiative bonus (added when rolling initiative)"></td>
             <td style="position: relative; padding-right: 100px;">
                 <div style="display: flex; align-items: center; height: 100%;">
                     <input type="text" value="${combatant.name}" onchange="updateName(${combatant.id}, this.value)" class="transparent-input" style="flex: 1;">
@@ -464,7 +482,13 @@ function renderCombatTable() {
                 <div style="display: flex; align-items: center; gap: 4px; justify-content: center;">
                     <input type="text" value="${combatant.damageExpr || ''}" onchange="updateDamageExpr(${combatant.id}, this.value)" class="transparent-input" style="width: 58px; text-align: center;" placeholder="2d6+3" title="Damage expression">
                     <button onclick="rollDamage(${combatant.id})" class="hp-button" title="Roll damage">🎲</button>
-                    ${combatant.lastDamageResult ? '<span style="font-weight:bold;min-width:20px;text-align:center">' + combatant.lastDamageResult.total + '</span>' : ''}
+                    ${combatant.lastDamageResult ? (() => {
+                        const r = combatant.lastDamageResult;
+                        let parts = '';
+                        if (r.rolls.length > 1) parts += `<span style="font-size:10px;color:#aaa">(${r.rolls.join(',')})</span> `;
+                        parts += `<span style="font-weight:bold;min-width:20px;text-align:center">${r.total}</span>`;
+                        return parts;
+                    })() : ''}
                 </div>
             </td>
             ${combatant.maxHp ? `<td>
@@ -580,10 +604,33 @@ function setMaxHp(id, value) {
     }
 }
 
+function addToHistory(str) {
+    rollHistory.unshift(str);
+    const histDiv = document.getElementById('rollHistory');
+    if (histDiv) {
+        histDiv.innerHTML = rollHistory.join('<br>');
+    }
+}
+
+function clearRollHistory() {
+    rollHistory = [];
+    const histDiv = document.getElementById('rollHistory');
+    if (histDiv) histDiv.innerHTML = '';
+}
+
 function rollD20(id) {
     const combatant = combatants.find(c => c.id === id);
     if (combatant) {
-        combatant.lastD20Roll = Math.floor(Math.random() * 20) + 1;
+        const roll = Math.floor(Math.random() * 20) + 1;
+        combatant.lastD20Roll = roll;
+        const mod = combatant.toHitMod !== undefined ? combatant.toHitMod : 0;
+        const total = roll + mod;
+        let rollStr = `<strong>${combatant.name}</strong>: 1d20`;
+        if (mod !== 0) rollStr += ` ${mod >= 0 ? '+' : ''}${mod}`;
+        rollStr += ` = <strong style="${roll === 20 ? 'color:gold' : roll === 1 ? 'color:#e55' : ''}">${total}</strong>`;
+        if (roll === 20) rollStr += ' — Critical Hit!';
+        if (roll === 1) rollStr += ' — Critical Miss!';
+        addToHistory(rollStr);
         renderCombatTable();
     }
 }
@@ -637,6 +684,16 @@ function rollDamage(id) {
     const result = parseDiceExpression(combatant.damageExpr);
     if (result.valid) {
         combatant.lastDamageResult = result;
+        // Build history string matching dice_roller style
+        let rollStr = `<strong>${combatant.name}</strong>: ${combatant.damageExpr}`;
+        if (result.rolls.length > 1) {
+            rollStr += ` (${result.rolls.join(', ')})`;
+        }
+        if (result.modifier !== 0) {
+            rollStr += ` ${result.modifier >= 0 ? '+' : ''}${result.modifier}`;
+        }
+        rollStr += ` = <strong>${result.total}</strong>`;
+        addToHistory(rollStr);
         renderCombatTable();
     } else {
         alert('Invalid damage expression. Try formats like: 2d6, 1d8+3, 2d6-1, 5');

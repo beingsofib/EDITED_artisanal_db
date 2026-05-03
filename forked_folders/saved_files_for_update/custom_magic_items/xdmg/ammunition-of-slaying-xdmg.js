@@ -1,0 +1,60 @@
+window.magicItemMarkdown = `# Ammunition of Slaying
+
+- **Rarity**: Very Rare
+- **Type**: Ammunition
+- **Attunement**: No
+- **Source**: Dungeon Master's Guide (2024)
+
+This magic ammunition is meant to slay creatures of a particular type, which the DM chooses or determines randomly by rolling on the table below. If a creature of that type takes damage from the ammunition, the creature makes a DC 17 Constitution saving throw, taking an extra '6d10' Force damage on a failed save or half as much extra damage on a successful one.
+
+After dealing its extra damage to a creature, the ammunition becomes nonmagical.
+
+| dice: 1d100 | Creature Type |
+|-------------|---------------|
+| 01-10 | Aberrations |
+| 11-15 | Beasts |
+| 16-20 | Celestials |
+| 21-25 | Constructs |
+| 26-35 | Dragons |
+| 36-45 | Elementals |
+| 46-50 | Humanoids |
+| 51-60 | Fey |
+| 61-70 | Fiends |
+| 71-75 | Giants |
+| 76-80 | Monstrosities |
+| 81-85 | Oozes |
+| 86-90 | Plants |
+| 91-00 | Undead |
+
+**Variants**:
+- Arrow of Slaying
+- Bolt of Slaying
+- Energy Cell of Slaying
+- Firearm Bullet of Slaying
+- Needle of Slaying
+- Sling Bullet of Slaying
+
+### Arrow of Slaying
+
+- **Weight**: 0.05 lbs.
+
+### Bolt of Slaying
+
+- **Weight**: 0.075 lbs.
+
+### Energy Cell of Slaying
+
+- **Weight**: 0.5 lbs.
+
+### Firearm Bullet of Slaying
+
+- **Weight**: 0.2 lbs.
+
+### Needle of Slaying
+
+- **Weight**: 0.02 lbs.
+
+### Sling Bullet of Slaying
+
+- **Weight**: 0.075 lbs.
+`;

@@ -1,0 +1,63 @@
+window.monsterMarkdown = `
+# Umbraxakar
+*Huge dragon, Neutral Evil*
+
+- **Armor Class** 19 (natural armor)
+- **Hit Points** 212 (17d12 + 102)
+- **Speed** 40 ft., fly 80 ft., swim 40 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
+
+- **Saving Throws** Dexterity +5, Constitution +11, Wisdom +7, Charisma +9
+- **Skills** Insight +7, Perception +12, Stealth +5
+- **Senses** blindsight 60 ft., darkvision 120 ft., passive Perception 22
+- **Damage Resistances** necrotic
+- **Damage Immunities** lightning
+- **Languages** Common, Draconic
+- **Challenge** 15 (13,000 XP) **Proficiency Bonus** +5
+
+## Traits
+
+***Amphibious.*** Umbraxakar can breathe air and water.
+
+***Legendary Resistance (3/Day).*** If Umbraxakar fails a saving throw, it can choose to succeed instead.
+
+***Living Shadow.*** While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.
+
+***Shadow Stealth.*** While in dim light or darkness, the dragon can take the Hide action as a bonus action.
+
+***Sunlight Sensitivity.*** While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
+
+## Actions
+
+***Multiattack.*** Umbraxakar can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
+
+***Bite.*** *Melee Weapon Attack:* +12 to hit, reach 10 ft., one target. *Hit:* 18 (2d10 + 7) piercing damage.
+
+***Claw.*** *Melee Weapon Attack:* +12 to hit, reach 5 ft., one target. *Hit:* 14 (2d6 + 7) slashing damage.
+
+***Tail.*** *Melee Weapon Attack:* +12 to hit, reach 15 ft., one target. *Hit:* 16 (2d8 + 7) bludgeoning damage.
+
+***Frightful Presence.*** Each creature of Umbraxakar's choice that is within 120 feet of Umbraxakar and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Umbraxakar's Frightful Presence for the next 24 hours.
+
+***Breath Weapons (Recharge 5-6).*** Umbraxakar uses one of the following breath weapons.
+
+- **Shadow Breath.** Umbraxakar exhales necrotic in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) necrotic damage on a failed save, or half as much damage on a successful one.
+- **Repulsion Breath.** Umbraxakar exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 19 Strength saving throw. On a failed save, the creature is pushed 60 feet away from Umbraxakar.
+
+***Change Shape.*** Umbraxakar magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (Umbraxakar's choice).
+
+In a new form, Umbraxakar retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
+
+## Legendary Actions
+
+Legendary Action Uses: 3. Immediately after another creature's turn, Umbraxakar can expend a use to take one of the following actions. Umbraxakar regains all expended uses at the start of each of their turns.
+
+***Detect.*** Umbraxakar makes a Wisdom (Perception) check.
+
+***Tail Attack.*** Umbraxakar makes a tail attack.
+
+***Wing Attack (Costs 2 Actions).*** Umbraxakar beats its wings. Each creature within 10 feet of Umbraxakar must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. Umbraxakar can then fly up to half its flying speed.
+`;

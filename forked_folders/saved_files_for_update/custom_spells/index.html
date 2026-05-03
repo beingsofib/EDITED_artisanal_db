@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="user-scalable=yes, width=device-width">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<script type="text/javascript" src="../../css_js/showdown.min.js"></script>
+<script type="text/javascript" src="../../css_js/custom-content-loader.js"></script>
+<title>Custom Spells</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → <a href="../index.html">Spells</a> → Custom Spells</div>
+
+<div id="spell-list">
+  <h1>Available Spells</h1>
+  <ul id="spell-links"></ul>
+</div>
+
+<div id="spell-content" style="display: none;">
+  <div id="spell-display"></div>
+  <p>
+    <span id="markdown-link-container"></span>
+  </p>
+</div>
+
+<!-- Load custom spells index -->
+<script type="text/javascript" src="custom_spells_index.js"></script>
+
+<script>
+// Initialize the custom content loader for spells
+initializeCustomContentLoader('spell');
+</script>
+
+</body>
+</html>

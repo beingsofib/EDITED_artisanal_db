@@ -1,0 +1,20 @@
+window.monsterMarkdown = `
+# Scorpion
+*Tiny beast, Unaligned*
+
+- **Armor Class** 11
+- **Hit Points** 1 (1d4 - 1)
+- **Speed** 10 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 2 (-4) | 11 (+0) | 8 (-1) | 1 (-5) | 8 (-1) | 2 (-4) |
+
+- **Senses** Blindsight 10 ft., passive Perception 9
+- **Languages** —
+- **Challenge** 0 (10 XP) **Proficiency Bonus** +2
+
+## Actions
+
+***Sting.*** *Melee Attack Roll:* +2, reach 5 ft. *Hit:* 1 Piercing damage plus 3 (1d6) Poison damage.
+`;

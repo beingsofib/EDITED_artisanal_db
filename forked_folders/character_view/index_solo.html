@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="../../css_js/5eadb.css">
+  <title>The Party — Character Viewer</title>
+  <style>
+    /* ── Override: this page needs a wider layout than the 800px default ── */
+    body {
+      max-width: none;
+    }
+
+    /* ── Notice banner ── */
+    .notice {
+      background-color: #f8f8f8;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 8px 12px;
+      font-size: 16px;
+      margin: 10px 0 14px;
+    }
+
+    /* ── Card grid: 2 columns, 3 rows ── */
+    .party-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+      margin-top: 4px;
+    }
+
+    /* Centre the lone 5th card in row 3 */
+    .char-card:last-child:nth-child(odd) {
+      grid-column: 1 / -1;
+      max-width: 50%;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    /* ── Individual card ── */
+    .char-card {
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      overflow: hidden;
+    }
+
+    /* ── Card header bar ── */
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 8px 10px;
+      background-color: #f0f0f0;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .card-label {
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .card-header a {
+      font-size: 14px;
+    }
+
+    /* ── Iframe container ── */
+    .iframe-container {
+      position: relative;
+      height: 820px;
+    }
+
+    /* Expanded card: nearly full viewport height so the dice tray fits */
+    .char-card.expanded {
+      grid-column: 1 / -1;
+    }
+
+    .char-card.expanded .iframe-container {
+      height: calc(100vh - 80px);
+    }
+
+    .expand-btn {
+      background: none;
+      border: 1px solid #bbb;
+      border-radius: 4px;
+      padding: 2px 8px;
+      font-size: 13px;
+      cursor: pointer;
+      margin-right: 8px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .expand-btn {
+        border-color: #555;
+        color: #ddd;
+      }
+    }
+
+    .iframe-container iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+      background: #fff;
+    }
+
+    /* ── Loading overlay ── */
+    .loading-overlay {
+      position: absolute;
+      inset: 0;
+      background: #f9f9f9;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #666;
+      font-size: 16px;
+      pointer-events: none;
+      transition: opacity 0.3s ease;
+    }
+
+    .loading-overlay.hidden { opacity: 0; }
+
+    /* ── Dark mode overrides ── */
+    @media (prefers-color-scheme: dark) {
+      .notice {
+        background-color: #111;
+        border-color: #555;
+      }
+
+      .char-card {
+        border-color: #555;
+      }
+
+      .card-header {
+        background-color: #1a1a1a;
+        border-bottom-color: #555;
+      }
+
+      .loading-overlay {
+        background: #000;
+        color: #999;
+      }
+
+      .iframe-container iframe {
+        background: #000;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div><a href="../../index.html">5e Artisanal Database</a> → The Party</div>
+
+  <h1>The Party</h1>
+
+  <div class="notice">
+    <strong>Note:</strong> Character sheets require you to be <strong>logged in to D&amp;D Beyond</strong> in this browser.
+    If frames appear blank, open each sheet directly first, then reload this page.
+  </div>
+
+  <div class="party-grid" id="partyGrid"></div>
+
+  <script>
+    const characters = [
+      { id: '163473934', label: 'Leah' },
+      { id: '163473888', label: 'Merric' },
+      { id: '163472858', label: 'Roseneath' },
+      { id: '163473380', label: 'Galfrid' },
+      { id: '164075576', label: 'Namur' },
+    ];
+
+    const grid = document.getElementById('partyGrid');
+
+    characters.forEach((char, i) => {
+      const url = `https://www.dndbeyond.com/characters/${char.id}`;
+
+      const card = document.createElement('div');
+      card.className = 'char-card';
+
+      card.innerHTML = `
+        <div class="card-header">
+          <span class="card-label">${char.label}</span>
+          <span>
+            <button class="expand-btn" onclick="toggleExpand(${i})" id="expand-${i}">Expand ⤢</button>
+            <a href="${url}" target="_blank" rel="noopener">Open ↗</a>
+          </span>
+        </div>
+        <div class="iframe-container">
+          <div class="loading-overlay" id="overlay-${i}">Loading character sheet…</div>
+          <iframe
+            src="${url}"
+            title="Character ${char.id}"
+            loading="lazy"
+            allow="autoplay; clipboard-read; clipboard-write; fullscreen"
+            onload="hideOverlay(${i})"
+          ></iframe>
+        </div>
+      `;
+
+      card.dataset.index = i;
+      grid.appendChild(card);
+    });
+
+    function hideOverlay(i) {
+      const overlay = document.getElementById(`overlay-${i}`);
+      if (overlay) {
+        overlay.classList.add('hidden');
+        setTimeout(() => overlay.remove(), 400);
+      }
+    }
+
+    function toggleExpand(i) {
+      const cards = document.querySelectorAll('.char-card');
+      const target = cards[i];
+      const wasExpanded = target.classList.contains('expanded');
+
+      // Collapse any other expanded card so only one is full-size at a time
+      cards.forEach(c => c.classList.remove('expanded'));
+      cards.forEach((c, idx) => {
+        const btn = document.getElementById(`expand-${idx}`);
+        if (btn) btn.textContent = 'Expand ⤢';
+      });
+
+      if (!wasExpanded) {
+        target.classList.add('expanded');
+        const btn = document.getElementById(`expand-${i}`);
+        if (btn) btn.textContent = 'Collapse ⤡';
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+window.magicItemMarkdown = `# Drum
+
+- **Rarity**: Unknown
+- **Type**: Instrument
+- **Attunement**: No
+- **Source**: Player's Handbook (2024)
+
+- **Cost**: 6 gp
+- **Weight**: 3.0 lbs.
+
+- **Ability.** Charisma  
+- **Utilize.** Play a known tune (DC 10), or improvise a song (DC 15)
+`;
