@@ -11,7 +11,14 @@
 
 <h1>Creature Encounter Generator</h1>
 
+<select id="terrainSelect" onchange="selectTerrain()">
+  <option value="urban_creature">Urban</option>
+  <option value="grass_creature">Grassland</option>
+  <option value="mountain_creature">Mountain</option>
+  <option value="hill_creature">Hill</option>
+</select>
 <button onclick="generateContent()">Roll</button>
+<button onclick="randomTerrain()">Random Terrain</button>
 
 <div id="output">
     <em>Click the button above to generate content...</em>
@@ -22,23 +29,23 @@
 <script src="../css_js/generator.js"></script>
 <script src="../custom_css_js/homebrew_generator.js"></script>
 
-
 <script>
-// Creature Encounter shared data
-const creatureDataText = `
-template
-  {terrain_encounter}
+function selectTerrain() {
+    const terrain = document.getElementById('terrainSelect').value;
+    window.dataText = addCommonDataTo(`template\n    {${terrain}}\n\n`);
+    generateContent();
+}
 
-terrain_encounter
-  <strong>Urban:</strong> {urban_creature} — carrying {simple_item}
-  <strong>Grassland:</strong> {grass_creature}
-  <strong>Mountain:</strong> {mountain_creature}
-  <strong>Hill:</strong> {hill_creature}
+function randomTerrain() {
+    const sel = document.getElementById('terrainSelect');
+    sel.selectedIndex = Math.floor(Math.random() * sel.options.length);
+    selectTerrain();
+}
 
-`;
-
-// Combine location-specific data with shared common data
-const dataText = addCommonDataTo(creatureDataText);
+// Pre-set dataText with default selection
+window.dataText = addCommonDataTo(
+    `template\n    {${document.getElementById('terrainSelect').value}}\n\n`
+);
 </script>
 
 </body>

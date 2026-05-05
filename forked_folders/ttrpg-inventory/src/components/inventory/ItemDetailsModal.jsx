@@ -62,7 +62,7 @@ export const ItemDetailsModal = ({
   const [transferQuantity, setTransferQuantity] = useState(1);
 
   // Reset all editing state when a different item is selected or modal opens fresh.
-  // Keyed on item identity (id), not item reference, so Firebase updates to other
+  // Keyed on item identity (id), not item reference, so external updates to other
   // items don't clobber in-progress edits.
   const itemId = item?.id;
   useEffect(() => {

@@ -1450,3 +1450,102 @@ body.encounter-calculator th {
         border-color: #555;
     }
 }
+
+/* ── Print styles ── */
+@media print {
+
+  /* Force white-on-black throughout; undo dark-mode overrides */
+  * {
+    background: #fff !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  body {
+    max-width: none;
+    font-size: 11pt;
+    margin: 0;
+    padding: 1cm;
+  }
+
+  /* ── Hide all buttons and interactive controls ── */
+  button { display: none !important; }
+  select { display: none !important; }
+
+  /* ── Hide named UI blocks ── */
+  .controls,              /* combat tracker add-combatant form     */
+  .combat-controls,       /* Next Turn / Reset / Export buttons    */
+  .search-row,            /* monster-search row in combat tracker  */
+  .source-select-group,   /* source dropdown in combat tracker     */
+  .main-search-container, /* homepage search box                   */
+  .filter-container,      /* homepage source filters               */
+  .filter-bar,            /* Dyson archive filter bar              */
+  .search-buttons,        /* homepage search button row            */
+  #monsterResults,        /* monster autocomplete dropdown         */
+  .monster-dropdown,
+  #autosaveStatus,        /* "✓ Saved" indicator                   */
+  .edit-toggle,           /* character viewer "Edit Party" button  */
+  .edit-panel,            /* character viewer edit panel           */
+  .loading-overlay,       /* iframe loading overlay                */
+  .notice,                /* "must be logged in" notice            */
+  .expand-btn {           /* character card expand button          */
+    display: none !important;
+  }
+
+  /* ── Generator output: strip the injected UI chrome ── */
+  #output {
+    border: none !important;
+    padding: 0 !important;
+    margin-top: 8pt;
+  }
+
+  /* ── Inline inputs in the combat table render as plain text ── */
+  .transparent-input,
+  .hp-input {
+    border: none !important;
+    background: transparent !important;
+    width: auto !important;
+    min-width: 0 !important;
+    padding: 0 !important;
+    font-size: 10pt !important;
+  }
+
+  /* ── Tables ── */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    border: 1px solid #aaa;
+    padding: 3pt 5pt;
+    font-size: 10pt;
+    vertical-align: top;
+  }
+
+  th { background: #eee !important; }
+
+  tr { page-break-inside: avoid; }
+
+  /* ── Roll history: expand fully so nothing is clipped ── */
+  #rollHistory {
+    max-height: none !important;
+    overflow: visible !important;
+    font-size: 10pt;
+  }
+
+  /* ── Typography ── */
+  h1 { font-size: 18pt; }
+  h2 { font-size: 14pt; }
+  h3 { font-size: 12pt; }
+  h1, h2, h3 { page-break-after: avoid; }
+
+  /* ── Links: strip colour, suppress URL expansion (all paths are local) ── */
+  a, a:visited { color: #000 !important; text-decoration: underline; }
+  a[href]:after { content: none !important; }
+
+  /* ── Keep cards together on the page ── */
+  .char-card { page-break-inside: avoid; }
+
+}

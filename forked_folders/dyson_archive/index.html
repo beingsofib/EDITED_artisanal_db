@@ -11,6 +11,17 @@
     .gallery { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; }
     .gallery img { border: 2px solid #f0f0f0; border-radius: 5px; width: 400px; transition: transform 0.2s ease; }
     .gallery img:hover { transform: scale(1.1); border-color: #ccc; }
+    .filter-bar { text-align: center; padding: 0 20px 10px; }
+    .filter-bar input { font-size: 16px; padding: 8px 12px; width: min(400px, 90%); border: 2px solid #ccc; border-radius: 4px; }
+    .filter-bar input:focus { border-color: #888; outline: none; }
+    .filter-count { font-size: 14px; color: #666; margin-top: 6px; }
+    .gallery a.hidden { display: none; }
+    @media (prefers-color-scheme: dark) {
+      body { background-color: #1a1a1a; color: #ddd; }
+      .filter-bar input { background: #333; border-color: #555; color: #ddd; }
+      .filter-bar input:focus { border-color: #aaa; }
+      .filter-count { color: #999; }
+    }
   </style>
 </head>
 <body>
@@ -18,13 +29,48 @@
     document.addEventListener('DOMContentLoaded', function () {
       var slider = document.getElementById('sizeSlider');
       var gallery = document.querySelector('.gallery');
+      var filterInput = document.getElementById('mapFilter');
+      var countEl = document.getElementById('mapCount');
+      var total = gallery.children.length;
+
+      // Resize slider
       slider.addEventListener('input', function () {
         gallery.querySelectorAll('img').forEach(img => {
           img.style.width = this.value + 'px';
           img.style.height = 'auto';
         });
       });
+
+      // Shuffle on load
       Array.from(gallery.children).sort(() => Math.random() - 0.5).forEach(n => gallery.appendChild(n));
+      updateCount(total, total);
+
+      // Live text filter — matches against the map filename in the href
+      filterInput.addEventListener('input', function () {
+        var terms = this.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+        var visible = 0;
+        Array.from(gallery.children).forEach(function (a) {
+          var name = a.getAttribute('href').replace('./maps/', '').replace(/\.(jpg|png)$/, '').toLowerCase();
+          var matches = terms.length === 0 || terms.every(t => name.includes(t));
+          a.classList.toggle('hidden', !matches);
+          if (matches) visible++;
+        });
+        updateCount(visible, total);
+      });
+
+      // Clear filter on Escape
+      filterInput.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') {
+          this.value = '';
+          this.dispatchEvent(new Event('input'));
+        }
+      });
+
+      function updateCount(shown, all) {
+        countEl.textContent = shown === all
+          ? all + ' maps'
+          : shown + ' of ' + all + ' maps';
+      }
     });
   </script>
   <div style="text-align: center; padding: 0 3em;">
@@ -36,6 +82,10 @@
   <div class="slider-container">
     <label for="sizeSlider">Adjust Thumbnail Size:</label>
     <input type="range" id="sizeSlider" min="50" max="800" value="400">
+  </div>
+  <div class="filter-bar">
+    <input type="search" id="mapFilter" placeholder="Filter maps — e.g. cave, dungeon, tower, village…" autocomplete="off">
+    <div class="filter-count" id="mapCount"></div>
   </div>
   <div class="gallery">
     <a href="./maps/24-inch-cave-bw.jpg"><img src="./thumbnails/24-inch-cave-bw_thumbnail.jpg"></a>

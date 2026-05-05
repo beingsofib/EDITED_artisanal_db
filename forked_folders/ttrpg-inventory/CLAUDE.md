@@ -11,68 +11,74 @@ npm run preview  # serve the built bundle
 npm run lint     # eslint . — note: no eslint config is checked in, so this fails until one is added
 ```
 
-There is no test runner configured. Local dev requires `.env.local` populated from `.env.example` with Firebase web-app config values (see README for project setup and required Firestore rules).
+There is no test runner configured. No environment variables are required — the app runs fully client-side with no external services.
 
 ## Architecture
 
-This is a Firebase-backed, real-time shared inventory tool for TTRPG parties. There is no backend — the React client talks directly to Firestore, and `onSnapshot` listeners push updates to every connected client.
+This is a self-hosted, server-free inventory tool for TTRPG parties. All data lives in `localStorage`, keyed by party ID. `BroadcastChannel` keeps multiple tabs on the same machine in sync. There is no backend and no network dependency.
 
-### Data model — important
+### Storage layer
 
-Firestore layout, scoped per party:
+`src/storage/localStore.js` is the single data access module. It exposes:
+
+- `subscribeToCharacters(partyId, cb)` — calls `cb(sortedArray)` immediately and on every change. Returns unsubscribe.
+- `subscribeToAuditLog(partyId, cb)` — same, newest-first array.
+- `subscribeToConfig(partyId, cb)` — same, config object.
+- `transaction(partyId, fn)` — synchronous "transaction": `fn` receives `{ get(charId), update(charId, fields) }`, flushes all updates atomically to localStorage and notifies subscribers.
+- `addCharacter / updateCharacterFields / getCharacter / deleteCharacter` — simple CRUD helpers.
+- `addAuditLogEntry(partyId, action, description)` — appends to the audit log (capped at 500).
+- `savePartyConfig(partyId, config)` — merges config fields.
+- `exportParty(partyId)` / `importParty(partyId, json)` — full party backup/restore.
+
+localStorage keys: `ttrpg:<partyId>:chars`, `ttrpg:<partyId>:audit`, `ttrpg:<partyId>:config`.
+
+### Data model
 
 ```
-artifacts/{appId}/public/data/dnd_inventory/{partyId}/
-├── characters/{characterId}                          -- one doc per character
-│   └── { name, order, containers: [{ id, name, weight, maxCapacity, items: [...] }] }
-└── metadata/party-data/entries/{entryId}             -- one doc per audit log entry
-    └── { action, description, timestamp }            -- ISO-string timestamp, queried desc
+localStorage:
+  ttrpg:{partyId}:chars   — { [charId]: { name, order, containers: [...] } }
+  ttrpg:{partyId}:audit   — [{ id, action, description, timestamp }, ...]
+  ttrpg:{partyId}:config  — { weightUnit, coinsPerWeightUnit, defaultContainers }
 ```
 
-**Only characters are top-level docs.** Containers and items are nested arrays inside the character document. Every mutation that touches `containers[]` follows the same pattern, wrapped in a Firestore transaction so concurrent edits on the same character can't lose updates:
+Containers and items are nested arrays inside each character object. Every mutation that touches `containers[]` goes through `store.transaction()`, which reads, mutates immutably, and writes in one synchronous step:
 
 ```js
-await runTransaction(db, async (txn) => {
-  const characterDoc = await txn.get(characterRef);
-  if (!characterDoc.exists()) return;
-  const characterData = characterDoc.data();
+store.transaction(partyId, (txn) => {
+  const charData = txn.get(charId);
+  if (!charData) return null;
   const updatedContainers = /* immutably map over containers */;
-  txn.update(characterRef, { containers: updatedContainers });
+  txn.update(charId, { containers: updatedContainers });
+  return result; // passed back to caller for audit logging
 });
 ```
 
-Cross-character operations (`handleTransferAllItems`, `handleTransferItem`) read both character docs inside the transaction and write both — the transaction body must do all reads before any writes.
+Cross-character operations call `txn.get` for both characters and `txn.update` for both — all reads happen before writes.
 
-`addAuditLogEntry` is called *after* the transaction returns. To pass values out (character/container names for the log message), the transaction returns a `result` object and the post-txn code reads from it. We accept that an audit log write could fail without rolling back the mutation; in that case the user's action still went through, just without a log line.
-
-Audit log entries are individual docs in a subcollection — append-only, no read-modify-write race. The reader uses `query(entriesRef, orderBy('timestamp', 'desc'))`.
+`addAuditLogEntry` is called after the transaction returns. The transaction returns a `result` object so the caller has names/counts for the log message.
 
 ### Routing and party identity
 
-`App.jsx` mounts a single route `/:partyId`. A party is just an opaque ID (typically a UUID). Unknown routes redirect to either the last-visited party (from `localStorage.lastVisitedParty`) or a freshly generated UUID. Sharing a party means sharing its URL; access control is "anyone authenticated who knows the URL," enforced by the Firestore rules in the README. Auth is anonymous (`signInAnonymously`) and happens on first load.
+`App.jsx` mounts a single route `/:partyId`. A party is just a UUID in the URL. Unknown routes redirect to either the last-visited party (from `localStorage.lastVisitedParty`) or a freshly generated UUID. No authentication required.
 
 ### Component layout
 
-`InventoryAppContent.jsx` (~2500 lines) is the app. It owns:
+`InventoryAppContent.jsx` (~2200 lines) is the app. It owns:
 
-- All Firestore subscriptions (`onSnapshot` for characters and audit log).
-- All mutation handlers (add/delete/rename/transfer/identify/liquidate/import/etc.).
+- All storage subscriptions (characters, audit log, config).
+- All mutation handlers (add/delete/rename/transfer/identify/liquidate/import/export/etc.).
 - All modal-open state — the UI is a stack of modals (`AddItemInputModal`, `ItemDetailsModal`, `ContainerDetailsModal`, `CharacterDetailsModal`, `TransferAllItemsModal`, `ImportItemsModal`, `AuditLogModal`, `DeleteConfirmationModal`, plus the generic `Modal` / `GenericInputModal`).
 - The character grid renderer (responsive 1–4 columns based on viewport width).
 
-When adding a new mutation, follow the existing pattern: validate `db && userId && partyId`, fetch the character doc, mutate the `containers` array immutably, `updateDoc`, then `addAuditLogEntry`. For cross-character changes use `writeBatch`.
+When adding a new mutation, follow the existing pattern: validate `partyId`, call `store.transaction(partyId, ...)`, mutate `containers` immutably inside the transaction, then call `addAuditLogEntry`.
 
 ### Item types
 
 Items in a container's `items` array are heterogeneous. The discriminators are:
 
-- `itemType: 'coins'` — has a `coins: { platinum, gold, silver, copper }` object. Weight is computed (`50 coins = 1 lb`, floored) in `src/utils/coins.js`. When adding/transferring coins into a container, code should merge with any existing coins item — see the merge logic in `handleAddItemSubmit` and `mergeContainerCoins`.
+- `itemType: 'coins'` — has a `coins: { platinum, gold, silver, copper }` object. Weight is computed (`50 coins = 1 lb`, floored) in `src/utils/coins.js`. When adding/transferring coins into a container that already has a coins item, the two are merged.
 - `itemType: 'treasure'` — has `goldValue`, `quantity`, `weightPerItem`. Can be "liquidated" into a coins item.
 - `isUnidentified: true` — has `secretName` and `secretDescription` shown only in details until the item is "identified."
 - otherwise: a plain item with `name`, `weight`, `description`.
 
-Weights are stored as pounds (despite the `formatWeightInStones` legacy name in `src/utils/utils.js`, which is now just an alias for `formatWeight`).
-
-### Firebase config
-
-Vite env vars (`VITE_FIREBASE_*`) are inlined into the client bundle at build time — they are not secrets. Data protection comes from the Firestore rules, not from hiding the API key. Don't add server-side env handling; there is no server.
+Weights are stored as pounds.

@@ -5,12 +5,8 @@
   <link rel="stylesheet" href="../../css_js/5eadb.css">
   <title>The Party — Character Viewer</title>
   <style>
-    /* ── Override: this page needs a wider layout than the 800px default ── */
-    body {
-      max-width: none;
-    }
+    body { max-width: none; }
 
-    /* ── Notice banner ── */
     .notice {
       background-color: #f8f8f8;
       border: 1px solid #ddd;
@@ -20,7 +16,80 @@
       margin: 10px 0 14px;
     }
 
-    /* ── Card grid: 2 columns, 3 rows ── */
+    .page-header {
+      display: flex;
+      align-items: baseline;
+      gap: 14px;
+      flex-wrap: wrap;
+      margin-bottom: 4px;
+    }
+
+    .page-header h1 { margin: 0; }
+
+    .edit-toggle {
+      font-size: 13px;
+      padding: 3px 10px;
+      cursor: pointer;
+      border: 1px solid #bbb;
+      border-radius: 4px;
+      background: none;
+    }
+
+    /* ── Edit panel ── */
+    .edit-panel {
+      background: #f8f8f8;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 12px 14px;
+      margin-bottom: 14px;
+      font-size: 14px;
+    }
+
+    .edit-panel h3 { margin: 0 0 10px; font-size: 15px; }
+
+    .edit-char-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+    }
+
+    .edit-char-row span { flex: 1; }
+
+    .remove-char-btn {
+      background: none;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+      padding: 2px 7px;
+      cursor: pointer;
+      font-size: 13px;
+      color: #c00;
+    }
+
+    .add-char-row {
+      display: flex;
+      gap: 6px;
+      margin-top: 10px;
+      flex-wrap: wrap;
+    }
+
+    .add-char-row input {
+      padding: 4px 8px;
+      font-size: 13px;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+
+    .add-char-row input[name="label"] { width: 120px; }
+    .add-char-row input[name="charId"] { flex: 1; min-width: 180px; }
+
+    .add-char-btn {
+      padding: 4px 12px;
+      font-size: 13px;
+      cursor: pointer;
+    }
+
+    /* ── Card grid ── */
     .party-grid {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
@@ -28,7 +97,6 @@
       margin-top: 4px;
     }
 
-    /* Centre the lone 5th card in row 3 */
     .char-card:last-child:nth-child(odd) {
       grid-column: 1 / -1;
       max-width: 50%;
@@ -36,14 +104,12 @@
       width: 100%;
     }
 
-    /* ── Individual card ── */
     .char-card {
       border: 1px solid #ccc;
       border-radius: 4px;
       overflow: hidden;
     }
 
-    /* ── Card header bar ── */
     .card-header {
       display: flex;
       align-items: center;
@@ -53,29 +119,16 @@
       border-bottom: 1px solid #ccc;
     }
 
-    .card-label {
-      font-weight: bold;
-      font-size: 16px;
-    }
+    .card-label { font-weight: bold; font-size: 16px; }
+    .card-header a { font-size: 14px; }
 
-    .card-header a {
-      font-size: 14px;
-    }
-
-    /* ── Iframe container ── */
     .iframe-container {
       position: relative;
       height: 820px;
     }
 
-    /* Expanded card: nearly full viewport height so the dice tray fits */
-    .char-card.expanded {
-      grid-column: 1 / -1;
-    }
-
-    .char-card.expanded .iframe-container {
-      height: calc(100vh - 80px);
-    }
+    .char-card.expanded { grid-column: 1 / -1; }
+    .char-card.expanded .iframe-container { height: calc(100vh - 80px); }
 
     .expand-btn {
       background: none;
@@ -87,13 +140,6 @@
       margin-right: 8px;
     }
 
-    @media (prefers-color-scheme: dark) {
-      .expand-btn {
-        border-color: #555;
-        color: #ddd;
-      }
-    }
-
     .iframe-container iframe {
       width: 100%;
       height: 100%;
@@ -102,7 +148,6 @@
       background: #fff;
     }
 
-    /* ── Loading overlay ── */
     .loading-overlay {
       position: absolute;
       inset: 0;
@@ -118,30 +163,24 @@
 
     .loading-overlay.hidden { opacity: 0; }
 
-    /* ── Dark mode overrides ── */
+    .empty-state {
+      padding: 40px;
+      text-align: center;
+      color: #888;
+      border: 2px dashed #ddd;
+      border-radius: 4px;
+    }
+
     @media (prefers-color-scheme: dark) {
-      .notice {
-        background-color: #111;
-        border-color: #555;
-      }
-
-      .char-card {
-        border-color: #555;
-      }
-
-      .card-header {
-        background-color: #1a1a1a;
-        border-bottom-color: #555;
-      }
-
-      .loading-overlay {
-        background: #000;
-        color: #999;
-      }
-
-      .iframe-container iframe {
-        background: #000;
-      }
+      .notice, .edit-panel { background-color: #111; border-color: #555; }
+      .char-card { border-color: #555; }
+      .card-header { background-color: #1a1a1a; border-bottom-color: #555; }
+      .loading-overlay { background: #000; color: #999; }
+      .iframe-container iframe { background: #000; }
+      .edit-toggle, .expand-btn { border-color: #555; color: #ddd; }
+      .add-char-row input { background: #1a1a1a; border-color: #555; color: #ddd; }
+      .remove-char-btn { border-color: #555; }
+      .empty-state { border-color: #444; }
     }
   </style>
 </head>
@@ -149,17 +188,32 @@
 
   <div><a href="../../index.html">5e Artisanal Database</a> → The Party</div>
 
-  <h1>The Party</h1>
+  <div class="page-header">
+    <h1>The Party</h1>
+    <button class="edit-toggle" id="editToggle" onclick="toggleEdit()">Edit Party ✎</button>
+  </div>
 
   <div class="notice">
     <strong>Note:</strong> Character sheets require you to be <strong>logged in to D&amp;D Beyond</strong> in this browser.
     If frames appear blank, open each sheet directly first, then reload this page.
   </div>
 
+  <div class="edit-panel" id="editPanel" style="display:none;">
+    <h3>Party Members</h3>
+    <div id="charList"></div>
+    <div class="add-char-row">
+      <input type="text" name="label" id="addLabel" placeholder="Name">
+      <input type="text" name="charId" id="addId" placeholder="D&amp;D Beyond character URL or ID">
+      <button class="add-char-btn" onclick="addCharacter()">Add</button>
+    </div>
+  </div>
+
   <div class="party-grid" id="partyGrid"></div>
 
   <script>
-    const characters = [
+    const STORAGE_KEY = 'charViewer_solo';
+
+    const DEFAULT_CHARACTERS = [
       { id: '163473934', label: 'Leah' },
       { id: '163473888', label: 'Merric' },
       { id: '163472858', label: 'Roseneath' },
@@ -167,37 +221,122 @@
       { id: '164075576', label: 'Namur' },
     ];
 
-    const grid = document.getElementById('partyGrid');
+    function loadCharacters() {
+      try {
+        const saved = localStorage.getItem(STORAGE_KEY);
+        if (saved) return JSON.parse(saved);
+      } catch(e) {}
+      return DEFAULT_CHARACTERS.slice();
+    }
 
-    characters.forEach((char, i) => {
-      const url = `https://www.dndbeyond.com/characters/${char.id}`;
+    function saveCharacters(chars) {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(chars));
+    }
 
-      const card = document.createElement('div');
-      card.className = 'char-card';
+    function extractId(input) {
+      // Accept full D&D Beyond URL or bare ID
+      const match = input.match(/characters\/(\d+)/);
+      if (match) return match[1];
+      return input.trim().replace(/[^\d]/g, '');
+    }
 
-      card.innerHTML = `
-        <div class="card-header">
-          <span class="card-label">${char.label}</span>
-          <span>
-            <button class="expand-btn" onclick="toggleExpand(${i})" id="expand-${i}">Expand ⤢</button>
-            <a href="${url}" target="_blank" rel="noopener">Open ↗</a>
-          </span>
-        </div>
-        <div class="iframe-container">
-          <div class="loading-overlay" id="overlay-${i}">Loading character sheet…</div>
-          <iframe
-            src="${url}"
-            title="Character ${char.id}"
-            loading="lazy"
-            allow="autoplay; clipboard-read; clipboard-write; fullscreen"
-            onload="hideOverlay(${i})"
-          ></iframe>
-        </div>
-      `;
+    function renderGrid() {
+      const chars = loadCharacters();
+      const grid = document.getElementById('partyGrid');
+      grid.innerHTML = '';
 
-      card.dataset.index = i;
-      grid.appendChild(card);
-    });
+      if (chars.length === 0) {
+        grid.innerHTML = '<div class="empty-state">No characters yet — use <strong>Edit Party</strong> to add some.</div>';
+        return;
+      }
+
+      chars.forEach((char, i) => {
+        const url = `https://www.dndbeyond.com/characters/${char.id}`;
+        const card = document.createElement('div');
+        card.className = 'char-card';
+        card.dataset.index = i;
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="card-label">${char.label}</span>
+            <span>
+              <button class="expand-btn" onclick="toggleExpand(${i})" id="expand-${i}">Expand ⤢</button>
+              <a href="${url}" target="_blank" rel="noopener">Open ↗</a>
+            </span>
+          </div>
+          <div class="iframe-container">
+            <div class="loading-overlay" id="overlay-${i}">Loading character sheet…</div>
+            <iframe
+              src="${url}"
+              title="${char.label}"
+              loading="lazy"
+              allow="autoplay; clipboard-read; clipboard-write; fullscreen"
+              onload="hideOverlay(${i})"
+            ></iframe>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    function renderEditList() {
+      const chars = loadCharacters();
+      const list = document.getElementById('charList');
+      list.innerHTML = '';
+      if (chars.length === 0) {
+        list.innerHTML = '<p style="color:#888;margin:0 0 8px">No characters added yet.</p>';
+        return;
+      }
+      chars.forEach((char, i) => {
+        const row = document.createElement('div');
+        row.className = 'edit-char-row';
+        row.innerHTML = `
+          <span><strong>${char.label}</strong> — ID: ${char.id}</span>
+          <button class="remove-char-btn" onclick="removeCharacter(${i})">Remove</button>
+        `;
+        list.appendChild(row);
+      });
+    }
+
+    function toggleEdit() {
+      const panel = document.getElementById('editPanel');
+      const btn = document.getElementById('editToggle');
+      const open = panel.style.display === 'none';
+      panel.style.display = open ? '' : 'none';
+      btn.textContent = open ? 'Done ✓' : 'Edit Party ✎';
+      if (open) renderEditList();
+    }
+
+    function addCharacter() {
+      const labelEl = document.getElementById('addLabel');
+      const idEl = document.getElementById('addId');
+      const label = labelEl.value.trim();
+      const rawId = idEl.value.trim();
+      const id = extractId(rawId);
+
+      if (!label) { alert('Please enter a name.'); return; }
+      if (!id) { alert('Please enter a D&D Beyond character URL or ID.'); return; }
+
+      const chars = loadCharacters();
+      chars.push({ id, label });
+      saveCharacters(chars);
+
+      labelEl.value = '';
+      idEl.value = '';
+      renderEditList();
+      renderGrid();
+    }
+
+    function removeCharacter(index) {
+      const chars = loadCharacters();
+      const removed = chars.splice(index, 1)[0];
+      if (!confirm(`Remove ${removed.label} from the party?`)) {
+        chars.splice(index, 0, removed);
+        return;
+      }
+      saveCharacters(chars);
+      renderEditList();
+      renderGrid();
+    }
 
     function hideOverlay(i) {
       const overlay = document.getElementById(`overlay-${i}`);
@@ -212,7 +351,6 @@
       const target = cards[i];
       const wasExpanded = target.classList.contains('expanded');
 
-      // Collapse any other expanded card so only one is full-size at a time
       cards.forEach(c => c.classList.remove('expanded'));
       cards.forEach((c, idx) => {
         const btn = document.getElementById(`expand-${idx}`);
@@ -226,6 +364,15 @@
         target.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
     }
+
+    // Handle Enter key in add form
+    ['addLabel', 'addId'].forEach(id => {
+      document.getElementById(id).addEventListener('keydown', e => {
+        if (e.key === 'Enter') addCharacter();
+      });
+    });
+
+    renderGrid();
   </script>
 
 </body>

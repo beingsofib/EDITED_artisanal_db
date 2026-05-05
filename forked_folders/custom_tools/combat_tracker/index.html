@@ -67,6 +67,7 @@ Learn about the licensing of the data of this tool in the license.html file loca
     <button onclick="document.getElementById('importFile').click()">Import JSON</button>
     <button onclick="exportCombat()">Export JSON</button>
     <button onclick="copyInitiativeText()">Copy Text</button>
+    <span id="autosaveStatus" style="font-size: 12px; color: #4caf50; opacity: 0; transition: opacity 0.5s; margin-left: 4px;"></span>
 </div>
 
 <table id="combatTable">
@@ -100,6 +101,42 @@ let monsters = [];
 let monsterSources = [];
 let selectedSource = '';
 let rollHistory = [];
+
+const AUTOSAVE_KEY = 'combatTracker_autosave';
+
+function saveCombatState() {
+    try {
+        localStorage.setItem(AUTOSAVE_KEY, JSON.stringify({
+            combatants: combatants,
+            currentTurnIndex: currentTurnIndex,
+            rollHistory: rollHistory
+        }));
+        const el = document.getElementById('autosaveStatus');
+        if (el) {
+            el.textContent = '✓ Saved';
+            el.style.opacity = '1';
+            clearTimeout(el._fadeTimer);
+            el._fadeTimer = setTimeout(() => { el.style.opacity = '0'; }, 1500);
+        }
+    } catch (e) { /* localStorage full or unavailable */ }
+}
+
+function restoreCombatState() {
+    try {
+        const saved = localStorage.getItem(AUTOSAVE_KEY);
+        if (!saved) return false;
+        const state = JSON.parse(saved);
+        if (!state.combatants || !Array.isArray(state.combatants)) return false;
+        combatants = state.combatants;
+        currentTurnIndex = state.currentTurnIndex || 0;
+        rollHistory = state.rollHistory || [];
+        const histDiv = document.getElementById('rollHistory');
+        if (histDiv && rollHistory.length > 0) {
+            histDiv.innerHTML = rollHistory.join('<br>');
+        }
+        return true;
+    } catch (e) { return false; }
+}
 
 function d20Svg() {
     return `<svg width="14" height="14" viewBox="0 0 100 100" style="vertical-align:middle;display:inline-block;" fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round">
@@ -406,6 +443,7 @@ function updateInitBonus(id, value) {
     const combatant = combatants.find(c => c.id === id);
     if (combatant) {
         combatant.initBonus = parseInt(value) || 0;
+        saveCombatState();
     }
 }
 
@@ -506,6 +544,7 @@ function renderCombatTable() {
         
         tbody.appendChild(row);
     });
+    saveCombatState();
 }
 
 function modifyHp(id, amount) {
@@ -616,6 +655,7 @@ function clearRollHistory() {
     rollHistory = [];
     const histDiv = document.getElementById('rollHistory');
     if (histDiv) histDiv.innerHTML = '';
+    saveCombatState();
 }
 
 function rollD20(id) {
@@ -647,6 +687,7 @@ function updateDamageExpr(id, value) {
     const combatant = combatants.find(c => c.id === id);
     if (combatant) {
         combatant.damageExpr = value.trim();
+        saveCombatState();
     }
 }
 
@@ -718,7 +759,11 @@ function resetCombat() {
     if (confirm('Are you sure you want to reset the combat? This will remove all combatants.')) {
         combatants = [];
         currentTurnIndex = 0;
+        rollHistory = [];
+        localStorage.removeItem(AUTOSAVE_KEY);
         renderCombatTable();
+        const histDiv = document.getElementById('rollHistory');
+        if (histDiv) histDiv.innerHTML = '';
     }
 }
 
@@ -747,6 +792,18 @@ function exportCombat() {
     URL.revokeObjectURL(link.href);
 }
 
+function execCommandCopy(text) {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed';
+    ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    document.execCommand('copy');
+    document.body.removeChild(ta);
+    alert('Initiative order copied to clipboard!');
+}
+
 function copyInitiativeText() {
     if (combatants.length === 0) {
         alert('No combatants to export.');
@@ -759,19 +816,14 @@ function copyInitiativeText() {
         text += `- ${combatant.initiative}: ${combatant.name}\n`;
     });
     
-    // Copy to clipboard
-    navigator.clipboard.writeText(text).then(function() {
-        alert('Initiative order copied to clipboard!');
-    }).catch(function(err) {
-        // Fallback for older browsers
-        const textArea = document.createElement('textarea');
-        textArea.value = text;
-        document.body.appendChild(textArea);
-        textArea.select();
-        document.execCommand('copy');
-        document.body.removeChild(textArea);
-        alert('Initiative order copied to clipboard!');
-    });
+    // Copy to clipboard (with HTTP fallback)
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(function() {
+            alert('Initiative order copied to clipboard!');
+        }).catch(function() { execCommandCopy(text); });
+    } else {
+        execCommandCopy(text);
+    }
 }
 
 function importCombat(event) {
@@ -903,13 +955,14 @@ function checkURLImportParameter() {
     }
 }
 
-// Initialize
+// Initialize — restore autosaved state, then render
+restoreCombatState();
 renderCombatTable();
 
 // Load monster data when page loads
 document.addEventListener('DOMContentLoaded', function() {
     loadMonstersFromJS();
-    
+
     // Check for URL import parameter after loading monsters
     checkURLImportParameter();
 });

@@ -1,21 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
-import { initializeApp } from "firebase/app";
-import { getAuth, signInAnonymously, onAuthStateChanged } from "firebase/auth";
-import {
-  getFirestore,
-  doc,
-  getDoc,
-  addDoc,
-  updateDoc,
-  deleteDoc,
-  onSnapshot,
-  collection,
-  query,
-  orderBy,
-  runTransaction,
-  setDoc,
-} from "firebase/firestore";
 import { useParams, useNavigate } from "react-router-dom";
+import * as store from "../../storage/localStore";
 import { AddContainerModal } from "./AddContainerModal";
 import { AddItemInputModal } from "./AddItemInputModal";
 import { CharacterDetailsModal } from "./CharacterDetailsModal";
@@ -35,7 +20,12 @@ import {
   DEFAULT_PARTY_CONFIG,
 } from "../../contexts/PartyConfigContext";
 
-const generateId = () => crypto.randomUUID();
+const generateId = () => {
+  if (crypto?.randomUUID) return crypto.randomUUID();
+  return '10000000-1000-4000-8000-100000000000'.replace(/[018]/g, c =>
+    (+c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> +c / 4).toString(16)
+  );
+};
 
 const calculateCharacterTotalWeight = (char) => {
   return (char?.containers || []).reduce(
@@ -45,7 +35,7 @@ const calculateCharacterTotalWeight = (char) => {
   );
 };
 
-export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp, auth: authProp }) {
+export default function InventoryAppContent() {
   const { partyId } = useParams();
   const navigate = useNavigate();
 
@@ -55,10 +45,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
     }
   }, [partyId]);
 
-  const [db, setDb] = useState(dbProp || null);
-  const [userId, setUserId] = useState(null);
   const [characters, setCharacters] = useState([]);
-  const [loading, setLoading] = useState(true);
   const [showModal, setShowModal] = useState(false);
   const [modalContent, setModalContent] = useState("");
   const [modalOnConfirm, setModalOnConfirm] = useState(null);
@@ -137,13 +124,11 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
   // Keyboard shortcut: 'e' to toggle expand/collapse all
   useEffect(() => {
     const handleKeyDown = (event) => {
-      // Ignore if typing in an input, textarea, or select
       const tagName = event.target.tagName.toLowerCase();
       if (tagName === 'input' || tagName === 'textarea' || tagName === 'select') {
         return;
       }
 
-      // Ignore if any modal is open
       if (showModal || showGenericInputModal || showAddItemModal ||
           showDeleteCharacterConfirmModal || showAddContainerModal ||
           showItemDetailsModal || showContainerDetailsModal ||
@@ -155,8 +140,6 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       if (event.key === 'e' || event.key === 'E') {
         event.preventDefault();
 
-        // Check if any character or container is expanded
-        // Note: default state (not in object) = collapsed, value false = expanded
         const anyCharExpanded = characters.some(char =>
           Object.prototype.hasOwnProperty.call(collapsedCharacters, char.id) &&
           !collapsedCharacters[char.id]
@@ -169,7 +152,6 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         );
 
         if (anyCharExpanded || anyContainerExpanded) {
-          // Collapse all
           const newCollapsedChars = {};
           const newCollapsedConts = {};
           characters.forEach(char => {
@@ -181,7 +163,6 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
           setCollapsedCharacters(newCollapsedChars);
           setCollapsedContainers(newCollapsedConts);
         } else {
-          // Expand all
           const newCollapsedChars = {};
           const newCollapsedConts = {};
           characters.forEach(char => {
@@ -204,228 +185,102 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       showCharacterDetailsModal, showAuditLogModal, showTransferAllModal,
       showImportItemsModal, showHelpModal, showPartyConfigModal]);
 
+  // Subscribe to characters
   useEffect(() => {
-    // If db and auth are passed as props, use them directly
-    if (dbProp && authProp) {
-      setDb(dbProp);
-      
-      const unsubscribe = onAuthStateChanged(authProp, async (user) => {
-        if (user) {
-          setUserId(user.uid);
-        } else {
-          try {
-            await signInAnonymously(authProp);
-          } catch (error) {
-            console.error("Firebase authentication error:", error);
-            setModalContent(`Authentication Error: ${error.message}`);
-            setShowModal(true);
-          }
-        }
-        setLoading(false);
-      });
+    if (!partyId) return;
+    const unsubscribe = store.subscribeToCharacters(partyId, (fetchedCharacters) => {
+      setCharacters(fetchedCharacters);
+      const maxOrder = fetchedCharacters.length > 0
+        ? Math.max(...fetchedCharacters.map(c => c.order ?? 0))
+        : 0;
+      setHighestOrder(maxOrder);
+    });
+    return unsubscribe;
+  }, [partyId]);
 
-      return () => unsubscribe();
-    } 
-    // Otherwise initialize Firebase from config
-    else if (firebaseConfig) {
+  // Subscribe to audit log
+  useEffect(() => {
+    if (!partyId) return;
+    const unsubscribe = store.subscribeToAuditLog(partyId, setAuditLog);
+    return unsubscribe;
+  }, [partyId]);
+
+  // Subscribe to party config
+  useEffect(() => {
+    if (!partyId) return;
+    const unsubscribe = store.subscribeToConfig(partyId, (data) => {
+      setPartyConfig({
+        weightUnit: data.weightUnit || DEFAULT_PARTY_CONFIG.weightUnit,
+        coinsPerWeightUnit: data.coinsPerWeightUnit || DEFAULT_PARTY_CONFIG.coinsPerWeightUnit,
+        defaultContainers: data.defaultContainers || DEFAULT_PARTY_CONFIG.defaultContainers,
+      });
+    });
+    return unsubscribe;
+  }, [partyId]);
+
+  // Helper: append to audit log
+  const addAuditLogEntry = useCallback((action, description) => {
+    if (!partyId) return;
+    store.addAuditLogEntry(partyId, action, description);
+  }, [partyId]);
+
+  const handleSavePartyConfig = useCallback((config) => {
+    if (!partyId) return;
+    store.savePartyConfig(partyId, {
+      weightUnit: config.weightUnit,
+      coinsPerWeightUnit: config.coinsPerWeightUnit,
+      defaultContainers: config.defaultContainers,
+    });
+    addAuditLogEntry('edited', 'party settings');
+  }, [partyId, addAuditLogEntry]);
+
+  // Export party data as a JSON file download
+  const handleExportParty = useCallback(() => {
+    if (!partyId) return;
+    const json = store.exportParty(partyId);
+    const blob = new Blob([json], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `party-${partyId.slice(0, 8)}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+  }, [partyId]);
+
+  // Import party data from a JSON file
+  const handleImportPartyClick = useCallback(() => {
+    if (!partyId) return;
+    const input = document.createElement('input');
+    input.type = 'file';
+    input.accept = '.json,application/json';
+    input.onchange = async (e) => {
+      const file = e.target.files[0];
+      if (!file) return;
       try {
-        const app = initializeApp(firebaseConfig);
-        const firestoreDb = getFirestore(app);
-        const firebaseAuth = getAuth(app);
-
-        setDb(firestoreDb);
-
-        const unsubscribe = onAuthStateChanged(firebaseAuth, async (user) => {
-          if (user) {
-            setUserId(user.uid);
-          } else {
-            try {
-              await signInAnonymously(firebaseAuth);
-            } catch (error) {
-              console.error("Firebase authentication error:", error);
-              setModalContent(`Authentication Error: ${error.message}`);
-              setShowModal(true);
-            }
-          }
-          setLoading(false);
-        });
-
-        return () => unsubscribe();
-      } catch (error) {
-        console.error("Error initializing Firebase:", error);
-        setModalContent(`Firebase Initialization Error: ${error.message}`);
+        const text = await file.text();
+        store.importParty(partyId, text);
+        addAuditLogEntry('created', 'imported party data from file');
+      } catch (err) {
+        setModalContent(`Import failed: ${err.message}`);
         setShowModal(true);
-        setLoading(false);
       }
-    } else {
-      setLoading(false);
-    }
-  }, [firebaseConfig, dbProp, authProp]);
+    };
+    input.click();
+  }, [partyId, addAuditLogEntry]);
 
-  useEffect(() => {
-    if (!partyId) {
-      console.error(
-        "CRITICAL ERROR: InventoryAppContent rendered without a partyId. This should be handled by AppWrapper.",
-      );
-      setModalContent(
-        "Application error: No party ID found in URL. This component requires a party ID. Trying to redirect...",
-      );
-      setShowModal(true);
-      setLoading(false);
-
-      if (navigate) {
-        const newPartyId = generateId();
-        navigate(`/${newPartyId}`, { replace: true });
-      }
-      return;
-    }
-
-    if (db && userId && partyId) {
-      const path = `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`;
-      const charactersCollectionRef = collection(db, path);
-
-      const unsubscribe = onSnapshot(
-        charactersCollectionRef,
-        (snapshot) => {
-          const fetchedCharacters = snapshot.docs
-            .map((doc, i) => {
-              const data = doc.data();
-              return {
-                id: doc.id,
-                ...data,
-                order: data.order !== undefined ? data.order : i,
-              };
-            })
-            .sort((a, b) => (a.order || 0) - (b.order || 0));
-          setCharacters(fetchedCharacters);
-          const maxOrder = fetchedCharacters.length > 0 
-            ? Math.max(...fetchedCharacters.map(c => c.order || 0))
-            : 0;
-          setHighestOrder(maxOrder);
-        },
-        (error) => {
-          console.error("Error fetching characters:", error);
-          setModalContent(`Error fetching characters: ${error.message}`);
-          setShowModal(true);
-        },
-      );
-
-      return () => unsubscribe();
-    }
-  }, [db, userId, appId, partyId, navigate]);
-
-  // Load audit log from Firestore (subcollection of entries, newest first)
-  useEffect(() => {
-    if (db && partyId) {
-      const entriesRef = collection(
-        db,
-        `artifacts/${appId}/public/data/dnd_inventory/${partyId}/metadata/party-data/entries`,
-      );
-      const entriesQuery = query(entriesRef, orderBy('timestamp', 'desc'));
-
-      const unsubscribe = onSnapshot(
-        entriesQuery,
-        (snapshot) => {
-          setAuditLog(snapshot.docs.map((d) => ({ id: d.id, ...d.data() })));
-        },
-        (error) => {
-          console.error("Error fetching audit log:", error);
-          setAuditLog([]);
-        }
-      );
-
-      return () => unsubscribe();
-    }
-  }, [db, appId, partyId]);
-
-  // Subscribe to per-party config (weight unit + default containers) on
-  // metadata/party-data. Doc may not exist for new parties; defaults apply.
-  useEffect(() => {
-    if (db && partyId) {
-      const configRef = doc(
-        db,
-        `artifacts/${appId}/public/data/dnd_inventory/${partyId}/metadata`,
-        'party-data',
-      );
-      const unsubscribe = onSnapshot(
-        configRef,
-        (snap) => {
-          const data = snap.exists() ? snap.data() : {};
-          setPartyConfig({
-            weightUnit: data.weightUnit || DEFAULT_PARTY_CONFIG.weightUnit,
-            coinsPerWeightUnit: data.coinsPerWeightUnit || DEFAULT_PARTY_CONFIG.coinsPerWeightUnit,
-            defaultContainers: data.defaultContainers || DEFAULT_PARTY_CONFIG.defaultContainers,
-          });
-        },
-        (error) => {
-          console.error("Error fetching party config:", error);
-          setPartyConfig(DEFAULT_PARTY_CONFIG);
-        }
-      );
-      return () => unsubscribe();
-    }
-  }, [db, appId, partyId]);
-
-  // Helper function to add audit log entry. Each entry is its own subcollection
-  // doc so concurrent writers can't clobber each other.
-  const addAuditLogEntry = useCallback(async (action, description) => {
-    if (!db || !partyId) return;
-
-    try {
-      const entriesRef = collection(
-        db,
-        `artifacts/${appId}/public/data/dnd_inventory/${partyId}/metadata/party-data/entries`,
-      );
-      await addDoc(entriesRef, {
-        action,
-        description,
-        timestamp: new Date().toISOString(),
-      });
-    } catch (error) {
-      console.error("Error adding audit log entry:", error);
-    }
-  }, [db, appId, partyId]);
-
-  const handleSavePartyConfig = useCallback(async (config) => {
-    if (!db || !partyId) return;
-    try {
-      const configRef = doc(
-        db,
-        `artifacts/${appId}/public/data/dnd_inventory/${partyId}/metadata`,
-        'party-data',
-      );
-      await setDoc(configRef, {
-        weightUnit: config.weightUnit,
-        coinsPerWeightUnit: config.coinsPerWeightUnit,
-        defaultContainers: config.defaultContainers,
-      }, { merge: true });
-      await addAuditLogEntry('edited', 'party settings');
-    } catch (error) {
-      console.error("Error saving party config:", error);
-      setModalContent(`Error saving settings: ${error.message}`);
-      setShowModal(true);
-    }
-  }, [db, appId, partyId, addAuditLogEntry]);
-
-  // Handler to transfer all items from one container to another
-  const handleTransferAllItems = async (targetCharId, targetContainerId) => {
-    if (!db || !partyId || !transferAllSource) return;
+  const handleTransferAllItems = (targetCharId, targetContainerId) => {
+    if (!partyId || !transferAllSource) return;
 
     const { charId: sourceCharId, containerId: sourceContainerId, containerName: sourceContainerName } = transferAllSource;
 
     try {
       if (sourceCharId === targetCharId) {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          sourceCharId
-        );
+        const result = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(sourceCharId);
+          if (!characterData) return null;
 
-        const result = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
           const sourceContainer = characterData.containers.find(c => c.id === sourceContainerId);
           const targetContainer = characterData.containers.find(c => c.id === targetContainerId);
           const itemsToTransfer = sourceContainer?.items || [];
@@ -439,7 +294,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             return container;
           });
 
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(sourceCharId, { containers: updatedContainers });
           return {
             count: itemsToTransfer.length,
             characterName: characterData.name,
@@ -448,32 +303,17 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         });
 
         if (result) {
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'moved',
             `transferred ${result.count} item(s) from ${sourceContainerName} to ${result.targetContainerName} (${result.characterName})`
           );
         }
       } else {
-        const sourceCharRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          sourceCharId
-        );
-        const targetCharRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          targetCharId
-        );
+        const result = store.transaction(partyId, (txn) => {
+          const sourceCharData = txn.get(sourceCharId);
+          const targetCharData = txn.get(targetCharId);
+          if (!sourceCharData || !targetCharData) return null;
 
-        const result = await runTransaction(db, async (txn) => {
-          const [sourceCharDoc, targetCharDoc] = await Promise.all([
-            txn.get(sourceCharRef),
-            txn.get(targetCharRef),
-          ]);
-          if (!sourceCharDoc.exists() || !targetCharDoc.exists()) return null;
-
-          const sourceCharData = sourceCharDoc.data();
-          const targetCharData = targetCharDoc.data();
           const sourceContainer = sourceCharData.containers.find(c => c.id === sourceContainerId);
           const targetContainer = targetCharData.containers.find(c => c.id === targetContainerId);
           const itemsToTransfer = sourceContainer?.items || [];
@@ -492,8 +332,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             return container;
           });
 
-          txn.update(sourceCharRef, { containers: updatedSourceContainers });
-          txn.update(targetCharRef, { containers: updatedTargetContainers });
+          txn.update(sourceCharId, { containers: updatedSourceContainers });
+          txn.update(targetCharId, { containers: updatedTargetContainers });
 
           return {
             count: itemsToTransfer.length,
@@ -504,7 +344,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         });
 
         if (result) {
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'moved',
             `transferred ${result.count} item(s) from ${result.sourceCharName}'s ${sourceContainerName} to ${result.targetCharName}'s ${result.targetContainerName}`
           );
@@ -517,28 +357,20 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
     }
   };
 
-  const handleSendCharacterToBottom = async (charId) => {
-    const characterRef = doc(
-      db,
-      `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-      charId,
-    );
-
-    await updateDoc(characterRef, { order: highestOrder + 1 });
+  const handleSendCharacterToBottom = (charId) => {
+    store.updateCharacterFields(partyId, charId, { order: highestOrder + 1 });
   };
 
   const handleAddCharacterClick = () => {
-    if (!db || !userId || !partyId) {
-      setModalContent(
-        "Database not ready, user not authenticated, or no party selected.",
-      );
+    if (!partyId) {
+      setModalContent("No party selected.");
       setShowModal(true);
       return;
     }
     setGenericInputModalConfig({
       title: "Enter Character Name",
       placeholder: "Character Name",
-      onSubmit: async (characterName) => {
+      onSubmit: (characterName) => {
         if (characterName) {
           try {
             const defaults = (partyConfig.defaultContainers && partyConfig.defaultContainers.length > 0)
@@ -554,18 +386,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
                 maxCapacity: c.maxCapacity || 0,
               })),
             };
-            await addDoc(
-              collection(
-                db,
-                `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-              ),
-              newCharacter,
-            );
-            // Log the character creation
-            await addAuditLogEntry(
-              'created',
-              `character "${characterName}"`
-            );
+            store.addCharacter(partyId, newCharacter);
+            addAuditLogEntry('created', `character "${characterName}"`);
           } catch (error) {
             console.error("Error adding character:", error);
             setModalContent(`Error adding character: ${error.message}`);
@@ -578,10 +400,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
   };
 
   const handleAddItemClick = (characterId, containerId) => {
-    if (!db || !userId || !partyId) {
-      setModalContent(
-        "Database not ready, user not authenticated, or no party selected.",
-      );
+    if (!partyId) {
+      setModalContent("No party selected.");
       setShowModal(true);
       return;
     }
@@ -601,11 +421,9 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
   const handleExpandContainer = (containerId) =>
     setCollapsedContainers({ ...collapsedContainers, [containerId]: false });
 
-  const handleAddItemSubmit = async (itemName, itemWeight, itemDescription = "", extraData = null) => {
-    if (!db || !userId || !partyId) {
-      setModalContent(
-        "Database not ready, user not authenticated, or no party selected.",
-      );
+  const handleAddItemSubmit = (itemName, itemWeight, itemDescription = "", extraData = null) => {
+    if (!partyId) {
+      setModalContent("No party selected.");
       setShowModal(true);
       return;
     }
@@ -614,20 +432,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
 
     if (itemName && !isNaN(itemWeight) && itemWeight >= 0) {
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          characterId,
-        );
+        const result = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(characterId);
+          if (!characterData) return null;
 
-        const result = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
           const container = characterData.containers.find(c => c.id === containerId);
 
-          // Build the new item object
           const newItem = {
             id: generateId(),
             name: itemName,
@@ -635,20 +445,17 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             description: itemDescription,
           };
 
-          // Add unidentified fields if provided
           if (extraData?.isUnidentified) {
             newItem.isUnidentified = true;
             newItem.secretName = extraData.secretName || '';
             newItem.secretDescription = extraData.secretDescription || '';
           }
 
-          // Add coins fields if provided
           if (extraData?.itemType === 'coins') {
             newItem.itemType = 'coins';
             newItem.coins = extraData.coins;
           }
 
-          // Add treasure fields if provided
           if (extraData?.itemType === 'treasure') {
             newItem.itemType = 'treasure';
             newItem.goldValue = extraData.goldValue;
@@ -656,7 +463,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             newItem.weightPerItem = extraData.weightPerItem;
           }
 
-          // If adding coins, check if there's already a coins item in the container and merge
+          // If adding coins, check for existing coins item and merge
           if (extraData?.itemType === 'coins' && container) {
             const existingCoinsIndex = (container.items || []).findIndex(item => item.itemType === 'coins');
             if (existingCoinsIndex !== -1) {
@@ -689,7 +496,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
                 }
                 return cont;
               });
-              txn.update(characterRef, { containers: updatedContainers });
+              txn.update(characterId, { containers: updatedContainers });
               return { merged: true, characterName: characterData.name, containerName: container?.name };
             }
           }
@@ -704,12 +511,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             }
             return cont;
           });
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(characterId, { containers: updatedContainers });
           return { merged: false, characterName: characterData.name, containerName: container?.name };
         });
 
         if (result?.merged) {
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'edited',
             `merged coins into ${result.characterName}'s ${result.containerName || 'container'}`
           );
@@ -717,7 +524,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
           const itemTypeLabel = extraData?.itemType === 'coins' ? ' (coins)' :
                                extraData?.itemType === 'treasure' ? ' (treasure)' :
                                extraData?.isUnidentified ? ' (unidentified)' : '';
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'created',
             `item "${itemName}"${itemTypeLabel} in ${result.characterName}'s ${result.containerName || 'container'}`
           );
@@ -736,10 +543,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
   };
 
   const handleDeleteCharacterConfirmation = (characterId, characterName) => {
-    if (!db || !userId || !partyId) {
-      setModalContent(
-        "Database not ready, user not authenticated, or no party selected.",
-      );
+    if (!partyId) {
+      setModalContent("No party selected.");
       setShowModal(true);
       return;
     }
@@ -747,8 +552,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
     setShowDeleteCharacterConfirmModal(true);
   };
 
-  const deleteCharacter = async () => {
-    if (!db || !userId || !partyId || !characterToDelete) {
+  const deleteCharacter = () => {
+    if (!partyId || !characterToDelete) {
       setModalContent("Error: Cannot delete character. Data missing.");
       setShowModal(true);
       return;
@@ -756,20 +561,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
 
     try {
       const characterName = characterToDelete.name;
-      await deleteDoc(
-        doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          characterToDelete.id,
-        ),
-      );
-
-      // Log the character deletion
-      await addAuditLogEntry(
-        'deleted',
-        `character "${characterName}"`
-      );
-
+      store.deleteCharacter(partyId, characterToDelete.id);
+      addAuditLogEntry('deleted', `character "${characterName}"`);
       setShowDeleteCharacterConfirmModal(false);
       setCharacterToDelete(null);
     } catch (error) {
@@ -780,10 +573,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
   };
 
   const handleAddContainerClick = (characterId) => {
-    if (!db || !userId || !partyId) {
-      setModalContent(
-        "Database not ready, user not authenticated, or no party selected.",
-      );
+    if (!partyId) {
+      setModalContent("No party selected.");
       setShowModal(true);
       return;
     }
@@ -791,12 +582,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
     setShowAddContainerModal(true);
   };
 
-  const handleAddContainerSubmit = async (
+  const handleAddContainerSubmit = (
     containerName,
     containerWeight,
     maxCapacity,
   ) => {
-    if (!db || !userId || !partyId || !addContainerModalTargetCharId) {
+    if (!partyId || !addContainerModalTargetCharId) {
       setModalContent("Error: Cannot add container. Data missing.");
       setShowModal(true);
       return;
@@ -809,17 +600,10 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       maxCapacity >= 0
     ) {
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          addContainerModalTargetCharId,
-        );
+        const characterName = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(addContainerModalTargetCharId);
+          if (!characterData) return null;
 
-        const characterName = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
           const newContainer = {
             id: generateId(),
             name: containerName,
@@ -830,15 +614,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             description: "",
           };
           const updatedContainers = [...characterData.containers, newContainer];
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(addContainerModalTargetCharId, { containers: updatedContainers });
           return characterData.name;
         });
 
         if (characterName) {
-          await addAuditLogEntry(
-            'created',
-            `container "${containerName}" for ${characterName}`
-          );
+          addAuditLogEntry('created', `container "${containerName}" for ${characterName}`);
         }
       } catch (error) {
         console.error("Error adding container:", error);
@@ -854,25 +635,17 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
   };
 
   const handleSaveCharacterDetails = useCallback(
-    async (charId, newName) => {
-      if (!db || !userId || !partyId) {
-        setModalContent(
-          "Error: Cannot save character details. Database not ready or user not authenticated.",
-        );
+    (charId, newName) => {
+      if (!partyId) {
+        setModalContent("Error: Cannot save character details. No party selected.");
         setShowModal(true);
         return;
       }
 
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
-        const characterDoc = await getDoc(characterRef);
-
-        if (characterDoc.exists()) {
-          await updateDoc(characterRef, { name: newName });
+        const char = store.getCharacter(partyId, charId);
+        if (char) {
+          store.updateCharacterFields(partyId, charId, { name: newName });
         }
       } catch (error) {
         console.error("Error saving character details:", error);
@@ -883,12 +656,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setSelectedCharacterForDetails(null);
       }
     },
-    [db, userId, appId, partyId],
+    [partyId],
   );
 
   const updateItemDescription = useCallback(
-    async (itemId, newName, newWeight, newDescription) => {
-      if (!db || !userId || !partyId || !selectedItemForDetails) {
+    (itemId, newName, newWeight, newDescription) => {
+      if (!partyId || !selectedItemForDetails) {
         setModalContent("Error: Cannot update item description. Data missing.");
         setShowModal(true);
         return;
@@ -896,17 +669,10 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
 
       const { charId, containerId } = selectedItemForDetails;
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
+        const result = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(charId);
+          if (!characterData) return null;
 
-        const result = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
           const container = characterData.containers.find(c => c.id === containerId);
           const oldItem = container?.items?.find(i => i.id === itemId);
           const updatedContainers = characterData.containers.map((cont) => {
@@ -926,7 +692,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             }
             return cont;
           });
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(charId, { containers: updatedContainers });
           return { oldItem, characterName: characterData.name, containerName: container?.name };
         });
 
@@ -937,7 +703,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             oldItem.weight !== newWeight ||
             oldItem.description !== newDescription;
           if (changed) {
-            await addAuditLogEntry(
+            addAuditLogEntry(
               'edited',
               `item "${oldItem.name}"${oldItem.name !== newName ? ` (renamed to "${newName}")` : ''} in ${characterName}'s ${containerName || 'container'}`
             );
@@ -952,13 +718,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setShowItemDetailsModal(false);
       }
     },
-    [db, userId, appId, partyId, selectedItemForDetails, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, selectedItemForDetails, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
   );
 
-  // Handler to save an item with full updates (including type changes)
   const handleSaveItem = useCallback(
-    async (itemId, updatedFields) => {
-      if (!db || !userId || !partyId || !selectedItemForDetails) {
+    (itemId, updatedFields) => {
+      if (!partyId || !selectedItemForDetails) {
         setModalContent("Error: Cannot update item. Data missing.");
         setShowModal(true);
         return;
@@ -966,17 +731,10 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
 
       const { charId, containerId } = selectedItemForDetails;
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
+        const result = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(charId);
+          if (!characterData) return null;
 
-        const result = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
           const container = characterData.containers.find(c => c.id === containerId);
           const oldItem = container?.items?.find(i => i.id === itemId);
 
@@ -1022,7 +780,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
                 return cont;
               });
 
-              txn.update(characterRef, { containers: updatedContainers });
+              txn.update(charId, { containers: updatedContainers });
               return { mergedToExisting: true, oldItem, characterName: characterData.name, containerName: container?.name };
             }
           }
@@ -1031,7 +789,6 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             if (cont.id === containerId) {
               const updatedItems = (cont.items || []).map((item) => {
                 if (item.id === itemId) {
-                  // Build new item, removing old type-specific fields
                   const newItem = {
                     id: item.id,
                     name: updatedFields.name,
@@ -1058,12 +815,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             return cont;
           });
 
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(charId, { containers: updatedContainers });
           return { mergedToExisting: false, oldItem, characterName: characterData.name, containerName: container?.name };
         });
 
         if (result?.mergedToExisting && result.oldItem) {
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'edited',
             `converted "${result.oldItem.name}" to coins and merged in ${result.characterName}'s ${result.containerName || 'container'}`
           );
@@ -1071,7 +828,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
           const { oldItem, characterName, containerName } = result;
           const typeChanged = (oldItem.itemType || 'normal') !== (updatedFields.itemType || 'normal');
           const typeLabel = typeChanged ? ` (type changed to ${updatedFields.itemType || 'normal'})` : '';
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'edited',
             `item "${oldItem.name}"${oldItem.name !== updatedFields.name ? ` (renamed to "${updatedFields.name}")` : ''}${typeLabel} in ${characterName}'s ${containerName || 'container'}`
           );
@@ -1085,11 +842,11 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setShowItemDetailsModal(false);
       }
     },
-    [db, userId, appId, partyId, selectedItemForDetails, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, selectedItemForDetails, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
   );
 
   const handleSaveContainerDetails = useCallback(
-    async (
+    (
       charId,
       containerId,
       newName,
@@ -1097,26 +854,17 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       newMaxCapacityPounds,
       newDescription,
     ) => {
-      if (!db || !userId || !partyId) {
-        setModalContent(
-          "Error: Cannot save container details. Database not ready or user not authenticated.",
-        );
+      if (!partyId) {
+        setModalContent("Error: Cannot save container details. No party selected.");
         setShowModal(true);
         return;
       }
 
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
+        store.transaction(partyId, (txn) => {
+          const characterData = txn.get(charId);
+          if (!characterData) return;
 
-        await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return;
-
-          const characterData = characterDoc.data();
           const updatedContainers = characterData.containers.map((container) => {
             if (container.id === containerId) {
               return {
@@ -1129,7 +877,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             }
             return container;
           });
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(charId, { containers: updatedContainers });
         });
       } catch (error) {
         console.error("Error saving container details:", error);
@@ -1140,15 +888,13 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setSelectedContainerForDetails(null);
       }
     },
-    [db, userId, appId, partyId],
+    [partyId],
   );
 
   const handleDeleteContainer = useCallback(
-    async (charId, containerId, containerName) => {
-      if (!db || !userId || !partyId) {
-        setModalContent(
-          "Database not ready, user not authenticated, or no party selected.",
-        );
+    (charId, containerId, containerName) => {
+      if (!partyId) {
+        setModalContent("No party selected.");
         setShowModal(true);
         return;
       }
@@ -1156,34 +902,24 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       setModalContent(
         `Are you sure you want to delete the container "${containerName}"? This action cannot be undone.`,
       );
-      setModalOnConfirm(() => async () => {
+      setModalOnConfirm(() => () => {
         setShowModal(false);
         setModalOnConfirm(null);
 
         try {
-          const characterRef = doc(
-            db,
-            `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-            charId,
-          );
+          const characterName = store.transaction(partyId, (txn) => {
+            const characterData = txn.get(charId);
+            if (!characterData) return null;
 
-          const characterName = await runTransaction(db, async (txn) => {
-            const characterDoc = await txn.get(characterRef);
-            if (!characterDoc.exists()) return null;
-
-            const characterData = characterDoc.data();
             const updatedContainers = characterData.containers.filter(
               (container) => container.id !== containerId,
             );
-            txn.update(characterRef, { containers: updatedContainers });
+            txn.update(charId, { containers: updatedContainers });
             return characterData.name;
           });
 
           if (characterName) {
-            await addAuditLogEntry(
-              'deleted',
-              `container "${containerName}" from ${characterName}`
-            );
+            addAuditLogEntry('deleted', `container "${containerName}" from ${characterName}`);
           }
         } catch (error) {
           console.error("Error deleting container:", error);
@@ -1196,36 +932,27 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       });
       setShowModal(true);
     },
-    [db, userId, appId, partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, addAuditLogEntry],
   );
 
   const handleDeleteItem = useCallback(
-    async (charId, containerId, itemId) => {
-      if (!db || !userId || !partyId) {
-        setModalContent(
-          "Database not ready, user not authenticated, or no party selected.",
-        );
+    (charId, containerId, itemId) => {
+      if (!partyId) {
+        setModalContent("No party selected.");
         setShowModal(true);
         return;
       }
 
       setModalContent("Are you sure you want to delete this item?");
-      setModalOnConfirm(() => async () => {
+      setModalOnConfirm(() => () => {
         setShowModal(false);
         setModalOnConfirm(null);
 
         try {
-          const characterRef = doc(
-            db,
-            `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-            charId,
-          );
+          const result = store.transaction(partyId, (txn) => {
+            const characterData = txn.get(charId);
+            if (!characterData) return null;
 
-          const result = await runTransaction(db, async (txn) => {
-            const characterDoc = await txn.get(characterRef);
-            if (!characterDoc.exists()) return null;
-
-            const characterData = characterDoc.data();
             const container = characterData.containers.find(c => c.id === containerId);
             const item = container?.items?.find(i => i.id === itemId);
             const updatedContainers = characterData.containers.map((cont) => {
@@ -1237,12 +964,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
               }
               return cont;
             });
-            txn.update(characterRef, { containers: updatedContainers });
+            txn.update(charId, { containers: updatedContainers });
             return { item, characterName: characterData.name, containerName: container?.name };
           });
 
           if (result?.item) {
-            await addAuditLogEntry(
+            addAuditLogEntry(
               'deleted',
               `item "${result.item.name}" from ${result.characterName}'s ${result.containerName || 'container'}`
             );
@@ -1258,17 +985,15 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       });
       setShowModal(true);
     },
-    [db, userId, appId, partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, addAuditLogEntry],
   );
 
   // Handler to transfer a single item to a different character/container
   // partialData: optional { type: 'coins', coins: {...} } or { type: 'treasure', quantity: N }
   const handleTransferItem = useCallback(
-    async (itemId, sourceCharId, sourceContainerId, targetCharId, targetContainerId, partialData = null) => {
-      if (!db || !userId || !partyId) {
-        setModalContent(
-          "Database not ready, user not authenticated, or no party selected.",
-        );
+    (itemId, sourceCharId, sourceContainerId, targetCharId, targetContainerId, partialData = null) => {
+      if (!partyId) {
+        setModalContent("No party selected.");
         setShowModal(true);
         return;
       }
@@ -1279,16 +1004,6 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       }
 
       try {
-        const sourceCharRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          sourceCharId,
-        );
-        const targetCharRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          targetCharId,
-        );
         const sameChar = sourceCharId === targetCharId;
 
         const buildCoinItem = (coins, id) => {
@@ -1329,16 +1044,13 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         const buildTreasureName = (baseName, qty, goldValue) =>
           qty > 1 ? `${qty}x ${baseName} (${goldValue}g)` : `${baseName} (${goldValue}g)`;
 
-        const result = await runTransaction(db, async (txn) => {
-          const sourceCharDoc = await txn.get(sourceCharRef);
-          const targetCharDoc = sameChar ? sourceCharDoc : await txn.get(targetCharRef);
+        const result = store.transaction(partyId, (txn) => {
+          const sourceCharData = txn.get(sourceCharId);
+          const targetCharData = sameChar ? sourceCharData : txn.get(targetCharId);
 
-          if (!sourceCharDoc.exists() || !targetCharDoc.exists()) {
+          if (!sourceCharData || !targetCharData) {
             return { error: "Error: Source or target character not found." };
           }
-
-          const sourceCharData = sourceCharDoc.data();
-          const targetCharData = sameChar ? sourceCharData : targetCharDoc.data();
 
           const sourceContainer = sourceCharData.containers.find(c => c.id === sourceContainerId);
           const targetContainer = targetCharData.containers.find(c => c.id === targetContainerId);
@@ -1398,7 +1110,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
 
                 return { ...container, items: newItems };
               });
-              txn.update(sourceCharRef, { containers: updatedContainers });
+              txn.update(sourceCharId, { containers: updatedContainers });
             } else {
               const newSourceContainers = sourceCharData.containers.map((container) => {
                 if (container.id === sourceContainerId) {
@@ -1436,8 +1148,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
                 return container;
               });
 
-              txn.update(sourceCharRef, { containers: newSourceContainers });
-              txn.update(targetCharRef, { containers: newTargetContainers });
+              txn.update(sourceCharId, { containers: newSourceContainers });
+              txn.update(targetCharId, { containers: newTargetContainers });
             }
 
             const coinParts = [];
@@ -1496,7 +1208,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
 
                 return { ...container, items: newItems };
               });
-              txn.update(sourceCharRef, { containers: updatedContainers });
+              txn.update(sourceCharId, { containers: updatedContainers });
             } else {
               const newSourceContainers = sourceCharData.containers.map((container) => {
                 if (container.id === sourceContainerId) {
@@ -1543,8 +1255,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
                 return container;
               });
 
-              txn.update(sourceCharRef, { containers: newSourceContainers });
-              txn.update(targetCharRef, { containers: newTargetContainers });
+              txn.update(sourceCharId, { containers: newSourceContainers });
+              txn.update(targetCharId, { containers: newTargetContainers });
             }
 
             return {
@@ -1570,7 +1282,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
               }
               return { ...container, items: newItems };
             });
-            txn.update(sourceCharRef, { containers: updatedContainers });
+            txn.update(sourceCharId, { containers: updatedContainers });
           } else {
             const newSourceContainers = sourceCharData.containers.map((container) => {
               if (container.id === sourceContainerId) {
@@ -1598,8 +1310,8 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
               return container;
             });
 
-            txn.update(sourceCharRef, { containers: newSourceContainers });
-            txn.update(targetCharRef, { containers: newTargetContainers });
+            txn.update(sourceCharId, { containers: newSourceContainers });
+            txn.update(targetCharId, { containers: newTargetContainers });
           }
 
           return {
@@ -1615,7 +1327,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
           return;
         }
         if (result?.auditDescription) {
-          await addAuditLogEntry('moved', result.auditDescription);
+          addAuditLogEntry('moved', result.auditDescription);
         }
       } catch (error) {
         console.error("Error transferring item:", error);
@@ -1623,26 +1335,18 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setShowModal(true);
       }
     },
-    [db, userId, appId, partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
   );
 
-  // Handler to move an item up or down within a container
   const handleMoveItem = useCallback(
-    async (charId, containerId, itemId, direction) => {
-      if (!db || !userId || !partyId) return;
+    (charId, containerId, itemId, direction) => {
+      if (!partyId) return;
 
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
+        store.transaction(partyId, (txn) => {
+          const characterData = txn.get(charId);
+          if (!characterData) return;
 
-        await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return;
-
-          const characterData = characterDoc.data();
           const containerIndex = characterData.containers.findIndex(c => c.id === containerId);
           if (containerIndex === -1) return;
 
@@ -1663,7 +1367,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             return cont;
           });
 
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(charId, { containers: updatedContainers });
         });
       } catch (error) {
         console.error("Error reordering item:", error);
@@ -1671,26 +1375,18 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setShowModal(true);
       }
     },
-    [db, userId, appId, partyId],
+    [partyId],
   );
 
-  // Handler to identify an unidentified item
   const handleIdentifyItem = useCallback(
-    async (charId, containerId, itemId) => {
-      if (!db || !userId || !partyId) return;
+    (charId, containerId, itemId) => {
+      if (!partyId) return;
 
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
+        const result = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(charId);
+          if (!characterData) return null;
 
-        const result = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
           let identifiedItemName = '';
 
           const updatedContainers = characterData.containers.map((container) => {
@@ -1713,13 +1409,13 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
           });
 
           if (!identifiedItemName) return null;
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(charId, { containers: updatedContainers });
           const container = characterData.containers.find(c => c.id === containerId);
           return { identifiedItemName, characterName: characterData.name, containerName: container?.name };
         });
 
         if (result) {
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'identified',
             `item revealed as "${result.identifiedItemName}" in ${result.characterName}'s ${result.containerName || 'container'}`
           );
@@ -1730,26 +1426,17 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setShowModal(true);
       }
     },
-    [db, userId, appId, partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, addAuditLogEntry],
   );
 
-  // Handler to save/update a coin item
   const handleSaveCoinItem = useCallback(
-    async (charId, containerId, itemId, coins) => {
-      if (!db || !userId || !partyId) return;
+    (charId, containerId, itemId, coins) => {
+      if (!partyId) return;
 
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
-
-        const result = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
+        const result = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(charId);
+          if (!characterData) return null;
 
           const totalCoins = (coins.platinum || 0) + (coins.gold || 0) + (coins.silver || 0) + (coins.copper || 0);
           const coinWeight = Math.floor(totalCoins / partyConfig.coinsPerWeightUnit);
@@ -1778,13 +1465,13 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             return container;
           });
 
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(charId, { containers: updatedContainers });
           const container = characterData.containers.find(c => c.id === containerId);
           return { characterName: characterData.name, containerName: container?.name };
         });
 
         if (result) {
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'edited',
             `coins in ${result.characterName}'s ${result.containerName || 'container'}`
           );
@@ -1795,26 +1482,18 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setShowModal(true);
       }
     },
-    [db, userId, appId, partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
   );
 
-  // Handler to liquidate treasure into gold coins
   const handleLiquidateTreasure = useCallback(
-    async (charId, containerId, itemId, goldValue, quantityToLiquidate = 1) => {
-      if (!db || !userId || !partyId) return;
+    (charId, containerId, itemId, goldValue, quantityToLiquidate = 1) => {
+      if (!partyId) return;
 
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
+        const result = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(charId);
+          if (!characterData) return null;
 
-        const result = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
           const container = characterData.containers.find(c => c.id === containerId);
           const treasureItem = container?.items?.find(i => i.id === itemId);
           if (!treasureItem) return null;
@@ -1911,7 +1590,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             });
           }
 
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(charId, { containers: updatedContainers });
           return {
             qtyToLiquidate,
             treasureName: treasureItem.name,
@@ -1922,7 +1601,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
 
         if (result) {
           const qtyText = result.qtyToLiquidate > 1 ? `${result.qtyToLiquidate}x ` : '';
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'edited',
             `liquidated ${qtyText}"${result.treasureName}" into ${goldValue} gold in ${result.characterName}'s ${result.containerName || 'container'}`
           );
@@ -1933,28 +1612,19 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setShowModal(true);
       }
     },
-    [db, userId, appId, partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
   );
 
-  // Handler to import multiple items from JSON
   const handleImportItems = useCallback(
-    async (items) => {
-      if (!db || !userId || !partyId || !importTarget) return;
+    (items) => {
+      if (!partyId || !importTarget) return;
 
       const { charId, containerId, containerName } = importTarget;
 
       try {
-        const characterRef = doc(
-          db,
-          `artifacts/${appId}/public/data/dnd_inventory/${partyId}/characters`,
-          charId,
-        );
-
-        const characterNameResult = await runTransaction(db, async (txn) => {
-          const characterDoc = await txn.get(characterRef);
-          if (!characterDoc.exists()) return null;
-
-          const characterData = characterDoc.data();
+        const characterNameResult = store.transaction(partyId, (txn) => {
+          const characterData = txn.get(charId);
+          if (!characterData) return null;
 
           const itemsWithIds = items.map(item => ({
             ...item,
@@ -2025,12 +1695,12 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             return container;
           });
 
-          txn.update(characterRef, { containers: updatedContainers });
+          txn.update(charId, { containers: updatedContainers });
           return characterData.name;
         });
 
         if (characterNameResult) {
-          await addAuditLogEntry(
+          addAuditLogEntry(
             'created',
             `imported ${items.length} item(s) into ${characterNameResult}'s ${containerName}`
           );
@@ -2041,30 +1711,14 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         setShowModal(true);
       }
     },
-    [db, userId, appId, partyId, importTarget, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
+    [partyId, importTarget, addAuditLogEntry, partyConfig.coinsPerWeightUnit],
   );
 
-  if (loading) {
-    return (
-      <div className="flex items-center justify-center min-h-screen bg-gray-900 text-white">
-        <div className="flex flex-col items-center">
-          <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-b-4 border-blue-500"></div>
-          <p className="mt-4 text-lg">Loading inventory...</p>
-        </div>
-      </div>
-    );
-  }
-
   if (!partyId) {
-    console.error(
-      "Rendering fallback: partyId is missing in InventoryAppContent. This shouldn't happen if InitialPartyRedirect works.",
-    );
     return (
       <div className="flex items-center justify-center min-h-screen bg-gray-900 text-white">
         <p className="text-xl text-red-400 text-center">
-          Error: Party ID not found in URL. This usually means the initial
-          redirect failed or routing is misconfigured. Please check your console
-          for errors.
+          Error: Party ID not found in URL. Please check your console for errors.
         </p>
         <button
           onClick={() => navigate("/", { replace: true })}
@@ -2121,7 +1775,6 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
         onSubmit={handleAddContainerSubmit}
       />
       {selectedItemForDetails && (() => {
-        // Look up the live item from current characters data to avoid stale snapshots
         const liveChar = characters.find(c => c.id === selectedItemForDetails.charId);
         const liveContainer = liveChar?.containers?.find(c => c.id === selectedItemForDetails.containerId);
         const liveItem = liveContainer?.items?.find(i => i.id === selectedItemForDetails.item.id) || selectedItemForDetails.item;
@@ -2285,7 +1938,7 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
       />
 
       <div className="flex flex-col items-center mb-8">
-        <div className="flex gap-4">
+        <div className="flex gap-4 flex-wrap justify-center">
           <button
             onClick={handleAddCharacterClick}
             className="bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-green-500 focus:ring-opacity-50"
@@ -2303,6 +1956,20 @@ export default function InventoryAppContent({ firebaseConfig, appId, db: dbProp,
             className="bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-gray-500 focus:ring-opacity-50"
           >
             ⚙ Settings
+          </button>
+          <button
+            onClick={handleExportParty}
+            className="bg-yellow-700 hover:bg-yellow-600 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-yellow-500 focus:ring-opacity-50"
+            title="Export party data as JSON"
+          >
+            ↓ Export
+          </button>
+          <button
+            onClick={handleImportPartyClick}
+            className="bg-yellow-700 hover:bg-yellow-600 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition duration-300 hover:scale-105 focus:outline-none focus:ring-4 focus:ring-yellow-500 focus:ring-opacity-50"
+            title="Import party data from JSON file"
+          >
+            ↑ Import
           </button>
         </div>
       </div>

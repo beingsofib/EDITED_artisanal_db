@@ -24,6 +24,7 @@
   <option value="university_district">University District</option>
 </select>
 <button onclick="generateContent()">Roll</button>
+<button onclick="randomDistrict()">Random District</button>
 
 <div id="output">
     <em>Click the button above to generate content...</em>
@@ -40,6 +41,12 @@ function selectDistrict() {
     const table = document.getElementById('districtSelect').value;
     window.dataText = addCommonDataTo(`template\n    {${table}}\n\n`);
     generateContent();
+}
+
+function randomDistrict() {
+    const sel = document.getElementById('districtSelect');
+    sel.selectedIndex = Math.floor(Math.random() * sel.options.length);
+    selectDistrict();
 }
 
 window.addEventListener('load', selectDistrict);

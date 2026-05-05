@@ -27,7 +27,7 @@ export const ContainerDetailsModal = ({
   );
 
   // Reset editing state when a different container is selected or modal opens fresh.
-  // Keyed on container identity (id), not reference, so Firebase updates don't
+  // Keyed on container identity (id), not reference, so external updates don't
   // clobber in-progress edits.
   const containerId = container?.id;
   useEffect(() => {

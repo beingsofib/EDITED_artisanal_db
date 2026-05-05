@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<title>District Atmosphere Generator</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → <a href="../index.html">Homebrew Generators</a> → District Atmosphere Generator</div>
+
+<h1>District Atmosphere Generator</h1>
+
+<select id="districtSelect" onchange="selectDistrict()">
+  <option value="squalid_sounds">Squalid District</option>
+  <option value="low_sounds">Low District</option>
+  <option value="artisan_sounds">Artisan District</option>
+  <option value="market_sounds">Market District</option>
+  <option value="high_sounds">High District</option>
+  <option value="fish_sounds">Fishing District</option>
+  <option value="temple_sounds">Temple District</option>
+  <option value="castle_sounds">Castle District</option>
+  <option value="dock_sounds">Docks District</option>
+  <option value="university_sounds">University District</option>
+</select>
+<button onclick="generateContent()">Roll</button>
+<button onclick="randomDistrict()">Random District</button>
+
+<div id="output">
+    <em>Click the button above to generate content...</em>
+</div>
+
+<!-- Load shared common data -->
+<script src="../css_js/common_generator_data.js"></script>
+<script src="../css_js/generator.js"></script>
+<script src="../custom_css_js/homebrew_generator.js"></script>
+
+<script>
+function selectDistrict() {
+    const table = document.getElementById('districtSelect').value;
+    window.dataText = addCommonDataTo(`template\n    {${table}}\n\n`);
+    generateContent();
+}
+
+function randomDistrict() {
+    const sel = document.getElementById('districtSelect');
+    sel.selectedIndex = Math.floor(Math.random() * sel.options.length);
+    selectDistrict();
+}
+
+// Pre-set dataText with default selection — script runs after DOM, so getElementById works
+window.dataText = addCommonDataTo(
+    `template\n    {${document.getElementById('districtSelect').value}}\n\n`
+);
+</script>
+
+</body>
+</html>
