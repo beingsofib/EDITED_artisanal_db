@@ -1,0 +1,30 @@
+#!/bin/sh
+# Pre-commit hook: validates homebrew_generator.js and all consumer pages.
+#
+# Install (run once from the repo root, i.e. EDITED_artisanal_db/):
+#   cp forked_folders/hooks/pre-commit .git/hooks/pre-commit
+#   chmod +x .git/hooks/pre-commit
+#
+# Or symlink so changes here apply automatically:
+#   ln -sf ../../forked_folders/hooks/pre-commit .git/hooks/pre-commit
+
+set -e
+
+SCRIPT="forked_folders/custom_css_js/validate_homebrew_generator.js"
+GENERATOR="forked_folders/custom_css_js/homebrew_generator.js"
+CONSUMERS="forked_folders/custom_generators"
+
+# Only run if the relevant files were actually staged
+if ! git diff --cached --name-only | grep -qE "homebrew_generator\.js|custom_generators/"; then
+  exit 0
+fi
+
+echo "[pre-commit] Running homebrew generator validation..."
+
+if ! command -v node >/dev/null 2>&1; then
+  echo "[pre-commit] SKIP: node not found — install Node.js to enable validation"
+  exit 0
+fi
+
+node "$SCRIPT" "$GENERATOR" --with-consumers "$CONSUMERS"
+echo "[pre-commit] Validation passed."
