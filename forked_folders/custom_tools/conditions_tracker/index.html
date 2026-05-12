@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<title>Conditions Tracker</title>
+<style>
+    body.conditions-tracker {
+        max-width: 900px;
+    }
+
+    /* ── Controls ── */
+    .ct-controls {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-bottom: 14px;
+    }
+    .ct-round-display {
+        font-size: 18px;
+        font-weight: bold;
+        white-space: nowrap;
+    }
+    .ct-add-row {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        flex-wrap: wrap;
+        margin-bottom: 18px;
+    }
+    .ct-add-row input[type="text"] {
+        font-size: 16px;
+        padding: 5px 10px;
+        min-width: 180px;
+    }
+
+    /* ── Combatant cards ── */
+    .ct-list {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .ct-card {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px 14px;
+        background: #fafafa;
+    }
+    @media (prefers-color-scheme: dark) {
+        .ct-card { background: #1e1e1e; border-color: #444; }
+        .ct-add-form { background: #252525 !important; border-color: #555 !important; }
+    }
+    .ct-card-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        margin-bottom: 8px;
+    }
+    .ct-name {
+        font-size: 17px;
+        font-weight: bold;
+    }
+    .ct-card-actions {
+        display: flex;
+        gap: 6px;
+        align-items: center;
+    }
+    .ct-badge-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        align-items: center;
+        min-height: 28px;
+    }
+
+    /* ── Condition badges ── */
+    .ct-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+        padding: 3px 9px 3px 11px;
+        border-radius: 20px;
+        font-size: 13px;
+        font-weight: 600;
+        color: #fff;
+        white-space: nowrap;
+        text-shadow: 0 1px 2px rgba(0,0,0,0.35);
+    }
+    .ct-badge-x {
+        cursor: pointer;
+        font-size: 14px;
+        line-height: 1;
+        opacity: 0.8;
+        padding: 0 1px;
+        background: none;
+        border: none;
+        color: inherit;
+        font-weight: bold;
+    }
+    .ct-badge-x:hover { opacity: 1; }
+    .ct-badge.expiring {
+        animation: pulse-expire 0.6s ease-in-out 3;
+    }
+    @keyframes pulse-expire {
+        0%   { opacity: 1; }
+        50%  { opacity: 0.35; }
+        100% { opacity: 1; }
+    }
+
+    /* ── Add-condition inline form ── */
+    .ct-add-form {
+        display: none;
+        margin-top: 8px;
+        padding: 8px 10px;
+        background: #f0f0f0;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        gap: 8px;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .ct-add-form.open {
+        display: flex;
+    }
+    .ct-add-form select,
+    .ct-add-form input[type="number"] {
+        font-size: 14px;
+        padding: 4px 8px;
+        min-height: auto;
+    }
+    .ct-add-form input[type="number"] {
+        width: 68px;
+    }
+    .ct-duration-group {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 14px;
+    }
+
+    /* ── Small / utility buttons ── */
+    .btn-sm {
+        font-size: 13px;
+        padding: 3px 10px;
+        min-height: auto;
+    }
+    .btn-danger {
+        background: #b33;
+        color: #fff;
+        border-color: #922;
+    }
+    .btn-danger:hover { background: #c44; }
+
+    /* ── Empty state ── */
+    .ct-empty {
+        color: #888;
+        font-style: italic;
+        font-size: 15px;
+        padding: 6px 0;
+    }
+
+    /* ── Autosave notice ── */
+    #ct-autosave {
+        font-size: 12px;
+        color: #4caf50;
+        opacity: 0;
+        transition: opacity 0.5s;
+    }
+</style>
+</head>
+<body class="conditions-tracker">
+<div><a href="../../index.html">5e Artisanal Database</a> → Conditions Tracker &nbsp;|&nbsp; <a href="../combat_tracker/index.html">← Combat Tracker</a></div>
+
+<h1>Conditions Tracker</h1>
+
+<!-- Global controls -->
+<div class="ct-controls">
+    <span class="ct-round-display">Round: <span id="ct-round">1</span></span>
+    <button onclick="nextRound()">Next Round ▶</button>
+    <button onclick="syncFromCombatTracker()" title="Import combatant names from Combat Tracker">⇄ Sync Roster</button>
+    <button onclick="resetAll()" class="btn-danger">Reset</button>
+    <span id="ct-autosave">Saved ✓</span>
+    <span id="ct-bc-notice" style="font-size:12px;color:#2980b9;opacity:0;transition:opacity 0.5s;margin-left:4px;"></span>
+</div>
+
+<!-- Add combatant -->
+<div class="ct-add-row">
+    <input type="text" id="ct-new-name" placeholder="Combatant name…" onkeydown="if(event.key==='Enter')addCombatant()">
+    <button onclick="addCombatant()">Add Combatant</button>
+</div>
+
+<!-- Combatant list -->
+<div class="ct-list" id="ct-list"></div>
+
+<script>
+// ── Condition definitions ──────────────────────────────────────────────────
+const CONDITIONS = [
+    { name: 'Blinded',        color: '#c0392b' },
+    { name: 'Charmed',        color: '#2980b9' },
+    { name: 'Concentrating',  color: '#8e44ad' },
+    { name: 'Deafened',       color: '#d35400' },
+    { name: 'Exhaustion 1',   color: '#7f8c8d' },
+    { name: 'Exhaustion 2',   color: '#626567' },
+    { name: 'Exhaustion 3',   color: '#4d5656' },
+    { name: 'Exhaustion 4',   color: '#922b21' },
+    { name: 'Exhaustion 5',   color: '#7b241c' },
+    { name: 'Exhaustion 6',   color: '#641e16' },
+    { name: 'Frightened',     color: '#b7950b' },
+    { name: 'Grappled',       color: '#1a7a4a' },
+    { name: 'Incapacitated',  color: '#1a5276' },
+    { name: 'Invisible',      color: '#117a65' },
+    { name: 'Marked',         color: '#1f618d' },
+    { name: 'Paralyzed',      color: '#922b21' },
+    { name: 'Petrified',      color: '#566573' },
+    { name: 'Poisoned',       color: '#1e8449' },
+    { name: 'Prone',          color: '#a04000' },
+    { name: 'Restrained',     color: '#784212' },
+    { name: 'Spelled',        color: '#6c3483' },
+    { name: 'Stunned',        color: '#c0392b' },
+    { name: 'Unconscious',    color: '#1c2833' },
+];
+
+const CONDITION_NAMES = CONDITIONS.map(c => c.name);
+const CONDITION_MAP   = Object.fromEntries(CONDITIONS.map(c => [c.name, c]));
+
+// ── State ─────────────────────────────────────────────────────────────────
+const STORAGE_KEY = 'ct:state';
+let state = { round: 1, combatants: [] };
+let nextId = 1;
+
+function uid() { return 'c' + (nextId++); }
+
+// ── Persistence ───────────────────────────────────────────────────────────
+function save() {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); }
+    catch (_) {}
+    const el = document.getElementById('ct-autosave');
+    el.style.opacity = '1';
+    setTimeout(() => { el.style.opacity = '0'; }, 1200);
+}
+
+function load() {
+    try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (!raw) return;
+        const s = JSON.parse(raw);
+        state = s;
+        // Restore nextId beyond any existing combatant ids
+        state.combatants.forEach(c => {
+            const n = parseInt(c.id.replace('c', '')) || 0;
+            if (n >= nextId) nextId = n + 1;
+        });
+    } catch (_) {}
+}
+
+// ── Combatants ────────────────────────────────────────────────────────────
+function addCombatant() {
+    const input = document.getElementById('ct-new-name');
+    const name  = input.value.trim();
+    if (!name) { input.focus(); return; }
+    state.combatants.push({ id: uid(), name, conditions: [] });
+    input.value = '';
+    input.focus();
+    save();
+    render();
+}
+
+function removeCombatant(id) {
+    state.combatants = state.combatants.filter(c => c.id !== id);
+    save();
+    render();
+}
+
+// ── Conditions ────────────────────────────────────────────────────────────
+function applyCondition(combatantId) {
+    const form     = document.getElementById('form-' + combatantId);
+    const selEl    = form.querySelector('.ct-cond-select');
+    const durEl    = form.querySelector('.ct-dur-input');
+    const indEl    = form.querySelector('.ct-indef-check');
+
+    const condName = selEl.value;
+    if (!condName) return;
+
+    const indefinite = indEl.checked;
+    const duration   = indefinite ? null : (parseInt(durEl.value) || 1);
+
+    const combatant = state.combatants.find(c => c.id === combatantId);
+    if (!combatant) return;
+
+    // Replace if already present
+    combatant.conditions = combatant.conditions.filter(c => c.name !== condName);
+    combatant.conditions.push({ name: condName, duration });
+
+    closeForm(combatantId);
+    save();
+    render();
+}
+
+function removeCondition(combatantId, condName) {
+    const combatant = state.combatants.find(c => c.id === combatantId);
+    if (!combatant) return;
+    combatant.conditions = combatant.conditions.filter(c => c.name !== condName);
+    save();
+    render();
+}
+
+// ── Round advancement ─────────────────────────────────────────────────────
+function nextRound() {
+    state.round++;
+    const expiredMessages = [];
+    state.combatants.forEach(c => {
+        const expired = [];
+        c.conditions = c.conditions.filter(cond => {
+            if (cond.duration === null) return true; // indefinite
+            cond.duration--;
+            if (cond.duration <= 0) {
+                expired.push(cond.name);
+                return false;
+            }
+            return true;
+        });
+        if (expired.length) {
+            expiredMessages.push(`${c.name}: ${expired.join(', ')} expired`);
+        }
+    });
+    save();
+    render();
+    if (expiredMessages.length) {
+        // Brief flash of expired conditions in the round display
+        const el = document.getElementById('ct-round');
+        el.title = expiredMessages.join('\n');
+    }
+}
+
+function resetAll() {
+    if (!confirm('Reset everything — clear all combatants and return to Round 1?')) return;
+    state = { round: 1, combatants: [] };
+    nextId = 1;
+    save();
+    render();
+}
+
+// ── Form open/close ───────────────────────────────────────────────────────
+function openForm(id) {
+    // Close all other forms first
+    document.querySelectorAll('.ct-add-form.open').forEach(f => {
+        if (f.id !== 'form-' + id) f.classList.remove('open');
+    });
+    const form = document.getElementById('form-' + id);
+    if (form) {
+        form.classList.toggle('open');
+        if (form.classList.contains('open')) {
+            form.querySelector('.ct-cond-select').focus();
+        }
+    }
+}
+
+function closeForm(id) {
+    const form = document.getElementById('form-' + id);
+    if (form) form.classList.remove('open');
+}
+
+function toggleIndefinite(id) {
+    const form  = document.getElementById('form-' + id);
+    const durEl = form.querySelector('.ct-dur-input');
+    const indEl = form.querySelector('.ct-indef-check');
+    durEl.disabled = indEl.checked;
+}
+
+// ── Render ────────────────────────────────────────────────────────────────
+function render() {
+    document.getElementById('ct-round').textContent = state.round;
+
+    const list = document.getElementById('ct-list');
+
+    if (state.combatants.length === 0) {
+        list.innerHTML = '<p class="ct-empty">No combatants yet — add one above.</p>';
+        return;
+    }
+
+    // Build option list HTML once
+    const optionsHtml = CONDITION_NAMES.map(n =>
+        `<option value="${n}">${n}</option>`
+    ).join('');
+
+    list.innerHTML = state.combatants.map(c => {
+        const badgesHtml = c.conditions.length
+            ? c.conditions.map(cond => {
+                const def   = CONDITION_MAP[cond.name] || { color: '#555' };
+                const label = cond.duration === null
+                    ? `${cond.name} (∞)`
+                    : `${cond.name} (${cond.duration}r)`;
+                const warn  = (cond.duration !== null && cond.duration <= 1) ? ' expiring' : '';
+                return `<span class="ct-badge${warn}" style="background:${def.color}" title="${cond.duration === null ? 'Indefinite' : cond.duration + ' round(s) remaining'}">${label}<button class="ct-badge-x" onclick="removeCondition('${c.id}','${cond.name}')" title="Remove">×</button></span>`;
+            }).join('')
+            : '<span style="color:#aaa;font-size:13px;font-style:italic;">No conditions</span>';
+
+        return `
+        <div class="ct-card" id="card-${c.id}">
+            <div class="ct-card-header">
+                <span class="ct-name">${escHtml(c.name)}</span>
+                <div class="ct-card-actions">
+                    <button class="btn-sm" onclick="openForm('${c.id}')">+ Condition</button>
+                    <button class="btn-sm btn-danger" onclick="removeCombatant('${c.id}')" title="Remove combatant">✕</button>
+                </div>
+            </div>
+            <div class="ct-badge-row">${badgesHtml}</div>
+            <div class="ct-add-form" id="form-${c.id}">
+                <select class="ct-cond-select" onkeydown="if(event.key==='Enter')applyCondition('${c.id}')">
+                    <option value="">— pick condition —</option>
+                    ${optionsHtml}
+                </select>
+                <div class="ct-duration-group">
+                    <input type="number" class="ct-dur-input" value="1" min="1" max="999" title="Duration in rounds" onkeydown="if(event.key==='Enter')applyCondition('${c.id}')">
+                    <label style="font-size:13px;white-space:nowrap;">
+                        <input type="checkbox" class="ct-indef-check" onchange="toggleIndefinite('${c.id}')"> ∞ Indefinite
+                    </label>
+                </div>
+                <button class="btn-sm" onclick="applyCondition('${c.id}')">Apply</button>
+                <button class="btn-sm" onclick="closeForm('${c.id}')">Cancel</button>
+            </div>
+        </div>`;
+    }).join('');
+}
+
+function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+// ── Keyboard: Enter on name input ─────────────────────────────────────────
+document.getElementById('ct-new-name').addEventListener('keydown', e => {
+    if (e.key === 'Enter') addCombatant();
+});
+
+// ── BroadcastChannel: listens for round-complete from Combat Tracker ───────
+const CT_CHANNEL = 'adb-combat';
+
+function _flashBcNotice(text) {
+    const el = document.getElementById('ct-bc-notice');
+    if (!el) return;
+    el.textContent = text;
+    el.style.opacity = '1';
+    clearTimeout(el._t);
+    el._t = setTimeout(() => { el.style.opacity = '0'; }, 2500);
+}
+
+try {
+    const _bc = new BroadcastChannel(CT_CHANNEL);
+    _bc.onmessage = (e) => {
+        if (e.data.type === 'round-complete') {
+            nextRound();
+            _flashBcNotice('↔ Round advanced by Combat Tracker');
+        } else if (e.data.type === 'combat-reset') {
+            _flashBcNotice('↔ Combat Tracker was reset');
+        }
+    };
+} catch (_) { /* BroadcastChannel unavailable — graceful degradation */ }
+
+// ── Roster sync: pull combatant names from Combat Tracker localStorage ─────
+function syncFromCombatTracker() {
+    let ctState;
+    try {
+        const raw = localStorage.getItem('combatTracker_autosave');
+        if (!raw) {
+            alert('No Combat Tracker data found.\nOpen the Combat Tracker and add combatants first.');
+            return;
+        }
+        ctState = JSON.parse(raw);
+    } catch (e) {
+        alert('Could not read Combat Tracker data: ' + e.message);
+        return;
+    }
+
+    const incoming = (ctState.combatants || [])
+        .map(c => (c.name || '').trim())
+        .filter(Boolean);
+
+    if (incoming.length === 0) {
+        alert('The Combat Tracker has no combatants to sync.');
+        return;
+    }
+
+    const existing = new Set(state.combatants.map(c => c.name));
+    const toAdd    = incoming.filter(n => !existing.has(n));
+    const already  = incoming.filter(n =>  existing.has(n));
+
+    if (toAdd.length === 0) {
+        alert('All ' + incoming.length + ' combatant(s) from the Combat Tracker are already here' +
+              (already.length ? ':\n' + already.join(', ') : '.'));
+        return;
+    }
+
+    let msg = 'Add ' + toAdd.length + ' combatant(s) from Combat Tracker?\n\n' + toAdd.join(', ');
+    if (already.length) {
+        msg += '\n\n(Already present, will be skipped: ' + already.join(', ') + ')';
+    }
+
+    if (!confirm(msg)) return;
+
+    toAdd.forEach(name => {
+        state.combatants.push({ id: uid(), name, conditions: [] });
+    });
+
+    save();
+    render();
+    _flashBcNotice('✓ ' + toAdd.length + ' combatant(s) synced');
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────
+load();
+render();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="css_js/5eadb.css">
+<title>Party Inventory</title>
+<style>
+  body { max-width: 1400px; }
+
+  /* ── Top bar ── */
+  .top-bar { display: flex; align-items: baseline; flex-wrap: wrap; gap: 8px; margin-bottom: 4px; }
+  #partyTitle { cursor: pointer; text-decoration: underline dotted; }
+  #partyTitle:hover { color: #555; }
+  .party-id { font-size: 0.55em; color: #999; font-weight: normal; font-family: monospace; }
+  .top-controls { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 16px; }
+
+  /* ── Character grid ── */
+  .party-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; margin-bottom: 16px; }
+
+  /* ── Character card ── */
+  .char-card { border: 2px solid #aaa; border-radius: 6px; padding: 12px; background: #fafafa; }
+  .char-header { display: flex; align-items: center; gap: 6px; margin-bottom: 8px; }
+  .char-name { font-weight: bold; font-size: 1.05em; flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .char-weight { font-size: 0.8em; color: #666; white-space: nowrap; }
+
+  /* ── Coins ── */
+  .coins-section { margin-bottom: 10px; border: 1px solid #ddd; border-radius: 4px; }
+  .coins-section summary { padding: 6px 8px; cursor: pointer; font-size: 0.9em; list-style: none; display: flex; align-items: center; gap: 4px; }
+  .coins-section summary::-webkit-details-marker { display: none; }
+  .coins-section summary::before { content: "▶"; font-size: 0.7em; transition: transform 0.15s; }
+  .coins-section[open] summary::before { transform: rotate(90deg); }
+  .coins-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; padding: 8px; }
+  .coin-label { text-align: center; font-size: 0.8em; }
+  .coin-label span { display: block; font-weight: bold; margin-bottom: 2px; }
+  .coin-input { width: 100%; text-align: center; font-size: 0.9em; padding: 4px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 3px; }
+  .coin-input:focus { outline: 2px solid #888; }
+  .coin-pp { color: #6a0dad; }
+  .coin-gp { color: #b8860b; }
+  .coin-sp { color: #666; }
+  .coin-cp { color: #a0522d; }
+
+  /* ── Containers ── */
+  .containers-list { margin-bottom: 8px; }
+  .container { border: 1px solid #ccc; border-radius: 4px; margin-bottom: 6px; overflow: hidden; }
+  .con-header { background: #eee; padding: 6px 8px; display: flex; align-items: center; gap: 6px; cursor: pointer; user-select: none; }
+  .con-toggle { font-size: 0.7em; color: #666; flex-shrink: 0; }
+  .con-name { flex: 1; font-weight: bold; font-size: 0.9em; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .con-weight { font-size: 0.75em; color: #777; flex-shrink: 0; }
+  .con-header-btns { display: flex; gap: 2px; flex-shrink: 0; }
+  .con-body { padding: 6px 8px; }
+  .container.collapsed .con-body { display: none; }
+  .container.collapsed .con-toggle { transform: none; }
+
+  /* ── Items ── */
+  .item { display: flex; align-items: center; gap: 6px; padding: 4px 0; border-bottom: 1px solid #f0f0f0; font-size: 0.9em; }
+  .item:last-child { border-bottom: none; }
+  .item-name { flex: 1; cursor: pointer; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .item-name:hover { text-decoration: underline; }
+  .item-qty { color: #888; font-size: 0.85em; flex-shrink: 0; }
+  .item-w { color: #999; font-size: 0.8em; flex-shrink: 0; min-width: 45px; text-align: right; }
+  .unidentified { color: #888; font-style: italic; }
+  .no-items { color: #aaa; font-size: 0.85em; font-style: italic; padding: 2px 0 4px; }
+
+  /* ── Party summary ── */
+  .party-summary { border-top: 2px solid #aaa; padding-top: 12px; margin-top: 4px; font-size: 0.9em; color: #444; }
+  .summary-table { border-collapse: collapse; margin-top: 6px; }
+  .summary-table td { border: 1px solid #ddd; padding: 4px 10px; }
+  .summary-table th { border: 1px solid #ddd; padding: 4px 10px; background: #f0f0f0; }
+
+  /* ── Buttons ── */
+  .btn-sm { font-size: 14px !important; min-height: 30px !important; padding: 3px 8px !important; margin: 1px !important; }
+  .btn-xs { font-size: 12px !important; min-height: 24px !important; padding: 2px 6px !important; margin: 1px !important; }
+  .btn-danger { background: #fee !important; color: #c00 !important; border-color: #faa !important; }
+  .btn-danger:hover { background: #fdd !important; }
+  .btn-primary { background: #e8f0fe !important; color: #1a56c4 !important; border-color: #aac4f7 !important; }
+  .btn-primary:hover { background: #d4e4fd !important; }
+
+  /* ── Modal ── */
+  .modal-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.5); display: flex; align-items: center; justify-content: center; z-index: 1000; padding: 16px; box-sizing: border-box; }
+  .modal-box { background: white; border-radius: 8px; padding: 20px 24px; width: 100%; max-width: 500px; max-height: 85vh; overflow-y: auto; box-shadow: 0 8px 32px rgba(0,0,0,0.3); }
+  .modal-box h2 { margin-top: 0; font-size: 1.2em; }
+  .modal-footer { display: flex; gap: 8px; margin-top: 16px; justify-content: flex-end; flex-wrap: wrap; }
+  .field-row { margin-bottom: 12px; }
+  .field-row label { display: block; font-size: 0.85em; font-weight: bold; margin-bottom: 3px; color: #555; }
+  .field-row input, .field-row select, .field-row textarea { width: 100%; box-sizing: border-box; font-size: 16px; padding: 6px 8px; border: 1px solid #ccc; border-radius: 4px; }
+  .field-row textarea { resize: vertical; }
+  .inline-fields { display: flex; gap: 12px; }
+  .inline-fields .field-row { flex: 1; }
+  .check-row { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; font-size: 0.9em; }
+
+  /* ── Audit log ── */
+  .audit-list { max-height: 400px; overflow-y: auto; }
+  .audit-entry { padding: 6px 0; border-bottom: 1px solid #f0f0f0; font-size: 0.85em; }
+  .audit-entry:last-child { border-bottom: none; }
+  .audit-ts { color: #999; font-size: 0.8em; display: block; }
+
+  /* ── Party switcher ── */
+  .party-row { display: flex; align-items: center; gap: 8px; padding: 6px 0; border-bottom: 1px solid #eee; }
+  .party-row:last-child { border-bottom: none; }
+  .party-row-name { flex: 1; font-weight: bold; }
+  .party-row-meta { font-size: 0.8em; color: #777; }
+
+  /* ── Empty state ── */
+  .empty-state { text-align: center; color: #aaa; padding: 40px 20px; border: 2px dashed #ddd; border-radius: 8px; font-size: 0.95em; }
+
+  /* ── Dark mode ── */
+  @media (prefers-color-scheme: dark) {
+    .char-card { background: #1e1e1e; border-color: #555; }
+    .coins-section { border-color: #444; }
+    .coins-section summary { background: #2a2a2a; }
+    .coins-grid { background: #1e1e1e; }
+    .coin-input { background: #2a2a2a; color: #e0e0e0; border-color: #555; }
+    .container { border-color: #444; }
+    .con-header { background: #2a2a2a; }
+    .item { border-color: #333; }
+    .no-items { color: #555; }
+    .modal-box { background: #1e1e1e; color: #e0e0e0; }
+    .field-row input, .field-row select, .field-row textarea { background: #2a2a2a; color: #e0e0e0; border-color: #555; }
+    .audit-entry { border-color: #333; }
+    .party-row { border-color: #333; }
+    .party-summary { border-color: #555; color: #bbb; }
+    .summary-table td, .summary-table th { border-color: #444; }
+    .summary-table th { background: #2a2a2a; }
+    .btn-danger { background: #3a1010 !important; color: #f88 !important; border-color: #733 !important; }
+    .btn-primary { background: #0d2550 !important; color: #7aaef7 !important; border-color: #1a4490 !important; }
+    .empty-state { color: #555; border-color: #333; }
+  }
+</style>
+</head>
+<body>
+
+<div><a href="index.html">5e Artisanal Database</a> → Party Inventory</div>
+
+<div class="top-bar">
+  <h1 style="margin:0 8px 0 0"><span id="partyTitle" title="Click to rename party">My Party</span> <span class="party-id" id="partyBadge"></span></h1>
+</div>
+
+<div class="top-controls">
+  <button class="btn-sm btn-primary" onclick="App.addCharacter()">+ Character</button>
+  <button class="btn-sm" onclick="App.showAuditLog()">📋 Log</button>
+  <button class="btn-sm" onclick="App.exportParty()">⬇ Export</button>
+  <button class="btn-sm" onclick="App.importParty()">⬆ Import</button>
+  <button class="btn-sm" onclick="App.switchParty()">🔀 Parties</button>
+</div>
+
+<div id="partyGrid" class="party-grid"></div>
+<div id="partySummary"></div>
+
+<div id="modalOverlay" class="modal-overlay" style="display:none">
+  <div class="modal-box" id="modalBox"></div>
+</div>
+
+<script>
+/* ================================================================
+   TTRPG Party Inventory v2 — single-file, no build step required
+   Data stored in localStorage under key  ttrpg2:<partyId>
+   ================================================================ */
+
+const App = (() => {
+
+  // ── State ──────────────────────────────────────────────────────
+  let partyId = '';
+  let data = defaultData();
+
+  function defaultData() {
+    return { partyName: 'My Party', characters: [], auditLog: [], config: { weightUnit: 'lb' } };
+  }
+
+  // ── ID generation ──────────────────────────────────────────────
+  const genId = () => crypto.randomUUID ? crypto.randomUUID()
+    : Date.now().toString(36) + Math.random().toString(36).slice(2);
+
+  // ── Storage ────────────────────────────────────────────────────
+  const storageKey = () => `ttrpg2:${partyId}`;
+
+  function load() {
+    try {
+      const raw = localStorage.getItem(storageKey());
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        data = Object.assign(defaultData(), parsed);
+      }
+    } catch (e) { console.warn('Load failed:', e); }
+  }
+
+  function save() {
+    localStorage.setItem(storageKey(), JSON.stringify(data));
+    localStorage.setItem('ttrpg2_lastParty', partyId);
+  }
+
+  // ── Audit ──────────────────────────────────────────────────────
+  function audit(action, desc) {
+    data.auditLog.unshift({ id: genId(), ts: Date.now(), action, desc });
+    if (data.auditLog.length > 500) data.auditLog.length = 500;
+  }
+
+  // ── Weight / Coin helpers ──────────────────────────────────────
+  const itemW   = item => (parseFloat(item.weight) || 0) * (parseInt(item.quantity) || 1);
+  const conW    = con  => (con.items || []).reduce((s, i) => s + itemW(i), 0) + (parseFloat(con.weight) || 0);
+  const charW   = ch   => (ch.containers || []).reduce((s, c) => s + conW(c), 0);
+  const coinW   = coins => Math.floor(((coins.pp||0) + (coins.gp||0) + (coins.sp||0) + (coins.cp||0)) / 50 * 10) / 10;
+
+  function fmtW(w) {
+    if (w === 0) return '0 lb';
+    return (Number.isInteger(w) ? w : parseFloat(w.toFixed(2))) + ' lb';
+  }
+
+  function fmtCoins(c) {
+    const parts = [];
+    if (c.pp) parts.push(`${c.pp} pp`);
+    if (c.gp) parts.push(`${c.gp} gp`);
+    if (c.sp) parts.push(`${c.sp} sp`);
+    if (c.cp) parts.push(`${c.cp} cp`);
+    return parts.length ? parts.join(', ') : '—';
+  }
+
+  function coinGp(c) {
+    return (c.pp||0)*10 + (c.gp||0) + (c.sp||0)*0.1 + (c.cp||0)*0.01;
+  }
+
+  function totalPartyCoins() {
+    return data.characters.reduce((s, ch) => {
+      const c = ch.coins || {};
+      return { pp: s.pp+(c.pp||0), gp: s.gp+(c.gp||0), sp: s.sp+(c.sp||0), cp: s.cp+(c.cp||0) };
+    }, { pp:0, gp:0, sp:0, cp:0 });
+  }
+
+  // ── HTML escape ────────────────────────────────────────────────
+  function h(str) {
+    return String(str ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  // ── UI state persistence across re-renders ─────────────────────
+  function getUIState() {
+    const collapsed = new Set(), openCoins = new Set();
+    document.querySelectorAll('.container.collapsed').forEach(el => collapsed.add(el.dataset.conId));
+    document.querySelectorAll('details.coins-section[open]').forEach(el => openCoins.add(el.dataset.charId));
+    return { collapsed, openCoins };
+  }
+
+  function applyUIState({ collapsed, openCoins }) {
+    collapsed.forEach(id => {
+      const el = document.querySelector(`.container[data-con-id="${id}"]`);
+      if (el) { el.classList.add('collapsed'); const t = el.querySelector('.con-toggle'); if (t) t.textContent = '▶'; }
+    });
+    openCoins.forEach(id => {
+      const el = document.querySelector(`details.coins-section[data-char-id="${id}"]`);
+      if (el) el.open = true;
+    });
+  }
+
+  // ── Render ─────────────────────────────────────────────────────
+  function render() {
+    const uiState = getUIState();
+    renderGrid();
+    renderSummary();
+    applyUIState(uiState);
+  }
+
+  function renderGrid() {
+    const grid = document.getElementById('partyGrid');
+    if (!data.characters.length) {
+      grid.innerHTML = `<div class="empty-state" style="grid-column:1/-1">
+        No characters yet — click <strong>+ Character</strong> to get started.
+      </div>`;
+      return;
+    }
+    grid.innerHTML = data.characters.map(ch => renderCharCard(ch)).join('');
+  }
+
+  function renderCharCard(ch) {
+    const coins  = ch.coins || {};
+    const w      = charW(ch) + coinW(coins);
+    const coinSummary = fmtCoins(coins);
+    const coinRows = [
+      { key:'pp', label:'PP', cls:'coin-pp' },
+      { key:'gp', label:'GP', cls:'coin-gp' },
+      { key:'sp', label:'SP', cls:'coin-sp' },
+      { key:'cp', label:'CP', cls:'coin-cp' },
+    ];
+
+    return `
+    <div class="char-card">
+      <div class="char-header">
+        <span class="char-name" title="${h(ch.name)}">${h(ch.name)}</span>
+        <span class="char-weight">⚖️ ${fmtW(w)}</span>
+        <button class="btn-xs" onclick="App.editCharName('${ch.id}')" title="Rename">✏️</button>
+        <button class="btn-xs btn-danger" onclick="App.deleteChar('${ch.id}')" title="Delete character">🗑</button>
+      </div>
+
+      <details class="coins-section" data-char-id="${ch.id}">
+        <summary>💰 ${h(coinSummary)}</summary>
+        <div class="coins-grid">
+          ${coinRows.map(cr => `
+            <label class="coin-label">
+              <span class="${cr.cls}">${cr.label}</span>
+              <input type="number" class="coin-input" min="0" value="${coins[cr.key]||0}"
+                onchange="App.updateCoin('${ch.id}','${cr.key}',this.value)"
+                title="${cr.label}">
+            </label>
+          `).join('')}
+        </div>
+      </details>
+
+      <div class="containers-list">
+        ${(ch.containers || []).map(con => renderContainer(ch, con)).join('')}
+      </div>
+
+      <button class="btn-sm" onclick="App.addContainer('${ch.id}')">+ Container</button>
+    </div>`;
+  }
+
+  function renderContainer(ch, con) {
+    const w = conW(con);
+    const itemCount = (con.items || []).length;
+    return `
+    <div class="container" data-con-id="${con.id}">
+      <div class="con-header" onclick="App.toggleContainer('${con.id}')">
+        <span class="con-toggle">▼</span>
+        <span class="con-name" title="${h(con.name)}">${h(con.name)}</span>
+        <span class="con-weight">${fmtW(w)}</span>
+        <div class="con-header-btns" onclick="event.stopPropagation()">
+          <button class="btn-xs" onclick="App.editContainer('${ch.id}','${con.id}')" title="Edit container">✏️</button>
+          <button class="btn-xs btn-danger" onclick="App.deleteContainer('${ch.id}','${con.id}')" title="Delete container">🗑</button>
+        </div>
+      </div>
+      <div class="con-body">
+        ${itemCount === 0 ? '<div class="no-items">Empty</div>' : (con.items || []).map(item => renderItem(ch, con, item)).join('')}
+        <button class="btn-xs btn-primary" style="margin-top:4px" onclick="App.addItem('${ch.id}','${con.id}')">+ Item</button>
+      </div>
+    </div>`;
+  }
+
+  function renderItem(ch, con, item) {
+    const w = itemW(item);
+    const qty = item.quantity > 1 ? `<span class="item-qty">×${item.quantity}</span>` : '';
+    const uid = item.isUnidentified;
+    return `
+    <div class="item">
+      <span class="item-name ${uid ? 'unidentified' : ''}"
+        onclick="App.viewItem('${ch.id}','${con.id}','${item.id}')"
+        title="${h(item.name)}${item.description ? '\n'+h(item.description) : ''}">
+        ${uid ? '❓ ' : ''}${h(item.name)}
+      </span>
+      ${qty}
+      <span class="item-w">${w > 0 ? fmtW(w) : ''}</span>
+      <button class="btn-xs" onclick="App.editItem('${ch.id}','${con.id}','${item.id}')" title="Edit">✏️</button>
+      <button class="btn-xs btn-danger" onclick="App.deleteItem('${ch.id}','${con.id}','${item.id}')" title="Remove">✕</button>
+    </div>`;
+  }
+
+  function renderSummary() {
+    if (!data.characters.length) { document.getElementById('partySummary').innerHTML = ''; return; }
+    const tc = totalPartyCoins();
+    const tw = data.characters.reduce((s, ch) => s + charW(ch) + coinW(ch.coins||{}), 0);
+    const gp = coinGp(tc);
+
+    const rows = data.characters.map(ch => {
+      const coins = ch.coins || {};
+      return `<tr>
+        <td>${h(ch.name)}</td>
+        <td style="text-align:right">${fmtW(charW(ch) + coinW(coins))}</td>
+        <td>${fmtCoins(coins)}</td>
+        <td style="text-align:right">${coinGp(coins).toFixed(1)} gp</td>
+      </tr>`;
+    }).join('');
+
+    document.getElementById('partySummary').innerHTML = `
+    <div class="party-summary">
+      <strong>Party Summary</strong>
+      <table class="summary-table">
+        <thead><tr><th>Character</th><th>Weight</th><th>Coins</th><th>GP equiv.</th></tr></thead>
+        <tbody>${rows}</tbody>
+        <tfoot><tr style="font-weight:bold">
+          <td>Total</td>
+          <td style="text-align:right">${fmtW(tw)}</td>
+          <td>${fmtCoins(tc)}</td>
+          <td style="text-align:right">${gp.toFixed(1)} gp</td>
+        </tr></tfoot>
+      </table>
+    </div>`;
+  }
+
+  // ── Modal system ───────────────────────────────────────────────
+  function modal(html, onShow) {
+    const box = document.getElementById('modalBox');
+    box.innerHTML = html;
+    document.getElementById('modalOverlay').style.display = 'flex';
+    if (onShow) setTimeout(() => onShow(box), 0);
+  }
+
+  function closeModal() {
+    document.getElementById('modalOverlay').style.display = 'none';
+  }
+
+  // ── Toggle container collapse ──────────────────────────────────
+  function toggleContainer(conId) {
+    const el = document.querySelector(`.container[data-con-id="${conId}"]`);
+    if (!el) return;
+    el.classList.toggle('collapsed');
+    const t = el.querySelector('.con-toggle');
+    if (t) t.textContent = el.classList.contains('collapsed') ? '▶' : '▼';
+  }
+
+  // ── Character actions ──────────────────────────────────────────
+  function addCharacter() {
+    modal(`
+      <h2>Add Character</h2>
+      <div class="field-row"><label>Name</label><input id="mi_name" type="text" placeholder="Character name" autocomplete="off"></div>
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-primary" onclick="App._doAddChar()">Add</button>
+      </div>
+    `, box => box.querySelector('#mi_name').focus());
+  }
+
+  function _doAddChar() {
+    const name = val('mi_name');
+    if (!name) return alert('Enter a name.');
+    const ch = { id: genId(), name, coins: { pp:0, gp:0, sp:0, cp:0 },
+      containers: [{ id: genId(), name: 'Backpack', weight: 5, items: [] }] };
+    data.characters.push(ch);
+    audit('add_character', `Added "${name}"`);
+    save(); closeModal(); render();
+  }
+
+  function editCharName(charId) {
+    const ch = findChar(charId); if (!ch) return;
+    modal(`
+      <h2>Rename Character</h2>
+      <div class="field-row"><label>Name</label><input id="mi_name" type="text" value="${h(ch.name)}" autocomplete="off"></div>
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-primary" onclick="App._doEditChar('${charId}')">Save</button>
+      </div>
+    `, box => { const i = box.querySelector('#mi_name'); i.focus(); i.select(); });
+  }
+
+  function _doEditChar(charId) {
+    const name = val('mi_name'); if (!name) return alert('Enter a name.');
+    const ch = findChar(charId); if (!ch) return;
+    audit('rename_character', `Renamed "${ch.name}" → "${name}"`);
+    ch.name = name;
+    save(); closeModal(); render();
+  }
+
+  function deleteChar(charId) {
+    const ch = findChar(charId); if (!ch) return;
+    modal(`
+      <h2>Delete Character</h2>
+      <p>Delete <strong>${h(ch.name)}</strong> and all their items? This cannot be undone.</p>
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-danger" onclick="App._doDeleteChar('${charId}')">Delete</button>
+      </div>
+    `);
+  }
+
+  function _doDeleteChar(charId) {
+    const idx = data.characters.findIndex(c => c.id === charId); if (idx === -1) return;
+    audit('delete_character', `Deleted "${data.characters[idx].name}"`);
+    data.characters.splice(idx, 1);
+    save(); closeModal(); render();
+  }
+
+  function updateCoin(charId, coin, value) {
+    const ch = findChar(charId); if (!ch) return;
+    if (!ch.coins) ch.coins = { pp:0, gp:0, sp:0, cp:0 };
+    ch.coins[coin] = Math.max(0, parseInt(value) || 0);
+    save();
+    // Update coin summary text without full re-render
+    const summary = document.querySelector(`details.coins-section[data-char-id="${charId}"] summary`);
+    if (summary) summary.textContent = '💰 ' + fmtCoins(ch.coins);
+    // Update char weight
+    const wEl = document.querySelector(`.char-card:has([data-char-id="${charId}"]) .char-weight`);
+    if (wEl) wEl.textContent = '⚖️ ' + fmtW(charW(ch) + coinW(ch.coins));
+    renderSummary();
+  }
+
+  // ── Container actions ──────────────────────────────────────────
+  function addContainer(charId) {
+    modal(`
+      <h2>Add Container</h2>
+      <div class="field-row"><label>Name</label><input id="mi_name" type="text" placeholder="e.g. Backpack, Pouch…" autocomplete="off"></div>
+      <div class="inline-fields">
+        <div class="field-row"><label>Container weight (lb)</label><input id="mi_weight" type="number" value="0" min="0" step="0.1"></div>
+        <div class="field-row"><label>Capacity (lb, optional)</label><input id="mi_cap" type="number" value="" min="0" step="1" placeholder="—"></div>
+      </div>
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-primary" onclick="App._doAddContainer('${charId}')">Add</button>
+      </div>
+    `, box => box.querySelector('#mi_name').focus());
+  }
+
+  function _doAddContainer(charId) {
+    const name = val('mi_name'); if (!name) return alert('Enter a name.');
+    const weight = parseFloat(document.getElementById('mi_weight').value) || 0;
+    const cap    = parseFloat(document.getElementById('mi_cap').value) || null;
+    const ch = findChar(charId); if (!ch) return;
+    const con = { id: genId(), name, weight, capacity: cap, items: [] };
+    ch.containers.push(con);
+    audit('add_container', `Added container "${name}" to ${ch.name}`);
+    save(); closeModal(); render();
+  }
+
+  function editContainer(charId, conId) {
+    const ch = findChar(charId); const con = findCon(ch, conId); if (!con) return;
+    modal(`
+      <h2>Edit Container</h2>
+      <div class="field-row"><label>Name</label><input id="mi_name" type="text" value="${h(con.name)}" autocomplete="off"></div>
+      <div class="inline-fields">
+        <div class="field-row"><label>Container weight (lb)</label><input id="mi_weight" type="number" value="${con.weight||0}" min="0" step="0.1"></div>
+        <div class="field-row"><label>Capacity (lb, optional)</label><input id="mi_cap" type="number" value="${con.capacity||''}" min="0" step="1" placeholder="—"></div>
+      </div>
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-primary" onclick="App._doEditContainer('${charId}','${conId}')">Save</button>
+      </div>
+    `, box => { const i = box.querySelector('#mi_name'); i.focus(); i.select(); });
+  }
+
+  function _doEditContainer(charId, conId) {
+    const name = val('mi_name'); if (!name) return alert('Enter a name.');
+    const ch = findChar(charId); const con = findCon(ch, conId); if (!con) return;
+    const old = con.name;
+    con.name   = name;
+    con.weight = parseFloat(document.getElementById('mi_weight').value) || 0;
+    con.capacity = parseFloat(document.getElementById('mi_cap').value) || null;
+    audit('edit_container', `Updated container "${old}" → "${name}" on ${ch.name}`);
+    save(); closeModal(); render();
+  }
+
+  function deleteContainer(charId, conId) {
+    const ch = findChar(charId); const con = findCon(ch, conId); if (!con) return;
+    const n = con.items?.length || 0;
+    modal(`
+      <h2>Delete Container</h2>
+      <p>Delete <strong>${h(con.name)}</strong>${n ? ` and its <strong>${n} item${n>1?'s':''}</strong>` : ''}? This cannot be undone.</p>
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-danger" onclick="App._doDeleteContainer('${charId}','${conId}')">Delete</button>
+      </div>
+    `);
+  }
+
+  function _doDeleteContainer(charId, conId) {
+    const ch = findChar(charId); if (!ch) return;
+    const idx = ch.containers.findIndex(c => c.id === conId); if (idx === -1) return;
+    audit('delete_container', `Deleted container "${ch.containers[idx].name}" from ${ch.name}`);
+    ch.containers.splice(idx, 1);
+    save(); closeModal(); render();
+  }
+
+  // ── Item actions ───────────────────────────────────────────────
+  function addItem(charId, conId) {
+    modal(`
+      <h2>Add Item</h2>
+      <div class="field-row"><label>Name</label><input id="mi_name" type="text" placeholder="Item name" autocomplete="off"></div>
+      <div class="inline-fields">
+        <div class="field-row"><label>Quantity</label><input id="mi_qty" type="number" value="1" min="1"></div>
+        <div class="field-row"><label>Weight per item (lb)</label><input id="mi_weight" type="number" value="0" min="0" step="0.1"></div>
+      </div>
+      <div class="field-row"><label>Description / notes</label><textarea id="mi_desc" rows="3" placeholder="Properties, effects, value…"></textarea></div>
+      <div class="check-row"><input type="checkbox" id="mi_unid"> <label for="mi_unid">Mark as unidentified</label></div>
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-primary" onclick="App._doAddItem('${charId}','${conId}')">Add</button>
+      </div>
+    `, box => box.querySelector('#mi_name').focus());
+  }
+
+  function _doAddItem(charId, conId) {
+    const name = val('mi_name'); if (!name) return alert('Enter a name.');
+    const ch = findChar(charId); const con = findCon(ch, conId); if (!con) return;
+    const item = {
+      id: genId(), name,
+      quantity: parseInt(document.getElementById('mi_qty').value) || 1,
+      weight:   parseFloat(document.getElementById('mi_weight').value) || 0,
+      description: document.getElementById('mi_desc').value.trim(),
+      isUnidentified: document.getElementById('mi_unid').checked,
+    };
+    con.items.push(item);
+    audit('add_item', `Added ${item.quantity}× "${name}" → ${ch.name} / ${con.name}`);
+    save(); closeModal(); render();
+  }
+
+  function editItem(charId, conId, itemId) {
+    const ch = findChar(charId); const con = findCon(ch, conId); const item = findItem(con, itemId);
+    if (!item) return;
+    // Build transfer options
+    const opts = data.characters.flatMap(c => (c.containers||[]).map(cn =>
+      (c.id !== charId || cn.id !== conId)
+        ? `<option value="${c.id}:::${cn.id}">${h(c.name)} / ${h(cn.name)}</option>` : ''
+    )).join('');
+
+    modal(`
+      <h2>Edit Item</h2>
+      <div class="field-row"><label>Name</label><input id="mi_name" type="text" value="${h(item.name)}" autocomplete="off"></div>
+      <div class="inline-fields">
+        <div class="field-row"><label>Quantity</label><input id="mi_qty" type="number" value="${item.quantity||1}" min="1"></div>
+        <div class="field-row"><label>Weight per item (lb)</label><input id="mi_weight" type="number" value="${item.weight||0}" min="0" step="0.1"></div>
+      </div>
+      <div class="field-row"><label>Description / notes</label><textarea id="mi_desc" rows="3">${h(item.description||'')}</textarea></div>
+      <div class="check-row"><input type="checkbox" id="mi_unid"${item.isUnidentified?' checked':''}> <label for="mi_unid">Unidentified</label></div>
+      ${opts ? `<div class="field-row"><label>Move to</label><select id="mi_transfer"><option value="">— keep here —</option>${opts}</select></div>` : ''}
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-danger btn-sm" onclick="App.deleteItem('${charId}','${conId}','${itemId}')">Delete</button>
+        <button class="btn-primary" onclick="App._doEditItem('${charId}','${conId}','${itemId}')">Save</button>
+      </div>
+    `, box => { const i = box.querySelector('#mi_name'); i.focus(); i.select(); });
+  }
+
+  function _doEditItem(charId, conId, itemId) {
+    const name = val('mi_name'); if (!name) return alert('Enter a name.');
+    const ch = findChar(charId); const con = findCon(ch, conId); const item = findItem(con, itemId);
+    if (!item) return;
+
+    item.name        = name;
+    item.quantity    = parseInt(document.getElementById('mi_qty').value) || 1;
+    item.weight      = parseFloat(document.getElementById('mi_weight').value) || 0;
+    item.description = document.getElementById('mi_desc').value.trim();
+    item.isUnidentified = document.getElementById('mi_unid').checked;
+
+    const transferEl = document.getElementById('mi_transfer');
+    const transfer   = transferEl ? transferEl.value : '';
+
+    if (transfer) {
+      const [tCharId, tConId] = transfer.split(':::');
+      const tCh = findChar(tCharId); const tCon = findCon(tCh, tConId);
+      if (tCon) {
+        con.items.splice(con.items.findIndex(i => i.id === itemId), 1);
+        tCon.items.push(item);
+        audit('transfer_item', `Moved "${name}" from ${ch.name}/${con.name} → ${tCh.name}/${tCon.name}`);
+      }
+    } else {
+      audit('edit_item', `Edited "${name}" in ${ch.name} / ${con.name}`);
+    }
+    save(); closeModal(); render();
+  }
+
+  function deleteItem(charId, conId, itemId) {
+    const ch = findChar(charId); const con = findCon(ch, conId); const item = findItem(con, itemId);
+    if (!item) return;
+    con.items.splice(con.items.findIndex(i => i.id === itemId), 1);
+    audit('delete_item', `Removed "${item.name}" from ${ch.name} / ${con.name}`);
+    save(); closeModal(); render();
+  }
+
+  function viewItem(charId, conId, itemId) {
+    const ch = findChar(charId); const con = findCon(ch, conId); const item = findItem(con, itemId);
+    if (!item) return;
+    const uid = item.isUnidentified;
+    modal(`
+      <h2>${uid ? '❓ Unidentified Item' : h(item.name)}</h2>
+      <table style="margin-bottom:12px">
+        <tr><td><strong>Name</strong></td><td>${h(item.name)}</td></tr>
+        <tr><td><strong>Quantity</strong></td><td>${item.quantity||1}</td></tr>
+        <tr><td><strong>Weight</strong></td><td>${fmtW(itemW(item))}</td></tr>
+        <tr><td><strong>Location</strong></td><td>${h(ch.name)} / ${h(con.name)}</td></tr>
+        ${item.description ? `<tr><td><strong>Notes</strong></td><td style="white-space:pre-wrap">${h(item.description)}</td></tr>` : ''}
+        ${uid ? `<tr><td><strong>Status</strong></td><td><em>Unidentified</em></td></tr>` : ''}
+      </table>
+      <div class="modal-footer">
+        ${uid ? `<button onclick="App.identifyItem('${charId}','${conId}','${itemId}')">✨ Identify</button>` : ''}
+        <button onclick="App.closeModal()">Close</button>
+        <button class="btn-primary" onclick="App.editItem('${charId}','${conId}','${itemId}')">Edit</button>
+      </div>
+    `);
+  }
+
+  function identifyItem(charId, conId, itemId) {
+    const ch = findChar(charId); const con = findCon(ch, conId); const item = findItem(con, itemId);
+    if (!item) return;
+    item.isUnidentified = false;
+    audit('identify_item', `Identified "${item.name}" in ${ch.name} / ${con.name}`);
+    save(); closeModal(); render();
+  }
+
+  // ── Audit log ──────────────────────────────────────────────────
+  function showAuditLog() {
+    const entries = data.auditLog.slice(0, 200);
+    modal(`
+      <h2>📋 Audit Log</h2>
+      <div class="audit-list">
+        ${entries.length === 0
+          ? '<p style="color:#aaa;font-style:italic">No entries yet.</p>'
+          : entries.map(e => `
+            <div class="audit-entry">
+              <span class="audit-ts">${new Date(e.ts).toLocaleString()}</span>
+              ${h(e.desc)}
+            </div>`).join('')}
+      </div>
+      <div class="modal-footer">
+        <button class="btn-danger" onclick="App._clearLog()">Clear</button>
+        <button onclick="App.closeModal()">Close</button>
+      </div>
+    `);
+  }
+
+  function _clearLog() {
+    if (!confirm('Clear the audit log? This cannot be undone.')) return;
+    data.auditLog = [];
+    save(); closeModal();
+  }
+
+  // ── Export / Import ────────────────────────────────────────────
+  function exportParty() {
+    const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+    const url  = URL.createObjectURL(blob);
+    const a    = Object.assign(document.createElement('a'), { href: url, download: `party-${data.partyName.replace(/\s+/g,'-')}.json` });
+    a.click();
+    URL.revokeObjectURL(url);
+    audit('export', `Exported party "${data.partyName}"`);
+    save();
+  }
+
+  function importParty() {
+    const inp = Object.assign(document.createElement('input'), { type: 'file', accept: '.json' });
+    inp.onchange = e => {
+      const file = e.target.files[0]; if (!file) return;
+      const reader = new FileReader();
+      reader.onload = ev => {
+        try {
+          const imported = JSON.parse(ev.target.result);
+          if (!Array.isArray(imported.characters)) throw new Error('Missing characters array — is this a party export?');
+          if (!confirm(`Import "${imported.partyName || 'Unknown'}"?\n\nThis replaces the current party data.`)) return;
+          data = Object.assign(defaultData(), imported);
+          save(); render();
+          audit('import', `Imported party "${data.partyName}"`);
+          save();
+        } catch (err) { alert('Import failed: ' + err.message); }
+      };
+      reader.readAsText(file);
+    };
+    inp.click();
+  }
+
+  // ── Party name ─────────────────────────────────────────────────
+  function editPartyName() {
+    modal(`
+      <h2>Rename Party</h2>
+      <div class="field-row"><label>Party name</label><input id="mi_name" type="text" value="${h(data.partyName||'My Party')}" autocomplete="off"></div>
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Cancel</button>
+        <button class="btn-primary" onclick="App._doPartyName()">Save</button>
+      </div>
+    `, box => { const i = box.querySelector('#mi_name'); i.focus(); i.select(); });
+  }
+
+  function _doPartyName() {
+    const name = val('mi_name') || 'My Party';
+    data.partyName = name;
+    save(); closeModal();
+    document.getElementById('partyTitle').textContent = name;
+  }
+
+  // ── Party switcher ─────────────────────────────────────────────
+  function switchParty() {
+    const parties = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const k = localStorage.key(i);
+      if (!k.startsWith('ttrpg2:')) continue;
+      try {
+        const d = JSON.parse(localStorage.getItem(k));
+        parties.push({ id: k.slice(7), name: d.partyName||'Unnamed', chars: (d.characters||[]).length });
+      } catch (e) {}
+    }
+    parties.sort((a,b) => a.name.localeCompare(b.name));
+
+    modal(`
+      <h2>🔀 Parties</h2>
+      ${parties.length === 0
+        ? '<p style="color:#aaa;font-style:italic">No saved parties.</p>'
+        : `<div style="max-height:320px;overflow-y:auto">
+            ${parties.map(p => `
+              <div class="party-row">
+                <div>
+                  <span class="party-row-name">${h(p.name)}</span>
+                  <span class="party-row-meta"> · ${p.chars} character${p.chars!==1?'s':''}</span>
+                  ${p.id === partyId ? ' <em style="color:#888;font-size:0.8em">(current)</em>' : ''}
+                </div>
+                <button class="btn-sm" ${p.id===partyId?'disabled':''} onclick="App._loadParty('${p.id}')">Load</button>
+                <button class="btn-sm btn-danger" onclick="App._deleteParty('${p.id}')">✕</button>
+              </div>`).join('')}
+          </div>`}
+      <div class="modal-footer">
+        <button onclick="App.closeModal()">Close</button>
+        <button class="btn-primary" onclick="App._newParty()">+ New Party</button>
+      </div>
+    `);
+  }
+
+  function _loadParty(id) {
+    partyId = id; load(); closeModal(); render(); updateHeader();
+  }
+
+  function _deleteParty(id) {
+    const k = `ttrpg2:${id}`;
+    let name = 'this party';
+    try { name = JSON.parse(localStorage.getItem(k)).partyName || name; } catch(e) {}
+    if (!confirm(`Delete "${name}" permanently?`)) return;
+    localStorage.removeItem(k);
+    if (id === partyId) _newParty(); else switchParty();
+  }
+
+  function _newParty() {
+    partyId = genId();
+    data = defaultData();
+    save(); closeModal(); render(); updateHeader();
+    editPartyName();
+  }
+
+  // ── Header ─────────────────────────────────────────────────────
+  function updateHeader() {
+    document.getElementById('partyTitle').textContent = data.partyName || 'My Party';
+    document.getElementById('partyBadge').textContent = partyId.slice(0, 8);
+  }
+
+  // ── Lookup helpers ─────────────────────────────────────────────
+  const findChar = id => data.characters.find(c => c.id === id);
+  const findCon  = (ch, id) => ch?.containers?.find(c => c.id === id);
+  const findItem = (con, id) => con?.items?.find(i => i.id === id);
+  const val      = id => (document.getElementById(id)?.value || '').trim();
+
+  // ── Init ───────────────────────────────────────────────────────
+  function init() {
+    partyId = localStorage.getItem('ttrpg2_lastParty') || genId();
+    load();
+
+    // Party title click → rename
+    document.getElementById('partyTitle').addEventListener('click', editPartyName);
+
+    // Close modal on overlay click
+    document.getElementById('modalOverlay').addEventListener('click', e => {
+      if (e.target.id === 'modalOverlay') closeModal();
+    });
+
+    // Close modal on Escape key
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && document.getElementById('modalOverlay').style.display !== 'none') closeModal();
+    });
+
+    render();
+    updateHeader();
+  }
+
+  // ── Public API ─────────────────────────────────────────────────
+  return {
+    init, render, closeModal, toggleContainer,
+    addCharacter, _doAddChar, editCharName, _doEditChar, deleteChar, _doDeleteChar, updateCoin,
+    addContainer, _doAddContainer, editContainer, _doEditContainer, deleteContainer, _doDeleteContainer,
+    addItem, _doAddItem, editItem, _doEditItem, deleteItem, viewItem, identifyItem,
+    showAuditLog, _clearLog,
+    exportParty, importParty,
+    editPartyName, _doPartyName,
+    switchParty, _loadParty, _deleteParty, _newParty,
+  };
+})();
+
+document.addEventListener('DOMContentLoaded', () => App.init());
+</script>
+</body>
+</html>

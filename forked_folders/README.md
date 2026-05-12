@@ -16,6 +16,9 @@ forked_folders/
 │   └── names/
 ├── custom_tools/              # Homebrew tools (combat tracker, …)
 ├── hooks/                     # Git hook scripts (pre-commit validator — see README)
+├── scripts/                   # Utility scripts (build_standalone.py, etc.)
+├── ttrpg-inventory.html       # Party Inventory — standalone single file, open directly in browser
+├── ttrpg-inventory/           # Party Inventory source (React/Vite) — edit here, then rebuild
 ├── dyson_archive/             # Local Dyson Logos commercial map gallery
 ├── forgotten_realms/          # Forgotten Realms reference data
 ├── literary-generators/       # Bible/Shakespeare/Classics text generator

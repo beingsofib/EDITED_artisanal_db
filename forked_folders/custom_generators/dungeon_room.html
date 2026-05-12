@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<title>Dungeon Room Dressing Generator</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → <a href="../index.html">Homebrew Generators</a> → Dungeon Room Dressing</div>
+
+<h1>Dungeon Room Dressing</h1>
+
+<button onclick="generateContent()">Roll</button>
+
+<div id="output">
+    <em>Click the button above to generate content...</em>
+</div>
+
+<!-- Load shared common data -->
+<script src="../css_js/common_generator_data.js"></script>
+<script src="../css_js/generator.js"></script>
+<script src="../custom_css_js/homebrew_generator.js"></script>
+
+<script>
+const dungeonDataText = `
+template
+    <p><strong>{room_type}</strong><br>Features: {room_feature}; {room_feature}<br>Contains: {room_furnishing}, {room_furnishing}<br>Smells of {room_smell} — {room_sound}<br>Secret: {room_secret}</p>
+
+room_type
+    abandoned barracks
+    alchemist's lab
+    antechamber
+    armoury
+    bone pit
+    collapsed crypt
+    flooded storage room
+    forge
+    guard post
+    ossuary
+    prison cells
+    ritual chamber
+    defiled shrine
+    dungeon storeroom
+    ruined throne room
+    torture chamber
+    trophy room
+    well room
+    ruined library
+    wizard's sanctum
+    charnel pit
+    mausoleum alcove
+    summoning chamber
+    warlock's study
+    fungal grotto
+    flooded undercroft
+    collapsed great hall
+    beast pen
+    execution chamber
+    barrow chamber
+
+room_feature
+    a crumbling stone statue, its face worn to a blank oval
+    an ancient mural depicting a battle — the victors' faces have been gouged out
+    a cracked mosaic floor showing a partial star map
+    a collapsed section of ceiling, rubble mounded beneath
+    a rusted iron portcullis, jammed half-lowered
+    dried bloodstains trailing from the centre toward one wall
+    a charcoal arcane circle on the floor, partially smudged
+    a mound of gnawed bones heaped in one corner
+    iron shackles bolted to the wall — four sets, two still occupied
+    black fungi creeping in patches across the ceiling
+    a murky pool of standing water, origin unclear
+    a rotted tapestry still hanging from two of its iron rings
+    a massive iron door in the far wall, bolted shut from this side
+    rows of cracked clay urns on recessed stone shelves
+    a low stone altar, its top stained a deep brown
+    a cracked mirror in a tarnished silver frame, still hanging plumb
+    strange shallow scratches covering the lower third of the walls
+    a bricked-up archway on the far wall, newer mortar than the rest
+    a row of iron hooks, several still bearing rusted tools
+    a cold fire pit in the centre, choked with old ash
+    a drainage channel in the floor, long blocked and foul-smelling
+    a collapsed iron cage in one corner, bars splayed outward
+    a ceiling chain disappearing into darkness above
+    a symbol burned into the wooden beams overhead
+    an alcove sealed with mortared stone, the edges sharper than the rest
+    three stone pillars, one shattered at the base
+    a ring of iron spikes driven into the floor in a rough circle
+    carved lettering around the doorframe — the script worn illegible
+
+room_furnishing
+    an overturned heavy table, one leg snapped
+    broken wooden crates, contents scattered and rotted
+    a rusted weapons rack holding the remnants of three blades
+    a stone sarcophagus with its lid pushed a foot to one side
+    a writing desk covered in scattered, water-damaged papers
+    a cold iron brazier clogged with old ash and charred wood
+    a pile of rotted bedrolls, compressed to almost nothing
+    a large iron cauldron on a shattered tripod, tilted into the floor
+    a splintered wooden chair missing its back
+    a wooden chest, lid smashed, hinges torn free, empty
+    an open iron cage, door hanging ajar
+    a lectern of dark wood, tilted but still upright, empty
+    a long stone bench against one wall, cracked down the middle
+    three barrels — two staved in, one still sealed
+    a straw pallet alive with insects
+    a heap of loose rubble and broken flagstones
+    a dried-out wooden bucket, seams split
+    a toppled iron candelabra, wax pooled and hardened across the floor
+    a stack of mouldering books, pages fused solid
+    a crude wooden idol, its face deliberately defaced
+
+room_smell
+    must and damp stone
+    sulfur and old char
+    old blood — faint and metallic
+    mildew and soft rot
+    incense long-cold and cloying
+    salt and decay
+    something sweet and wrong, like overripe fruit
+    old woodsmoke
+    wet animal, sharp and rank
+    nothing at all — unnervingly clean
+
+room_sound
+    dripping water, irregular and distant
+    rats scurrying somewhere within the walls
+    a draft from somewhere, source unclear
+    total silence — pressing and absolute
+    distant rhythmic scraping, slow and patient
+    your own footsteps echoing back from the wrong direction
+    a low creak, like stone settling under enormous weight
+    water moving somewhere beneath the floor
+    a soft drip, very close
+
+room_secret
+    a faint draft from one apparently solid wall
+    one flagstone sits fractionally higher than the rest
+    scratches on the floor form a rough arrow, half-hidden under debris
+    a faint glow visible through a crack near the base of one wall
+    mortar crumbles easily in one specific section — it was applied far later than the rest
+    a peculiar hollow echo near one wall suggests open space beyond
+    a symbol carved beneath the dust on the altar base, only visible when you crouch
+    one stone block has finger-sized depressions worn into it at waist height
+    a second set of footprints leads straight to a wall and simply stops
+    the dust is completely undisturbed in one corner — nothing has crossed that space in a long time
+    nothing — this room holds no secrets, only old decay
+    a thin wire, nearly invisible, stretched at ankle height just past the threshold
+    a small niche behind a loose stone, empty but recently disturbed
+    old claw marks on the ceiling — made from the inside, trending toward one wall
+
+`;
+
+// Combine with shared common data
+const dataText = addCommonDataTo(dungeonDataText);
+</script>
+
+</body>
+</html>

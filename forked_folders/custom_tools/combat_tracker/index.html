@@ -34,7 +34,7 @@ Learn about the licensing of the data of this tool in the license.html file loca
 <script src="../../../monsters/custom/custom_monster_index.js"></script>
 </head>
 <body class="combat-tracker">
-<div><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker</div>
+<div><a href="../../index.html">5e Artisanal Database</a> → Combat Tracker &nbsp;|&nbsp; <a href="../conditions_tracker/index.html">→ Conditions Tracker</a></div>
 
 <h1>Combat Tracker</h1>
 
@@ -62,12 +62,14 @@ Learn about the licensing of the data of this tool in the license.html file loca
 
 <div class="combat-controls">
     <button onclick="nextTurn()">Next Turn</button>
+    <span id="roundDisplay" style="font-size:16px;font-weight:bold;white-space:nowrap;">Round: <span id="roundNum">1</span></span>
     <button onclick="resetCombat()">Reset</button>
     <input type="file" id="importFile" accept=".json" style="display: none" onchange="importCombat(event)">
     <button onclick="document.getElementById('importFile').click()">Import JSON</button>
     <button onclick="exportCombat()">Export JSON</button>
     <button onclick="copyInitiativeText()">Copy Text</button>
     <span id="autosaveStatus" style="font-size: 12px; color: #4caf50; opacity: 0; transition: opacity 0.5s; margin-left: 4px;"></span>
+    <span id="ctSyncStatus" style="font-size:12px;color:#2980b9;opacity:0;transition:opacity 0.5s;margin-left:4px;"></span>
 </div>
 
 <table id="combatTable">
@@ -101,14 +103,39 @@ let monsters = [];
 let monsterSources = [];
 let selectedSource = '';
 let rollHistory = [];
+let currentRound = 1;
 
 const AUTOSAVE_KEY = 'combatTracker_autosave';
+const CT_CHANNEL   = 'adb-combat';
+
+// ── BroadcastChannel: sends round-complete and reset to Conditions Tracker ──
+let _bc;
+try { _bc = new BroadcastChannel(CT_CHANNEL); } catch (_) {}
+
+function _bcSend(msg) {
+    if (_bc) try { _bc.postMessage(msg); } catch (_) {}
+}
+
+function _flashCtSync(text) {
+    const el = document.getElementById('ctSyncStatus');
+    if (!el) return;
+    el.textContent = text;
+    el.style.opacity = '1';
+    clearTimeout(el._t);
+    el._t = setTimeout(() => { el.style.opacity = '0'; }, 2000);
+}
+
+function _updateRoundDisplay() {
+    const el = document.getElementById('roundNum');
+    if (el) el.textContent = currentRound;
+}
 
 function saveCombatState() {
     try {
         localStorage.setItem(AUTOSAVE_KEY, JSON.stringify({
             combatants: combatants,
             currentTurnIndex: currentTurnIndex,
+            currentRound: currentRound,
             rollHistory: rollHistory
         }));
         const el = document.getElementById('autosaveStatus');
@@ -129,7 +156,9 @@ function restoreCombatState() {
         if (!state.combatants || !Array.isArray(state.combatants)) return false;
         combatants = state.combatants;
         currentTurnIndex = state.currentTurnIndex || 0;
+        currentRound = state.currentRound || 1;
         rollHistory = state.rollHistory || [];
+        _updateRoundDisplay();
         const histDiv = document.getElementById('rollHistory');
         if (histDiv && rollHistory.length > 0) {
             histDiv.innerHTML = rollHistory.join('<br>');
@@ -759,8 +788,11 @@ function resetCombat() {
     if (confirm('Are you sure you want to reset the combat? This will remove all combatants.')) {
         combatants = [];
         currentTurnIndex = 0;
+        currentRound = 1;
         rollHistory = [];
         localStorage.removeItem(AUTOSAVE_KEY);
+        _updateRoundDisplay();
+        _bcSend({ type: 'combat-reset' });
         renderCombatTable();
         const histDiv = document.getElementById('rollHistory');
         if (histDiv) histDiv.innerHTML = '';
@@ -770,6 +802,13 @@ function resetCombat() {
 function nextTurn() {
     if (combatants.length === 0) return;
     currentTurnIndex = (currentTurnIndex + 1) % combatants.length;
+    if (currentTurnIndex === 0) {
+        // Full round completed — advance counter and notify Conditions Tracker
+        currentRound++;
+        _updateRoundDisplay();
+        _bcSend({ type: 'round-complete', round: currentRound });
+        _flashCtSync('↔ Conditions Tracker: round advanced');
+    }
     renderCombatTable();
 }
 

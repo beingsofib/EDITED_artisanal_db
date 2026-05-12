@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+<meta name="robots" content="noindex">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="../../css_js/5eadb.css">
+<title>Dungeon Room Contents Generator</title>
+</head>
+<body>
+<div><a href="../../index.html">5e Artisanal Database</a> → <a href="../index.html">Homebrew Generators</a> → Dungeon Room Contents</div>
+
+<h1>Dungeon Room Contents</h1>
+
+<select id="tierSelect" onchange="selectTier()">
+    <option value="minor">Minor (levels 1–4)</option>
+    <option value="standard" selected>Standard (levels 5–10)</option>
+    <option value="deadly">Deadly (levels 10+)</option>
+</select>
+<button onclick="generateContent()">Roll</button>
+
+<div id="output">
+    <em>Click the button above to generate content...</em>
+</div>
+
+<!-- Load shared common data -->
+<script src="../css_js/common_generator_data.js"></script>
+<script src="../css_js/generator.js"></script>
+<script src="../custom_css_js/homebrew_generator.js"></script>
+
+<script>
+// ── Shared data used by all tiers ────────────────────────────────────────
+
+const sharedData = `
+
+dungeon_creature_count
+    a lone
+    a lone
+    a pair of
+    a pair of
+    three
+    [[2-4]]
+    [[3-5]]
+    [[3-6]]
+    [[4-8]] (minion pack)
+
+dungeon_creature_state
+    unaware — feeding or resting
+    unaware — distracted by argument
+    unaware — sleeping or dormant
+    unaware — occupied with a mundane task
+    on guard — something disturbed them recently
+    fully alerted — they are aware of intruders
+    mid-ritual, attention fixed on the altar
+    guarding a prisoner bound in the corner
+    fighting amongst themselves over loot or rank
+    patrolling — they return in [[2-4]] rounds
+    tending a wounded companion
+    worshipping — a loud noise may break their trance (DC 12 Stealth)
+
+dungeon_treasure_where
+    in a locked iron chest tucked against the far wall
+    in a rotted leather sack buried under rubble
+    hidden beneath a loose flagstone (DC 15 Investigation)
+    on the body of the most powerful creature here
+    in an unlocked wooden chest, plainly visible
+    in a niche behind a removable stone block (DC 13 Investigation)
+    in a wax-sealed ceramic pot wedged into a wall crack
+    in a worn leather pouch hanging from a hook by the door
+    scattered across the floor amid the debris
+    inside the hollow base of a stone idol (DC 14 Investigation)
+    buried in a heap of old bones (DC 13 Investigation)
+    in an iron box bolted to the wall — locked (DC 14 Thieves' Tools)
+
+dungeon_trap
+    tripwire (DC 12 Perception) — rings a bell, alerting all nearby creatures
+    pressure plate (DC 14 Perception) — dart spray from the north wall (2d6 piercing, DC 13 Dex save for half)
+    false floor panel (DC 15 Perception) — 10-ft. spike pit (2d6 fall + 2d6 piercing)
+    glyph of warding (DC 13 Investigation) — 4d8 {damage_type} damage in a 20-ft. radius, DC 14 Dex save for half
+    tripwire (DC 12 Perception) — swinging pendulum or stone slab (2d10 bludgeoning, DC 13 Dex save for half)
+    contact poison on a handle or latch (DC 14 Perception) — DC 13 Con save or poisoned for 1 hour
+    false door triggers a deadfall (DC 14 Perception) — 4d8 bludgeoning damage, DC 15 Dex save for half
+    poison gas released from floor vents (DC 15 Perception) — DC 14 Con save or poisoned and incapacitated for 1 minute
+    collapsing ceiling section (DC 16 Perception) — 4d10 bludgeoning, DC 14 Dex save for half; area becomes difficult terrain
+    pressure plate (DC 13 Perception) — a hidden portcullis drops, sealing the room
+    magical darkness activates when the threshold is crossed — 20-ft. radius, lasts 10 minutes
+    ankle snare of braided wire (DC 12 Perception) — hoists target into the air; DC 14 Athletics to break free
+
+dungeon_hazard
+    yellow mould colony in a corner — disturbing it releases spores (2d6 poison damage, DC 13 Con save for half) in a 10-ft. radius
+    green slime drips from the ceiling above the door — DC 12 Perception to notice; 5 (1d10) acid damage per round on contact
+    leaking gas pocket in the east wall — open flames risk explosion (3d6 fire, DC 13 Dex save for half, 20-ft. radius)
+    heavy toxic gas pooled near floor level — creatures within 3 ft. of the ground take 1d4 poison damage per minute
+    unstable floor (DC 13 Perception) — certain sections crumble under 150+ lbs; 10-ft. drop into a pit
+    dormant summoning circle — triggers if entered without the correct sign (DC 15 Investigation to disable), summons [[1-3]] hostile shadows or imps
+    extreme cold permeates the chamber — unprotected creatures take 1d6 cold damage per minute; floors are icy difficult terrain
+    pool of contact acid in a low depression (DC 13 Perception) — 2d6 acid damage on contact
+    necrotic emanation from the far wall — living creatures take 1 necrotic damage at the start of each of their turns
+    ceiling cracked and on the verge of collapse — vibration or force has a 50% chance of triggering a partial cave-in (4d10 bludgeoning, DC 15 Dex save for half)
+    web-filled upper section (giant spider webs) — passing through requires DC 13 Strength or restrained; webs can be burned
+
+`;
+
+// ── Per-tier data ─────────────────────────────────────────────────────────
+
+const tierData = {
+
+minor: `
+template
+    {minor_room_result}
+
+minor_room_result
+    {result_empty} ^3
+    {result_minor_treasure_only} ^2
+    {result_minor_monster_only} ^3
+    {result_minor_monster_treasure} ^4
+    {result_minor_trapped} ^2
+    {result_minor_trapped_treasure}
+    {result_hazard} ^2
+
+result_empty
+    <p><strong>Empty</strong><br>No creatures, no treasure in plain sight, no obvious trap.</p>
+
+result_minor_treasure_only
+    <p><strong>Empty — Abandoned Goods</strong><br>No creatures.<br><strong>Treasure:</strong> {dungeon_treasure_where} — {minor_treasure}<br><em>No trap.</em></p>
+
+result_minor_monster_only
+    <p><strong>Occupied</strong><br><strong>Creatures:</strong> {dungeon_creature_count} {minor_creature}<br><strong>State:</strong> {dungeon_creature_state}<br><em>No treasure. No trap.</em></p>
+
+result_minor_monster_treasure
+    <p><strong>Occupied + Treasure</strong><br><strong>Creatures:</strong> {dungeon_creature_count} {minor_creature}<br><strong>State:</strong> {dungeon_creature_state}<br><strong>Treasure:</strong> {dungeon_treasure_where} — {minor_treasure}</p>
+
+result_minor_trapped
+    <p><strong>Trapped — Empty</strong><br>No creatures.<br><strong>Trap:</strong> {dungeon_trap}<br><em>No treasure.</em></p>
+
+result_minor_trapped_treasure
+    <p><strong>Trapped — With Loot</strong><br>No creatures.<br><strong>Trap:</strong> {dungeon_trap}<br><strong>Treasure:</strong> {dungeon_treasure_where} — {minor_treasure}</p>
+
+result_hazard
+    <p><strong>Hazard</strong><br>No creatures.<br><strong>Hazard:</strong> {dungeon_hazard}</p>
+
+minor_creature
+    Kobold Warrior ^3
+    Kobold Trapsmith ^2
+    Winged Kobold
+    Giant Rat ^3
+    Swarm of Rats ^2
+    Swarm of Bats ^2
+    Stirge ^3
+    Swarm of Stirges ^2
+    Giant Centipede ^2
+    Giant Wolf Spider ^2
+    Zombie ^3
+    Skeleton Warrior ^3
+    Cultist ^2
+    Cultist Fanatic
+    Goblin Warrior ^3
+    Goblin Minion ^2
+    Goblin Hexer
+    Bandit ^2
+    Bandit Captain
+    Myconid Sprout
+    Darkmantle
+    Piercer
+    Troglodyte
+
+minor_treasure
+    [[30-180]] cp and [[10-60]] sp
+    [[20-100]] sp
+    [[20-100]] sp
+    [[10-60]] sp and [[3-12]] gp
+    [[10-60]] sp and [[3-12]] gp
+    [[5-30]] gp
+    [[5-30]] gp
+    [[5-20]] gp and {valuable_item}
+    [[3-15]] gp and a potion of {potion_type}
+    [[2-10]] gp and a spell scroll ({spell})
+    a {gem} worth [[20-80]] gp
+
+`,
+
+standard: `
+template
+    {standard_room_result}
+
+standard_room_result
+    {result_empty} ^3
+    {result_standard_treasure_only} ^2
+    {result_standard_monster_only} ^3
+    {result_standard_monster_treasure} ^4
+    {result_standard_trapped} ^2
+    {result_standard_trapped_treasure}
+    {result_hazard} ^2
+
+result_empty
+    <p><strong>Empty</strong><br>No creatures, no treasure in plain sight, no obvious trap.</p>
+
+result_standard_treasure_only
+    <p><strong>Empty — Abandoned Cache</strong><br>No creatures.<br><strong>Treasure:</strong> {dungeon_treasure_where} — {standard_treasure}<br><em>No trap.</em></p>
+
+result_standard_monster_only
+    <p><strong>Occupied</strong><br><strong>Creatures:</strong> {dungeon_creature_count} {standard_creature}<br><strong>State:</strong> {dungeon_creature_state}<br><em>No treasure. No trap.</em></p>
+
+result_standard_monster_treasure
+    <p><strong>Occupied + Treasure</strong><br><strong>Creatures:</strong> {dungeon_creature_count} {standard_creature}<br><strong>State:</strong> {dungeon_creature_state}<br><strong>Treasure:</strong> {dungeon_treasure_where} — {standard_treasure}</p>
+
+result_standard_trapped
+    <p><strong>Trapped — Empty</strong><br>No creatures.<br><strong>Trap:</strong> {dungeon_trap}<br><em>No treasure.</em></p>
+
+result_standard_trapped_treasure
+    <p><strong>Trapped — With Cache</strong><br>No creatures.<br><strong>Trap:</strong> {dungeon_trap}<br><strong>Treasure:</strong> {dungeon_treasure_where} — {standard_treasure}</p>
+
+result_hazard
+    <p><strong>Hazard</strong><br>No creatures.<br><strong>Hazard:</strong> {dungeon_hazard}</p>
+
+standard_creature
+    Hobgoblin Warrior ^3
+    Hobgoblin Captain ^2
+    Hobgoblin Warlord
+    Bugbear Warrior ^3
+    Bugbear Stalker ^2
+    Gnoll Warrior ^2
+    Gnoll Pack Lord
+    Shadow ^3
+    Ghoul ^3
+    Ghast ^2
+    Wight ^2
+    Specter ^2
+    Animated Armor ^2
+    Shield Guardian
+    Gray Ooze ^2
+    Ochre Jelly ^2
+    Gelatinous Cube ^2
+    Black Pudding
+    Wererat ^2
+    Doppelganger ^2
+    Gibbering Mouther
+    Mimic
+    Ogre ^2
+    Half-Ogre
+    Hell Hound ^2
+    Basilisk
+    Phase Spider
+
+standard_treasure
+    [[20-80]] gp
+    [[20-80]] gp
+    [[30-120]] gp
+    [[30-120]] gp
+    [[20-80]] gp and {valuable_item}
+    [[20-80]] gp and {valuable_item}
+    [[15-60]] gp and a potion of {potion_type}
+    [[15-60]] gp and a spell scroll ({spell})
+    [[25-100]] gp and a {common_magic}
+    [[40-160]] gp and a {common_magic}
+    [[30-100]] gp and an {uncommon_magic}
+    a {gem} worth [[50-200]] gp
+    [[2-4]] {gem}s worth [[30-100]] gp each
+
+`,
+
+deadly: `
+template
+    {deadly_room_result}
+
+deadly_room_result
+    {result_empty} ^2
+    {result_deadly_treasure_only} ^2
+    {result_deadly_monster_only} ^3
+    {result_deadly_monster_treasure} ^5
+    {result_deadly_trapped} ^2
+    {result_deadly_trapped_treasure}
+    {result_hazard}
+
+result_empty
+    <p><strong>Empty</strong><br>No creatures, no treasure in plain sight, no obvious trap.</p>
+
+result_deadly_treasure_only
+    <p><strong>Empty — Hidden Hoard</strong><br>No creatures.<br><strong>Treasure:</strong> {dungeon_treasure_where} — {deadly_treasure}<br><em>No trap.</em></p>
+
+result_deadly_monster_only
+    <p><strong>Occupied</strong><br><strong>Creatures:</strong> {dungeon_creature_count} {deadly_creature}<br><strong>State:</strong> {dungeon_creature_state}<br><em>No treasure. No trap.</em></p>
+
+result_deadly_monster_treasure
+    <p><strong>Occupied + Hoard</strong><br><strong>Creatures:</strong> {dungeon_creature_count} {deadly_creature}<br><strong>State:</strong> {dungeon_creature_state}<br><strong>Treasure:</strong> {dungeon_treasure_where} — {deadly_treasure}</p>
+
+result_deadly_trapped
+    <p><strong>Trapped — Empty</strong><br>No creatures.<br><strong>Trap:</strong> {dungeon_trap}<br><em>No treasure.</em></p>
+
+result_deadly_trapped_treasure
+    <p><strong>Trapped — Guarded Hoard</strong><br>No creatures.<br><strong>Trap:</strong> {dungeon_trap}<br><strong>Treasure:</strong> {dungeon_treasure_where} — {deadly_treasure}</p>
+
+result_hazard
+    <p><strong>Hazard</strong><br>No creatures.<br><strong>Hazard:</strong> {dungeon_hazard}</p>
+
+deadly_creature
+    Vampire Spawn ^2
+    Vampire
+    Wraith ^2
+    Banshee ^2
+    Mummy ^2
+    Mummy Lord
+    Flesh Golem ^2
+    Stone Golem
+    Iron Golem
+    Mind Flayer ^2
+    Intellect Devourer ^2
+    Aboleth
+    Troll ^2
+    Ettin
+    Oni
+    Night Hag
+    Death Knight
+    Lich Servitor
+    Doppelganger Master
+    Young Dragon
+    Behir
+    Beholder Zombie
+    Beholder
+
+deadly_treasure
+    [[100-400]] gp
+    [[100-400]] gp
+    [[200-800]] gp
+    [[200-800]] gp
+    [[100-400]] gp and an {uncommon_magic}
+    [[100-400]] gp and an {uncommon_magic}
+    [[200-600]] gp and a {rare_magic}
+    [[300-800]] gp and a {rare_magic}
+    [[100-400]] gp and [[2-4]] {gem}s worth [[80-300]] gp each
+    [[200-600]] gp and a {gem} worth [[200-800]] gp
+    [[150-500]] gp, a {rare_magic}, and a {gem} worth [[100-400]] gp
+    a {rare_magic} and [[3-6]] {gem}s worth [[100-300]] gp each
+
+`
+
+};
+
+// ── Tier selection ────────────────────────────────────────────────────────
+
+function buildDataText(tier) {
+    const tierBlock = tierData[tier] || tierData.standard;
+    return addCommonDataTo(tierBlock + sharedData);
+}
+
+function selectTier() {
+    const tier = document.getElementById('tierSelect').value;
+    window.dataText = buildDataText(tier);
+    generateContent();
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────
+
+window.dataText = buildDataText(document.getElementById('tierSelect').value);
+
+</script>
+
+</body>
+</html>
